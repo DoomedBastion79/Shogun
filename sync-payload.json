@@ -1,7 +1,7 @@
 {
   "moduleId": "assistant",
-  "version": "0.3.1",
-  "generated": "2026-04-10T19:46:06.617Z",
+  "version": "0.3.2",
+  "generated": "2026-04-10T21:47:41.225Z",
   "packs": {
     "classes": [
       {
@@ -265,6 +265,262 @@
               },
               "level": 19,
               "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "rXs5Q7adqAQmLAV6": {
+              "_id": "rXs5Q7adqAQmLAV6",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.igj965Vzan00txge",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.jjxE28rNQ71Q721K",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 1,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "LTLJsGv99PXfG3nU": {
+              "_id": "LTLJsGv99PXfG3nU",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.XVhqNqmKJUxw0iMH",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 2,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "cegvfAXj4pnc6Yuv": {
+              "_id": "cegvfAXj4pnc6Yuv",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.cSpT6WQt5JtRK6RO",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 3,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "V8dZiscg76pbZ5iS": {
+              "_id": "V8dZiscg76pbZ5iS",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.o27IEGYia5pAOyG7",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 5,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "EmjuqZLra1NMO9QY": {
+              "_id": "EmjuqZLra1NMO9QY",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.E1A4IToMRDGbO25h",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 7,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "wpPns1dWfllDtsFo": {
+              "_id": "wpPns1dWfllDtsFo",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.9apcyJrn2K8wVoVB",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 10,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "gCELwIO7woLqduqw": {
+              "_id": "gCELwIO7woLqduqw",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.mdloBJLKqkXlZrzI",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 13,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "Gz99KJQIx4PagzA0": {
+              "_id": "Gz99KJQIx4PagzA0",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.rDg2WHdNKxpaDMM5",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 14,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "FUpygOcDggitJmhm": {
+              "_id": "FUpygOcDggitJmhm",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.OxoSK0gRlM4pEudY",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 20,
+              "title": "Features",
               "hint": "",
               "icon": null,
               "classRestriction": "",
@@ -596,6 +852,558 @@
               "icon": null,
               "classRestriction": "",
               "flags": {}
+            },
+            "ljRLXAdlpphJhR3H": {
+              "_id": "ljRLXAdlpphJhR3H",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.LOMtv9Z3C5PYVRJN",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.qLlVfMzAj0AcSlNf",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 1,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "UvRuL7t3HID11ry6": {
+              "_id": "UvRuL7t3HID11ry6",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.L4Cmtl53svSRPEzt",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.YUdJqkVubGl0VklY",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 2,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "efWnY5mTgsDrXX8z": {
+              "_id": "efWnY5mTgsDrXX8z",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.v8Zb0uUnNXuIVHEI",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.hzTDBygeoOeKakMc",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.zFpFpL9G8KOqORQc",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 3,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "YZtfQwll5emAu37D": {
+              "_id": "YZtfQwll5emAu37D",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.OsbVJUQC1CSl9JLy",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.anU4xKwQVRvNfgsr",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 4,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "moy1yTSd4OF5jTIa": {
+              "_id": "moy1yTSd4OF5jTIa",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.j8RWkvJ6pJejOsi0",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.X3W2F9qGT1w9yYOM",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 5,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "DS99xDc5cyzLdtFT": {
+              "_id": "DS99xDc5cyzLdtFT",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.UzZaEvtUIhLBpbR0",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.pVKVjuTueeWDCfet",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 6,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "OBIerVISA2xeWxY1": {
+              "_id": "OBIerVISA2xeWxY1",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.3R78HYBJ7tDY3ROh",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.hNKQyFQddYcrLQYf",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 7,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "Vey6ZIVl83JEvX04": {
+              "_id": "Vey6ZIVl83JEvX04",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.u8uMtX2m9VS0h8GW",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 8,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "1mdv57LctiEwnHrA": {
+              "_id": "1mdv57LctiEwnHrA",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.EKAz8i2KQaZzFZam",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 9,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "HlBsrhDtNM6TSCFW": {
+              "_id": "HlBsrhDtNM6TSCFW",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.Vge5De0as1xgwmup",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.WyFzQ2bQlTMuhNjo",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 10,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "cWdbuVT9EDaBN6ui": {
+              "_id": "cWdbuVT9EDaBN6ui",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.sGWQmTGl5lp5w8gQ",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.6sVyJfZdATjpwVs7",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 11,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "gIHkjyc2h9L7yXxu": {
+              "_id": "gIHkjyc2h9L7yXxu",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.U0bLuKqRhkGgEfQQ",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 12,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "UEcH3XqMIAI5MgoI": {
+              "_id": "UEcH3XqMIAI5MgoI",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.qeVIF5WNhtx15Ahr",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 13,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "R6RLRFiGNvgC7NYP": {
+              "_id": "R6RLRFiGNvgC7NYP",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.ZmzK7Lhdt52TMZWR",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.cQib673HqeYSg5cz",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 14,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "5Fi9UoDtINVj1o65": {
+              "_id": "5Fi9UoDtINVj1o65",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.Zq2O50gdZ518VlFj",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 15,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "p8dwcKQN2XXbue8U": {
+              "_id": "p8dwcKQN2XXbue8U",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.OXhVk00l3sRuBrhm",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 16,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "okFsDZtj201aZc0k": {
+              "_id": "okFsDZtj201aZc0k",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.7OfFHvg87MRD7A5r",
+                    "optional": false
+                  },
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.HwMLtbMWyK3OawIK",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 18,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "zUrABde9XOVxoGom": {
+              "_id": "zUrABde9XOVxoGom",
+              "type": "ItemGrant",
+              "configuration": {
+                "items": [
+                  {
+                    "uuid": "Compendium.assistant.classfeatures.S8IWPVCfZBb73v1D",
+                    "optional": false
+                  }
+                ],
+                "optional": false,
+                "spell": {
+                  "ability": [],
+                  "preparation": "",
+                  "uses": {
+                    "max": "",
+                    "per": ""
+                  }
+                }
+              },
+              "value": {},
+              "level": 20,
+              "title": "Features",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
             }
           },
           "hd": {
@@ -615,6 +1423,2648 @@
           "spellcasting": {
             "progression": "none",
             "ability": ""
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      }
+    ],
+    "classfeatures": [
+      {
+        "_id": "mdloBJLKqkXlZrzI",
+        "name": "Absorbing Touch",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "absorbing-touch",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 13",
+          "identifier": "absorbing-touch",
+          "description": {
+            "value": "<p>As an action, absorb one spell effect on yourself or one willing creature you touch. Uses: CHA mod per long rest.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "rDg2WHdNKxpaDMM5",
+        "name": "Arcane Appetite",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "arcane-appetite",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 14",
+          "identifier": "arcane-appetite",
+          "description": {
+            "value": "<p>You are resistant to magic and magical effects.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "9apcyJrn2K8wVoVB",
+        "name": "Arcane Sight",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "arcane-sight",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 10",
+          "identifier": "arcane-sight",
+          "description": {
+            "value": "<p>You permanently see as if *detect magic* is cast. At 14th level, you gain truesight.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "cSpT6WQt5JtRK6RO",
+        "name": "Bastion Order",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "bastion-order",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 3",
+          "identifier": "bastion-order",
+          "description": {
+            "value": "<p>Choose a subclass: Order of the Sword, Order of the Shield, or Order of the Staff. Features at 3, 5, 10, 18.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "o27IEGYia5pAOyG7",
+        "name": "Bolster Spell",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "bolster-spell",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 5",
+          "identifier": "bolster-spell",
+          "description": {
+            "value": "<p>You can use overload points to upcast a spell (up to your max spell level). Cannot use this to cast higher-level spells you don't have slots for — only to increase the casting level of a spell already being cast from a slot.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "OxoSK0gRlM4pEudY",
+        "name": "Divine Mastery",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "divine-mastery",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 20",
+          "identifier": "divine-mastery",
+          "description": {
+            "value": "<p>Cast one 8th-level and one 9th-level spell per long rest from a specific list:</p>\n<p>*8th:* Antimagic Field, Control Weather, Dominate Monster, Earthquake,</p>\n<p>Holy Aura, Mind Blank, Sunburst</p>\n<p>*9th:* Invulnerability, Mass Heal, Prismatic Wall, True Resurrection, Wish</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "E1A4IToMRDGbO25h",
+        "name": "Magic Field",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "magic-field",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 7",
+          "identifier": "magic-field",
+          "description": {
+            "value": "<p>When you are the target of a magical effect or within a spell's area, make a CHA save (DC 14 + spell level). On failure, you automatically absorb the spell via Spell Absorption. This is not considered magical for advantage purposes.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "XVhqNqmKJUxw0iMH",
+        "name": "Spell Absorption",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "spell-absorption",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 2",
+          "identifier": "spell-absorption",
+          "description": {
+            "value": "<p>As a reaction when an enemy you can see within 60 ft casts a spell, you can absorb it. The absorbed spell's levels are distributed among your empty spell slots. You may make an Arcana check against the caster's DC to identify the spell first. Range increases to 120 ft at 12th level and 180 ft at 16th level.</p>\n<p><strong>Overload Pool:</strong> Spell levels that cannot fit into empty slots go into an</p>\n<p>overload pool. Using overload magic to cast costs 1d6 max HP per overload level used (not mitigable; restored on long rest).</p>\n<p><strong>Mass Discharge:</strong> At end of your turn, if overload is not empty, the raw</p>\n<p>magic discharges: 1d10 psychic per overload point to yourself, and every creature within 15 ft makes an INT save (DC 12 + overload points) for half.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "igj965Vzan00txge",
+        "name": "Spellcasting",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "spellcasting",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 1",
+          "identifier": "spellcasting",
+          "description": {
+            "value": "<p>Uses the Cleric spell list with Charisma as the casting stat. Known spells (not prepared) — learn 2 at 1st level and more as shown in the table. Can swap one known spell per level-up. Ritual casting supported. Spellcasting focus: holy symbol, staff, or wand.</p>\n<p>*Spell save DC = 8 + PB + CHA mod*</p>\n<p>*Spell attack = PB + CHA mod*</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "jjxE28rNQ71Q721K",
+        "name": "Unarmored Defense",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md",
+            "slug": "unarmored-defense",
+            "className": "bastion"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Bastion 1",
+          "identifier": "unarmored-defense",
+          "description": {
+            "value": "<p>While wearing no armor, AC = 10 + DEX mod + CHA mod.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "Fan Content Policy",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "sGWQmTGl5lp5w8gQ",
+        "name": "Advanced Energy Usage",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "advanced-energy-usage",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 11",
+          "identifier": "advanced-energy-usage",
+          "description": {
+            "value": "<p>Pick two \"ki energy use\" options — imbuing objects into improvised weapons, rendering them volatile, etc. Ki costs scale with object size.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "U0bLuKqRhkGgEfQQ",
+        "name": "Advanced Monk Training",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "advanced-monk-training",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 12",
+          "identifier": "advanced-monk-training",
+          "description": {
+            "value": "<p>Advanced Monk Training — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "YUdJqkVubGl0VklY",
+        "name": "Body Improvements",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "body-improvements",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 2",
+          "identifier": "body-improvements",
+          "description": {
+            "value": "<p>Proficiency in Perception and Insight (doubled if already proficient).</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "zFpFpL9G8KOqORQc",
+        "name": "Deflect Projectiles",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "deflect-projectiles",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 3",
+          "identifier": "deflect-projectiles",
+          "description": {
+            "value": "<p>Reaction reduces ranged damage by Martial Arts die + Dex + monk level; reducing to 0 lets you throw the projectile back for 1 ki. Extra dedicated reactions unlock at 8 and 13.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "ZmzK7Lhdt52TMZWR",
+        "name": "Diamond Soul",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "diamond-soul",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 14",
+          "identifier": "diamond-soul",
+          "description": {
+            "value": "<p>Proficient in all saves; spend 1 ki to reroll a failed save.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "7OfFHvg87MRD7A5r",
+        "name": "Empty Body",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "empty-body",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 18",
+          "identifier": "empty-body",
+          "description": {
+            "value": "<p>4 ki for 1-minute invisibility with resistance to all damage except force; 6 ki to cast *astral projection* on yourself.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "S8IWPVCfZBb73v1D",
+        "name": "Enlightenment",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "enlightenment",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 20",
+          "identifier": "enlightenment",
+          "description": {
+            "value": "<p>+4 to Str or Dex, Con, and Wis. Once per turn activate a 1-ki feature free. Bonus action to regain (2 × Wis mod) ki, uses = ½ PB. Spend 1 ki to manifest a Third Eye — 20 ft truesight and immunity to surprise for 1 min.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "6sVyJfZdATjpwVs7",
+        "name": "Extra Attack (2)",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "extra-attack-2",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 11",
+          "identifier": "extra-attack-2",
+          "description": {
+            "value": "<p>Extra Attack (2) — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "j8RWkvJ6pJejOsi0",
+        "name": "Extra Attack",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "extra-attack",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 5",
+          "identifier": "extra-attack",
+          "description": {
+            "value": "<p>Two attacks at 5, three at 11.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "UzZaEvtUIhLBpbR0",
+        "name": "Ki-Empowered Strikes",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ki-empowered-strikes",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 6",
+          "identifier": "ki-empowered-strikes",
+          "description": {
+            "value": "<p>Unarmed strikes (or monk weapons, your pick) count as magical and add a Wisdom-scaled damage die. Both options become magical at 11.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "u8uMtX2m9VS0h8GW",
+        "name": "Ki-Enhanced Critical",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ki-enhanced-critical",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 8",
+          "identifier": "ki-enhanced-critical",
+          "description": {
+            "value": "<p>While you have at least 1 ki, crit range expands to 19–20; at 16, 18–20.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "hzTDBygeoOeKakMc",
+        "name": "Ki Enhancement",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ki-enhancement",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 3",
+          "identifier": "ki-enhancement",
+          "description": {
+            "value": "<p>Pick one of Empowered Strike, Energy Armor, or Weapon Enhancement — each burns ki for different offensive/defensive riders.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "EKAz8i2KQaZzFZam",
+        "name": "Ki Recovery",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ki-recovery",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 9",
+          "identifier": "ki-recovery",
+          "description": {
+            "value": "<p>Regain 1 ki at the start of each of your combat turns.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "L4Cmtl53svSRPEzt",
+        "name": "Ki",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ki",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 2",
+          "identifier": "ki",
+          "description": {
+            "value": "<p>Pool of ki points recovered on a short rest after 30 minutes of meditation. Base uses: <strong>Flurry of Blows</strong> (1 ki, two bonus-action strikes), <strong>Patient Defense</strong> (1 ki, Dodge as bonus action), <strong>Step of the Wind</strong> (1 ki, Dash/Disengage as bonus action, doubled jump, no OA). Ki save DC = 8 + PB + Wis.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "cQib673HqeYSg5cz",
+        "name": "Limit Break (2)",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "limit-break-2",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 14",
+          "identifier": "limit-break-2",
+          "description": {
+            "value": "<p>Limit Break (2) — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "HwMLtbMWyK3OawIK",
+        "name": "Limit Break (3)",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "limit-break-3",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 18",
+          "identifier": "limit-break-3",
+          "description": {
+            "value": "<p>Limit Break (3) — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "Vge5De0as1xgwmup",
+        "name": "Limit Break",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "limit-break",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 10",
+          "identifier": "limit-break",
+          "description": {
+            "value": "<p>+2 to Str or Dex (pick), Con, and Wis, raising the cap — to 22 at 10, 24 at 14, 26 at 18.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "qLlVfMzAj0AcSlNf",
+        "name": "Martial Arts",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "martial-arts",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 1",
+          "identifier": "martial-arts",
+          "description": {
+            "value": "<p>Use Dex for unarmed and monk-weapon attacks; substitute the Martial Arts die for normal damage; get a bonus-action unarmed strike whenever you Attack with an unarmed strike or monk weapon.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "pVKVjuTueeWDCfet",
+        "name": "Monk Training",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "monk-training",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 6",
+          "identifier": "monk-training",
+          "description": {
+            "value": "<p>Monk Training — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "WyFzQ2bQlTMuhNjo",
+        "name": "Purity of Body",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "purity-of-body",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 10",
+          "identifier": "purity-of-body",
+          "description": {
+            "value": "<p>Immune to disease and poison.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "3R78HYBJ7tDY3ROh",
+        "name": "Resistant",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "resistant",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 7",
+          "identifier": "resistant",
+          "description": {
+            "value": "<p>Pick a high ability (16+); successful saves of that ability for half damage now take no damage, failures take half. A second option unlocks at 17.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "OsbVJUQC1CSl9JLy",
+        "name": "Slow Fall",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "slow-fall",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 4",
+          "identifier": "slow-fall",
+          "description": {
+            "value": "<p>Reaction reduces falling damage by 5 × monk level.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "hNKQyFQddYcrLQYf",
+        "name": "Stillness of Mind",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "stillness-of-mind",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 7",
+          "identifier": "stillness-of-mind",
+          "description": {
+            "value": "<p>Action to remove charmed or frightened from yourself.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "X3W2F9qGT1w9yYOM",
+        "name": "Stunning Strike",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "stunning-strike",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 5",
+          "identifier": "stunning-strike",
+          "description": {
+            "value": "<p>1 ki on a melee hit forces a Con save or stun until end of your next turn. Later options let you paralyze or blind instead.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "Zq2O50gdZ518VlFj",
+        "name": "Timeless Body",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "timeless-body",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 15",
+          "identifier": "timeless-body",
+          "description": {
+            "value": "<p>No aging, no need for food or water, spend ki to extend breath-holding.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "qeVIF5WNhtx15Ahr",
+        "name": "Tongue of the Sun and Moon",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "tongue-of-the-sun-and-moon",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 13",
+          "identifier": "tongue-of-the-sun-and-moon",
+          "description": {
+            "value": "<p>Understand and be understood in any spoken language.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "OXhVk00l3sRuBrhm",
+        "name": "Ultimate Monk Training",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "ultimate-monk-training",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 16",
+          "identifier": "ultimate-monk-training",
+          "description": {
+            "value": "<p>Ultimate Monk Training — see class description for details.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "LOMtv9Z3C5PYVRJN",
+        "name": "Unarmored Mastery",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "unarmored-mastery",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 1",
+          "identifier": "unarmored-mastery",
+          "description": {
+            "value": "<p>While unarmored and without a shield, AC = 10 + Dex + Wis; gain bonus speed and can run along walls or across water while ki is active. Gains a limited flight option at 9 while holding at least 1 ki.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "anU4xKwQVRvNfgsr",
+        "name": "Unlocked Ki",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "unlocked-ki",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 4",
+          "identifier": "unlocked-ki",
+          "description": {
+            "value": "<p>Adds Abundant Step, Focused Aim, Ki Sphere at 4; Iron Fist, Karmic Strike, Weakening Touch, and Ki Surge at 10.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
+          }
+        },
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
+      },
+      {
+        "_id": "v8Zb0uUnNXuIVHEI",
+        "name": "Way of the Monk",
+        "type": "feat",
+        "img": "icons/svg/aura.svg",
+        "folder": null,
+        "sort": 0,
+        "ownership": {
+          "default": 0
+        },
+        "flags": {
+          "assistant": {
+            "sourcePath": "C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md",
+            "slug": "way-of-the-monk",
+            "className": "buddhist-monk"
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
+          }
+        },
+        "system": {
+          "type": {
+            "value": "class",
+            "subtype": ""
+          },
+          "requirements": "Buddhist Monk 3",
+          "identifier": "way-of-the-monk",
+          "description": {
+            "value": "<p>Pick a subclass; features at 3, 6, 11, 17.</p>",
+            "chat": ""
+          },
+          "source": {
+            "book": "Kagekuni Campaign",
+            "page": "",
+            "license": "CC BY-SA 3.0",
+            "custom": "",
+            "rules": "2024",
+            "revision": 1
+          },
+          "uses": {
+            "max": "",
+            "recovery": [],
+            "spent": 0
+          },
+          "properties": [],
+          "activities": {},
+          "enchant": {},
+          "prerequisites": {
+            "level": null
           }
         },
         "effects": [],
