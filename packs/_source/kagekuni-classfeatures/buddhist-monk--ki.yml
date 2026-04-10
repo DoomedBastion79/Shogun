@@ -1,0 +1,57 @@
+_id: L4Cmtl53svSRPEzt
+_key: '!items!L4Cmtl53svSRPEzt'
+name: Ki
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: ki
+    className: buddhist-monk
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: class
+    subtype: ''
+  requirements: Buddhist Monk 2
+  identifier: ki
+  description:
+    value: >-
+      <p>Pool of ki points recovered on a short rest after 30 minutes of meditation. Base uses: <strong>Flurry of
+      Blows</strong> (1 ki, two bonus-action strikes), <strong>Patient Defense</strong> (1 ki, Dodge as bonus action),
+      <strong>Step of the Wind</strong> (1 ki, Dash/Disengage as bonus action, doubled jump, no OA). Ki save DC = 8 + PB
+      + Wis.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

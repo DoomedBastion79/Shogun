@@ -1,0 +1,56 @@
+_id: o27IEGYia5pAOyG7
+_key: '!items!o27IEGYia5pAOyG7'
+name: Bolster Spell
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    slug: bolster-spell
+    className: bastion
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: class
+    subtype: ''
+  requirements: Bastion 5
+  identifier: bolster-spell
+  description:
+    value: >-
+      <p>You can use overload points to upcast a spell (up to your max spell level). Cannot use this to cast
+      higher-level spells you don't have slots for — only to increase the casting level of a spell already being cast
+      from a slot.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: Fan Content Policy
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

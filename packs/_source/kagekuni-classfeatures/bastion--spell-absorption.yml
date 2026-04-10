@@ -1,0 +1,66 @@
+_id: XVhqNqmKJUxw0iMH
+_key: '!items!XVhqNqmKJUxw0iMH'
+name: Spell Absorption
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    slug: spell-absorption
+    className: bastion
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: class
+    subtype: ''
+  requirements: Bastion 2
+  identifier: spell-absorption
+  description:
+    value: >-
+      <p>As a reaction when an enemy you can see within 60 ft casts a spell, you can absorb it. The absorbed spell's
+      levels are distributed among your empty spell slots. You may make an Arcana check against the caster's DC to
+      identify the spell first. Range increases to 120 ft at 12th level and 180 ft at 16th level.</p>
+
+      <p><strong>Overload Pool:</strong> Spell levels that cannot fit into empty slots go into an</p>
+
+      <p>overload pool. Using overload magic to cast costs 1d6 max HP per overload level used (not mitigable; restored
+      on long rest).</p>
+
+      <p><strong>Mass Discharge:</strong> At end of your turn, if overload is not empty, the raw</p>
+
+      <p>magic discharges: 1d10 psychic per overload point to yourself, and every creature within 15 ft makes an INT
+      save (DC 12 + overload points) for half.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: Fan Content Policy
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

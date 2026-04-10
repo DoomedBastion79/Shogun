@@ -825,6 +825,408 @@ system:
       icon: null
       classRestriction: ''
       flags: {}
+    ljRLXAdlpphJhR3H:
+      _id: ljRLXAdlpphJhR3H
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.LOMtv9Z3C5PYVRJN
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.qLlVfMzAj0AcSlNf
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 1
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    UvRuL7t3HID11ry6:
+      _id: UvRuL7t3HID11ry6
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.L4Cmtl53svSRPEzt
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.YUdJqkVubGl0VklY
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 2
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    efWnY5mTgsDrXX8z:
+      _id: efWnY5mTgsDrXX8z
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.v8Zb0uUnNXuIVHEI
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.hzTDBygeoOeKakMc
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.zFpFpL9G8KOqORQc
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    YZtfQwll5emAu37D:
+      _id: YZtfQwll5emAu37D
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.OsbVJUQC1CSl9JLy
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.anU4xKwQVRvNfgsr
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 4
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    moy1yTSd4OF5jTIa:
+      _id: moy1yTSd4OF5jTIa
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.j8RWkvJ6pJejOsi0
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.X3W2F9qGT1w9yYOM
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 5
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    DS99xDc5cyzLdtFT:
+      _id: DS99xDc5cyzLdtFT
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.UzZaEvtUIhLBpbR0
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.pVKVjuTueeWDCfet
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 6
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    OBIerVISA2xeWxY1:
+      _id: OBIerVISA2xeWxY1
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.3R78HYBJ7tDY3ROh
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.hNKQyFQddYcrLQYf
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 7
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    Vey6ZIVl83JEvX04:
+      _id: Vey6ZIVl83JEvX04
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.u8uMtX2m9VS0h8GW
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 8
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    1mdv57LctiEwnHrA:
+      _id: 1mdv57LctiEwnHrA
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.EKAz8i2KQaZzFZam
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 9
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    HlBsrhDtNM6TSCFW:
+      _id: HlBsrhDtNM6TSCFW
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.Vge5De0as1xgwmup
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.WyFzQ2bQlTMuhNjo
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 10
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    cWdbuVT9EDaBN6ui:
+      _id: cWdbuVT9EDaBN6ui
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.sGWQmTGl5lp5w8gQ
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.6sVyJfZdATjpwVs7
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 11
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    gIHkjyc2h9L7yXxu:
+      _id: gIHkjyc2h9L7yXxu
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.U0bLuKqRhkGgEfQQ
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 12
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    UEcH3XqMIAI5MgoI:
+      _id: UEcH3XqMIAI5MgoI
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.qeVIF5WNhtx15Ahr
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 13
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    R6RLRFiGNvgC7NYP:
+      _id: R6RLRFiGNvgC7NYP
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.ZmzK7Lhdt52TMZWR
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.cQib673HqeYSg5cz
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 14
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    5Fi9UoDtINVj1o65:
+      _id: 5Fi9UoDtINVj1o65
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.Zq2O50gdZ518VlFj
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 15
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    p8dwcKQN2XXbue8U:
+      _id: p8dwcKQN2XXbue8U
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.OXhVk00l3sRuBrhm
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 16
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    okFsDZtj201aZc0k:
+      _id: okFsDZtj201aZc0k
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.7OfFHvg87MRD7A5r
+            optional: false
+          - uuid: Compendium.assistant.classfeatures.HwMLtbMWyK3OawIK
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 18
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    zUrABde9XOVxoGom:
+      _id: zUrABde9XOVxoGom
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.classfeatures.S8IWPVCfZBb73v1D
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 20
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
   hd:
     denomination: d10
     additional: ''
