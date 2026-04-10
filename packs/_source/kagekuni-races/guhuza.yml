@@ -37,6 +37,10 @@ flags:
       related_npcs:
         - elder-benkei
       related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
 system:
   identifier: guhuza
   source:
@@ -138,10 +142,13 @@ system:
       configuration:
         sizes:
           - med
-      level: 0
       value: {}
-      flags: {}
+      level: 0
+      title: ''
       hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
     EEXSxEPXdh1dR2xO:
       _id: EEXSxEPXdh1dR2xO
       type: Trait
@@ -159,8 +166,10 @@ system:
           - languages:standard:common
       level: 0
       title: Languages
-      flags: {}
       hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
     sfwFONI3JenCdx1I:
       _id: sfwFONI3JenCdx1I
       type: AbilityScoreImprovement
@@ -170,29 +179,41 @@ system:
           int: 2
         cap: 2
         locked: []
-        recommendation: null
       value:
         type: asi
       level: 0
-      flags: {}
+      title: ''
       hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
   movement:
-    burrow: '0'
-    climb: '0'
-    fly: '0'
-    swim: '0'
+    burrow: ''
+    climb: ''
+    fly: ''
+    swim: ''
     walk: '30'
     units: ft
     hover: false
-    ignoredDifficultTerrain: []
   senses:
-    units: null
-    special: ''
     ranges:
       darkvision: 60
       blindsight: null
       tremorsense: null
       truesight: null
+    units: ft
+    special: ''
   type:
     value: humanoid
+    subtype: ''
+    custom: ''
 effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

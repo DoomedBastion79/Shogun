@@ -1,7 +1,7 @@
 {
   "moduleId": "assistant",
   "version": "0.2.5",
-  "generated": "2026-04-10T06:23:49.599Z",
+  "generated": "2026-04-10T06:33:46.839Z",
   "packs": {
     "classes": [
       {
@@ -80,6 +80,12 @@
               ],
               "related_quests": []
             }
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
           }
         },
         "system": {
@@ -101,34 +107,206 @@
               "_id": "cZVmZSM9W6SMSgjQ",
               "type": "HitPoints",
               "configuration": {},
-              "level": 0,
               "value": {},
-              "flags": {},
-              "hint": ""
+              "level": 0,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "dXEC2j9FMzjhfTHQ": {
+              "_id": "dXEC2j9FMzjhfTHQ",
+              "type": "Trait",
+              "configuration": {
+                "mode": "default",
+                "allowReplacements": false,
+                "grants": [
+                  "saves:dex",
+                  "saves:wis"
+                ],
+                "choices": []
+              },
+              "value": {
+                "chosen": [
+                  "saves:dex",
+                  "saves:wis"
+                ]
+              },
+              "level": 1,
+              "title": "Saving Throws",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "n7iUAe0Y3msnaCOC": {
+              "_id": "n7iUAe0Y3msnaCOC",
+              "type": "Trait",
+              "configuration": {
+                "mode": "default",
+                "allowReplacements": false,
+                "grants": [],
+                "choices": [
+                  {
+                    "count": 3,
+                    "pool": [
+                      "skills:acr",
+                      "skills:ath",
+                      "skills:his",
+                      "skills:ins",
+                      "skills:inv",
+                      "skills:nat",
+                      "skills:prc",
+                      "skills:rel",
+                      "skills:ste"
+                    ]
+                  }
+                ]
+              },
+              "value": {
+                "chosen": []
+              },
+              "level": 1,
+              "title": "Skills",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "dQsMKpOlfqg5FY3J": {
+              "_id": "dQsMKpOlfqg5FY3J",
+              "type": "Subclass",
+              "configuration": {},
+              "value": {},
+              "level": 3,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "E8hdNfrWzB3OBgUq": {
+              "_id": "E8hdNfrWzB3OBgUq",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 4,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "sFbbo4vykkdM6H1h": {
+              "_id": "sFbbo4vykkdM6H1h",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 6,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "KpTpaG42EPn6xgKr": {
+              "_id": "KpTpaG42EPn6xgKr",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 8,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "0mDJTo9LytZaYf1M": {
+              "_id": "0mDJTo9LytZaYf1M",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 12,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "auSVpICNnXcnOdG6": {
+              "_id": "auSVpICNnXcnOdG6",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 16,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
+            },
+            "ArF9lzehztL6kqXJ": {
+              "_id": "ArF9lzehztL6kqXJ",
+              "type": "AbilityScoreImprovement",
+              "configuration": {
+                "points": 2,
+                "fixed": {},
+                "cap": 2,
+                "locked": []
+              },
+              "value": {
+                "type": "asi"
+              },
+              "level": 19,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
             }
           },
-          "levels": 0,
-          "hitDice": "d10",
-          "hitDiceUsed": 0,
-          "saves": [
-            "dex",
-            "wis"
-          ],
-          "skills": {
-            "number": 3,
-            "choices": [
-              "acrobatics",
-              "athletics",
-              "history",
-              "insight",
-              "investigation",
-              "nature",
-              "perception",
-              "religion",
-              "stealth"
-            ],
-            "value": []
+          "hd": {
+            "denomination": "d10",
+            "additional": "",
+            "spent": 0
           },
+          "levels": 0,
           "primaryAbility": {
             "value": [
               "dex",
@@ -136,17 +314,23 @@
             ],
             "all": true
           },
+          "properties": [],
           "spellcasting": {
             "progression": "none",
-            "ability": "",
-            "preparation": {
-              "formula": "",
-              "value": 0,
-              "max": 0
-            }
+            "ability": ""
           }
         },
-        "effects": []
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
       }
     ],
     "items": [
@@ -275,6 +459,7 @@
           },
           "container": null,
           "unidentified": {
+            "name": "",
             "description": ""
           },
           "quantity": 1,
@@ -333,6 +518,8 @@
               }
             }
           },
+          "magicalBonus": "",
+          "mastery": "",
           "range": {
             "value": 5,
             "long": null,
@@ -10941,6 +11128,12 @@
               ],
               "related_quests": []
             }
+          },
+          "dnd5e": {
+            "riders": {
+              "activity": [],
+              "effect": []
+            }
           }
         },
         "system": {
@@ -10966,10 +11159,13 @@
                   "med"
                 ]
               },
-              "level": 0,
               "value": {},
-              "flags": {},
-              "hint": ""
+              "level": 0,
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
             },
             "EEXSxEPXdh1dR2xO": {
               "_id": "EEXSxEPXdh1dR2xO",
@@ -10996,8 +11192,10 @@
               },
               "level": 0,
               "title": "Languages",
-              "flags": {},
-              "hint": ""
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
             },
             "sfwFONI3JenCdx1I": {
               "_id": "sfwFONI3JenCdx1I",
@@ -11008,42 +11206,55 @@
                   "int": 2
                 },
                 "cap": 2,
-                "locked": [],
-                "recommendation": null
+                "locked": []
               },
               "value": {
                 "type": "asi"
               },
               "level": 0,
-              "flags": {},
-              "hint": ""
+              "title": "",
+              "hint": "",
+              "icon": null,
+              "classRestriction": "",
+              "flags": {}
             }
           },
           "movement": {
-            "burrow": "0",
-            "climb": "0",
-            "fly": "0",
-            "swim": "0",
+            "burrow": "",
+            "climb": "",
+            "fly": "",
+            "swim": "",
             "walk": "30",
             "units": "ft",
-            "hover": false,
-            "ignoredDifficultTerrain": []
+            "hover": false
           },
           "senses": {
-            "units": null,
-            "special": "",
             "ranges": {
               "darkvision": 60,
               "blindsight": null,
               "tremorsense": null,
               "truesight": null
-            }
+            },
+            "units": "ft",
+            "special": ""
           },
           "type": {
-            "value": "humanoid"
+            "value": "humanoid",
+            "subtype": "",
+            "custom": ""
           }
         },
-        "effects": []
+        "effects": [],
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.0",
+          "coreVersion": "14.359",
+          "createdTime": null,
+          "modifiedTime": null,
+          "lastModifiedBy": null,
+          "compendiumSource": null,
+          "duplicateSource": null
+        }
       }
     ],
     "recipes": [

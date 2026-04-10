@@ -44,6 +44,7 @@ system:
     rules: '2024'
   container: null
   unidentified:
+    name: ''
     description: ''
   quantity: 1
   weight:
@@ -89,6 +90,8 @@ system:
         mode: ''
         number: null
         formula: ''
+  magicalBonus: ''
+  mastery: ''
   range:
     value: 5
     long: null
