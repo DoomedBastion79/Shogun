@@ -1,0 +1,205 @@
+_id: xR1VWRQxETIiZFSK
+_key: '!items!xR1VWRQxETIiZFSK'
+name: Sai
+type: weapon
+img: icons/weapons/swords/sword-katana.webp
+folder: ZxriAGgmoRDfCImz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/sai.md
+    slug: sai
+    category: weapon
+    frontmatter:
+      name: Sai
+      type: item
+      item_type: weapon
+      rarity: common
+      weight: 4
+      price:
+        value: 5
+        denomination: gp
+      quantity: 1
+      identified: true
+      attunement: false
+      tags:
+        - martial
+        - piercing
+        - parry
+        - martial-arts
+      related_npcs: []
+      related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sai
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: ''
+  quantity: 1
+  weight:
+    value: 4
+    units: lb
+  price:
+    value: 5
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: martialM
+    baseItem: trident
+  damage:
+    base:
+      number: 1
+      denomination: 6
+      bonus: ''
+      types:
+        - piercing
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+    versatile:
+      number: 1
+      denomination: 8
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+  magicalBonus: ''
+  mastery: ''
+  range:
+    value: 20
+    long: 60
+    units: ft
+    reach: null
+  properties:
+    - thr
+    - ver
+  proficient: 0
+  equipped: false
+  activities:
+    dnd5eactivity000:
+      _id: dnd5eactivity000
+      type: attack
+      activation:
+        type: action
+        value: 1
+        condition: ''
+        override: false
+      consumption:
+        targets: []
+        scaling:
+          allowed: false
+          max: ''
+        spellSlot: true
+      description:
+        chatFlavor: ''
+      duration:
+        concentration: false
+        value: ''
+        units: inst
+        special: ''
+        override: false
+      effects: []
+      range:
+        units: ft
+        special: ''
+        override: false
+      target:
+        template:
+          count: ''
+          contiguous: false
+          type: ''
+          size: ''
+          width: ''
+          height: ''
+          units: ft
+          stationary: false
+        affects:
+          count: ''
+          type: ''
+          choice: false
+          special: ''
+        prompt: true
+        override: false
+      uses:
+        spent: 0
+        max: ''
+        recovery: []
+      attack:
+        ability: str
+        bonus: ''
+        critical:
+          threshold: null
+        flat: false
+        type:
+          value: melee
+          classification: weapon
+      damage:
+        critical:
+          bonus: ''
+        includeBase: true
+        parts: []
+      sort: 0
+      img: null
+      flags: {}
+      attackMode: oneHanded
+      ammunition: ''
+  ammunition: {}
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  cover: null
+  crew:
+    value: []
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>A three-pronged metal weapon with a central spike flanked by two curved guards, the sai excels at trapping and
+      breaking enemy blades. Martial artists and doshin police favor it for its ability to disarm opponents without
+      killing. Typically wielded in pairs, a skilled sai fighter can catch a katana between the prongs and twist it from
+      the wielder&#39;s grip. The pointed tip also serves as a thrusting weapon in its own right.</p>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

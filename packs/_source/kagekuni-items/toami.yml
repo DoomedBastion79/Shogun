@@ -1,0 +1,205 @@
+_id: CNzlyd0mYbwn4mlW
+_key: '!items!CNzlyd0mYbwn4mlW'
+name: Toami
+type: weapon
+img: icons/weapons/swords/sword-katana.webp
+folder: ZxriAGgmoRDfCImz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/toami.md
+    slug: toami
+    category: weapon
+    frontmatter:
+      name: Toami
+      type: item
+      item_type: weapon
+      rarity: common
+      weight: 3
+      price:
+        value: 1
+        denomination: gp
+      quantity: 1
+      identified: true
+      attunement: false
+      tags:
+        - martial
+        - special
+        - thrown
+        - fisherman
+        - bounty-hunter
+      related_npcs: []
+      related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: toami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: ''
+  quantity: 1
+  weight:
+    value: 3
+    units: lb
+  price:
+    value: 1
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: martialR
+    baseItem: net
+  damage:
+    base:
+      number: null
+      denomination: null
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+    versatile:
+      number: null
+      denomination: null
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+  magicalBonus: ''
+  mastery: ''
+  range:
+    value: 5
+    long: 15
+    units: ft
+    reach: null
+  properties:
+    - spc
+    - thr
+  proficient: 0
+  equipped: false
+  activities:
+    dnd5eactivity000:
+      _id: dnd5eactivity000
+      type: attack
+      activation:
+        type: action
+        value: 1
+        condition: ''
+        override: false
+      consumption:
+        targets: []
+        scaling:
+          allowed: false
+          max: ''
+        spellSlot: true
+      description:
+        chatFlavor: ''
+      duration:
+        concentration: false
+        value: ''
+        units: inst
+        special: ''
+        override: false
+      effects: []
+      range:
+        units: ft
+        special: ''
+        override: false
+      target:
+        template:
+          count: ''
+          contiguous: false
+          type: ''
+          size: ''
+          width: ''
+          height: ''
+          units: ft
+          stationary: false
+        affects:
+          count: ''
+          type: ''
+          choice: false
+          special: ''
+        prompt: true
+        override: false
+      uses:
+        spent: 0
+        max: ''
+        recovery: []
+      attack:
+        ability: str
+        bonus: ''
+        critical:
+          threshold: null
+        flat: false
+        type:
+          value: ranged
+          classification: weapon
+      damage:
+        critical:
+          bonus: ''
+        includeBase: true
+        parts: []
+      sort: 0
+      img: null
+      flags: {}
+      attackMode: oneHanded
+      ammunition: ''
+  ammunition: {}
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  cover: null
+  crew:
+    value: []
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>A weighted casting net adapted from fishing equipment, the toami is thrown over targets to entangle and
+      restrain them. Coastal villages train their militia with toami for capturing pirates alive, and bounty hunters use
+      them to immobilize fugitives without risking a killing blow. The weighted edges spread in flight, and once wrapped
+      around a target the net is surprisingly difficult to escape without cutting free.</p>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

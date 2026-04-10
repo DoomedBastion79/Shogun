@@ -1,0 +1,204 @@
+_id: RMYQGOF18GhxCFEA
+_key: '!items!RMYQGOF18GhxCFEA'
+name: Ishinage
+type: weapon
+img: icons/weapons/swords/sword-katana.webp
+folder: ZxriAGgmoRDfCImz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/ishinage.md
+    slug: ishinage
+    category: weapon
+    frontmatter:
+      name: Ishinage
+      type: item
+      item_type: weapon
+      rarity: common
+      weight: 0
+      price:
+        value: 0.1
+        denomination: gp
+      quantity: 1
+      identified: true
+      attunement: false
+      tags:
+        - simple
+        - bludgeoning
+        - ranged
+        - peasant
+      related_npcs: []
+      related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: ishinage
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: ''
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0.1
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: simpleR
+    baseItem: sling
+  damage:
+    base:
+      number: 1
+      denomination: 4
+      bonus: ''
+      types:
+        - bludgeoning
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+    versatile:
+      number: null
+      denomination: null
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+  magicalBonus: ''
+  mastery: ''
+  range:
+    value: 30
+    long: 120
+    units: ft
+    reach: null
+  properties:
+    - amm
+  proficient: 0
+  equipped: false
+  activities:
+    dnd5eactivity000:
+      _id: dnd5eactivity000
+      type: attack
+      activation:
+        type: action
+        value: 1
+        condition: ''
+        override: false
+      consumption:
+        targets: []
+        scaling:
+          allowed: false
+          max: ''
+        spellSlot: true
+      description:
+        chatFlavor: ''
+      duration:
+        concentration: false
+        value: ''
+        units: inst
+        special: ''
+        override: false
+      effects: []
+      range:
+        units: ft
+        special: ''
+        override: false
+      target:
+        template:
+          count: ''
+          contiguous: false
+          type: ''
+          size: ''
+          width: ''
+          height: ''
+          units: ft
+          stationary: false
+        affects:
+          count: ''
+          type: ''
+          choice: false
+          special: ''
+        prompt: true
+        override: false
+      uses:
+        spent: 0
+        max: ''
+        recovery: []
+      attack:
+        ability: dex
+        bonus: ''
+        critical:
+          threshold: null
+        flat: false
+        type:
+          value: ranged
+          classification: weapon
+      damage:
+        critical:
+          bonus: ''
+        includeBase: true
+        parts: []
+      sort: 0
+      img: null
+      flags: {}
+      attackMode: oneHanded
+      ammunition: ''
+  ammunition: {}
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  cover: null
+  crew:
+    value: []
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>A braided cord sling for hurling stones, the ishinage is the weapon of shepherds, mountain villagers, and
+      anyone too poor for a bow. Ammunition is as close as the nearest riverbed. Skilled slingers can crack bone at
+      impressive range, and in the highlands of Kaze province, ishinage tournaments are a village tradition. It weighs
+      nothing, costs nothing, and has been killing since before steel was forged.</p>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

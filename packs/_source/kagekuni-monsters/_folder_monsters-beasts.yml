@@ -1,0 +1,11 @@
+_id: 7Q4mvZMwTni9PkWk
+_key: '!folders!7Q4mvZMwTni9PkWk'
+name: Beasts
+type: Actor
+folder: null
+sorting: m
+sort: 20
+color: '#2d5a27'
+flags:
+  assistant:
+    folderPath: monsters/beasts

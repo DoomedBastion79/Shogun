@@ -1,0 +1,205 @@
+_id: t61mEcYxZTpjVQGi
+_key: '!items!t61mEcYxZTpjVQGi'
+name: Uchine
+type: weapon
+img: icons/weapons/swords/sword-katana.webp
+folder: ZxriAGgmoRDfCImz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/uchine.md
+    slug: uchine
+    category: weapon
+    frontmatter:
+      name: Uchine
+      type: item
+      item_type: weapon
+      rarity: common
+      weight: 0.25
+      price:
+        value: 0.05
+        denomination: gp
+      quantity: 1
+      identified: true
+      attunement: false
+      tags:
+        - simple
+        - piercing
+        - thrown
+        - infiltrator
+      related_npcs: []
+      related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: uchine
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: ''
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0.05
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: simpleR
+    baseItem: dart
+  damage:
+    base:
+      number: 1
+      denomination: 4
+      bonus: ''
+      types:
+        - piercing
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+    versatile:
+      number: null
+      denomination: null
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+  magicalBonus: ''
+  mastery: ''
+  range:
+    value: 20
+    long: 60
+    units: ft
+    reach: null
+  properties:
+    - fin
+    - thr
+  proficient: 0
+  equipped: false
+  activities:
+    dnd5eactivity000:
+      _id: dnd5eactivity000
+      type: attack
+      activation:
+        type: action
+        value: 1
+        condition: ''
+        override: false
+      consumption:
+        targets: []
+        scaling:
+          allowed: false
+          max: ''
+        spellSlot: true
+      description:
+        chatFlavor: ''
+      duration:
+        concentration: false
+        value: ''
+        units: inst
+        special: ''
+        override: false
+      effects: []
+      range:
+        units: ft
+        special: ''
+        override: false
+      target:
+        template:
+          count: ''
+          contiguous: false
+          type: ''
+          size: ''
+          width: ''
+          height: ''
+          units: ft
+          stationary: false
+        affects:
+          count: ''
+          type: ''
+          choice: false
+          special: ''
+        prompt: true
+        override: false
+      uses:
+        spent: 0
+        max: ''
+        recovery: []
+      attack:
+        ability: dex
+        bonus: ''
+        critical:
+          threshold: null
+        flat: false
+        type:
+          value: ranged
+          classification: weapon
+      damage:
+        critical:
+          bonus: ''
+        includeBase: true
+        parts: []
+      sort: 0
+      img: null
+      flags: {}
+      attackMode: oneHanded
+      ammunition: ''
+  ammunition: {}
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  cover: null
+  crew:
+    value: []
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>A small weighted throwing spike, shorter and heavier than an arrow, the uchine is flicked from the hand with a
+      snap of the wrist. Infiltrators and agents of the Order of the Black Lily carry bundles of them concealed in
+      sleeves or sashes. They lack the killing power of a proper weapon but can be thrown in rapid succession and are
+      virtually silent.</p>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

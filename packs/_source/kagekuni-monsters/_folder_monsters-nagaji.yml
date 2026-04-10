@@ -1,0 +1,11 @@
+_id: vpQj8SzmaX00b9VK
+_key: '!folders!vpQj8SzmaX00b9VK'
+name: Nagaji
+type: Actor
+folder: null
+sorting: m
+sort: 30
+color: '#8b4513'
+flags:
+  assistant:
+    folderPath: monsters/nagaji

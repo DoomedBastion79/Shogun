@@ -1,0 +1,206 @@
+_id: IoDdRjXPp6EH3sq7
+_key: '!items!IoDdRjXPp6EH3sq7'
+name: Nodachi
+type: weapon
+img: icons/weapons/swords/sword-katana.webp
+folder: ZxriAGgmoRDfCImz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/nodachi.md
+    slug: nodachi
+    category: weapon
+    frontmatter:
+      name: Nodachi
+      type: item
+      item_type: weapon
+      rarity: common
+      weight: 6
+      price:
+        value: 50
+        denomination: gp
+      quantity: 1
+      identified: true
+      attunement: false
+      tags:
+        - martial
+        - slashing
+        - heavy
+        - elite
+        - infantry
+      related_npcs: []
+      related_quests: []
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: nodachi
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: ''
+  quantity: 1
+  weight:
+    value: 6
+    units: lb
+  price:
+    value: 50
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: martialM
+    baseItem: greatsword
+  damage:
+    base:
+      number: 2
+      denomination: 6
+      bonus: ''
+      types:
+        - slashing
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+    versatile:
+      number: null
+      denomination: null
+      bonus: ''
+      types: []
+      custom:
+        enabled: false
+        formula: ''
+      scaling:
+        mode: ''
+        number: null
+        formula: ''
+  magicalBonus: ''
+  mastery: ''
+  range:
+    value: 5
+    long: null
+    units: ft
+    reach: null
+  properties:
+    - hvy
+    - two
+  proficient: 0
+  equipped: false
+  activities:
+    dnd5eactivity000:
+      _id: dnd5eactivity000
+      type: attack
+      activation:
+        type: action
+        value: 1
+        condition: ''
+        override: false
+      consumption:
+        targets: []
+        scaling:
+          allowed: false
+          max: ''
+        spellSlot: true
+      description:
+        chatFlavor: ''
+      duration:
+        concentration: false
+        value: ''
+        units: inst
+        special: ''
+        override: false
+      effects: []
+      range:
+        units: ft
+        special: ''
+        override: false
+      target:
+        template:
+          count: ''
+          contiguous: false
+          type: ''
+          size: ''
+          width: ''
+          height: ''
+          units: ft
+          stationary: false
+        affects:
+          count: ''
+          type: ''
+          choice: false
+          special: ''
+        prompt: true
+        override: false
+      uses:
+        spent: 0
+        max: ''
+        recovery: []
+      attack:
+        ability: str
+        bonus: ''
+        critical:
+          threshold: null
+        flat: false
+        type:
+          value: melee
+          classification: weapon
+      damage:
+        critical:
+          bonus: ''
+        includeBase: true
+        parts: []
+      sort: 0
+      img: null
+      flags: {}
+      attackMode: oneHanded
+      ammunition: ''
+  ammunition: {}
+  armor:
+    value: null
+  hp:
+    value: null
+    max: null
+    dt: null
+    conditions: ''
+  cover: null
+  crew:
+    value: []
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>An oversized katana with a blade exceeding three feet, the nodachi is a battlefield weapon designed for
+      sweeping cuts against cavalry and massed infantry. Too long to draw from a hip scabbard, it is carried slung
+      across the back or held ready in both hands. Elite foot soldiers who wield it stride ahead of formations, using
+      the blade&#39;s enormous reach to break enemy lines before the yari walls close.</p>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

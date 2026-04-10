@@ -1,0 +1,11 @@
+_id: WC25A6jd8MjG6DJw
+_key: '!folders!WC25A6jd8MjG6DJw'
+name: Undead
+type: Actor
+folder: null
+sorting: m
+sort: 10
+color: '#4a1d6b'
+flags:
+  assistant:
+    folderPath: monsters/undead
