@@ -1,0 +1,367 @@
+_id: BpI14XIgJ19gzH0y
+_key: '!journal!BpI14XIgJ19gzH0y'
+name: The Inner Sanctum — Naijin
+pages:
+  - _id: 17yVnoA7o4eEoiSL
+    _key: '!journal.pages!17yVnoA7o4eEoiSL'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">location</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div></dl><p><em lang="ja-Latn">North
+        end of the temple — the most sacred space on the first floor. Includes the Jushoku no Ma (Abbot&#39;s Chamber,
+        6a) and Hoko (Storehouse, 6b).</em></p>
+
+        <p><em lang="ja-Latn">Read-aloud text: <code>../supplements/read-aloud-floor-1.md</code> § Inner
+        Sanctum</em></p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: LZKJOdXGwTAaiMGa
+    _key: '!journal.pages!LZKJOdXGwTAaiMGa'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+
+        <p>North end of the temple — most sacred space on the first floor. Octagonal chamber, 90 ft wide × 35 ft deep.
+        Accessed via double set of double doors from the Grand Hall&#39;s north wall.</p>
+
+        <p><strong>Doors:</strong> Black-lacquered wood banded with bronze. Frame carved with a frieze of the seven
+        dragon clans in a ring. Standing open. Inlaid silver locking mechanism lines visible inside the frame — dark and
+        dead. Wards broken from the outside (shadow-aspected magic, Kokuryu tradition).</p>
+
+        <p><strong>Walls:</strong> Eight scroll positions. Six empty (mountings remain, scrolls gone). One holds only
+        floor-level fragments with faded ink. One (far wall) holds an intact scroll — Kinryu in flight, gold and deep
+        blue on black silk, colors perfectly preserved by active sei-lacquer. Contains hidden sei conduit filament in
+        the decorative border.</p>
+
+        <p><strong>Center:</strong> Floor cleared deliberately. Original furnishings (shattered pedestals, broken
+        braziers) pushed to walls. Circular depression in swept floor — nest shape, formed by repeated use by something
+        large. Edges built from broken furniture and torn fabric. Currently empty. Radiates warmth and a sense of
+        presence.</p>
+
+        <p><strong>Hidden door (east wall):</strong> Stone-framed, flush with surface, seam filled with centuries of
+        grit. Accessed via a 5 ft wide, 20 ft long secret hallway. Opened by pressing the bronze disc against a specific
+        carved scale in the dragon-frieze border. Leads to the head priest&#39;s private chamber (15 ft wide × 20 ft
+        deep — never entered since the order fell).</p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 6r8EIasEDMnuhB2c
+    _key: '!journal.pages!6r8EIasEDMnuhB2c'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
+        data-section="discoveries">Discoveries</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>The Surviving Scroll — sei-lacquer identification</strong> (DC 13
+        Arcana)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Scroll&#39;s Hidden Thread / Sei Conduit Filament</strong> (DC
+        16 Arcana, or DC 14 if lens already found; DC 14 Sleight of Hand to extract) <em lang="ja-Latn">(Observatory
+        component #5)</em></li>
+
+        <li class="kg-task" data-done="false"><strong>Breaking the Wards — analysis</strong> (DC 15 Arcana —
+        shadow-aspected, Kokuryu)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Hidden Door to Jushoku no Ma</strong> (DC 15 Perception, or
+        automatic if searching walls; bronze disc opens)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma — Kinjiro&#39;s Journal</strong> (in bronze box, DC
+        16 Thieves&#39; Tools or disc as key)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma — Kinryu no Chikara Mandate</strong> (in bronze
+        box)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma — Operational Ledger</strong> (in bronze box)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma — Kinjiro&#39;s Remains</strong></li>
+
+        <li class="kg-task" data-done="false"><strong>The Zasu&#39;s Ritual Scrolls — Hebi no Hensen</strong> (found on
+        Zasu&#39;s body after encounter; see <code>zasu-ritual-scrolls.md</code>)</li>
+
+        <li class="kg-task" data-done="false"><strong>Hoko</strong> (secret door S wall behind dresser — contents
+        TBD)</li>
+
+        </ul>
+
+        <p><strong>The Surviving Scroll</strong>: The preserved scroll of Kinryu in flight is worth 800gp as an antique,
+        more to the right buyer. More importantly, the sei-lacquer preserving it is still active — a character who
+        examines it closely (DC 13 Arcana) identifies the preservation technique as Golden Dragon order craft, and notes
+        that the same technique was almost certainly used on the most important records kept in this temple. Records
+        preserved this way would survive in far better condition than anything else here. This is a subtle pointer
+        toward the scriptorium on the floor above.</p>
+
+        <p><strong>The Scroll&#39;s Hidden Thread</strong>: DC 16 Arcana (or DC 14 for a character who has already
+        identified a projection lens elsewhere in the temple) reveals something additional: woven into the scroll&#39;s
+        decorative border is an impossibly fine golden filament — not thread, not wire, something between the two. It
+        carries a faint, steady sei charge, distinct from the preservation enchantment. This filament is a sei conduit —
+        a transmission line designed to carry magical resonance between connected systems. Removing it without
+        destroying the scroll requires DC 14 Sleight of Hand or Tinker&#39;s Tools; on failure, the scroll&#39;s
+        preservation enchantment collapses and the image fades to nothing within minutes (the scroll is destroyed, but
+        the filament is recovered). On success, both the scroll and filament are preserved intact. <em
+        lang="ja-Latn">(Observatory component: sei conduit filament. Connects the orrery&#39;s mechanical output to the
+        arcane projection system. The scroll was stored in the sanctum — closest room to the observatory&#39;s position
+        on the floor above — because the conduit needed to remain within the temple&#39;s foundational magic field to
+        retain its charge.)</em></p>
+
+        <p><strong>Breaking the Wards</strong>: The magical seals on the door were broken from outside. The magic used
+        to break them — DC 15 Arcana — is shadow-aspected. Kokuryu tradition. The infiltrators unsealed this room during
+        the order&#39;s fall, gaining access to the sanctum&#39;s contents. Whatever was in here, they took it or
+        destroyed it.</p>
+
+        <p><strong>The Jushoku no Ma (Abbot&#39;s Chamber)</strong>: Behind the rubble on the east side of the room,
+        almost invisible unless the party is actively looking (DC 15 Perception, or automatic if they are searching the
+        walls), is a section of wall that is actually a door — stone-framed, flush with the surface, its seam filled
+        with centuries of grit. The locking mechanism is a pressure sequence on specific carved scales in the
+        dragon-frieze border; the bronze disc from the sealed dormitory room, when pressed against a specific scale,
+        triggers the release. The room beyond — the head priest&#39;s private chamber — has never been entered since the
+        order fell.</p>
+
+        <p><strong>What Is In The Jushoku no Ma</strong>: A small, very austere room (15 ft wide × 20 ft deep). A
+        sleeping platform against the west wall with a dresser beside it. A writing desk with a locked bronze box (DC 16
+        Thieves&#39; Tools or the disc again as a key). Inside the box: three documents, each sealed separately.</p>
+
+        <ol>
+
+        <li><p><strong>The personal journal of Head Priest Kinjiro</strong> — final entries. The journal is personal,
+        written in a direct hand that does not match the formality of the other documents. The final entries describe
+        the order&#39;s disintegration — not the external pressures (those are in the ledger) but the internal
+        experience of watching a community fracture. Kinjiro names no traitors. The journal&#39;s emotional weight is in
+        what it does not accuse.</p>
+
+        </li>
+
+        <li><p><strong>The Kinryu no Chikara mandate</strong> — a sealed tube containing a formal document conferring
+        specific authority within the temple to named individuals. The mandate is blank on the recipient line, left that
+        way deliberately — Kinjiro did not know who would find it and chose to leave it open. A character who performs
+        the short ritual described in the journal (10 minutes, spoken in any language, a genuine statement of intent to
+        protect rather than exploit what lies within) can inscribe their name. The mandate grants its bearer advantage
+        on all Charisma checks within the temple and allows passage through one magically sealed door elsewhere in the
+        structure.</p>
+
+        </li>
+
+        <li><p><strong>The operational ledger of the hub</strong> — a formal record of network activity kept by the head
+        priest. Each significant entry logs the full operational cycle: distress signal received, acknowledgement
+        authorized and sent, dispatch ordered, field report on findings. The ledger records both inbound signals and
+        outbound responses — a complete cycle document, not a record of actions alone.</p>
+
+        </li>
+
+        </ol>
+
+        <p><strong>Ledger physical condition</strong>: Sei-lacquered selectively in the same technique as the surviving
+        sanctum scroll. Routine entries written in ordinary ink have faded to illegibility. Entries the head priest
+        considered significant were lacquered and remain fully readable. Which entries were treated is itself
+        information about what the head priest considered to matter.</p>
+
+        <p><strong>Standard entry format</strong>: Prior entries from the order&#39;s functional period are complete.
+        Signal received, response sent, investigator dispatched, findings returned and summarized. These entries
+        establish the template clearly. The party understands what a finished cycle looks like before they reach the
+        entries that are not finished.</p>
+
+        <p><strong>The fall-period entries — what is absent</strong>: The distress signals sent by Kaze and Sora at the
+        fall of 13088 are not recorded in the ledger. No entry exists for either signal — not the incoming alert, not an
+        acknowledgement, not a dispatch, not a field report. The ledger&#39;s last entries are whatever completed
+        operational cycles preceded the fall. Then the record ends. The absence is not by design — distress signals
+        appear in prior entries. Kaze and Sora are simply not there because the collapse overtook the
+        record-keeping.</p>
+
+        <p><strong>Sora acknowledgement gap</strong>: The acknowledged state exists in the network (visible on Tapestry
+        III). It does not exist in the ledger. Possible explanations: a monitor acting independently during the chaos;
+        the head priest sent it but was interrupted before recording; someone who didn&#39;t survive sent it; or the
+        entry was among those that faded. The document cannot close the gap.</p>
+
+        <p><strong>Kaze in the ledger</strong>: Whether Kaze was ever acknowledged cannot be determined from the ledger.
+        The signal is absent from the record entirely.</p>
+
+        <p><strong>Placement note</strong>: The journal is personal. The mandate confers authority. The ledger is
+        institutional memory. Together they represent what the order chose to preserve when everything else was
+        falling.</p>
+
+        <p><strong>The Remains</strong>: On the sleeping platform, partially covered by a threadbare blanket that has
+        largely disintegrated, lie the skeletal remains of Head Priest Kinjiro. The posture is deliberate — hands folded
+        across the chest, body aligned with the room&#39;s cardinal orientation, head turned slightly toward the writing
+        desk. He went to his bed and did not rise. The bones are undisturbed. Nothing in this room has been touched
+        since the door sealed.</p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: eVzMBCgoxg4f8Ln4
+    _key: '!journal.pages!eVzMBCgoxg4f8Ln4'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
+        data-section="encounters">Encounters</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Nagaji Zasu (Inner Sanctum lair — currently patrolling; returns
+        periodically)</li>
+
+        <li class="kg-task" data-done="false">Head Priest Kinjiro&#39;s Bōrei (Jushoku no Ma — manifests when bronze box
+        or remains touched)</li>
+
+        </ul>
+
+        <h3 id="kg-dm-notes" data-section="dm-notes">DM Notes</h3>
+
+        <p><strong>Kinjiro&#39;s Spirit</strong>: The head priest did not move on after death. His spirit persists in
+        this chamber as a protector — bound not by curse or unfinished personal business, but by the weight of
+        institutional obligation. He was the last keeper. No one relieved him of the duty. The spirit is dormant until
+        the chamber is entered; it manifests when someone touches the bronze box or the remains.</p>
+
+        <p><strong>Manifestation</strong>: Not aggressive by default. The spirit appears as a translucent figure seated
+        at the writing desk — the posture of someone still working, still keeping records. Cold fills the room. The
+        torchlight dims but does not go out. Kinjiro does not speak first. He watches. His expression carries exhaustion
+        rather than menace.</p>
+
+        <p><strong>Peaceful Resolution</strong>: A party that approaches with respect — speaks to the spirit, identifies
+        themselves, or demonstrates they are not here to loot — can engage Kinjiro in limited communication. He cannot
+        speak freely (the binding is too old, his connection too frayed), but he can answer direct questions with
+        gestures, single words, or by directing attention to specific objects in the room. He knows the temple&#39;s
+        layout, the purpose of the documents in the box, and the broad shape of what went wrong. He does not know the
+        current state of the Nagaji — he died before the transformation. If the party undertakes to cleanse the temple
+        (removing the corruption, restoring order to the sacred spaces), and succeeds, Kinjiro can finally release. His
+        departure is quiet — the cold lifts, the translucence fades, the bones settle slightly as whatever held them
+        together withdraws.</p>
+
+        <p><strong>Combat Resolution</strong>: If the party acts aggressively — drawing weapons in the chamber,
+        attempting to force the box open without care, or showing clear intent to desecrate — the spirit defends. Use
+        <strong>Revenant</strong> (MM p.259) as a base, adjusted: Kinjiro is not pursuing vengeance but defending a
+        post. He fights to drive intruders from the chamber, not to kill. If reduced to 0 HP, he reforms in 24 hours (as
+        Revenant) unless the party has cleansed the temple, in which case he passes on regardless.</p>
+
+        <p><strong>Reward</strong>: TBD — see <code>dm/plot-threads.md</code> for open decision. Consider: direct
+        knowledge that shortcuts a discovery elsewhere in the temple, a blessing granting advantage on a specific check
+        type within the temple, or a narrative reward connected to the Kinryu no Chikara mandate (the priest confirming
+        the ritual, or adding weight to the inscription).</p>
+
+        <p><strong>The Hoko (Storehouse)</strong>: A secret door on the south wall of the Jushoku no Ma, west side —
+        behind the dresser, west of the bed. Completely concealed. Contains the priest&#39;s and the temple&#39;s most
+        sacred items. This room has been left entirely untouched since the order fell — sealed within a sealed room
+        within a hidden chamber. The deepest-hidden space on the first floor. <em lang="ja-Latn">(Contents: TBD — see
+        <code>dm/plot-threads.md</code>)</em></p>
+
+        <p><strong>The Zasu&#39;s Scrolls</strong>: When the Zasu is defeated, the party finds a cracked leather scroll
+        case lashed to its midsection with strips of torn formal silk bearing the Gekkō mon. Contains seven documents in
+        varying states of preservation — the transformation ritual research the chief seimaster gathered before
+        performing the ritual on himself. Full details: <code>zasu-ritual-scrolls.md</code></p>
+
+        <p><strong>The Occupant</strong>: A <strong>Nagaji Zasu</strong> (MM p.308) has made this space its lair — a
+        Nagaji of particular power, one of the original senior members of Clan Gekko, transformed more completely than
+        the others. This individual was once Gekko&#39;s chief seimaster — the architect of the failed ritual. The
+        transformation has cost them nearly everything, but not quite. Deep within the abomination, fragments of the
+        original person remain: a scholar, a leader, someone who made a catastrophic decision trying to protect their
+        clan. They are not in the sanctum when the party first arrives (they patrol the temple), but they will
+        return.</p>
+
+        <p><strong>Atmosphere</strong>: The nest radiates residual warmth and something harder to name — a sense of
+        presence, of being watched, even in an empty room. The cleared center of the room feels deliberately
+        territorial. Players with high Passive Perception (14+) notice that the debris pushed to the walls has been
+        sorted — materials of value (intact objects, sealed containers) are in one pile; pure refuse in another.
+        Whatever lives here is not mindless.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/inner-sanctum.md
+    slug: inner-sanctum
+    frontmatter:
+      name: The Inner Sanctum — Naijin
+      type: location
+      location_type: dungeon-room
+      parent: tenkuji-temple/floor-1
+      floor: 1
+      room_number: 6
+      island: hokori
+      province: hana
+      status: active
+      tags:
+        - temple
+        - kinryu
+        - first-floor
+        - inner-sanctum
+        - priest-chamber
+        - vault
+        - yuan-ti

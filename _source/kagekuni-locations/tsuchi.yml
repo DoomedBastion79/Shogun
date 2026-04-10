@@ -1,0 +1,230 @@
+_id: CF9UcOoxrTIhNlwW
+_key: '!journal!CF9UcOoxrTIhNlwW'
+name: Tsuchi
+pages:
+  - _id: 3ZLvaaryIXWwkHfn
+    _key: '!journal.pages!3ZLvaaryIXWwkHfn'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-geography-amp-terrain"
+        data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
+
+        <p>Tsuchi occupies the southern portion of Hokori -- a primarily mountainous province dominated by rugged
+        terrain and the imposing bulk of Kurogane Yama, the second highest peak on the island. Hana borders it to the
+        northeast and Hi to the northwest. The mountains here are old and weathered, less volcanically active than Hi
+        but no less formidable -- steep valleys, narrow passes, and ridgelines that catch storms rolling in from the
+        southern sea.</p>
+
+        <p>The southern mountains are resource-rich -- mineral deposits, timber in the sheltered valleys, and stone
+        quarried from exposed cliff faces. But the terrain resists large-scale settlement. Communities are small,
+        isolated by geography, and accustomed to self-reliance.</p>
+
+        <p>The Tsuchikawa (Earth River) is the main artery -- wide, slow, navigable for cargo barge travel, and
+        historically important as a trade route connecting the interior to the coast.</p>
+
+        <p>Tsuchimoto sits at the center of the provincial plains, connected by roads in every compass direction. It is
+        not a dramatic city -- no spectacular geography, no great harbor. It is a city of markets, granaries,
+        administrative buildings, and the quietly enormous power of whoever controls the food supply.</p>
+
+        <p>Points of Interest:</p>
+
+        <ul>
+
+        <li>The Great Granaries of Tsuchimoto -- Immense storage structures capable of holding enough grain to feed
+        Hokori&#39;s population through two years of failed harvests. One of the most strategically important sites in
+        the archipelago.</li>
+
+        <li>The Buried Road -- An ancient paved road that farmers have plowed around for centuries. Predates the
+        Emperor&#39;s Highway by thousands of years -- pre-imperial, possibly pre-human. Where it goes and why it exists
+        is unknown.</li>
+
+        </ul>
+
+        <h3 id="kg-settlements" data-section="settlements">Settlements</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Settlement</th>
+
+        <th>Type</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Tsuchimoto</td>
+
+        <td>City</td>
+
+        <td>Agricultural capital; granary city; market center; Genso-aligned</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tashiro</td>
+
+        <td>Town</td>
+
+        <td>River town; barge trade; grain export hub</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Komugi</td>
+
+        <td>Village</td>
+
+        <td>&quot;Wheat&quot;; small farming commune; exemplary agricultural management</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Inaka</td>
+
+        <td>Village</td>
+
+        <td>Meaning literally &quot;countryside&quot;; deliberately generic; culturally proud of it</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h3>
+
+        <p>Tsuchi&#39;s culture reflects its agricultural identity -- practical, organized, and deeply connected to the
+        land and seasons. The province&#39;s grain production is a strategic asset that gives its governing authority
+        disproportionate political leverage. River trade along the Tsuchikawa connects the interior to coastal
+        markets.</p>
+
+        <h3 id="kg-history" data-section="history">History</h3>
+
+        <p>Tsuchi has long been Hokori&#39;s breadbasket. Its strategic importance has made it a prize in every major
+        conflict. The province&#39;s current Genso Alliance alignment gives the alliance control over a significant
+        portion of Hokori&#39;s food supply -- a fact with profound implications for the current political crisis.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JRocUmzOqTUa1MPO
+    _key: '!journal.pages!JRocUmzOqTUa1MPO'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The Buried Road leads somewhere significant -- it is far older than any known human construction in the
+        region.</li>
+
+        <li>The Great Granaries&#39; contents are being used as an economic weapon in the current conflict.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: UXuiRVOcLZVqkBXx
+    _key: '!journal.pages!UXuiRVOcLZVqkBXx'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-the-granaries-as-political-weapon"
+        data-section="the-granaries-as-political-weapon">The Granaries as Political Weapon</h3>
+
+        <p>The Genso Alliance-aligned governing clan has been quietly restricting grain sales to Arashi-aligned
+        provinces while maintaining normal trade with neutral parties. This is a slow-moving economic siege strategy. It
+        hasn&#39;t become visible yet. When it does, it will escalate the current conflict significantly.</p>
+
+        <h3 id="kg-the-buried-road" data-section="the-buried-road">The Buried Road</h3>
+
+        <p>The ancient road leads eventually to a pre-imperial site associated with the Emerald Dragon Clan (Midoryu) --
+        a &quot;green court&quot; predating any recorded human settlement. Traceable sections exist at intervals. The
+        site it leads to is in the Kusa province border region, beneath what is now part of the Whispering Flats.
+        Midoryu is alive and maintains a particular connection to this buried court.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>A farmer plowing a new field in eastern Tsuchi has found an intact structure beneath the buried road -- a
+        sealed room -- and reported it to local authorities; those authorities are now not responding to outside
+        inquiries</li>
+
+        <li>The granary administrator in Tsuchimoto is receiving death threats; she has information about grain supply
+        restrictions that she wants to share with someone she trusts -- which is no one, currently</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/tsuchi.md
+    slug: tsuchi
+    frontmatter:
+      name: Tsuchi
+      type: province
+      island: hokori
+      governing_clan: tbd
+      daimyo: vacant
+      capital: tsuchimoto
+      alliance: genso
+      tags: []

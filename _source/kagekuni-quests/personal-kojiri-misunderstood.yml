@@ -1,0 +1,311 @@
+_id: a9J6nOW96dNzYPxO
+_key: '!journal!a9J6nOW96dNzYPxO'
+name: 'Misunderstood Ventures: The Side Effects of Wisdom'
+pages:
+  - _id: QNY9aX8PeAWn6dAv
+    _key: '!journal.pages!QNY9aX8PeAWn6dAv'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">akatsuki-kaze-province</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">personal</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">shicho-ren-nakamura</dd></div></dl><p><em
+        lang="ja-Latn">&quot;In the world of commerce and counsel, every venture has its share of
+        challenges.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: DbDKmbyC4lXa9lHN
+    _key: '!journal.pages!DbDKmbyC4lXa9lHN'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>Ko&#39;jiri&#39;s entrepreneurial approach to the provision of wisdom and guidance in the city of Kikyo
+        attracted the attention of local authorities in a manner inconsistent with continued free operation.
+        Specifically: a formal writ was served outlining offenses committed within Kikyo — fraud, unlawful coin
+        gathering, false prophecies, and exploitation.</p>
+
+        <p>Rather than simple prosecution, Shicho Ren Nakamura identified an opportunity. Ko&#39;jiri&#39;s particular
+        skillset — persuasion, information gathering, and the ability to move through situations without attracting
+        official attention — was potentially useful for an assignment that required someone deniable. A conditional
+        pardon was offered: complete the tasks assigned by Taisho Hideo Nakamura, and all charges are set aside.</p>
+
+        <p>Ko&#39;jiri reported to Taisho Nakamura. The assignment: travel to the Kaze region and determine what has
+        happened to Daimyo Masota no Gekko of Clan Gekko. An independent clan&#39;s leadership has gone silent. The
+        political implications of that silence are significant. The party is the official — if unofficial —
+        investigative body.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Ko&#39;jiri has been served with a writ outlining offenses committed
+        within Kikyo. Shicho Nakamura Ren offers a pardon upon completion of tasks for Taisho Hideo Nakamura.<ul>
+
+        <li class="kg-task" data-done="false">Report to Taisho Hideo Nakamura for assignment</li>
+
+        <li class="kg-task" data-done="false">Taisho Nakamura has assigned Ko&#39;jiri to venture to Akatsuki and the
+        Kaze region to determine what has happened to the Daimyo of Clan Gekko</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><strong>Official Objective</strong>: Determine the fate of Daimyo Masota no Gekko of Clan Gekko.</p>
+
+        <p><strong>Context provided by Taisho Nakamura</strong>:</p>
+
+        <ul>
+
+        <li>Clan Gekko, one of Hokori&#39;s three independent clans, has ceased communication with external parties</li>
+
+        <li>Provincial administration in Kaze has stopped responding to Heian correspondence</li>
+
+        <li>The clan&#39;s last confirmed communication was several months ago — a routine dispatch that mentioned
+        nothing unusual</li>
+
+        <li>Clan Kurohana&#39;s Imperial Seal (held by the party) calls on independent Kaminari support to investigate
+        this silence</li>
+
+        <li>The target location is Akatsuki in Kaze province, and the broader Kaze region</li>
+
+        </ul>
+
+        <p><strong>The Party&#39;s Current Position</strong> — The party is at the gold doors in Tenchusan Ren. The
+        mountains form the boundary between Hana and Kaze province. Completing the temple may bring them out on the Kaze
+        side — or provide information that directly advances this quest.</p>
+
+        <p><strong>Known Complications</strong>:</p>
+
+        <ul>
+
+        <li><strong>Ko&#39;jiri&#39;s Forged Letter</strong> — Ko&#39;jiri carries two versions of correspondence from
+        Ren Nakamura: the legitimate envoy letter and a forged version requesting additional materials. The real letter
+        was sent to Heian through official channels simultaneously. The window during which the discrepancy remains
+        undiscovered is closing.</li>
+
+        <li><strong>The Conditional Pardon&#39;s Terms</strong> — Failure to complete the assignment reactivates all
+        original charges immediately. The pardon has no partial credit — completion is required.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: MzBaHJpl6U4d96hC
+    _key: '!journal.pages!MzBaHJpl6U4d96hC'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The Nagaji — the transformed Clan Gekko members the party has been fighting — are the answer to the
+        assignment. Masota no Gekko is alive, transformed, somewhere in the Kaze highlands. The full truth is available
+        at the Monastery of the Black Lily above Akatsuki. The quest&#39;s nominal completion (report back what happened
+        to the daimyo) is achievable. The deeper question — what do they do about it — is where the quest becomes
+        something larger.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Hideo Nakamura</strong> — Assigned this mission not only because the Gekko investigation is
+        strategically important but because he wanted a deniable party with no official Clan Kaminari affiliation. If
+        things go wrong in Kaze, Clan Kaminari needs to not be officially responsible. Ko&#39;jiri (and by extension the
+        party) is that deniability. Hideo is pragmatic about this. He will support the party within limits, but those
+        limits are defined by what he can defend politically.</li>
+
+        <li><strong>Ren Nakamura</strong> — Sent the legitimate letter to Heian through official channels; the
+        administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s presented version.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>Inside the temple, Ko&#39;jiri&#39;s research notes become directly useful — his documented knowledge of
+        Kinkokyou&#39;s layout gives the party an edge navigating the buried sections; his advantage on History checks
+        (Golden Dragon Clan) is active throughout</li>
+
+        <li>A message from Heian reaches the party through Oshiro Masahiro in Ayame (routed through the Inspector&#39;s
+        network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has started</li>
+
+        <li>Hideo Nakamura sends a discreet secondary message: regardless of what the party finds, he needs a report
+        before it goes anywhere else; he implies that certain information in the wrong hands at the wrong moment would
+        be catastrophic</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: HJTevvfA7G73uo1s
+    _key: '!journal.pages!HJTevvfA7G73uo1s'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>Ko&#39;jiri is about to walk into the temple that is the subject of years of his own research. The narrative
+        irony is complete: the con artist who built a career on faking Golden Dragon authority is standing at the actual
+        door of the Golden Dragon Clan&#39;s lost sanctuary. Whatever happens inside will be real in ways his
+        performances never were.</p>
+
+        <p>The forged letter timeline: Ren Nakamura&#39;s legitimate letter arrived in Heian&#39;s administrative
+        processing queue approximately when the party did, or shortly after. Heian&#39;s administrative function is
+        slowed by the political vacuum — the legitimate letter has been logged but not yet actively cross-referenced
+        against Ko&#39;jiri&#39;s presence in Heian. Estimate: 2-4 sessions before someone notices the discrepancy.
+        Hideo Nakamura&#39;s office would be the first to catch it — creating a direct conflict between
+        Ko&#39;jiri&#39;s handler and Ko&#39;jiri&#39;s legal situation.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ul>
+
+        <li>Delivering a clear account of the Gekko situation to Hideo Nakamura closes the formal assignment — but
+        &quot;a clear account&quot; requires revealing the Nagaji situation, which has political consequences Hideo was
+        trying to avoid by using deniable agents</li>
+
+        <li>Hideo will honor the pardon but may need a serious conversation about what the party tells, who they tell,
+        and when</li>
+
+        <li>The deeper question — can the Gekko transformation be reversed, and will Ko&#39;jiri be part of making that
+        happen — extends well beyond the assignment&#39;s formal completion</li>
+
+        <li>The temple contains the reversal documentation; Ko&#39;jiri&#39;s research is directly relevant to finding
+        it; he may be the most prepared person in the party for what lies inside</li>
+
+        </ul>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>Forged letter clock: ~2-4 sessions from Heian arrival before the discrepancy is discovered</li>
+
+        <li>The temple visit is happening now — Ko&#39;jiri&#39;s research advantage is active throughout</li>
+
+        <li>Report to Hideo needed before the political situation escalates</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>main-gekko-investigation</strong> — Ko&#39;jiri&#39;s personal quest IS the main investigation; his
+        pardon depends on completing it</li>
+
+        <li><strong>Temple of Kinryu</strong> — contains information directly relevant to Ko&#39;jiri&#39;s research;
+        the temple will test whether there is anything genuine beneath the performance</li>
+
+        <li><strong>The forged letter</strong> — a ticking clock that will create a confrontation scene when the
+        discrepancy surfaces</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/quests/personal-kojiri-misunderstood.md
+    slug: personal-kojiri-misunderstood
+    frontmatter:
+      name: 'Misunderstood Ventures: The Side Effects of Wisdom'
+      type: quest
+      quest_type: personal
+      status: active
+      quest_giver: shicho-ren-nakamura
+      pc_focus:
+        - Ko'jiri
+      location: akatsuki-kaze-province
+      acquired_date: Kikyo
+      resolved_date: null
+      trigger: null
+      origin: null
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: null
+      related_quests:
+        - main-gekko-investigation
+      tags: []
+  simple-quest:
+    status: active

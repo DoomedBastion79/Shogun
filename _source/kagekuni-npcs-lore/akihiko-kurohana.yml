@@ -1,0 +1,198 @@
+_id: BeyOUhGlMY7ZBP9e
+_key: '!journal!BeyOUhGlMY7ZBP9e'
+name: Akihiko Kurohana
+pages:
+  - _id: OZv9qFhO2E2gzdU2
+    _key: '!journal.pages!OZv9qFhO2E2gzdU2'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Dragonborn (Black)</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kurohana</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Daimyo of Clan Kurohana</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">utsuroi</dd></div></dl><p><em
+        lang="ja-Latn">Daimyo of Clan Kurohana</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: KHttB3X293Yaft8H
+    _key: '!journal.pages!KHttB3X293Yaft8H'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Black scales with a glossy sheen; glowing red eyes; intricate dragon tattoos on his back.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo and supreme leader of Clan Kurohana, one of the three independent clans. Commands significant military
+        resources and political influence. Issued the Imperial Seal of the Kurohana Clan calling upon the independent
+        Kaminari Clan to investigate the Gekkō Clan&#39;s unexplained silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, commanding; values loyalty and discipline; enjoys battle and strategy; unforgiving of betrayal.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Indirect. The party carries the Imperial Seal of the Kurohana Clan, issued by Lord Kurohana Tatsuya on behalf
+        of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans
+        (Kurohana and Kaminari) are invested in the Gekkō situation — Gekkō is the third independent clan.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: FGsl6V0axxvBa7JJ
+    _key: '!journal.pages!FGsl6V0axxvBa7JJ'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>Doubts the accusations against Dian&#39;s father regarding the emperor&#39;s assassination. Actively
+        investigating the true culprits behind the emperor&#39;s death. Has allies in rival clans who are sympathetic to
+        his cause.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Allied with sympathetic elements across clan boundaries in pursuit of the truth behind the emperor&#39;s
+        assassination. His investigation parallels that of Raijin no Kazuhiko (Daimyo of Kaminari).</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> May send
+        the party to gather evidence exonerating Dian&#39;s father; can provide strategic resources and insights for the
+        investigation.</div>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: PedV5mliFUlilQYd
+    _key: '!journal.pages!PedV5mliFUlilQYd'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-campaign-secrets"
+        data-section="campaign-secrets">Campaign Secrets</h3>
+
+        <p>The convergence of both independent clan daimyo independently doubting the official assassination narrative
+        is politically explosive. If this alignment became public, it would fundamentally shift the political
+        landscape.</p>
+
+        <h3 id="kg-plot-threads" data-section="plot-threads">Plot Threads</h3>
+
+        <ul>
+
+        <li>Emperor&#39;s assassination investigation — active; truth unknown</li>
+
+        <li>Connection to Dian Wei&#39;s personal arc</li>
+
+        <li>Gekkō investigation — initiated the cross-clan seal requesting cooperation</li>
+
+        <li>Succession crisis implications</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/akihiko-kurohana.md
+    slug: akihiko-kurohana
+    frontmatter:
+      name: Akihiko Kurohana
+      type: npc
+      detail: major
+      status: active
+      race: Dragonborn (Black)
+      sex: M
+      age: 54
+      height: 6'6"
+      weight: 270
+      clan: kurohana
+      caste: kugai
+      role: Daimyo of Clan Kurohana
+      location: utsuroi
+      affiliations:
+        - clan-kurohana
+      tags:
+        - daimyo
+        - political-leader
+        - dragonborn
+      aliases: []
+      related_npcs:
+        - raijin-no-kazuhiko
+        - kenshin-arakawa
+        - tatsuya-hoshino
+      related_quests: []

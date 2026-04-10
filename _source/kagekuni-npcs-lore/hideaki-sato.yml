@@ -1,0 +1,223 @@
+_id: LxYKTGiDHIGu2UFz
+_key: '!journal!LxYKTGiDHIGu2UFz'
+name: Hideaki Sato
+pages:
+  - _id: ObYEKCwLE0yduNCn
+    _key: '!journal.pages!ObYEKCwLE0yduNCn'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Chōrō (Village Elder) of Kōriwara; Order of the Sacred
+        Grove</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">koriwara</dd></div></dl><p><em lang="ja-Latn">Chōrō (Village Elder) of Kōriwara — Order of
+        the Sacred Grove</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 9fNW2Ji9Mv6ubepN
+    _key: '!journal.pages!9fNW2Ji9Mv6ubepN'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Gray hair tied back; weathered skin; sharp contemplative brown eyes; long flowing beard.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Village elder (chōrō) of Kōriwara, a small foothills village in Mizu province. Relc&#39;s home village.
+        Keeper of the sacred grove on the hillside above the village — a small stand of ancient trees reached by a foot
+        path, unmarked and unfenced but respected by the community.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Deep wisdom; duty-driven; slightly skeptical of outsiders until familiarity is established; profound
+        knowledge of ancient traditions.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
+        before departing. He has not told Relc everything he knows.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: TjhtIa8XOcAyh544
+    _key: '!journal.pages!TjhtIa8XOcAyh544'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>More than a simple village elder. His decades of accumulated knowledge, his connection to the Order of the
+        Sacred Grove, and his quiet role as a node in networks that extend far beyond a mountain foothills village give
+        Kōriwara significance entirely disproportionate to its size.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
+        multiple occasions, including with Solas Evergreen directly. His community network in the Mizu foothills region
+        could help establish Yasutake Mai in Sunsato if the party makes the connection.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Sato
+        sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something has
+        happened near the sacred grove that he cannot explain and cannot address alone.
+
+        <strong>[QUEST SEED]</strong> A stranger arrived in Kōriwara asking questions about Relc and where they had
+        gone; Sato gave nothing away but is concerned about whether Relc is being watched.
+
+        <strong>[QUEST SEED]</strong> If the party introduces Yasutake Mai to Sato&#39;s community network, they earn a
+        favor with Sato and plant a contact in the north Mizu foothills.</div>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: knzIPk4gvio5y6HS
+    _key: '!journal.pages!knzIPk4gvio5y6HS'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-campaign-secrets"
+        data-section="campaign-secrets">Campaign Secrets</h3>
+
+        <p>Sato knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and, broadly,
+        what it protects. He has not told Relc because he was following Solas&#39;s instruction to let Relc develop
+        organically — and because he judged Relc was not yet ready for the weight of the full picture.</p>
+
+        <p>One of the three stones referenced in Solas&#39;s cipher poem is in Kōriwara — specifically, in the sacred
+        grove above the village. It is a naturally occurring stone with unusual surface striations that, when viewed
+        from a specific angle at dawn, produce a visual pattern. Sato knows this stone. He knows what the Warden&#39;s
+        Wisdom is — not its specific content, but its general nature: protected knowledge about the living dragons held
+        by the Order of the Sacred Grove for safekeeping.</p>
+
+        <p>Sato does not know who killed Solas, but he knows the category of entity capable of it. Solas was skilled,
+        cautious, and not easily surprised. The killing required either significantly superior capability or intimate
+        familiarity — someone Solas trusted and did not guard against. This points to either a very powerful
+        practitioner or someone inside the Order of the Sacred Grove or the Ancient Guard itself.</p>
+
+        <h3 id="kg-plot-threads" data-section="plot-threads">Plot Threads</h3>
+
+        <ul>
+
+        <li>Relc&#39;s personal quest — the cipher poem&#39;s first stone is in Kōriwara&#39;s sacred grove</li>
+
+        <li>Solas&#39;s murder — knows the category of killer but not the identity</li>
+
+        <li>Order of the Ancient Guard knowledge — has not yet shared with Relc</li>
+
+        <li>Sacred grove disturbance — something has happened he cannot explain</li>
+
+        <li>Stranger asking about Relc — someone is tracking the party&#39;s druid</li>
+
+        <li>Yasutake Mai connection — can help establish her in the Sunsato/Kōriwara community</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/hideaki-sato.md
+    slug: hideaki-sato
+    frontmatter:
+      name: Hideaki Sato
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: M
+      age: 78
+      height: 5'4"
+      weight: 120
+      clan: none
+      caste: zokumin
+      role: Chōrō (Village Elder) of Kōriwara; Order of the Sacred Grove
+      location: koriwara
+      affiliations:
+        - order-of-the-sacred-grove
+      tags:
+        - village-elder
+        - sacred-grove
+        - mentor
+        - koriwara
+      aliases:
+        - Elder Sato
+        - Sato Hideaki
+      related_npcs:
+        - solas-evergreen
+        - benkei
+      related_quests: []

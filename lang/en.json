@@ -1,0 +1,13 @@
+{
+  "KAGEKUNI.ModuleTitle": "Kagekuni Assistant",
+  "KAGEKUNI.Settings.ProxyUrl.Name": "Proxy Server URL",
+  "KAGEKUNI.Settings.ProxyUrl.Hint": "The URL of your local proxy server (e.g. http://localhost:3100)",
+  "KAGEKUNI.Settings.ActorName.Name": "Assistant Actor Name",
+  "KAGEKUNI.Settings.ActorName.Hint": "Name of the actor that speaks assistant responses in chat. Created automatically if it doesn't exist.",
+  "KAGEKUNI.Settings.JournalFolder.Name": "Context Journal Folder",
+  "KAGEKUNI.Settings.JournalFolder.Hint": "Only journal entries in this folder (and subfolders) will be sent as lore context. Leave blank to use all journals.",
+  "KAGEKUNI.Settings.MaxContextEntries.Name": "Max Journal Entries",
+  "KAGEKUNI.Settings.MaxContextEntries.Hint": "Maximum number of journal entries to include as context per request (to manage token usage).",
+  "KAGEKUNI.Chat.Thinking": "The spirits are stirring...",
+  "KAGEKUNI.Chat.Error": "The spirits fall silent. (Connection error — is your proxy running?)"
+}

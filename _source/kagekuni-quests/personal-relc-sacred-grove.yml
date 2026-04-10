@@ -1,0 +1,301 @@
+_id: gn2nrvAov60kvh04
+_key: '!journal!gn2nrvAov60kvh04'
+name: Shadows of the Sacred Grove
+pages:
+  - _id: fGLvcWX4UaedsP0t
+    _key: '!journal.pages!fGLvcWX4UaedsP0t'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">koriwara</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">personal</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">solas-evergreen</dd></div></dl><p><em
+        lang="ja-Latn">&quot;He knew what was coming. He chose to face it anyway. Now he is asking you to face it for
+        him.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: ExZdaUmkhknf5LKl
+    _key: '!journal.pages!ExZdaUmkhknf5LKl'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>Solas Evergreen, Guardian of the Order of the Sacred Grove, was found dead among the ancient trees he had
+        sworn to protect. The death showed signs of a struggle against something powerful and unknown. To most, it was a
+        tragedy. To Relc — his devoted apprentice — it was the beginning of an unwanted and necessary journey.</p>
+
+        <p>Solas appeared to Relc in fragmented visions following his death, guiding him toward Heian. The posthumous
+        letter Solas had prepared before his death, held by Benkei of the Order of the Tranquil Lotus, named Relc as the
+        next Guardian of the Sacred Grove — a role Solas had prepared him for, even if Relc did not know it. The letter
+        contained not just the appointment but a cipher poem pointing toward something Solas called the <em
+        lang="ja-Latn">Warden&#39;s Wisdom</em>.</p>
+
+        <p>Solas knew danger was coming. He prepared for his death before it arrived. He did not tell Relc directly. He
+        is still communicating — in the only way he can now.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Investigate the death of Solas Evergreen<ul>
+
+        <li class="kg-task" data-done="false">Follow the visions of Solas to Heian</li>
+
+        <li class="kg-task" data-done="false">Meet with Benkei and receive the letter</li>
+
+        <li class="kg-task" data-done="false">Await the next vision to appear</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><strong>The Letter from Solas Evergreen</strong> — Formally appoints Relc as Guardian of the Sacred Grove.
+        Written in advance of death — Solas knew danger was coming. Instructs Relc to seek friends, forge alliances, and
+        find answers through the journey rather than by staying still. The letter&#39;s reverse side contains a cipher
+        poem.</p>
+
+        <p><strong>The Cipher Poem (reverse side of the letter)</strong>:
+
+        <em lang="ja-Latn">Ancient sighing trees → still mirror of water → three stones (past / present / future) →
+        align with rising sun → glade with phoenix fern → unlocks Warden&#39;s Wisdom</em></p>
+
+        <p><strong>The Three Stones</strong> — Three specific stones that must be located and oriented toward the rising
+        sun. Their locations are not specified in the poem; finding them is part of the quest. One is believed to be
+        near Koriwara (Relc&#39;s home village). The others are unknown.</p>
+
+        <p><strong>Phoenix Fern Glade</strong> — A specific location identifiable by the presence of phoenix fern — a
+        rare plant associated with renewal and sacred grove sites. The final destination once the stones are
+        oriented.</p>
+
+        <p><strong>The Warden&#39;s Wisdom</strong> — What the cipher poem ultimately unlocks. Its nature is not yet
+        known to Relc.</p>
+
+        <p><strong>Benkei&#39;s Role</strong> — The Elder of the Order of the Tranquil Lotus held Solas&#39;s letter for
+        Relc. His own membership in the Order of the Ancient Guard suggests a connection between Solas&#39;s death and
+        threats to something much larger than a single grove guardian.</p>
+
+        <p><strong>Solas&#39;s Spirit</strong> — Has appeared to Relc in visions at least twice. The visions have been
+        directional rather than explanatory — pointing toward Heian, toward Benkei. The next vision is expected when
+        Relc reaches a point where direction is needed again.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: E4E6KQQgfymsz2bl
+    _key: '!journal.pages!E4E6KQQgfymsz2bl'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The Warden&#39;s Wisdom is protected knowledge held by the Order of the Sacred Grove on behalf of the Order
+        of the Ancient Guard. Specifically: it is a set of location coordinates — described in symbolic rather than
+        literal geographic terms — pointing toward the hidden sanctuaries of three of the seven founding dragons. The
+        Sacred Grove Order was entrusted with this knowledge as a failsafe: if the Ancient Guard was ever compromised,
+        someone outside the order would know where to find the dragons without depending on Ancient Guard
+        infrastructure. Solas was the primary keeper of this information. Relc is now.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Benkei</strong> — Knows more than he has shared with Relc. He is aware of the Warden&#39;s
+        Wisdom&#39;s existence and importance, though he does not know its specific content. He is watching Relc&#39;s
+        development carefully. If Relc demonstrates readiness (accepting the weight of the Guardian role rather than
+        simply carrying the title), Benkei will share more.</li>
+
+        <li><strong>Elder Sato Hideaki</strong> — Knows the location of the first stone in the sacred grove above
+        Koriwara.</li>
+
+        <li><strong>Forest of Spirits faction (Kusa province)</strong> — Know what Stone 2 is, and accessing it will
+        require a relationship with the faction.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>The next vision arrives at the gold doors or shortly after entering the temple: Solas in the grove above
+        Koriwara, hand resting on a specific stone, dawn light hitting it from the east — points Relc toward going home
+        after the temple</li>
+
+        <li>Benkei sends a message to Relc: he needs to speak before they lose contact; he has something to say that
+        couldn&#39;t be said in Heian with other ears present</li>
+
+        <li>At the Temple of Kinryu, something inside recognizes Relc&#39;s role as Guardian — the Sacred Grove and the
+        Golden Dragon Clan had a historical relationship that will be relevant within the temple</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: b4NLqnuoAdNVIOmY
+    _key: '!journal.pages!b4NLqnuoAdNVIOmY'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>Solas was killed because someone was hunting the Warden&#39;s Wisdom — the locations of the Progenitors. They
+        did not get it. Solas had distributed the cipher poem as a secondary protection; the actual Warden&#39;s Wisdom
+        cannot be accessed without completing the three-stone sequence, and completing that sequence requires presence
+        at specific locations that the killer did not know. The killer knew Solas had the information but did not know
+        how it was protected. They killed him hoping to find documentation that did not exist in accessible form.</p>
+
+        <p>The killer was someone within the overlap between the Order of the Sacred Grove and the Order of the Ancient
+        Guard — someone who knew Solas was on a specific mission to wake Kinryu (the Golden Progenitor) and could get
+        close enough to catch him. The motive: preventing Kinryu&#39;s awakening, which serves the interests of the
+        awakened dark Progenitor (Murasakiryu, masquerading as Kokuryu).</p>
+
+        <p>The killer believed the mission died with Solas. Relc has an unknown head start.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ul>
+
+        <li>Complete the three-stone sequence: Stone 1 (Koriwara, Elder Sato), Stone 2 (Yousei Mori, Forest of Spirits,
+        Kusa province), Stone 3 (Hoshimori Plateau, Sora province — near abandoned Golden Age observatories, watched by
+        something)</li>
+
+        <li>Access the Warden&#39;s Wisdom — the dragon sanctuary locations</li>
+
+        <li>Pursue Solas&#39;s original mission: wake Kinryu to restore balance against the awakened Murasakiryu</li>
+
+        </ul>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>The next vision triggers at the gold doors or inside the temple — pointing Relc home to Koriwara and Stone
+        1</li>
+
+        <li>Benkei is traveling toward Heian; the window to communicate with him is closing</li>
+
+        <li>If the killer learns Solas had a designated successor, Relc inherits a target on his back</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>The Order of the Ancient Guard</strong> — compromised; Solas&#39;s location was known to someone;
+        the organization may be down to a handful of members</li>
+
+        <li><strong>The Progenitor arc</strong> — the campaign&#39;s deepest thread; Relc&#39;s quest connects directly
+        to the endgame</li>
+
+        <li><strong>main-gekko-investigation</strong> — the temple the party is entering contains information relevant
+        to both quests; the Sacred Grove and Golden Dragon Clan had a historical relationship</li>
+
+        <li><strong>Murasakiryu</strong> — the awakened Amethyst Progenitor masquerading as Kokuryu; every sei use
+        passes through its awareness; Solas was killed to prevent Kinryu from being woken as a counterbalance</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/personal-relc-sacred-grove.md
+    slug: personal-relc-sacred-grove
+    frontmatter:
+      name: Shadows of the Sacred Grove
+      type: quest
+      quest_type: personal
+      status: active
+      quest_giver: solas-evergreen
+      pc_focus:
+        - Relc
+      location: koriwara
+      acquired_date: Following Solas Evergreen's death
+      resolved_date: null
+      trigger: null
+      origin: null
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: null
+      related_quests:
+        - main-gekko-investigation
+        - main-light-of-the-star-mirror
+      tags: []
+  simple-quest:
+    status: active

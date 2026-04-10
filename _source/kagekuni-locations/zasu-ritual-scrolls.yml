@@ -1,0 +1,386 @@
+_id: mboDGzhNT7Ge0KdB
+_key: '!journal!mboDGzhNT7Ge0KdB'
+name: The Zasu's Ritual Scrolls — Hebi no Hensen
+pages:
+  - _id: H4r5ffmdP0ZOwrcT
+    _key: '!journal.pages!H4r5ffmdP0ZOwrcT'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">location-item</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div></dl><p><em lang="ja-Latn">Found on
+        or near the Nagaji Zasu&#39;s body after the encounter in the Inner Sanctum (Room 6). A bundle of documents
+        carried by the creature — some rolled tightly inside a cracked leather scroll case lashed to the body with
+        strips of torn silk, others loose and partially crushed beneath its coils.</em></p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: FUTsD1MOrPaDrSUL
+    _key: '!journal.pages!FUTsD1MOrPaDrSUL'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+
+        <p>The scroll case is lacquered hardwood, once fine, now split along one seam and discoloured by sustained
+        contact with scaled flesh. It is lashed to the Zasu&#39;s midsection with strips of silk torn from what was once
+        a formal obi — deep indigo fabric with a barely visible mon: a crescent moon above still water.</p>
+
+        <p>Inside: seven documents in varying states of preservation. Not a single unified text — a collection,
+        assembled from multiple sources over time. Some are written in the same hand. Others are not.</p>
+
+        <p><strong>The Bundle:</strong></p>
+
+        <ol>
+
+        <li><p><strong>Three intact sheets</strong> — Heavy mulberry paper, brushwork in formal seimaster notation.
+        Dense. Technical. Written in a dialect of Classical Kagekunian that predates the current era by centuries. Not a
+        language any living scholar would read fluently, but structural elements are recognizable to anyone trained in
+        arcane or historical study.</p>
+
+        </li>
+
+        <li><p><strong>One large diagram</strong> — Folded repeatedly and worn soft at the creases. Ink faded at the
+        edges but the central image is clear: a human figure enclosed in concentric rings of notation, with lines
+        radiating outward to seven points. The figure&#39;s outline blurs at the extremities — the arms taper, the legs
+        merge, the head elongates. Whether this depicts a process or a result is not immediately clear.</p>
+
+        </li>
+
+        <li><p><strong>Two damaged pages</strong> — Charred along one edge, as though pulled from a fire before the
+        damage was complete. The surviving text is fragmentary. Diagrams of something anatomical — bones? Muscles? The
+        proportions are wrong for a human body. Marginal annotations in a second, more hurried hand.</p>
+
+        </li>
+
+        <li><p><strong>One loose leaf</strong> — Thinner paper, different ink, different hand entirely. A list or index
+        of some kind — short entries, each followed by a location reference and a symbol. Several entries have been
+        circled. One has been crossed out with a single deliberate stroke.</p>
+
+        </li>
+
+        </ol>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 8FW9aaa8J1XNeGYl
+    _key: '!journal.pages!8FW9aaa8J1XNeGYl'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3
+        id="kg-investigation-amp-identification" data-section="investigation-amp-identification">Investigation &amp;
+        Identification</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>Identify the scroll case&#39;s origin</strong> (DC 12
+        Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>Identify the obi fabric and mon</strong> (DC 13 Investigation or
+        DC 11 History with Gekkō knowledge)</li>
+
+        <li class="kg-task" data-done="false"><strong>Read the intact sheets — surface meaning</strong> (DC 14
+        Arcana)</li>
+
+        <li class="kg-task" data-done="false"><strong>Read the intact sheets — deeper understanding</strong> (DC 17
+        Arcana)</li>
+
+        <li class="kg-task" data-done="false"><strong>Interpret the large diagram</strong> (DC 13 Arcana or DC 14
+        Medicine)</li>
+
+        <li class="kg-task" data-done="false"><strong>Read the damaged pages</strong> (DC 15 Arcana; DC 13 if diagram
+        already interpreted)</li>
+
+        <li class="kg-task" data-done="false"><strong>Interpret the loose leaf index</strong> (DC 14 Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>Identify the crossed-out entry</strong> (DC 16 History or DC 14
+        with Ko&#39;jiri&#39;s Golden Dragon advantage)</li>
+
+        <li class="kg-task" data-done="false"><strong>Recognize the reversal reference</strong> (DC 18 Arcana; DC 15 if
+        intact sheets already read at deeper understanding)</li>
+
+        </ul>
+
+        <hr>
+
+        <h3 id="kg-check-results" data-section="check-results">Check Results</h3>
+
+        <p><strong>The Scroll Case — DC 12 Investigation:</strong>
+
+        The case itself is seimaster&#39;s equipment — purpose-built for transporting documents that carry active sei
+        residue. The interior is lined with a thin copper-leaf layer designed to insulate the contents from ambient
+        magical interference. This is not a general-purpose scroll case. It was made for carrying something dangerous,
+        or at least something that interacted with sei in ways that required containment.</p>
+
+        <p><strong>The Obi and Mon — DC 13 Investigation (or DC 11 History with prior Gekkō knowledge):</strong>
+
+        The silk is from a formal obi — the width, weave, and indigo dye are consistent with dress worn by clan
+        leadership or senior retainers during official functions. The mon embroidered into the fabric is a crescent moon
+        reflected in still water. Any character who has encountered Clan Gekkō&#39;s heraldry — or studied the
+        independent clans — recognizes this as the Gekkō clan crest. The Zasu was carrying documents bound to its body
+        with a strip of its own formal clothing.</p>
+
+        <p><strong>The Intact Sheets — DC 14 Arcana (Surface Reading):</strong>
+
+        The notation system is recognizable as seimaster technical writing — the equivalent of a magical research
+        language. The three sheets describe a process. Something is being channelled through a living subject. The
+        terminology is archaic but the structural grammar matches transformation magic — not illusion, not transmutation
+        in the temporary sense, but <em lang="ja-Latn">permanent alteration of a living form</em>. References to
+        &quot;the vessel&quot; and &quot;the shape beyond&quot; appear repeatedly. The tone is clinical. There is no
+        ethical framing anywhere in the text — no discussion of consent, consequence, or reversal. It reads like
+        instructions, not philosophy.</p>
+
+        <p><strong>The Intact Sheets — DC 17 Arcana (Deeper Understanding):</strong>
+
+        At this level of comprehension, specific details emerge. The transformation described is not a single event but
+        a cascading process — once initiated in one subject, it propagates through sei-bonded individuals in proximity.
+        The ritual was designed for a group, not an individual. The source tradition is not Golden Dragon — the
+        foundational theory, the sei-alignment patterns, the structural logic all point to Kokuryu. Onyx Dragon magical
+        tradition. A character who knows anything about the dragon clans understands immediately: this was never
+        Kinryū&#39;s work. Someone found Kokuryu research and tried to use it.</p>
+
+        <p>The text also references a prerequisite — a &quot;site of origin&quot; where the sei conditions are correct
+        for the initial casting. The site is not named. But the geographic and environmental markers described (acoustic
+        distortion, thermal anomalies, hollow stone formations) do not match any location the party has visited. They
+        match somewhere else. Somewhere in Kaze Province.</p>
+
+        <p><strong>The Large Diagram — DC 13 Arcana or DC 14 Medicine:</strong>
+
+        The figure at the center is human. The process depicted moves outward through the concentric rings — each ring
+        representing a stage. The outermost ring shows a form that is no longer human. Limbs have fused. The spine has
+        elongated. The skull has narrowed and stretched. A medical eye (DC 14 Medicine) recognizes that this is not
+        artistic abstraction — the anatomical transitions are rendered with the precision of someone who understood
+        exactly how a human body would need to change to arrive at the depicted result. The seven radiating points
+        correspond to sei meridian nodes in the body — the same points targeted in advanced healing magic, but inverted.
+        Whatever this process does, it rewrites the subject at the level of their sei architecture. There is no
+        &quot;off&quot; described anywhere on the diagram.</p>
+
+        <p><strong>The Damaged Pages — DC 15 Arcana (DC 13 if diagram already interpreted):</strong>
+
+        Fragmentary, but enough survives to understand: these pages describe what happens <em lang="ja-Latn">after</em>
+        the transformation. Behavioral changes. Cognitive deterioration over time — described not as a flaw but as a
+        known parameter. The phrase that survives most completely translates roughly as: &quot;the mind narrows to the
+        form.&quot; A character who has already interpreted the diagram understands: the transformation was known to
+        degrade rational thought. Whoever designed this ritual documented the cognitive cost and included it anyway. The
+        annotations in the second hand — more hurried, less formal — appear to be someone&#39;s attempt to calculate
+        timelines. How long before the subject loses coherent speech. How long before decision-making capacity degrades
+        below functional thresholds. The numbers are partially burned away, but the progression described is measured in
+        months, not years.</p>
+
+        <p><strong>The Loose Leaf Index — DC 14 Investigation:</strong>
+
+        A reference list. Each entry consists of a short descriptor (a place or a thing, not a person), a location
+        reference using a coordinate system the party does not recognize, and a symbol from a set of about a dozen
+        recurring glyphs. The format is consistent with a research index — a scholar&#39;s shorthand for tracking source
+        materials across multiple sites. Several entries have been circled in the same ink as the intact sheets. One
+        entry — near the bottom of the list — has been crossed out with a single, deliberate horizontal stroke. The ink
+        used for the strike-through is different from everything else on the page. Newer.</p>
+
+        <p><strong>The Crossed-Out Entry — DC 16 History (DC 14 with Ko&#39;jiri&#39;s Golden Dragon Clan
+        advantage):</strong>
+
+        The struck entry&#39;s descriptor translates loosely as &quot;the golden restoration&quot; or &quot;the golden
+        counter-work.&quot; Its location reference, while in the same unrecognized coordinate system as the rest,
+        includes a secondary notation that uses directional language consistent with mountain-interior positioning. A
+        character with knowledge of the Golden Dragon Clan&#39;s history (Ko&#39;jiri) recognizes the phrasing:
+        &quot;counter-work&quot; is a term used in Golden Dragon magical tradition for a specifically developed
+        countermeasure to another clan&#39;s magic. The crossed-out entry refers to a Golden Dragon response to whatever
+        this ritual represents. It exists — or existed — somewhere. And whoever crossed it out knew it was there and
+        chose to mark it as eliminated, completed, or irrelevant.</p>
+
+        <p><strong>The Reversal Reference — DC 18 Arcana (DC 15 if intact sheets already read at deeper
+        understanding):</strong>
+
+        Buried in the technical language of the intact sheets, between two passages describing sei-channel alignment
+        during the transformation&#39;s second phase, is a parenthetical notation — almost an aside. It translates
+        approximately as: &quot;Restoration of original form requires inversion at the site of origin, using the
+        counter-work of the golden tradition, during a convergence of the three lights.&quot; Three components. A
+        location (site of origin — wherever the ritual was first performed). A method (the Golden Dragon countermeasure
+        — the crossed-out entry on the index). A timing condition (convergence of the three lights — a celestial
+        alignment involving Kagekuni&#39;s three stars). The notation is not a guide. It is a footnote — an
+        acknowledgement that reversal is theoretically possible, recorded with the clinical detachment of someone
+        cataloguing edge cases, not someone who expected it to matter.</p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: eUExTLyDgMcmRcph
+    _key: '!journal.pages!eUExTLyDgMcmRcph'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-notes" data-section="dm-notes">DM
+        Notes</h3>
+
+        <p><strong>Why the Zasu carries these:</strong> The chief seimaster gathered these documents before performing
+        the ritual on himself — the last to undergo it, trying to maintain enough awareness to lead his transformed
+        people. He kept them because some fragment of the scholar he was still compels him to. The scrolls are lashed to
+        his body the way a drowning person holds a rope. He cannot read them anymore. He cannot remember why they
+        matter. But he will not let them go.</p>
+
+        <p><strong>The obi:</strong> The strip of formal clothing binding the case to the Zasu&#39;s body is a detail
+        that should land quietly. This creature dressed itself. Or — more precisely — something that was becoming this
+        creature took the time to secure these documents to its body using a piece of its own ceremonial clothing before
+        the transformation completed. The crescent moon mon is facing outward. Whether that was intentional is
+        unknowable.</p>
+
+        <p><strong>Narrative function:</strong> These scrolls serve three purposes simultaneously:</p>
+
+        <ol>
+
+        <li><p><strong>Dot-connection for the Gekkō investigation.</strong> The Gekkō mon on the obi, the transformation
+        ritual in the sheets, and the Nagaji the party has been fighting begin to form a single picture. The party
+        doesn&#39;t need to reach the full conclusion here — but they should leave this encounter with a growing unease
+        that the Nagaji are not what they assumed.</p>
+
+        </li>
+
+        <li><p><strong>Breadcrumb toward the Order of the Black Lily.</strong> The &quot;site of origin&quot; referenced
+        in the reversal notation — with its acoustic distortion, thermal anomalies, and hollow stone — describes a
+        location in Kaze Province. The party doesn&#39;t know that yet. When they reach Kaze and encounter those
+        geographic features, the scrolls become a key that unlocks a door they didn&#39;t know they were carrying.</p>
+
+        </li>
+
+        <li><p><strong>Breadcrumb toward the Golden Dragon countermeasure.</strong> The crossed-out entry on the index
+        tells the party two things: a reversal exists (or existed), and someone — the Zasu, before the transformation —
+        knew about it and struck it from the list. Whether he crossed it out because he believed it was destroyed,
+        because he had already looked for it and failed, or because he wanted to ensure no one pursued it, is
+        deliberately ambiguous. The party may interpret this differently depending on their read of the Zasu — as a
+        warning, a surrender, or a sabotage.</p>
+
+        </li>
+
+        </ol>
+
+        <p><strong>What the scrolls do NOT reveal:</strong></p>
+
+        <ul>
+
+        <li>They do not name Clan Gekkō, Masota Gekkō, or any individual</li>
+
+        <li>They do not explain <em lang="ja-Latn">why</em> the ritual was performed</li>
+
+        <li>They do not describe where the &quot;site of origin&quot; is (geographic markers only — no place names)</li>
+
+        <li>They do not confirm that the Nagaji the party has fought are transformed people (the connection is
+        inferential, not explicit)</li>
+
+        <li>They do not provide enough information to perform the reversal — only to know that one theoretically exists
+        and requires three components the party does not yet have</li>
+
+        </ul>
+
+        <p><strong>Ko&#39;jiri&#39;s unique position:</strong> Ko&#39;jiri&#39;s advantage on Golden Dragon History
+        checks makes him the most likely party member to identify the crossed-out entry&#39;s significance. This is by
+        design — the con artist who faked Golden Dragon expertise is now the person whose genuine research matters most.
+        If Ko&#39;jiri is the one who identifies the &quot;golden counter-work&quot; reference, the narrative irony
+        completes: the knowledge he built to deceive is the knowledge that may save an entire clan.</p>
+
+        <p><strong>Timing and pacing:</strong> The scrolls are meant to be studied, not instantly decoded. Encourage the
+        party to examine them over a short rest or between encounters. The check DCs are set so that a single character
+        is unlikely to extract everything in one pass — this is a puzzle that rewards collaboration. The fighter
+        won&#39;t read the Arcana. The sorcerer won&#39;t catch the History. The druid might notice the Medicine angle
+        on the diagram. Everyone has something to contribute, and the full picture only emerges when they share what
+        they&#39;ve found.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/zasu-ritual-scrolls.md
+    slug: zasu-ritual-scrolls
+    frontmatter:
+      name: The Zasu's Ritual Scrolls — Hebi no Hensen
+      type: location-item
+      location_type: discoverable-item
+      parent: tenkuji-temple/floor-1/inner-sanctum
+      floor: 1
+      room_number: 6
+      island: hokori
+      province: hana
+      status: active
+      tags:
+        - temple
+        - kinryu
+        - first-floor
+        - inner-sanctum
+        - nagaji
+        - zasu
+        - ritual
+        - kokuryu
+        - quest-item
+        - gekko

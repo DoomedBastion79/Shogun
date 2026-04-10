@@ -1,0 +1,68 @@
+_id: aeHMuYpDmwXzkt8v
+_key: '!journal!aeHMuYpDmwXzkt8v'
+name: Kenshin Arakawa
+pages:
+  - _id: b3uFdz8DmY2mjpaq
+    _key: '!journal.pages!b3uFdz8DmY2mjpaq'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">mention</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Unknown</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kurohana</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Taisho, Utsuroi (Tatara)</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">utsuroi</dd></div></dl><p><em
+        lang="ja-Latn">Taisho — Clan Kurohana, Utsuroi (Tatara)</em></p>
+
+        <p>Terse, stern military commander. Delivered sealed orders from Daimyo Kazuhiko to Dian Wei and sent Dian to
+        Heian. Cut off Dian&#39;s complaint about Commander Nokumora&#39;s incompetence without discussion.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/kenshin-arakawa.md
+    slug: kenshin-arakawa
+    frontmatter:
+      name: Kenshin Arakawa
+      type: npc
+      detail: mention
+      status: active
+      race: Unknown
+      sex: M
+      clan: kurohana
+      caste: kugai
+      role: Taisho, Utsuroi (Tatara)
+      location: utsuroi
+      affiliations:
+        - clan-kurohana
+      tags:
+        - taisho
+      aliases: []
+      related_npcs:
+        - akihiko-kurohana
+        - commander-nokumora
+      related_quests: []

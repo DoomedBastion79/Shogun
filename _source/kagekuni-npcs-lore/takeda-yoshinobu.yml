@@ -1,0 +1,138 @@
+_id: CyUld2eHP7MN7Tbx
+_key: '!journal!CyUld2eHP7MN7Tbx'
+name: Takeda Yoshinobu
+pages:
+  - _id: bvRLLxGDjB2uTZcJ
+    _key: '!journal.pages!bvRLLxGDjB2uTZcJ'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Town Leader, Ayame</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">ayame</dd></div></dl><p><em lang="ja-Latn">Town
+        Leader — Ayame</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: kzgRrNVvLDGMWqbW
+    _key: '!journal.pages!kzgRrNVvLDGMWqbW'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Town leader of Ayame under the military overseer structure. Competent administrator, pragmatic in approach.
+        Ayame is the valley town at the base of the Tenchūsan Ren pass — the primary land route between Hana&#39;s
+        southern lowlands and the northern provinces. Population 638.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Pragmatic; not deeply allied with any major faction; protects Ayame&#39;s neutrality because it is
+        economically important.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established. The party passed through Ayame during their transit to the mountains.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Kmrjj52xqg7L94kq
+    _key: '!journal.pages!Kmrjj52xqg7L94kq'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>Has been receiving reports from mountain guide services about unusual activity in the upper pass — disrupted
+        trail markers, signs of large encampment at non-standard locations, and two guides who came back from an
+        upper-route job early, shaken and unwilling to specify what they saw. He has not reported upward through
+        official channels because he has no official channels to report to that he trusts in the current political
+        vacuum.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/takeda-yoshinobu.md
+    slug: takeda-yoshinobu
+    frontmatter:
+      name: Takeda Yoshinobu
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: none
+      caste: zokumin
+      role: Town Leader, Ayame
+      location: ayame
+      affiliations: []
+      tags:
+        - town-leader
+        - ayame
+        - military-overseer
+      aliases: []
+      related_npcs:
+        - oshiro-masahiro
+      related_quests: []

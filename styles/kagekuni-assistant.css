@@ -1,0 +1,74 @@
+/* ============================================================
+   Kagekuni Assistant — Chat Message Styles
+   ============================================================ */
+
+/* Container for assistant responses */
+.kagekuni-response {
+  border-left: 3px solid #8b4513;
+  padding: 6px 10px;
+  margin: 4px 0;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border-radius: 0 6px 6px 0;
+  color: #e0d6c8;
+  font-size: 0.95em;
+  line-height: 1.5;
+}
+
+.kagekuni-response p {
+  margin: 0.4em 0;
+}
+
+.kagekuni-response p:first-child {
+  margin-top: 0;
+}
+
+.kagekuni-response p:last-child {
+  margin-bottom: 0;
+}
+
+/* Inline code */
+.kagekuni-response code {
+  background: rgba(255, 255, 255, 0.08);
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+/* Bold emphasis */
+.kagekuni-response strong {
+  color: #c9a96e;
+}
+
+/* Italic */
+.kagekuni-response em {
+  color: #b8c9e0;
+}
+
+/* Thinking indicator */
+.kagekuni-thinking {
+  color: #7a7a9a;
+  font-style: italic;
+  padding: 4px 10px;
+  animation: kagekuni-pulse 2s ease-in-out infinite;
+}
+
+@keyframes kagekuni-pulse {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1.0; }
+}
+
+/* Error messages */
+.kagekuni-error {
+  color: #c0392b;
+  font-style: italic;
+  padding: 4px 10px;
+}
+
+/* Journal context indicator (shown to GM only) */
+.kagekuni-context-info {
+  font-size: 0.8em;
+  color: #555;
+  border-top: 1px solid #333;
+  margin-top: 6px;
+  padding-top: 4px;
+}

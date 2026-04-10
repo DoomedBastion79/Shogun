@@ -1,0 +1,219 @@
+_id: EMOgLKfM0OZObpld
+_key: '!journal!EMOgLKfM0OZObpld'
+name: Yasutake Mai
+pages:
+  - _id: t44hPPExETmqDCzn
+    _key: '!journal.pages!t44hPPExETmqDCzn'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Civilian traveling with the party</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">tenkuji-temple</dd></div></dl><p><em
+        lang="ja-Latn">Civilian — Traveling with the Party</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Yxj1rXeTnwCXfiB3
+    _key: '!journal.pages!Yxj1rXeTnwCXfiB3'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>A young woman. No detailed physical description established beyond visible distress at the time of
+        encounter.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>A young mother fleeing with her infant child. Encountered on the Emperor&#39;s Highway on the first day of
+        travel north from Heian toward Ayame. She was out of breath, visibly distressed, claimed to be carrying a
+        precious package, and asked the party to hold it — the package was her infant child. She spotted figures running
+        toward her, tossed the child to the party, and bolted. The figures turned out to be boys out for a run, not a
+        threat. Relc caught and returned her.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Capable of managing independently under normal conditions but was operating in a state of fear-driven poor
+        decision making when the party found her. Behavior under stress and useful skills are undeveloped — flagged for
+        development in the DM Notebook.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Traveling with the party. The party offered to take her north through the Tenchūsan Ren to Sunsato on the far
+        side, where she might find safety and a new beginning near Relc&#39;s home region. She is currently inside the
+        Temple of Kinryū with the party — a civilian in a dungeon. She cannot fight. She needs protection or a
+        defensible position during encounters. Her presence affects the party&#39;s tactical decisions and roleplay.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: ct1PnpuyBXsxxQGG
+    _key: '!journal.pages!ct1PnpuyBXsxxQGG'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>She has not fully explained her circumstances or what she was fleeing. Her fear on the highway was genuine —
+        she is running from something real, even though the specific group she feared at that moment turned out to be
+        harmless.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>The people she is actually afraid of are real and have noticed she is gone. They are not currently actively
+        searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Safely
+        transport Yasutake Mai and her infant to Sunsato — quest objective active.
+
+        <strong>[QUEST SEED]</strong> Optional extension: introduce Mai to Elder Sato&#39;s community network at
+        Kōriwara, earning a favor with Sato and planting a contact in the north Mizu foothills.</div>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: w35vYG1WGqzajOlt
+    _key: '!journal.pages!w35vYG1WGqzajOlt'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-campaign-secrets"
+        data-section="campaign-secrets">Campaign Secrets</h3>
+
+        <p>The merchant family she left was involved in Bronze Wood sourcing. She lived in that household for three
+        years and heard conversations she didn&#39;t fully understand at the time. If the underground canal source
+        beneath Seidōrin Mori ever becomes a significant plot point, Mai knows things she doesn&#39;t know she knows — a
+        long-term seed, not immediately relevant.</p>
+
+        <p>The infant is a healthy baby boy with no apparent significance beyond being a mother&#39;s reason to
+        flee.</p>
+
+        <p>Sunsato exists near Relc&#39;s home region and is a viable destination. The community near Kōriwara is
+        historically accepting of people who arrive asking for honest work and quiet lives. Elder Sato Hideaki at
+        Kōriwara knows the community network and could help establish her there.</p>
+
+        <p>If the quest is abandoned, Mai will eventually find her way to safety through other means — she is more
+        capable than she appeared in crisis. She will survive. But she will remember whether the party kept their
+        word.</p>
+
+        <h3 id="kg-plot-threads" data-section="plot-threads">Plot Threads</h3>
+
+        <ul>
+
+        <li>A Mother&#39;s Redemption quest — active; transport to Sunsato</li>
+
+        <li>Bronze Wood connection — she unknowingly carries information relevant to the Seidōrin Mori underground
+        source</li>
+
+        <li>Civilian in a dungeon — her presence in the Temple of Kinryū creates tactical and roleplay
+        considerations</li>
+
+        <li>Connection to Kōriwara/Sato community network</li>
+
+        <li>The people she fled — merchant family connected to Bronze Wood sourcing; watching for her to surface</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/yasutake-mai.md
+    slug: yasutake-mai
+    frontmatter:
+      name: Yasutake Mai
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: F
+      clan: none
+      caste: zokumin
+      role: Civilian traveling with the party
+      location: tenkuji-temple
+      affiliations: []
+      tags:
+        - civilian
+        - non-combatant
+        - traveling-with-party
+        - mother
+        - infant
+      aliases: []
+      related_npcs:
+        - hideaki-sato
+      related_quests:
+        - a-mothers-redemption

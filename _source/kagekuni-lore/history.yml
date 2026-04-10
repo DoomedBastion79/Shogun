@@ -1,0 +1,385 @@
+_id: 4XQSQL2UrY3r73NO
+_key: '!journal!4XQSQL2UrY3r73NO'
+name: History & Timeline
+pages:
+  - _id: DTRJ6VIcjR9UDX75
+    _key: '!journal.pages!DTRJ6VIcjR9UDX75'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-master-timeline"
+        data-section="master-timeline">Master Timeline</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Period</th>
+
+        <th>Years</th>
+
+        <th>Name</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Pre-Imperial</td>
+
+        <td>Before 8000</td>
+
+        <td>Age of Dragons</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Imperial Founding</td>
+
+        <td>~8000–8611</td>
+
+        <td>Era of the First Emperors</td>
+
+        </tr>
+
+        <tr>
+
+        <td>First Golden Age</td>
+
+        <td>8611–13050</td>
+
+        <td>Kagekuni&#39;s Golden Age</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Age of Strife</td>
+
+        <td>13050–13088</td>
+
+        <td>War of Fractured Banners</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dark Ages</td>
+
+        <td>13088–15642</td>
+
+        <td>The Long Dark</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Recovery</td>
+
+        <td>15642–15691</td>
+
+        <td>Jinshō Reformation</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Second Golden Age</td>
+
+        <td>15691–15757</td>
+
+        <td>Era of New Discovery</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Subtle Awakening</td>
+
+        <td>15757–16620</td>
+
+        <td>Return of Talents</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Great Awakening</td>
+
+        <td>16620–present</td>
+
+        <td>Magic Restored</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Current</strong></td>
+
+        <td><strong>16744</strong></td>
+
+        <td><strong>Post-Imperial Crisis</strong></td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-key-historical-events" data-section="key-historical-events">Key Historical Events</h3>
+
+        <p><strong>Age of Dragons (Pre-8000)</strong></p>
+
+        <ul>
+
+        <li>Seven dragon clans ruled the archipelago before human settlement</li>
+
+        <li>Early settlers integrated, paid tribute, joined clans</li>
+
+        <li>Intermingling produced near-immortal arcadian (elf) leaders — first daimyo</li>
+
+        <li>Dragons gradually withdrew from direct rule</li>
+
+        </ul>
+
+        <p><strong>Era of the First Emperors (~8000–8611)</strong></p>
+
+        <ul>
+
+        <li><strong>Tenryū no Mikado</strong> ascended ~8000 at age 852; descended from Crimson and Golden Dragon
+        bloodlines</li>
+
+        <li>United fragmented clans through diplomacy and martial campaigns</li>
+
+        <li>Key conflict: Crimson Clan (Akaryū) refused submission; withdrew into Akaho Sanmyaku; eastern faction joined
+        empire; western lands became barbarian territory</li>
+
+        <li><strong>Battle of Seirei Mizuumi</strong> — secured Kawa; defeated Azure Clan navy</li>
+
+        <li><strong>Onyx Rebellion (8238–8611)</strong> — Kokuryū led 400-year guerrilla war from Tatara; ended with
+        destruction of Kuroi Yama; Kokuryū escaped</li>
+
+        <li>Tenryū died 8694; succeeded by son Ryūhiko no Mikado (already 794 years old)</li>
+
+        </ul>
+
+        <p><strong>Golden Age (8611–13050)</strong></p>
+
+        <ul>
+
+        <li>Eight emperors; unprecedented peace and prosperity</li>
+
+        <li>Major constructions: Imperial Palace (Heian), Great Library (Seirei Mizuumi), Grand Canal (Mizushima),
+        Hoshino Tō observatory (Shirogane Yama), Kokuyō Ryūkyūjō fortress (Tatara)</li>
+
+        <li>Emperor&#39;s Highway built 11248</li>
+
+        <li>Emperors: Tenryū, Ryūhiko, Seiryū, Byakuryū, Kinryū, Shoryū, Inaryū, Kōryū</li>
+
+        </ul>
+
+        <p><strong>War of Fractured Banners (13050–13088)</strong></p>
+
+        <ul>
+
+        <li>Tensions between Zirak and Glimfyr on Tatara spread empire-wide</li>
+
+        <li>Emperor Kōryū no Mikado slain on battlefield 13053</li>
+
+        <li>Son <strong>Ryūjin no Mikado II</strong> established the Shogunate; appointed first Shogun <strong>Kazutaka
+        no Kazuhiko</strong></li>
+
+        <li>Key battles: Defense of Midoriko, Pursuit to Kumoji, Campaign in Tatara, Burning of Shirotsuru, Siege of
+        Fushichō, Ambush at Tatsumaki Gorge, Battle of the Thunder Plains</li>
+
+        <li>War ended 13062; Seiryu and Hagane clans wiped out; magic vanished completely</li>
+
+        </ul>
+
+        <p><strong>Dark Ages (13088–15642)</strong></p>
+
+        <ul>
+
+        <li>Rampant famine, disease, population decimation</li>
+
+        <li>Magic completely absent</li>
+
+        <li>Little documentation survives</li>
+
+        </ul>
+
+        <p><strong>Jinshō Reformation (15642–15691)</strong></p>
+
+        <ul>
+
+        <li>Emperor <strong>Jinshin no Mikado</strong> enacted sweeping reforms</li>
+
+        <li>Agricultural revival, infrastructure rebuilding, trade stimulation, educational revival</li>
+
+        <li>Great Library partially restored (had been destroyed by earthquake)</li>
+
+        <li>Established <strong>Kokushi Kyōkai</strong> with Seimu Daijin and Zaiumu Daijin</li>
+
+        </ul>
+
+        <p><strong>Era of New Discovery (15691–15757)</strong></p>
+
+        <ul>
+
+        <li>Expedition of 15691 led by Admiral <strong>Taira no Akinori</strong> and General <strong>Tokugawa no
+        Ryuji</strong></li>
+
+        <li>Diplomat <strong>Hōjō no Kaoru</strong> also key figure; later became first Gaikō Daijin</li>
+
+        <li>Discovered lands beyond Kagekuni; returned with slaves, precious metals, new knowledge</li>
+
+        <li>150+ expeditions over next 60 years; clan rivalries intensified</li>
+
+        <li>Emperor appointed <strong>Minamoto no Katsuro</strong> (Tenshiko Clan) as Shogun ~16012</li>
+
+        <li>Shogun enacted: Expedition Regulation Act, Resource Distribution Act, Peace and Mediation Act, Defense
+        Enhancement Act</li>
+
+        <li>Shogunate retired; Gaikō Daijin established under Hōjō no Kaoru</li>
+
+        </ul>
+
+        <p><strong>Era of Subtle Awakening (15757–16620)</strong></p>
+
+        <ul>
+
+        <li>Talents (individuals with innate magic) began emerging ~15757</li>
+
+        <li>First known Talent: <strong>Hikari no Kenta</strong> — storm magic; born 15757</li>
+
+        <li>Talents persecuted; formed underground communities</li>
+
+        <li>Notable Talents: <strong>Mizuki no Hana</strong> (Gekkō Clan; shadow magic), <strong>Fujimoto no
+        Aiko</strong> (Ryūkaze Clan; wind manipulation)</li>
+
+        <li><strong>Seishin Enclave</strong> founded on Unmeijima; grew into city of Seishin</li>
+
+        <li><strong>Hikari no Shizuku</strong> — healing/light magic enclave within Heian</li>
+
+        <li><strong>Epoch of Factional Flux (16204–16434)</strong>: Clans merged, dissolved, restructured<ul>
+
+        <li>Hōjō Clan civil war → merger with Minamoto → became <strong>Clan Kaminari</strong> (honoring Raijin)</li>
+
+        <li>Ryūkaze Clan absorbed smaller clans; dominant in northwest</li>
+
+        <li>Yamamoto Clan splintered; Ishikawa Clan dissolved</li>
+
+        <li><strong>Clan Tetsujin</strong> emerged as mercenary clan from Ishikawa remnants</li>
+
+        </ul>
+
+        </li>
+
+        <li><strong>Peasant Uprising (16442–16461)</strong>: Sparked by crackdown at Midoriko village<ul>
+
+        <li>Shogun <strong>Takeda no Hiroshi</strong> appointed 16443</li>
+
+        <li>First <strong>Fukushi Daijin</strong>: <strong>Hayashi no Haruto</strong> appointed 16453</li>
+
+        <li>Combined military/diplomatic approach ended uprising 16461</li>
+
+        </ul>
+
+        </li>
+
+        <li><strong>Plague Campaign of Kuroyami (16609–16616)</strong>:<ul>
+
+        <li><strong>Kuroyami no Akuma</strong> (formerly Takeda no Arata) found necromantic tome in Kuroshi Temple,
+        Yurei</li>
+
+        <li>Established <strong>Eikyū Yami Clan</strong> cult; led undead legions</li>
+
+        <li>Shogun <strong>Minamoto no Katsuro</strong> appointed 16610; recruited Talents</li>
+
+        <li>Seishin Enclave, Raimeiin, Forest of Spirits publicly revealed themselves</li>
+
+        <li>Kuroyami defeated but <strong>never captured</strong> — escaped; whereabouts unknown</li>
+
+        <li>Eikyū Yami Clan persists in some form</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        <p><strong>Great Awakening (16620–present)</strong></p>
+
+        <ul>
+
+        <li>Magic officially returned ~16687 — daimyo actively recruit mages</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: gQcVmo1K0kjUCSfT
+    _key: '!journal.pages!gQcVmo1K0kjUCSfT'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li><strong>Reforms of Ryūjin no Mikado (16732)</strong>: 18th emperor; last near-immortal elf; banned Kokushi
+        Kyōkai from appointing Shogun without imperial approval</li>
+
+        <li><strong>End of Imperial Line (16739)</strong>: Ryūjin no Mikado died under mysterious circumstances;
+        officially old age; foul play suspected but unproven</li>
+
+        <li><strong>Widespread Aggression (16742)</strong>: War between Genso and Arashi alliances begins</li>
+
+        <li><strong>Current Year: 16744</strong></li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/history.md
+    slug: history
+    frontmatter:
+      name: History & Timeline
+      type: core
+      description: Master timeline from pre-imperial era to current year 16744

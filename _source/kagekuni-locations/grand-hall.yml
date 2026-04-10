@@ -1,0 +1,359 @@
+_id: c6j5hQK05HA3IPjW
+_key: '!journal!c6j5hQK05HA3IPjW'
+name: The Grand Hall — Hiroba
+pages:
+  - _id: NJG89GH3i0507U2P
+    _key: '!journal.pages!NJG89GH3i0507U2P'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">location</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div></dl><p><em
+        lang="ja-Latn">Read-aloud text: <code>../supplements/read-aloud-floor-1.md</code> § Grand Hall</em></p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: uwMRj9o1LPwgIgNg
+    _key: '!journal.pages!uwMRj9o1LPwgIgNg'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+
+        <p>Oval chamber, 125 ft east-to-west × 100 ft north-to-south. Ceiling not visible (statue is 250 ft — ceiling is
+        at least that high). Accessed via double set of double doors on south wall (from N-S hallway, ~10 ft vestibule
+        between door sets); second double set of double doors on north wall leads directly into the Inner Sanctum. Scale
+        is disorienting; the statue at center is the only fixed reference point.</p>
+
+        <p><strong>Kinryu Statue (center):</strong> 250 feet of gold, coiled around a central plinth. Resting posture,
+        head slightly lowered. Inlaid amber eyes oriented forward. Surface untarnished — no degradation whatsoever.
+        Radiates perceptible warmth within 30 feet (afternoon-sun quality, not body heat).</p>
+
+        <p><strong>Pools:</strong> Four shallow pools at the statue&#39;s base (south and east faces). Water perfectly
+        clear with faint blue-white self-luminescence. Not dried, not stagnant — preserved by the same magic sustaining
+        the statue.</p>
+
+        <p><strong>Surrounding space:</strong> In sharp contrast to the statue and pools, everything else has decayed.
+        Banners on wall brackets reduced to ribbons. Offering tables collapsed. Debris of food, incense vessels, and
+        ceramics scattered. Floor beyond the pools buried under dust and debris.</p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: fppKwWx5NSyw9bEk
+    _key: '!journal.pages!fppKwWx5NSyw9bEk'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
+        data-section="discoveries">Discoveries</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>The Statue&#39;s Magic — Passive</strong> (within 30 ft)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Pools — Mechanics</strong> (DC 13 Arcana for finite nature; DC
+        14 Religion for ritual existence; DC 18 Religion for full ritual details)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Fallen Offerings</strong> (DC 15 Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Blue-White Crystal / Susanoo Projection Lens</strong> (DC 14
+        Investigation; DC 13 Arcana to identify) <em lang="ja-Latn">(Observatory component #1)</em></li>
+
+        </ul>
+
+        <p><strong>The Statue&#39;s Magic — Passive</strong>: The statue radiates warmth perceptible within 30 feet —
+        not body heat, but the warmth of afternoon sun on stone, present even in the cold of the mountain interior. This
+        warmth is real; cold-based effects within 30 feet of the statue have their damage reduced by 1d4. This property
+        has no daily limit.</p>
+
+        <p><strong>The Pools — Mechanics</strong>:
+
+        The four pools are a single magical resource — approximately 48 total charges across all four pools (~12 per
+        pool). Charge state is visually communicated: water dims and gold inlay loses glow as charges deplete. The
+        Nagaji instinctively avoid the pools — a clue that the Golden Dragon&#39;s lingering presence repels their
+        corruption. The pools do not regenerate. Once exhausted, the water becomes ordinary — clean, cold, but
+        inert.</p>
+
+        <p><strong>Skill Checks:</strong></p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Check</th>
+
+        <th>DC</th>
+
+        <th>Result</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Arcana</td>
+
+        <td>13</td>
+
+        <td>Identifies magical nature; reveals finite charge mechanic; charge state estimable on success</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Religion</td>
+
+        <td>14</td>
+
+        <td>Identifies that holy pools of this tradition have multiple associated rituals; generic knowledge that
+        blessings and rites exist — not their specifics</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Religion</td>
+
+        <td>18</td>
+
+        <td>Reveals full ritual details — healing ritual, condition ritual, blessing ritual</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><em lang="ja-Latn">The DC 18 Religion result can also be obtained from the hidden archive on the second
+        floor.</em></p>
+
+        <p><strong>Automatic Effects (Entry — no action required):</strong></p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Effect</th>
+
+        <th>Cost</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Kegare no Yamai cleansed</td>
+
+        <td>1 charge per stack</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Disease cleansed</td>
+
+        <td>1 charge per disease</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>Ritual 1 — Healing:</strong></p>
+
+        <ul>
+
+        <li><strong>Trigger</strong>: Simple prayer (discoverable via DC 18 Religion check or second floor hidden
+        archive)</li>
+
+        <li><strong>Effect</strong>: 2d8+5 hit points restored</li>
+
+        <li><strong>Cost</strong>: 1 charge per use</li>
+
+        </ul>
+
+        <p><strong>Ritual 2 — Condition Removal:</strong></p>
+
+        <ul>
+
+        <li><strong>Trigger</strong>: Ritual activation (discoverable via DC 18 Religion check or second floor hidden
+        archive)</li>
+
+        <li><strong>Conditions removed</strong>: Poisoned, Blinded, Deafened, Paralyzed</li>
+
+        <li><strong>Cost</strong>: 1 charge per condition removed</li>
+
+        </ul>
+
+        <p><strong>Ritual 3 — Blessing of Kinryū:</strong></p>
+
+        <ul>
+
+        <li><strong>Trigger</strong>: Prayer to Kinryū (discoverable via DC 18 Religion check)</li>
+
+        <li><strong>Cost</strong>: 2 charges per blessing</li>
+
+        <li><strong>Effect</strong>: Random blessing from the Kinryū no Megumi table (see
+        <code>floor-1/kinryu-no-megumi.md</code>)</li>
+
+        <li><strong>Duration</strong>: 8 hours</li>
+
+        </ul>
+
+        <p><strong>The Fallen Offerings</strong>: Among the debris of collapsed offering tables, a DC 15 Investigation
+        check finds: three bronze coins minted during the First Golden Age (worth 50gp each as antiques), a ceramic
+        incense vessel cracked but intact with a faded clan sigil, and a fragment of silk embroidered with Old Imperial
+        text. This fragment is a handout opportunity.</p>
+
+        <p><strong>The Blue-White Crystal</strong>: Near the southernmost pool — close enough that the Nagaji would not
+        approach — a faceted crystal the size of a fist lies half-buried in offering debris. DC 14 Investigation to
+        notice (automatic if actively searching near the pools). The crystal is blue-white, cold to the touch, and
+        faintly translucent with what appears to be a frozen light source at its center. DC 13 Arcana identifies it as a
+        projection lens designed to channel sei into structured illusory output — a component of a larger device, not a
+        standalone object. The craftsmanship matches the temple&#39;s foundational enchantment style. <em
+        lang="ja-Latn">(Observatory component: Susanoo projection lens. Rolled near the pools during the final conflict;
+        avoided by the Nagaji due to the pools&#39; proximity.)</em></p>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: 1aCgHTc1PMA18tt1
+    _key: '!journal.pages!1aCgHTc1PMA18tt1'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
+        data-section="encounters">Encounters</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">2 Kageban (影番 — &quot;Shadow Watch&quot;; upper darkness — descend when
+        disturbed; avoid pools)</li>
+
+        <li class="kg-task" data-done="false">Nagaji Bushi ×1 (squad leader, rotation from Naijin)</li>
+
+        <li class="kg-task" data-done="false">Nagaji Hohei ×2 (rotation from Naijin)</li>
+
+        <li class="kg-task" data-done="false">Nagaji Ashigaru ×6 (rotation from Naijin)</li>
+
+        </ul>
+
+        <h3 id="kg-dm-notes" data-section="dm-notes">DM Notes</h3>
+
+        <p><strong>The Statue&#39;s Magic — Active (Ko&#39;jiri)</strong>: If Ko&#39;jiri approaches within 15 feet, the
+        amber eyes shift. Not dramatically — no glowing, no sound, no proclamation. They simply orient. Anyone watching
+        (DC 14 Perception to notice) sees the carved irises move in their settings to face him directly. If Ko&#39;jiri
+        speaks aloud in the statue&#39;s presence, he hears a single sound in response — not words, not language, but a
+        low resonant hum from the stone itself, felt more in the chest than heard with the ears. It is acknowledgment.
+        The con artist who built a career performing Golden Dragon authority is being recognized by the thing itself.
+        What that means is for Ko&#39;jiri to reckon with.</p>
+
+        <p><strong>Scale of the Space</strong>: Emphasize the disorientation of the scale. The ceiling is not visible.
+        The far walls require a light source or darkvision to confirm. The statue at the center is the only fixed
+        reference point — everything orients toward it.</p>
+
+        <p><strong>Undead Presence</strong>: Two <strong>Kageban</strong> (影番 — &quot;Shadow Watch&quot;; Shadows, MM
+        p.269) inhabit the upper darkness of the Grand Hall — former temple guards of the loyal order, still at their
+        post after millennia. They are not hostile by default — they are the loyalists, still watching their post. They
+        do not descend into the light near the statue. They watch from above. If the party makes noise, desecrates
+        offerings, or moves toward the dormitories, they descend. They do not pursue into the pools&#39; radius of
+        warmth.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/grand-hall.md
+    slug: grand-hall
+    frontmatter:
+      name: The Grand Hall — Hiroba
+      type: location
+      location_type: dungeon-room
+      parent: tenkuji-temple/floor-1
+      floor: 1
+      room_number: 2
+      island: hokori
+      province: hana
+      status: active
+      tags:
+        - temple
+        - kinryu
+        - first-floor
+        - grand-hall
+        - statue
+        - pools

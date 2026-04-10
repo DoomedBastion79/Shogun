@@ -1,0 +1,203 @@
+_id: GIiMlyrBXNH18EiT
+_key: '!journal!GIiMlyrBXNH18EiT'
+name: Oshiro Masahiro
+pages:
+  - _id: 1dOk7yZ4dBnp51zb
+    _key: '!journal.pages!1dOk7yZ4dBnp51zb'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Unknown</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Junsa-chō (Chief Inspector), Teikoku Keisatsu (Imperial
+        Police)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">ayame</dd></div></dl><p><em lang="ja-Latn">Junsa-chō (Chief Inspector) — Teikoku Keisatsu
+        (Imperial Police), Ayame</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: cVZzxjoaNZ2Wd1ED
+    _key: '!journal.pages!cVZzxjoaNZ2Wd1ED'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Chief Inspector of the Imperial Police stationed in Ayame, the mountain waypoint town at the base of the
+        Tenchūsan Ren pass. His authority and presence represent imperial law enforcement in this critical transit
+        chokepoint.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, meticulous, exudes authority.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Confirmed party ally. Returned the impounded wagon, horses, and treasures after assessing the situation.
+        Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are
+        potentially useful going forward.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: ftt2zBU08996J95y
+    _key: '!journal.pages!ftt2zBU08996J95y'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>His decision to assist the party was not simply a judgment about their innocence. He had received information
+        from his intelligence network suggesting the party&#39;s mission was legitimate and the impoundment was creating
+        an obstacle to something he wanted to see succeed. He knows more about the Gekkō situation than he has shared
+        and has been watching for trustworthy parties to pass through.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Maintains an informant network in Ayame and the surrounding region. Has informants at both the waypoint inn
+        (Kin no Chōchin Ryokan) and the outfitter district who log significant travelers and goods movements. This
+        network detected the party&#39;s arrival and departure. It also detected other parties moving through the pass —
+        including a group with no identifiable clan affiliation, moving fast and carrying unusual cargo, approximately
+        three weeks before the party&#39;s transit.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Oshiro
+        sends a discrete message to the party: he has information relevant to their mission that he couldn&#39;t share
+        safely in Ayame; he proposes a meeting at the next Michibata up the pass.</div>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: mi2rWZe8gzhyYS7C
+    _key: '!journal.pages!mi2rWZe8gzhyYS7C'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-campaign-secrets"
+        data-section="campaign-secrets">Campaign Secrets</h3>
+
+        <p>Oshiro is a potential ongoing intelligence ally — someone who knows which questions to ask and where to find
+        answers, even with the Teikoku Keisatsu operating at reduced capacity in the current political vacuum. His
+        knowledge of the Gekkō situation extends beyond what he has shared.</p>
+
+        <p>The unidentified group that passed through the pass three weeks before the party — fast-moving, no clan
+        affiliation, unusual cargo — is an unresolved intelligence thread.</p>
+
+        <h3 id="kg-plot-threads" data-section="plot-threads">Plot Threads</h3>
+
+        <ul>
+
+        <li>Intelligence ally for future information needs</li>
+
+        <li>Knowledge of the Gekkō situation he has not yet shared</li>
+
+        <li>Unidentified group in the pass — potential connection to Nagaji activity, Eikyū Yami, or other threats</li>
+
+        <li>Operating in a political vacuum — the Teikoku Keisatsu&#39;s reduced capacity affects what he can do
+        officially</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/oshiro-masahiro.md
+    slug: oshiro-masahiro
+    frontmatter:
+      name: Oshiro Masahiro
+      type: npc
+      detail: major
+      status: active
+      race: Unknown
+      sex: M
+      clan: none
+      caste: zokumin
+      role: Junsa-chō (Chief Inspector), Teikoku Keisatsu (Imperial Police)
+      location: ayame
+      affiliations:
+        - teikoku-keisatsu
+      tags:
+        - imperial-police
+        - chief-inspector
+        - party-ally
+        - intelligence
+      aliases: []
+      related_npcs:
+        - takeda-yoshinobu
+      related_quests: []

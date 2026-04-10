@@ -1,0 +1,2538 @@
+_id: xFQVtL1jXFuqh0VV
+_key: '!journal!xFQVtL1jXFuqh0VV'
+name: Gatherer's Guide
+pages:
+  - _id: CgBbBex7EmJrFMpc
+    _key: '!journal.pages!CgBbBex7EmJrFMpc'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Kagekuni&#39;s wilderness is rich
+        with ingredients for those who know where to look. A competent traveler can supplement trail rations with
+        foraged herbs, hunted game, and harvested fungi — and a skilled cook can transform these raw materials into
+        meals that fortify the body and sharpen the mind.</p>
+
+        <hr>
+
+        <p>the rarity terms to feel like <em lang="ja-Latn">grading vocabulary</em> (how a cook or merchant would speak
+        about ingredients</p>
+
+        <ul>
+
+        <li><strong>Common</strong> — 並 (<em lang="ja-Latn">Nami</em>) — &quot;regular, standard.&quot; This is the
+        actual word used on Japanese restaurant menus for the base grade of nigiri, donburi, and unagi.</li>
+
+        <li><strong>Uncommon</strong> — 上 (<em lang="ja-Latn">Jō</em>) — &quot;superior, upper.&quot; The next step up
+        in the same grading system. Marks something better than ordinary but still attainable.</li>
+
+        <li><strong>Rare</strong> — 特上 (<em lang="ja-Latn">Tokujō</em>) — &quot;special superior.&quot; A real grading
+        term reserved for noticeably finer cuts and ingredients. Worth seeking out.</li>
+
+        <li><strong>Very Rare</strong> — 極上 (<em lang="ja-Latn">Gokujō</em>) — &quot;supreme, finest.&quot; The top of
+        the standard grading ladder. Anything above this leaves the language of grading entirely.</li>
+
+        <li><strong>Legendary</strong> — 伝説 (<em lang="ja-Latn">Densetsu</em>) — &quot;legend.&quot; Steps out of the
+        merchant&#39;s vocabulary and into the storyteller&#39;s. An ingredient that has <em lang="ja-Latn">stories</em>
+        attached to it.</li>
+
+        <li><strong>Artifact</strong> — 神器 (<em lang="ja-Latn">Jingi</em>) — &quot;sacred vessel, divine treasure.&quot;
+        This is the exact word used in Japanese mythology for the Imperial Regalia — the three sacred treasures of the
+        Yamato dynasty. It carries the weight of Shinto cosmology and is the right register for something that sits
+        between food and myth.</li>
+
+        </ul>
+
+        <h2 id="kg-gathering-rules" data-section="gathering-rules">Gathering Rules</h2>
+
+        <h3 id="kg-how-gathering-works" data-section="how-gathering-works">How Gathering Works</h3>
+
+        <p>During travel or exploration, a character proficient in <strong>Survival</strong> may spend <strong>1
+        hour</strong> foraging for ingredients. This can occur during a rest, while the party travels at a slow pace, or
+        during dedicated downtime in a suitable environment.</p>
+
+        <p>The character makes a <strong>Wisdom (Survival) check</strong>. The DC depends on the terrain and the rarity
+        of the ingredient sought.</p>
+
+        <h3 id="kg-gathering-dcs" data-section="gathering-dcs">Gathering DCs</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>DC</th>
+
+        <th>Rarity</th>
+
+        <th>Typical Yield</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>10</td>
+
+        <td>Common</td>
+
+        <td>1d4 portions of a common ingredient</td>
+
+        </tr>
+
+        <tr>
+
+        <td>13</td>
+
+        <td>Uncommon</td>
+
+        <td>1d3 portions of an uncommon ingredient</td>
+
+        </tr>
+
+        <tr>
+
+        <td>16</td>
+
+        <td>Rare</td>
+
+        <td>1d2 portions of a rare ingredient</td>
+
+        </tr>
+
+        <tr>
+
+        <td>20</td>
+
+        <td>Very Rare</td>
+
+        <td>1 portion of a very rare ingredient</td>
+
+        </tr>
+
+        <tr>
+
+        <td>—</td>
+
+        <td>Legendary</td>
+
+        <td>Cannot be foraged (see below)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>—</td>
+
+        <td>Artifact</td>
+
+        <td>Cannot be foraged (see below)</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>A character who <strong>exceeds the DC by 5 or more</strong> finds an additional portion.</p>
+
+        <p>A character who <strong>fails by 5 or more</strong> in hazardous terrain triggers a complication — a
+        poisonous lookalike gathered by mistake, an encounter with territorial wildlife, or a minor environmental hazard
+        (slipping into a thermal vent, disturbing a spirit&#39;s resting place, etc.).</p>
+
+        <h3 id="kg-legendary-amp-artifact-ingredients" data-section="legendary-amp-artifact-ingredients">Legendary &amp;
+        Artifact Ingredients</h3>
+
+        <p>Some ingredients exist beyond the reach of ordinary foraging. They cannot be found by scouring a hillside or
+        stalking a forest, no matter how high the roll.</p>
+
+        <p><strong>Legendary ingredients</strong> are one-of-a-kind harvests — cuts from a named creature slain once in
+        the memory of a generation, a fruit that ripens on a single tree once per century, a reward bestowed by a figure
+        who has the authority to bestow such things. They do not appear on gathering tables. They are obtained through
+        story, not through the wilderness.</p>
+
+        <p>Legendary harvests from a named creature additionally require an <strong>exceptional skill check
+        result</strong> to secure. When butchering or gathering from a source that <em lang="ja-Latn">could</em> yield a
+        Legendary ingredient, the cook must achieve a total of <strong>40 or higher</strong> on the relevant check
+        (Survival, Nature, or equivalent). Without the exceptional roll, the body yields only its rare and very rare
+        cuts — the Legendary portion is either missed, spoiled in the harvest, or lost to the hand that did not know
+        where to look.</p>
+
+        <p>This threshold is reachable only through the house rules already in play: a natural 20 on the d20 triggers a
+        bonus <strong>d10</strong> added to the roll, and session luck dice (<strong>1d4</strong> generated each
+        session) may be spent to push the total further. A proficient hunter with a strong Wisdom modifier, a natural
+        20, a high bonus die, and a luck expenditure can reach 40+ — but it will never be routine, and it will never be
+        guaranteed. When it happens, it should feel earned.</p>
+
+        <p><strong>Artifact ingredients</strong> sit at the border between food and myth. The flesh of a living
+        Progenitor. The first rice of the first harvest. A vial of something drawn from a place that may not exist.
+        Whether any such ingredient actually exists in the world is left to the DM, and whether the party ever
+        encounters one is a campaign-defining decision. There are no mechanical rules for obtaining them — only the
+        story that brought them into the cook&#39;s hands.</p>
+
+        <h3 id="kg-gathering-modifiers" data-section="gathering-modifiers">Gathering Modifiers</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Condition</th>
+
+        <th>Modifier</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Character has <strong>herbalism kit</strong></td>
+
+        <td>+2 to foraging for herbs and fungi</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Character has <strong>cook&#39;s utensils</strong></td>
+
+        <td>Advantage on identifying edible flora/fauna</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Unfamiliar terrain (first time in province)</td>
+
+        <td>-2</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Guided by a local</td>
+
+        <td>Advantage</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Adverse weather (heavy rain, fog, snow)</td>
+
+        <td>-2</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Night foraging</td>
+
+        <td>Disadvantage (unless darkvision)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sei-active region (Yōsei Mori, near shrines)</td>
+
+        <td>+2 to rare/very rare ingredients</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-hunting-rules" data-section="hunting-rules">Hunting Rules</h3>
+
+        <p>Harvesting meat from wildlife uses the same hour-long activity but requires a <strong>Wisdom (Survival) check
+        to track</strong>, followed by an appropriate combat or trap interaction to secure the kill. Butchering a
+        carcass for usable meat requires 30 minutes and a <strong>DC 10 Survival or Nature check</strong> (failure
+        wastes half the yield). Larger creatures yield more portions.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Creature Size</th>
+
+        <th>Meat Yield</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Small (rabbit, quail)</td>
+
+        <td>1–2 portions</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Medium (deer, boar)</td>
+
+        <td>4–6 portions</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Large (bear, elk)</td>
+
+        <td>8–12 portions</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Bakemono and yokai are <strong>not</strong> safe to eat unless specifically noted. Sei-touched wildlife may
+        produce unusual ingredients with additional properties — these are noted in the ingredient list below.</p>
+
+        <h3 id="kg-fishing-rules" data-section="fishing-rules">Fishing Rules</h3>
+
+        <p>Fishing uses the same hour-long activity but requires a <strong>Wisdom (Survival) check</strong> with
+        appropriate equipment (line, net, or improvised). Coastal and river fishing are distinct — a character familiar
+        with one may be unfamiliar with the other. Tidal windows, seasonal runs, and water conditions affect
+        availability.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Method</th>
+
+        <th>Modifier</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Line and hook</td>
+
+        <td>+0</td>
+
+        <td>Standard; requires bait or lure</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Net (cast or drag)</td>
+
+        <td>+2</td>
+
+        <td>Requires net; better for small fish and crabs</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Spearfishing</td>
+
+        <td>-2</td>
+
+        <td>No equipment needed beyond a sharp stick; favors clear water</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Traps (overnight)</td>
+
+        <td>+4</td>
+
+        <td>Must be set the previous day; risk of theft or animal interference</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-ingredient-categories" data-section="ingredient-categories">Ingredient Categories</h2>
+
+        <h3 id="kg-i-game-amp-fish-niku" data-section="i-game-amp-fish-niku">I. Game &amp; Fish — Niku (肉)</h3>
+
+        <h4 id="kg-common" data-section="common">Common</h4>
+
+        <p><strong>Yama-usagi (Mountain Hare)</strong>
+
+        Lean, dark meat found throughout Hokori&#39;s foothills and mountain passes. Plentiful along the Tenchūsan Ren
+        and Sora&#39;s highland plateaus. Mild flavor, takes seasoning well.
+
+        <em lang="ja-Latn">Terrain: Mountains, foothills, highland grassland</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per hare</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Kawa-gani (River Crab)</strong>
+
+        Small freshwater crabs found in streams and rivers across Hana, Mizu, and Kusa. Sweet, delicate meat extracted
+        from the claws. Children in farming villages catch them as a common snack.
+
+        <em lang="ja-Latn">Terrain: Rivers, streams, rice paddies</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of gathering</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Uzura (Quail)</strong>
+
+        Ground-nesting birds common in the grasslands of Kusa and the lowland fields of Tsuchi. Easy to trap, quick to
+        prepare. A staple of roadside cooking.
+
+        <em lang="ja-Latn">Terrain: Grasslands, agricultural lowlands, forest edges</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per bird (1d3 birds per successful hunt)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Ayu (Sweetfish)</strong>
+
+        A slender, silvery river fish prized for its clean, faintly melon-like flavor. Found in fast-flowing streams
+        with gravel beds across Hana and Mizu. Traditionally grilled whole on skewers over charcoal — a sight at every
+        summer festival and riverside stall.
+
+        <em lang="ja-Latn">Terrain: Clear rivers, mountain streams, waterfall pools</em>
+
+        <em lang="ja-Latn">Yield: 1d4 fish per hour of fishing (1 portion per fish)</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Suzume (Sparrow)</strong>
+
+        Tiny birds found everywhere — rooftops, rice fields, forest edges, temple eaves. More effort than meat, but
+        skewered and grilled in batches they make a satisfying trail snack. Market stalls in Heian sell them five to a
+        stick.
+
+        <em lang="ja-Latn">Terrain: Universal — settlements, farmland, forest edges</em>
+
+        <em lang="ja-Latn">Yield: 1d4 birds per hour of trapping (3 birds = 1 portion)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Tanishi (Paddy Snail)</strong>
+
+        Dark-shelled freshwater snails found in rice paddies and slow-moving irrigation channels. The meat is small but
+        flavorful when simmered in broth. Peasant food, looked down upon by the urban classes, but a reliable protein
+        source for travelers passing through agricultural country.
+
+        <em lang="ja-Latn">Terrain: Rice paddies, irrigation channels, lakeshores (Hana, Mizu, Tsuchi)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of gathering</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Yamadori (Copper Pheasant)</strong>
+
+        A large, copper-plumed game bird found in the dense understory of lowland and hill forests. The meat is darker
+        and more flavorful than quail, with enough substance for a proper meal. Wary and difficult to approach — more
+        often snared than shot.
+
+        <em lang="ja-Latn">Terrain: Hardwood forests, hillside brush, bamboo thickets</em>
+
+        <em lang="ja-Latn">Yield: 2 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Shika (Common Deer)</strong>
+
+        The standard deer of Hokori&#39;s lowland forests and open hill country. Smaller than the sei-touched ryūjika,
+        but far more common and easier to hunt. The venison is lean and clean-tasting, better fresh than preserved.
+
+        <em lang="ja-Latn">Terrain: Lowland forests, open hillsides, forest margins (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 4–6 portions per deer</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Funa (Crucian Carp)</strong>
+
+        A hardy pond and slow-river fish with firm, slightly earthy flesh. Not prestigious — city cooks dismiss it as
+        peasant food — but reliable and abundant. Farmers net them from irrigation ponds between seasons, and children
+        learn to catch them with bent pins and reed line. Best when cleaned immediately and simmered in miso.
+
+        <em lang="ja-Latn">Terrain: Ponds, rice-paddy overflow channels, slow rivers (Hana, Kusa, Tsuchi)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of fishing (1 portion per fish)</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Iwashi (Sardine)</strong>
+
+        Small, oil-rich sea fish that run in enormous silver schools along the Nami and Mizu coasts. Caught in nets by
+        the thousand during seasonal runs, then salted, dried, or grilled fresh the same day. The fat renders quickly
+        over a fire and the flesh is intensely savoury. A cornerstone of coastal cuisine and a common sight on roadside
+        grills inland during the runs.
+
+        <em lang="ja-Latn">Terrain: Coastal waters, tidal shallows (Nami, Mizu) — seasonal runs</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of coastal fishing (2 fish per portion)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Hato (Wild Dove)</strong>
+
+        The broad-winged forest dove common to lowland Hana and the wooded margins of Kusa. Darker and more flavourful
+        than quail, with enough meat on a single bird to make a proper meal. Often snared with rice bait or brought down
+        with a staff-sling. A traveller&#39;s favourite because a dove in the pot is a full stomach by evening.
+
+        <em lang="ja-Latn">Terrain: Lowland hardwood forest, forest edges, cultivated margins</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <h4 id="kg-uncommon" data-section="uncommon">Uncommon</h4>
+
+        <p><strong>Kinuo (Gold-Tail Fish)</strong>
+
+        The prized fish of the Kinryūgawa. Flesh is pale gold with a rich, buttery flavor. Runs heaviest in late spring
+        and early autumn at the Sutariba&#39;s mouth near Natsumura. Commands premium prices in Heian — catching one in
+        the wild is a stroke of fortune.
+
+        <em lang="ja-Latn">Terrain: Kinryūgawa, Sutariba, Serenia-kai tributaries</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Inoshishi (Wild Boar)</strong>
+
+        Muscular, dark-fleshed boar found in the forests of Hana, Kaze, and Kusa. Aggressive when cornered — hunting one
+        is not a passive affair. The meat is dense and flavorful, best slow-cooked.
+
+        <em lang="ja-Latn">Terrain: Dense forest, bamboo thickets, foothills</em>
+
+        <em lang="ja-Latn">Yield: 4–6 portions per boar</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Yuki-kiji (Snow Pheasant)</strong>
+
+        White-feathered game bird found at altitude in Sora and the upper Tenchūsan Ren. The meat is lean and slightly
+        sweet. The feathers are prized for fletching.
+
+        <em lang="ja-Latn">Terrain: Mountain passes above the cloud line, Hoshimori Plateau</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 sp</em></p>
+
+        <p><strong>Iwana (Rock Char)</strong>
+
+        A cold-water fish found in high mountain streams where the water runs fast and clear over stone. The flesh is
+        firm, pink, and delicate — best eaten the same day it is caught. Prized by monks and mountain hermits who
+        consider it the purest of all fish.
+
+        <em lang="ja-Latn">Terrain: Mountain streams above 3,000 feet, waterfall basins (Sora, Tenchūsan Ren, Kaze
+        highlands)</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 sp</em></p>
+
+        <p><strong>Unagi (Freshwater Eel)</strong>
+
+        Long, muscular eels found in river mud and estuary shallows. Catching one requires patience and a specific
+        technique — they are slippery in every sense. The meat is rich, fatty, and deeply savory when grilled with a
+        sweet soy glaze. Considered a stamina food across the archipelago.
+
+        <em lang="ja-Latn">Terrain: River estuaries, muddy streambeds, lake shallows (Hana, Mizu, Kusa)</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per eel</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Kamo (Wild Duck)</strong>
+
+        Migratory ducks found on lakes, ponds, and the marshy edges of the Serenia-kai. Plentiful in autumn and winter.
+        The meat is dark, rich, and gamey — a step above the common birds in both flavor and difficulty.
+
+        <em lang="ja-Latn">Terrain: Lakes, marshland, coastal wetlands (seasonal — autumn through spring)</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 sp</em></p>
+
+        <p><strong>Suppon (Softshell Turtle)</strong>
+
+        Found in warm, slow-moving rivers and the thermal shallows of Hi province. The meat is lean and gelatinous,
+        valued for soups. The shell is discarded, but the blood is sometimes mixed with sake as a tonic. Difficult to
+        catch — they bite and do not let go.
+
+        <em lang="ja-Latn">Terrain: Warm rivers, thermal pools, lake shallows (Hi, southern Hana)</em>
+
+        <em lang="ja-Latn">Yield: 3–4 portions per turtle</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Taka-usagi (Highland Hare)</strong>
+
+        A larger, tougher cousin of the mountain hare, found only above the cloud line in Sora and on the upper slopes
+        of the Tenchūsan Ren. The fur is thick and silver-grey. The meat is darker, more flavorful, and holds up well in
+        stews. Known for its wariness — tracking one is a test of patience.
+
+        <em lang="ja-Latn">Terrain: High-altitude plateau, alpine grassland (Sora, upper Tenchūsan Ren)</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per hare</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 1 sp</em></p>
+
+        <h4 id="kg-rare" data-section="rare">Rare</h4>
+
+        <p><strong>Seireiuo (Spirit Fish)</strong>
+
+        Translucent freshwater fish found in sei-active waterways — the luminescent rivers of Kusa, the thermal streams
+        of Hi, and rare pools deep in the Yōsei Mori. The flesh glows faintly for an hour after the fish is killed. The
+        taste is clean and bright, almost floral.
+
+        <em lang="ja-Latn">Terrain: Sei-active waterways, Yōsei Mori, thermal springs</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 gp</em></p>
+
+        <p><strong>Ryūjika (Dragon Deer)</strong>
+
+        A large, sei-touched deer species found in old-growth forests near Progenitor-associated sites. The antlers
+        branch in patterns that resemble draconic script. The venison is extraordinarily rich and carries a faint warmth
+        on the tongue even when served cold.
+
+        <em lang="ja-Latn">Terrain: Ancient forests, Seidōrin Mori interior, near buried ruins</em>
+
+        <em lang="ja-Latn">Yield: 6–8 portions per deer</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Oniuo (Demon Fish)</strong>
+
+        A large, aggressive freshwater predator found in deep river pools and underground waterways. The body is covered
+        in bony plates, the jaw is underslung, and the eyes reflect light like a cat&#39;s. The flesh is white, firm,
+        and surprisingly mild — the difficulty is in the catching. An oniuo will fight a line for an hour and has been
+        known to drag unwary fishermen into the water.
+
+        <em lang="ja-Latn">Terrain: Deep river pools, underground waterways, Kagerō Gorge</em>
+
+        <em lang="ja-Latn">Yield: 4–6 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 3 gp</em></p>
+
+        <p><strong>Kumokiji (Cloud Pheasant)</strong>
+
+        A large, iridescent game bird found only above the cloud line on the Hoshimori Plateau and the highest ridges of
+        Sora province. The plumage shifts color with the light — silver to pale blue to white. The meat is tender,
+        faintly sweet, and carries a clean, almost mineral quality. The birds are solitary and nearly silent, making
+        them extraordinarily difficult to locate.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau, highest ridgelines of Sora</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 4 gp</em></p>
+
+        <p><strong>Kaseki-gani (Stone Crab)</strong>
+
+        Enormous crabs found in tidal caves and submerged coastal caverns, particularly along Mizu&#39;s irregular
+        coastline and the Tidal Caves of Umigakure. The shell is thick and mineral-encrusted, requiring tools to crack.
+        The claw meat inside is dense, sweet, and extraordinarily rich — a single crab can feed a party.
+
+        <em lang="ja-Latn">Terrain: Tidal caves, submerged coastal caverns, deep rock pools (Mizu, Nami)</em>
+
+        <em lang="ja-Latn">Yield: 4–6 portions per crab</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 3 gp</em></p>
+
+        <p><strong>Tsuchimogura (Earth Mole)</strong>
+
+        A large, blind burrowing creature found in the deep soil of Tsuchi province and the lower slopes of Kurogane
+        Yama. Not a true mole — closer in size to a badger, with powerful digging claws and dense, flavorful meat.
+        Hunted by farmers who consider them pests but know their meat is excellent braised. Finding a burrow requires
+        tracking the characteristic raised-earth trails.
+
+        <em lang="ja-Latn">Terrain: Deep agricultural soil, forested slopes, river valleys (Tsuchi, southern Hana)</em>
+
+        <em lang="ja-Latn">Yield: 3–4 portions per creature</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 2 gp</em></p>
+
+        <p><strong>Kōri-iwana (Frost Char)</strong>
+
+        A rare variant of the iwana found only in glacier-fed pools and the coldest mountain springs of Sora. The scales
+        carry a faint blue iridescence and the flesh is so cold it numbs the tongue. Must be prepared quickly — the meat
+        loses its distinctive character within hours of the catch.
+
+        <em lang="ja-Latn">Terrain: Glacier-fed pools, ice-melt springs, highest mountain streams (Sora)</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 3 gp</em></p>
+
+        <h4 id="kg-very-rare" data-section="very-rare">Very Rare</h4>
+
+        <p><strong>Ryūgame (Dragon Turtle)</strong>
+
+        A small, sei-touched turtle found in deep pools near Progenitor shrine sites. The shell bears natural patterns
+        that echo draconic script. The meat is rich and gelatinous, and the broth made from the shell imparts a warmth
+        that settles into the marrow. Hunting one feels transgressive — they are beautiful, ancient-seeming creatures.
+        Many gatherers who find one choose to leave it be.
+
+        <em lang="ja-Latn">Terrain: Deep pools near Progenitor shrines, sei-active lake beds</em>
+
+        <em lang="ja-Latn">Yield: 2–3 portions per turtle</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 25 gp</em></p>
+
+        <p><strong>Seirei-taka (Spirit Hawk)</strong>
+
+        A sei-touched raptor found at extreme altitude on the Hoshimori Plateau, where the stars seem close enough to
+        touch. The feathers glow faintly at night. The meat is lean and carries a sharp, electric quality on the tongue.
+        These birds are sacred to the observatory communities of Sora — hunting one without their blessing is considered
+        a grave offense. Even with permission, the hunt is extraordinarily difficult.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau summit, highest peaks of Sora</em>
+
+        <em lang="ja-Latn">Yield: 1–2 portions per bird</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 50 gp</em></p>
+
+        <p><strong>Kinryūgoi (Golden Dragon Carp)</strong>
+
+        An enormous, gold-scaled carp found only in the deepest reaches of the Kinryūgawa during the autumn equinox.
+        Local fishermen speak of them as legend — most have never seen one. The flesh is pale gold, rich beyond
+        description, and carries a warmth that persists for hours after eating. The scales are valued by armorers and
+        artisans.
+
+        <em lang="ja-Latn">Terrain: Kinryūgawa deep pools, equinox only</em>
+
+        <em lang="ja-Latn">Yield: 6–8 portions per fish</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 100 gp</em></p>
+
+        <h4 id="kg-one-time-harvests" data-section="one-time-harvests">One-Time Harvests</h4>
+
+        <p>Some creatures yield cuts that will never again enter a cooking pot — named spirit-beasts, ancient mountain
+        predators, things slain once in the memory of a generation. These harvests are recorded here as canon for
+        tracking purposes, not as ingredients that can be gathered again. The quality of each yield reflects the
+        butchering check on the day.</p>
+
+        <h5>Yama-no-Ōkami (Mountain God of the Tenchūsan Ren)</h5>
+
+        <p><em lang="ja-Latn">Slain in the mountain pass during the Fushichō ashfall. A Huge-category beast — roughly
+        twelve to fifteen feet from nose to haunch, eight feet at the shoulder, and weighing somewhere between six and
+        eight thousand pounds. Butchered with exceptional skill — the natural 20 on the harvest check triggered the
+        bonus d10 and cleared the Legendary threshold, securing every cut the beast had to offer, including the
+        Reikokoro.</em></p>
+
+        <p><strong>Ōkami-niku (Mountain God&#39;s Flesh)</strong> — Uncommon
+
+        Dense, dark-grained muscle from the shoulders and haunches, marbled with winter fat and deeply flavoured from a
+        lifetime of predation at altitude. The meat carries a faint mineral tang — cold stone and pine smoke — that no
+        ordinary game possesses. Cooks well in almost any preparation, though the flavour is strong enough to overpower
+        delicate seasonings.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 8 portions</em>
+
+        <em lang="ja-Latn">Weight: 2 lb per portion | Cost: 3 gp per portion if sold | Keeps: 3 days fresh, indefinitely
+        if smoked or salted</em></p>
+
+        <p><strong>Ōkami no Abura (Mountain God&#39;s Rendered Fat)</strong> — Uncommon
+
+        Thick layers of pale winter fat from beneath the hide, rendered down over a long fire into a clear, amber-gold
+        tallow. A spoonful transforms any pan-fry — meat sears faster, vegetables crisp cleaner, and the aroma carries a
+        distant suggestion of thunder. Keeps indefinitely if stored cold.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami subcutaneous fat (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 6 portions</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 2 gp per portion | Keeps: indefinitely</em></p>
+
+        <p><strong>Shirokiba no Zui (White-Fang Marrow)</strong> — Rare
+
+        Rich marrow drawn from the long bones of the forelimbs, pale as bleached bone and dense as cream. Roasted and
+        spread on warm rice it produces an almost overwhelming umami. A cook with cook&#39;s utensils proficiency can
+        split one portion across an entire party&#39;s meal.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami femurs and forelimbs (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 3 portions</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 8 gp per portion | Keeps: 4 days if kept cold</em></p>
+
+        <p><strong>Yama no Kimo (Mountain Liver)</strong> — Rare
+
+        A dark, fist-sized organ still faintly warm when pulled from the body cavity. Traditional mountain cooks
+        consider this the single finest organ meat in Hokori — it carries a trace of the creature&#39;s essence, and
+        eating it is said to sharpen the nerve and steady the breath. Suitable for a Refined dish.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 2 portions</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 15 gp per portion | Keeps: 1 day fresh, 7 days salted or
+        smoked</em></p>
+
+        <p><strong>Arashi-suji (Storm-Sinew)</strong> — Rare
+
+        Long tendons drawn from the legs and spine. Under the right light they carry a faint static shimmer — a residue
+        of the creature&#39;s connection to the high mountain storms. Slow-braised into broth they impart a tension to
+        the muscles of those who drink it, a wound-tight readiness that lingers into the following day. Suitable for a
+        Refined dish.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 3 portions</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 12 gp per portion | Keeps: 2 days fresh, 14 days
+        dried</em></p>
+
+        <p><strong>Reikokoro (Spirit Heart)</strong> — <strong>Legendary</strong>
+
+        The creature&#39;s heart, roughly the size of a man&#39;s head and several times heavier, still faintly warm
+        hours after death. Dense, dark red, and threaded with silver-white veins that pulsed once when first exposed to
+        air before going still. It takes two grown men working together to lift it cleanly from the chest cavity, and
+        one of them will need both hands. Mountain hunters speak of the reikokoro only in hushed terms — one portion,
+        one meal, one chance. In the entire recorded history of Hokori&#39;s mountain provinces, a handful of cooks have
+        been trusted with such an organ. None of them ever forgot the meal. Suitable for a Masterwork dish that feeds
+        the entire party.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest — unrepeatable)</em>
+
+        <em lang="ja-Latn">Yield: 1 portion (feeds up to six generously)</em>
+
+        <em lang="ja-Latn">Weight: 35 lb | Cost: Priceless — no established market; a shugo or temple abbot might offer
+        500+ gp for the honour of preparing it themselves | Keeps: 2 days fresh, indefinitely if salted</em></p>
+
+        <h6>Non-Food Components</h6>
+
+        <p>The exceptional harvest preserved more than just meat. The hide came off whole, the paws came clean, the
+        great bones were salvaged before the carcass cooled, and the skull was lifted intact from the spine.</p>
+
+        <p><strong>Ōkami no Kegawa (Mountain God&#39;s Pelt)</strong>
+
+        A single enormous pelt taken from the back, flanks, and shoulders of the beast. The fur is silver-grey at the
+        roots and deepens to charcoal at the tips, dense enough to turn a winter wind and long enough at the ruff that a
+        man could bury both hands to the wrist in it. In low light the guard hairs catch a faint cool sheen — not
+        luminous, but suggestive, the way frost catches starlight. Wolves are sacred animals in much of Hokori, and a
+        pelt of this size and clarity is the kind of object that nobles, temple elders, and master leatherworkers will
+        compete to acquire. Worked into a cloak it grants its wearer real status — and warmth that no ordinary fur can
+        match. A seimaster might recognise it as a viable focus for ceremonial garments.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 1 primary pelt (back and flanks) + 2 secondary sections (belly and limbs)</em>
+
+        <em lang="ja-Latn">Weight: 100 lb primary, 35 lb each secondary</em>
+
+        <em lang="ja-Latn">Value: 400–600 gp for the primary pelt raw; 1,200+ gp if commissioned into a finished cloak
+        by a master leatherworker. Secondary sections: 80–120 gp each.</em></p>
+
+        <p><strong>Ōkami no Tenohira (Mountain God&#39;s Paws)</strong>
+
+        Four massive paws, each broader than a man&#39;s chest and heavy enough to need both hands to lift, removed
+        cleanly at the wrist joint. The pads are thick black leather, deeply callused from a lifetime walking on stone,
+        and the dew claws and main claws are intact and unbroken — a testament to the quality of the harvest. In Hokori
+        folk tradition, the paw of a great wolf is hung above the door of a household to ward off mountain spirits and
+        protect those within from being lost in the wilds. Bone-carvers and amulet-makers will pay well for whole paws,
+        and a seimaster will pay better. The claws alone, if separated, fetch additional value as reagents and ornament.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 4 intact paws (with claws and dew claws attached)</em>
+
+        <em lang="ja-Latn">Weight: 30 lb per paw</em>
+
+        <em lang="ja-Latn">Value: 80–120 gp per paw whole; 15–25 gp per individual claw if separated (5 claws per paw);
+        higher if worked into a finished charm or ward</em></p>
+
+        <p><strong>Ōkami no Hone (Mountain God&#39;s Bones)</strong>
+
+        A clean butchering preserved the long bones of the legs, the heavy bones of the spine, and the great curved
+        ribs. Bone of this size and density is genuinely uncommon — most predators in Hokori are smaller creatures whose
+        bones snap rather than carve. A bone-carver can shape these into hilts, scabbard fittings, ornamental inlays,
+        and the kind of polished accents that mark an expensive weapon or a noble&#39;s accessories. There is enough
+        material here to keep a single craftsman supplied for years.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: ~350 lb of usable carving bone (long bones, ribs, vertebrae)</em>
+
+        <em lang="ja-Latn">Weight: 350 lb total — too much to carry whole; typically broken down and stored or sold by
+        the lot</em>
+
+        <em lang="ja-Latn">Value: 5–8 gp per lb raw; 12–20 gp per lb cut and sized for craftsmen</em></p>
+
+        <p><strong>Ōkami no Zugai (Mountain God&#39;s Skull)</strong>
+
+        The skull was lifted intact from the spine — a fanged mask the size and shape of a temple bell, its great jaws
+        still locked in their final snarl, the orbital sockets large enough that a child could put a fist into one. The
+        bone is pale grey and unusually heavy, threaded with fine darker veining beneath the surface. As an object it is
+        genuinely arresting — visitors to a hall containing such a skull tend to fall silent on first seeing it, and
+        stay that way longer than is comfortable. Mountain temples have been known to enshrine such skulls when the
+        slain creature was thought to be the avatar of a kami, and the priests of those temples will pay extraordinary
+        sums — or refuse to pay anything at all and instead offer something else entirely.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 1 intact skull</em>
+
+        <em lang="ja-Latn">Weight: 100 lb</em>
+
+        <em lang="ja-Latn">Value: 600–900 gp as a trophy piece on the open market; potentially priceless if offered to
+        the right shrine, where the offering itself may be worth more than coin</em></p>
+
+        <p><strong>Ōkami no Kiba (Mountain God&#39;s Fangs)</strong>
+
+        The nat 20 harvest also yielded the long canine teeth clean and intact, drawn separately from the jaw before the
+        skull was preserved. A bone-carver in any reasonably sized settlement will pay handsomely for worked fangs of
+        this size, and a seimaster may recognise them as a viable reagent for a charm or focus.
+
+        <em lang="ja-Latn">Source: Yama-no-Ōkami (one-time harvest)</em>
+
+        <em lang="ja-Latn">Yield: 4 intact fangs</em>
+
+        <em lang="ja-Latn">Weight: 2½ lb per fang</em>
+
+        <em lang="ja-Latn">Value: 40–60 gp per fang raw; higher if worked</em></p>
+
+        <h6>Secret — Skill Check Knowledge</h6>
+
+        <blockquote>
+
+        <p><strong>DM only.</strong> The full value of these components is not obvious. Players who succeed on the
+        appropriate Religion, Nature, or Arcana check learn what their harvest is <em lang="ja-Latn">actually</em> good
+        for. A character may attempt one check per component per skill, with the check made when the component is first
+        examined or when the character has reason to investigate it further. A natural 20 reveals everything across all
+        three skills for that component.</p>
+
+        </blockquote>
+
+        <p><strong>Ōkami no Kegawa — Pelt</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 13)</strong> — Wolves are sacred to many of the mountain kami, and a pelt of this
+        clarity would be received as an extraordinary offering at any mountain shrine. A shrine receiving it would owe
+        the giver a favour — the kind of favour that gets remembered for years. In Sora, Tsuchi, or upper Kaze, this
+        could open doors that gold cannot.</li>
+
+        <li><strong>Nature (DC 12)</strong> — The pelt is from a once-in-a-generation specimen. The character
+        understands which sections are most valuable, how the hide must be cured, and that a master leatherworker (not a
+        common one) is required to do the work properly. Identifies the leatherworkers of Heian, Kumo-no-Ue, and
+        Akatsuki as having the requisite skill.</li>
+
+        <li><strong>Arcana (DC 15)</strong> — The faint cool sheen in low light is real sei resonance — the
+        creature&#39;s spiritual nature has imprinted on its fur. Worked into a ceremonial garment, the pelt could serve
+        as an arcane focus for protection, divination, or ward-based magics. A seimaster who handles such a cloak would
+        feel it.</li>
+
+        </ul>
+
+        <p><strong>Ōkami no Tenohira — Paws</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 12)</strong> — The folk tradition of hanging a wolf paw above a household doorway is
+        older than most temples — it predates the formal Shinto observances and is rooted in pre-imperial mountain
+        beliefs. A paw mounted properly above a door is a genuine spiritual ward against being led astray in the wilds.
+        Effective even for unbelievers.</li>
+
+        <li><strong>Nature (DC 14)</strong> — The depth of callus on the pads tells the character that this creature
+        walked exclusively on stone, not soft ground — confirming it lived its entire life in the high passes. The paws
+        can be processed into trophy mounts, rugs, or grip-leather for weapon hilts. Identifies the proper preservation
+        methods.</li>
+
+        <li><strong>Arcana (DC 13)</strong> — The claws carry trace sei imprint and would serve as reagents for the
+        crafting of protection charms, amulets against being lost, or low-level wards. Worth significantly more to a
+        charm-maker than to a bone-carver.</li>
+
+        </ul>
+
+        <p><strong>Ōkami no Hone — Bones</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 13)</strong> — Bones of a creature thought to be a kami avatar carry spiritual weight.
+        Ground into bone meal and presented at a shrine, they constitute a significant offering. Carved into prayer
+        beads or ritual implements, they serve as a permanent reminder of the offering and may carry the kami&#39;s
+        favour with them.</li>
+
+        <li><strong>Nature (DC 11)</strong> — Excellent carving stock. The character can identify which bones are best
+        suited to which products — femurs for sword hilts, ribs for scabbard fittings, vertebrae for ornaments and
+        beads. Knows the going rate per pound raw and per pound cut.</li>
+
+        <li><strong>Arcana (DC 14)</strong> — The bone is <em lang="ja-Latn">resonant</em> — it carries a faint sei echo
+        when struck, a quality prized by arcane focus makers. Carved into a focus, it would suit a seimaster whose
+        practice leans toward warding, banishment, or anti-spirit magics. Particularly valuable to seimasters in Sora
+        and Kaze.</li>
+
+        </ul>
+
+        <p><strong>Ōkami no Zugai — Skull</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 14)</strong> — The skull of a kami avatar is a relic. The mountain temples of Sora,
+        upper Kaze, and Tsuchi maintain a tradition of enshrinement for such skulls — placing them in a sealed inner
+        chamber, before which offerings are made for the spirit&#39;s onward journey. A temple receiving this skull
+        would consider the giver to be marked by the kami in question, in a way that is generally considered fortunate
+        but is occasionally not.</li>
+
+        <li><strong>Nature (DC 12)</strong> — The wear on the teeth and the size of the orbital ridges suggest a
+        creature in its prime, perhaps a century old. The character can read the diet from the molars (predominantly
+        meat, but also some plant matter — unusual for a wolf) and identify the species characteristics that mark this
+        as more than a normal beast.</li>
+
+        <li><strong>Arcana (DC 16)</strong> — The skull retains a strong sei imprint — the strongest of any of the
+        components. It could be turned into a ward-mask for ritual use, a powerful arcane focus, or a vessel for binding
+        magics. A skilled seimaster could conceivably use it to commune with the creature&#39;s lingering essence,
+        though doing so would risk drawing the attention of whatever kami the beast served in life. Detect Magic
+        registers it clearly.</li>
+
+        </ul>
+
+        <p><strong>Ōkami no Kiba — Fangs</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 11)</strong> — Long-standing tradition uses wolf fangs as protective charms,
+        particularly for travellers crossing mountain passes. Hung from a cord at the throat or tied to a belt, a fang
+        offers a small but real ward against being attacked by wild beasts.</li>
+
+        <li><strong>Nature (DC 10)</strong> — Easily identified as adult predator canines in exceptional condition.
+        Carving stock for amulets, daggerhilt accents, or ornamental inlays.</li>
+
+        <li><strong>Arcana (DC 13)</strong> — Reagent for charm and focus crafting. Particularly suited to weapon
+        enchantments — a fang set into the pommel of a blade can serve as a focus for spells that augment the
+        weapon&#39;s bite.</li>
+
+        </ul>
+
+        <p><strong>Reikokoro — Spirit Heart</strong></p>
+
+        <ul>
+
+        <li><strong>Religion (DC 15)</strong> — Eating the heart of a kami avatar is a profound act, and the tradition
+        surrounding it is divided. Some mountain sects consider it transgressive — a violation of the spirit&#39;s
+        onward journey. Others consider it sacred — a sharing of essence between the slain and the slayer. If the meal
+        is prepared at a shrine with proper rites, the latter interpretation prevails, and the eaters may be marked by
+        the kami&#39;s blessing for some time after.</li>
+
+        <li><strong>Nature (DC 13)</strong> — The character recognizes the heart as exceptional spirit-flesh,
+        understands that it must be cooked fresh or properly preserved, and knows that the preparation requires great
+        care. Suggests cook&#39;s utensils proficiency at minimum.</li>
+
+        <li><strong>Arcana (DC 16)</strong> — The heart retains a fragment of the creature&#39;s essence. A character
+        with arcane training senses it on contact — a low, steady warmth like banked coals. Eating it grants more than
+        ordinary nourishment; it transfers a small portion of the creature&#39;s spiritual nature to the eater. (DM:
+        this is the mechanical justification for the Masterwork buff — the players don&#39;t need to know the mechanics,
+        but a character who passes this check understands <em lang="ja-Latn">why</em> the meal will matter.)</li>
+
+        </ul>
+
+        <hr>
+
+        <h3 id="kg-ii-herbs-amp-greens-yakus" data-section="ii-herbs-amp-greens-yakus">II. Herbs &amp; Greens — Yakusō
+        (薬草)</h3>
+
+        <h4 id="kg-common" data-section="common">Common</h4>
+
+        <p><strong>Yamashiso (Mountain Perilla)</strong>
+
+        Aromatic herb with broad purple-green leaves. Grows wild on hillsides and forest edges across most provinces.
+        Used fresh as a garnish, dried as a seasoning, or steeped as a tea. Mildly stimulating.
+
+        <em lang="ja-Latn">Terrain: Hillsides, forest edges, roadsides (all provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Seri (Water Parsley)</strong>
+
+        Crisp, peppery herb found along streams and in wet meadows. One of the first wild greens to appear in spring. A
+        common addition to soups and rice dishes throughout the countryside.
+
+        <em lang="ja-Latn">Terrain: Streamsides, wet meadows, rice paddy edges</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Nobiru (Wild Garlic)</strong>
+
+        Slender bulbs with a sharp, clean bite. Found in open grasslands and along the Emperor&#39;s Highway margins.
+        Often eaten raw or pickled. The smell deters certain insects.
+
+        <em lang="ja-Latn">Terrain: Grasslands, roadsides, open hillsides</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Yomogi (Mugwort)</strong>
+
+        A tough, aromatic herb with silvery-green leaves found along roadsides and disturbed ground throughout Hokori.
+        Bitter when raw, but blanched and pounded into rice cakes it produces the distinctive green kusamochi sold at
+        every festival. Also burned as a smudge to repel insects at camp.
+
+        <em lang="ja-Latn">Terrain: Roadsides, field margins, disturbed ground (all provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Warabi (Bracken Fern)</strong>
+
+        Young fiddlehead ferns harvested in spring from forest floors and hillsides. Must be soaked overnight in wood
+        ash water to remove bitterness before eating. A staple wild green across the archipelago — gathering warabi is
+        one of the first foraging skills children learn.
+
+        <em lang="ja-Latn">Terrain: Forest floors, shaded hillsides, bamboo grove margins (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Mitsuba (Trefoil)</strong>
+
+        A delicate, three-leafed herb with a bright, celery-like flavor. Grows in shaded, damp areas near streams and
+        under forest canopy. Used as a garnish in soups and custards, or scattered over rice. The flavor is subtle but
+        distinctive — it marks the difference between trail cooking and something worth eating.
+
+        <em lang="ja-Latn">Terrain: Shaded streamsides, forest understory, temple garden margins</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Takenoko (Bamboo Shoot)</strong>
+
+        Young bamboo shoots harvested in spring from the edges of bamboo groves. Must be boiled to remove bitterness.
+        The tender inner flesh is crisp, mildly sweet, and absorbs flavor from whatever it is cooked with. Abundant
+        where bamboo grows — which is most of lowland Hokori.
+
+        <em lang="ja-Latn">Terrain: Bamboo groves, forest edges (Hana, Kusa, Mizu, Tsuchi)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (spring only; 1d2 in other seasons)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Shungiku (Chrysanthemum Greens)</strong>
+
+        The edible leaves of wild chrysanthemum, with a distinctive aromatic bitterness that cuts through rich broths.
+        Found in open sunny areas and along cultivated field margins. A common hot pot ingredient that also serves as a
+        mild digestive aid.
+
+        <em lang="ja-Latn">Terrain: Open fields, sunny hillsides, cultivated margins (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Fuki (Butterbur)</strong>
+
+        A tall, broad-leafed plant with thick, celery-like stalks that push up through the snow in early spring. The
+        stalks are peeled, blanched, and simmered to remove a lingering bitterness — but the reward is a clean, fresh
+        flavour that announces the end of winter. A beloved sign of the turning year in every mountain village.
+
+        <em lang="ja-Latn">Terrain: Streamsides, damp meadows, shaded valleys (all provinces; spring peak)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Zenmai (Royal Fern)</strong>
+
+        Tightly curled young fern heads, densely furred with golden down, harvested from the forest floor in spring. The
+        down must be scrubbed off and the stalks soaked overnight before cooking. Once prepared they are meaty and
+        faintly nutty, excellent in simmered dishes or dressed with miso. Mountain villagers preserve bundles of dried
+        zenmai for winter cooking.
+
+        <em lang="ja-Latn">Terrain: Forest floors, shaded hillsides, above spring snowmelt (mountain provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (spring only)</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Karashi-na (Mustard Greens)</strong>
+
+        Broad, deep-green leaves with a sharp, peppery bite that mellows with cooking. Self-seeds along cultivated field
+        margins and disturbed ground, especially in Tsuchi and Hana where farmers allow them to grow wild between
+        plantings. Used in pickles, stir-fries, and the spicy soups of winter.
+
+        <em lang="ja-Latn">Terrain: Field margins, disturbed ground, roadsides (Tsuchi, Hana, Kusa)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <h4 id="kg-uncommon" data-section="uncommon">Uncommon</h4>
+
+        <p><strong>Kurokaze-sō (Black Wind Herb)</strong>
+
+        A dark-leafed herb found only in Kaze province, growing in the shadow of black pines where the mist never fully
+        lifts. Used by Gekkō-trained herbalists for alertness tinctures. Bitter, with a sharp aftertaste that clears the
+        head.
+
+        <em lang="ja-Latn">Terrain: Kaze province — black pine forests, mist-shrouded valleys</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Hi no Ha (Fire Leaf)</strong>
+
+        A low-growing succulent with reddish-orange leaves, found near fumaroles and thermal vents in Hi province. The
+        leaves produce a tingling heat when chewed, stronger than any cultivated pepper. Used sparingly in cooking — too
+        much causes painful numbness.
+
+        <em lang="ja-Latn">Terrain: Hi province — fumarole fields, volcanic slopes, near Honōgawa</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Tsukimisō (Moon-Viewing Herb)</strong>
+
+        Pale silver flowers that open only at night, found on high ground in Sora and along ridgelines in Hana&#39;s
+        mountains. The petals, dried and crumbled, produce a mild calming effect. Traditionally served in tea before
+        important negotiations.
+
+        <em lang="ja-Latn">Terrain: High-altitude ridgelines, Sora province, Tenchūsan Ren</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging (night only)</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Umikaze-na (Sea Wind Greens)</strong>
+
+        A thick-leafed coastal plant that grows on cliff faces and rocky shorelines where the salt spray is constant.
+        The leaves are succulent, salty, and faintly bitter — eaten raw they taste of the sea. Nami fishermen chew them
+        during long watches. Used in cooking to add a briny depth without additional salt.
+
+        <em lang="ja-Latn">Terrain: Coastal cliffs, rocky shorelines, sea-spray zone (Nami, Mizu)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Kagerō-sō (Shimmer Herb)</strong>
+
+        A low, ground-hugging herb found along the banks of the Kagerō River in Kaze province, identifiable by the faint
+        shimmer on its leaves that mirrors the river&#39;s thermal haze. The leaves have a complex, slightly numbing
+        quality that enhances other flavors when used in small amounts. Overuse deadens the palate.
+
+        <em lang="ja-Latn">Terrain: Kagerō River banks, thermal stream margins (Kaze)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Iwa-ninniku (Cliff Garlic)</strong>
+
+        A pungent wild garlic variant that grows from cracks in cliff faces and exposed rock. Stronger than lowland
+        nobiru — the flavor is sharp, almost medicinal, and lingers for hours. Mountain villagers in Sora use it as both
+        seasoning and folk remedy. Harvesting requires climbing or reaching into awkward crevices.
+
+        <em lang="ja-Latn">Terrain: Cliff faces, exposed rock, mountain road cuttings (Sora, Tenchūsan Ren)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Murasaki-ha (Purple Leaf)</strong>
+
+        A broad-leafed plant endemic to Kusa&#39;s lowland forests, where it grows in the violet grass meadows alongside
+        the native murasaki-gusa. The leaves are a deep purple-black and have a mild, earthy sweetness that complements
+        rich meats. Kusa cooks wrap fish and game in the leaves before steaming — a regional technique unknown outside
+        the province.
+
+        <em lang="ja-Latn">Terrain: Kusa province — violet grasslands, lowland forest clearings</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Tsuchi-shōga (Earth Ginger)</strong>
+
+        A knotty root found in the mineral-rich soil of Tsuchi province&#39;s agricultural valleys. Smaller and more
+        intensely flavored than cultivated ginger, with a sharp heat and an earthy undertone that reflects the volcanic
+        soil it grows in. Farmers dig it up as a byproduct of plowing and sell it at local markets.
+
+        <em lang="ja-Latn">Terrain: Agricultural valleys, freshly turned soil (Tsuchi, southern Hana)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging (1 root = 2 portions)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 sp</em></p>
+
+        <h4 id="kg-rare" data-section="rare">Rare</h4>
+
+        <p><strong>Seiryoku-gusa (Sei-Vigor Grass)</strong>
+
+        A luminous blue-green grass that grows in tight spirals near leyline concentrations and sei-active springs. The
+        blades pulse with faint light when cut, and carry that glow for days after being dried. Herbalists in Sora and
+        Kaze prize it for both cooking and minor focusing rituals.
+
+        <em lang="ja-Latn">Terrain: Sei-active sites — Yōsei Mori, shrine surrounds, Whispering Flats</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 15 gp</em></p>
+
+        <p><strong>Ryūketsu-bana (Dragon&#39;s Blood Flower)</strong>
+
+        Deep crimson flower with gold-veined petals, found growing from cracks in stone near Progenitor-associated
+        ruins. Blooms are small — no larger than a thumbnail — and extremely difficult to spot. The dried petals impart
+        a metallic warmth to any dish.
+
+        <em lang="ja-Latn">Terrain: Progenitor ruins, Seidōrin Mori deep interior, volcanic ridgelines</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 10 gp</em></p>
+
+        <p><strong>Ginrei-sō (Silver Spirit Herb)</strong>
+
+        A frost-white herb that grows at extreme altitude on the Hoshimori Plateau, where it clings to rock faces in
+        thin soil that freezes solid every night. The leaves are tough and fibrous — useless raw — but when simmered
+        they release a clean, piercingly bright flavor that clears the sinuses and sharpens the mind. Sora&#39;s
+        observatory seimasters brew it as a study aid.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau rock faces, highest ridgelines of Sora</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Akabana (Crimson Bloom)</strong>
+
+        A heat-loving flower found growing in volcanic ash near active vents in Hi province. The petals are a vivid
+        crimson that deepens to black at the edges. When dried and crumbled into food, they produce a slow, building
+        warmth that starts in the chest and spreads to the extremities. Hi province healers use them to treat exposure
+        and hypothermia.
+
+        <em lang="ja-Latn">Terrain: Active volcanic ash fields, fumarole margins (Hi province)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Yūrei-kusa (Ghost Grass)</strong>
+
+        A pale, almost transparent grass that grows in the shadow of ancient ruins and abandoned settlements —
+        particularly around Tsukikage in Kaze province. It sways without wind and is cold to the touch even in summer.
+        When brewed as a tea, it produces a heightened awareness of one&#39;s surroundings that borders on unsettling.
+        Some drinkers report hearing whispers.
+
+        <em lang="ja-Latn">Terrain: Abandoned settlements, ruined foundations, spirit-touched ground (Kaze, areas near
+        Yurei)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 8 gp</em></p>
+
+        <p><strong>Mizuchi-na (Water Dragon Greens)</strong>
+
+        A deep-green aquatic plant found in the clearest, coldest springs fed by snowmelt from the Tenchūsan Ren. The
+        fronds are long and ribbon-like, and when held up to light they show veining that resembles scales. The flavor
+        is bright, clean, and faintly metallic — like drinking from a mountain spring. Must be harvested underwater.
+
+        <em lang="ja-Latn">Terrain: Cold mountain springs, snowmelt-fed pools (Tenchūsan Ren, Sora, upper Kaze)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Kasumi-sō (Mist Herb)</strong>
+
+        Found only in the dense fog banks of Kaze province&#39;s deepest valleys, where visibility drops to arm&#39;s
+        length and sound arrives from the wrong direction. The herb is identifiable by scent alone — a sharp, green
+        fragrance that cuts through the ambient dampness. Used in cooking, it produces a heightened clarity of taste in
+        other ingredients, as though the fog around one&#39;s senses had been lifted.
+
+        <em lang="ja-Latn">Terrain: Kaze province — perpetual fog zones, deep valley floors</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 7 gp</em></p>
+
+        <h4 id="kg-very-rare" data-section="very-rare">Very Rare</h4>
+
+        <p><strong>Ryūsō (Dragon Herb)</strong>
+
+        A small, leathery-leafed plant found growing directly on the stone of Progenitor shrine sites, its roots
+        apparently drawing sustenance from the rock itself. The leaves are warm to the touch year-round and carry a
+        faint metallic sheen. When consumed, the flavor changes depending on the shrine&#39;s associated Progenitor —
+        fiery near Crimson sites, cool and bright near Azure. Cannot be cultivated; attempts to transplant it kill the
+        plant within hours.
+
+        <em lang="ja-Latn">Terrain: Progenitor shrine sites only</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <p><strong>Hoshikusa (Star Grass)</strong>
+
+        A luminescent grass found only on the Hoshimori Plateau during specific celestial alignments — when Ryūgetsu
+        enters full phase and the aurora of Hikarishō touches the ground. The blades glow with a shifting, opalescent
+        light and are warm to the touch. The window for harvesting is narrow — hours at most. When used in cooking, it
+        imparts a sensation that defies description: a warmth that feels like being watched over.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau — during Hikarishō alignment only</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <p><strong>Kaminari-kusa (Thunder Herb)</strong>
+
+        Found only during active thunderstorms on exposed ridgelines — the herb appears to sprout from bare rock in the
+        minutes following a lightning strike and withers within the hour. The leaves crackle faintly when touched and
+        carry a sharp, ozone-like scent. Harvesting requires being on an exposed ridgeline during a thunderstorm, which
+        is exactly as dangerous as it sounds.
+
+        <em lang="ja-Latn">Terrain: Exposed ridgelines during thunderstorms (any mountain province)</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage (if you survive the storm)</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <hr>
+
+        <h3 id="kg-iii-fungi-kinoko" data-section="iii-fungi-kinoko">III. Fungi — Kinoko (茸)</h3>
+
+        <h4 id="kg-common" data-section="common">Common</h4>
+
+        <p><strong>Shiitake (Oak Mushroom)</strong>
+
+        The universal cooking mushroom of Kagekuni. Found on fallen hardwood throughout Hana, Kusa, and Mizu. Rich umami
+        flavor. Dries well and keeps indefinitely.
+
+        <em lang="ja-Latn">Terrain: Hardwood forests (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Nameko (Amber Cap)</strong>
+
+        Small, glossy mushrooms found in clusters on decaying wood in damp forests. Mild, slightly nutty. Common in
+        soups and stews.
+
+        <em lang="ja-Latn">Terrain: Damp forests, river valleys, cave mouths</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Shimeji (Beech Cluster)</strong>
+
+        Clusters of small, round-capped mushrooms found at the base of beech and other broadleaf trees. The flavor is
+        mild with a faint sweetness that develops when cooked. Plentiful enough that even an inexperienced forager can
+        find them on a good day.
+
+        <em lang="ja-Latn">Terrain: Broadleaf forests, beech groves, forest edges (Hana, Kusa, Mizu)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Kikurage (Wood Ear)</strong>
+
+        Thin, translucent, ear-shaped fungi found on dead elder and willow wood near streams. The texture is crunchy and
+        gelatinous — they contribute body rather than flavor. Widely used in soups and stir-fried dishes across all
+        provinces. Dries flat and reconstitutes easily.
+
+        <em lang="ja-Latn">Terrain: Streamside deadwood, willow groves, damp forest margins</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Hiratake (Oyster Shelf)</strong>
+
+        Fan-shaped mushrooms growing in overlapping shelves on standing dead trees and fallen logs. The flesh is thick,
+        meaty, and absorbs seasoning readily. A favorite of trail cooks because of its substantial texture — it can
+        stand in for meat in lean times.
+
+        <em lang="ja-Latn">Terrain: Standing deadwood, fallen logs, forest clearings (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Matsutake (Pine Mushroom)</strong>
+
+        Large, thick-stemmed mushrooms found under red pine trees in well-drained soil. The aroma is distinctive — a
+        spicy, almost cinnamon-like fragrance that announces a find before you see it. Highly prized and seasonal —
+        autumn only. Despite the prestige, they are common enough in the right terrain to be found by a patient forager.
+
+        <em lang="ja-Latn">Terrain: Red pine forests, well-drained hillsides (Hana, Kaze, Kusa)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (autumn only)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 5 cp</em></p>
+
+        <p><strong>Eringi (King Trumpet)</strong>
+
+        Tall, thick-stemmed mushrooms found on dead roots and buried wood in grasslands and field margins. The cap is
+        small relative to the meaty stem, which is the prized part — firm, white, and holds its texture through long
+        cooking. Farmers in Tsuchi gather them from freshly cleared fields.
+
+        <em lang="ja-Latn">Terrain: Grasslands, field margins, disturbed soil (Tsuchi, Kusa, Hana lowlands)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Maitake (Hen of the Woods)</strong>
+
+        Large, ruffled clusters found at the base of old oak and chestnut trees, growing in tiered layers that can weigh
+        several pounds each. The flavour is earthy and deep with a subtle peppery finish. Prized in autumn cooking — a
+        single find can feed a party twice over and the dried trimmings keep well on the road. Considered a lucky
+        discovery by foragers.
+
+        <em lang="ja-Latn">Terrain: Base of mature oaks, chestnut groves, old-growth hardwood forests (Hana, Kusa, Kaze
+        lowlands) — autumn peak</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (1 find = 2–3 portions)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Sugihiratake (Cedar Shelf)</strong>
+
+        Pale, fan-shaped mushrooms that grow in dense overlapping shelves on fallen cedar and cypress logs in mountain
+        forests. The flesh is thin but flavourful, with a distinctive resinous note from the wood beneath. Mountain
+        villagers in Sora and Kaze gather them in bulk during damp autumns and dry them in strings beneath the eaves.
+
+        <em lang="ja-Latn">Terrain: Fallen cedar and cypress, mountain forest deadwood (Sora, Kaze, Tenchūsan Ren
+        foothills)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Haratake (Meadow Cap)</strong>
+
+        Round, white-capped mushrooms found in open grasslands and grazed meadows, particularly where horses or cattle
+        have passed. They push up in rings overnight after rain. The flavour is mild and slightly sweet — the most
+        forgiving mushroom for new foragers, but also the easiest to mistake for dangerous lookalikes. Experienced
+        gatherers teach children the telltale pink-to-brown gill colour.
+
+        <em lang="ja-Latn">Terrain: Open grasslands, grazed meadows, fallow fields (Kusa, Tsuchi, Hana lowlands)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (best in the hours after rain)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <h4 id="kg-uncommon" data-section="uncommon">Uncommon</h4>
+
+        <p><strong>Kageboushi (Shadow Cap)</strong>
+
+        Found only in perpetually dark environments — deep caves, the interior of the Hollow Peaks, the lightless
+        galleries beneath mountain temples. Caps are charcoal-black with a silvery underside. The flavor is deep and
+        earthy, almost smoky.
+
+        <em lang="ja-Latn">Terrain: Caves, underground passages, Kaze province deep forest</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Enokidake (Golden Thread Mushroom)</strong>
+
+        Thin, pale mushrooms growing in dense clusters on decaying bronze-bark wood in the Seidōrin Mori. The metallic
+        substrate gives them a faint coppery note. Highly prized by Heian chefs.
+
+        <em lang="ja-Latn">Terrain: Seidōrin Mori (Bronze Wood Forest)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Iwatake (Rock Mushroom)</strong>
+
+        A flat, lichen-like fungus found clinging to cliff faces and exposed rock in mountain provinces. The texture is
+        leathery when dried and gelatinous when rehydrated. The flavor is intensely mineral — almost metallic — and
+        complements rich soups and braised dishes. Harvesting requires climbing or reaching into exposed positions.
+
+        <em lang="ja-Latn">Terrain: Cliff faces, exposed mountain rock (Sora, Tenchūsan Ren, Kaze highlands)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Kurenai-take (Crimson Cap)</strong>
+
+        A brilliant red-capped mushroom found near hot springs and thermal vents in Hi province. Easily mistaken for a
+        poisonous variety — only those who know the distinguishing underside pattern (pale gold gills rather than white)
+        should pick them. The flavor is rich, almost smoky, with a warmth that reflects its volcanic habitat.
+
+        <em lang="ja-Latn">Terrain: Hot spring margins, thermal vents, warm-soil areas (Hi province)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Yuki-shimeji (Snow Cluster)</strong>
+
+        A cold-hardy variant of the common shimeji found only above the snow line in Sora and on the highest ridges of
+        the Tenchūsan Ren. The caps are pale blue-white and the stems are unusually crisp. The flavor is clean and
+        slightly sweet, with a brightness that ordinary shimeji lack.
+
+        <em lang="ja-Latn">Terrain: Above snow line, high altitude clearings (Sora, upper Tenchūsan Ren)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Tanuki-take (Tanuki Mushroom)</strong>
+
+        A squat, round-bodied mushroom with a mottled brown cap found in deciduous forests across Kusa and Hana. Named
+        for its resemblance to a sleeping tanuki curled into a ball. The flesh is dense, almost meaty, with a rich umami
+        that intensifies when dried. Forest communities in Kusa preserve them in great quantities for winter stores.
+
+        <em lang="ja-Latn">Terrain: Deciduous forests, leaf litter, fallen broadleaf logs (Kusa, Hana)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Shio-take (Salt Stalk)</strong>
+
+        A pale, crystalline-crusted mushroom found in coastal caves where seawater seeps through limestone. The natural
+        salt crust makes it unique — it serves as both ingredient and seasoning simultaneously. Nami fishermen use them
+        in chowder-like stews where the salt dissolves into the broth.
+
+        <em lang="ja-Latn">Terrain: Coastal limestone caves, sea-spray grottoes (Nami, Mizu)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 sp</em></p>
+
+        <h4 id="kg-rare" data-section="rare">Rare</h4>
+
+        <p><strong>Seikinoko (Sei Mushroom)</strong>
+
+        Luminescent mushrooms found deep within the Yōsei Mori and in caverns with active sei flow. They glow a soft
+        violet-blue and the caps are warm to the touch. The taste is subtle — like forest air after rain — but the sei
+        resonance within them is unmistakable.
+
+        <em lang="ja-Latn">Terrain: Yōsei Mori interior, sei-active caverns, near spirit shrines</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 12 gp</em></p>
+
+        <p><strong>Hinotake (Fire Stalk)</strong>
+
+        Bright orange mushrooms that grow near volcanic vents in Hi province. The flesh is dry and slightly spicy. They
+        thrive in temperatures that would kill any other fungus, drawing nutrients from volcanic mineral deposits. Must
+        be handled carefully — the raw caps cause mild chemical burns on bare skin.
+
+        <em lang="ja-Latn">Terrain: Hi province — volcanic vents, obsidian fields, thermal caves</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Tsukiyo-take (Moonlit Cap)</strong>
+
+        A pale, luminescent mushroom found on deadwood in high-altitude forests during nights when Kagetsu is full. The
+        cap glows with a soft silver light that fades within hours of picking. The flavor is elusive — dreamlike is the
+        word most often used, though no one can articulate what that means. Some who eat them report unusually vivid
+        dreams during the following rest.
+
+        <em lang="ja-Latn">Terrain: High-altitude deadwood, open to moonlight (Sora, upper Kaze) — full Kagetsu
+        only</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 8 gp</em></p>
+
+        <p><strong>Kōtetsu-take (Steel Cap)</strong>
+
+        A dark, metallic-capped mushroom found in the iron-rich soil around Kurogane Yama and the mining settlements of
+        Tsuchi. The cap has a genuine metallic sheen and the flesh contains trace minerals that give it a faintly
+        ferrous taste. Miners consider them good luck. Alchemists value them for the mineral content.
+
+        <em lang="ja-Latn">Terrain: Iron-rich soil, mine tailings, Kurogane Yama slopes (Tsuchi)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 4 gp</em></p>
+
+        <p><strong>Arashi-take (Storm Cap)</strong>
+
+        Found only on exposed surfaces after severe storms — typically on shattered tree trunks or freshly exposed rock
+        faces in Nami province. The caps appear within hours of a major storm and wither within a day. They are electric
+        blue with branching white patterns on the cap that resemble lightning. The flavor is sharp, almost astringent,
+        with a tingling quality on the tongue.
+
+        <em lang="ja-Latn">Terrain: Storm-damaged surfaces, exposed wood and rock (Nami, exposed coastline) — post-storm
+        only</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 6 gp</em></p>
+
+        <p><strong>Dokuro-take (Skull Cap)</strong>
+
+        A bone-white mushroom found growing on ancient remains — specifically on buried skeletal material in
+        battlefields, old gravesites, and ruined settlements. The cap is smooth and rounded, unsettlingly skull-like.
+        Despite its morbid habitat, the flavor is mild and pleasant. Herbalists in Kaze province use it as a base for
+        medicines that ease pain and promote rest.
+
+        <em lang="ja-Latn">Terrain: Old battlefields, gravesites, ruined foundations with buried remains</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Kaseki-take (Fossil Shelf)</strong>
+
+        A large, shelf-like fungus found growing on petrified wood in ancient geological formations — the Buried Road of
+        Tsuchi, the deep foundations of Progenitor ruins, and exposed strata in river gorges. The flesh is incredibly
+        dense and must be thinly sliced. The flavor is deep, complex, and ancient-tasting in a way that is difficult to
+        articulate — like stone dust and old libraries and deep time.
+
+        <em lang="ja-Latn">Terrain: Petrified wood, ancient geological formations, Buried Road (Tsuchi)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 7 gp</em></p>
+
+        <h4 id="kg-very-rare" data-section="very-rare">Very Rare</h4>
+
+        <p><strong>Ryūkinoko (Dragon Fungus)</strong>
+
+        A large, golden-capped mushroom found only in caverns directly beneath Progenitor resting sites. The cap is warm
+        to the touch and radiates a faint light in darkness. The flesh carries a flavor that shifts with each bite —
+        savory, then sweet, then something that sits between warmth and music. Those who eat it describe a sensation of
+        profound calm.
+
+        <em lang="ja-Latn">Terrain: Progenitor caverns, directly beneath dragon resting sites</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 50 gp</em></p>
+
+        <p><strong>Hoshi-take (Star Cap)</strong>
+
+        A tiny, brilliantly luminescent mushroom found on the Hoshimori Plateau during specific stellar alignments. The
+        caps are no larger than a thumbnail and glow with a light that shifts through the spectrum — gold, blue, red,
+        violet — mirroring the three-star system overhead. They appear in clusters and vanish by dawn. The taste is
+        indescribable. Seimasters at Hoshimori have attempted to study them for decades without satisfactory results.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau — during rare triple-star alignment only</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <p><strong>Yomi-take (Underworld Cap)</strong>
+
+        A pitch-black mushroom found in the deepest accessible caverns of Kagekuni — places where no light has reached
+        in geological time. The cap absorbs light rather than reflecting it, creating a visual absence that is
+        disorienting to look at directly. The flavor is the densest umami imaginable — concentrated essence of earth and
+        darkness. Herbalists and seimasters debate whether it should be classified as a fungus at all.
+
+        <em lang="ja-Latn">Terrain: Deepest caverns, places of absolute darkness, far beneath mountain roots</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: not sold</em></p>
+
+        <hr>
+
+        <h3 id="kg-iv-seasonings-amp-aromatics-chmiry" data-section="iv-seasonings-amp-aromatics-chmiry">IV. Seasonings
+        &amp; Aromatics — Chōmiryō (調味料)</h3>
+
+        <h4 id="kg-common" data-section="common">Common</h4>
+
+        <p><strong>Shio (Sea Salt)</strong>
+
+        Harvested from evaporation pools along the Nami and Mizu coasts, or traded inland along the Emperor&#39;s
+        Highway. The fundamental seasoning of Kagekuni cooking.
+
+        <em lang="ja-Latn">Terrain: Coastal (purchased or harvested from tidal pools)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of harvesting (coastal only); unlimited when purchased</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Shōyu (Soy Paste)</strong>
+
+        A fermented seasoning carried by most travelers and available in any settlement with a market. Not foraged —
+        purchased or traded.
+
+        <em lang="ja-Latn">Availability: Any settlement with commerce</em>
+
+        <em lang="ja-Latn">Yield: Purchased — not foraged</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Wasabi (Mountain Horseradish)</strong>
+
+        Found wild along cool, shaded streams in the mountains. The root is grated fresh for a sharp, sinus-clearing
+        heat. Cultivated near Ayame and in Kaze&#39;s valleys.
+
+        <em lang="ja-Latn">Terrain: Mountain streams, shaded valleys</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (1 root = 2 portions)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Sanshō (Mountain Pepper)</strong>
+
+        Small, citrus-scented peppercorns found on prickly shrubs along mountain trails and forest edges. The flavor is
+        bright and tingling rather than hot — a numbing, almost electric sensation on the tongue. Used whole, cracked,
+        or ground. Available nearly everywhere mountains meet forest.
+
+        <em lang="ja-Latn">Terrain: Mountain trails, forest edges, shrubby hillsides (most provinces)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Myōga (Wild Ginger Bud)</strong>
+
+        Pale pink buds found at the base of wild ginger plants in shaded, damp forest understory. The flavor is bright
+        and peppery with a floral sharpness — sliced thin, it brightens any dish. Abundant in the right conditions but
+        easy to overlook under leaf litter.
+
+        <em lang="ja-Latn">Terrain: Shaded forest understory, damp leaf litter (Hana, Kusa, Mizu)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Kombu (Kelp)</strong>
+
+        Broad, dark sheets of dried seaweed harvested from coastal rocks and tidal zones. The foundation of dashi stock.
+        Available fresh along any coastline or dried in any market settlement. The umami it imparts to broth is
+        irreplaceable.
+
+        <em lang="ja-Latn">Terrain: Coastal rocks, tidal zones (Nami, Mizu); purchased dried elsewhere</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of harvesting (coastal only); unlimited when purchased</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Goma (Wild Sesame)</strong>
+
+        Tiny seeds from a tall, flowering plant found in dry, open fields and along road margins. Toasted, they release
+        a deep, nutty aroma that elevates simple rice dishes. The oil pressed from the seeds is used for frying and
+        finishing. A common roadside find in the agricultural provinces.
+
+        <em lang="ja-Latn">Terrain: Dry fields, road margins, sunny hillsides (Tsuchi, Hana, Kusa)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Yuzu (Mountain Citrus)</strong>
+
+        A small, intensely aromatic citrus fruit found wild on thorny trees in hill forests and mountain slopes. The
+        fruit itself is too sour to eat, but the zest and juice transform cooking — a few drops of yuzu juice in a broth
+        is the difference between adequate and transcendent. Ripens in autumn.
+
+        <em lang="ja-Latn">Terrain: Hill forests, mountain slopes, forest edges (Hana, Kaze, Sora foothills)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (1 fruit = 2 portions; autumn peak)</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Tōgarashi (Hill Chili)</strong>
+
+        Slender red peppers that grow on low shrubs along sun-warmed hillsides and field margins. Dried whole and
+        crushed into flakes, or ground fine and blended with other spices. The heat is clean and bright rather than
+        smouldering. Essential to the everyday cooking of Hi province and beloved everywhere the cold reaches in.
+
+        <em lang="ja-Latn">Terrain: Sunny hillsides, field margins, cultivated land (Hi, Kusa, Hana; autumn
+        harvest)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging (1 pod = 2 portions)</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Tade (Water Pepper)</strong>
+
+        A slender, reed-edge herb whose leaves carry a sharp peppery bite — the wild cousin of cultivated spices.
+        Fishermen along the Kinryūgawa use it as a traditional accompaniment to grilled river fish, and its leaves are
+        often pressed onto sashimi as a pungent garnish. Abundant where clear water meets soft mud.
+
+        <em lang="ja-Latn">Terrain: Riverbanks, stream margins, rice paddy edges (Hana, Kusa, Mizu)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Shiso-mi (Perilla Seeds)</strong>
+
+        The dark, peppery seeds produced by mature perilla plants at the end of summer. Gathered by shaking ripe stalks
+        over a cloth, then dried and cracked between the teeth or ground into a finishing dust. Adds a complex, almost
+        medicinal depth to rice, fish, and pickles. Often mixed with salt for travel.
+
+        <em lang="ja-Latn">Terrain: Hillsides, forest edges, cultivated margins (all provinces; late summer)</em>
+
+        <em lang="ja-Latn">Yield: 1d4 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 cp</em></p>
+
+        <h4 id="kg-uncommon" data-section="uncommon">Uncommon</h4>
+
+        <p><strong>Seidōrin no Shio (Bronze Wood Salt)</strong>
+
+        Mineral salt collected from crystalline deposits at the base of bronze-barked trees in the Seidōrin Mori. Has a
+        faintly metallic, almost sweet quality that enhances the flavor of game meats. Collection requires a clan
+        license — unlicensed harvesting is technically a capital offense.
+
+        <em lang="ja-Latn">Terrain: Seidōrin Mori (licensed access only)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of harvesting</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Kuro-koshō (Black Mountain Pepper)</strong>
+
+        Found in the underbrush of Kaze&#39;s black pine forests. Berries are tiny, dark, and intensely aromatic —
+        cracked between the teeth, they release a complex heat that builds slowly and lingers. Kaze merchants sell them
+        at a premium.
+
+        <em lang="ja-Latn">Terrain: Kaze province — black pine forest understory</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Kaen-su (Flame Vinegar)</strong>
+
+        A pungent vinegar produced naturally in thermal pools of Hi province where specific mineral concentrations and
+        bacterial colonies create an acidic brine. The liquid is collected from shallow depressions near volcanic vents
+        — it tastes of heat, stone, and a sharp acidity that cuts through the richest meat. Cannot be replicated outside
+        its volcanic source.
+
+        <em lang="ja-Latn">Terrain: Thermal pool margins, volcanic mineral deposits (Hi province)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of harvesting</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Umi-shio (Deep Sea Salt)</strong>
+
+        Coarse, grey-blue salt crystals harvested from deep tidal caves along Nami&#39;s coastline, where centuries of
+        seawater evaporation have left mineral-rich deposits on cave walls. The flavor is more complex than ordinary sea
+        salt — briny, faintly bitter, with a mineral depth that ordinary salt lacks. Nami fishermen consider it
+        essential for proper fish curing.
+
+        <em lang="ja-Latn">Terrain: Deep tidal caves, cave walls above high-water mark (Nami coastline)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of harvesting</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Tsuchi-miso (Earth Miso)</strong>
+
+        A wild fermented paste found in clay deposits near certain hot springs in Hi and Tsuchi provinces, where soil
+        bacteria and mineral content produce a natural fermentation in accumulated organic matter. The result is a dark,
+        intensely savory paste — rougher than manufactured miso, but with a depth that cultured products cannot match.
+        Not all deposits are safe to eat — local knowledge is essential.
+
+        <em lang="ja-Latn">Terrain: Hot spring clay deposits, mineral-rich soil (Hi, Tsuchi) — requires local
+        guidance</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of harvesting</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 4 sp</em></p>
+
+        <p><strong>Kumo-no-Su Kōji (Cloud Nest Mold)</strong>
+
+        A beneficial mold culture found growing on grain stores in the high-altitude settlements of Sora, where the
+        cold, dry air and altitude produce unique fermentation conditions. The mold is collected and used to inoculate
+        rice for a distinctively sharp, clean sake and a fermented seasoning paste with an almost effervescent quality.
+        The communities of Kumo-no-Ue guard their specific culture strains carefully.
+
+        <em lang="ja-Latn">Terrain: High-altitude grain stores (Sora province — Kumo-no-Ue, Hoshimori)</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of careful collection</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <p><strong>Nami no Hana (Wave Blossom)</strong>
+
+        A dried sea foam that crystallizes on coastal rocks during the height of Tatsunami season, when the four-moon
+        alignment drives extreme tides. The crystals are white, feathery, and dissolve on the tongue with an intense
+        brininess followed by an unexpected sweetness. Used as a finishing salt on delicate dishes. Available only
+        during a narrow seasonal window.
+
+        <em lang="ja-Latn">Terrain: Exposed coastal rocks during Tatsunami (Nami, Mizu coastline) — seasonal</em>
+
+        <em lang="ja-Latn">Yield: 1d3 portions per hour of harvesting</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 5 sp</em></p>
+
+        <h4 id="kg-rare" data-section="rare">Rare</h4>
+
+        <p><strong>Ryūjio (Dragon Salt)</strong>
+
+        Crystalline mineral deposits found in caverns near Progenitor-associated sites. The crystals are warm to the
+        touch and dissolve slowly, releasing a flavor that shifts — first savory, then faintly sweet, then something
+        that has no earthly comparison. A single pinch transforms a dish.
+
+        <em lang="ja-Latn">Terrain: Progenitor-associated caverns, deep ruins</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 15 gp</em></p>
+
+        <p><strong>Kuroyō-su (Obsidian Vinegar)</strong>
+
+        A naturally occurring acidic mineral brine found seeping through obsidian formations in the Kuroso fields of Hi
+        province. The liquid is dark, almost black, and carries a sharp acidity with an underlying smokiness. Alchemists
+        use it as a reagent; cooks use it — very sparingly — as a finishing acid that adds complexity no other vinegar
+        can match.
+
+        <em lang="ja-Latn">Terrain: Obsidian Fields of Kurosō, volcanic glass formations (Hi province)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of careful collection</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 8 gp</em></p>
+
+        <p><strong>Seidō-kōji (Bronze Mold)</strong>
+
+        A rare fermentation culture found on fallen bronze-bark in the deepest, dampest reaches of the Seidōrin Mori.
+        The mold itself is a pale green-gold and imparts a unique metallic complexity to whatever it ferments. Used to
+        produce a seasoning paste of extraordinary depth — savory, faintly sweet, with a lingering copper brightness.
+        Harvesting requires entering restricted forest areas.
+
+        <em lang="ja-Latn">Terrain: Deep Seidōrin Mori, fallen bronze-bark in damp hollows</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 10 gp</em></p>
+
+        <p><strong>Rei-en (Spirit Salt)</strong>
+
+        Crystalline deposits found at the margins of sei-active springs and pools, where the interaction between sei
+        energy and mineral-rich water produces salt crystals that are faintly warm and carry a subtle luminescence. The
+        flavor is clean and bright — not quite salt, not quite sweet, but something adjacent to both. Dissolves
+        instantly on contact with food.
+
+        <em lang="ja-Latn">Terrain: Sei-active springs, luminescent pool margins (Yōsei Mori, shrine pools)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of careful collection</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 15 gp</em></p>
+
+        <p><strong>Kazan-koshō (Volcano Pepper)</strong>
+
+        The fruit of a stunted bush that grows in the ash fields surrounding Enshiyama&#39;s crater, where soil
+        temperatures remain elevated year-round. The berries are tiny and dark red, and the heat they carry is unlike
+        any other pepper — it builds slowly, reaches an almost painful intensity, then subsides into a deep, smoky
+        warmth. Hi province alchemists classify it as mildly toxic. Hi province cooks classify anyone who can&#39;t
+        handle it as weak.
+
+        <em lang="ja-Latn">Terrain: Enshiyama ash fields, volcanic crater margins (Hi province)</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per hour of foraging</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 6 gp</em></p>
+
+        <p><strong>Gin-en (Silver Salt)</strong>
+
+        Pale, almost transparent crystal deposits found in caverns near the Silver Dragon&#39;s associated sites. The
+        crystals are cold to the touch regardless of ambient temperature and dissolve with a clean, bright flavor
+        followed by a cooling sensation that lingers. Used in dishes meant to counteract heat or fever, or simply as a
+        finishing seasoning of extraordinary refinement.
+
+        <em lang="ja-Latn">Terrain: Caverns near Ginryū-associated sites, high-altitude mineral deposits</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 12 gp</em></p>
+
+        <p><strong>Yūgure-su (Twilight Vinegar)</strong>
+
+        A deep amber liquid that collects in hollows of ancient hardwood trees in the Yōsei Mori, where sei activity and
+        slow fermentation of tree sap produce a vinegar of remarkable complexity. The flavor carries notes of autumn
+        leaves, honey, and something that suggests distance — like a memory of a taste rather than the taste itself. The
+        trees that produce it are centuries old and cannot be cultivated.
+
+        <em lang="ja-Latn">Terrain: Ancient hardwood hollows, Yōsei Mori interior</em>
+
+        <em lang="ja-Latn">Yield: 1d2 portions per successful forage</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 10 gp</em></p>
+
+        <h4 id="kg-very-rare" data-section="very-rare">Very Rare</h4>
+
+        <p><strong>Ryū no Namida (Dragon&#39;s Tear)</strong>
+
+        A liquid mineral seep found in the deepest chambers of Progenitor-associated cave systems — slow drops that fall
+        from stone ceilings into shallow basins over decades. The liquid is perfectly clear, faintly warm, and carries
+        no scent. On the tongue it produces a sensation of pure, complex flavor that defies categorization — every
+        person who tastes it describes something different. A single drop can transform an entire dish. The basins are
+        found near places where Progenitors rested.
+
+        <em lang="ja-Latn">Terrain: Deepest Progenitor cavern chambers, dragon resting sites</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <p><strong>Hoshi no Kona (Star Dust)</strong>
+
+        A fine, glittering powder found on exposed surfaces of the Hoshimori Plateau during the peak of Hikarishō, when
+        the dragon auroras touch the ground. The powder is warm, faintly luminescent, and dissolves completely into
+        food. The flavor is impossible to describe in conventional terms — those who have tasted it say it changes every
+        time, and that the meal it seasons feels significant in a way ordinary food does not.
+
+        <em lang="ja-Latn">Terrain: Hoshimori Plateau — during Hikarishō peak only</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <p><strong>Inochi no Shio (Salt of Life)</strong>
+
+        A crystalline substance found at the exact point where sei-active spring water meets volcanic mineral deposits —
+        a convergence so specific that fewer than a dozen sites in all of Kagekuni produce it. The crystals form slowly
+        and are self-replenishing, but harvesting too aggressively depletes the site for years. The flavor is warmth,
+        vitality, and something that sits beyond the tongue&#39;s ability to categorize. Meals seasoned with it produce
+        effects that border on the miraculous.
+
+        <em lang="ja-Latn">Terrain: Specific sei-volcanic convergence sites (known locations: one in Hi, one in Sora,
+        others rumored)</em>
+
+        <em lang="ja-Latn">Yield: 1 portion per successful forage</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <hr>
+
+        <h3 id="kg-v-staples-amp-preserved-goods-shushoku" data-section="v-staples-amp-preserved-goods-shushoku">V.
+        Staples &amp; Preserved Goods — Shushoku (主食)</h3>
+
+        <p>These are the carried, purchased, and cultivated foodstuffs that form the backbone of every traveller&#39;s
+        pack. Unlike the foraged categories, staples are acquired through commerce, inheritance, or gift — not skill
+        with a foraging kit. They are organised by rarity to reflect availability: common staples fill every market,
+        while the rare and very rare represent treasures of craft, lineage, or ceremony that few travellers will ever
+        taste.</p>
+
+        <h4 id="kg-common" data-section="common">Common</h4>
+
+        <p><strong>Kome (Rice)</strong>
+
+        The foundation of nearly every meal in Kagekuni. White polished rice is carried by all travellers in small cloth
+        bags and purchased in any settlement. Peasant households stretch it with brown rice or mixed grains; samurai eat
+        it white. Quality varies subtly by province — Tsuchi rice is said to be the finest for daily eating, while
+        Kusa&#39;s slightly sweeter grain is favoured for festival dishes. A traveller without kome in their pack is a
+        traveller who expects hospitality.
+
+        <em lang="ja-Latn">Availability: Universal — any settlement</em>
+
+        <em lang="ja-Latn">Source: Lowland rice paddies and terraced mountain fields</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Miso</strong>
+
+        Fermented soybean paste, sold by weight in wooden tubs or wrapped in bamboo leaves for travel. The foundation of
+        soups, glazes, and braises, miso colour ranges from pale yellow (young, sweet) to deep red-brown (aged,
+        assertive). It keeps indefinitely in a dry container and forgives all manner of cooking sins. A small pot of
+        miso makes the difference between a sad camp meal and a proper one.
+
+        <em lang="ja-Latn">Availability: Any settlement with a market</em>
+
+        <em lang="ja-Latn">Source: Fermented from soybeans, salt, and kōji mold</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Dried Dashi — Seaweed &amp; Fish Stock</strong>
+
+        Small bricks or loose powders of concentrated stock base, combining dried kombu kelp with katsuobushi flakes or
+        occasionally dried sardines. A pinch dissolved in hot water produces instant broth — the backbone of every road
+        meal from mushroom soup to trail ramen. Lightweight, compact, and keeps almost indefinitely.
+
+        <em lang="ja-Latn">Availability: Coastal settlements, market towns, any roadside inn</em>
+
+        <em lang="ja-Latn">Source: Processed from dried kelp and smoked fish in coastal workshops</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Sake</strong>
+
+        Rice wine sold in small ceramic or bamboo flasks for travel. Drunk cold in summer and warm in winter, sake is
+        also a cornerstone of cooking — a splash in broth, a rinse for fish, a glaze for grilled meat. Common grades are
+        cheap and functional; named breweries command meaningful premiums. Every traveller carries at least a small
+        flask, if only for the warming sip after a hard day&#39;s walk.
+
+        <em lang="ja-Latn">Availability: Any settlement</em>
+
+        <em lang="ja-Latn">Source: Brewed from rice and kōji mold in breweries throughout Hokori</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 5 cp</em></p>
+
+        <p><strong>Rice Vinegar</strong>
+
+        A clear, mildly acidic vinegar brewed from rice. Essential for pickles, dressings, and the proper preparation of
+        sushi rice. Milder than most vinegars — it sharpens without dominating — and carried in small ceramic flasks on
+        the road. A few drops in a bowl of rice transforms it.
+
+        <em lang="ja-Latn">Availability: Any market settlement</em>
+
+        <em lang="ja-Latn">Source: Fermented from rice and kōji in market-town workshops</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Tsukemono — Pickled Vegetables</strong>
+
+        An assortment of root vegetables, daikon, gourd, and leafy greens pickled in salt, vinegar, miso, or rice bran
+        mash. Every region has its own tradition — Hi&#39;s fiery pepper pickles differ utterly from Sora&#39;s delicate
+        salt-pickled turnip. Tsukemono keeps well on the road and adds colour, crunch, and acidity to otherwise
+        monotonous trail meals.
+
+        <em lang="ja-Latn">Availability: Any market settlement; every household</em>
+
+        <em lang="ja-Latn">Source: Home-pickled or purchased from specialty shops</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Dried Tofu</strong>
+
+        Firm blocks of soybean curd dried in the open air, or freeze-dried in the mountain winters of Sora.
+        Reconstitutes in broth to a spongy, flavour-absorbing texture. Favoured by travelling monks and mountain
+        pilgrims as a lightweight protein that carries no moral weight, and by lowland travellers for its sheer
+        practicality.
+
+        <em lang="ja-Latn">Availability: Market settlements, Buddhist-influenced villages</em>
+
+        <em lang="ja-Latn">Source: Pressed, drained, and dried soybean curd</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Mirin</strong>
+
+        Sweet rice wine used exclusively for cooking, never for drinking. Mirin produces the characteristic glossy glaze
+        on grilled fish and braised meats, and adds a subtle sweetness that refined sugar cannot replicate. Sold in
+        small corked flasks in every market town — a small splash is enough to transform a simple glaze into something
+        worth remembering.
+
+        <em lang="ja-Latn">Availability: Any market settlement</em>
+
+        <em lang="ja-Latn">Source: Brewed from sweet rice and kōji in traditional breweries</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 sp</em></p>
+
+        <p><strong>Udon &amp; Soba</strong>
+
+        Dried wheat noodles (udon) and buckwheat noodles (soba), sold in paper-wrapped bundles. Keep for weeks, cook in
+        minutes. Soba is the mountain food — buckwheat grows where wheat cannot — while udon is the lowland staple,
+        favoured for its softness and the way it holds a rich broth. A traveller of any province recognises both and
+        knows when to carry which.
+
+        <em lang="ja-Latn">Availability: Any market settlement</em>
+
+        <em lang="ja-Latn">Source: Milled, rolled, and cut in noodle workshops</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Goma-abura — Sesame Oil</strong>
+
+        Pressed sesame oil in small stoppered flasks, amber-golden and carrying a deep nutty aroma that fills a campsite
+        the moment the stopper is drawn. Used for frying and as a finishing drizzle. The scent alone can elevate the
+        humblest campfire meal from mere sustenance to proper cooking.
+
+        <em lang="ja-Latn">Availability: Market settlements, agricultural provinces</em>
+
+        <em lang="ja-Latn">Source: Cold-pressed from roasted sesame seeds</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Umeboshi — Pickled Plum</strong>
+
+        Small, intensely salty-sour plums pickled in salt and red shiso leaves, wrapped individually in leaf or stored
+        in small jars. A single umeboshi sharpens a bowl of plain rice, and travellers swear the fruit wards off road
+        sickness, fevers, and ill intentions. Keeps for years — many households preserve the same crock across
+        generations.
+
+        <em lang="ja-Latn">Availability: Any market settlement; every household</em>
+
+        <em lang="ja-Latn">Source: Preserved plums from lowland orchards, typically home-cured</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 cp</em></p>
+
+        <p><strong>Nori — Dried Laver</strong>
+
+        Sheets of dried and lightly toasted laver seaweed, pressed flat and bundled in paper. Nori wraps rice balls,
+        shreds over noodles, and lines sushi rolls. It keeps almost forever in a dry bundle and weighs next to nothing.
+        Harvested along the Nami and Mizu coasts and traded inland along the Emperor&#39;s Highway to every market town.
+
+        <em lang="ja-Latn">Availability: Coastal villages, market settlements</em>
+
+        <em lang="ja-Latn">Source: Farmed and wild-harvested from coastal rocks, dried on bamboo frames</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Katsuobushi — Dried Bonito Flakes</strong>
+
+        Smoked, dried, and shaved skipjack tuna, sold in paper packets of paper-thin flakes. Distinct from dried dashi
+        blocks — katsuobushi is used as a finishing topping on hot food, where the flakes curl and &quot;dance&quot; in
+        the rising steam as though the fish were alive again. A cornerstone of Mizu and Nami cooking and the defining
+        flavour of ocean-touched cuisine.
+
+        <em lang="ja-Latn">Availability: Coastal settlements, quality markets inland</em>
+
+        <em lang="ja-Latn">Source: Smoked and dried by specialised coastal workshops</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 4 cp</em></p>
+
+        <p><strong>Azuki — Red Beans</strong>
+
+        Small, dark red beans sold by the handful or in larger cloth bags. Boiled into porridge for autumn mornings,
+        sweetened for festival confections, or cooked with mochigome for ceremonial red rice. A peasant staple
+        throughout the agricultural provinces — cheap, filling, and keeping indefinitely. The dark soup made from them
+        carries ceremonial significance at certain seasonal observances.
+
+        <em lang="ja-Latn">Availability: Any market settlement</em>
+
+        <em lang="ja-Latn">Source: Cultivated in the lowland fields of Tsuchi, Kusa, and Hana</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 1 cp</em></p>
+
+        <p><strong>Mochigome — Sweet Rice</strong>
+
+        A glutinous variant of rice used for mochi, festival dishes, and celebratory meals. Heavier and stickier than
+        ordinary kome when cooked, with a distinctive chewiness that ordinary rice lacks. Commanded as ceremonial food
+        in noble households and shrines. Sold in smaller bags at slightly higher prices than common rice, it marks the
+        difference between a weekday meal and a celebration.
+
+        <em lang="ja-Latn">Availability: Market settlements, shrine towns</em>
+
+        <em lang="ja-Latn">Source: Cultivated alongside ordinary rice in select paddies</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 3 cp</em></p>
+
+        <p><strong>Komugi-ko — Wheat Flour</strong>
+
+        Ground wheat from the lowland farms of Tsuchi and Hana, sold in paper-wrapped bricks or loose in cloth bags.
+        Heavier and less refined than the whiter flours of urban kitchens, but entirely sufficient for noodles, dumpling
+        wrappers, and the tempura batters of market stalls. The grain itself carries the faint sweetness of lowland sun.
+
+        <em lang="ja-Latn">Availability: Market settlements, agricultural provinces</em>
+
+        <em lang="ja-Latn">Source: Stone-milled from wheat at rural grain mills</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 2 cp</em></p>
+
+        <h4 id="kg-uncommon" data-section="uncommon">Uncommon</h4>
+
+        <p><strong>Wasanbon — Refined Sugar</strong>
+
+        Pale, extraordinarily fine sugar refined in small village cooperatives of southern Hana and Kusa, where the
+        specific microclimate allows for the slow, patient crystallisation the product demands. Used sparingly in
+        sweets, ceremonial confections, and the glaze of refined dishes. A luxury to most peasant households — a small
+        paper packet of wasanbon is considered a generous gift to a host.
+
+        <em lang="ja-Latn">Availability: Larger market towns, Heian, noble households</em>
+
+        <em lang="ja-Latn">Source: Hand-refined from sugarcane in small southern cooperatives</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Junmai-shu — Pure-Rice Sake</strong>
+
+        Premium sake brewed exclusively from rice, water, and kōji — no added distillate. Clean, bright, and deeply
+        aromatic, with subtle variations between breweries. Named producers in Hana and Tsuchi mark their flasks with
+        clan seals. Junmai-shu drinks well and cooks better, and a splash in a glaze can transform a competent dish into
+        a memorable one. Merchants in Heian specifically stock it for noble clients.
+
+        <em lang="ja-Latn">Availability: Upscale markets, named breweries, noble estates</em>
+
+        <em lang="ja-Latn">Source: Brewed in specific named breweries by traditional methods</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: 3 sp</em></p>
+
+        <p><strong>Koikuchi-shōyu — Dark Soy Paste</strong>
+
+        A deeper, more intense soy paste aged longer than common shōyu, with a darker colour and a more complex, almost
+        smoky flavour profile. Used as a finishing sauce or in glazes where the depth of flavour matters more than the
+        volume applied. Aged at least two years in wooden casks before being drawn off and bottled. A single drop on
+        grilled fish shows the difference immediately.
+
+        <em lang="ja-Latn">Availability: Quality markets, specialty vendors</em>
+
+        <em lang="ja-Latn">Source: Fermented and aged by traditional soy workshops</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 2 sp</em></p>
+
+        <p><strong>Kōji — Rice Mold Starter</strong>
+
+        A live fermentation culture — rice grains inoculated with the kōji mold that enables the production of sake,
+        miso, shōyu, and countless other foods. Sold in small cloth-wrapped bundles by fermentation masters, who guard
+        their specific strains carefully. A traveller with kōji, rice, and a few weeks can brew their own sake, miso, or
+        pickles on the road — the beginning of a long and patient art.
+
+        <em lang="ja-Latn">Availability: Specialty vendors, breweries, fermentation masters</em>
+
+        <em lang="ja-Latn">Source: Cultivated from mother strains in specialised workshops</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 1 sp</em></p>
+
+        <h4 id="kg-rare" data-section="rare">Rare</h4>
+
+        <p><strong>Chōrei Miso — Longevity Miso</strong>
+
+        A miso aged for over a century in cedar casks at specific Buddhist monasteries, passed from generation to
+        generation of temple cooks who tend each cask as an inheritance. The colour is nearly black and the flavour is
+        impossibly deep — a single spoonful transforms an entire pot of broth. The monks who tend the casks rarely sell
+        chōrei miso for coin; it is more often given in exchange for service or as a gift to honoured guests. A small
+        jar is a meaningful reward for a completed quest.
+
+        <em lang="ja-Latn">Availability: Specific Buddhist monasteries; not openly sold</em>
+
+        <em lang="ja-Latn">Source: Aged for 100+ years in monastery cedar casks</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: 8 gp (informal) — traditionally given, not sold</em></p>
+
+        <p><strong>Tennō-mai — Imperial Field Rice</strong>
+
+        Rice grown exclusively at a single imperial holding outside Heian, tended by farming families whose lineage
+        predates the current dynasty. Each grain is pearl-white and slightly larger than common rice, cooking into a
+        texture that noble diners describe as &quot;clouds made solid.&quot; A single gō (roughly six ounces) is a gift
+        fit for a daimyo. Possession without authorisation is technically a punishable offence, though the law is rarely
+        enforced against those who receive it as a gift.
+
+        <em lang="ja-Latn">Availability: Imperial court, highest noble households, select Heian shops</em>
+
+        <em lang="ja-Latn">Source: Grown only at the Imperial Fields near Heian</em>
+
+        <em lang="ja-Latn">Weight: 1 lb per portion | Cost: 5 gp</em></p>
+
+        <p><strong>Sanjūnen-shōyu — Thirty-Year Soy</strong>
+
+        A soy sauce aged for three decades in a single cask, producing a liquid so concentrated that it is used drop by
+        drop rather than poured. The flavour is almost savoury-sweet, with notes of dark caramel and deep earth. Only a
+        handful of producers in Hana and Tsuchi have casks old enough to yield it, and each produces only a few small
+        flasks per year. Purchased by Heian chefs at the start of each season.
+
+        <em lang="ja-Latn">Availability: Specialty vendors in Heian, certain noble households</em>
+
+        <em lang="ja-Latn">Source: Aged thirty years in specific Hana and Tsuchi workshops</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 6 gp</em></p>
+
+        <p><strong>Hime-jio — Princess Salt</strong>
+
+        A hand-crafted finishing salt produced in a single coastal village in Mizu, where an elderly matriarch and her
+        apprentices evaporate seawater in shallow pans and sculpt each crystal by hand. Every grain is a perfect flake,
+        with a subtle, almost floral brininess. Used as a finishing salt in the kitchens of noble households and the
+        finest Heian restaurants. The matriarch reputedly turns away any buyer she deems unworthy of the craft.
+
+        <em lang="ja-Latn">Availability: Specialty vendors; the village itself</em>
+
+        <em lang="ja-Latn">Source: Hand-crafted in a single Mizu coastal village</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: 4 gp</em></p>
+
+        <h4 id="kg-very-rare" data-section="very-rare">Very Rare</h4>
+
+        <p><strong>Ryū no Sake — Dragon&#39;s Sake</strong>
+
+        Sake brewed in a single cask that was blessed at a Progenitor shrine generations ago and has been in continuous
+        use ever since. The rice is Tennō-mai, the water is drawn from a sei-active spring, and the fermentation is
+        tended by a master brewer who inherited the position from their grandmother. The finished sake is faintly
+        luminescent in dim light, and those who drink it describe a sensation of warmth settling into the bones. Served
+        only at imperial observances and the highest Shinto ceremonies — never sold, and given only as the most
+        meaningful of gifts.
+
+        <em lang="ja-Latn">Availability: Imperial court, high Shinto ceremonies; never sold</em>
+
+        <em lang="ja-Latn">Source: A single Progenitor-blessed cask at an ancient brewery</em>
+
+        <em lang="ja-Latn">Weight: ½ lb per portion | Cost: not sold</em></p>
+
+        <p><strong>Kagami Mochi no Shinsei — Sacred Mirror Mochi</strong>
+
+        Ceremonial mochi prepared once per year at specific Shinto shrines during the turning of the year. The rice is
+        pounded by priests in ritual silence, and the finished mochi is placed upon the shrine altar for seven days
+        before being divided among the shrine community. Those who receive a piece are said to be blessed by the
+        ancestors for the year to come. Mortal travellers almost never obtain it; when they do, it is because a priest
+        has chosen to honour them specifically.
+
+        <em lang="ja-Latn">Availability: Specific Shinto shrines; distributed only at year&#39;s turning</em>
+
+        <em lang="ja-Latn">Source: Ritual preparation at ancestral shrines</em>
+
+        <em lang="ja-Latn">Weight: ¼ lb per portion | Cost: not sold</em></p>
+
+        <p><strong>Hoshiyo-jio — Starlit Salt</strong>
+
+        A salt evaporated under the Hoshimori aurora during the peak of Hikarishō, when the dragon auroras touch the
+        ground. The process takes an entire season and can only be completed by the observatory communities of Sora, who
+        time their pans to the celestial alignments with instruments older than any living seimaster. The finished
+        crystals glow faintly in darkness and carry a flavour that shifts with the stars overhead. Used only in the most
+        extraordinary meals — once in a lifetime, if at all.
+
+        <em lang="ja-Latn">Availability: Hoshimori observatory; gifted, not sold</em>
+
+        <em lang="ja-Latn">Source: Evaporated seawater on the Hoshimori Plateau during Hikarishō</em>
+
+        <em lang="ja-Latn">Weight: — per portion | Cost: not sold</em></p>
+
+        <hr>
+
+        <h2 id="kg-ingredient-spoilage" data-section="ingredient-spoilage">Ingredient Spoilage</h2>
+
+        <p>Fresh ingredients spoil if not used within a reasonable time. Assume the foll</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/gatherer.md
+    slug: gatherer
+    frontmatter:
+      name: Gatherer's Guide
+      type: core
+      description: >-
+        Foraging, hunting, and harvesting rules for cooking ingredients — Survival skill usage during travel and
+        exploration

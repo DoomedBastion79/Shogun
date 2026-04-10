@@ -1,0 +1,201 @@
+_id: YlPf62lSZnawgCL7
+_key: '!journal!YlPf62lSZnawgCL7'
+name: Akatsuki
+pages:
+  - _id: ZqS6eBfJavIf4IBx
+    _key: '!journal.pages!ZqS6eBfJavIf4IBx'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
+        lang="ja-Latn">&quot;The village that keeps secrets the way stone keeps cold -- completely and without
+        effort.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Uhg9W89ERXBbHR0b
+    _key: '!journal.pages!Uhg9W89ERXBbHR0b'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
+        data-section="overview">Overview</h3>
+
+        <p>Akatsuki -- Dawn -- is a village whose name contradicts its character. It sits in perpetual shadow from the
+        peaks above it, reached by a winding stone path gaining significant altitude. The air is cold even in summer.
+        Mist collects in the surrounding terrain and rarely lifts before midday, often not at all.</p>
+
+        <p>The village is modest -- terraced farming on steep slopes, stone-built houses with heavy roofs designed for
+        snow load, a central well, a small shrine. Residents are not hostile but are compact -- words measured
+        carefully, questions answered with just enough to satisfy without offering more. They have maintained this
+        posture for generations because they live below the Monastery of the Black Lily.</p>
+
+        <p>Above the village, higher on the mountainside and accessed by a stone staircase cut into the rock face,
+        stands the Monastery of the Black Lily.</p>
+
+        <h3 id="kg-districts-landmarks" data-section="districts-landmarks">Districts / Landmarks</h3>
+
+        <p><strong>The Monastery of the Black Lily</strong> -- Dark stone and iron construction; austere; functional
+        rather than beautiful. The Order of the Black Lily operates here -- Kagekuni&#39;s premier training facility for
+        infiltration specialists, covert intelligence operatives, and precision agents.</p>
+
+        <p>The Order&#39;s relationship with Clan Gekko was long and close. The disappearance of Clan Gekko has severed
+        the primary institutional support structure. They are reassessing.</p>
+
+        <p>The monks and initiates know the truth about the Nagaji transformation. They have made a calculated decision
+        to not release this information without a reversal plan. They will share the complete truth with parties who
+        demonstrate they are positioned to actually address the situation.</p>
+
+        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
+
+        <p>None publicly documented. The village maintains deliberate anonymity.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: SANmZNEDIjRc5dEJ
+    _key: '!journal.pages!SANmZNEDIjRc5dEJ'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
+        demonstrate they are positioned to act.</li>
+
+        <li>The village is not simply a bystander community -- it functions as a support system for the monastery.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: nGpRwEqGSRt1m29X
+    _key: '!journal.pages!nGpRwEqGSRt1m29X'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
+        Secrets</h3>
+
+        <p><strong>The Order&#39;s Full Knowledge</strong>
+
+        The Order knows: what ritual was used, who performed it first, approximately how many Gekko clan members were
+        transformed, and that Masota no Gekko himself underwent the ritual. They do not know where Masota currently is.
+        The transformed Gekko move in patterns that even their surveillance cannot consistently track.</p>
+
+        <p><strong>The Reversal</strong>
+
+        The Order has determined a reversal exists -- theoretical, not practical. It requires three elements: the
+        original ritual documentation (in Kinkokyo, in the Golden Dragon Clan&#39;s records); a specific sei
+        configuration present only during a particular celestial alignment (upcoming, within the next few sessions); and
+        a practitioner capable of performing sei-based restoration at significant scale.</p>
+
+        <p><strong>What the Order Wants from the Party</strong>
+
+        The Order will propose a partnership: the party retrieves the reversal documentation from the Temple of Kinryu;
+        the Order handles logistics of gathering the transformed Gekko; together they manage the political revelation on
+        a controlled timeline. In exchange, the Order provides intelligence, resources, and full knowledge of the Gekko
+        situation.</p>
+
+        <p><strong>The Village&#39;s Role</strong>
+
+        Several former Order members have retired to the village. Two of the village&#39;s farmers are active deep-cover
+        agents between assignments. Visitors who threaten this arrangement will encounter more than agricultural
+        resistance.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>A message from the Order reaches the party: &quot;Come to Akatsuki. Complete information will be provided.
+        Bring nothing official.&quot;</li>
+
+        <li>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
+        gold doors</li>
+
+        <li>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
+        intercepting before triggering political consequences</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/akatsuki.md
+    slug: akatsuki
+    frontmatter:
+      name: Akatsuki
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: kaze
+      governing_clan: gekko
+      administrator: unknown
+      population: Small (exact count unknown)
+      climate: Cold; perpetual shadow from peaks; mist rarely lifts
+      tags: []

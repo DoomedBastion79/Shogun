@@ -1,0 +1,139 @@
+_id: w7vr5dZctZHig504
+_key: '!journal!w7vr5dZctZHig504'
+name: Tatsuya Hoshino
+pages:
+  - _id: 4DznF0Ferc4b9aNt
+    _key: '!journal.pages!4DznF0Ferc4b9aNt'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kurohana</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Samurai, Clan Hoshino (vassal of
+        Kurohana)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">unknown</dd></div></dl><p><em lang="ja-Latn">Samurai — Clan Hoshino (Vassal of
+        Kurohana)</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: SwpVIZdEnl0h7gMU
+    _key: '!journal.pages!SwpVIZdEnl0h7gMU'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Black hair; tanned; brown eyes; dragon tattoo winding around left arm.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Samurai of Clan Hoshino, a respected vassal family of Clan Kurohana known for martial excellence and loyalty.
+        Issued the Imperial Seal of the Kurohana Clan on behalf of the clan, calling upon Clan Kaminari to investigate
+        the Gekkō silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Calm, disciplined, authoritative; values honor and duty; little patience for treachery.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>The party carries the Imperial Seal he issued on behalf of Clan Kurohana.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Oz6xF2U1rs9rMnC7
+    _key: '!journal.pages!Oz6xF2U1rs9rMnC7'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>Investigating potential threats and internal corruption within his clan. The specifics of this investigation
+        are undeveloped.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/tatsuya-hoshino.md
+    slug: tatsuya-hoshino
+    frontmatter:
+      name: Tatsuya Hoshino
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      age: 31
+      height: 5'11"
+      weight: 170
+      clan: kurohana
+      caste: zokumin
+      role: Samurai, Clan Hoshino (vassal of Kurohana)
+      location: unknown
+      affiliations:
+        - clan-kurohana
+        - clan-hoshino
+      tags:
+        - samurai
+        - vassal-clan
+      aliases: []
+      related_npcs:
+        - akihiko-kurohana
+      related_quests: []

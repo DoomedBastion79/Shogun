@@ -1,0 +1,118 @@
+{
+  "id": "kagekuni-assistant",
+  "title": "Kagekuni Assistant",
+  "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
+  "version": "0.2.0",
+  "authors": [
+    {
+      "name": "Andy Rowlands"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/kagekuni-assistant.css",
+    "styles/kagekuni-compendium.css"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "kagekuni-lore",
+      "label": "Kagekuni — Core Lore",
+      "path": "packs/kagekuni-lore",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-locations",
+      "label": "Kagekuni — Locations",
+      "path": "packs/kagekuni-locations",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-quests",
+      "label": "Kagekuni — Quests",
+      "path": "packs/kagekuni-quests",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-npcs-lore",
+      "label": "Kagekuni — NPC Lore",
+      "path": "packs/kagekuni-npcs-lore",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-npcs",
+      "label": "Kagekuni — NPCs",
+      "path": "packs/kagekuni-npcs",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-items",
+      "label": "Kagekuni — Items",
+      "path": "packs/kagekuni-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-recipes",
+      "label": "Kagekuni — Recipes",
+      "path": "packs/kagekuni-recipes",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Kagekuni Canon",
+      "sorting": "m",
+      "color": "#991b1b",
+      "packs": [
+        "kagekuni-lore",
+        "kagekuni-locations",
+        "kagekuni-quests",
+        "kagekuni-npcs",
+        "kagekuni-npcs-lore",
+        "kagekuni-items",
+        "kagekuni-recipes"
+      ]
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "mastercrafted",
+        "type": "module",
+        "manifest": "",
+        "compatibility": {}
+      }
+    ]
+  },
+  "socket": true,
+  "url": "",
+  "manifest": "",
+  "download": ""
+}

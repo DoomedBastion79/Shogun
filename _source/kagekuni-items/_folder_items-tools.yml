@@ -1,0 +1,11 @@
+_id: 2aDy2uANsc4FNnTL
+_key: '!folders!2aDy2uANsc4FNnTL'
+name: Tools
+type: Item
+folder: null
+sorting: m
+sort: 50
+color: null
+flags:
+  kagekuni-assistant:
+    folderPath: items/tools

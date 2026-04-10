@@ -1,0 +1,96 @@
+_id: QB1rhvdrmBgFvhLR
+_key: '!actors!QB1rhvdrmBgFvhLR'
+name: Taro Fukomoto
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Taro Fukomoto
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/taro-fukomoto.md
+    slug: taro-fukomoto
+    linkedJournalId: pQR5C4JfmyeCDwYc
+    frontmatter:
+      name: Taro Fukomoto
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: none
+      caste: zokumin
+      role: Master Blacksmith, Heian
+      location: heian
+      affiliations: []
+      tags:
+        - blacksmith
+        - craftsman
+        - kurogane-sho
+        - taros-forge
+      aliases: []
+      related_npcs: []
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Master Blacksmith, Heian</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">heian</dd></div></dl><p><em
+        lang="ja-Latn">Master Blacksmith — Taro&#39;s Forge, Kurogane-sho District, Heian</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Over 6 feet tall; broad shoulders; muscular; tanned weathered skin; thick black beard flecked with silver;
+        dark intense eyes; leather apron; flame and mythical creature tattoos on arms.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Owner and master smith of Taro&#39;s Forge in the Kurogane-sho (Steel Precinct) district of Heian. The
+        district&#39;s most prestigious establishment. Renowned for both quality and integrity. Produces weapons and
+        armor of exceptional craftsmanship; maintains a small stock for immediate sale and takes commissions that can
+        take months to complete.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Renowned for skill AND integrity; approachable; booming laugh; willing to share knowledge with apprentices;
+        balances strength with artistry.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established. His forge is the most notable establishment in the Kurogane-sho district that
+        the party has access to in Heian.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        <code>@JournalEntry[pQR5C4JfmyeCDwYc]</code></em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

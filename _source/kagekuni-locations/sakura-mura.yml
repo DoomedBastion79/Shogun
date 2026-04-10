@@ -1,0 +1,182 @@
+_id: LidIo2Lk6vOC4jOP
+_key: '!journal!LidIo2Lk6vOC4jOP'
+name: Sakura Mura
+pages:
+  - _id: jANs9CnjsHkVAid7
+    _key: '!journal.pages!jANs9CnjsHkVAid7'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em lang="ja-Latn">&quot;It
+        grew because travelers needed a reason to stop. Now they stop because it grew.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 9m09qWP0zn9IFdmx
+    _key: '!journal.pages!9m09qWP0zn9IFdmx'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
+        data-section="overview">Overview</h3>
+
+        <p>Sakura Mura did not begin as a planned settlement -- it accumulated around a single inn on the Emperor&#39;s
+        Highway that proved well-positioned for a rest stop. Over generations, the inn attracted other services, the
+        services attracted residents, and the residents built a community. The village retains its highway-dependent
+        character.</p>
+
+        <p>A river runs east-west through the village, spanned at the north end by Shadowfen Bridge -- a stone bridge
+        leading into a stretch of marsh forest. A secondary road path continues north from the bridge&#39;s far
+        bank.</p>
+
+        <p>The village is surrounded by forest on three sides, with a lake visible to the southeast. The cherry trees
+        that give the village its name line the Highway approach for a quarter-mile -- planted two centuries ago by a
+        traveling monk as a gift.</p>
+
+        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
+
+        <p><strong>Oka-tei Inn</strong> -- The original settlement&#39;s reason for existing. Large, well-run, designed
+        for highway travelers. Stabling for horses and oxen; common room with a good fire; private rooms at premium
+        rates.</p>
+
+        <p><strong>Takahashi&#39;s Hunting Lodge</strong> -- Equipment, local guides, and hunting licenses for the
+        surrounding forest. Serves both dedicated hunters and travelers wanting fresh game.</p>
+
+        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
+
+        <p>None specifically documented.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: jSFpQ5j9UbWqhb1l
+    _key: '!journal.pages!jSFpQ5j9UbWqhb1l'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The Shadowfen Bridge exhibits a genuine sei phenomenon -- a low-level resonance that produces mild
+        disorientation in those who speak falsehoods while crossing.</li>
+
+        <li>The marsh forest north of the bridge contains remnants of an ancient, consumed structure.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: PdG0n8vl336kk9PW
+    _key: '!journal.pages!PdG0n8vl336kk9PW'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
+        Secrets</h3>
+
+        <p><strong>Shadowfen Bridge</strong>
+
+        The local legend has a basis in actual sei phenomenon. A low-level sei resonance exists at the bridge, likely
+        from the marsh forest on the far bank. It is not strong enough to genuinely redirect travelers, but
+        sei-sensitive individuals feel a strong pull toward honesty when crossing. Someone who speaks a significant lie
+        experiences mild but unmistakable disorientation.</p>
+
+        <p><strong>The Forest North of the Bridge</strong>
+
+        The marsh forest past Shadowfen Bridge contains remnants of a structure predating Sakura Mura by many centuries.
+        Not accessible without knowing what to look for -- the marsh has largely consumed it. Local hunters know to
+        avoid a specific area they describe as &quot;wrong-feeling.&quot; The structure&#39;s origin and purpose are
+        unknown.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>Investigation of the Shadowfen Bridge sei phenomenon could reveal the ancient structure beneath the
+        marsh</li>
+
+        <li>Local hunters&#39; avoidance of the &quot;wrong-feeling&quot; area could lead to discovery of pre-imperial
+        ruins</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/sakura-mura.md
+    slug: sakura-mura
+    frontmatter:
+      name: Sakura Mura
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: hana
+      governing_clan: kaminari
+      administrator: unknown
+      population: 150
+      climate: Temperate; forested surroundings; along Emperor's Highway
+      tags: []

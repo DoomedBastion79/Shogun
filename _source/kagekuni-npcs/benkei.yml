@@ -1,0 +1,101 @@
+_id: q5VC5iFF5sDUpwJg
+_key: '!actors!q5VC5iFF5sDUpwJg'
+name: Benkei
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Benkei
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/benkei.md
+    slug: benkei
+    linkedJournalId: AxEPHd8zzzGU9DdG
+    frontmatter:
+      name: Benkei
+      type: npc
+      detail: major
+      status: active
+      race: Guhuza
+      sex: M
+      age: 198
+      height: 6'4"
+      weight: 450
+      clan: none
+      caste: zokumin
+      role: Elder Monk, Order of the Tranquil Lotus
+      location: traveling
+      affiliations:
+        - order-of-the-tranquil-lotus
+        - order-of-the-ancient-guard
+      tags:
+        - elder-monk
+        - ancient-guard
+        - guhuza
+        - traveling
+      aliases: []
+      related_npcs:
+        - solas-evergreen
+        - hideaki-sato
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Guhuza
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Guhuza</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Elder Monk, Order of the Tranquil Lotus</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">traveling</dd></div></dl><p><em
+        lang="ja-Latn">Elder Monk — Order of the Tranquil Lotus</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Silvered blue fur (once deep black); warm amber eyes with gold flecks; broad flat nose; well-kept grey beard;
+        prayer beads; calloused bare feet; moves with surprising grace for his size.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Elder Monk of the Order of the Tranquil Lotus. Currently traveling with Sun Wukong and a group of novices
+        (Hiroshi, Kazuko, Riku, Sakura, Taro, Yumi) from Kazehama to Heian. Met Relc at The Moonlit Garden in Heian.
+        Revealed to Benkei a separate assignment from the one Sun Wukong carries.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Deep wisdom; contemplative; serene; booming voice carrying weight of experience.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Met the party at The Moonlit Garden in Heian. Sun Wukong traveled with Benkei from Kazehama before receiving
+        his own assignment. Benkei has things to say to Relc that couldn&#39;t be said with other ears around.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        <code>@JournalEntry[AxEPHd8zzzGU9DdG]</code></em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

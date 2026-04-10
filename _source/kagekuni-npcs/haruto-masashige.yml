@@ -1,0 +1,101 @@
+_id: cUUFp58XZchIdt8k
+_key: '!actors!cUUFp58XZchIdt8k'
+name: Haruto Masashige
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Haruto Masashige
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/haruto-masashige.md
+    slug: haruto-masashige
+    linkedJournalId: fbx0optmtxCbt7X7
+    frontmatter:
+      name: Haruto Masashige
+      type: npc
+      detail: major
+      status: active
+      race: Dragonborn (Gold)
+      sex: M
+      age: 40
+      height: 6'3"
+      weight: 250
+      clan: kaminari
+      caste: zokumin
+      role: Captain of the Guard, Kikyo
+      location: kikyo
+      affiliations:
+        - clan-kaminari
+        - kikyo-guard
+      tags:
+        - captain
+        - guard
+        - dragonborn
+        - kikyo
+        - ritual-knowledge
+      aliases: []
+      related_npcs:
+        - ren-nakamura
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Dragonborn (Gold)
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Dragonborn (Gold)</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kaminari</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Captain of the Guard, Kikyo</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">kikyo</dd></div></dl><p><em
+        lang="ja-Latn">Captain of the Guard — Kikyo</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Gold scales; bright blue eyes.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Captain of the Guard in Kikyo, operating from the Kikyo Guard Compound. Maintains a small but highly capable
+        force; primary duties are licensing enforcement and forest protection for the Seidōrin Mori (Bronze Wood
+        Forest). Building an informant network in Kikyo.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stoic, disciplined; fierce loyalty; strong sense of justice.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Arrested Ko&#39;jiri in Kikyo before the situation was resolved by Ren Nakamura&#39;s offer of the Summons
+        and Conditional Pardon. Their initial interaction was adversarial but professional. Can become a staunch ally to
+        those who prove their integrity.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        <code>@JournalEntry[fbx0optmtxCbt7X7]</code></em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

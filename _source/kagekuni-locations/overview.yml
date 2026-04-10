@@ -1,0 +1,238 @@
+_id: ifdMI1VP1fjPGAAh
+_key: '!journal!ifdMI1VP1fjPGAAh'
+name: Oryuzan Tenku-ji
+pages:
+  - _id: TxSdO4kuBmAducbM
+    _key: '!journal.pages!TxSdO4kuBmAducbM'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">location</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div></dl><p><em
+        lang="ja-Latn">&quot;Great Dragon Mountain — Temple of the Celestial Sky&quot;</em></p>
+
+        <p><em lang="ja-Latn">The temple has slept for thousands of years. Something in it has not.</em></p>
+
+        <h2 id="kg-overview" data-section="overview">Overview</h2>
+
+        <p>Oryuzan Tenku-ji was the paramount sacred site of the Golden Dragon Clan — a monastery, archive, and living
+        temple raised in honor of Kinryu at the height of the First Golden Age. It sat at the heart of the Kinkozan
+        Mountain Range, now called Tenchusan Ren, and served as both a place of worship and a center of learning for the
+        clan&#39;s order of dragon-priests.</p>
+
+        <p>The temple&#39;s destruction came not from outside invasion but from within. Infiltrators aligned with the
+        Crimson Clan (Akaryu) and Onyx Clan (Kokuryu) embedded themselves within the order over decades, working to
+        fracture the Golden Dragon Clan&#39;s influence during the War of Fractured Banners. The internal violence was
+        swift and devastating — but what finally sealed the temple&#39;s fate was the sei drought. By 13088, the
+        secondary stars — Susanoo and Tsukuyomi — had retreated far enough along their barycentric orbits that sei was
+        no longer accessible. The foundational magic held — the torches still burned, the statue still radiated warmth —
+        but the living connection to Kinryu went silent. The Great Aphelion itself would not arrive for another 1,256
+        years (~14344), but the temple&#39;s inhabitants had no way to know that. They only knew the magic was gone. The
+        surviving worshipers, already fractured by infiltration and war, found themselves in a temple that still worked
+        while they no longer could. They walked away. None returned.</p>
+
+        <p>What remains is a place in two states simultaneously: ruin and preservation. Most of the temple has suffered
+        as stone suffers — slowly, under the weight of time, water, and neglect. But the great statue at its heart has
+        not aged a single day. The pools surrounding it still hold water of unearthly clarity. The star shrine still
+        casts its pinprick constellations across the floor when moonlight falls. The temple remembers what it was, even
+        if no one alive does.</p>
+
+        <h2 id="kg-campaign-role" data-section="campaign-role">Campaign Role</h2>
+
+        <p>The temple&#39;s primary structural role in the campaign is as a <strong>progress point leading into an
+        expansive cavern system</strong>, most likely accessed through the basement level. The caverns are how the
+        Nagaji have been moving rapidly from their mountain retreat toward Hokori without detection — the party
+        discovering this network is a significant intelligence find.</p>
+
+        <p>Multiple entry paths to the caverns exist in case the party bypasses or skips the basement. At least one
+        alternate route is findable on the first floor for groups who don&#39;t go down.</p>
+
+        <p>The cavern system is canonically the Nagaji&#39;s operational highway — it explains the mystery of how
+        serpentine creatures have been appearing in lowland areas far from their known mountain territory.</p>
+
+        <h2 id="kg-spatial-layout" data-section="spatial-layout">Spatial Layout</h2>
+
+        <h3 id="kg-first-floor" data-section="first-floor">First Floor</h3>
+
+        <p>Full spatial layout (ASCII map, nodes, connections, chokepoints, sight lines, vertical connections) is in
+        <code>floor-1.md</code> § Spatial Layout.</p>
+
+        <p><strong>Quick adjacency:</strong></p>
+
+        <pre><code>South Entrance (1) → [tapers 70ft→20ft] → N-S Hallway → Grand Hall (2) [double double-doors]
+                                                    │
+                                      Center Intersection (20×20)
+                                            │
+                            ┌───────────────┼───────────────┐
+                            ▼               ▼               ▼
+                      W wing (120ft)   stairs up/dn    E wing (120ft)
+                      N: Star Shrine (3)  (45ft out)   N: Dormitories (5)
+                      S: Mess Hall (4)                 S: Dormitories (entrance collapsed)
+
+        Grand Hall (2) → [double double-doors] → Inner Sanctum (6) [90W × 35D]
+
+        Naijin (6) → [secret hall, 5W × 20L] → Jushoku no Ma (6a) [15W × 20D]
+
+        Jushoku no Ma (6a) → [secret door, S wall] → Hoko (6b)
+
+        </code></pre>
+
+        <h2 id="kg-current-inhabitants-first-floor" data-section="current-inhabitants-first-floor">Current Inhabitants —
+        First Floor</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Location</th>
+
+        <th>Inhabitants</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Grand Hall (upper dark)</td>
+
+        <td>2 Shadows</td>
+
+        <td>Descend when disturbed; avoid pools</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hiroba (general)</td>
+
+        <td>Nagaji Bushi ×1, Hohei ×2, Ashigaru ×6</td>
+
+        <td>On rotation from Naijin</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dormitory Wing</td>
+
+        <td>4 Specters</td>
+
+        <td>Confused, not immediately hostile</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Shokudo</td>
+
+        <td>4 Swarms of Rats</td>
+
+        <td>Not aggressive unless cornered</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Inner Sanctum</td>
+
+        <td>Nagaji Zasu</td>
+
+        <td>Currently patrolling; returns periodically</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Okuden</td>
+
+        <td>Nagaji Kannushi</td>
+
+        <td>Returns to meditate; drawn to the space</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-loot-framework" data-section="loot-framework">Loot Framework</h2>
+
+        <p><strong>Common/open areas</strong>: Essentially devoid of valuables after millennia of decay and Nagaji
+        habitation. Don&#39;t reward casual searching — set that expectation early.</p>
+
+        <p><strong>Creature hoards (spiders and other dwellers)</strong>: Small collections of incidental treasure
+        accumulated from prey over generations — coins, small jewelry, a snapped-off belt buckle, occasionally something
+        more interesting. Keep individual finds small and flavorful.</p>
+
+        <p><strong>Relics (good rolls required)</strong>: Genuine Golden Clan artifacts still exist in the temple — in
+        places protected by preservation magic, in sealed or collapsed areas, in spots the Nagaji wouldn&#39;t have
+        accessed or recognized as valuable. These require active searching and meaningful rolls to locate.</p>
+
+        <p><strong>Design principle</strong>: The temple rewards curiosity and thoroughness, not just combat. A party
+        that rushes through finds very little. A party that investigates carefully finds things that matter.</p>
+
+        <h2 id="kg-connected-entries" data-section="connected-entries">Connected Entries</h2>
+
+        <ul>
+
+        <li>Floor 1 Overview &amp; Spatial Layout: <code>floor-1.md</code></li>
+
+        <li>Floor 1 Room Files: <code>floor-1/</code> (south-entrance, grand-hall, star-shrine, mess-hall, dormitories,
+        inner-sanctum, central-hallway)</li>
+
+        <li>Floor 1 — Read-Aloud Text: <code>supplements/read-aloud-floor-1.md</code></li>
+
+        <li>Floor 1 — Tapestries: <code>supplements/tapestry.md</code></li>
+
+        <li>Floor 2 — Observatory &amp; Scriptorium: <code>supplements/mechanical-arcane-orrery.md</code> (repair
+        design), room descriptions pending</li>
+
+        <li>The Buried City of Kinkokyou: pending</li>
+
+        <li>Cavern System: pending</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/locations/tenkuji-temple/overview.md
+    slug: overview
+    frontmatter:
+      name: Oryuzan Tenku-ji
+      type: location
+      location_type: temple
+      island: hokori
+      province: hana
+      nearest_settlement: ayame
+      grid: 182x152
+      status: active
+      tags:
+        - temple
+        - kinryu
+        - dungeon
+        - kinkokyo

@@ -1,0 +1,181 @@
+_id: C69odaSv6sZMglN1
+_key: '!journal!C69odaSv6sZMglN1'
+name: Nishihara
+pages:
+  - _id: yJ3S5gZyIACKVKBy
+    _key: '!journal.pages!yJ3S5gZyIACKVKBy'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em lang="ja-Latn">&quot;A
+        good market draws people together. Everything else follows.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: DQ6Z1A6WMeYpumm6
+    _key: '!journal.pages!DQ6Z1A6WMeYpumm6'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
+        data-section="overview">Overview</h3>
+
+        <p>Nishihara sits in the rolling hills west of the Kinryugawa, in the gentle agricultural country between Heian
+        and the Tenchusan Ren foothills. It is a village that exists primarily to serve the farmers and herders of the
+        surrounding area -- a focal point for exchange, news, and social connection in a landscape of dispersed
+        homesteads.</p>
+
+        <p>The weekly market is Nishihara&#39;s defining feature. It draws traders from a surprising radius -- merchants
+        from Heian, specialty vendors from neighboring villages, and itinerant traders whose routes include Nishihara.
+        The market has a genuine village-fair quality; it is not purely transactional.</p>
+
+        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
+
+        <p><strong>Market Hall</strong> -- Permanent covered structure hosting the weekly market. On non-market days it
+        functions as a community gathering space and occasional shelter for travelers.</p>
+
+        <p><strong>Temple of the Ancestors</strong> -- The largest structure in the village; a well-maintained
+        ancestor-veneration temple serving the surrounding rural community. Seasonal festivals draw families from
+        several hours&#39; travel distance.</p>
+
+        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
+
+        <ul>
+
+        <li>Yukari -- Village leader -&gt; npcs/yukari.md</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: oJDwV6ESUGdJPnKQ
+    _key: '!journal.pages!oJDwV6ESUGdJPnKQ'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>Yukari has an unusually clear picture of broader regional events because she makes it her business to listen
+        to the traveling traders.</li>
+
+        <li>The Temple of the Ancestors maintains records going back several centuries with documentation of unusual
+        historical events.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: FHsZLLV4kIoc6Ylk
+    _key: '!journal.pages!FHsZLLV4kIoc6Ylk'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
+        Secrets</h3>
+
+        <p><strong>Market Intelligence</strong>
+
+        Nishihara&#39;s market functions as an informal information exchange point for the rural interior. Yukari has an
+        unusually clear picture of broader events because she listens attentively to traders. She is not an intelligence
+        operative -- she is simply attentive. If the party passes through and asks good questions, she can provide
+        regional context unavailable from official sources.</p>
+
+        <p><strong>The Temple&#39;s Old Records</strong>
+
+        The Temple maintains records going back several centuries. Among them is documentation of a regional event
+        approximately 80 years ago -- a strange sickness affecting livestock and then people in a specific pattern
+        before stopping suddenly. The documented symptoms, if examined by a seimaster, would match early stages of a
+        sei-manipulation effect rather than natural illness. No one has looked at these records recently.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>Yukari can provide regional context and rumors if approached with good questions</li>
+
+        <li>The temple records could be relevant to understanding historical sei phenomena in the region</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/nishihara.md
+    slug: nishihara
+    frontmatter:
+      name: Nishihara
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: hana
+      governing_clan: kaminari
+      administrator: npcs/yukari.md
+      population: 180
+      climate: Temperate; rolling agricultural hills
+      tags: []

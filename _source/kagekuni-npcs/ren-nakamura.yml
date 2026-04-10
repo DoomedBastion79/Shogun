@@ -1,0 +1,107 @@
+_id: XtRaxrYbK9cfS2eC
+_key: '!actors!XtRaxrYbK9cfS2eC'
+name: Ren Nakamura
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Ren Nakamura
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/ren-nakamura.md
+    slug: ren-nakamura
+    linkedJournalId: A1IgNg32hleJFjNB
+    frontmatter:
+      name: Ren Nakamura
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: M
+      age: 52
+      height: 5'10"
+      weight: 170
+      clan: minato
+      caste: kugai
+      role: Shicho (Mayor) of Kikyo; Daimyo of Clan Minato
+      location: kikyo
+      affiliations:
+        - clan-minato
+        - clan-kaminari
+        - merchant-guild
+      tags:
+        - political-leader
+        - shicho
+        - daimyo
+        - kikyo
+        - bronze-wood
+      aliases: []
+      related_npcs:
+        - haruto-masashige
+        - hideo-nakamura
+        - hiroshi-nakamura
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">minato</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Shicho (Mayor) of Kikyo; Daimyo of Clan
+        Minato</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">kikyo</dd></div></dl><p><em lang="ja-Latn">Shicho (Mayor) of Kikyo — Daimyo of Clan
+        Minato</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Long black hair in topknot; fair skin; dark brown eyes; Clan Kaminari emblem tattoo on upper arm.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Shicho (Mayor) of Kikyo and Daimyo of Clan Minato. Kikyo is a subject city of Clan Kaminari, but Ren
+        Nakamura&#39;s dual role as both civic administrator and minor clan daimyo gives him unusual autonomy. He
+        administers the Bronze Wood licensing system — every piece of Bronze Wood that leaves the Seidōrin Mori passes
+        through a licensing transaction managed by his office.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern but fair; values loyalty; enjoys strategy (Go) and tea ceremonies; despises dishonesty — an irony,
+        given his own secret alliances.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Issued the Summons and Conditional Pardon to Ko&#39;jiri. Sent Ko&#39;jiri as envoy to Heian.
+        Ko&#39;jiri&#39;s legal status depends on completing the mission assigned through Ren Nakamura&#39;s
+        authority.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        <code>@JournalEntry[A1IgNg32hleJFjNB]</code></em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

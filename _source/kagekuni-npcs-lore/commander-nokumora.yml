@@ -1,0 +1,70 @@
+_id: fpdIzIby8q9YRxxT
+_key: '!journal!fpdIzIby8q9YRxxT'
+name: Commander Nokumora
+pages:
+  - _id: XuhYAFxdOZxW3KjJ
+    _key: '!journal.pages!XuhYAFxdOZxW3KjJ'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">mention</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Unknown</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">unknown</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Commander (incompetent)</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">unknown</dd></div></dl><p><em
+        lang="ja-Latn">Commander — Affiliation Undetermined</em></p>
+
+        <p>Referenced by Dian Wei as incompetent. Dian&#39;s concern was significant enough to raise with Taisho Kenshin
+        Arakawa, who shut it down. Dian&#39;s backstory element — may resurface as a plot thread or may remain
+        background. No immediate pressure; flag if Dian&#39;s player pulls on that thread. Potential future problem
+        figure.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/commander-nokumora.md
+    slug: commander-nokumora
+    frontmatter:
+      name: Commander Nokumora
+      type: npc
+      detail: mention
+      status: active
+      race: Unknown
+      sex: M
+      clan: unknown
+      caste: zokumin
+      role: Commander (incompetent)
+      location: unknown
+      affiliations: []
+      tags:
+        - commander
+        - incompetent
+        - dian-backstory
+      aliases: []
+      related_npcs:
+        - kenshin-arakawa
+      related_quests: []
