@@ -30,7 +30,7 @@
   "packs": [
     {
       "name": "kagekuni-lore",
-      "label": "Kagekuni — Core Lore",
+      "label": "Core Lore",
       "path": "packs/kagekuni-lore",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -38,7 +38,7 @@
     },
     {
       "name": "kagekuni-locations",
-      "label": "Kagekuni — Locations",
+      "label": "Locations",
       "path": "packs/kagekuni-locations",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -46,7 +46,7 @@
     },
     {
       "name": "kagekuni-quests",
-      "label": "Kagekuni — Quests",
+      "label": "Quests",
       "path": "packs/kagekuni-quests",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -54,7 +54,7 @@
     },
     {
       "name": "kagekuni-npcs-lore",
-      "label": "Kagekuni — NPC Lore",
+      "label": "NPC Lore",
       "path": "packs/kagekuni-npcs-lore",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -62,7 +62,7 @@
     },
     {
       "name": "kagekuni-npcs",
-      "label": "Kagekuni — NPCs",
+      "label": "NPCs",
       "path": "packs/kagekuni-npcs",
       "type": "Actor",
       "system": "dnd5e",
@@ -70,7 +70,7 @@
     },
     {
       "name": "kagekuni-items",
-      "label": "Kagekuni — Items",
+      "label": "Items",
       "path": "packs/kagekuni-items",
       "type": "Item",
       "system": "dnd5e",
@@ -78,11 +78,27 @@
     },
     {
       "name": "kagekuni-recipes",
-      "label": "Kagekuni — Recipes",
+      "label": "Recipes",
       "path": "packs/kagekuni-recipes",
       "type": "JournalEntry",
       "system": "dnd5e",
       "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-races",
+      "label": "Races",
+      "path": "packs/kagekuni-races",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+    },
+    {
+      "name": "kagekuni-classes",
+      "label": "Classes",
+      "path": "packs/kagekuni-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     }
   ],
   "packFolders": [
@@ -97,6 +113,8 @@
         "kagekuni-npcs",
         "kagekuni-npcs-lore",
         "kagekuni-items",
+        "kagekuni-races",
+        "kagekuni-classes",
         "kagekuni-recipes"
       ]
     }
