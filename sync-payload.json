@@ -1,7 +1,7 @@
 {
   "moduleId": "assistant",
-  "version": "0.2.6",
-  "generated": "2026-04-10T14:40:47.598Z",
+  "version": "0.2.7",
+  "generated": "2026-04-10T15:02:42.343Z",
   "packs": {
     "classes": [
       {
@@ -1328,7 +1328,7 @@
         "_id": "LmuiFKrdSFsVzV8D",
         "name": "Ayu 鮎 (Sweetfish) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/ayu.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -1408,7 +1408,7 @@
         "_id": "qbKAsCmWdit0EfKs",
         "name": "Ayu 鮎 (Sweetfish) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/ayu.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -1488,7 +1488,7 @@
         "_id": "Mq2I8FcaV99O0Gx5",
         "name": "Ayu 鮎 (Sweetfish) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/ayu.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -1568,7 +1568,7 @@
         "_id": "pLpM4SJTtvupFOdQ",
         "name": "Ayu 鮎 (Sweetfish) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/ayu.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -3904,7 +3904,7 @@
         "_id": "NUU7fcVTqjdsk4LD",
         "name": "Funa 鮒 (Crucian Carp) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/funa.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -3984,7 +3984,7 @@
         "_id": "g5rFJpYrj4BkvV9x",
         "name": "Funa 鮒 (Crucian Carp) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/funa.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -4064,7 +4064,7 @@
         "_id": "y05HylpMuUNxus71",
         "name": "Funa 鮒 (Crucian Carp) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/funa.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -4144,7 +4144,7 @@
         "_id": "W34kgKeQbLMGoqnb",
         "name": "Funa 鮒 (Crucian Carp) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/funa.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -5836,7 +5836,7 @@
         "_id": "bcxG359eHuEDTO7z",
         "name": "Hato 鳩 (Pigeon) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/hato.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -5916,7 +5916,7 @@
         "_id": "p93PZRWLyrR96TgD",
         "name": "Hato 鳩 (Pigeon) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/hato.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -5996,7 +5996,7 @@
         "_id": "q3yDqHTswjnn9Qm5",
         "name": "Hato 鳩 (Pigeon) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/hato.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -6076,7 +6076,7 @@
         "_id": "90D25OREE1htRLgY",
         "name": "Hato 鳩 (Pigeon) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/hato.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -10372,7 +10372,7 @@
         "_id": "rim3OUY1AtyEt5xI",
         "name": "Iwashi 鰯 (Sardine) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/iwashi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -10452,7 +10452,7 @@
         "_id": "5hBEBdRp4w6pIMcb",
         "name": "Iwashi 鰯 (Sardine) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/iwashi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -10532,7 +10532,7 @@
         "_id": "BiYichCobfKiU4Tf",
         "name": "Iwashi 鰯 (Sardine) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/iwashi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -10612,7 +10612,7 @@
         "_id": "cUPv5ZBEvHohuh2i",
         "name": "Iwashi 鰯 (Sardine) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/iwashi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -15156,7 +15156,7 @@
         "_id": "F7a1fHDSkyoiIgqQ",
         "name": "Kawa-gani 川蟹 (River Crab) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kawa-gani.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -15236,7 +15236,7 @@
         "_id": "B08wW5UWjGozqADn",
         "name": "Kawa-gani 川蟹 (River Crab) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kawa-gani.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -15316,7 +15316,7 @@
         "_id": "lAsAI7ZJDmakAP4s",
         "name": "Kawa-gani 川蟹 (River Crab) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kawa-gani.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -15396,7 +15396,7 @@
         "_id": "7oktXhhK9hNcmLy5",
         "name": "Kawa-gani 川蟹 (River Crab) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kawa-gani.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -16448,7 +16448,7 @@
         "_id": "zRyzsiyToB4pilQy",
         "name": "Kinuo 絹魚 (Silkfish) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kinuo.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -16529,7 +16529,7 @@
         "_id": "wM4BfIYeRA1jqly2",
         "name": "Kinuo 絹魚 (Silkfish) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kinuo.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -16610,7 +16610,7 @@
         "_id": "7q2RK9n1hzDNUEC2",
         "name": "Kinuo 絹魚 (Silkfish) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kinuo.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -16691,7 +16691,7 @@
         "_id": "3sFo1nsfkRdfUbuZ",
         "name": "Kinuo 絹魚 (Silkfish) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/kinuo.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -32928,7 +32928,7 @@
         "_id": "hVFkM8ogwsvW0HOF",
         "name": "Shika 鹿 (Deer) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/shika.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -33008,7 +33008,7 @@
         "_id": "76hnErs1HkJz1zIT",
         "name": "Shika 鹿 (Deer) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/shika.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -33088,7 +33088,7 @@
         "_id": "tCMQPflCQvYGY83X",
         "name": "Shika 鹿 (Deer) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/shika.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -33168,7 +33168,7 @@
         "_id": "VVFxsm7hpBAk8arO",
         "name": "Shika 鹿 (Deer) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/shika.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -35910,7 +35910,7 @@
         "_id": "zZLdNSxSy9fP6ZXN",
         "name": "Suzume 雀 (Sparrow) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/suzume.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -35990,7 +35990,7 @@
         "_id": "iAhBj0TDuuCYoIhP",
         "name": "Suzume 雀 (Sparrow) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/suzume.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -36070,7 +36070,7 @@
         "_id": "35MnY8CsMHPtpLj9",
         "name": "Suzume 雀 (Sparrow) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/suzume.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -36150,7 +36150,7 @@
         "_id": "BDIaEVjUu1oU1gqh",
         "name": "Suzume 雀 (Sparrow) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/suzume.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -37198,7 +37198,7 @@
         "_id": "mF4I9S35CsPQNiCQ",
         "name": "Tanishi 田螺 (Paddy Snail) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/tanishi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -37278,7 +37278,7 @@
         "_id": "jWjpGNcBjLYkJRWB",
         "name": "Tanishi 田螺 (Paddy Snail) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/tanishi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -37358,7 +37358,7 @@
         "_id": "WWvFNNK5BGhTlIXx",
         "name": "Tanishi 田螺 (Paddy Snail) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/tanishi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -37438,7 +37438,7 @@
         "_id": "UjJoXM17xPoIfzHJ",
         "name": "Tanishi 田螺 (Paddy Snail) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/tanishi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -42042,7 +42042,7 @@
         "_id": "pOcmno35yxmjjUvx",
         "name": "Uzura 鶉 (Quail) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/uzura.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -42122,7 +42122,7 @@
         "_id": "5TYzhJWWrutoFT3A",
         "name": "Uzura 鶉 (Quail) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/uzura.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -42202,7 +42202,7 @@
         "_id": "74bJpey5BBhgJ9GP",
         "name": "Uzura 鶉 (Quail) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/uzura.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -42282,7 +42282,7 @@
         "_id": "KY3fKNWnj7oTerVU",
         "name": "Uzura 鶉 (Quail) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/uzura.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43408,7 +43408,7 @@
         "_id": "EnkkcyIAOK8BbNkD",
         "name": "Yama-usagi 山兎 (Mountain Hare) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yama-usagi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43488,7 +43488,7 @@
         "_id": "8QNMJMunKxUKPOzB",
         "name": "Yama-usagi 山兎 (Mountain Hare) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yama-usagi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43568,7 +43568,7 @@
         "_id": "9JqEUpvefKdAHpzN",
         "name": "Yama-usagi 山兎 (Mountain Hare) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yama-usagi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43648,7 +43648,7 @@
         "_id": "u2UNHqjojJVDoUQ4",
         "name": "Yama-usagi 山兎 (Mountain Hare) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yama-usagi.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43728,7 +43728,7 @@
         "_id": "SSQoAz9M6yenG6rG",
         "name": "Yamadori 山鳥 (Mountain Pheasant) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yamadori.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43808,7 +43808,7 @@
         "_id": "jz9xNg5E6saTAmGp",
         "name": "Yamadori 山鳥 (Mountain Pheasant) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yamadori.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43888,7 +43888,7 @@
         "_id": "aae8L53FDvPS70rb",
         "name": "Yamadori 山鳥 (Mountain Pheasant) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yamadori.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -43968,7 +43968,7 @@
         "_id": "7CsC6YQmjnAuzNQ7",
         "name": "Yamadori 山鳥 (Mountain Pheasant) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "assets/items/yamadori.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {

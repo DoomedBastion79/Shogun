@@ -2,7 +2,7 @@ _id: lAsAI7ZJDmakAP4s
 _key: '!items!lAsAI7ZJDmakAP4s'
 name: Kawa-gani 川蟹 (River Crab) (並 Nami)
 type: loot
-img: assets/items/kawa-gani.webp
+img: modules/assistant/assets/items/kawa-gani.webp
 folder: oW56WfbIg5gD6jHK
 sort: 0
 ownership:
