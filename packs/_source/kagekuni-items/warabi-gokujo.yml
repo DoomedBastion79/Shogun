@@ -1,0 +1,92 @@
+_id: LG4N8W7t5lKnbfMB
+_key: '!items!LG4N8W7t5lKnbfMB'
+name: Warabi 蕨 (Bracken Fern) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: warabi
+    grade: gokujo
+    category: yakuso
+    materialName: Warabi
+  mastercrafted:
+    tags:
+      - yakuso
+      - warabi
+      - warabi:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: warabi-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Warabi 蕨 (Bracken Fern)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 2 days fresh; indefinitely dried after ash-water
+      treatment<br><strong>Tools:</strong> Herbalism kit; cook's utensils for preparation<br><strong>Grade:</strong> 極上
+      Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Young fiddlehead ferns harvested in early spring from forest floors and shaded hillsides. Must be soaked
+      overnight in wood ash water to remove bitterness before eating — raw warabi is genuinely unpleasant. A staple wild
+      green across the archipelago; gathering warabi is one of the first foraging skills every village child learns.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Ash-water treatment is non-optional — eaten raw, it causes digestive discomfort. A character with herbalism
+      proficiency knows this automatically.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Bracken Fern
+    description: Tightly coiled fern heads no larger than a fist, pale green and downy, still cool from the forest floor.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 2.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

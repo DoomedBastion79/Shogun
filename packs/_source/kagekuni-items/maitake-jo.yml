@@ -1,0 +1,93 @@
+_id: mhY6TYfT38QraV8G
+_key: '!items!mhY6TYfT38QraV8G'
+name: Maitake 舞茸 (Hen of the Woods) (上 Jō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: maitake
+    grade: jo
+    category: kinoko
+    materialName: Maitake
+  mastercrafted:
+    tags:
+      - kinoko
+      - maitake
+      - maitake:jo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: maitake-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Maitake 舞茸 (Hen of the Woods)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Dries very well; trimmings keep on the road<br><strong>Tools:</strong>
+      Herbalism kit (advantage); knife for cleaning<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Large, ruffled clusters found at the base of old oak and chestnut trees, growing in tiered layers that can
+      weigh several pounds each. The flavour is earthy and deep with a subtle peppery finish. Prized in autumn cooking —
+      a single find can feed a party twice over, and the dried trimmings keep well on the road. Considered a lucky
+      discovery by foragers.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A &quot;lucky find&quot; narrative callout — reward for thorough autumn foraging.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Hen of the Woods
+    description: >-
+      A massive ruffled cluster of overlapping grey-brown fronds at the base of an old hardwood tree, tiered layers of
+      fan-like caps resembling a roosting hen.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 2
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

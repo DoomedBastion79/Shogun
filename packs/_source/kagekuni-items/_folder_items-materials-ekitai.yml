@@ -1,0 +1,11 @@
+_id: 5jqShZDgCx1iyhmQ
+_key: '!folders!5jqShZDgCx1iyhmQ'
+name: 液体 Ekitai — Liquids
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 210
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/ekitai

@@ -1,0 +1,96 @@
+_id: cBCeTvP8M8EOc19w
+_key: '!items!cBCeTvP8M8EOc19w'
+name: Arashi-suji 嵐筋 (Storm-Sinew)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: arashi-suji
+    grade: gokujo
+    category: niku
+    materialName: Arashi-suji
+  mastercrafted:
+    tags:
+      - niku
+      - arashi-suji
+      - arashi-suji:gokujo
+      - rare
+      - harvested
+      - one-time
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: arashi-suji-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Arashi-suji 嵐筋 (Storm-Sinew)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> One-Time
+      (Yama-no-Ōkami harvest)<br><strong>Preservation:</strong> 2 days fresh; 14 days dried<br><strong>Tools:</strong>
+      Cook's utensils (slow-braise preparation)<br><strong>Restrictions:</strong> One-time only</p>
+
+      </article>
+
+      </div>
+
+      <p>Long tendons drawn from the legs and spine. Under the right light they carry a faint static shimmer — a residue
+      of the creature&#39;s connection to the high mountain storms. Slow-braised into broth they impart a tension to the
+      muscles of those who drink it, a wound-tight readiness that lingers into the following day. Suitable for a Refined
+      dish.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The &quot;readiness&quot; is a mechanical buff granted by a Refined dish prepared with Arashi-suji — bonus to
+      initiative or first-action advantage for the following day depending on cook&#39;s preparation. Confirm buff
+      wording against the recipe system when Phase 4 lands.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Storm-Sinew
+    description: >-
+      Long pale tendons, translucent and slightly elastic, with a faint prickling that brushes against the skin when
+      handled in dim light.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 30
+    denomination: gp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

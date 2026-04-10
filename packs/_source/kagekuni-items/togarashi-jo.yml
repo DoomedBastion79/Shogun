@@ -1,0 +1,90 @@
+_id: cyfwsA3rQ6FKEzj0
+_key: '!items!cyfwsA3rQ6FKEzj0'
+name: Tōgarashi 唐辛子 (Hill Chili) (上 Jō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: togarashi
+    grade: jo
+    category: chomiryo
+    materialName: Tōgarashi
+  mastercrafted:
+    tags:
+      - chomiryo
+      - togarashi
+      - togarashi:jo
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: togarashi-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tōgarashi 唐辛子 (Hill Chili)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū) or cultivated<br><strong>Preservation:</strong> Dried indefinitely; ground powder 1 year; oil infusion 6
+      months<br><strong>Tools:</strong> None required; string to hang for drying<br><strong>Grade:</strong> 上 Jō (craft
+      modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Slender red peppers that grow on low shrubs along sun-warmed hillsides and field margins. Dried whole and
+      crushed into flakes, or ground fine and blended with other spices. The heat is clean and bright rather than
+      smouldering. Essential to the everyday cooking of Hi province and beloved everywhere the cold reaches in.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Hi province cultural staple; winter mountain food essential.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Hill Chili
+    description: A slender bright-red pepper pod on a low bush, drying in the sun.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 1
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

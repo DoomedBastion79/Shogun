@@ -1,0 +1,11 @@
+_id: WMiPcqSjS1r5kjTl
+_key: '!folders!WMiPcqSjS1r5kjTl'
+name: 木材 Mokuzai — Timber
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 200
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/mokuzai

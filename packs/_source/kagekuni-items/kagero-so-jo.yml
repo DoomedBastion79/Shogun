@@ -1,0 +1,93 @@
+_id: Wnc9iCBun87tFGYU
+_key: '!items!Wnc9iCBun87tFGYU'
+name: Kagerō-sō 蜻蛉草 (Shimmer Herb) (上 Jō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kagero-so
+    grade: jo
+    category: yakuso
+    materialName: Kagerō-sō
+  mastercrafted:
+    tags:
+      - yakuso
+      - kagero-so
+      - kagero-so:jo
+      - uncommon
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kagero-so-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kagerō-sō 蜻蛉草 (Shimmer Herb)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 5 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit<br><strong>Restrictions:</strong> Narrow geographic range<br><strong>Grade:</strong> 上 Jō (craft modifier:
+      +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A low, ground-hugging herb found along the banks of the Kagerō River in Kaze province, identifiable by the
+      faint shimmer on its leaves that mirrors the river&#39;s thermal haze. The leaves have a complex, slightly numbing
+      quality that enhances other flavours when used in small amounts. Overuse deadens the palate.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Enhancement, not flavour of its own. A pinch in a broth raises the other ingredients; too much kills the meal
+      outright.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Shimmer Herb
+    description: Small ground-hugging leaves with a faint oily sheen that shimmers when moved.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 3
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

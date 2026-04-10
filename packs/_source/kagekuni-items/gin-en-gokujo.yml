@@ -1,0 +1,91 @@
+_id: fwjB7BV4AeFwlMfK
+_key: '!items!fwjB7BV4AeFwlMfK'
+name: Gin-en 銀塩 (Silver Salt) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: gin-en
+    grade: gokujo
+    category: chomiryo
+    materialName: Gin-en
+  mastercrafted:
+    tags:
+      - chomiryo
+      - gin-en
+      - gin-en:gokujo
+      - rare
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: gin-en-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Gin-en 銀塩 (Silver Salt)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Indefinite<br><strong>Tools:</strong> Herbalism kit (advantage);
+      knowledge of Ginryū's historical sites<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Pale, almost transparent crystal deposits found in caverns near the Silver Dragon&#39;s associated sites. The
+      crystals are cold to the touch regardless of ambient temperature and dissolve with a clean, bright flavor followed
+      by a cooling sensation that lingers. Used in dishes meant to counteract heat or fever, or simply as a finishing
+      seasoning of extraordinary refinement.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Ginryū connection. Used in heat-cooling medicinal dishes.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Silver Salt
+    description: Pale transparent crystals that are startlingly cold to the touch, dissolving with a cooling sensation.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 30
+    denomination: gp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,93 @@
+_id: 5oPzZ9xf9lXDo0Vx
+_key: '!items!5oPzZ9xf9lXDo0Vx'
+name: Ryūgame 竜亀 (Dragon Turtle) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: ryugame
+    grade: nami
+    category: niku
+    materialName: Ryūgame
+  mastercrafted:
+    tags:
+      - niku
+      - ryugame
+      - ryugame:nami
+      - veryRare
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: ryugame-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ryūgame 竜亀 (Dragon Turtle)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 2 days fresh; indefinitely smoked or salted<br><strong>Tools:</strong>
+      Heavy harpoon, ship-based hunt; cook's utensils essential — the shell is used in Hone<br><strong>Grade:</strong> 並
+      Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Flesh from the great dragon-turtles that live in the deepest channels of the Serenia-kai. The meat is dense,
+      dark, and carries a flavour that shifts between fish and the richest game — salt and iron in the first bite,
+      something almost sweet and smoky in the finish. A single successful hunt can feed a small village for a week.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Hunting a dragon turtle is a clan-scale endeavour — a year&#39;s worth of story for the crew that brings one
+      home. The secondary materials from the kill (shell for Hone, hide for Kegawa) can be worth as much as the
+      meat.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dragon Turtle
+    description: Enormous slabs of dense dark meat, heavier than they look, with an indefinable combination of fish-and-game scent.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 18.75
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,90 @@
+_id: 8uyFp72bbEqiF4gu
+_key: '!items!8uyFp72bbEqiF4gu'
+name: Sanjūnen-shōyu 三十年醤油 (Thirty-Year Soy) (並 Nami)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: sanjunen-shoyu
+    grade: nami
+    category: shushoku
+    materialName: Sanjūnen-shōyu
+  mastercrafted:
+    tags:
+      - shushoku
+      - sanjunen-shoyu
+      - sanjunen-shoyu:nami
+      - rare
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sanjunen-shoyu-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Sanjūnen-shōyu 三十年醤油 (Thirty-Year Soy)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Traded (legacy
+      cask)<br><strong>Preservation:</strong> Indefinite<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 並
+      Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A soy sauce aged for three decades in a single cask, producing a liquid so concentrated that it is used drop by
+      drop rather than poured. The flavour is almost savoury-sweet, with notes of dark caramel and deep earth. Only a
+      handful of producers in Hana and Tsuchi have casks old enough to yield it, and each produces only a few small
+      flasks per year. Purchased by Heian chefs at the start of each season.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Used by the drop. Heian chef signature item.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Thirty-Year Soy
+    description: An almost-black liquid so thick it clings to the sides of its small flask, profoundly aromatic.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 4.5
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

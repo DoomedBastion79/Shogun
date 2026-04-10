@@ -1,0 +1,11 @@
+_id: dMoUIiTH1J8iI9SD
+_key: '!folders!dMoUIiTH1J8iI9SD'
+name: 骨 Hone — Bone & Horn
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 160
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/hone

@@ -1,0 +1,88 @@
+_id: h0OHXooxqzyFqX4c
+_key: '!items!h0OHXooxqzyFqX4c'
+name: Dashi-kake 出汁掛け (Dried Dashi — Seaweed & Fish Stock) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: dashi-kake
+    grade: jo
+    category: shushoku
+    materialName: Dashi-kake
+  mastercrafted:
+    tags:
+      - shushoku
+      - dashi-kake
+      - dashi-kake:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: dashi-kake-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Dashi-kake 出汁掛け (Dried Dashi — Seaweed & Fish Stock)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (processed)<br><strong>Preservation:</strong> Almost indefinite in dry storage<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small bricks or loose powders of concentrated stock base, combining dried kombu kelp with katsuobushi flakes or
+      occasionally dried sardines. A pinch dissolved in hot water produces instant broth — the backbone of every road
+      meal from mushroom soup to trail ramen. Lightweight, compact, and keeps almost indefinitely.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Instant broth. A single brick makes several portions.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dried Dashi — Seaweed & Fish Stock
+    description: A small dense brick of compressed dried kelp and fish flake, smelling powerfully of the sea.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 3
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

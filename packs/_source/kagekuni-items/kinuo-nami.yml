@@ -1,0 +1,93 @@
+_id: 7q2RK9n1hzDNUEC2
+_key: '!items!7q2RK9n1hzDNUEC2'
+name: Kinuo 絹魚 (Silkfish) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kinuo
+    grade: nami
+    category: niku
+    materialName: Kinuo
+  mastercrafted:
+    tags:
+      - niku
+      - kinuo
+      - kinuo:nami
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kinuo-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kinuo 絹魚 (Silkfish)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 1 day fresh; 7 days salted<br><strong>Tools:</strong> Fishing tackle with
+      fine line; nets are too coarse<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Slender, almost translucent fish from cold mountain streams, so pale that they are nearly invisible against a
+      sand bottom. The flesh is delicate and silky in texture — the flavour is clean and cold, like the water itself —
+      and the smallest overcooking turns them to paper. A test of a fisher-cook&#39;s patience.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A delicacy of mountain-stream cuisine. Fished with the finest tackle; rough handling destroys the product. Sora
+      and upper Kaze are the canonical sources.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Silkfish
+    description: >-
+      Translucent silver-white fish the length of a hand, fragile enough that a rough grip could snap one. Almost no
+      scent.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 3.75
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

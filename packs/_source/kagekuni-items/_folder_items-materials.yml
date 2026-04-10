@@ -1,0 +1,11 @@
+_id: 8HtK2agQ16imetX1
+_key: '!folders!8HtK2agQ16imetX1'
+name: Materials
+type: Item
+folder: null
+sorting: m
+sort: 60
+color: '#4a5568'
+flags:
+  assistant:
+    folderPath: items/materials

@@ -1,0 +1,89 @@
+_id: uxsVLljE6NQuYHr2
+_key: '!items!uxsVLljE6NQuYHr2'
+name: Mochigome 糯米 (Sweet Rice) (極上 Gokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mochigome
+    grade: gokujo
+    category: shushoku
+    materialName: Mochigome
+  mastercrafted:
+    tags:
+      - shushoku
+      - mochigome
+      - mochigome:gokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mochigome-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Mochigome 糯米 (Sweet Rice)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (cultivated)<br><strong>Preservation:</strong> Months in sealed cloth<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A glutinous variant of rice used for mochi, festival dishes, and celebratory meals. Heavier and stickier than
+      ordinary kome when cooked, with a distinctive chewiness that ordinary rice lacks. Commanded as ceremonial food in
+      noble households and shrines. Sold in smaller bags at slightly higher prices than common rice, it marks the
+      difference between a weekday meal and a celebration.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Festival food — use for celebratory or shrine encounters.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Sweet Rice
+    description: Polished rice grains that are short, rounded, and opaque rather than translucent.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 7.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

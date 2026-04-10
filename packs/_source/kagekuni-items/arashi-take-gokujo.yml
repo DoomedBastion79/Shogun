@@ -1,0 +1,96 @@
+_id: M469aOtYQYB2p7z7
+_key: '!items!M469aOtYQYB2p7z7'
+name: Arashi-take 嵐茸 (Storm Cap) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: arashi-take
+    grade: gokujo
+    category: kinoko
+    materialName: Arashi-take
+  mastercrafted:
+    tags:
+      - kinoko
+      - arashi-take
+      - arashi-take:gokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: arashi-take-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Arashi-take 嵐茸 (Storm Cap)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Withers within a day of picking; must be consumed or preserved
+      immediately; dried fragments retain a faint tingle<br><strong>Tools:</strong> Herbalism kit (advantage); storm
+      tracking<br><strong>Restrictions:</strong> Only appears for 12–24 hours after a severe
+      storm<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Found only on exposed surfaces after severe storms — typically on shattered tree trunks or freshly exposed rock
+      faces in Nami province. The caps appear within hours of a major storm and wither within a day. They are electric
+      blue with branching white patterns on the cap that resemble lightning. The flavor is sharp, almost astringent,
+      with a tingling quality on the tongue.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Opportunistic — only harvestable after storms. Nami coastal specialty.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Storm Cap
+    description: >-
+      An electric-blue mushroom with bright white branching patterns across its cap, growing on a shattered tree trunk
+      after a storm.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 15
+    denomination: gp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

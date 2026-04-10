@@ -1,0 +1,93 @@
+_id: bcXsJpyaypkXZTd9
+_key: '!items!bcXsJpyaypkXZTd9'
+name: Nameko 滑子 (Amber Cap) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: nameko
+    grade: gokujo
+    category: kinoko
+    materialName: Nameko
+  mastercrafted:
+    tags:
+      - kinoko
+      - nameko
+      - nameko:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: nameko-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Nameko 滑子 (Amber Cap)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Must be cooked or dried within 1 day; dries well; fresh keeps 1–2 days
+      only<br><strong>Tools:</strong> Herbalism kit (advantage)<br><strong>Grade:</strong> 極上 Gokujō (craft modifier:
+      +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small, glossy, button-sized mushrooms found in clusters on decaying wood in damp forests. The caps are coated
+      in a natural glaze that gives them a wet-amber sheen even in full sun. The flavor is mild and slightly nutty, and
+      the slick texture is prized in soups and stews where it adds body to the broth.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Commonly paired with miso for soup base. Foragers learn them early.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Amber Cap
+    description: >-
+      Small button-shaped mushrooms in a tight cluster on damp decaying wood, caps coated in what looks like a natural
+      lacquer.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 2.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

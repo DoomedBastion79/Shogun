@@ -1,0 +1,93 @@
+_id: 1RGM6NrdkdW3Dw2B
+_key: '!items!1RGM6NrdkdW3Dw2B'
+name: Yamashiso 山紫蘇 (Mountain Perilla) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: yamashiso
+    grade: tokujo
+    category: yakuso
+    materialName: Yamashiso
+  mastercrafted:
+    tags:
+      - yakuso
+      - yamashiso
+      - yamashiso:tokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: yamashiso-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Yamashiso 山紫蘇 (Mountain Perilla)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 3 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Aromatic broad-leafed herb with purple-green leaves — the wild cousin of the cultivated perilla found in every
+      village garden. Used fresh as a garnish, dried as a seasoning, or steeped as a mildly stimulating tea. A handful
+      wraps around a rice ball perfectly.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Grows nearly everywhere in Hokori&#39;s forested provinces. One of the first herbs a village child learns to
+      recognise.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain Perilla
+    description: >-
+      Broad, toothed leaves with a deep purple-green colour and a distinctive minty-basil scent that clings to the
+      fingers.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 1.5
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

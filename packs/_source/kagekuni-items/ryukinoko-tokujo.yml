@@ -1,0 +1,97 @@
+_id: Ok6NB1YS5jEGZQq0
+_key: '!items!Ok6NB1YS5jEGZQq0'
+name: Ryūkinoko 竜茸 (Dragon Fungus) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: ryukinoko
+    grade: tokujo
+    category: kinoko
+    materialName: Ryūkinoko
+  mastercrafted:
+    tags:
+      - kinoko
+      - ryukinoko
+      - ryukinoko:tokujo
+      - veryRare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: ryukinoko-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ryūkinoko 竜茸 (Dragon Fungus)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Fresh 7 days; dries well but loses the shifting flavour; sei charge
+      persists<br><strong>Tools:</strong> Herbalism kit (advantage); sei-sense required to distinguish from deadly
+      mimic<br><strong>Restrictions:</strong> Only grows directly beneath a slumbering
+      Progenitor<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A large, golden-capped mushroom found only in caverns directly beneath Progenitor resting sites. The cap is
+      warm to the touch and radiates a faint light in darkness. The flesh carries a flavor that shifts with each bite —
+      savory, then sweet, then something that sits between warmth and music. Those who eat it describe a sensation of
+      profound calm.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Progenitor-gated.** Only accessible via dragon-slumber caverns. Sei-active; acts as a minor restoration
+      effect when consumed by DM discretion.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dragon Fungus
+    description: >-
+      A large golden-capped mushroom glowing faintly in a deep cavern, unnaturally warm to the touch and emitting a low,
+      almost-musical resonance.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 75
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

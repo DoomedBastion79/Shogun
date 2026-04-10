@@ -1,0 +1,92 @@
+_id: HG9SRv5y2lYoru6v
+_key: '!items!HG9SRv5y2lYoru6v'
+name: Eringi エリンギ (King Trumpet) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: eringi
+    grade: gokujo
+    category: kinoko
+    materialName: Eringi
+  mastercrafted:
+    tags:
+      - kinoko
+      - eringi
+      - eringi:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: eringi-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Eringi エリンギ (King Trumpet)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Fresh 3–4 days; dries well; holds texture<br><strong>Tools:</strong>
+      Herbalism kit (advantage)<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Tall, thick-stemmed mushrooms found on dead roots and buried wood in grasslands and field margins. The cap is
+      small relative to the meaty stem, which is the prized part — firm, white, and holds its texture through long
+      cooking. Farmers in Tsuchi gather them from freshly cleared fields.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The &quot;meat&quot; mushroom; prized in rural stews.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified King Trumpet
+    description: >-
+      A tall, thick-stemmed mushroom with a small brown cap, growing alone in field margin grass, firm and almost
+      hollow-sounding when struck.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

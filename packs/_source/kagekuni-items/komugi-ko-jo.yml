@@ -1,0 +1,95 @@
+_id: Dk0SoGfkS5W0AzYr
+_key: '!items!Dk0SoGfkS5W0AzYr'
+name: Komugi-ko 小麦粉 (Wheat Flour) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: komugi-ko
+    grade: jo
+    category: shushoku
+    materialName: Komugi-ko
+  mastercrafted:
+    tags:
+      - shushoku
+      - komugi-ko
+      - komugi-ko:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: komugi-ko-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Komugi-ko 小麦粉 (Wheat Flour)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (milled)<br><strong>Preservation:</strong> Months in dry cloth; humidity ruins it<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Ground wheat from the lowland farms of Tsuchi and Hana, sold in paper-wrapped bricks or loose in cloth bags.
+      Heavier and less refined than the whiter flours of urban kitchens, but entirely sufficient for noodles, dumpling
+      wrappers, and the tempura batters of market stalls. The grain itself carries the faint sweetness of lowland
+      sun.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Dumpling / tempura base.
+
+
+      ---
+
+
+      **上 Jō — Uncommon**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wheat Flour
+    description: A coarse pale flour in a cloth bag, slightly beige rather than white.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 2
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

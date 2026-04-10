@@ -1,0 +1,11 @@
+_id: oW56WfbIg5gD6jHK
+_key: '!folders!oW56WfbIg5gD6jHK'
+name: 肉 Niku — Meat
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 100
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/niku

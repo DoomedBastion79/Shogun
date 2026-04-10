@@ -1,0 +1,11 @@
+_id: htCHoeXIk68E2xD9
+_key: '!folders!htCHoeXIk68E2xD9'
+name: 宝石 Hōseki — Gems
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 190
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/hoseki

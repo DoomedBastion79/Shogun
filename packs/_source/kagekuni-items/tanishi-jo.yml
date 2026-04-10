@@ -1,0 +1,90 @@
+_id: jWjpGNcBjLYkJRWB
+_key: '!items!jWjpGNcBjLYkJRWB'
+name: Tanishi 田螺 (Paddy Snail) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: tanishi
+    grade: jo
+    category: niku
+    materialName: Tanishi
+  mastercrafted:
+    tags:
+      - niku
+      - tanishi
+      - tanishi:jo
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: tanishi-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tanishi 田螺 (Paddy Snail)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 2 days fresh (kept damp); cooked meat 1 day<br><strong>Tools:</strong>
+      None; cook's utensils for preparation<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Dark, palm-sized freshwater snails harvested from rice paddies and slow-moving streams. The meat is earthy,
+      chewy, and carries a bitter-green finish that miso and sake soften into something worth eating. A staple of
+      peasant cuisine in the rice provinces.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Gathered by hand while wading paddies; must be purged in clean water for a day before cooking. Essential
+      ingredient in rural miso-stewed dishes.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Paddy Snail
+    description: Dark conical shells the size of a thumb, clustered together, wet with paddy mud. They retract fully when handled.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 1
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

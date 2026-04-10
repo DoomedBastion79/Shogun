@@ -1,0 +1,95 @@
+_id: KcGDWdFcYnFbsl6A
+_key: '!items!KcGDWdFcYnFbsl6A'
+name: Inochi no Shio 命の塩 (Salt of Life) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: inochi-no-shio
+    grade: gokujo
+    category: chomiryo
+    materialName: Inochi no Shio
+  mastercrafted:
+    tags:
+      - chomiryo
+      - inochi-no-shio
+      - inochi-no-shio:gokujo
+      - veryRare
+      - harvested
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: inochi-no-shio-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Inochi no Shio 命の塩 (Salt of Life)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong> Harvested
+      (Saishū)<br><strong>Preservation:</strong> Self-replenishing at the deposit; stable indefinitely once
+      harvested<br><strong>Tools:</strong> Herbalism kit (advantage); Arcana (Int) DC 15; clean stone
+      vessel<br><strong>Restrictions:</strong> Over-harvest depletes site for years. Less than a dozen sites
+      known.<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A crystalline substance found at the exact point where sei-active spring water meets volcanic mineral deposits
+      — a convergence so specific that fewer than a dozen sites in all of Kagekuni produce it. The crystals form slowly
+      and are self-replenishing, but harvesting too aggressively depletes the site for years. The flavor is warmth,
+      vitality, and something that sits beyond the tongue&#39;s ability to categorize. Meals seasoned with it produce
+      effects that border on the miraculous.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Sacred / ecological gate.** Over-harvest has in-world consequences. Associate with restoration/healing
+      recipes.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Salt of Life
+    description: A warm, softly alive crystal from where hot spring meets volcanic mineral vent, faintly pulsing in the hand.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

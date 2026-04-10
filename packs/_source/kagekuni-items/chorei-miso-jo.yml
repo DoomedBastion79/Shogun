@@ -1,0 +1,92 @@
+_id: 27FOLMV2RFA7Aem8
+_key: '!items!27FOLMV2RFA7Aem8'
+name: Chōrei Miso 長齢味噌 (Longevity Miso) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: chorei-miso
+    grade: jo
+    category: shushoku
+    materialName: Chōrei Miso
+  mastercrafted:
+    tags:
+      - shushoku
+      - chorei-miso
+      - chorei-miso:jo
+      - rare
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: chorei-miso-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Chōrei Miso 長齢味噌 (Longevity Miso)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Traded
+      (monastery gift)<br><strong>Preservation:</strong> Indefinite<br><strong>Tools:</strong>
+      None<br><strong>Restrictions:</strong> Rarely sold for coin; usually given in exchange for
+      service<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A miso aged for over a century in cedar casks at specific Buddhist monasteries, passed from generation to
+      generation of temple cooks who tend each cask as an inheritance. The colour is nearly black and the flavour is
+      impossibly deep — a single spoonful transforms an entire pot of broth. The monks who tend the casks rarely sell
+      chōrei miso for coin; it is more often given in exchange for service or as a gift to honoured guests. A small jar
+      is a meaningful reward for a completed quest.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Quest-reward tier.** Use for monks-and-temples plotlines.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Longevity Miso
+    description: A small ceramic jar of nearly-black miso with a smell like deep earth and old cedar.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 8
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

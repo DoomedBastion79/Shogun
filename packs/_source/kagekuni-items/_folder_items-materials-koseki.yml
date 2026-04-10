@@ -1,0 +1,11 @@
+_id: Ab1eIga7wAftiJux
+_key: '!folders!Ab1eIga7wAftiJux'
+name: 鉱石 Kōseki — Ore & Stone
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 180
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/koseki

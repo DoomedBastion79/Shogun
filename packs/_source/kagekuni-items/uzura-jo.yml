@@ -1,0 +1,92 @@
+_id: 5TYzhJWWrutoFT3A
+_key: '!items!5TYzhJWWrutoFT3A'
+name: Uzura 鶉 (Quail) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: uzura
+    grade: jo
+    category: niku
+    materialName: Uzura
+  mastercrafted:
+    tags:
+      - niku
+      - uzura
+      - uzura:jo
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: uzura-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Uzura 鶉 (Quail)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 2 days fresh; 10 days smoked<br><strong>Tools:</strong> Bow, sling, or
+      snares; cook's utensils for dressing<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small ground-dwelling birds hunted in grasslands, scrub, and the margins of cultivated fields. The meat is
+      darker than chicken and carries a slightly mineral sweetness — perfect for a single-skewer meal over a cooking
+      fire.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Abundant in grasslands and scrub. Often driven into nets by beaters; rural households maintain standing snare
+      lines near paddy margins during harvest season.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Quail
+    description: >-
+      Small plucked game birds, each no larger than a fist, with pale-to-rose flesh and tiny bones. Faint scent of grass
+      and warm feathers.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 1
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

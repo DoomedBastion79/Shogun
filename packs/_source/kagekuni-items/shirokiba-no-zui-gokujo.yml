@@ -1,0 +1,92 @@
+_id: occV3hihVzzbjjA5
+_key: '!items!occV3hihVzzbjjA5'
+name: Shirokiba no Zui 白牙の髄 (White-Fang Marrow)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: shirokiba-no-zui
+    grade: gokujo
+    category: niku
+    materialName: Shirokiba no Zui
+  mastercrafted:
+    tags:
+      - niku
+      - shirokiba-no-zui
+      - shirokiba-no-zui:gokujo
+      - rare
+      - harvested
+      - one-time
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: shirokiba-no-zui-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shirokiba no Zui 白牙の髄 (White-Fang Marrow)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> One-Time
+      (Yama-no-Ōkami harvest)<br><strong>Preservation:</strong> 4 days if kept cold<br><strong>Tools:</strong> Cook's
+      utensils (marrow extraction and preparation)<br><strong>Restrictions:</strong> One-time only</p>
+
+      </article>
+
+      </div>
+
+      <p>Rich marrow drawn from the long bones of the forelimbs, pale as bleached bone and dense as cream. Roasted and
+      spread on warm rice it produces an almost overwhelming umami. A cook with cook&#39;s utensils proficiency can
+      split one portion across an entire party&#39;s meal.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>One portion of marrow is enough to season an entire party&#39;s meal if spread judiciously. Considered a
+      concentrator ingredient — raises the grade of any dish it is added to.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified White-Fang Marrow
+    description: Thick, pale, creamy substance extracted from a heavy bone — denser than butter and with a faint iron scent.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 20
+    denomination: gp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

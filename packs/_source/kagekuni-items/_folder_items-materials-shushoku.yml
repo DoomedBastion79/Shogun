@@ -1,0 +1,11 @@
+_id: 1XV63M5X1jtx2EVb
+_key: '!folders!1XV63M5X1jtx2EVb'
+name: 主食 Shushoku — Staples
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 140
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/shushoku

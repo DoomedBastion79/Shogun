@@ -1,0 +1,90 @@
+_id: YMBUX5fu5lWM0yHV
+_key: '!items!YMBUX5fu5lWM0yHV'
+name: Sanshō 山椒 (Mountain Pepper) (上 Jō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: sansho
+    grade: jo
+    category: chomiryo
+    materialName: Sanshō
+  mastercrafted:
+    tags:
+      - chomiryo
+      - sansho
+      - sansho:jo
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sansho-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Sanshō 山椒 (Mountain Pepper)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Dries well; whole peppercorns keep for years; ground powder loses punch
+      in months<br><strong>Tools:</strong> Herbalism kit (advantage); care — the plant is
+      prickly<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small, citrus-scented peppercorns found on prickly shrubs along mountain trails and forest edges. The flavor is
+      bright and tingling rather than hot — a numbing, almost electric sensation on the tongue. Used whole, cracked, or
+      ground. Available nearly everywhere mountains meet forest.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Near-universal wild forage. Reliable fallback crop.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain Pepper
+    description: Small green-brown peppercorns clustered on a thorny shrub branch, releasing a sharp citrus tingle when crushed.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 2
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

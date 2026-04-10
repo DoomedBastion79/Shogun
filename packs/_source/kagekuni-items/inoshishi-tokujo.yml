@@ -1,0 +1,92 @@
+_id: VGl992j0WuDUfWF0
+_key: '!items!VGl992j0WuDUfWF0'
+name: Inoshishi 猪 (Wild Boar) (特上 Tokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: inoshishi
+    grade: tokujo
+    category: niku
+    materialName: Inoshishi
+  mastercrafted:
+    tags:
+      - niku
+      - inoshishi
+      - inoshishi:tokujo
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: inoshishi-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Inoshishi 猪 (Wild Boar)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 2 days fresh; indefinitely if smoked or salted<br><strong>Tools:</strong>
+      Spear, polearm, or bow; cook's utensils for butchery<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Dense, dark, heavily marbled meat from Hokori&#39;s wild boars. The flavour is strong and distinctly gamey —
+      deeper than venison, sweeter than bear — and the fat carries the diet of the forest: pine nut, fallen fruit, and
+      fungus. Stewed with miso it becomes the defining winter meal of mountain communities.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Dangerous to hunt — a wounded boar can kill a man before dying. Winter boar is considered the finest, the fat
+      layer at its thickest after the autumn foraging. A successful boar hunt yields Kegawa (hide) and Hone (tusks) as
+      secondary materials.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wild Boar
+    description: Heavy, dark-red cuts of large-game meat with thick marbled fat — noticeably stronger in smell than common game.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 7.5
+    denomination: sp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

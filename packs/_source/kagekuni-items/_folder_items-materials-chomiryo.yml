@@ -1,0 +1,11 @@
+_id: XxINXNOKM6waGcYz
+_key: '!folders!XxINXNOKM6waGcYz'
+name: 調味料 Chōmiryō — Seasonings
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 130
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/chomiryo

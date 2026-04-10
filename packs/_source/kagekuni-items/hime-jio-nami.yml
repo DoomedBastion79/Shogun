@@ -1,0 +1,97 @@
+_id: 7YGui5cAYnbI98PM
+_key: '!items!7YGui5cAYnbI98PM'
+name: Hime-jio 姫塩 (Princess Salt) (並 Nami)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: hime-jio
+    grade: nami
+    category: shushoku
+    materialName: Hime-jio
+  mastercrafted:
+    tags:
+      - shushoku
+      - hime-jio
+      - hime-jio:nami
+      - rare
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: hime-jio-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Hime-jio 姫塩 (Princess Salt)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Traded
+      (hand-crafted coastal)<br><strong>Preservation:</strong> Indefinite<br><strong>Tools:</strong>
+      None<br><strong>Restrictions:</strong> Matriarch selects buyers; refused buyers leave
+      empty-handed<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A hand-crafted finishing salt produced in a single coastal village in Mizu, where an elderly matriarch and her
+      apprentices evaporate seawater in shallow pans and sculpt each crystal by hand. Every grain is a perfect flake,
+      with a subtle, almost floral brininess. Used as a finishing salt in the kitchens of noble households and the
+      finest Heian restaurants. The matriarch reputedly turns away any buyer she deems unworthy of the craft.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Social gate.** Matriarch vets buyers — RP hook.
+
+
+      ---
+
+
+      **極上 Gokujō — Very Rare**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Princess Salt
+    description: Perfect translucent flakes of salt so thin they bend light like tiny glass shards.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 3
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

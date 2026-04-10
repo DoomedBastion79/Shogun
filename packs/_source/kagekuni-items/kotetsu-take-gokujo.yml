@@ -1,0 +1,92 @@
+_id: 4XTCcMbwvsGZehby
+_key: '!items!4XTCcMbwvsGZehby'
+name: Kōtetsu-take 鋼茸 (Steel Cap) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kotetsu-take
+    grade: gokujo
+    category: kinoko
+    materialName: Kōtetsu-take
+  mastercrafted:
+    tags:
+      - kinoko
+      - kotetsu-take
+      - kotetsu-take:gokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kotetsu-take-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kōtetsu-take 鋼茸 (Steel Cap)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Stable for months; dries well; mineral content
+      intensifies<br><strong>Tools:</strong> Herbalism kit (advantage); mining pick recommended for extraction from
+      mineral crust<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A dark, metallic-capped mushroom found in the iron-rich soil around Kurogane Yama and the mining settlements of
+      Tsuchi. The cap has a genuine metallic sheen and the flesh contains trace minerals that give it a faintly ferrous
+      taste. Miners consider them good luck. Alchemists value them for the mineral content.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Tsuchi regional signature. Miner superstition — good omen loot.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Steel Cap
+    description: A dark mushroom with a metallic-seeming cap growing in iron-stained soil near an old mine tailing.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 10
+    denomination: gp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

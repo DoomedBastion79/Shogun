@@ -1,0 +1,99 @@
+_id: UCYgjozNIHMCbfQo
+_key: '!items!UCYgjozNIHMCbfQo'
+name: Kaseki-take 化石茸 (Fossil Shelf) (並 Nami)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kaseki-take
+    grade: nami
+    category: kinoko
+    materialName: Kaseki-take
+  mastercrafted:
+    tags:
+      - kinoko
+      - kaseki-take
+      - kaseki-take:nami
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kaseki-take-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kaseki-take 化石茸 (Fossil Shelf)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Nearly indefinite; dense flesh resists rot<br><strong>Tools:</strong>
+      Herbalism kit (advantage); sharp tool for harvesting dense flesh<br><strong>Grade:</strong> 並 Nami (craft
+      modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A large, shelf-like fungus found growing on petrified wood in ancient geological formations — the Buried Road
+      of Tsuchi, the deep foundations of Progenitor ruins, and exposed strata in river gorges. The flesh is incredibly
+      dense and must be thinly sliced. The flavor is deep, complex, and ancient-tasting in a way that is difficult to
+      articulate — like stone dust and old libraries and deep time.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Often found in ancient sites — use as a proximity signal for archaeological discovery.
+
+
+      ---
+
+
+      **極上 Gokujō — Very Rare**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Fossil Shelf
+    description: A dense, stone-hard shelf fungus on a petrified log, almost mineral to the touch, weighing far more than it looks.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 5.25
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

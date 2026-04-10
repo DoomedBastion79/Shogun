@@ -1,0 +1,91 @@
+_id: GI2GdPnPu28WIrWk
+_key: '!items!GI2GdPnPu28WIrWk'
+name: Shio 塩 (Sea Salt) (並 Nami)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: shio
+    grade: nami
+    category: chomiryo
+    materialName: Shio
+  mastercrafted:
+    tags:
+      - chomiryo
+      - shio
+      - shio:nami
+      - harvested
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: shio-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shio 塩 (Sea Salt)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Harvested
+      (Saishū, coastal) or Traded<br><strong>Preservation:</strong> Indefinite in dry storage<br><strong>Tools:</strong>
+      None required for purchase; harvesting requires shallow pans and sun<br><strong>Grade:</strong> 並 Nami (craft
+      modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Harvested from evaporation pools along the Nami and Mizu coasts, or traded inland along the Emperor&#39;s
+      Highway. The fundamental seasoning of Kagekuni cooking. Every market in Hokori sells it; every kitchen uses it;
+      every pack contains at least a small cloth pouch.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The baseline seasoning. Travelers without salt are signalled as either destitute, new to the road, or very
+      rich.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Sea Salt
+    description: A coarse white crystalline mineral in a small cloth pouch, sharp to taste.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0.75
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

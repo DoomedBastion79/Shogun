@@ -1,0 +1,93 @@
+_id: g6EiP4RzzeeTHBtn
+_key: '!items!g6EiP4RzzeeTHBtn'
+name: Tsuchi-miso 土味噌 (Earth Miso) (上 Jō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: tsuchi-miso
+    grade: jo
+    category: chomiryo
+    materialName: Tsuchi-miso
+  mastercrafted:
+    tags:
+      - chomiryo
+      - tsuchi-miso
+      - tsuchi-miso:jo
+      - uncommon
+      - harvested
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: tsuchi-miso-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tsuchi-miso 土味噌 (Earth Miso)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong> Harvested
+      (Saishū, thermal clay)<br><strong>Preservation:</strong> Stable months in clay vessel<br><strong>Tools:</strong>
+      Herbalism kit (advantage); **local guidance essential**<br><strong>Restrictions:</strong> Not all deposits are
+      safe; requires local knowledge to identify non-toxic strains<br><strong>Grade:</strong> 上 Jō (craft modifier:
+      +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A wild fermented paste found in clay deposits near certain hot springs in Hi and Tsuchi provinces, where soil
+      bacteria and mineral content produce a natural fermentation in accumulated organic matter. The result is a dark,
+      intensely savory paste — rougher than manufactured miso, but with a depth that cultured products cannot match. Not
+      all deposits are safe to eat — local knowledge is essential.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Risk flag:** failed identification may yield toxic batch (Con save, poisoned condition for 1 hour).</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Earth Miso
+    description: A dark, earthy paste collected from thermal clay near a hot spring, smelling powerfully savory and mineral.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 4
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

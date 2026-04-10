@@ -1,0 +1,99 @@
+_id: WkdJew8cyuQGO9hY
+_key: '!items!WkdJew8cyuQGO9hY'
+name: Taka-usagi 鷹兎 (Hawk-Hare) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: taka-usagi
+    grade: jo
+    category: niku
+    materialName: Taka-usagi
+  mastercrafted:
+    tags:
+      - niku
+      - taka-usagi
+      - taka-usagi:jo
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: taka-usagi-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Taka-usagi 鷹兎 (Hawk-Hare)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 2 days fresh; 14 days salted<br><strong>Tools:</strong> Bow, sling;
+      requires fast shot — snares rarely catch them<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>The uncommon, long-eared hare of Hokori&#39;s open grasslands — larger, faster, and subtly more aromatic than
+      its forest cousin. The meat carries a cleaner, sweeter flavour, and the fat yields a distinctly floral note from a
+      diet of wild herbs. A hunter who takes one boasts for a week.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Natively adapted to the violet grasslands of Kusa and northern Tsuchi. Their speed makes them a prized target
+      for falconers; their meat is a delicacy among rural lords.
+
+
+      ---
+
+
+      **Rare**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Hawk-Hare
+    description: >-
+      A large hare, perhaps twice the weight of a mountain cousin, with unusually long ears and a pale cream coat
+      speckled dark.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 7
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

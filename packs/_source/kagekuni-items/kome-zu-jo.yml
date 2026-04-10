@@ -1,0 +1,88 @@
+_id: nnR4hzWRl9YZ6Ssl
+_key: '!items!nnR4hzWRl9YZ6Ssl'
+name: Kome-zu 米酢 (Rice Vinegar) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kome-zu
+    grade: jo
+    category: shushoku
+    materialName: Kome-zu
+  mastercrafted:
+    tags:
+      - shushoku
+      - kome-zu
+      - kome-zu:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kome-zu-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kome-zu 米酢 (Rice Vinegar)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (brewed)<br><strong>Preservation:</strong> Indefinite in sealed flask<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A clear, mildly acidic vinegar brewed from rice. Essential for pickles, dressings, and the proper preparation
+      of sushi rice. Milder than most vinegars — it sharpens without dominating — and carried in small ceramic flasks on
+      the road. A few drops in a bowl of rice transforms it.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Pickle base. Rice-prep essential.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Rice Vinegar
+    description: A clear, faintly acidic liquid in a small ceramic flask, with the soft scent of fermented rice.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 2
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

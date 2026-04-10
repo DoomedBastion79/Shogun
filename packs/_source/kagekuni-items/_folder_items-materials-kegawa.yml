@@ -1,0 +1,11 @@
+_id: xRXCGUX77MCiPrss
+_key: '!folders!xRXCGUX77MCiPrss'
+name: 毛皮 Kegawa — Furs & Hides
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 150
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/kegawa

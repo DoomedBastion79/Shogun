@@ -1,0 +1,92 @@
+_id: AkvF6875EX1oRNSd
+_key: '!items!AkvF6875EX1oRNSd'
+name: Seiryoku-gusa 精力草 (Sei-Vigor Grass) (並 Nami)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: seiryoku-gusa
+    grade: nami
+    category: yakuso
+    materialName: Seiryoku-gusa
+  mastercrafted:
+    tags:
+      - yakuso
+      - seiryoku-gusa
+      - seiryoku-gusa:nami
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: seiryoku-gusa-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Seiryoku-gusa 精力草 (Sei-Vigor Grass)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 14 days fresh; indefinitely dried (retains
+      glow)<br><strong>Tools:</strong> Herbalism kit<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A luminous blue-green grass that grows in tight spirals near leyline concentrations and sei-active springs. The
+      blades pulse with faint light when cut, and carry that glow for days after being dried. Herbalists in Sora and
+      Kaze prize it for both cooking and minor focusing rituals.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Doubles as a minor seimaster focus component — a dried bundle can be used in ritual work. A sei-sensitive
+      character will feel it on contact.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Sei-Vigor Grass
+    description: Tight spirals of blue-green grass that seem to hold their own faint light even in shadow.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 11.25
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

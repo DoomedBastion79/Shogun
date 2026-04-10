@@ -1,0 +1,93 @@
+_id: 5Sv61h0V2DaIzJ2p
+_key: '!items!5Sv61h0V2DaIzJ2p'
+name: Mitsuba 三つ葉 (Trefoil) (上 Jō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mitsuba
+    grade: jo
+    category: yakuso
+    materialName: Mitsuba
+  mastercrafted:
+    tags:
+      - yakuso
+      - mitsuba
+      - mitsuba:jo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mitsuba-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Mitsuba 三つ葉 (Trefoil)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 2 days fresh; loses flavour when dried<br><strong>Tools:</strong>
+      Herbalism kit<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A delicate three-leafed herb with a bright celery-like flavour. Grows in shaded, damp areas near streams and
+      under forest canopy. Used as a garnish in soups and custards, or scattered over rice. The flavour is subtle but
+      distinctive — it marks the difference between trail cooking and something worth eating.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Temple garden margins are a reliable source. The herb&#39;s value comes almost entirely from fresh use — a
+      dried mitsuba leaf is nearly worthless.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Trefoil
+    description: >-
+      A small trio of bright green leaves on a slender stem, delicate enough to bruise at a touch. Fresh celery-herb
+      scent.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 1
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

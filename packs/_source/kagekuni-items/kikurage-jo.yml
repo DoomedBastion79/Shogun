@@ -1,0 +1,93 @@
+_id: iwNut1rbfhKB4X0l
+_key: '!items!iwNut1rbfhKB4X0l'
+name: Kikurage 木耳 (Wood Ear) (上 Jō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kikurage
+    grade: jo
+    category: kinoko
+    materialName: Kikurage
+  mastercrafted:
+    tags:
+      - kinoko
+      - kikurage
+      - kikurage:jo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kikurage-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kikurage 木耳 (Wood Ear)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Dries flat and keeps indefinitely; reconstitutes easily in
+      water<br><strong>Tools:</strong> Herbalism kit (advantage)<br><strong>Grade:</strong> 上 Jō (craft modifier:
+      +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Thin, translucent, ear-shaped fungi found on dead elder and willow wood near streams. The texture is crunchy
+      and gelatinous — they contribute body rather than flavor. Widely used in soups and stir-fried dishes across all
+      provinces. Dries flat and reconstitutes easily.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Near-infinite shelf life — carries well on long journeys.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wood Ear
+    description: >-
+      A thin, dark-brown ear-shaped growth clinging to deadwood near a stream, translucent when held to light, rubbery
+      to the touch.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 1
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,89 @@
+_id: jn3HnMeT0FSwPMki
+_key: '!items!jn3HnMeT0FSwPMki'
+name: Tsukemono 漬物 (Pickled Vegetables) (極上 Gokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: tsukemono
+    grade: gokujo
+    category: shushoku
+    materialName: Tsukemono
+  mastercrafted:
+    tags:
+      - shushoku
+      - tsukemono
+      - tsukemono:gokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: tsukemono-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tsukemono 漬物 (Pickled Vegetables)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (home-pickled)<br><strong>Preservation:</strong> Keeps weeks to months in sealed vessel<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>An assortment of root vegetables, daikon, gourd, and leafy greens pickled in salt, vinegar, miso, or rice bran
+      mash. Every region has its own tradition — Hi&#39;s fiery pepper pickles differ utterly from Sora&#39;s delicate
+      salt-pickled turnip. Tsukemono keeps well on the road and adds colour, crunch, and acidity to otherwise monotonous
+      trail meals.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Regional flavor — grade reflects provincial tradition.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Pickled Vegetables
+    description: A small jar of pickled vegetables in bright colours, crisp and pungent.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 7.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

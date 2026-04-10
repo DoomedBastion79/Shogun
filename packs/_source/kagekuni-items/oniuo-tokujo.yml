@@ -1,0 +1,93 @@
+_id: Ai89LEwJWK7OSoRj
+_key: '!items!Ai89LEwJWK7OSoRj'
+name: Oniuo 鬼魚 (Oni Fish) (特上 Tokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: oniuo
+    grade: tokujo
+    category: niku
+    materialName: Oniuo
+  mastercrafted:
+    tags:
+      - niku
+      - oniuo
+      - oniuo:tokujo
+      - rare
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: oniuo-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Oniuo 鬼魚 (Oni Fish)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 1 day fresh; 10 days salted<br><strong>Tools:</strong> Heavy fishing
+      tackle, harpoon; the fish fights strongly and can injure<br><strong>Grade:</strong> 特上 Tokujō (craft modifier:
+      +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A deep-water ocean fish with a brutal, almost armoured head and a jaw lined with small inward-curving teeth.
+      The flesh is pale and dense, carrying a rich salt-and-iron flavour unlike any other catch. Prized by coastal chefs
+      for the single cut drawn from the upper back, which is considered one of the finest pieces of fish in the
+      archipelago.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditionally taken by harpoon from small boats during Tatsunami, when the deep schools rise closer to the
+      surface. Dangerous work — losses are accepted as the price of the catch.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Oni Fish
+    description: A large, armoured-looking fish with a grotesque jaw and surprisingly pale, clean flesh beneath the ugly exterior.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 9
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

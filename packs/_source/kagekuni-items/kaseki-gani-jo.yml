@@ -1,0 +1,95 @@
+_id: 3hBJUndhhLtxvxV4
+_key: '!items!3hBJUndhhLtxvxV4'
+name: Kaseki-gani 化石蟹 (Fossil Crab) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: kaseki-gani
+    grade: jo
+    category: niku
+    materialName: Kaseki-gani
+  mastercrafted:
+    tags:
+      - niku
+      - kaseki-gani
+      - kaseki-gani:jo
+      - rare
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kaseki-gani-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kaseki-gani 化石蟹 (Fossil Crab)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> Must be kept alive until cooking; dead crab spoils within
+      hours<br><strong>Tools:</strong> None — hand-caught; cook's utensils essential for cracking the stone-like
+      shell<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A deep-shelled crab so ancient in lineage that its carapace is nearly as hard as stone, mineralised by
+      millennia of selection for defence. The flesh inside is astonishing — dense, sweet, and faintly floral, with a
+      texture closer to dense custard than to ordinary crab. Breaking the shell takes a stone hammer; the reward is
+      worth the labour.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Rarely encountered — a successful forage is a small event. Most often found by foragers working unusual
+      stretches of coastline, particularly where tidal pools sit against ancient volcanic rock.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Fossil Crab
+    description: >-
+      A dark, rock-like crab whose carapace could be mistaken for a wet stone — until it moves. Improbably heavy for its
+      size.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 8
+    denomination: gp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

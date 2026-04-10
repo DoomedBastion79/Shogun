@@ -1,0 +1,100 @@
+_id: y6OaJYYSmGlTCNBO
+_key: '!items!y6OaJYYSmGlTCNBO'
+name: Nami no Hana 波の花 (Wave Blossom) (並 Nami)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: nami-no-hana
+    grade: nami
+    category: chomiryo
+    materialName: Nami no Hana
+  mastercrafted:
+    tags:
+      - chomiryo
+      - nami-no-hana
+      - nami-no-hana:nami
+      - uncommon
+      - harvested
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: nami-no-hana-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Nami no Hana 波の花 (Wave Blossom)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong> Harvested
+      (Saishū, coastal) — seasonal<br><strong>Preservation:</strong> Dried 3–4 months; humidity destroys
+      it<br><strong>Tools:</strong> Knife or fine brush; storm-timing knowledge<br><strong>Restrictions:</strong> Only
+      forms during Tatsunami (extreme four-moon tide event)<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A dried sea foam that crystallizes on coastal rocks during the height of Tatsunami season, when the four-moon
+      alignment drives extreme tides. The crystals are white, feathery, and dissolve on the tongue with an intense
+      brininess followed by an unexpected sweetness. Used as a finishing salt on delicate dishes. Available only during
+      a narrow seasonal window.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Event-gated:** tie to Tatsunami calendar event.
+
+
+      ---
+
+
+      **特上 Tokujō — Rare**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wave Blossom
+    description: >-
+      A delicate white feathery crystalline growth clinging to a wave-battered coastal rock, dissolving instantly on the
+      tongue.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 3.75
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

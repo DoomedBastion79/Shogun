@@ -1,0 +1,93 @@
+_id: MsPum0mH9Bc01JP8
+_key: '!items!MsPum0mH9Bc01JP8'
+name: Matsutake 松茸 (Pine Mushroom) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: matsutake
+    grade: gokujo
+    category: kinoko
+    materialName: Matsutake
+  mastercrafted:
+    tags:
+      - kinoko
+      - matsutake
+      - matsutake:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: matsutake-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Matsutake 松茸 (Pine Mushroom)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Fresh 3–4 days; dries adequately; aroma fades
+      quickly<br><strong>Tools:</strong> Herbalism kit (advantage); patience and dry
+      hillsides<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Large, thick-stemmed mushrooms found under red pine trees in well-drained soil. The aroma is distinctive — a
+      spicy, almost cinnamon-like fragrance that announces a find before you see it. Highly prized and seasonal — autumn
+      only. Despite the prestige, they are common enough in the right terrain to be found by a patient forager.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Autumn-locked. Common in the right terrain, but the terrain is narrow.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Pine Mushroom
+    description: >-
+      A large pale-brown mushroom with a thick stem and closed cap, growing half-buried in pine needles, emitting a
+      strong spicy fragrance.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 12.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

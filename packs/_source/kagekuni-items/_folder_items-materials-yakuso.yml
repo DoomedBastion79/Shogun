@@ -1,0 +1,11 @@
+_id: s0C8x7l7f1BXaWFT
+_key: '!folders!s0C8x7l7f1BXaWFT'
+name: 薬草 Yakusō — Herbs
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 110
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/yakuso

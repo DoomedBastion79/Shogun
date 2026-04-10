@@ -1,0 +1,96 @@
+_id: 2Khby8AMOf75glCI
+_key: '!items!2Khby8AMOf75glCI'
+name: Karashi-na 芥子菜 (Mustard Greens) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: karashi-na
+    grade: gokujo
+    category: yakuso
+    materialName: Karashi-na
+  mastercrafted:
+    tags:
+      - yakuso
+      - karashi-na
+      - karashi-na:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: karashi-na-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Karashi-na 芥子菜 (Mustard Greens)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 4 days fresh; indefinitely pickled or dried<br><strong>Tools:</strong>
+      Herbalism kit<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Broad, deep-green leaves with a sharp peppery bite that mellows with cooking. Self-seeds along cultivated field
+      margins and disturbed ground, especially in Tsuchi and Hana where farmers allow them to grow wild between
+      plantings. Used in pickles, stir-fries, and the spicy soups of winter.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Abundant between plantings in the rice provinces. A reliable supplement when other greens are out of season.
+
+
+      ---
+
+
+      **Uncommon**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mustard Greens
+    description: Broad dark-green toothed leaves with a distinct mustard-sharp scent.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 2.5
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

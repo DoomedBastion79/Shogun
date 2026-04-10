@@ -1,0 +1,96 @@
+_id: 2RL9z4zs9sUTsJlz
+_key: '!items!2RL9z4zs9sUTsJlz'
+name: Murasaki-ha 紫葉 (Purple Leaf) (上 Jō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: murasaki-ha
+    grade: jo
+    category: yakuso
+    materialName: Murasaki-ha
+  mastercrafted:
+    tags:
+      - yakuso
+      - murasaki-ha
+      - murasaki-ha:jo
+      - uncommon
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: murasaki-ha-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Murasaki-ha 紫葉 (Purple Leaf)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Foraged<br><strong>Preservation:</strong> 5 days fresh; indefinitely dried (loses
+      colour)<br><strong>Tools:</strong> Herbalism kit<br><strong>Restrictions:</strong> Endemic to Kusa
+      province<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>A broad-leafed plant endemic to Kusa&#39;s lowland forests, where it grows in the violet grass meadows
+      alongside the native murasaki-gusa. The leaves are a deep purple-black and have a mild, earthy sweetness that
+      complements rich meats. Kusa cooks wrap fish and game in the leaves before steaming — a regional technique unknown
+      outside the province.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The wrap-and-steam technique is part of the distinctive cuisine of the Murasaki-hara and unknown outside Kusa —
+      a chef from elsewhere would need instruction.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Purple Leaf
+    description: >-
+      Broad, heart-shaped leaves so dark they appear nearly black except at the veins, where a faint purple bleeds
+      through.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 2
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

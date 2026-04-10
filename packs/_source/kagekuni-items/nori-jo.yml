@@ -1,0 +1,89 @@
+_id: vSsi1s6rD8R3WiFh
+_key: '!items!vSsi1s6rD8R3WiFh'
+name: Nori 海苔 (Dried Laver) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: nori
+    grade: jo
+    category: shushoku
+    materialName: Nori
+  mastercrafted:
+    tags:
+      - shushoku
+      - nori
+      - nori:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: nori-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Nori 海苔 (Dried Laver)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong> Traded
+      (dried)<br><strong>Preservation:</strong> Indefinite when kept dry<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Sheets of dried and lightly toasted laver seaweed, pressed flat and bundled in paper. Nori wraps rice balls,
+      shreds over noodles, and lines sushi rolls. It keeps almost forever in a dry bundle and weighs next to nothing.
+      Harvested along the Nami and Mizu coasts and traded inland along the Emperor&#39;s Highway to every market
+      town.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Onigiri essential.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dried Laver
+    description: A dark green-black thin sheet of dried seaweed, crisp and rustling.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 3
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

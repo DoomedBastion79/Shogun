@@ -1,0 +1,94 @@
+_id: wvqV0dnoiycUlUPu
+_key: '!items!wvqV0dnoiycUlUPu'
+name: Dokuro-take 髑髏茸 (Skull Cap) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: dokuro-take
+    grade: tokujo
+    category: kinoko
+    materialName: Dokuro-take
+  mastercrafted:
+    tags:
+      - kinoko
+      - dokuro-take
+      - dokuro-take:tokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: dokuro-take-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Dokuro-take 髑髏茸 (Skull Cap)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong> Foraged
+      (Saishū)<br><strong>Preservation:</strong> Dries well; holds medicinal properties for
+      years<br><strong>Tools:</strong> Herbalism kit (advantage); stomach for its habitat<br><strong>Grade:</strong> 特上
+      Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A bone-white mushroom found growing on ancient remains — specifically on buried skeletal material in
+      battlefields, old gravesites, and ruined settlements. The cap is smooth and rounded, unsettlingly skull-like.
+      Despite its morbid habitat, the flavor is mild and pleasant. Herbalists in Kaze province use it as a base for
+      medicines that ease pain and promote rest.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Narrative hook:** Disturbing an old burial has consequences — particularly in haunted biomes. Use sparingly
+      in sacred ground.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Skull Cap
+    description: A smooth, bone-white, skull-round mushroom pushing up from loose soil over what may once have been a grave.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 7.5
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

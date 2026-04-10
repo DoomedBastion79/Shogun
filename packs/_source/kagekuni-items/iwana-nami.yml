@@ -1,0 +1,92 @@
+_id: 2RoAqJ9auBtE2Cwh
+_key: '!items!2RoAqJ9auBtE2Cwh'
+name: Iwana 岩魚 (Mountain Char) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: iwana
+    grade: nami
+    category: niku
+    materialName: Iwana
+  mastercrafted:
+    tags:
+      - niku
+      - iwana
+      - iwana:nami
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: iwana-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Iwana 岩魚 (Mountain Char)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      Hunted<br><strong>Preservation:</strong> 1 day fresh; 10 days salted; indefinitely
+      smoked<br><strong>Tools:</strong> Fishing tackle; spears in shallow water<br><strong>Grade:</strong> 並 Nami (craft
+      modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>The hardy freshwater char of cold mountain streams. The flesh is pale pink and the flavour carries the sharp
+      cleanness of glacial water and the resinous trace of upstream conifers. Salt-grilled whole over charcoal, the skin
+      crisps and the belly fat melts into something mountain hermits consider a perfect meal.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditional catch of mountain ascetics and hermit monks. Streamside cooking over a small fire is considered the
+      only proper preparation.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain Char
+    description: A sleek dark-green fish the length of a forearm, pale-bellied, with scattered red spots along the flanks.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 3
+    denomination: sp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

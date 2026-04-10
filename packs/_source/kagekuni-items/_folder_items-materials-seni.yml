@@ -1,0 +1,11 @@
+_id: FLMAzTgEoJyW3uQo
+_key: '!folders!FLMAzTgEoJyW3uQo'
+name: 繊維 Sen'i — Fibers
+type: Item
+folder: 8HtK2agQ16imetX1
+sorting: m
+sort: 170
+color: null
+flags:
+  assistant:
+    folderPath: items/materials/seni
