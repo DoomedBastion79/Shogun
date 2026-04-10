@@ -1,7 +1,7 @@
 {
   "moduleId": "assistant",
-  "version": "0.2.4",
-  "generated": "2026-04-10T06:07:21.795Z",
+  "version": "0.2.5",
+  "generated": "2026-04-10T06:10:14.188Z",
   "packs": {
     "classes": [
       {
@@ -293,7 +293,7 @@
                 "slashing"
               ]
             ],
-            "versatile": "1d10 slashing"
+            "versatile": "1d10"
           },
           "range": {
             "value": 5,

@@ -58,7 +58,7 @@ system:
     parts:
       - - 1d8
         - slashing
-    versatile: 1d10 slashing
+    versatile: 1d10
   range:
     value: 5
     long: null
