@@ -1,0 +1,57 @@
+_id: aoc56yxHfVS6qq1f
+_key: '!journal!aoc56yxHfVS6qq1f'
+name: Taikobutsu — Ancient Creatures
+pages:
+  - _id: mahVDZWEJlIRq10A
+    _key: '!journal.pages!mahVDZWEJlIRq10A'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Kagekuni is old. The Progenitor
+        era stretches back over eight millennia, and the land was not empty before the dragons arrived. Occasionally,
+        things surface — literally — that belong to epochs the historical record does not cover.</p>
+
+        <p>Pre-imperial ruins in remote locations sometimes contain guardian constructs that still function: stone
+        figures that animate when specific thresholds are crossed, metal mechanisms that track intruders with eyeless
+        heads, silk-wrapped bundles that unfold into something neither alive nor dead but very much still on duty. These
+        constructs are powered by sei configurations that predate modern understanding, and the fact that they survived
+        the three-thousand-year drought implies engineering of extraordinary sophistication — or materials that store
+        sei in ways current seimasters cannot replicate.</p>
+
+        <p>The founding-era temple complexes were built with a sophistication of sei-integrated construction beyond
+        anything the current era can reproduce. The magic woven into their foundations is not battle magic or
+        enchantment in the conventional sense; it is foundational, structural, as though sei were used as a building
+        material alongside stone and timber. What this implies about the entities that may have been bound into those
+        structures as part of their construction is a question worth considering before entering such places.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: Taikobutsu — Ancient Creatures
+    frontmatter:
+      name: Taikobutsu — Ancient Creatures
+      type: core
+      description: ''

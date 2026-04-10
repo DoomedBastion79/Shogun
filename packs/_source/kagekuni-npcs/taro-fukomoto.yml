@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/taro-fukomoto.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: taro-fukomoto
     linkedJournalId: pQR5C4JfmyeCDwYc
     frontmatter:
@@ -81,7 +81,7 @@ system:
         <p>Renowned for skill AND integrity; approachable; booming laugh; willing to share knowledge with apprentices;
         balances strength with artistry.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No direct contact established. His forge is the most notable establishment in the Kurogane-sho district that
         the party has access to in Heian.</p>

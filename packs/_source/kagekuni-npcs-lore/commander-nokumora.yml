@@ -47,7 +47,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/commander-nokumora.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: commander-nokumora
     frontmatter:
       name: Commander Nokumora

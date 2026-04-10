@@ -1,9 +1,9 @@
-_id: OPK7psC9H8UZFdRn
-_key: '!journal!OPK7psC9H8UZFdRn'
+_id: bOpGneyl1iZ9BpRy
+_key: '!journal!bOpGneyl1iZ9BpRy'
 name: Kaze
 pages:
-  - _id: xRNbDKqT6MpKRMF6
-    _key: '!journal.pages!xRNbDKqT6MpKRMF6'
+  - _id: ykrzCEt06uJ1kLV5
+    _key: '!journal.pages!ykrzCEt06uJ1kLV5'
     name: Known
     type: text
     title:
@@ -163,8 +163,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: Fcc2F3tA7AIJzEab
-    _key: '!journal.pages!Fcc2F3tA7AIJzEab'
+  - _id: aXK0Qj8uwyGF2k1L
+    _key: '!journal.pages!aXK0Qj8uwyGF2k1L'
     name: Discoverable (GM)
     type: text
     title:
@@ -201,8 +201,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: oykMatJztaV8jRV7
-    _key: '!journal.pages!oykMatJztaV8jRV7'
+  - _id: ceuJXvlpe7I8t4ND
+    _key: '!journal.pages!ceuJXvlpe7I8t4ND'
     name: SEALED — GM Only
     type: text
     title:
@@ -284,7 +284,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/kaze.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: kaze
     frontmatter:
       name: Kaze

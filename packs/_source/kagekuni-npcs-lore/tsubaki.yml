@@ -49,7 +49,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/tsubaki.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: tsubaki
     frontmatter:
       name: Tsubaki

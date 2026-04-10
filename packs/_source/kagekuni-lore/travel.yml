@@ -1115,7 +1115,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/travel.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: travel
     frontmatter:
       name: Travel Reference

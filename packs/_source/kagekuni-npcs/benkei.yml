@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/benkei.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: benkei
     linkedJournalId: AxEPHd8zzzGU9DdG
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Guhuza
       sex: M
-      age: 198
-      height: 6'4"
-      weight: 450
       clan: none
       caste: zokumin
       role: Elder Monk, Order of the Tranquil Lotus
@@ -51,6 +48,9 @@ flags:
         - solas-evergreen
         - hideaki-sato
       related_quests: []
+      age: 198
+      height: 6'4\"
+      weight: 450
     hasStatblock: false
 system:
   details:
@@ -86,7 +86,7 @@ system:
 
         <p>Deep wisdom; contemplative; serene; booming voice carrying weight of experience.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Met the party at The Moonlit Garden in Heian. Sun Wukong traveled with Benkei from Kazehama before receiving
         his own assignment. Benkei has things to say to Relc that couldn&#39;t be said with other ears around.</p>

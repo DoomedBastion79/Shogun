@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/oshiro-masahiro.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: oshiro-masahiro
     linkedJournalId: GIiMlyrBXNH18EiT
     frontmatter:
@@ -81,7 +81,7 @@ system:
 
         <p>Stern, meticulous, exudes authority.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Confirmed party ally. Returned the impounded wagon, horses, and treasures after assessing the situation.
         Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are

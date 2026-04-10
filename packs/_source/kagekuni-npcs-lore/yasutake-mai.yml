@@ -67,7 +67,7 @@ pages:
         decision making when the party found her. Behavior under stress and useful skills are undeveloped — flagged for
         development in the DM Notebook.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Traveling with the party. The party offered to take her north through the Tenchūsan Ren to Sunsato on the far
         side, where she might find safety and a new beginning near Relc&#39;s home region. She is currently inside the
@@ -196,7 +196,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/yasutake-mai.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: yasutake-mai
     frontmatter:
       name: Yasutake Mai

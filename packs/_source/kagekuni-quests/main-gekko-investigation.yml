@@ -2,38 +2,6 @@ _id: MUo4e74B3Sa1jI5D
 _key: '!journal!MUo4e74B3Sa1jI5D'
 name: The Clan Gekko Investigation
 pages:
-  - _id: j39YpdR9r8lAHxV1
-    _key: '!journal.pages!j39YpdR9r8lAHxV1'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">kaze-province</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">main</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd
-        data-field="quest-giver">taisho-hideo-nakamura</dd></div></dl><p><em lang="ja-Latn">&quot;An independent clan
-        does not simply go silent. Something happened. Finding out what may change everything.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: nS8oDse5JUuEB3oR
     _key: '!journal.pages!nS8oDse5JUuEB3oR'
     name: Known
@@ -344,7 +312,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/main-gekko-investigation.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: main-gekko-investigation
     frontmatter:
       name: The Clan Gekko Investigation
@@ -365,7 +333,7 @@ flags:
       deadline_type: none
       deadline_date: null
       deadline_consequence: null
-      consequences: null
+      consequences: []
       related_quests:
         - personal-kojiri-misunderstood
         - main-light-of-the-star-mirror

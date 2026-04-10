@@ -67,22 +67,8 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-order-of-the-black-lily"
-        data-section="order-of-the-black-lily">Order of the Black Lily</h3>
-
-        <ul>
-
-        <li>Location: Monastery of the Black Lily, above Akatsuki village, Kaze province</li>
-
-        <li>Kagekuni&#39;s premier infiltration specialists</li>
-
-        <li>Secret training facility; austere dark stone construction</li>
-
-        <li>Villagers of Akatsuki know and say nothing to outsiders</li>
-
-        </ul>
-
-        <h3 id="kg-seiju-hygikai-the-starwood-council" data-section="seiju-hygikai-the-starwood-council">Seiju Hyōgikai
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3
+        id="kg-seiju-hygikai-the-starwood-council" data-section="seiju-hygikai-the-starwood-council">Seiju Hyōgikai
         (星樹評議会 — The Starwood Council)</h3>
 
         <ul>
@@ -127,56 +113,10 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3
-        id="kg-order-of-the-ancient-guard-most-secret-dm-only"
-        data-section="order-of-the-ancient-guard-most-secret-dm-only">Order of the Ancient Guard — MOST SECRET (DM
-        Only)</h3>
-
-        <p><strong>Purpose</strong>: Silent protectors of the living founding dragons; maintain harmony among clans to
-        preserve conditions under which dragons remain safe and hidden.</p>
-
-        <p><strong>Ranks</strong>:</p>
-
-        <ol>
-
-        <li>High Guardian</li>
-
-        <li>Warden</li>
-
-        <li>Sentinel</li>
-
-        <li>Keeper</li>
-
-        <li>Protector</li>
-
-        <li>Initiate</li>
-
-        </ol>
-
-        <p><strong>Operations</strong>: Hidden sanctuaries across Kagekuni; subtle influence; prevent any single power
-        from dominating; bound by solemn oath.</p>
-
-        <p><strong>Known Members</strong>:</p>
-
-        <ul>
-
-        <li><strong>Benkei</strong> — Elder, Order of the Tranquil Lotus (public); rank within Ancient Guard TBD</li>
-
-        <li><strong>Solas Evergreen</strong> — Guardian, Order of the Sacred Grove (public); DECEASED; rank likely
-        Protector or higher</li>
-
-        </ul>
-
-        <p><strong>Critical Implication</strong>: Solas&#39;s murder = someone killed a member of the order protecting
-        the dragons. Scope of threat unknown.</p>
-
-        <ul>
-
+      content: |-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><ul>
         <li><strong>This is where the truth about Clan Gekkō/Nagaji will be revealed</strong></li>
-
         </ul>
-
         </section>
       markdown: ''
     video:
@@ -195,7 +135,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/organizations.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: organizations
     frontmatter:
       name: Organizations & Factions

@@ -1,0 +1,78 @@
+_id: 4l8nf0T0MamJrmkh
+_key: '!journal!4l8nf0T0MamJrmkh'
+name: 02-the-world-of-seizan
+pages:
+  - _id: n3H4Kc1Gjki0SNfu
+    _key: '!journal.pages!n3H4Kc1Gjki0SNfu'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>The world of
+        <strong>Seizan</strong> exists within the <strong>Miyosai system</strong> — a trinary stellar system governed by
+        three stars, orbited by seven planets, and watched over by four moons. It is a world where magic energy called
+        <strong>sei</strong> flows through all living things, shaped and amplified by the celestial bodies that wheel
+        overhead.</p>
+
+        <p>The archipelago of <strong>Kagekuni</strong> — the Shrouded Isles — sits within the <strong>Raijin no
+        Fukai</strong> sea, shaped by competing celestial influences and the restless geology beneath its shores.
+        Earthquakes, tsunamis, typhoons, and volcanic eruptions are regular features of life here, not catastrophes to
+        be survived but rhythms to be understood. Architecture, agriculture, and culture have all adapted to a world
+        that moves.</p>
+
+        <p>Above, the three stars of the Miyosai system trace their ancient paths. Their movements drive named
+        astrological events that overlay the standard four seasons, influencing weather, tides, the flow of sei, and the
+        behavior of the spirit world. The four moons compound these effects — their own cycles creating tidal patterns,
+        omen windows, and subtle magical resonance that those attuned to sei can feel in their bones.</p>
+
+        <p>Seven planets share the system, each with its own character and influence. From molten Akahoshi burning close
+        to Amaterasu to distant Yamiyo trailing in permanent shadow, the planetary family marks time on scales both
+        human and cosmic.</p>
+
+        <p>The people of Kagekuni have watched these skies for millennia. Their calendar, their festivals, their
+        understanding of magic and the natural world — all of it is rooted in the dance of light above them. What
+        follows is what is known of that dance.</p>
+
+        <section class="secret">
+
+
+        <h3 id="kg-dm-note-the-great-aphelion" data-section="dm-note-the-great-aphelion">DM Note — The Great
+        Aphelion</h3>
+
+        <p>The Miyosai system&#39;s three stars orbit a common barycenter on independent orbital inclinations. Once in
+        recorded history, all three reached maximum mutual distance simultaneously — the <strong>Great Aphelion</strong>
+        (<del>14344). This event caused the sei drought and the dark ages (</del>12806–~15883). The connection between
+        stellar position and sei availability is the campaign&#39;s deepest cosmological secret. No living scholar has
+        assembled the complete picture. See the individual section entries for details on how this manifests in each
+        celestial body&#39;s behavior.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 02-the-world-of-seizan
+    frontmatter:
+      name: 02-the-world-of-seizan
+      type: core
+      description: ''

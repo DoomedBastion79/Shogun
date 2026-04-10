@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/hiroshi-nakamura.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: hiroshi-nakamura
     linkedJournalId: VrETjkgf1vHEhCmN
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 47
-      height: 6'0"
-      weight: 190
       clan: kaminari
       caste: kugai
       role: Taisho; Shugo (Governor) of Heian
@@ -51,6 +48,9 @@ flags:
         - hideo-nakamura
         - raijin-no-kazuhiko
       related_quests: []
+      age: 47
+      height: 6'0\"
+      weight: 190
     hasStatblock: false
 system:
   details:
@@ -86,7 +86,7 @@ system:
         <p>Calm, peace-loving, nature-appreciating, wise mediator. His warmth makes him trusted by nearly everyone —
         including his brother Hideo.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
         interact with.</p>

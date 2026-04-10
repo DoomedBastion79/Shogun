@@ -62,7 +62,7 @@ pages:
 
         <p>Stoic, disciplined; fierce loyalty; strong sense of justice.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Arrested Ko&#39;jiri in Kikyo before the situation was resolved by Ren Nakamura&#39;s offer of the Summons
         and Conditional Pardon. Their initial interaction was adversarial but professional. Can become a staunch ally to
@@ -179,7 +179,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/haruto-masashige.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: haruto-masashige
     frontmatter:
       name: Haruto Masashige
@@ -188,9 +188,6 @@ flags:
       status: active
       race: Dragonborn (Gold)
       sex: M
-      age: 40
-      height: 6'3"
-      weight: 250
       clan: kaminari
       caste: zokumin
       role: Captain of the Guard, Kikyo
@@ -208,3 +205,6 @@ flags:
       related_npcs:
         - ren-nakamura
       related_quests: []
+      age: 40
+      height: 6'3\"
+      weight: 250

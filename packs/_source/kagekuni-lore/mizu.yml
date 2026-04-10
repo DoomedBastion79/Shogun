@@ -1,9 +1,9 @@
-_id: thSFgEqib3Xvo9Zz
-_key: '!journal!thSFgEqib3Xvo9Zz'
+_id: MLJk1KAijasQiUgh
+_key: '!journal!MLJk1KAijasQiUgh'
 name: Mizu
 pages:
-  - _id: DaKsjMkhiQAG2JaQ
-    _key: '!journal.pages!DaKsjMkhiQAG2JaQ'
+  - _id: 4t0XMbH0OTYNppxi
+    _key: '!journal.pages!4t0XMbH0OTYNppxi'
     name: Known
     type: text
     title:
@@ -147,8 +147,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: T1KCvPChS0QPYqeT
-    _key: '!journal.pages!T1KCvPChS0QPYqeT'
+  - _id: iapBpZEXFFaVbH2u
+    _key: '!journal.pages!iapBpZEXFFaVbH2u'
     name: Discoverable (GM)
     type: text
     title:
@@ -182,8 +182,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: HJGV3N31NQBnnLEd
-    _key: '!journal.pages!HJGV3N31NQBnnLEd'
+  - _id: znDcRhK5pfa2SPOy
+    _key: '!journal.pages!znDcRhK5pfa2SPOy'
     name: SEALED — GM Only
     type: text
     title:
@@ -246,7 +246,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/mizu.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: mizu
     frontmatter:
       name: Mizu

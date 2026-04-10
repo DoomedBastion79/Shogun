@@ -14,11 +14,10 @@ pages:
       format: 1
       content: >-
         <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">canonical</dd></div></dl><p><em lang="ja-Latn">This
-        document establishes the canonical timeline of the sei drought and Great Aphelion, the orbital mechanics of the
-        Miyosai trinary system, and the orrery projection sequence as observed through the Hoshikagami no Ma. Content
-        here supersedes or supplements existing entries in world.md, magic.md, and mechanical-arcane-orrery.md.</em></p>
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p><em lang="ja-Latn">This document
+        establishes the canonical timeline of the sei drought and Great Aphelion, the orbital mechanics of the Miyosai
+        trinary system, and the orrery projection sequence as observed through the Hoshikagami no Ma. Content here
+        supersedes or supplements existing entries in world.md, magic.md, and mechanical-arcane-orrery.md.</em></p>
 
         <hr>
 
@@ -368,7 +367,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/great-aphelion.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: great-aphelion
     frontmatter:
       name: The Great Aphelion
@@ -376,12 +375,3 @@ flags:
       description: >-
         Canonical timeline of the sei drought, Miyosai trinary orbital mechanics, individual star profiles, and orrery
         projection sequence
-      status: canonical
-      tags:
-        - great-aphelion
-        - sei
-        - orrery
-        - miyosai-system
-        - dark-ages
-        - timeline
-        - tenkuji-temple

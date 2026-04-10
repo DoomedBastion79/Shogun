@@ -1,9 +1,9 @@
-_id: 0BP22RJbOxnAxmou
-_key: '!journal!0BP22RJbOxnAxmou'
+_id: Kw4BYanOYTJc22Py
+_key: '!journal!Kw4BYanOYTJc22Py'
 name: Hi
 pages:
-  - _id: QRk0UFfkl1l9l01N
-    _key: '!journal.pages!QRk0UFfkl1l9l01N'
+  - _id: zUNOl8CCeXznSRTM
+    _key: '!journal.pages!zUNOl8CCeXznSRTM'
     name: Known
     type: text
     title:
@@ -164,8 +164,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: RyExY8tSNtDcRcpQ
-    _key: '!journal.pages!RyExY8tSNtDcRcpQ'
+  - _id: LLPztQgQs71hDnD0
+    _key: '!journal.pages!LLPztQgQs71hDnD0'
     name: Discoverable (GM)
     type: text
     title:
@@ -199,8 +199,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: bhknTHq6Jq8kXNfk
-    _key: '!journal.pages!bhknTHq6Jq8kXNfk'
+  - _id: JLxD7rcVlJrT7QPq
+    _key: '!journal.pages!JLxD7rcVlJrT7QPq'
     name: SEALED — GM Only
     type: text
     title:
@@ -273,7 +273,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/hi.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: hi
     frontmatter:
       name: Hi

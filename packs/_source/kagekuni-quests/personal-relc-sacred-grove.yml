@@ -2,38 +2,6 @@ _id: gn2nrvAov60kvh04
 _key: '!journal!gn2nrvAov60kvh04'
 name: Shadows of the Sacred Grove
 pages:
-  - _id: fGLvcWX4UaedsP0t
-    _key: '!journal.pages!fGLvcWX4UaedsP0t'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">koriwara</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">personal</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">solas-evergreen</dd></div></dl><p><em
-        lang="ja-Latn">&quot;He knew what was coming. He chose to face it anyway. Now he is asking you to face it for
-        him.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: ExZdaUmkhknf5LKl
     _key: '!journal.pages!ExZdaUmkhknf5LKl'
     name: Known
@@ -278,7 +246,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/personal-relc-sacred-grove.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: personal-relc-sacred-grove
     frontmatter:
       name: Shadows of the Sacred Grove
@@ -296,7 +264,7 @@ flags:
       deadline_type: none
       deadline_date: null
       deadline_consequence: null
-      consequences: null
+      consequences: []
       related_quests:
         - main-gekko-investigation
         - main-light-of-the-star-mirror

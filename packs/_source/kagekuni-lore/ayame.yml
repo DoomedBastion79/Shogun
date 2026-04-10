@@ -1,9 +1,9 @@
-_id: 3547LGTcup50JPNu
-_key: '!journal!3547LGTcup50JPNu'
+_id: fd1TGgk4t5ud89NX
+_key: '!journal!fd1TGgk4t5ud89NX'
 name: Ayame
 pages:
-  - _id: xGRjTyBVJP8sVpff
-    _key: '!journal.pages!xGRjTyBVJP8sVpff'
+  - _id: JV6DYXk3DQHrdNyB
+    _key: '!journal.pages!JV6DYXk3DQHrdNyB'
     name: Overview
     type: text
     title:
@@ -30,8 +30,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: N6HlhlSFHQeASxlj
-    _key: '!journal.pages!N6HlhlSFHQeASxlj'
+  - _id: mBJTdMIBOVhOHcFO
+    _key: '!journal.pages!mBJTdMIBOVhOHcFO'
     name: Known
     type: text
     title:
@@ -111,8 +111,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: 89pCByXcxUT4cCXK
-    _key: '!journal.pages!89pCByXcxUT4cCXK'
+  - _id: UorzyzRbX27UYn0P
+    _key: '!journal.pages!UorzyzRbX27UYn0P'
     name: Discoverable (GM)
     type: text
     title:
@@ -145,8 +145,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: GUxYsgnOarqlsB7M
-    _key: '!journal.pages!GUxYsgnOarqlsB7M'
+  - _id: C2ZUOK2kzrzTK2Zu
+    _key: '!journal.pages!C2ZUOK2kzrzTK2Zu'
     name: SEALED — GM Only
     type: text
     title:
@@ -209,7 +209,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/ayame.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: ayame
     frontmatter:
       name: Ayame

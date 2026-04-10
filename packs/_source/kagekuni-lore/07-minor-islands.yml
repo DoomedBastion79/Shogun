@@ -1,0 +1,107 @@
+_id: vyqse7VVACOmlDNl
+_key: '!journal!vyqse7VVACOmlDNl'
+name: 07-minor-islands
+pages:
+  - _id: bksqX4y3SfOnlSn4
+    _key: '!journal.pages!bksqX4y3SfOnlSn4'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Beyond the five major islands,
+        the Kagekuni archipelago is scattered with smaller landmasses — some inhabited, some sacred, some simply too
+        small or remote to support permanent settlement. The waters between them are shaped by the complex tidal
+        patterns of four moons, and the currents that connect them serve as trade routes, pilgrimage paths, and, for
+        those with reason to disappear, refuges.</p>
+
+        <h2 id="kg-unmeijima-island-of-destiny" data-section="unmeijima-island-of-destiny">Unmeijima — Island of
+        Destiny</h2>
+
+        <p>Unmeijima is the most significant of the minor islands — home to the city of <strong>Seishin</strong>, the
+        premier magical research institution in the archipelago. Seishin was founded during the Era of Subtle Awakening
+        as a refuge for persecuted Talents — individuals born with innate magical ability in a world that had forgotten
+        magic existed. What began as a sanctuary grew into a city, and the Seishin Enclave is now the most important
+        centre of sei scholarship in Kagekuni.</p>
+
+        <p>The town of <strong>Kazehama</strong> also occupies the island, along with the monastery of the <strong>Order
+        of the Tranquil Lotus</strong> — a nature-based monastic order led by Elder Benkei, a Guhuza of 198 years.</p>
+
+        <h2 id="kg-fuukajima" data-section="fuukajima">Fuukajima</h2>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Fuukajima details to be developed. Known to be associated with cold
+        winds and northern currents.&gt;</em></p>
+
+        <section class="secret">
+
+
+        <h4 id="kg-dm-note" data-section="dm-note">DM Note</h4>
+
+        <p>Fuukajima is home to <strong>Ginryū</strong> (Silver Dragon) — domain of grace, ice, moon, and stars. The
+        dragon is alive and slumbering on or within the island.</p>
+
+        </section>
+
+
+        <h2 id="kg-shizukajima" data-section="shizukajima">Shizukajima</h2>
+
+        <p>A quiet island, rarely visited, with little to recommend it to traders or settlers. Its name means
+        &quot;quiet island,&quot; and those who have been there report that the name is accurate — an unusual stillness
+        that is not quite peaceful and not quite unsettling.</p>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Shizukajima details to be developed&gt;</em></p>
+
+        <section class="secret">
+
+
+        <h4 id="kg-dm-note-critical" data-section="dm-note-critical">DM Note — CRITICAL</h4>
+
+        <p>Shizukajima is the home of <strong>Murasakiryū</strong> (Amethyst Dragon) — the campaign&#39;s deepest
+        secret. Murasakiryū is <strong>AWAKE</strong>, deliberately woken by dark mortals who believed they were
+        awakening Kokuryū. The dragon actively masquerades as Kokuryū to conceal its identity. The Great Awakening
+        (~16687) was the consequence of Murasakiryū&#39;s waking — every sei user in Kagekuni draws power through its
+        awareness. The island&#39;s unusual stillness is a side effect of the dragon&#39;s waking presence.</p>
+
+        </section>
+
+
+        <h2 id="kg-other-minor-islands" data-section="other-minor-islands">Other Minor Islands</h2>
+
+        <p>The remaining minor islands — <strong>Gyoshima</strong>, <strong>Kakujima</strong>,
+        <strong>Shukajima</strong>, <strong>Ryūhajima</strong>, <strong>Takarajima</strong>, and others — are referenced
+        in navigational charts and historical texts but remain largely undeveloped in the current record. Some support
+        fishing communities. Some are sacred sites visited only during specific festivals or lunar alignments. Some are
+        simply rocks in the sea, named by sailors who needed a word for a landmark.</p>
+
+        <p><em lang="ja-Latn">&lt;placeholder — individual minor island details to be developed as campaign needs
+        dictate&gt;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 07-minor-islands
+    frontmatter:
+      name: 07-minor-islands
+      type: core
+      description: ''

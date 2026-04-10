@@ -1,0 +1,237 @@
+_id: iwUaz9gx9cpcESdw
+_key: '!journal!iwUaz9gx9cpcESdw'
+name: 05-the-seasons
+pages:
+  - _id: Q1NjT3br8AonVc4F
+    _key: '!journal.pages!Q1NjT3br8AonVc4F'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Seizan experiences four standard
+        seasons that mirror the familiar cycle of spring, summer, autumn, and winter. These provide the foundational
+        rhythm of agricultural life, festivals, and daily existence across Kagekuni. Overlaying these are the
+        astrological events driven by the Miyosai trinary system — celestial phenomena that alter weather, tides, the
+        flow of sei, and the behaviour of the natural and spirit worlds.</p>
+
+        <h2 id="kg-the-four-seasons" data-section="the-four-seasons">The Four Seasons</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Season</th>
+
+        <th>Name</th>
+
+        <th>Months</th>
+
+        <th>Character</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Spring</strong></td>
+
+        <td>Haru (春)</td>
+
+        <td>Yayoi, Uzuki, Satsuki</td>
+
+        <td>New growth pushes through indigo grass. Rivers swell with snowmelt and glow faintly at night. The air
+        carries the scent of blossoms — and, in sei-rich areas, of incense without a source. Planting season begins.
+        Spirits stir.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Summer</strong></td>
+
+        <td>Natsu (夏)</td>
+
+        <td>Minazuki, Fumizuki, Hazuki</td>
+
+        <td>Heat settles over the islands. Monsoons sweep in from the Raijin no Fukai, bringing floods and storms that
+        test coastal defences. The bronze-barked trees of Seidōrin Mori ring faintly in the humid wind. Sei flows
+        strongly — summer is peak season for magical work, martial training, and the festivals that mark the height of
+        the year.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Autumn</strong></td>
+
+        <td>Aki (秋)</td>
+
+        <td>Nagatsuki, Kannazuki, Shimotsuki</td>
+
+        <td>The harvest. Violet grasses darken to near-black. Crystal-barked trees chime in cooling winds. The spirit
+        world presses closer — autumn is when the boundary thins, when ancestors visit, and when the great observances
+        of remembrance and gratitude are held. Tatsunami tidal convergences typically begin in late Aki.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Winter</strong></td>
+
+        <td>Fuyu (冬)</td>
+
+        <td>Shiwasu, Mutsuki, Kisaragi</td>
+
+        <td>Cold descends from the northern mountains. Snow blankets the highlands while lowland rivers slow and darken.
+        Luminescent mists gather during Shinmyōji. Winter is the season of endurance, of stories told by firelight, and
+        of debts settled before the new year. Kawa&#39;s lowlands emerge from beneath retreating waters.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-astrological-overlays" data-section="astrological-overlays">Astrological Overlays</h2>
+
+        <p>The astrological events of the Miyosai system are not seasons in their own right — they are recurring
+        celestial phenomena that overlay the standard four seasons, sometimes reinforcing their character and sometimes
+        disrupting it. A Nagorikaze event during summer intensifies the monsoons; the same event during winter creates
+        eerie blue-white frost patterns and unseasonal coastal surges.</p>
+
+        <h3 id="kg-solar-events" data-section="solar-events">Solar Events</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Event</th>
+
+        <th>Driven By</th>
+
+        <th>Effects on the Seasons</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Nagorikaze</strong></td>
+
+        <td>Susanoo&#39;s close approach</td>
+
+        <td>Ghost rainbows and blue-white atmospheric phenomena. Water magic intensifies. Weather becomes more volatile
+        — storms strengthen, rainfall increases, coastal waters surge. The effect compounds whatever season it
+        overlays.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Long Shadow</strong></td>
+
+        <td>Tsukuyomi at maximum distance</td>
+
+        <td>Transformation magic weakens. Shadows stretch, split, or move against the light. An unsettling quality
+        pervades the landscape — things feel slightly wrong without being identifiably so. Shapeshifters and
+        illusionists struggle; mundane craftspeople report tools behaving oddly.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Shinmyōji</strong></td>
+
+        <td>Kōrigami at peak influence</td>
+
+        <td>Luminescent mists settle over Kagekuni. Winter severity increases. Even during autumn or early spring,
+        Shinmyōji brings a cold that cuts deeper than temperature — a cold that feels ancient and patient.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-lunar-events" data-section="lunar-events">Lunar Events</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Event</th>
+
+        <th>Driven By</th>
+
+        <th>Effects on the Seasons</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Tatsunami</strong></td>
+
+        <td>Four-moon alignment convergence</td>
+
+        <td>Destructive tidal surges and coastal flooding. Navigation becomes hazardous. Typically occurs late Aki
+        through mid-Haru — the colder half of the year, when communities are already hunkering down. Preparation begins
+        months in advance; harbour towns board their seawalls and relocate stores to higher ground.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Hikarishō</strong></td>
+
+        <td>Ryūgetsu full phase alignment</td>
+
+        <td>Celestial dragon auroras ripple across the sky. Sei amplification across all disciplines — practitioners
+        report heightened sensitivity, increased range, and unpredictable surges. Spirit activity increases markedly.
+        Considered the most auspicious event in the celestial calendar; ceremonies, weddings, and oaths sworn under
+        Hikarishō carry special weight.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Additional astrological events exist but are less commonly named or studied. The interactions between solar
+        and lunar events — a Nagorikaze coinciding with Tatsunami, for instance — produce compounded effects that exceed
+        what either generates alone. Seimasters at Seishin maintain observational records tracking these overlaps and
+        their consequences.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 05-the-seasons
+    frontmatter:
+      name: 05-the-seasons
+      type: core
+      description: ''

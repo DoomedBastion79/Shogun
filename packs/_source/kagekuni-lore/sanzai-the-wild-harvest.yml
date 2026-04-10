@@ -1,0 +1,113 @@
+_id: ak1iB6pQZmArYQuN
+_key: '!journal!ak1iB6pQZmArYQuN'
+name: Sanzai — The Wild Harvest
+pages:
+  - _id: bhjGWqnSGq6O1jPl
+    _key: '!journal.pages!bhjGWqnSGq6O1jPl'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>The road between cities is long
+        in Kagekuni, and the land provides for those who know how to ask. A traveller with sharp eyes and a steady hand
+        can supplement dried rations with wild game, foraged herbs, cave-grown fungi, and seasonings drawn from the
+        earth itself. A traveller who can also cook — truly cook, not merely char meat over a fire — can turn those
+        ingredients into meals that settle the nerves, warm the bones, and sharpen the senses for what lies ahead.</p>
+
+        <p>The practice is called sanzai — the wild harvest — and it is as old as travel itself. Every province of
+        Hokori offers something different. The volcanic slopes of Hi grow things that would wither in Kusa&#39;s wet
+        lowlands. The mist-shrouded forests of Kaze harbour herbs that have never seen full sunlight. And in places
+        where sei flows close to the surface, the land produces ingredients that carry something more than flavour.</p>
+
+        <hr>
+
+        <h2 id="kg-gathering" data-section="gathering">Gathering</h2>
+
+        <p>Foraging takes time and attention. An hour spent searching — during a rest, while the party travels at a slow
+        pace, or in dedicated downtime — is enough to turn up what the terrain has to offer. What you find depends on
+        where you look, what you know, and how carefully you search.</p>
+
+        <p>Those trained in wilderness survival will recognise edible plants, track game, and distinguish safe fungi
+        from their poisonous cousins. An herbalism kit helps with the finer work of identifying medicinal and aromatic
+        plants. Cook&#39;s utensils grant an instinct for what is worth eating and what is not.</p>
+
+        <p>Rarer ingredients are harder to find — they grow in specific terrain, appear only in certain seasons, or
+        require knowledge of where to look that most travellers simply do not have. The rarest of all are tied to places
+        where sei is active, and a skilled cook who can bring such an ingredient home intact has something worth
+        boasting about.</p>
+
+        <h3 id="kg-hunting" data-section="hunting">Hunting</h3>
+
+        <p>Wild game is plentiful across Hokori, from mountain hares in the Tenchūsan Ren to boar in the forests of Hana
+        and Kaze. Hunting requires tracking and either combat or trapping, followed by the practical work of butchering.
+        Larger animals yield more meat but demand more effort to bring down. Bakemono and yokai are not safe to eat
+        unless someone with specific knowledge says otherwise.</p>
+
+        <h3 id="kg-fishing" data-section="fishing">Fishing</h3>
+
+        <p>Rivers, lakes, and coastlines offer their own harvest. Line and hook is the most common method, though nets,
+        spears, and overnight traps each have their place. Tidal windows, seasonal runs, and water conditions affect
+        what can be caught and where. A fisherman who knows the local waters will always outperform a stranger.</p>
+
+        <hr>
+
+        <h2 id="kg-cooking" data-section="cooking">Cooking</h2>
+
+        <p>A well-prepared meal before rest does more than fill the stomach. Certain combinations of ingredients —
+        prepared with skill and the right knowledge — produce effects that linger into the following day. A warming stew
+        that keeps the mountain cold at bay. A broth that sharpens the senses. A dish so fortifying that the body
+        recovers faster than it should.</p>
+
+        <p>Cooking happens during a long rest. One meal per rest, enough to share with companions. The complexity of the
+        recipe determines how much skill it demands — simple trail food is forgiving, while refined dishes require
+        precision and rare ingredients. A failed attempt wastes the ingredients but causes no harm beyond
+        disappointment. A truly botched effort is best not spoken of.</p>
+
+        <h3 id="kg-recipes" data-section="recipes">Recipes</h3>
+
+        <p>Recipes are not innate. You learn them by finding them — purchased from a cook in a market town, taught by a
+        grateful innkeeper, discovered on a scroll tucked inside an abandoned pack, or carved into the wall of a
+        mountain shrine by someone who thought the knowledge worth preserving. Some recipes are common enough that any
+        competent cook knows them. Others are regional secrets, passed between specific communities. A few are so rare
+        that assembling the complete instructions is an undertaking in itself.</p>
+
+        <h2 id="kg-spoilage" data-section="spoilage">Spoilage</h2>
+
+        <p>Fresh ingredients do not last forever. Meat and fish spoil within a day unless the weather is cold. Herbs
+        keep for two days, fungi for three. Smoking, salting, drying, or pickling extends the life of most ingredients
+        considerably — and with skill, even the rarest of harvests can be brought home from the wilderness intact.</p>
+
+        <hr>
+
+        <p><em lang="ja-Latn">The land provides. Learn where to look.</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: sanzai-the-wild-harvest
+    frontmatter:
+      name: Sanzai — The Wild Harvest
+      type: core
+      description: ''

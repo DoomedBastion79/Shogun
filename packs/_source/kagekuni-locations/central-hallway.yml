@@ -21,30 +21,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: PeO17Q1WHWy3Xpdp
-    _key: '!journal.pages!PeO17Q1WHWy3Xpdp'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p><strong>N-S Corridor:</strong> 20 ft wide, connecting the South Entrance&#39;s tapered northern end to the
         Grand Hall&#39;s double double-doors. Stone walls, unadorned — functional architecture, not ceremonial. The
@@ -84,31 +63,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: cBX2Op1gQPFvnMci
-    _key: '!journal.pages!cBX2Op1gQPFvnMci'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
-        data-section="discoveries">Discoveries</h3>
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
 
         <ul>
 
@@ -141,31 +98,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: UYO8GHgj6xR4uw2Z
-    _key: '!journal.pages!UYO8GHgj6xR4uw2Z'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
-        data-section="encounters">Encounters</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
 
         <p><em lang="ja-Latn">(No dedicated encounters in the hallway. Patrol Nagaji from the Grand Hall use this space
         as a transit route. The center intersection is a likely meeting point if the party moves noisily.)</em></p>
@@ -194,9 +129,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -204,17 +139,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/central-hallway.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: central-hallway
     frontmatter:
       name: Central Hallway Cross — Watariro
       type: location
-      location_type: dungeon-room
+      locationType: dungeon-room
       parent: tenkuji-temple/floor-1
-      floor: 1
-      room_number: 0
+      floor: '1'
+      roomNumber: '0'
       island: hokori
       province: hana
       status: active

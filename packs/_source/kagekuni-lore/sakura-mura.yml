@@ -1,9 +1,9 @@
-_id: LidIo2Lk6vOC4jOP
-_key: '!journal!LidIo2Lk6vOC4jOP'
+_id: 4eQEIEpIE7lIHyDq
+_key: '!journal!4eQEIEpIE7lIHyDq'
 name: Sakura Mura
 pages:
-  - _id: jANs9CnjsHkVAid7
-    _key: '!journal.pages!jANs9CnjsHkVAid7'
+  - _id: i6j1c1DxXppDN0BR
+    _key: '!journal.pages!i6j1c1DxXppDN0BR'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: 9m09qWP0zn9IFdmx
-    _key: '!journal.pages!9m09qWP0zn9IFdmx'
+  - _id: bC1sr89kh965bI1a
+    _key: '!journal.pages!bC1sr89kh965bI1a'
     name: Known
     type: text
     title:
@@ -81,8 +81,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: jSFpQ5j9UbWqhb1l
-    _key: '!journal.pages!jSFpQ5j9UbWqhb1l'
+  - _id: WL3RS8dW7Cbt5daQ
+    _key: '!journal.pages!WL3RS8dW7Cbt5daQ'
     name: Discoverable (GM)
     type: text
     title:
@@ -113,8 +113,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: PdG0n8vl336kk9PW
-    _key: '!journal.pages!PdG0n8vl336kk9PW'
+  - _id: jzyY128A3aXS4GqP
+    _key: '!journal.pages!jzyY128A3aXS4GqP'
     name: SEALED — GM Only
     type: text
     title:
@@ -171,7 +171,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/sakura-mura.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: sakura-mura
     frontmatter:
       name: Sakura Mura

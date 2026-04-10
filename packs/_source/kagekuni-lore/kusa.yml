@@ -1,9 +1,9 @@
-_id: bYeThhref2xkuqbU
-_key: '!journal!bYeThhref2xkuqbU'
+_id: pGJ1frab9rD23hhN
+_key: '!journal!pGJ1frab9rD23hhN'
 name: Kusa
 pages:
-  - _id: ae766SclbfDOrGh0
-    _key: '!journal.pages!ae766SclbfDOrGh0'
+  - _id: 6pWQfu6Uem8BFdSf
+    _key: '!journal.pages!6pWQfu6Uem8BFdSf'
     name: Known
     type: text
     title:
@@ -151,8 +151,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: J5i8luoXykFkDDUu
-    _key: '!journal.pages!J5i8luoXykFkDDUu'
+  - _id: vmAAE90bHwAehQeB
+    _key: '!journal.pages!vmAAE90bHwAehQeB'
     name: Discoverable (GM)
     type: text
     title:
@@ -185,8 +185,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: iy46FLZ2CwHECx9U
-    _key: '!journal.pages!iy46FLZ2CwHECx9U'
+  - _id: 2mztrLXo87ddGBXm
+    _key: '!journal.pages!2mztrLXo87ddGBXm'
     name: SEALED — GM Only
     type: text
     title:
@@ -245,7 +245,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/kusa.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: kusa
     frontmatter:
       name: Kusa

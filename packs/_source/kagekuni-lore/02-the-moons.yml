@@ -1,0 +1,436 @@
+_id: IzkQTBsmnP5D2tdK
+_key: '!journal!IzkQTBsmnP5D2tdK'
+name: 02-the-moons
+pages:
+  - _id: hw5l1xj4aGURNaBv
+    _key: '!journal.pages!hw5l1xj4aGURNaBv'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Four moons orbit Seizan directly,
+        each with its own character, orbit, and influence on the world below. Together they are called <strong>The
+        Sisters&#39; Tears</strong> — a name whose origin has been lost to time, though folk tales offer a dozen
+        contradictory explanations. Their combined gravitational pull creates complex tidal patterns that shape coastal
+        life, maritime navigation, and the rhythms of agriculture across Kagekuni. Beyond the physical, the moons carry
+        a subtler influence — secondary sei signatures that interact with the stellar field in ways that seimasters
+        study but do not fully understand.</p>
+
+        <h2 id="kg-aokiba-the-blue-fang" data-section="aokiba-the-blue-fang">Aokiba — The Blue Fang</h2>
+
+        <p><strong>Translation:</strong> Blue Fang
+
+        <strong>Orbital Period:</strong> 17 days
+
+        <strong>Character:</strong> Crystalline in appearance with an elliptical orbit that brings it dramatically close
+        to Seizan at perigee. When near, its surface catches Susanoo&#39;s blue-white light and scatters it — the moon
+        appears to have teeth, jagged edges of refracted brilliance that give it its name. The shortest cycle of the
+        four — Aokiba waxes and wanes faster than some journeys take to complete.
+
+        <strong>Notable Influence:</strong> Aokiba drives the most violent tidal surges, particularly during
+        <strong>Tatsunami</strong> — the four-moon alignment convergence. Coastal communities track its orbit with the
+        same urgency that mountain villages track avalanche seasons. Sailors consider its close approach a navigation
+        hazard; harbormasters adjust schedules around it.</p>
+
+        <h2 id="kg-kagetsu-the-shadow-moon" data-section="kagetsu-the-shadow-moon">Kagetsu — The Shadow Moon</h2>
+
+        <p><strong>Translation:</strong> Shadow Moon
+
+        <strong>Orbital Period:</strong> 33 days
+
+        <strong>Character:</strong> The largest of the four moons. Kagetsu absorbs light rather than reflecting it — a
+        dark presence against the night sky, visible primarily by the stars it occludes and the faint luminous halo that
+        surrounds it at full phase. It dominates the sky not through brightness but through absence. Its cycle runs
+        slightly longer than a calendar month, so its full face drifts across the seasons — never quite falling on the
+        same date twice in succession.
+
+        <strong>Notable Influence:</strong> Dreams experienced under Kagetsu&#39;s full face carry mystical
+        significance. Diviners, spirit-speakers, and those who work with the dream-world time their practices to its
+        cycle. Common folk avoid sleeping in direct moonlight when Kagetsu is full — not from superstition, but from the
+        unsettling vividness of the dreams that follow.</p>
+
+        <h2 id="kg-nagikumo-the-gentle-cloud" data-section="nagikumo-the-gentle-cloud">Nagikumo — The Gentle Cloud</h2>
+
+        <p><strong>Translation:</strong> Gentle Cloud
+
+        <strong>Orbital Period:</strong> 23 days
+
+        <strong>Character:</strong> The smallest of the four moons, yet it appears disproportionately large in the sky —
+        an optical quality that astronomers at Seishin have debated for centuries without resolution. Nagikumo carries a
+        soft inner glow, a perpetual luminescence that persists even when the moon passes through Seizan&#39;s shadow.
+        It never fully darkens. Its three-week rhythm gives it a steady, reassuring cadence — the most intuitive of the
+        four cycles to track without instruments.
+
+        <strong>Notable Influence:</strong> Tranquility. Nagikumo&#39;s presence in the sky is associated with calm
+        weather, settled seas, and restful sleep. Healers note that patients recover more steadily during its visible
+        phases. Whether this is sei influence or cultural expectation is a matter of ongoing scholarly argument.</p>
+
+        <h2 id="kg-rygetsu-the-dragon-moon" data-section="rygetsu-the-dragon-moon">Ryūgetsu — The Dragon Moon</h2>
+
+        <p><strong>Translation:</strong> Dragon Moon
+
+        <strong>Orbital Period:</strong> 41 days
+
+        <strong>Character:</strong> The most complex orbit of the four — Ryūgetsu&#39;s path is gravitationally linked
+        to the outer planet Shizukanami, creating a resonance that makes its position difficult to predict without
+        sophisticated calculation. Its surface shifts color depending on which stellar light dominates: golden under
+        Amaterasu alone, tinged blue when Susanoo is ascendant, deepening to wine-red under Tsukuyomi&#39;s influence.
+        Its long, irregular cycle means weeks pass between phase changes — the color of Ryūgetsu shifts so gradually
+        that only attentive observers notice the transition.
+
+        <strong>Notable Influence:</strong> Ryūgetsu periodically enters what observers call <strong>Dragon&#39;s
+        Rest</strong> — auspicious pauses in its orbital motion where it appears to hover. These pauses are considered
+        favorable for weather magic, spirit communication, and ceremonial work. During the astrological event
+        <strong>Hikarishō</strong>, Ryūgetsu&#39;s full phase alignment produces celestial auroras — curtains of light
+        that ripple across the sky in colours that echo the dragon&#39;s own shifting surface.</p>
+
+        <h2 id="kg-lunar-astrological-events" data-section="lunar-astrological-events">Lunar Astrological Events</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Event</th>
+
+        <th>Celestial Cause</th>
+
+        <th>Effects</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Tatsunami</strong></td>
+
+        <td>Four-moon alignment convergence</td>
+
+        <td>Destructive tidal surges; coastal flooding; navigation hazards. Typically occurs late Aki through mid-Haru.
+        Coastal settlements prepare months in advance.</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Hikarishō</strong></td>
+
+        <td>Ryūgetsu full phase alignment</td>
+
+        <td>Celestial dragon auroras fill the sky; sei amplification across all disciplines; spirit activity increases
+        markedly. Considered the most auspicious astronomical event in the calendar.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-orbital-periods-summary" data-section="orbital-periods-summary">Orbital Periods Summary</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Moon</th>
+
+        <th>Cycle</th>
+
+        <th>Character</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Aokiba</strong></td>
+
+        <td>17 days</td>
+
+        <td>Fastest — urgent, volatile, coastal hazard</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Nagikumo</strong></td>
+
+        <td>23 days</td>
+
+        <td>Steady — intuitive rhythm, easiest to track</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Kagetsu</strong></td>
+
+        <td>33 days</td>
+
+        <td>Stately — drifts across the calendar, never predictable to the casual eye</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Ryūgetsu</strong></td>
+
+        <td>41 days</td>
+
+        <td>Longest — slow, contemplative, difficult to calculate</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-conjunction-frequencies" data-section="conjunction-frequencies">Conjunction Frequencies</h2>
+
+        <p>The moons&#39; differing periods produce conjunctions — moments when two or more moons share the same phase
+        position in the sky. These are tracked by astronomers at Seishin and by coastal harbormasters for practical
+        tidal calculation.</p>
+
+        <h3 id="kg-pairwise-conjunctions-two-moons" data-section="pairwise-conjunctions-two-moons">Pairwise Conjunctions
+        (Two Moons)</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Pair</th>
+
+        <th>Frequency</th>
+
+        <th>Approximate Interval</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Aokiba + Nagikumo</td>
+
+        <td>Every 391 days</td>
+
+        <td>~1.1 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Aokiba + Kagetsu</td>
+
+        <td>Every 561 days</td>
+
+        <td>~1.5 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Aokiba + Ryūgetsu</td>
+
+        <td>Every 697 days</td>
+
+        <td>~1.9 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kagetsu + Nagikumo</td>
+
+        <td>Every 759 days</td>
+
+        <td>~2.1 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Nagikumo + Ryūgetsu</td>
+
+        <td>Every 943 days</td>
+
+        <td>~2.6 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kagetsu + Ryūgetsu</td>
+
+        <td>Every 1,353 days</td>
+
+        <td>~3.7 years</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Pairwise conjunctions are common enough that most people witness several in a lifetime. Each pairing carries
+        its own astrological character — Aokiba–Nagikumo conjunctions are considered stabilizing (the Fang&#39;s
+        violence tempered by the Cloud&#39;s calm), while Kagetsu–Ryūgetsu conjunctions are deeply ominous (shadow and
+        dragon, stillness and complexity).</p>
+
+        <h3 id="kg-triple-conjunctions-three-moons" data-section="triple-conjunctions-three-moons">Triple Conjunctions
+        (Three Moons)</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Trio</th>
+
+        <th>Frequency</th>
+
+        <th>Approximate Interval</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Aokiba + Kagetsu + Nagikumo</td>
+
+        <td>Every 12,903 days</td>
+
+        <td>~35 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Aokiba + Nagikumo + Ryūgetsu</td>
+
+        <td>Every 16,031 days</td>
+
+        <td>~44 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Aokiba + Kagetsu + Ryūgetsu</td>
+
+        <td>Every 23,001 days</td>
+
+        <td>~63 years</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kagetsu + Nagikumo + Ryūgetsu</td>
+
+        <td>Every 31,119 days</td>
+
+        <td>~85 years</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Triple conjunctions are once-in-a-lifetime events. The rarest — Kagetsu, Nagikumo, and Ryūgetsu aligning
+        without Aokiba — occurs roughly once every 85 years. Entire generations of astronomers may dedicate their
+        careers to predicting and documenting a single triple conjunction.</p>
+
+        <h3 id="kg-full-conjunction-tatsunami" data-section="full-conjunction-tatsunami">Full Conjunction —
+        Tatsunami</h3>
+
+        <p><strong>All four moons align every 529,023 days — approximately once every 1,448 years.</strong></p>
+
+        <p>A true Tatsunami is not a storm but a convergence so rare that most civilizations experience it only once, if
+        at all. The tidal forces compound catastrophically; the sei amplification reaches levels that no living
+        seimaster has experienced. Historical records from Seishin describe the last full conjunction in fragmentary,
+        reverential terms — the ocean withdrew beyond the horizon before returning as a wall of luminescent water, and
+        sei-sensitive individuals reported hearing the world itself vibrate like a struck bell.</p>
+
+        <section class="secret">
+
+
+        <h3 id="kg-dm-note-tatsunami-frequency-and-campaign-history"
+        data-section="dm-note-tatsunami-frequency-and-campaign-history">DM Note — Tatsunami Frequency and Campaign
+        History</h3>
+
+        <p>At ~1,448 years between full alignments, there have been roughly 11 true Tatsunami events since the founding
+        year (year 0 of the Kagekuni calendar, ~16,744 years ago). The most recent would have fallen approximately
+        300–400 years before the current campaign year, placing it within recorded history but beyond living memory. The
+        term &quot;Tatsunami&quot; is used colloquially for any severe multi-moon tidal event (particularly when three
+        moons are in near-alignment), which is why coastal communities treat it as a recurring threat rather than a
+        once-in-a-millennium catastrophe. The true four-moon convergence is something most scholars debate rather than
+        fear.</p>
+
+        </section>
+
+
+        <h2 id="kg-lunar-sei-influence" data-section="lunar-sei-influence">Lunar Sei Influence</h2>
+
+        <p>The moons carry secondary sei signatures — subtler than the stars but meaningful in combination. Scholars at
+        Seishin track three distinct channels of lunar influence:</p>
+
+        <ul>
+
+        <li><strong>Tidal</strong> — Physical effects on water, weather, and geological activity</li>
+
+        <li><strong>Omen</strong> — Divinatory significance; dream potency; spirit-world permeability</li>
+
+        <li><strong>Sei Amplification</strong> — Mild magical resonance that compounds with stellar alignment</li>
+
+        </ul>
+
+        <p>When stellar and lunar alignments coincide, the compounded effects are meaningfully greater than either
+        alone. A Nagorikaze event during a Tatsunami convergence, for instance, produces tidal and magical conditions
+        that exceed what either event generates independently.</p>
+
+        <section class="secret">
+
+
+        <h3 id="kg-dm-note-moons-and-the-great-aphelion" data-section="dm-note-moons-and-the-great-aphelion">DM Note —
+        Moons and the Great Aphelion</h3>
+
+        <p>The four moons orbit Seizan directly and were <strong>not affected by the Great Aphelion</strong>. Their
+        physical tidal influence continued normally throughout the dark ages. However, with two of the three stellar sei
+        sources absent, the moons&#39; secondary sei signatures had nothing to compound with — their amplification
+        channel was effectively inert for ~3,077 years. The return of stellar sei has reactivated lunar resonance, but
+        whether the current lunar sei signatures match their pre-Aphelion intensity is unknown. Seishin&#39;s records do
+        not extend that far back.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 02-the-moons
+    frontmatter:
+      name: 02-the-moons
+      type: core
+      description: ''

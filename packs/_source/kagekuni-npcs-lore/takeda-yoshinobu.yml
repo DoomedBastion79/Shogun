@@ -63,7 +63,7 @@ pages:
         <p>Pragmatic; not deeply allied with any major faction; protects Ayame&#39;s neutrality because it is
         economically important.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No direct contact established. The party passed through Ayame during their transit to the mountains.</p>
 
@@ -117,7 +117,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/takeda-yoshinobu.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: takeda-yoshinobu
     frontmatter:
       name: Takeda Yoshinobu

@@ -221,15 +221,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/locations/tenkuji-temple/overview.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: overview
     frontmatter:
       name: Oryuzan Tenku-ji
       type: location
-      location_type: temple
+      locationType: temple
       island: hokori
       province: hana
-      nearest_settlement: ayame
+      nearestSettlement: ayame
       grid: 182x152
       status: active
       tags:

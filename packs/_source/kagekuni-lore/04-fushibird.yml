@@ -1,0 +1,93 @@
+_id: DrqRHGocSm0kNOra
+_key: '!journal!DrqRHGocSm0kNOra'
+name: 04-fushibird
+pages:
+  - _id: AknCfME4Csx83tXh
+    _key: '!journal.pages!AknCfME4Csx83tXh'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Fushichō burns. The northern
+        island is dominated by the <strong>Hi no Toride</strong> (Fire Fortress) mountain range — a chain of volcanic
+        peaks, some dormant, some merely sleeping, and at least one actively erupting as of Hachigatsu 29, 16744. The
+        <strong>Akaho Sanmyaku</strong> range is currently sending ash high enough to be visible from Hokori&#39;s
+        central mountains, hundreds of miles to the south.</p>
+
+        <p>The island&#39;s terrain is hostile and spectacular — lava fields, fumarole plains, obsidian cliffs, and
+        valleys where thermal vents keep the air warm even in winter. The soil in sheltered valleys between active zones
+        is extraordinarily fertile, enriched by centuries of volcanic deposition, and the communities that farm there
+        produce crops of remarkable quality. But the land gives and takes in equal measure. Settlements on Fushichō are
+        built to be abandoned quickly.</p>
+
+        <h2 id="kg-points-of-interest" data-section="points-of-interest">Points of Interest</h2>
+
+        <p>The <strong>Hi no Toride</strong> mountains are the island&#39;s spine — ancient and geologically violent.
+        The <strong>Akaho Sanmyaku</strong> eruption is ongoing, and its consequences for the settlements and peoples of
+        Fushichō are still unfolding.</p>
+
+        <p>The <strong>Siege of Fushichō</strong> during the War of Fractured Banners was one of that conflict&#39;s
+        most brutal engagements. The island&#39;s defenders used the volcanic terrain itself as a weapon — collapsing
+        lava tubes, redirecting thermal vents, and forcing invading forces through kill zones of natural geological
+        hazard.</p>
+
+        <h2 id="kg-settlements" data-section="settlements">Settlements</h2>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Fushichō settlements to be developed; likely small, resilient
+        communities centred around sheltered valleys and geothermal resources&gt;</em></p>
+
+        <h2 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h2>
+
+        <p>Fushichō has always resisted outside authority. The western territories are home to descendants of the
+        Crimson Clan faction that refused submission to Tenryū no Mikado during the era of imperial unification. These
+        populations are organised into loose tribal confederacies that preserve traditions the rest of the empire has
+        forgotten. They are fiercely territorial and know things about the volcanic highlands that no imperial map
+        captures.</p>
+
+        <p>The island&#39;s primary exports are volcanic minerals, obsidian, and geothermal resources. Its people share
+        the laconic practicality of Hi province on Hokori — unsurprising, given the shared geological character.</p>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Fushichō governance, inter-island trade, and specific cultural practices
+        to be developed&gt;</em></p>
+
+        <section class="secret">
+
+
+        <h4 id="kg-dm-note-fushich-and-the-crimson-dragon" data-section="dm-note-fushich-and-the-crimson-dragon">DM Note
+        — Fushichō and the Crimson Dragon</h4>
+
+        <p><strong>Akaryū</strong> (Crimson Dragon) is associated with Fushichō — domain of fire and volcanic power. The
+        dragon is alive and slumbering, likely within the volcanic highlands. The Crimson Shrine in Hi province on
+        Hokori maintains a tenuous connection to Akaryū through keeper Tsubaki (Initiate, Order of the Ancient Guard).
+        Whether a parallel shrine or connection point exists on Fushichō itself is undeveloped.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 04-fushibird
+    frontmatter:
+      name: 04-fushibird
+      type: core
+      description: ''

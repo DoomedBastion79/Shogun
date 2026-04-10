@@ -1,0 +1,49 @@
+_id: gTELYRyD2TMmNG1h
+_key: '!journal!gTELYRyD2TMmNG1h'
+name: 01_Introduction
+pages:
+  - _id: Ne7uvTIRRYnNy36b
+    _key: '!journal.pages!Ne7uvTIRRYnNy36b'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>The people of Kagekuni use
+        &quot;bakemono&quot; as a broad term for anything that is neither person nor beast in any familiar sense — the
+        changed things, the hungry things, the things that should not be where they are. Scholars at the Seishin Enclave
+        insist on finer taxonomy. Peasants in the valleys know the taxonomy doesn&#39;t matter when you hear breathing
+        outside the shōji and there&#39;s nothing there.</p>
+
+        <p>What follows is organized by the categories most commonly used by seimasters and monster-hunters, though the
+        boundaries between them blur more often than academics care to admit.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 01_Introduction
+    frontmatter:
+      name: 01_Introduction
+      type: core
+      description: ''

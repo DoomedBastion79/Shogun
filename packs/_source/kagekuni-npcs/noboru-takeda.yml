@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/noboru-takeda.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: noboru-takeda
     linkedJournalId: KYknxHBu4Tsi3xBr
     frontmatter:
@@ -31,8 +31,6 @@ flags:
       status: active
       race: Halfling
       sex: M
-      height: 3'5"
-      weight: 95
       clan: kurohana
       caste: zokumin
       role: Mid-level Commander
@@ -48,6 +46,8 @@ flags:
         - The Disgraceful
       related_npcs: []
       related_quests: []
+      height: 3'5\"
+      weight: 95
     hasStatblock: false
 system:
   details:
@@ -82,7 +82,7 @@ system:
         <p>Arrogant, apathetic; believes family wealth entitles him to respect; incompetent; dislikes hard work. Known
         by the alias &quot;The Disgraceful.&quot;</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No contact established.</p>
 

@@ -19,6 +19,7 @@ pages:
         class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
         class="kg-info__row"><dt>Race</dt><dd data-field="race">Various</dd></div><div
         class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
         class="kg-info__row"><dt>Role</dt><dd data-field="role">Novice monks, Order of the Tranquil Lotus</dd></div><div
         class="kg-info__row"><dt>Location</dt><dd data-field="location">traveling</dd></div></dl><p><em
         lang="ja-Latn">Six novice monks traveling with Benkei from Kazehama to Heian</em></p>
@@ -67,7 +68,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/tranquil-lotus-novices.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: tranquil-lotus-novices
     frontmatter:
       name: Tranquil Lotus Novices
@@ -77,6 +78,7 @@ flags:
       race: Various
       sex: Mixed
       clan: none
+      caste: zokumin
       role: Novice monks, Order of the Tranquil Lotus
       location: traveling
       affiliations:
@@ -86,6 +88,8 @@ flags:
         - benkei
         - traveling
         - kazehama
+      aliases: []
       related_npcs:
-        - benkei: elder and mentor
-        - sun-wukong: fellow traveler
+        - 'benkei: elder and mentor'
+        - 'sun-wukong: fellow traveler'
+      related_quests: []

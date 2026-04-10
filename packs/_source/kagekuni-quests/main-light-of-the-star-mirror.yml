@@ -2,37 +2,6 @@ _id: fnxXVKD91Kurvds2
 _key: '!journal!fnxXVKD91Kurvds2'
 name: Light of the Star Mirror
 pages:
-  - _id: fAT1Zn6h3dMXiIz3
-    _key: '!journal.pages!fAT1Zn6h3dMXiIz3'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">staged</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">tenkuji-temple</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">main</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">none</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The machine does not care who repairs it. It only cares that someone does.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: HCo9X7DTCfj8od1Z
     _key: '!journal.pages!HCo9X7DTCfj8od1Z'
     name: Known
@@ -362,9 +331,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/quests/main-light-of-the-star-mirror.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: main-light-of-the-star-mirror
     frontmatter:
       name: Light of the Star Mirror

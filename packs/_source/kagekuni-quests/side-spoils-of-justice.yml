@@ -2,38 +2,6 @@ _id: LGppr0kYGR0vj3ui
 _key: '!journal!LGppr0kYGR0vj3ui'
 name: 'Spoils of Justice: The Thieves'' Hoard'
 pages:
-  - _id: chQCCLAqneWeAnBF
-    _key: '!journal.pages!chQCCLAqneWeAnBF'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">resolved</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">ayame</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">side</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">discovered</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The goods found a more deserving home. The thieves found a faster route to their
-        destinations.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: AUBk8nbeasEO5Aj6
     _key: '!journal.pages!AUBk8nbeasEO5Aj6'
     name: Known
@@ -224,7 +192,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/side-spoils-of-justice.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: side-spoils-of-justice
     frontmatter:
       name: 'Spoils of Justice: The Thieves'' Hoard'

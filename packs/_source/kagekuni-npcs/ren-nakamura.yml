@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/ren-nakamura.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: ren-nakamura
     linkedJournalId: A1IgNg32hleJFjNB
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 52
-      height: 5'10"
-      weight: 170
       clan: minato
       caste: kugai
       role: Shicho (Mayor) of Kikyo; Daimyo of Clan Minato
@@ -54,6 +51,9 @@ flags:
         - hideo-nakamura
         - hiroshi-nakamura
       related_quests: []
+      age: 52
+      height: 5'10\"
+      weight: 170
     hasStatblock: false
 system:
   details:
@@ -91,7 +91,7 @@ system:
         <p>Stern but fair; values loyalty; enjoys strategy (Go) and tea ceremonies; despises dishonesty — an irony,
         given his own secret alliances.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Issued the Summons and Conditional Pardon to Ko&#39;jiri. Sent Ko&#39;jiri as envoy to Heian.
         Ko&#39;jiri&#39;s legal status depends on completing the mission assigned through Ren Nakamura&#39;s

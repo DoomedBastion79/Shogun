@@ -1,0 +1,225 @@
+_id: nEa3F09eqwPuC5CY
+_key: '!journal!nEa3F09eqwPuC5CY'
+name: Hokori
+pages:
+  - _id: VnbVrqYohcGlG2hN
+    _key: '!journal.pages!VnbVrqYohcGlG2hN'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><h1>Hokori</h1>
+
+        <p>Hokori is the largest island in the Kagekuni archipelago, covering approximately 237,000 square miles.
+        X-shaped in form, it stretches 750 miles long and 600 miles wide. Four tectonic plates converge beneath it,
+        producing frequent earthquakes, volcanic eruptions, and tsunamis that shape both the landscape and the culture
+        of its inhabitants.</p>
+
+        <h2 id="kg-eight-provinces" data-section="eight-provinces">Eight Provinces</h2>
+
+        <p>Hokori is divided into eight provinces, each with distinct geography, climate, and political character:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Province</th>
+
+        <th>Region</th>
+
+        <th>Capital</th>
+
+        <th>Alliance</th>
+
+        <th>Character</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Hana</td>
+
+        <td>Eastern coast</td>
+
+        <td>Heian</td>
+
+        <td>Independent</td>
+
+        <td>Imperial heartland; oldest continuously inhabited province</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hi</td>
+
+        <td>Western interior and coast</td>
+
+        <td>Enshiro</td>
+
+        <td>Contested</td>
+
+        <td>Volcanic frontier; fiercely independent; contested governance</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kaze</td>
+
+        <td>Eastern side of NE leg</td>
+
+        <td>Akatsuki</td>
+
+        <td>Independent</td>
+
+        <td>Shadowed forests and mist; Clan Gekko (disappeared)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kusa</td>
+
+        <td>Western side of NE leg</td>
+
+        <td>Midoriko</td>
+
+        <td>Genso</td>
+
+        <td>Verdant lowlands; Forest of Spirits; agricultural</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Mizu</td>
+
+        <td>Northwestern coast</td>
+
+        <td>Minato-jo</td>
+
+        <td>Arashi</td>
+
+        <td>Maritime province; major western port; Kōri-no-Mori forest</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Nami</td>
+
+        <td>Northeastern tip</td>
+
+        <td>Namigashira</td>
+
+        <td>Arashi</td>
+
+        <td>Storm-battered coast; faces unabated ocean; lighthouse chain</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sora</td>
+
+        <td>Central mountains</td>
+
+        <td>Kumo-no-Ue</td>
+
+        <td>Independent</td>
+
+        <td>Lightly populated; mountainous; most dangerous region</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tsuchi</td>
+
+        <td>Southern highlands</td>
+
+        <td>Tsuchimoto</td>
+
+        <td>Genso</td>
+
+        <td>Mountainous; Kurogane Yama; southern frontier</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-political-landscape" data-section="political-landscape">Political Landscape</h2>
+
+        <p>Hokori is currently in a state of political crisis following the death of the Emperor. The island&#39;s
+        provinces are divided between the Arashi Alliance (Mizu, Nami), the Genso Alliance (Kusa, Tsuchi), independent
+        provinces (Hana, Kaze, Sora), and the contested province of Hi. The Kokushi Kyokai administers in the absence of
+        imperial authority, but its reach is limited.</p>
+
+        <h2 id="kg-key-geographic-features" data-section="key-geographic-features">Key Geographic Features</h2>
+
+        <ul>
+
+        <li><strong>Sora</strong> (Central Mountains) -- The mountainous interior of Hokori; lightly populated,
+        dangerous, and the connective barrier between most provinces</li>
+
+        <li><strong>Kurogane Yama</strong> -- Major mountain in southern Tsuchi</li>
+
+        <li><strong>Serenia-kai</strong> (Selenia Sea) -- Vast inland sea in Hokori</li>
+
+        <li><strong>Seidorin Mori</strong> (Bronze Wood Forest) -- Ancient metallic-barked woodland in western Hana</li>
+
+        <li><strong>Kōri-no-Mori</strong> -- Forest on the northern shores of Mizu province</li>
+
+        <li><strong>Enshiyama</strong> (Flame Peak Mountain) -- Third highest peak on Hokori; active volcano in Hi</li>
+
+        <li><strong>Shirogane Yama</strong> (Silver Mountain) -- Highest peak on Hokori; Hoshino Tō observatory at
+        summit; Hana province</li>
+
+        <li><strong>Hoshimori Plateau</strong> (Star Keeper&#39;s Plateau) -- High altitude observation site in
+        Sora</li>
+
+        <li><strong>Emperor&#39;s Highway</strong> -- Ancient road network connecting major settlements</li>
+
+        </ul>
+
+        <h2 id="kg-transportation" data-section="transportation">Transportation</h2>
+
+        <p>The Emperor&#39;s Highway extends from Heian in three directions, forming the primary overland transportation
+        network. River systems -- particularly the Midori River, Tsuchikawa, and Kinryugawa -- serve as major trade
+        arteries. Coastal shipping connects the port cities of Minato-jo (west) and Namigashira (east).</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: overview
+    frontmatter:
+      name: Hokori
+      type: core
+      description: Largest island in Kagekuni; X-shaped; eight provinces; campaign setting

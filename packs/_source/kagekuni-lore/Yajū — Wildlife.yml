@@ -1,0 +1,90 @@
+_id: QApzHtqbIEk5GRaP
+_key: '!journal!QApzHtqbIEk5GRaP'
+name: Yajū — Wildlife
+pages:
+  - _id: 6GVcjytN8w7AKtfZ
+    _key: '!journal.pages!6GVcjytN8w7AKtfZ'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Kagekuni&#39;s natural fauna
+        reflects the archipelago&#39;s varied geography — mountainous interiors, dense forests, river valleys, and
+        extensive coastlines — filtered through the fundamental strangeness of Seizan.</p>
+
+        <h2 id="kg-terrestrial" data-section="terrestrial">Terrestrial</h2>
+
+        <p>The forests of Hokori support populations of deer, boar, bear, fox, and wolf, along with smaller mammals that
+        fill the expected ecological niches. What makes them Kagekuni&#39;s own is the cosmetic: deer with pelts that
+        shift from copper to slate between seasons. Boar with bristles that carry a faint metallic sheen in certain
+        light. Bears whose fur, when the animal is old enough, develops patches of deep indigo that no dye can
+        replicate.</p>
+
+        <p>Mountain regions harbor snow monkeys in the heights, along with goats and ibex adapted to the thin air and
+        crystalline terrain of the upper peaks. The Tenchūsan Ren is known for a large species of mountain cat —
+        solitary, grey-furred, rarely seen — that local villages regard with superstitious respect and a practical
+        desire to keep their livestock behind strong fences.</p>
+
+        <h2 id="kg-avian" data-section="avian">Avian</h2>
+
+        <p>Cranes, herons, and egrets are common along waterways and are culturally significant — crane imagery appears
+        in clan heraldry, religious iconography, and wedding ceremonies. Birds of prey include hawks, eagles, and a
+        species of mountain falcon prized by the nobility for hunting. Corvids — crows, ravens, and jays — are
+        ubiquitous and regarded with a wariness that reflects their association with tengu.</p>
+
+        <p>The forests support a variety of songbirds whose calls are distinct enough that experienced travelers use
+        them for navigation and weather prediction. The nightjars of the Yōsei Mori produce a call that resonates with
+        sei, creating a harmonic that skilled listeners can use to detect magical activity in the area — though whether
+        the birds do this deliberately or incidentally is unknown.</p>
+
+        <h2 id="kg-aquatic" data-section="aquatic">Aquatic</h2>
+
+        <p>The rivers and inland seas of Hokori support extensive freshwater fisheries. The goldtail fish — named for
+        the iridescent gold flash of its tail fin — is commercially and culturally important, with seasonal runs during
+        Aki that define the economic calendar of riverside settlements. Serenia-kai, the great inland sea, supports its
+        own ecosystem of fish, crustaceans, and the occasional large predator whose exact nature is a matter of
+        fishermen&#39;s debate.</p>
+
+        <p>Coastal waters harbor species familiar to any maritime culture — tuna, mackerel, octopus, various shellfish —
+        alongside less explicable things. Deep-water fishermen report sightings of bioluminescent creatures at depth
+        that do not correspond to any catalogued species.</p>
+
+        <h2 id="kg-insects-amp-minor-creatures" data-section="insects-amp-minor-creatures">Insects &amp; Minor
+        Creatures</h2>
+
+        <p>Fireflies in Kagekuni produce light in colors that shift with the season and, in sei-rich areas, with the
+        phase of the nearest moon. Silk moths are commercially essential — the silk trade is a backbone of several
+        provincial economies — and the moths themselves have been selectively bred for millennia, producing varieties
+        that generate silk of unusual properties: threads that hold dye with preternatural permanence, fibers that
+        resist rot, and in rare cases, silk that conducts sei in ways that interest the Seishin Enclave greatly.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: Yajū — Wildlife
+    frontmatter:
+      name: Yajū — Wildlife
+      type: core
+      description: ''

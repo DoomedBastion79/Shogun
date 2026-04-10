@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/hideo-nakamura.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: hideo-nakamura
     linkedJournalId: M8agMY0L6FYoWSms
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 43
-      height: 5'11"
-      weight: 180
       clan: kaminari
       caste: kugai
       role: Taisho; Tokubetsu Sakusen Bōei Bugyō (Commissioner of Special Operations)
@@ -52,6 +49,9 @@ flags:
         - arinori-senzai
       related_quests:
         - gekko-investigation
+      age: 43
+      height: 5'11\"
+      weight: 180
     hasStatblock: false
 system:
   details:
@@ -88,7 +88,7 @@ system:
         <p>Exceptionally intelligent, strategic; values order and discipline; stern but fair; appreciates historical
         battles and traditional music.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Direct handler. Assigned the party their mission at the Tensho no Mon district in Heian. Sun Wukong&#39;s
         mandate from the Tranquil Lotus specifically names Hideo as the reporting authority. The party met him alongside

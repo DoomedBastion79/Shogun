@@ -1,9 +1,9 @@
-_id: t87SdoS2N2o2CwgH
-_key: '!journal!t87SdoS2N2o2CwgH'
+_id: Z27E68Aw1B8pHETw
+_key: '!journal!Z27E68Aw1B8pHETw'
 name: Sora
 pages:
-  - _id: 1s33pBgF0NPgbH9v
-    _key: '!journal.pages!1s33pBgF0NPgbH9v'
+  - _id: wLIjGTdA8EYrdzo5
+    _key: '!journal.pages!wLIjGTdA8EYrdzo5'
     name: Known
     type: text
     title:
@@ -128,8 +128,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: j0aJEj91wobYs6gj
-    _key: '!journal.pages!j0aJEj91wobYs6gj'
+  - _id: D9AwxT2ckEJDDQVK
+    _key: '!journal.pages!D9AwxT2ckEJDDQVK'
     name: Discoverable (GM)
     type: text
     title:
@@ -161,8 +161,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: GIH0Sskd1FIsh62F
-    _key: '!journal.pages!GIH0Sskd1FIsh62F'
+  - _id: WDAXOCDumUdCSCAu
+    _key: '!journal.pages!WDAXOCDumUdCSCAu'
     name: SEALED — GM Only
     type: text
     title:
@@ -219,7 +219,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/sora.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: sora
     frontmatter:
       name: Sora

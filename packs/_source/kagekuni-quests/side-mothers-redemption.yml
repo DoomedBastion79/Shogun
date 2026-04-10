@@ -2,37 +2,6 @@ _id: VJJCCGQeyX2TdTPg
 _key: '!journal!VJJCCGQeyX2TdTPg'
 name: 'A Mother''s Redemption: Journey to New Beginnings'
 pages:
-  - _id: UaaeUwd4xOAtsYem
-    _key: '!journal.pages!UaaeUwd4xOAtsYem'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">sunsato</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">side</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">yasutake-mai</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The road north is long, but some burdens are worth carrying.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: CvZT81LdQCDEHKxX
     _key: '!journal.pages!CvZT81LdQCDEHKxX'
     name: Known
@@ -240,7 +209,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/side-mothers-redemption.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: side-mothers-redemption
     frontmatter:
       name: 'A Mother''s Redemption: Journey to New Beginnings'
@@ -258,7 +227,7 @@ flags:
       deadline_type: none
       deadline_date: null
       deadline_consequence: null
-      consequences: null
+      consequences: []
       related_quests: []
       tags: []
   simple-quest:

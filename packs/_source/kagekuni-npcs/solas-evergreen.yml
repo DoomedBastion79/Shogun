@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/solas-evergreen.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: solas-evergreen
     linkedJournalId: WY2KOMHT0gaMGZcr
     frontmatter:
@@ -31,8 +31,6 @@ flags:
       status: deceased
       race: Elf
       sex: M
-      height: 6'2"
-      weight: 170
       clan: none
       caste: zokumin
       role: Guardian, Order of the Sacred Grove
@@ -51,6 +49,8 @@ flags:
         - hideaki-sato
         - benkei
       related_quests: []
+      height: 6'2\"
+      weight: 170
     hasStatblock: false
 system:
   details:
@@ -85,7 +85,7 @@ system:
         <p>Unknown in life beyond what Relc and Sato Hideaki remember — a mentor, a protector, someone who prepared
         carefully for his own death.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Relc&#39;s mentor and predecessor as Guardian. Appointed Relc as next Guardian via a posthumous letter. Left
         a cipher poem pointing to hidden knowledge (Warden&#39;s Wisdom). His spirit appears to Relc at key moments —

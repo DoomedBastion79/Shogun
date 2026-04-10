@@ -1,9 +1,9 @@
-_id: 5ohYhK6tOymCynGL
-_key: '!journal!5ohYhK6tOymCynGL'
+_id: LGWViZizhJlD3KdR
+_key: '!journal!LGWViZizhJlD3KdR'
 name: Hana
 pages:
-  - _id: KIrPm8MQYZ0hA0p8
-    _key: '!journal.pages!KIrPm8MQYZ0hA0p8'
+  - _id: GdFuqtu4LLddKEYb
+    _key: '!journal.pages!GdFuqtu4LLddKEYb'
     name: Known
     type: text
     title:
@@ -279,8 +279,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: XjnIaBOaQE2d8avH
-    _key: '!journal.pages!XjnIaBOaQE2d8avH'
+  - _id: KBIUmLmIKIy2PT43
+    _key: '!journal.pages!KBIUmLmIKIy2PT43'
     name: Discoverable (GM)
     type: text
     title:
@@ -315,8 +315,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: XEqZNTUaMTr33Lro
-    _key: '!journal.pages!XEqZNTUaMTr33Lro'
+  - _id: H4pQKwvzcNqmg7HF
+    _key: '!journal.pages!H4pQKwvzcNqmg7HF'
     name: SEALED — GM Only
     type: text
     title:
@@ -389,7 +389,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/hana.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: hana
     frontmatter:
       name: Hana

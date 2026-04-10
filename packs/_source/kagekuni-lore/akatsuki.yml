@@ -1,9 +1,9 @@
-_id: YlPf62lSZnawgCL7
-_key: '!journal!YlPf62lSZnawgCL7'
+_id: G73nlQAKU99FLB4T
+_key: '!journal!G73nlQAKU99FLB4T'
 name: Akatsuki
 pages:
-  - _id: ZqS6eBfJavIf4IBx
-    _key: '!journal.pages!ZqS6eBfJavIf4IBx'
+  - _id: T1Yff5EifVPgtE5i
+    _key: '!journal.pages!T1Yff5EifVPgtE5i'
     name: Overview
     type: text
     title:
@@ -30,8 +30,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: Uhg9W89ERXBbHR0b
-    _key: '!journal.pages!Uhg9W89ERXBbHR0b'
+  - _id: YRkdzRiCkGNos9Lr
+    _key: '!journal.pages!YRkdzRiCkGNos9Lr'
     name: Known
     type: text
     title:
@@ -85,8 +85,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: SANmZNEDIjRc5dEJ
-    _key: '!journal.pages!SANmZNEDIjRc5dEJ'
+  - _id: rC22CVhmQ2SmHu0i
+    _key: '!journal.pages!rC22CVhmQ2SmHu0i'
     name: Discoverable (GM)
     type: text
     title:
@@ -117,8 +117,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: nGpRwEqGSRt1m29X
-    _key: '!journal.pages!nGpRwEqGSRt1m29X'
+  - _id: 75S7gaiPtkIuoDMs
+    _key: '!journal.pages!75S7gaiPtkIuoDMs'
     name: SEALED — GM Only
     type: text
     title:
@@ -190,7 +190,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/akatsuki.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: akatsuki
     frontmatter:
       name: Akatsuki

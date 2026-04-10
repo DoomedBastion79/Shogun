@@ -1,9 +1,9 @@
-_id: yzx13rG3V5T39BnT
-_key: '!journal!yzx13rG3V5T39BnT'
+_id: K5oyIOFTT6FGxIDb
+_key: '!journal!K5oyIOFTT6FGxIDb'
 name: Natsumura
 pages:
-  - _id: HGfAzyyhSQFDrbVv
-    _key: '!journal.pages!HGfAzyyhSQFDrbVv'
+  - _id: hJoY8xnuA2EEQaBh
+    _key: '!journal.pages!hJoY8xnuA2EEQaBh'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: F4zqeN70Uuazhw0P
-    _key: '!journal.pages!F4zqeN70Uuazhw0P'
+  - _id: kUK6DgzfU3SUx0Lf
+    _key: '!journal.pages!kUK6DgzfU3SUx0Lf'
     name: Known
     type: text
     title:
@@ -88,8 +88,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: t7KdPF76kxyYE8nM
-    _key: '!journal.pages!t7KdPF76kxyYE8nM'
+  - _id: 9hn48bHoQa6XCOau
+    _key: '!journal.pages!9hn48bHoQa6XCOau'
     name: Discoverable (GM)
     type: text
     title:
@@ -120,8 +120,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: YIIzfn0nPQ9gaUYD
-    _key: '!journal.pages!YIIzfn0nPQ9gaUYD'
+  - _id: 7CUZMFr5pfBOqlnH
+    _key: '!journal.pages!7CUZMFr5pfBOqlnH'
     name: SEALED — GM Only
     type: text
     title:
@@ -174,7 +174,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/natsumura.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: natsumura
     frontmatter:
       name: Natsumura

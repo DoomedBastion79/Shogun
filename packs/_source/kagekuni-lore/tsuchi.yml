@@ -1,9 +1,9 @@
-_id: CF9UcOoxrTIhNlwW
-_key: '!journal!CF9UcOoxrTIhNlwW'
+_id: NqmsJN8vRCfayaIO
+_key: '!journal!NqmsJN8vRCfayaIO'
 name: Tsuchi
 pages:
-  - _id: 3ZLvaaryIXWwkHfn
-    _key: '!journal.pages!3ZLvaaryIXWwkHfn'
+  - _id: nbFG8tvn4gA68gg6
+    _key: '!journal.pages!nbFG8tvn4gA68gg6'
     name: Known
     type: text
     title:
@@ -132,8 +132,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: JRocUmzOqTUa1MPO
-    _key: '!journal.pages!JRocUmzOqTUa1MPO'
+  - _id: nfxA3Us2zTEeXSWW
+    _key: '!journal.pages!nfxA3Us2zTEeXSWW'
     name: Discoverable (GM)
     type: text
     title:
@@ -164,8 +164,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: UXuiRVOcLZVqkBXx
-    _key: '!journal.pages!UXuiRVOcLZVqkBXx'
+  - _id: YFxnBaiGI9QfFQcA
+    _key: '!journal.pages!YFxnBaiGI9QfFQcA'
     name: SEALED — GM Only
     type: text
     title:
@@ -220,7 +220,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/tsuchi.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: tsuchi
     frontmatter:
       name: Tsuchi

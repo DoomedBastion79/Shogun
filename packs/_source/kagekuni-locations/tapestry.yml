@@ -781,31 +781,10 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: oXGpeVsc7XLByhrc
-    _key: '!journal.pages!oXGpeVsc7XLByhrc'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-notes-tapestry-supplement"
-        data-section="dm-notes-tapestry-supplement">DM NOTES — Tapestry Supplement</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-notes-tapestry-supplement" data-section="dm-notes-tapestry-supplement">DM NOTES — Tapestry
+        Supplement</h3>
 
         <p><strong>Running Two Tracks Naturally</strong>: Do not present this as a skill-check menu. Let players declare
         their approach — &quot;I try to read the thread texture closely&quot; is Arcana on Tapestry II; &quot;I try to
@@ -855,9 +834,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -865,14 +844,12 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/supplements/tapestry.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: tapestry
     frontmatter:
       name: Tapestries of Kinko no Mon
       type: location
-      location_type: supplement
+      locationType: supplement
       parent: tenkuji-temple
       island: hokori
       province: hana

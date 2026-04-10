@@ -23,30 +23,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: 8BgggxMq6n23LaCj
-    _key: '!journal.pages!8BgggxMq6n23LaCj'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p>Accessed via an L-shaped hallway (10 ft wide) from the south side of the west wing — south 35 ft, then east
         45 ft into the mess hall. No direct line of sight from the main corridor. Pervasive old char smell baked
@@ -67,31 +46,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: gIpBHvcISFrtfARd
-    _key: '!journal.pages!gIpBHvcISFrtfARd'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
-        data-section="discoveries">Discoveries</h3>
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
 
         <ul>
 
@@ -122,31 +79,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: WTDhxNjwSpX7WQ39
-    _key: '!journal.pages!WTDhxNjwSpX7WQ39'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
-        data-section="encounters">Encounters</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
 
         <ul>
 
@@ -181,9 +116,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -191,17 +126,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/mess-hall.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: mess-hall
     frontmatter:
       name: The Mess Hall and Kitchen — Shokudo
       type: location
-      location_type: dungeon-room
+      locationType: dungeon-room
       parent: tenkuji-temple/floor-1
-      floor: 1
-      room_number: 4
+      floor: '1'
+      roomNumber: '4'
       island: hokori
       province: hana
       status: active

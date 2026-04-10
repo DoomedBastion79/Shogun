@@ -20,30 +20,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: uwMRj9o1LPwgIgNg
-    _key: '!journal.pages!uwMRj9o1LPwgIgNg'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p>Oval chamber, 125 ft east-to-west × 100 ft north-to-south. Ceiling not visible (statue is 250 ft — ceiling is
         at least that high). Accessed via double set of double doors on south wall (from N-S hallway, ~10 ft vestibule
@@ -64,31 +43,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: fppKwWx5NSyw9bEk
-    _key: '!journal.pages!fppKwWx5NSyw9bEk'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
-        data-section="discoveries">Discoveries</h3>
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
 
         <ul>
 
@@ -262,31 +219,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: 1aCgHTc1PMA18tt1
-    _key: '!journal.pages!1aCgHTc1PMA18tt1'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
-        data-section="encounters">Encounters</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
 
         <ul>
 
@@ -330,9 +265,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -340,17 +275,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/grand-hall.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: grand-hall
     frontmatter:
       name: The Grand Hall — Hiroba
       type: location
-      location_type: dungeon-room
+      locationType: dungeon-room
       parent: tenkuji-temple/floor-1
-      floor: 1
-      room_number: 2
+      floor: '1'
+      roomNumber: '2'
       island: hokori
       province: hana
       status: active

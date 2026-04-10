@@ -1,0 +1,269 @@
+_id: Wk6bQLB2yi3gWQ0v
+_key: '!journal!Wk6bQLB2yi3gWQ0v'
+name: Nagaji
+pages:
+  - _id: ShofWEvQbDlxKRji
+    _key: '!journal.pages!ShofWEvQbDlxKRji'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Serpentine humanoids reported in
+        increasing numbers across the mountainous interior of Hokori. Scaled, cold-blooded, and driven by instincts that
+        make them unpredictable, nagaji are unlike any catalogued species — their origin is a matter of active
+        speculation among the few scholars aware of their existence.</p>
+
+        <p>They are not mindless. Nagaji organize into squad-like formations and coordinate through a sibilant language
+        — rhythmic, tonal, and clearly purposeful even if its meaning is opaque to outside listeners. Whether they
+        possess true intelligence or are operating on something closer to hive instinct remains unclear. They are
+        territorial, aggressive when provoked, and show a marked preference for enclosed spaces — caves, ruins, and
+        mountain tunnels.</p>
+
+        <p>What little is known suggests they are relatively recent arrivals. No historical text describes anything
+        matching their physiology, and their range appears to be expanding from the high mountain regions downward into
+        the foothills and valleys. How they came to be, and what they want, are questions no one has satisfactorily
+        answered.</p>
+
+        <hr>
+
+        <h2 id="kg-general-physiology" data-section="general-physiology">General Physiology</h2>
+
+        <p>Nagaji are humanoid in general proportion but wrong in the details. The neck is slightly too long, the limbs
+        bend at subtly incorrect angles, and the torso tapers in ways that suggest a skeletal structure fundamentally
+        different from any known race. Their skin is scaled — mottled grey-green in most observed specimens, though
+        coloration may vary — and cold to the touch. Their eyes are lidless, with vertical slit pupils that reflect
+        light in low visibility. They appear to have no hair, no external ears, and no obvious nostrils, though they
+        clearly sense their environment with precision.</p>
+
+        <p>They are cold-blooded. They seek warmth instinctively, coiling in enclosed spaces when at rest. When
+        threatened, they become absolutely still — a predatory stillness that precedes explosive, violent action. This
+        pattern is consistent across all observed variants.</p>
+
+        <hr>
+
+        <h2 id="kg-observed-variants" data-section="observed-variants">Observed Variants</h2>
+
+        <p>Nagaji encountered in the field organize into distinct roles that mirror military unit structures. Whether
+        this reflects deliberate organization or instinctive social behavior is unknown, but the consistency across
+        observed groups suggests it is not random.</p>
+
+        <h3 id="kg-ashigaru" data-section="ashigaru">Ashigaru</h3>
+
+        <p>The most numerous variant. Nagaji ashigaru form the bulk of any encountered group, typically six to a squad.
+        They are lighter in build than other variants — faster, more agile, and prone to flanking maneuvers rather than
+        direct engagement.</p>
+
+        <p><strong>Physiology:</strong> Slighter frame than other variants. Scales tend toward darker mottling,
+        providing natural camouflage in shadow and stone environments.</p>
+
+        <p><strong>Weaponry:</strong> Crude and improvised. Ashigaru carry repurposed metal shards lashed to wooden
+        shafts — functional spears assembled from scavenged material rather than manufactured equipment. Some have been
+        observed using sharpened stone or broken masonry as thrown projectiles.</p>
+
+        <p><strong>Armor:</strong> Limited. Most ashigaru wear no protection of any kind, though some have been observed
+        wearing crude leather coverings — hides lashed across the chest and shoulders — that provide marginal additional
+        protection. Whether this is scavenged or deliberately fashioned is unclear.</p>
+
+        <p><strong>Tactics:</strong> Ashigaru are aggressive. They charge into combat with little hesitation, closing
+        distance quickly and relying on numbers and flanking angles to overwhelm targets. In enclosed spaces, they use
+        side corridors, pillar shadows, and elevated positions to attack from multiple angles simultaneously. Their
+        coordination through the sibilant language is most evident here; repositioning calls precede movement by only a
+        heartbeat, suggesting the communication is instinctive rather than deliberated. However, ashigaru are quick to
+        break. When their commanding bushi falls, morale collapses almost immediately — ashigaru scatter into side
+        passages and flee rather than fight on without direction. This is the single most exploitable weakness in nagaji
+        squad composition.</p>
+
+        <h3 id="kg-hohei" data-section="hohei">Hohei</h3>
+
+        <p>Heavier infantry variants, typically two per squad. Hohei anchor the formation while ashigaru maneuver around
+        the flanks.</p>
+
+        <p><strong>Physiology:</strong> Noticeably larger and more heavily built than ashigaru. Broader across the
+        shoulders and chest, with thicker scaling that appears to function as natural armor — denser, overlapping plates
+        rather than the finer scales of the ashigaru. Some observed specimens show ridged scaling along the forearms and
+        spine.</p>
+
+        <p><strong>Weaponry:</strong> Similar improvised construction to ashigaru but heavier — longer hafted weapons,
+        crude clubs fashioned from stone or salvaged metal. Hohei have been observed using their natural weapons as
+        well: powerful jaw strikes and a constricting grip from their tails that can pin an opponent in place.</p>
+
+        <p><strong>Armor:</strong> None manufactured, but the natural scaling provides meaningful protection. Bladed
+        weapons that slide off ashigaru scales may bite into hohei plates and stick — a different problem, but still
+        protective.</p>
+
+        <p><strong>Tactics:</strong> Hohei hold ground. They position themselves between threats and the rest of the
+        squad, absorbing attention and damage while the ashigaru work the edges. They do not retreat easily. A hohei
+        that has committed to a position will fight from that position until it is dead or the threat has withdrawn.
+        They are not berserkers — they fight with a cold, mechanical efficiency — but they do not appear to value
+        self-preservation when the squad is engaged.</p>
+
+        <h3 id="kg-bushi" data-section="bushi">Bushi</h3>
+
+        <p>Squad leaders. One per group. The bushi directs the squad&#39;s movements and appears to make tactical
+        decisions in real time.</p>
+
+        <p><strong>Physiology:</strong> Similar in size to hohei but leaner, with a bearing that suggests authority even
+        across species lines. Bushi specimens show more varied coloration — some with faint patterning along the jaw and
+        throat that may indicate age or status. Their movements are more deliberate and controlled than other variants,
+        with less of the twitching, reactive quality seen in ashigaru.</p>
+
+        <p><strong>Weaponry:</strong> Better equipped than the rank and file. Bushi carry weapons that show more care in
+        construction — metal blades properly hafted, bindings that hold under stress. Some have been observed carrying
+        what appear to be salvaged weapons of conventional manufacture, suggesting they can recognize and repurpose
+        quality equipment when they find it.</p>
+
+        <p><strong>Armor:</strong> Occasionally observed wearing fragments of salvaged armor — a shoulder plate, a
+        partial breastplate — fitted imprecisely but functional. Whether they scavenge this deliberately or acquire it
+        from defeated opponents is unclear.</p>
+
+        <p><strong>Tactics:</strong> The bushi coordinates. It vocalizes more frequently than other variants, and the
+        sibilant calls it produces precede squad-wide behavioral shifts — a formation change, a withdrawal, a sudden
+        concentrated attack on a single target. The bushi does not lead from the front in the manner of a samurai; it
+        positions itself where it can observe the full engagement and direct resources. When forced into direct combat,
+        it fights with a precision and adaptability that exceeds the other variants — suggesting either greater retained
+        intelligence or more sophisticated combat instincts.</p>
+
+        <h3 id="kg-kannushi" data-section="kannushi">Kannushi</h3>
+
+        <p>The rarest observed variant. Kannushi appear to fill a spiritual or ritualistic role within nagaji groups,
+        though the nature of that role is poorly understood.</p>
+
+        <p><strong>Physiology:</strong> Slender, almost gaunt compared to other variants. Kannushi move differently —
+        slower, more fluid, with a swaying quality that is unsettling to watch. Their scales sometimes carry a faint
+        iridescence not seen in other variants, and their slit pupils are wider, as though adapted to perceive something
+        beyond ordinary light.</p>
+
+        <p><strong>Weaponry:</strong> Kannushi have not been observed carrying weapons. This does not mean they are
+        unarmed — their behavior in the presence of sei-charged environments suggests capabilities that may not require
+        physical implements.</p>
+
+        <p><strong>Armor:</strong> None.</p>
+
+        <p><strong>Tactics:</strong> Kannushi are drawn to spaces with spiritual or magical significance — shrines,
+        meditation chambers, places where sei pools or concentrates. They return to these spaces compulsively, coiling
+        on raised surfaces in postures that resemble meditation. Despite their ritualistic nature, kannushi are actively
+        hostile. When a squad engages in combat near a kannushi&#39;s claimed space, the kannushi engages aggressively,
+        leveraging whatever sei-related capabilities it possesses to defend its territory and support the squad. Their
+        role in the squad structure is not fully understood, but they are not passive observers — they fight.</p>
+
+        <h3 id="kg-shei" data-section="shei">Sōhei</h3>
+
+        <p>Warrior monks. Sōhei occupy a position below the kannushi in the nagaji hierarchy — more disciplined than
+        ashigaru, more spiritually attuned than hohei, but serving a combat role rather than a ritualistic one. They are
+        uncommon but not rare; where a kannushi is present, sōhei are usually nearby.</p>
+
+        <p><strong>Physiology:</strong> Compact and densely muscled, with a stillness to their posture that
+        distinguishes them from the twitching restlessness of ashigaru. Their scaling is tighter and more uniform than
+        other variants — smooth, dark plates that fit close to the body like lacquered armor. Some specimens show faint
+        patterning along the throat and wrists similar to kannushi iridescence, though duller and less pronounced.</p>
+
+        <p><strong>Weaponry:</strong> Sōhei fight with their bodies. Strikes are precise and devastating — open-palmed
+        blows, elbow strikes, and sweeping kicks delivered with a speed that belies their compact frames. Some have been
+        observed wielding short staves or improvised tonfa-like implements, but unarmed combat appears to be their
+        preferred and most effective mode.</p>
+
+        <p><strong>Armor:</strong> None manufactured. Their natural scaling is denser than ashigaru but lighter than
+        hohei — they trade raw protection for mobility.</p>
+
+        <p><strong>Tactics:</strong> Sōhei fight with a focused, almost meditative discipline. Where ashigaru swarm and
+        hohei anchor, sōhei target specific threats — isolating the most dangerous combatant and engaging with
+        relentless, methodical pressure. They are difficult to shake once they have committed to a target. In the
+        presence of a kannushi, sōhei appear to coordinate more tightly, as though receiving direction through means
+        that are not purely vocal. Whether this is sei-mediated communication or simply familiarity is unknown.</p>
+
+        <h3 id="kg-zasu" data-section="zasu">Zasu</h3>
+
+        <p>The apex of the nagaji hierarchy — a chief seimaster of terrifying capability. Only one has been observed,
+        and that observation was enough. The zasu is what remains when a powerful seimaster undergoes the same
+        transformation that created the nagaji, but retains — or perhaps transcends — their original intelligence and
+        magical ability. Where other nagaji are creatures shaped by a failed ritual, the zasu may be something closer to
+        the ritual&#39;s intended result.</p>
+
+        <p><strong>Physiology:</strong> The zasu has moved further from humanoid form than any other variant. The body
+        is elongated and serpentine, the limbs reduced to vestigial appendages or absent entirely. Multiple serpentine
+        heads or hood-like expansions of scaling have been reported, though accounts are inconsistent — possibly because
+        the zasu&#39;s form is difficult to perceive clearly, or possibly because it changes. The creature is large,
+        filling a corridor or chamber with coiled mass. Its scales carry the same iridescence as the kannushi, but
+        intensified — shifting colors that seem to pulse in rhythm with ambient sei.</p>
+
+        <p><strong>Weaponry:</strong> The zasu does not carry weapons. It does not need them. It commands sei directly —
+        channeling destructive force, manipulating the environment, and bending perception. It has been observed
+        producing effects consistent with high-level warlock invocations: bolts of concentrated energy, zones of magical
+        darkness, and — most dangerously — invisibility. The zasu uses invisibility not defensively but tactically,
+        vanishing and repositioning across the battlefield to strike from unexpected angles before disappearing
+        again.</p>
+
+        <p><strong>Armor:</strong> None. The zasu&#39;s natural scaling is dense and heavily layered, and its command of
+        sei may provide additional protection beyond the physical. Conventional weapons are unlikely to be the primary
+        threat it presents.</p>
+
+        <p><strong>Tactics:</strong> The zasu is a battlefield controller. It does not hold a position or charge a line
+        — it moves, constantly, using invisibility to reposition and striking where the party is weakest or most
+        exposed. It fights like a warlock with centuries of instinct: probing defenses, punishing overextension, and
+        retreating into invisibility the moment pressure mounts. Direct engagement is on its terms or not at all. The
+        zasu retains enough intelligence — or something that functions like intelligence — to make tactical decisions,
+        prioritize targets, and adapt its approach mid-fight. Whether fragments of the original person persist beneath
+        the transformation is an open question, and one the party may have opportunity to test.</p>
+
+        <hr>
+
+        <h2 id="kg-squad-tactics" data-section="squad-tactics">Squad Tactics</h2>
+
+        <p>A standard nagaji squad consists of one bushi, two hohei, and six ashigaru — nine total. This composition has
+        been observed consistently enough to suggest it is not coincidental.</p>
+
+        <p><strong>Engagement pattern:</strong> The squad does not attack on sight at range. It positions first.
+        Ashigaru move to flanking positions using available cover — pillars, side corridors, elevated terrain. Hohei
+        advance to block the most direct line of retreat. The bushi observes. The attack begins simultaneously from
+        multiple angles, initiated by a sharp vocalization from the bushi.</p>
+
+        <p><strong>Communication:</strong> The sibilant language is constant during engagement — short, rhythmic bursts
+        that correspond to tactical shifts. The speed of coordination suggests the communication is partially
+        instinctive; the delay between a bushi&#39;s call and the squad&#39;s response is faster than deliberate
+        interpretation would allow.</p>
+
+        <p><strong>Adaptability:</strong> Nagaji squads adjust to setbacks. If ashigaru flankers are neutralized, the
+        remaining squad contracts rather than continuing a compromised plan. If the bushi falls, the squad fractures —
+        the hohei assume a defensive posture and hold ground, but the ashigaru break almost immediately, scattering into
+        side passages and fleeing the engagement. Eliminating the bushi is the fastest way to collapse a nagaji
+        squad.</p>
+
+        <p><strong>Ambush preference:</strong> Nagaji strongly prefer to fight on their terms. They know the terrain
+        they occupy intimately and use it. Shadow corridors, narrow passages, and spaces with limited visibility are not
+        obstacles for them — they are advantages. Their low-light vision and comfort in enclosed spaces means that
+        fighting nagaji in their territory is fighting them at their best.</p>
+
+        <p><strong>Avoidance behavior:</strong> Nagaji have been observed avoiding certain spaces entirely — areas with
+        strong residual magical presence or specific environmental qualities. Whether this reflects fear, discomfort, or
+        something else is unknown, but it is consistent and can be exploited by those who recognize the pattern.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: Nagaji
+    frontmatter:
+      name: Nagaji
+      type: core
+      description: ''

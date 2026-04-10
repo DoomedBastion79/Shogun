@@ -1,0 +1,144 @@
+_id: SfWYHVnZXH6yK6rO
+_key: '!journal!SfWYHVnZXH6yK6rO'
+name: 06-tatara
+pages:
+  - _id: MQ5ciQSCD1axwfxB
+    _key: '!journal.pages!MQ5ciQSCD1axwfxB'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Tatara is the second largest
+        island in the archipelago — mountainous, heavily fortified, and defined by a conflict older than the empire
+        itself. The island is the heartland of two peoples: the <strong>Zirak</strong> (dwarves) and the
+        <strong>Glimfyr</strong> (gnomes), whose rivalry predates human settlement and has outlasted every attempt at
+        permanent resolution. When the emperor commands peace, they comply. When the emperor dies, they resume. There is
+        no emperor now.</p>
+
+        <p>The island&#39;s terrain is rugged — dense mountain ranges, deep valleys, and fortified passes that have been
+        fought over so many times the stone itself shows the scars. The <strong>Adamanzan Ren</strong> mountains contain
+        the great Zirak fortress complexes — engineering achievements carved into living rock over millennia. The
+        Glimfyr hold their own territory through ingenuity, traps, misdirection, and a willingness to fight
+        asymmetrically that the Zirak find deeply offensive.</p>
+
+        <h2 id="kg-points-of-interest" data-section="points-of-interest">Points of Interest</h2>
+
+        <p>The <strong>Kokuyō Ryūkyūjō</strong> is an imperial fortress built during the Golden Age — one of the most
+        significant military constructions in the archipelago. <strong>Kuroi Yama</strong> (Black Mountain) was
+        destroyed during the Onyx Rebellion (8238–8611), a four-hundred-year guerrilla war waged by Kokuryū against
+        imperial forces. Kokuryū escaped when Kuroi Yama fell, and the mountain&#39;s ruins remain a place of dark
+        reputation.</p>
+
+        <h2 id="kg-regions" data-section="regions">Regions</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Region</th>
+
+        <th>Governance</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Mizuho</strong></td>
+
+        <td>Clan Tsuchiura</td>
+
+        <td>Genso Alliance-aligned</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Shūgyoku</strong></td>
+
+        <td>Clan Shirotsuru</td>
+
+        <td>Arashi Alliance-aligned</td>
+
+        </tr>
+
+        <tr>
+
+        <td><em lang="ja-Latn">&lt;placeholder — additional Tatara regions and their governance to be
+        developed&gt;</em></td>
+
+        <td></td>
+
+        <td></td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-settlements" data-section="settlements">Settlements</h2>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Tatara settlements to be developed; likely includes fortress-cities,
+        mining towns, and contested border communities&gt;</em></p>
+
+        <h2 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h2>
+
+        <p>Tatara&#39;s economy is built on mining, metalwork, and fortress construction. Stone quarried from the
+        Adamanzan Ren was used to build the Great Library on Kawa. Zirak weaponry and armour are prized across the
+        archipelago. The Glimfyr produce precision instruments, alchemical components, and mechanical devices of
+        extraordinary sophistication.</p>
+
+        <p>The recent escalation — gnomes deliberately sabotaging a dwarven relic site — represents a dangerous
+        provocation. Without imperial authority to impose restraint, the conflict is intensifying in ways that may
+        eventually draw in outside powers.</p>
+
+        <p><em lang="ja-Latn">&lt;placeholder — detailed Tatara governance, cultural practices, specific Zirak/Glimfyr
+        territories, and inter-island trade relationships to be developed&gt;</em></p>
+
+        <section class="secret">
+
+
+        <h4 id="kg-dm-note-tatara-and-the-onyx-dragon" data-section="dm-note-tatara-and-the-onyx-dragon">DM Note —
+        Tatara and the Onyx Dragon</h4>
+
+        <p><strong>Kokuryū</strong> (Onyx Dragon) is associated with Tatara — domain of shadow, darkness, and cunning.
+        The dragon is alive and slumbering, but its location is unknown. Kokuryū is currently being <strong>impersonated
+        by Murasakiryū</strong> — the Amethyst Dragon masquerades as Kokuryū to conceal its own awakening. The dark
+        mortals who woke Murasakiryū believed they were waking Kokuryū. The Onyx Rebellion&#39;s legacy — four hundred
+        years of guerrilla warfare against imperial authority — leaves a cultural imprint on Tatara that the real
+        Kokuryū would recognise.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 06-tatara
+    frontmatter:
+      name: 06-tatara
+      type: core
+      description: ''

@@ -62,7 +62,7 @@ pages:
 
         <p>Unknown in current state.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
 
@@ -186,7 +186,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/masota-no-gekko.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: masota-no-gekko
     frontmatter:
       name: Masota no Gekkō

@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/kenta-yamada.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: kenta-yamada
     linkedJournalId: cJEGI93QabikivVA
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 32
-      height: 5'4"
-      weight: 140
       clan: none
       caste: zokumin
       role: Merchant; Owner of the Sakura Blossom Inn
@@ -47,6 +44,9 @@ flags:
       aliases: []
       related_npcs: []
       related_quests: []
+      age: 32
+      height: 5'4\"
+      weight: 140
     hasStatblock: false
 system:
   details:
@@ -80,7 +80,7 @@ system:
 
         <p>Sharp, quick-thinking, resourceful; enjoys market hustle; dislikes dishonesty.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No contact established.</p>
 

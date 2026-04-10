@@ -64,7 +64,7 @@ pages:
         <p>Deep wisdom; duty-driven; slightly skeptical of outsiders until familiarity is established; profound
         knowledge of ancient traditions.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
         before departing. He has not told Relc everything he knows.</p>
@@ -195,7 +195,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/hideaki-sato.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: hideaki-sato
     frontmatter:
       name: Hideaki Sato
@@ -204,9 +204,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 78
-      height: 5'4"
-      weight: 120
       clan: none
       caste: zokumin
       role: Chōrō (Village Elder) of Kōriwara; Order of the Sacred Grove
@@ -225,3 +222,6 @@ flags:
         - solas-evergreen
         - benkei
       related_quests: []
+      age: 78
+      height: 5'4\"
+      weight: 120

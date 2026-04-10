@@ -76,14 +76,12 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/kegare-no-yamai.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: kegare-no-yamai
     frontmatter:
       name: Kegare no Yamai — Disease of Defilement
       type: mechanic
-      mechanic_type: curse
+      mechanicType: curse
       parent: tenkuji-temple/floor-1
       island: hokori
       province: hana

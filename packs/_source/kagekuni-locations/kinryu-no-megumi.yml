@@ -324,14 +324,12 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/kinryu-no-megumi.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: kinryu-no-megumi
     frontmatter:
       name: Kinryū no Megumi — Blessing Table
       type: mechanic
-      mechanic_type: blessing-table
+      mechanicType: blessing-table
       parent: tenkuji-temple/floor-1
       island: hokori
       province: hana

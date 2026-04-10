@@ -22,30 +22,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: FUTsD1MOrPaDrSUL
-    _key: '!journal.pages!FUTsD1MOrPaDrSUL'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p>The scroll case is lacquered hardwood, once fine, now split along one seam and discoloured by sustained
         contact with scaled flesh. It is lashed to the Zasu&#39;s midsection with strips of silk torn from what was once
@@ -88,31 +67,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: 8FW9aaa8J1XNeGYl
-    _key: '!journal.pages!8FW9aaa8J1XNeGYl'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3
-        id="kg-investigation-amp-identification" data-section="investigation-amp-identification">Investigation &amp;
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-investigation-amp-identification" data-section="investigation-amp-identification">Investigation &amp;
         Identification</h3>
 
         <ul>
@@ -247,31 +204,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: eUExTLyDgMcmRcph
-    _key: '!journal.pages!eUExTLyDgMcmRcph'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-notes" data-section="dm-notes">DM
-        Notes</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-notes" data-section="dm-notes">DM Notes</h3>
 
         <p><strong>Why the Zasu carries these:</strong> The chief seimaster gathered these documents before performing
         the ritual on himself — the last to undergo it, trying to maintain enough awareness to lead his transformed
@@ -353,9 +288,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -363,17 +298,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/zasu-ritual-scrolls.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: zasu-ritual-scrolls
     frontmatter:
       name: The Zasu's Ritual Scrolls — Hebi no Hensen
       type: location-item
-      location_type: discoverable-item
+      locationType: discoverable-item
       parent: tenkuji-temple/floor-1/inner-sanctum
-      floor: 1
-      room_number: 6
+      floor: '1'
+      roomNumber: '6'
       island: hokori
       province: hana
       status: active

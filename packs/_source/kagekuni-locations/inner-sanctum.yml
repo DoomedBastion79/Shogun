@@ -24,30 +24,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: LZKJOdXGwTAaiMGa
-    _key: '!journal.pages!LZKJOdXGwTAaiMGa'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p>North end of the temple — most sacred space on the first floor. Octagonal chamber, 90 ft wide × 35 ft deep.
         Accessed via double set of double doors from the Grand Hall&#39;s north wall.</p>
@@ -73,31 +52,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: 6r8EIasEDMnuhB2c
-    _key: '!journal.pages!6r8EIasEDMnuhB2c'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
-        data-section="discoveries">Discoveries</h3>
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
 
         <ul>
 
@@ -235,31 +192,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: eVzMBCgoxg4f8Ln4
-    _key: '!journal.pages!eVzMBCgoxg4f8Ln4'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
-        data-section="encounters">Encounters</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
 
         <ul>
 
@@ -337,9 +272,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -347,17 +282,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/inner-sanctum.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: inner-sanctum
     frontmatter:
       name: The Inner Sanctum — Naijin
       type: location
-      location_type: dungeon-room
+      locationType: dungeon-room
       parent: tenkuji-temple/floor-1
-      floor: 1
-      room_number: 6
+      floor: '1'
+      roomNumber: '6'
       island: hokori
       province: hana
       status: active

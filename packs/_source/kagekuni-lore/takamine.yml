@@ -1,9 +1,9 @@
-_id: BJQ7tycD0IMEsUcO
-_key: '!journal!BJQ7tycD0IMEsUcO'
+_id: Nlnrpona1dVTR4EQ
+_key: '!journal!Nlnrpona1dVTR4EQ'
 name: Takamine
 pages:
-  - _id: eq5ca2bSD9eVmseM
-    _key: '!journal.pages!eq5ca2bSD9eVmseM'
+  - _id: rmoSWk290SOziJrg
+    _key: '!journal.pages!rmoSWk290SOziJrg'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: Dvbix5BaAZtE5CVk
-    _key: '!journal.pages!Dvbix5BaAZtE5CVk'
+  - _id: RpfR7lVfLprjY0U9
+    _key: '!journal.pages!RpfR7lVfLprjY0U9'
     name: Known
     type: text
     title:
@@ -85,8 +85,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: aZmqOdGyHudRwAkj
-    _key: '!journal.pages!aZmqOdGyHudRwAkj'
+  - _id: dWvWgtd9CVmGRO4j
+    _key: '!journal.pages!dWvWgtd9CVmGRO4j'
     name: Discoverable (GM)
     type: text
     title:
@@ -117,8 +117,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: zAE77dJ9EhqgNVKd
-    _key: '!journal.pages!zAE77dJ9EhqgNVKd'
+  - _id: BfN6BKktouAEIomM
+    _key: '!journal.pages!BfN6BKktouAEIomM'
     name: SEALED — GM Only
     type: text
     title:
@@ -175,7 +175,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/takamine.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: takamine
     frontmatter:
       name: Takamine

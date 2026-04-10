@@ -2,38 +2,6 @@ _id: a9J6nOW96dNzYPxO
 _key: '!journal!a9J6nOW96dNzYPxO'
 name: 'Misunderstood Ventures: The Side Effects of Wisdom'
 pages:
-  - _id: QNY9aX8PeAWn6dAv
-    _key: '!journal.pages!QNY9aX8PeAWn6dAv'
-    name: Overview
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
-        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
-        class="kg-info__row"><dt>Location</dt><dd data-field="location">akatsuki-kaze-province</dd></div><div
-        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">personal</dd></div><div
-        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">shicho-ren-nakamura</dd></div></dl><p><em
-        lang="ja-Latn">&quot;In the world of commerce and counsel, every venture has its share of
-        challenges.&quot;</em></p>
-
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
   - _id: DbDKmbyC4lXa9lHN
     _key: '!journal.pages!DbDKmbyC4lXa9lHN'
     name: Known
@@ -287,9 +255,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/quests/personal-kojiri-misunderstood.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
     slug: personal-kojiri-misunderstood
     frontmatter:
       name: 'Misunderstood Ventures: The Side Effects of Wisdom'
@@ -307,7 +273,7 @@ flags:
       deadline_type: none
       deadline_date: null
       deadline_consequence: null
-      consequences: null
+      consequences: []
       related_quests:
         - main-gekko-investigation
       tags: []

@@ -22,30 +22,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: aes0Hnaki8ZkxyNi
-    _key: '!journal.pages!aes0Hnaki8ZkxyNi'
-    name: Known
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><p><strong>Physical Description:</strong></p>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><strong>Physical Description:</strong></p>
 
         <p>Accessed via a 10 ft wide, 60 ft long unmarked hallway extending north from the west wing of the E-W hallway.
         Room is 50 ft wide × 40 ft deep, high ceiling. Complete sound suppression at the threshold — all external noise
@@ -75,31 +54,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: LV4kRmXmVl0Bf4lW
-    _key: '!journal.pages!LV4kRmXmVl0Bf4lW'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-discoveries"
-        data-section="discoveries">Discoveries</h3>
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
 
         <ul>
 
@@ -250,31 +207,9 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: 4ParjtnKYyxk9L8I
-    _key: '!journal.pages!4ParjtnKYyxk9L8I'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-encounters"
-        data-section="encounters">Encounters</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
 
         <ul>
 
@@ -355,9 +290,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -365,17 +300,15 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/floor-1/star-shrine.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: star-shrine
     frontmatter:
       name: The Star Shrine — Okuden
       type: location
-      location_type: dungeon-room
+      locationType: dungeon-room
       parent: tenkuji-temple/floor-1
-      floor: 1
-      room_number: 3
+      floor: '1'
+      roomNumber: '3'
       island: hokori
       province: hana
       status: active

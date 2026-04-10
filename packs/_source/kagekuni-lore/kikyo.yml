@@ -1,9 +1,9 @@
-_id: yioarJgMml9KErpy
-_key: '!journal!yioarJgMml9KErpy'
+_id: qQn8an0aGULyMhoM
+_key: '!journal!qQn8an0aGULyMhoM'
 name: Kikyo
 pages:
-  - _id: yDY9qaUOZ9XYewUw
-    _key: '!journal.pages!yDY9qaUOZ9XYewUw'
+  - _id: AUlTsKuT4eP04n3K
+    _key: '!journal.pages!AUlTsKuT4eP04n3K'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: lOCtK9bvQaFjSmxp
-    _key: '!journal.pages!lOCtK9bvQaFjSmxp'
+  - _id: k6B0ZBAfu694NNLd
+    _key: '!journal.pages!k6B0ZBAfu694NNLd'
     name: Known
     type: text
     title:
@@ -97,8 +97,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: bbnD81AMh45juNds
-    _key: '!journal.pages!bbnD81AMh45juNds'
+  - _id: x2y04hGDAVTdTMox
+    _key: '!journal.pages!x2y04hGDAVTdTMox'
     name: Discoverable (GM)
     type: text
     title:
@@ -132,8 +132,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: 4T2vUGX7XwrbRszC
-    _key: '!journal.pages!4T2vUGX7XwrbRszC'
+  - _id: oivefLjYZGattFaq
+    _key: '!journal.pages!oivefLjYZGattFaq'
     name: SEALED — GM Only
     type: text
     title:
@@ -209,7 +209,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/kikyo.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: kikyo
     frontmatter:
       name: Kikyo

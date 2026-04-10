@@ -1,0 +1,69 @@
+_id: 5JurzP3l2kspbVU2
+_key: '!journal!5JurzP3l2kspbVU2'
+name: Ryū — Dragons & Dragon-kin
+pages:
+  - _id: eCAy7YJGEoXveaYP
+    _key: '!journal.pages!eCAy7YJGEoXveaYP'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><h2 id="kg-dragons"
+        data-section="dragons">Dragons</h2>
+
+        <p>The seven Progenitor Dragons founded the civilization of Kagekuni in the deep past. Their dragon clans —
+        Crimson, Azure, Emerald, Onyx, Golden, Silver, and Amethyst — established the framework of society, religion,
+        and magical practice that persists to this day. They are remembered as historical and mythological figures whose
+        legacy shapes every aspect of life in the Shrouded Isles.</p>
+
+        <p>Non-Progenitor dragons are extraordinarily rare in the current era. Sightings occur perhaps once in a
+        generation, usually in remote locations — the volcanic peaks of Fushichō, the deep waters around Kawa, the
+        highest ridges of the Tenchūsan Ren. These encounters are poorly documented because the witnesses tend to be
+        isolated travelers whose accounts are received with skepticism.</p>
+
+        <p>Dragon eggs surface occasionally in excavations, in the hoards of other creatures, or in the treasure vaults
+        of noble houses. They are believed to be fossils of the founding era — beautiful, collectible, and prized as
+        relics.</p>
+
+        <h2 id="kg-ryjin" data-section="ryjin">Ryūjin</h2>
+
+        <p>Dragon-blooded beings. Not dragonborn — who are a distinct race claiming descent from the Progenitors — but
+        creatures in which draconic blood manifests as something between beast and legend. A ryūjin might appear as an
+        enormous serpent with vestigial wings, or a lizard the size of a war-horse with scales that refract light into
+        colors that don&#39;t exist in the normal spectrum.</p>
+
+        <p>Ryūjin are tied to specific environments and elements. A river ryūjin commands the currents and can call
+        floods or droughts. A mountain ryūjin causes tremors and rockslides, sometimes deliberately and sometimes as a
+        byproduct of rolling over in its sleep. They are venerated in local tradition and placated with offerings, and
+        the distinction between a ryūjin and a kami is a subject of ongoing theological debate.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: Ryū — Dragons & Dragon-kin
+    frontmatter:
+      name: Ryū — Dragons & Dragon-kin
+      type: core
+      description: ''

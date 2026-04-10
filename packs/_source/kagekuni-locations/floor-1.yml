@@ -410,31 +410,10 @@ pages:
 
         <hr>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 10
-    ownership:
-      default: 2
-    flags: {}
-  - _id: YwIow9cbgjAszoM4
-    _key: '!journal.pages!YwIow9cbgjAszoM4'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-architecture-notes-first-floor"
-        data-section="dm-architecture-notes-first-floor">DM Architecture Notes — First Floor</h3>
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-architecture-notes-first-floor" data-section="dm-architecture-notes-first-floor">DM Architecture
+        Notes — First Floor</h3>
 
         <p><strong>The Temple&#39;s Two States</strong>
 
@@ -1477,9 +1456,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 10
     ownership:
-      default: 0
+      default: 2
     flags: {}
 folder: null
 sort: 0
@@ -1487,12 +1466,12 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/locations/tenkuji-temple/floor-1.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: floor-1
     frontmatter:
       name: Oryuzan Tenku-ji — First Floor
       type: location
-      location_type: dungeon-floor
+      locationType: dungeon-floor
       parent: tenkuji-temple
       island: hokori
       province: hana

@@ -1,0 +1,180 @@
+_id: 3zsZm5Xg1YA8AUnf
+_key: '!journal!3zsZm5Xg1YA8AUnf'
+name: 01-the-three-stars
+pages:
+  - _id: IfzkKXOGfVTEr6gS
+    _key: '!journal.pages!IfzkKXOGfVTEr6gS'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>The Miyosai system is governed by
+        three stars that orbit a common gravitational center. Their movements drive the great astrological events of
+        Seizan, shaping weather, tides, and the flow of sei across the world. These are purely celestial phenomena —
+        named after older divine concepts but not worshipped directly.</p>
+
+        <h2 id="kg-amaterasu-the-golden-anchor" data-section="amaterasu-the-golden-anchor">Amaterasu — The Golden
+        Anchor</h2>
+
+        <p><strong>Type:</strong> Primary star, golden-yellow
+
+        <strong>Character:</strong> Stable and foundational. Amaterasu is the most massive of the three stars and
+        carries the entire planetary family — including Seizan — with it as it moves. Its warmth sustains life,
+        agriculture, and the physical world.
+
+        <strong>Magical Influence:</strong> Core life energy; baseline sei. The foundation upon which all other magical
+        expression rests.</p>
+
+        <h2 id="kg-susanoo-the-blue-storm" data-section="susanoo-the-blue-storm">Susanoo — The Blue Storm</h2>
+
+        <p><strong>Type:</strong> Smaller blue-white dwarf
+
+        <strong>Character:</strong> Complex and variable orbit. Susanoo produces both the closest stellar approaches and
+        meaningful retreats. When it draws near to Seizan, the skies fill with blue-white atmospheric phenomena — ghost
+        rainbows shimmer across the horizon and the air takes on a crystalline quality. This close approach is the
+        celestial event known as <strong>Nagorikaze</strong>.
+
+        <strong>Magical Influence:</strong> Water magic, healing, and purification. Susanoo&#39;s proximity intensifies
+        all water-aspected sei. Coastal communities, healers, and maritime practitioners track its position closely.</p>
+
+        <h2 id="kg-tsukuyomi-the-red-shadow" data-section="tsukuyomi-the-red-shadow">Tsukuyomi — The Red Shadow</h2>
+
+        <p><strong>Type:</strong> Larger deep-red dwarf
+
+        <strong>Character:</strong> Elongated orbit with the most dramatic near-far swing of the three stars.
+        Tsukuyomi&#39;s routine orbital variation produces the astrological event known as <strong>Long Shadow</strong>
+        — periods when transformation magic weakens and shadows behave strangely across the land. At perihelion (closest
+        approach), its deep red light casts visible daytime shadows that move independently of Amaterasu&#39;s golden
+        light.
+
+        <strong>Magical Influence:</strong> Transformation magic and energy manipulation. When Tsukuyomi burns close,
+        shapeshifting, transmutation, and raw sei channelling reach their peak. When it retreats, these disciplines
+        falter.</p>
+
+        <h2 id="kg-solar-astrological-events" data-section="solar-astrological-events">Solar Astrological Events</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Event</th>
+
+        <th>Celestial Cause</th>
+
+        <th>Effects</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Nagorikaze</strong></td>
+
+        <td>Susanoo draws close to Seizan</td>
+
+        <td>Blue-white atmospheric phenomena; ghost rainbows shimmer across the sky; water magic intensifies throughout
+        Kagekuni</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Long Shadow</strong></td>
+
+        <td>Tsukuyomi at furthest orbital point (aphelion)</td>
+
+        <td>Transformation magic weakens; shadows behave strangely — stretching, splitting, or moving against the
+        light</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Shinmyōji</strong></td>
+
+        <td>Kōrigami at peak influence</td>
+
+        <td>Luminescent mists settle over Kagekuni; winter severity increases; the cold carries an edge that cuts deeper
+        than temperature alone</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Additional solar events exist but are less commonly named or studied. Seimasters at Seishin maintain
+        observational records of celestial alignments and their correlations to sei fluctuation.</p>
+
+        <section class="secret">
+
+
+        <h3 id="kg-dm-note-the-three-stars-and-the-great-aphelion"
+        data-section="dm-note-the-three-stars-and-the-great-aphelion">DM Note — The Three Stars and the Great
+        Aphelion</h3>
+
+        <p>The three stars orbit a common <strong>barycenter</strong> on independent orbital inclinations, producing a
+        three-dimensional dance rather than a flat orbital disc. The named astrological events (Nagorikaze, Long Shadow)
+        are the routine expressions of this dance — individual stars reaching notable positions within normal orbital
+        variation.</p>
+
+        <p>The <strong>Great Aphelion</strong> (~14344) was a singular event requiring all three independent orbits to
+        peak simultaneously. The probability is the product of three separate low-probability alignments, and the
+        distance compounds geometrically.</p>
+
+        <h4 id="kg-amaterasu-during-the-drought" data-section="amaterasu-during-the-drought">Amaterasu During the
+        Drought</h4>
+
+        <p>Amaterasu never went dark. Its baseline sei sustained life throughout the dark ages. The world retained
+        normal day/night cycles. What was lost was the complex magical expression that depended on the full trinary
+        system.</p>
+
+        <h4 id="kg-tsukuyomi-first-to-fade-last-to-return"
+        data-section="tsukuyomi-first-to-fade-last-to-return">Tsukuyomi — First to Fade, Last to Return</h4>
+
+        <p>Tsukuyomi&#39;s deep red began bleeding approximately 150–170 years before the nadir (<del>14174–14194). Its
+        elongated orbit meant early decline would have appeared as an unusually extended Long Shadow before the deeper
+        pattern was recognized. Transformation magic became unreliable first. Tsukuyomi was the last star to return —
+        its deep red crossing into reliable visibility defined the <strong>Great Awakening</strong> (</del>16693).</p>
+
+        <h4 id="kg-susanoo-second-to-fade-first-to-return" data-section="susanoo-second-to-fade-first-to-return">Susanoo
+        — Second to Fade, First to Return</h4>
+
+        <p>Susanoo dimmed approximately 50–80 years before nadir (<del>14264–14294). The order watched Tsukuyomi
+        declining for nearly a century before Susanoo followed. Susanoo&#39;s failure was the loss that reached the
+        general population — healers losing effectiveness, maritime practices becoming unreliable. Tsukuyomi&#39;s
+        decline was a practitioner problem; Susanoo&#39;s was a human one. Susanoo was also first to return — the first
+        Talents (</del>15962) correlate with its partial recovery, consistent with healing and purification being among
+        the earliest accessible sei expressions.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 01-the-three-stars
+    frontmatter:
+      name: 01-the-three-stars
+      type: core
+      description: ''

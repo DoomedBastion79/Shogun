@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/akihiko-kurohana.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: akihiko-kurohana
     linkedJournalId: BeyOUhGlMY7ZBP9e
     frontmatter:
@@ -31,9 +31,6 @@ flags:
       status: active
       race: Dragonborn (Black)
       sex: M
-      age: 54
-      height: 6'6"
-      weight: 270
       clan: kurohana
       caste: kugai
       role: Daimyo of Clan Kurohana
@@ -50,6 +47,9 @@ flags:
         - kenshin-arakawa
         - tatsuya-hoshino
       related_quests: []
+      age: 54
+      height: 6'6\"
+      weight: 270
     hasStatblock: false
 system:
   details:
@@ -84,7 +84,7 @@ system:
 
         <p>Stern, commanding; values loyalty and discipline; enjoys battle and strategy; unforgiving of betrayal.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Indirect. The party carries the Imperial Seal of the Kurohana Clan, issued by Lord Kurohana Tatsuya on behalf
         of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans

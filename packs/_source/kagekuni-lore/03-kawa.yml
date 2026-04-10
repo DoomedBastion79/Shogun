@@ -1,0 +1,125 @@
+_id: DL2OXmIr3WvOpfz8
+_key: '!journal!DL2OXmIr3WvOpfz8'
+name: 03-kawa
+pages:
+  - _id: WmsRfFFPym9zrcEO
+    _key: '!journal.pages!WmsRfFFPym9zrcEO'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">core</dd></div></dl><p>Kawa is an island that breathes
+        with the seasons. For most of the year, only its highest terrain rises above water — ridgelines, hilltops, and a
+        handful of elevated settlements that persist as islands within an island. In winter, the waters recede and the
+        lowlands emerge: vast, extraordinarily fertile floodplains that have been farmed for millennia using
+        agricultural techniques found nowhere else in the archipelago. The annual cycle of submersion and emergence
+        defines everything about Kawa — its architecture (built on stilts and elevated stone foundations), its economy
+        (one explosive growing season), and its people (patient, methodical, and deeply attuned to tidal calendars).</p>
+
+        <p>Kawa lies to the east of Hokori, visible from the Stormwatch Cliffs in Nami province on clear days. The
+        waters surrounding it are navigable but treacherous — shifting sandbars and unpredictable currents created by
+        the interaction of four lunar tidal patterns make piloting around Kawa a specialist skill.</p>
+
+        <h2 id="kg-points-of-interest" data-section="points-of-interest">Points of Interest</h2>
+
+        <p>The <strong>Great Library</strong> sits at <strong>Nagisawa</strong>, on the shores of <strong>Seirei
+        Mizuumi</strong> (Spirit Lake) — a body of water said to connect to the underworld. The library was built during
+        the reign of the First Emperor, Tenryū no Mikado, and remains one of the most significant repositories of
+        knowledge in the archipelago. It was partially destroyed by an earthquake during the Dark Ages and restored
+        during the Jinshō Reformation (~15642–15691).</p>
+
+        <p>Seirei Mizuumi itself is a place of deep spiritual significance. The Battle of Seirei Mizuumi — fought during
+        the era of imperial unification — secured Kawa for the empire and broke the Azure Clan navy. The lake&#39;s
+        waters remain a site of pilgrimage and scholarly study.</p>
+
+        <h2 id="kg-settlements" data-section="settlements">Settlements</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Settlement</th>
+
+        <th>Type</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Nagisawa</strong></td>
+
+        <td>City</td>
+
+        <td>Home of the Great Library; shores of Seirei Mizuumi</td>
+
+        </tr>
+
+        <tr>
+
+        <td><em lang="ja-Latn">&lt;placeholder — additional Kawa settlements to be developed&gt;</em></td>
+
+        <td></td>
+
+        <td></td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h2>
+
+        <p>Kawa is the agricultural heartland of the archipelago — its seasonal floodplains produce yields that dwarf
+        anything achievable on permanently dry land. The island&#39;s economy revolves around the winter growing season
+        and the export of grain, rice, and preserved produce to the other islands.</p>
+
+        <p><em lang="ja-Latn">&lt;placeholder — Kawa governance, cultural detail, and inter-island trade relationships
+        to be developed&gt;</em></p>
+
+        <section class="secret">
+
+
+        <h4 id="kg-dm-note-kawa-and-the-azure-dragon" data-section="dm-note-kawa-and-the-azure-dragon">DM Note — Kawa
+        and the Azure Dragon</h4>
+
+        <p><strong>Aoryū</strong> (Azure Dragon) is associated with Kawa — domain of water, storms, and coastal
+        protection. The dragon is alive and slumbering. Seirei Mizuumi&#39;s reputation as a connection to the
+        underworld may be a folk-memory distortion of the dragon&#39;s presence beneath or within the lake. The Great
+        Library&#39;s proximity to the lake is not coincidental — the library was built there because the site&#39;s sei
+        concentration was the strongest on the island, a consequence of the dragon&#39;s presence.</p>
+
+        </section></section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: 03-kawa
+    frontmatter:
+      name: 03-kawa
+      type: core
+      description: ''

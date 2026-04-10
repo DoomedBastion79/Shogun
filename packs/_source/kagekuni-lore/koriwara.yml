@@ -1,9 +1,9 @@
-_id: 1Yu2pETYUBeBwTGI
-_key: '!journal!1Yu2pETYUBeBwTGI'
+_id: 9NBSUIsBfb44L72D
+_key: '!journal!9NBSUIsBfb44L72D'
 name: Koriwara
 pages:
-  - _id: eKzRK1RLfG50YpVQ
-    _key: '!journal.pages!eKzRK1RLfG50YpVQ'
+  - _id: JChHwt0rhP1xsHgi
+    _key: '!journal.pages!JChHwt0rhP1xsHgi'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: Ky0K6OIHon6TLuAL
-    _key: '!journal.pages!Ky0K6OIHon6TLuAL'
+  - _id: WD6r0kSfFnAAplgn
+    _key: '!journal.pages!WD6r0kSfFnAAplgn'
     name: Known
     type: text
     title:
@@ -78,8 +78,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: etjsNofsC823gnLz
-    _key: '!journal.pages!etjsNofsC823gnLz'
+  - _id: OYwyg63tzUSFdfoo
+    _key: '!journal.pages!OYwyg63tzUSFdfoo'
     name: Discoverable (GM)
     type: text
     title:
@@ -112,8 +112,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: SkcNhHz9fudtLWeq
-    _key: '!journal.pages!SkcNhHz9fudtLWeq'
+  - _id: xyfwtrtpMSbMASFJ
+    _key: '!journal.pages!xyfwtrtpMSbMASFJ'
     name: SEALED — GM Only
     type: text
     title:
@@ -176,7 +176,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/koriwara.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: koriwara
     frontmatter:
       name: Koriwara

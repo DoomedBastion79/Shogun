@@ -1,9 +1,9 @@
-_id: hH01F1CRfufaEBL4
-_key: '!journal!hH01F1CRfufaEBL4'
+_id: hzsa2iSlnRd38adi
+_key: '!journal!hzsa2iSlnRd38adi'
 name: Heian
 pages:
-  - _id: kpRnvuWc8an8uTOd
-    _key: '!journal.pages!kpRnvuWc8an8uTOd'
+  - _id: lD7DDZXi8m3sH1G4
+    _key: '!journal.pages!lD7DDZXi8m3sH1G4'
     name: Overview
     type: text
     title:
@@ -29,8 +29,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: LElhj7cpsxX9SRgs
-    _key: '!journal.pages!LElhj7cpsxX9SRgs'
+  - _id: kK56CHpKzJP5zvom
+    _key: '!journal.pages!kK56CHpKzJP5zvom'
     name: Known
     type: text
     title:
@@ -165,8 +165,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: KSHsdBOLZTqMJpr5
-    _key: '!journal.pages!KSHsdBOLZTqMJpr5'
+  - _id: 48FH2UYG0F758gZn
+    _key: '!journal.pages!48FH2UYG0F758gZn'
     name: Discoverable (GM)
     type: text
     title:
@@ -200,8 +200,8 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: N48vzuKxshmU7Nq2
-    _key: '!journal.pages!N48vzuKxshmU7Nq2'
+  - _id: LXb5eJTyOXHcwEzK
+    _key: '!journal.pages!LXb5eJTyOXHcwEzK'
     name: SEALED — GM Only
     type: text
     title:
@@ -278,7 +278,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/heian.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
     slug: heian
     frontmatter:
       name: Heian

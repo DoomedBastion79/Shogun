@@ -61,7 +61,7 @@ pages:
 
         <p>Stern, commanding; values loyalty; enjoys battle, thunder, and strategy; strict code of honor.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>No direct contact. The party operates under the authority of his clan through Taisho Hideo Nakamura. Dian Wei
         received sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan daimyo share the
@@ -171,7 +171,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/raijin-no-kazuhiko.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: raijin-no-kazuhiko
     frontmatter:
       name: Raijin no Kazuhiko
@@ -180,9 +180,6 @@ flags:
       status: active
       race: Human
       sex: M
-      age: 47
-      height: 6'5"
-      weight: 240
       clan: kaminari
       caste: kugai
       role: Daimyo of Clan Kaminari
@@ -202,3 +199,6 @@ flags:
         - haruto-masashige
         - akihiko-kurohana
       related_quests: []
+      age: 47
+      height: 6'5\"
+      weight: 240

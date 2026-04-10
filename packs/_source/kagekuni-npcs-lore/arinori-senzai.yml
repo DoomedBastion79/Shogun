@@ -63,7 +63,7 @@ pages:
         <p>Exceptionally intelligent, organized, calm, authoritative; values order and efficiency; compassionate beneath
         stern exterior; integrity and fairness renowned.</p>
 
-        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship To Party</h3>
 
         <p>Present at mission briefing in Tensho no Mon. Met the party alongside Taisho Hideo Nakamura.</p>
 
@@ -168,7 +168,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/arinori-senzai.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
     slug: arinori-senzai
     frontmatter:
       name: Arinori Senzai
@@ -177,9 +177,6 @@ flags:
       status: active
       race: Elf
       sex: M
-      age: elderly
-      height: 6'2"
-      weight: 160
       clan: kaminari
       caste: kugai
       role: Hyōrō Bugyō (Provisions Commissioner)
@@ -197,3 +194,6 @@ flags:
         - hideo-nakamura
         - raijin-no-kazuhiko
       related_quests: []
+      age: elderly
+      height: 6'2\"
+      weight: 160

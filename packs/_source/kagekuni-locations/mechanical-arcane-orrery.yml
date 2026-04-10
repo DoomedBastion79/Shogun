@@ -736,14 +736,12 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: >-
-      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
-      Games/Shogun/Claude/locations/tenkuji-temple/supplements/mechanical-arcane-orrery.md
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
     slug: mechanical-arcane-orrery
     frontmatter:
       name: Observatory Repair Mechanics
       type: location
-      location_type: design-document
+      locationType: design-document
       parent: tenkuji-temple
       island: hokori
       province: hana
