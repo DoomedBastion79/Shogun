@@ -277,7 +277,7 @@ sort: 0
 ownership:
   default: 2
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/personal-relc-sacred-grove.md
     slug: personal-relc-sacred-grove
     frontmatter:

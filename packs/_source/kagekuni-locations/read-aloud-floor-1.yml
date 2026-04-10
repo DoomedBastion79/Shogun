@@ -232,7 +232,7 @@ sort: 0
 ownership:
   default: 2
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: >-
       C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
       Games/Shogun/Claude/locations/tenkuji-temple/supplements/read-aloud-floor-1.md

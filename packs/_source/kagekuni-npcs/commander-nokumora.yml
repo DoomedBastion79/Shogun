@@ -20,7 +20,7 @@ sort: 0
 ownership:
   default: 0
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/commander-nokumora.md
     slug: commander-nokumora
     linkedJournalId: fpdIzIby8q9YRxxT
@@ -69,7 +69,7 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.fpdIzIby8q9YRxxT]{View NPC Lore}</em></p>
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.fpdIzIby8q9YRxxT]{View NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

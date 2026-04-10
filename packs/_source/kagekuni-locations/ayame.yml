@@ -208,7 +208,7 @@ sort: 0
 ownership:
   default: 2
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/ayame.md
     slug: ayame
     frontmatter:

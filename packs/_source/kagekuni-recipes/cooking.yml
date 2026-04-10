@@ -139,7 +139,7 @@ pages:
         abilityDc: 12
         expression: ''
         modifierList: []
-      kagekuni-assistant:
+      assistant:
         sourcePath: >-
           C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
           Games/Shogun/Claude/recipes/cooking/test-crafted-item.md
@@ -163,6 +163,6 @@ flags:
       of each province. Most recipes use common foraged ingredients and
       require modest tools. Master chefs may unlock dishes with special
       effects when prepared with rare ingredients.
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/recipes/cooking/_book.md
     bookSlug: cooking

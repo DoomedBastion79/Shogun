@@ -2,7 +2,7 @@
   "id": "assistant",
   "title": "Kagekuni Assistant",
   "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "authors": [
     {
       "name": "Andy Rowland"
@@ -34,7 +34,10 @@
       "path": "packs/kagekuni-lore",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "locations",
@@ -42,7 +45,10 @@
       "path": "packs/kagekuni-locations",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "quests",
@@ -50,7 +56,10 @@
       "path": "packs/kagekuni-quests",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "npcs-lore",
@@ -58,7 +67,10 @@
       "path": "packs/kagekuni-npcs-lore",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "npcs",
@@ -66,7 +78,10 @@
       "path": "packs/kagekuni-npcs",
       "type": "Actor",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "items",
@@ -74,7 +89,10 @@
       "path": "packs/kagekuni-items",
       "type": "Item",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "recipes",
@@ -82,7 +100,10 @@
       "path": "packs/kagekuni-recipes",
       "type": "JournalEntry",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "races",
@@ -90,7 +111,10 @@
       "path": "packs/kagekuni-races",
       "type": "Item",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "name": "classes",
@@ -98,7 +122,10 @@
       "path": "packs/kagekuni-classes",
       "type": "Item",
       "system": "dnd5e",
-      "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [

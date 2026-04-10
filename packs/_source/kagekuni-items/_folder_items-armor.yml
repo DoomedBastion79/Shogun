@@ -7,5 +7,5 @@ sorting: m
 sort: 20
 color: null
 flags:
-  kagekuni-assistant:
+  assistant:
     folderPath: items/armor

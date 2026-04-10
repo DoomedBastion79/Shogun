@@ -20,7 +20,7 @@ sort: 0
 ownership:
   default: 0
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/akihiko-kurohana.md
     slug: akihiko-kurohana
     linkedJournalId: BeyOUhGlMY7ZBP9e
@@ -93,7 +93,7 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{View NPC Lore}</em></p>
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{View NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

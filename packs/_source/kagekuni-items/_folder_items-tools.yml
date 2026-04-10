@@ -7,5 +7,5 @@ sorting: m
 sort: 50
 color: null
 flags:
-  kagekuni-assistant:
+  assistant:
     folderPath: items/tools

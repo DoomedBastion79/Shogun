@@ -8,7 +8,7 @@ sort: 0
 ownership:
   default: 0
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
     slug: buddhist-monk
     category: class

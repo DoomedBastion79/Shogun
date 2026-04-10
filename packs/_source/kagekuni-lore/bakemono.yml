@@ -490,7 +490,7 @@ sort: 0
 ownership:
   default: 2
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/bakemono.md
     slug: bakemono
     frontmatter:

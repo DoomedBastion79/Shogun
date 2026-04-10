@@ -388,7 +388,7 @@ sort: 0
 ownership:
   default: 2
 flags:
-  kagekuni-assistant:
+  assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/hana.md
     slug: hana
     frontmatter:
