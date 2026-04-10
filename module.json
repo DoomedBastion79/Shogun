@@ -2,7 +2,7 @@
   "id": "assistant",
   "title": "Kagekuni Assistant",
   "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "authors": [
     {
       "name": "Andy Rowland"
