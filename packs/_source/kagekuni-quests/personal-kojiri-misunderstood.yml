@@ -3,7 +3,7 @@ _key: '!journal!a9J6nOW96dNzYPxO'
 name: 'Misunderstood Ventures: The Side Effects of Wisdom'
 pages:
   - _id: DbDKmbyC4lXa9lHN
-    _key: '!journal.pages!DbDKmbyC4lXa9lHN'
+    _key: '!journal.pages!a9J6nOW96dNzYPxO.DbDKmbyC4lXa9lHN'
     name: Known
     type: text
     title:
@@ -102,7 +102,7 @@ pages:
       default: 2
     flags: {}
   - _id: MzBaHJpl6U4d96hC
-    _key: '!journal.pages!MzBaHJpl6U4d96hC'
+    _key: '!journal.pages!a9J6nOW96dNzYPxO.MzBaHJpl6U4d96hC'
     name: Discoverable (GM)
     type: text
     title:
@@ -166,7 +166,7 @@ pages:
       default: 0
     flags: {}
   - _id: HJTevvfA7G73uo1s
-    _key: '!journal.pages!HJTevvfA7G73uo1s'
+    _key: '!journal.pages!a9J6nOW96dNzYPxO.HJTevvfA7G73uo1s'
     name: SEALED — GM Only
     type: text
     title:

@@ -3,7 +3,7 @@ _key: '!journal!G73nlQAKU99FLB4T'
 name: Akatsuki
 pages:
   - _id: T1Yff5EifVPgtE5i
-    _key: '!journal.pages!T1Yff5EifVPgtE5i'
+    _key: '!journal.pages!G73nlQAKU99FLB4T.T1Yff5EifVPgtE5i'
     name: Overview
     type: text
     title:
@@ -31,7 +31,7 @@ pages:
       default: 2
     flags: {}
   - _id: YRkdzRiCkGNos9Lr
-    _key: '!journal.pages!YRkdzRiCkGNos9Lr'
+    _key: '!journal.pages!G73nlQAKU99FLB4T.YRkdzRiCkGNos9Lr'
     name: Known
     type: text
     title:
@@ -86,7 +86,7 @@ pages:
       default: 2
     flags: {}
   - _id: rC22CVhmQ2SmHu0i
-    _key: '!journal.pages!rC22CVhmQ2SmHu0i'
+    _key: '!journal.pages!G73nlQAKU99FLB4T.rC22CVhmQ2SmHu0i'
     name: Discoverable (GM)
     type: text
     title:
@@ -118,7 +118,7 @@ pages:
       default: 0
     flags: {}
   - _id: 75S7gaiPtkIuoDMs
-    _key: '!journal.pages!75S7gaiPtkIuoDMs'
+    _key: '!journal.pages!G73nlQAKU99FLB4T.75S7gaiPtkIuoDMs'
     name: SEALED — GM Only
     type: text
     title:

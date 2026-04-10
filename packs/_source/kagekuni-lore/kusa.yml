@@ -3,7 +3,7 @@ _key: '!journal!pGJ1frab9rD23hhN'
 name: Kusa
 pages:
   - _id: 6pWQfu6Uem8BFdSf
-    _key: '!journal.pages!6pWQfu6Uem8BFdSf'
+    _key: '!journal.pages!pGJ1frab9rD23hhN.6pWQfu6Uem8BFdSf'
     name: Known
     type: text
     title:
@@ -152,7 +152,7 @@ pages:
       default: 2
     flags: {}
   - _id: vmAAE90bHwAehQeB
-    _key: '!journal.pages!vmAAE90bHwAehQeB'
+    _key: '!journal.pages!pGJ1frab9rD23hhN.vmAAE90bHwAehQeB'
     name: Discoverable (GM)
     type: text
     title:
@@ -186,7 +186,7 @@ pages:
       default: 0
     flags: {}
   - _id: 2mztrLXo87ddGBXm
-    _key: '!journal.pages!2mztrLXo87ddGBXm'
+    _key: '!journal.pages!pGJ1frab9rD23hhN.2mztrLXo87ddGBXm'
     name: SEALED — GM Only
     type: text
     title:

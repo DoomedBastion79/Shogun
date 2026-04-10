@@ -3,7 +3,7 @@ _key: '!journal!CyUld2eHP7MN7Tbx'
 name: Takeda Yoshinobu
 pages:
   - _id: bvRLLxGDjB2uTZcJ
-    _key: '!journal.pages!bvRLLxGDjB2uTZcJ'
+    _key: '!journal.pages!CyUld2eHP7MN7Tbx.bvRLLxGDjB2uTZcJ'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: kzgRrNVvLDGMWqbW
-    _key: '!journal.pages!kzgRrNVvLDGMWqbW'
+    _key: '!journal.pages!CyUld2eHP7MN7Tbx.kzgRrNVvLDGMWqbW'
     name: Known
     type: text
     title:
@@ -80,7 +80,7 @@ pages:
       default: 2
     flags: {}
   - _id: Kmrjj52xqg7L94kq
-    _key: '!journal.pages!Kmrjj52xqg7L94kq'
+    _key: '!journal.pages!CyUld2eHP7MN7Tbx.Kmrjj52xqg7L94kq'
     name: Discoverable (GM)
     type: text
     title:

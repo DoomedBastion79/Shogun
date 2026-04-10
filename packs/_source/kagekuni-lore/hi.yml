@@ -3,7 +3,7 @@ _key: '!journal!Kw4BYanOYTJc22Py'
 name: Hi
 pages:
   - _id: zUNOl8CCeXznSRTM
-    _key: '!journal.pages!zUNOl8CCeXznSRTM'
+    _key: '!journal.pages!Kw4BYanOYTJc22Py.zUNOl8CCeXznSRTM'
     name: Known
     type: text
     title:
@@ -165,7 +165,7 @@ pages:
       default: 2
     flags: {}
   - _id: LLPztQgQs71hDnD0
-    _key: '!journal.pages!LLPztQgQs71hDnD0'
+    _key: '!journal.pages!Kw4BYanOYTJc22Py.LLPztQgQs71hDnD0'
     name: Discoverable (GM)
     type: text
     title:
@@ -200,7 +200,7 @@ pages:
       default: 0
     flags: {}
   - _id: JLxD7rcVlJrT7QPq
-    _key: '!journal.pages!JLxD7rcVlJrT7QPq'
+    _key: '!journal.pages!Kw4BYanOYTJc22Py.JLxD7rcVlJrT7QPq'
     name: SEALED — GM Only
     type: text
     title:

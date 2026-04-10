@@ -3,7 +3,7 @@ _key: '!journal!0HclUlVglsnisViu'
 name: Raijin no Kazuhiko
 pages:
   - _id: z9CB1Cvpsa917A7r
-    _key: '!journal.pages!z9CB1Cvpsa917A7r'
+    _key: '!journal.pages!0HclUlVglsnisViu.z9CB1Cvpsa917A7r'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: jlrodLPDy9fG9rJX
-    _key: '!journal.pages!jlrodLPDy9fG9rJX'
+    _key: '!journal.pages!0HclUlVglsnisViu.jlrodLPDy9fG9rJX'
     name: Known
     type: text
     title:
@@ -80,7 +80,7 @@ pages:
       default: 2
     flags: {}
   - _id: 3irEgvpSQdHmXxOp
-    _key: '!journal.pages!3irEgvpSQdHmXxOp'
+    _key: '!journal.pages!0HclUlVglsnisViu.3irEgvpSQdHmXxOp'
     name: Discoverable (GM)
     type: text
     title:
@@ -123,7 +123,7 @@ pages:
       default: 0
     flags: {}
   - _id: tLnZ71hi2xOlS20Z
-    _key: '!journal.pages!tLnZ71hi2xOlS20Z'
+    _key: '!journal.pages!0HclUlVglsnisViu.tLnZ71hi2xOlS20Z'
     name: SEALED — GM Only
     type: text
     title:

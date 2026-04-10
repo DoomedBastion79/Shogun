@@ -3,7 +3,7 @@ _key: '!journal!QFymGSn2VMFb4Jz0'
 name: Nishihara
 pages:
   - _id: FzSDAmxQFNFkYi2V
-    _key: '!journal.pages!FzSDAmxQFNFkYi2V'
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.FzSDAmxQFNFkYi2V'
     name: Overview
     type: text
     title:
@@ -30,7 +30,7 @@ pages:
       default: 2
     flags: {}
   - _id: iq0ENgAggKg5OY1d
-    _key: '!journal.pages!iq0ENgAggKg5OY1d'
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.iq0ENgAggKg5OY1d'
     name: Known
     type: text
     title:
@@ -82,7 +82,7 @@ pages:
       default: 2
     flags: {}
   - _id: 7D64fx7NeJVN1sBv
-    _key: '!journal.pages!7D64fx7NeJVN1sBv'
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.7D64fx7NeJVN1sBv'
     name: Discoverable (GM)
     type: text
     title:
@@ -115,7 +115,7 @@ pages:
       default: 0
     flags: {}
   - _id: fQHxZZylwfeFjGcL
-    _key: '!journal.pages!fQHxZZylwfeFjGcL'
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.fQHxZZylwfeFjGcL'
     name: SEALED — GM Only
     type: text
     title:

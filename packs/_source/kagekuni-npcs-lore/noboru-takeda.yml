@@ -3,7 +3,7 @@ _key: '!journal!KYknxHBu4Tsi3xBr'
 name: Noboru Takeda
 pages:
   - _id: nPYskM3p7f1D42qy
-    _key: '!journal.pages!nPYskM3p7f1D42qy'
+    _key: '!journal.pages!KYknxHBu4Tsi3xBr.nPYskM3p7f1D42qy'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: HKHr2i8GlkfiNZif
-    _key: '!journal.pages!HKHr2i8GlkfiNZif'
+    _key: '!journal.pages!KYknxHBu4Tsi3xBr.HKHr2i8GlkfiNZif'
     name: Known
     type: text
     title:
@@ -79,7 +79,7 @@ pages:
       default: 2
     flags: {}
   - _id: Bf7khhKfr3YJNAmG
-    _key: '!journal.pages!Bf7khhKfr3YJNAmG'
+    _key: '!journal.pages!KYknxHBu4Tsi3xBr.Bf7khhKfr3YJNAmG'
     name: Discoverable (GM)
     type: text
     title:

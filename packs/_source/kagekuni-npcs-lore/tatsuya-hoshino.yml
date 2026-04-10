@@ -3,7 +3,7 @@ _key: '!journal!w7vr5dZctZHig504'
 name: Tatsuya Hoshino
 pages:
   - _id: 4DznF0Ferc4b9aNt
-    _key: '!journal.pages!4DznF0Ferc4b9aNt'
+    _key: '!journal.pages!w7vr5dZctZHig504.4DznF0Ferc4b9aNt'
     name: Overview
     type: text
     title:
@@ -38,7 +38,7 @@ pages:
       default: 2
     flags: {}
   - _id: SwpVIZdEnl0h7gMU
-    _key: '!journal.pages!SwpVIZdEnl0h7gMU'
+    _key: '!journal.pages!w7vr5dZctZHig504.SwpVIZdEnl0h7gMU'
     name: Known
     type: text
     title:
@@ -80,7 +80,7 @@ pages:
       default: 2
     flags: {}
   - _id: Oz6xF2U1rs9rMnC7
-    _key: '!journal.pages!Oz6xF2U1rs9rMnC7'
+    _key: '!journal.pages!w7vr5dZctZHig504.Oz6xF2U1rs9rMnC7'
     name: Discoverable (GM)
     type: text
     title:

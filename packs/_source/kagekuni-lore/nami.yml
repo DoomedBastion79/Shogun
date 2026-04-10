@@ -3,7 +3,7 @@ _key: '!journal!RIEvGqWkHWedg3O6'
 name: Nami
 pages:
   - _id: P9FYGgRE8SJ43Z6y
-    _key: '!journal.pages!P9FYGgRE8SJ43Z6y'
+    _key: '!journal.pages!RIEvGqWkHWedg3O6.P9FYGgRE8SJ43Z6y'
     name: Known
     type: text
     title:
@@ -132,7 +132,7 @@ pages:
       default: 2
     flags: {}
   - _id: h20ZaJoF0XQDBt9F
-    _key: '!journal.pages!h20ZaJoF0XQDBt9F'
+    _key: '!journal.pages!RIEvGqWkHWedg3O6.h20ZaJoF0XQDBt9F'
     name: Discoverable (GM)
     type: text
     title:
@@ -165,7 +165,7 @@ pages:
       default: 0
     flags: {}
   - _id: dcn5YGgWSnyombdA
-    _key: '!journal.pages!dcn5YGgWSnyombdA'
+    _key: '!journal.pages!RIEvGqWkHWedg3O6.dcn5YGgWSnyombdA'
     name: SEALED — GM Only
     type: text
     title:

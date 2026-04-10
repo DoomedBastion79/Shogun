@@ -3,7 +3,7 @@ _key: '!journal!MLJk1KAijasQiUgh'
 name: Mizu
 pages:
   - _id: 4t0XMbH0OTYNppxi
-    _key: '!journal.pages!4t0XMbH0OTYNppxi'
+    _key: '!journal.pages!MLJk1KAijasQiUgh.4t0XMbH0OTYNppxi'
     name: Known
     type: text
     title:
@@ -148,7 +148,7 @@ pages:
       default: 2
     flags: {}
   - _id: iapBpZEXFFaVbH2u
-    _key: '!journal.pages!iapBpZEXFFaVbH2u'
+    _key: '!journal.pages!MLJk1KAijasQiUgh.iapBpZEXFFaVbH2u'
     name: Discoverable (GM)
     type: text
     title:
@@ -183,7 +183,7 @@ pages:
       default: 0
     flags: {}
   - _id: znDcRhK5pfa2SPOy
-    _key: '!journal.pages!znDcRhK5pfa2SPOy'
+    _key: '!journal.pages!MLJk1KAijasQiUgh.znDcRhK5pfa2SPOy'
     name: SEALED — GM Only
     type: text
     title:

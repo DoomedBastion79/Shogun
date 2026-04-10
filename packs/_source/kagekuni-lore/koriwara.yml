@@ -3,7 +3,7 @@ _key: '!journal!9NBSUIsBfb44L72D'
 name: Koriwara
 pages:
   - _id: JChHwt0rhP1xsHgi
-    _key: '!journal.pages!JChHwt0rhP1xsHgi'
+    _key: '!journal.pages!9NBSUIsBfb44L72D.JChHwt0rhP1xsHgi'
     name: Overview
     type: text
     title:
@@ -30,7 +30,7 @@ pages:
       default: 2
     flags: {}
   - _id: WD6r0kSfFnAAplgn
-    _key: '!journal.pages!WD6r0kSfFnAAplgn'
+    _key: '!journal.pages!9NBSUIsBfb44L72D.WD6r0kSfFnAAplgn'
     name: Known
     type: text
     title:
@@ -79,7 +79,7 @@ pages:
       default: 2
     flags: {}
   - _id: OYwyg63tzUSFdfoo
-    _key: '!journal.pages!OYwyg63tzUSFdfoo'
+    _key: '!journal.pages!9NBSUIsBfb44L72D.OYwyg63tzUSFdfoo'
     name: Discoverable (GM)
     type: text
     title:
@@ -113,7 +113,7 @@ pages:
       default: 0
     flags: {}
   - _id: xyfwtrtpMSbMASFJ
-    _key: '!journal.pages!xyfwtrtpMSbMASFJ'
+    _key: '!journal.pages!9NBSUIsBfb44L72D.xyfwtrtpMSbMASFJ'
     name: SEALED — GM Only
     type: text
     title:

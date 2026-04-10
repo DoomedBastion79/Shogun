@@ -3,7 +3,7 @@ _key: '!journal!4eQEIEpIE7lIHyDq'
 name: Sakura Mura
 pages:
   - _id: i6j1c1DxXppDN0BR
-    _key: '!journal.pages!i6j1c1DxXppDN0BR'
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.i6j1c1DxXppDN0BR'
     name: Overview
     type: text
     title:
@@ -30,7 +30,7 @@ pages:
       default: 2
     flags: {}
   - _id: bC1sr89kh965bI1a
-    _key: '!journal.pages!bC1sr89kh965bI1a'
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.bC1sr89kh965bI1a'
     name: Known
     type: text
     title:
@@ -82,7 +82,7 @@ pages:
       default: 2
     flags: {}
   - _id: WL3RS8dW7Cbt5daQ
-    _key: '!journal.pages!WL3RS8dW7Cbt5daQ'
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.WL3RS8dW7Cbt5daQ'
     name: Discoverable (GM)
     type: text
     title:
@@ -114,7 +114,7 @@ pages:
       default: 0
     flags: {}
   - _id: jzyY128A3aXS4GqP
-    _key: '!journal.pages!jzyY128A3aXS4GqP'
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.jzyY128A3aXS4GqP'
     name: SEALED — GM Only
     type: text
     title:

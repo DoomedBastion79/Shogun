@@ -3,7 +3,7 @@ _key: '!journal!Z27E68Aw1B8pHETw'
 name: Sora
 pages:
   - _id: wLIjGTdA8EYrdzo5
-    _key: '!journal.pages!wLIjGTdA8EYrdzo5'
+    _key: '!journal.pages!Z27E68Aw1B8pHETw.wLIjGTdA8EYrdzo5'
     name: Known
     type: text
     title:
@@ -129,7 +129,7 @@ pages:
       default: 2
     flags: {}
   - _id: D9AwxT2ckEJDDQVK
-    _key: '!journal.pages!D9AwxT2ckEJDDQVK'
+    _key: '!journal.pages!Z27E68Aw1B8pHETw.D9AwxT2ckEJDDQVK'
     name: Discoverable (GM)
     type: text
     title:
@@ -162,7 +162,7 @@ pages:
       default: 0
     flags: {}
   - _id: WDAXOCDumUdCSCAu
-    _key: '!journal.pages!WDAXOCDumUdCSCAu'
+    _key: '!journal.pages!Z27E68Aw1B8pHETw.WDAXOCDumUdCSCAu'
     name: SEALED — GM Only
     type: text
     title:

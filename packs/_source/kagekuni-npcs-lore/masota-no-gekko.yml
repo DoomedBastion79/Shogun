@@ -3,7 +3,7 @@ _key: '!journal!ShUhepogQgY5ZTGJ'
 name: Masota no Gekkō
 pages:
   - _id: smpMEfEATEmvtkeR
-    _key: '!journal.pages!smpMEfEATEmvtkeR'
+    _key: '!journal.pages!ShUhepogQgY5ZTGJ.smpMEfEATEmvtkeR'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: qMDf2zIENSj1BrUt
-    _key: '!journal.pages!qMDf2zIENSj1BrUt'
+    _key: '!journal.pages!ShUhepogQgY5ZTGJ.qMDf2zIENSj1BrUt'
     name: Known
     type: text
     title:
@@ -79,7 +79,7 @@ pages:
       default: 2
     flags: {}
   - _id: 7QLx3xgRVezMCW15
-    _key: '!journal.pages!7QLx3xgRVezMCW15'
+    _key: '!journal.pages!ShUhepogQgY5ZTGJ.7QLx3xgRVezMCW15'
     name: Discoverable (GM)
     type: text
     title:
@@ -120,7 +120,7 @@ pages:
       default: 0
     flags: {}
   - _id: NiRLsgCBJhcQ6iZ3
-    _key: '!journal.pages!NiRLsgCBJhcQ6iZ3'
+    _key: '!journal.pages!ShUhepogQgY5ZTGJ.NiRLsgCBJhcQ6iZ3'
     name: SEALED — GM Only
     type: text
     title:

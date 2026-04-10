@@ -3,7 +3,7 @@ _key: '!journal!M8agMY0L6FYoWSms'
 name: Hideo Nakamura
 pages:
   - _id: r5l9M6aEsnGe47wh
-    _key: '!journal.pages!r5l9M6aEsnGe47wh'
+    _key: '!journal.pages!M8agMY0L6FYoWSms.r5l9M6aEsnGe47wh'
     name: Overview
     type: text
     title:
@@ -38,7 +38,7 @@ pages:
       default: 2
     flags: {}
   - _id: MEIL86blyNIktaTo
-    _key: '!journal.pages!MEIL86blyNIktaTo'
+    _key: '!journal.pages!M8agMY0L6FYoWSms.MEIL86blyNIktaTo'
     name: Known
     type: text
     title:
@@ -83,7 +83,7 @@ pages:
       default: 2
     flags: {}
   - _id: adeM7KJrvVQxYVTy
-    _key: '!journal.pages!adeM7KJrvVQxYVTy'
+    _key: '!journal.pages!M8agMY0L6FYoWSms.adeM7KJrvVQxYVTy'
     name: Discoverable (GM)
     type: text
     title:
@@ -129,7 +129,7 @@ pages:
       default: 0
     flags: {}
   - _id: 619MxIvS9jD1SkSw
-    _key: '!journal.pages!619MxIvS9jD1SkSw'
+    _key: '!journal.pages!M8agMY0L6FYoWSms.619MxIvS9jD1SkSw'
     name: SEALED — GM Only
     type: text
     title:

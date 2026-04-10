@@ -3,7 +3,7 @@ _key: '!journal!fbx0optmtxCbt7X7'
 name: Haruto Masashige
 pages:
   - _id: YmttB7a5ZqSgS0Y7
-    _key: '!journal.pages!YmttB7a5ZqSgS0Y7'
+    _key: '!journal.pages!fbx0optmtxCbt7X7.YmttB7a5ZqSgS0Y7'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: WFYYHejER3kwZTfP
-    _key: '!journal.pages!WFYYHejER3kwZTfP'
+    _key: '!journal.pages!fbx0optmtxCbt7X7.WFYYHejER3kwZTfP'
     name: Known
     type: text
     title:
@@ -81,7 +81,7 @@ pages:
       default: 2
     flags: {}
   - _id: ILqqmlR8OP8KZJ90
-    _key: '!journal.pages!ILqqmlR8OP8KZJ90'
+    _key: '!journal.pages!fbx0optmtxCbt7X7.ILqqmlR8OP8KZJ90'
     name: Discoverable (GM)
     type: text
     title:
@@ -125,7 +125,7 @@ pages:
       default: 0
     flags: {}
   - _id: sFO1laYoEwzyP3Xc
-    _key: '!journal.pages!sFO1laYoEwzyP3Xc'
+    _key: '!journal.pages!fbx0optmtxCbt7X7.sFO1laYoEwzyP3Xc'
     name: SEALED — GM Only
     type: text
     title:

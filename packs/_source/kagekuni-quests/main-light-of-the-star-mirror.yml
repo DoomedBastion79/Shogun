@@ -3,7 +3,7 @@ _key: '!journal!fnxXVKD91Kurvds2'
 name: Light of the Star Mirror
 pages:
   - _id: HCo9X7DTCfj8od1Z
-    _key: '!journal.pages!HCo9X7DTCfj8od1Z'
+    _key: '!journal.pages!fnxXVKD91Kurvds2.HCo9X7DTCfj8od1Z'
     name: Known
     type: text
     title:
@@ -93,7 +93,7 @@ pages:
       default: 2
     flags: {}
   - _id: JXvyNE5YGDZE7jJb
-    _key: '!journal.pages!JXvyNE5YGDZE7jJb'
+    _key: '!journal.pages!fnxXVKD91Kurvds2.JXvyNE5YGDZE7jJb'
     name: Discoverable (GM)
     type: text
     title:
@@ -203,7 +203,7 @@ pages:
       default: 0
     flags: {}
   - _id: z8RzJd4tdBx32axs
-    _key: '!journal.pages!z8RzJd4tdBx32axs'
+    _key: '!journal.pages!fnxXVKD91Kurvds2.z8RzJd4tdBx32axs'
     name: SEALED — GM Only
     type: text
     title:

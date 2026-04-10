@@ -3,7 +3,7 @@ _key: '!journal!XltoGh3JAZrPEhAE'
 name: Yamamoto Kenji
 pages:
   - _id: tHf4ZsTNG5SOZXf8
-    _key: '!journal.pages!tHf4ZsTNG5SOZXf8'
+    _key: '!journal.pages!XltoGh3JAZrPEhAE.tHf4ZsTNG5SOZXf8'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: quhRWHgIw3dW1z6L
-    _key: '!journal.pages!quhRWHgIw3dW1z6L'
+    _key: '!journal.pages!XltoGh3JAZrPEhAE.quhRWHgIw3dW1z6L'
     name: Known
     type: text
     title:
@@ -79,7 +79,7 @@ pages:
       default: 2
     flags: {}
   - _id: cz1ub60S04N5W6p8
-    _key: '!journal.pages!cz1ub60S04N5W6p8'
+    _key: '!journal.pages!XltoGh3JAZrPEhAE.cz1ub60S04N5W6p8'
     name: Discoverable (GM)
     type: text
     title:

@@ -3,7 +3,7 @@ _key: '!journal!cJEGI93QabikivVA'
 name: Kenta Yamada
 pages:
   - _id: 8FANOTFX71Kg9kZa
-    _key: '!journal.pages!8FANOTFX71Kg9kZa'
+    _key: '!journal.pages!cJEGI93QabikivVA.8FANOTFX71Kg9kZa'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: cNpmzr9GuYfslJA7
-    _key: '!journal.pages!cNpmzr9GuYfslJA7'
+    _key: '!journal.pages!cJEGI93QabikivVA.cNpmzr9GuYfslJA7'
     name: Known
     type: text
     title:
@@ -78,7 +78,7 @@ pages:
       default: 2
     flags: {}
   - _id: eRPz9yKTCIiGwFvn
-    _key: '!journal.pages!eRPz9yKTCIiGwFvn'
+    _key: '!journal.pages!cJEGI93QabikivVA.eRPz9yKTCIiGwFvn'
     name: Discoverable (GM)
     type: text
     title:

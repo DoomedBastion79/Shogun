@@ -3,7 +3,7 @@ _key: '!journal!pQR5C4JfmyeCDwYc'
 name: Taro Fukomoto
 pages:
   - _id: Ev1052qNzMyWqQuL
-    _key: '!journal.pages!Ev1052qNzMyWqQuL'
+    _key: '!journal.pages!pQR5C4JfmyeCDwYc.Ev1052qNzMyWqQuL'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: iGAS1TWuNjVtmbHX
-    _key: '!journal.pages!iGAS1TWuNjVtmbHX'
+    _key: '!journal.pages!pQR5C4JfmyeCDwYc.iGAS1TWuNjVtmbHX'
     name: Known
     type: text
     title:

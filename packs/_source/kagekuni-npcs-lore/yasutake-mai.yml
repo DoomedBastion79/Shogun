@@ -3,7 +3,7 @@ _key: '!journal!EMOgLKfM0OZObpld'
 name: Yasutake Mai
 pages:
   - _id: t44hPPExETmqDCzn
-    _key: '!journal.pages!t44hPPExETmqDCzn'
+    _key: '!journal.pages!EMOgLKfM0OZObpld.t44hPPExETmqDCzn'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: Yxj1rXeTnwCXfiB3
-    _key: '!journal.pages!Yxj1rXeTnwCXfiB3'
+    _key: '!journal.pages!EMOgLKfM0OZObpld.Yxj1rXeTnwCXfiB3'
     name: Known
     type: text
     title:
@@ -87,7 +87,7 @@ pages:
       default: 2
     flags: {}
   - _id: ct1PnpuyBXsxxQGG
-    _key: '!journal.pages!ct1PnpuyBXsxxQGG'
+    _key: '!journal.pages!EMOgLKfM0OZObpld.ct1PnpuyBXsxxQGG'
     name: Discoverable (GM)
     type: text
     title:
@@ -131,7 +131,7 @@ pages:
       default: 0
     flags: {}
   - _id: w35vYG1WGqzajOlt
-    _key: '!journal.pages!w35vYG1WGqzajOlt'
+    _key: '!journal.pages!EMOgLKfM0OZObpld.w35vYG1WGqzajOlt'
     name: SEALED — GM Only
     type: text
     title:

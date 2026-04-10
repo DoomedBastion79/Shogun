@@ -3,7 +3,7 @@ _key: '!journal!oAKGG43ddp55JzvN'
 name: Organizations & Factions
 pages:
   - _id: oH9DnydBkaYAcrK6
-    _key: '!journal.pages!oH9DnydBkaYAcrK6'
+    _key: '!journal.pages!oAKGG43ddp55JzvN.oH9DnydBkaYAcrK6'
     name: Known
     type: text
     title:
@@ -57,7 +57,7 @@ pages:
       default: 2
     flags: {}
   - _id: FkSQHTi0imRCScNG
-    _key: '!journal.pages!FkSQHTi0imRCScNG'
+    _key: '!journal.pages!oAKGG43ddp55JzvN.FkSQHTi0imRCScNG'
     name: Discoverable (GM)
     type: text
     title:
@@ -104,7 +104,7 @@ pages:
       default: 0
     flags: {}
   - _id: bsA0IWJPYqkRnypw
-    _key: '!journal.pages!bsA0IWJPYqkRnypw'
+    _key: '!journal.pages!oAKGG43ddp55JzvN.bsA0IWJPYqkRnypw'
     name: SEALED — GM Only
     type: text
     title:

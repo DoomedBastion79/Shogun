@@ -3,7 +3,7 @@ _key: '!journal!b2Er6GoCVe0rnl63'
 name: Religion, Mythology & Dragons
 pages:
   - _id: IlOSIE9JhDMlw111
-    _key: '!journal.pages!IlOSIE9JhDMlw111'
+    _key: '!journal.pages!b2Er6GoCVe0rnl63.IlOSIE9JhDMlw111'
     name: Known
     type: text
     title:
@@ -188,7 +188,7 @@ pages:
       default: 2
     flags: {}
   - _id: kvI4urn0Ae7bSX0l
-    _key: '!journal.pages!kvI4urn0Ae7bSX0l'
+    _key: '!journal.pages!b2Er6GoCVe0rnl63.kvI4urn0Ae7bSX0l'
     name: SEALED — GM Only
     type: text
     title:

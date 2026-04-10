@@ -3,7 +3,7 @@ _key: '!journal!gn2nrvAov60kvh04'
 name: Shadows of the Sacred Grove
 pages:
   - _id: ExZdaUmkhknf5LKl
-    _key: '!journal.pages!ExZdaUmkhknf5LKl'
+    _key: '!journal.pages!gn2nrvAov60kvh04.ExZdaUmkhknf5LKl'
     name: Known
     type: text
     title:
@@ -91,7 +91,7 @@ pages:
       default: 2
     flags: {}
   - _id: E4E6KQQgfymsz2bl
-    _key: '!journal.pages!E4E6KQQgfymsz2bl'
+    _key: '!journal.pages!gn2nrvAov60kvh04.E4E6KQQgfymsz2bl'
     name: Discoverable (GM)
     type: text
     title:
@@ -157,7 +157,7 @@ pages:
       default: 0
     flags: {}
   - _id: b4NLqnuoAdNVIOmY
-    _key: '!journal.pages!b4NLqnuoAdNVIOmY'
+    _key: '!journal.pages!gn2nrvAov60kvh04.b4NLqnuoAdNVIOmY'
     name: SEALED — GM Only
     type: text
     title:

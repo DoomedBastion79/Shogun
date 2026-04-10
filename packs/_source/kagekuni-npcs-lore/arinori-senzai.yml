@@ -3,7 +3,7 @@ _key: '!journal!1uZPhioHmd3Fmxti'
 name: Arinori Senzai
 pages:
   - _id: omHRUngZhlBVRtYh
-    _key: '!journal.pages!omHRUngZhlBVRtYh'
+    _key: '!journal.pages!1uZPhioHmd3Fmxti.omHRUngZhlBVRtYh'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: yt5NrLibZ0ZRKNq5
-    _key: '!journal.pages!yt5NrLibZ0ZRKNq5'
+    _key: '!journal.pages!1uZPhioHmd3Fmxti.yt5NrLibZ0ZRKNq5'
     name: Known
     type: text
     title:
@@ -80,7 +80,7 @@ pages:
       default: 2
     flags: {}
   - _id: Ls9YIWojB0NKwHXB
-    _key: '!journal.pages!Ls9YIWojB0NKwHXB'
+    _key: '!journal.pages!1uZPhioHmd3Fmxti.Ls9YIWojB0NKwHXB'
     name: Discoverable (GM)
     type: text
     title:
@@ -122,7 +122,7 @@ pages:
       default: 0
     flags: {}
   - _id: I3lMxJ9DU7QyWUdw
-    _key: '!journal.pages!I3lMxJ9DU7QyWUdw'
+    _key: '!journal.pages!1uZPhioHmd3Fmxti.I3lMxJ9DU7QyWUdw'
     name: SEALED — GM Only
     type: text
     title:

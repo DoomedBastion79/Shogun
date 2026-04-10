@@ -3,7 +3,7 @@ _key: '!journal!uMM89meCq6mHV2yM'
 name: 'Nightfall Ambush: An Unknown Journey'
 pages:
   - _id: vGVJg3v99LADygxh
-    _key: '!journal.pages!vGVJg3v99LADygxh'
+    _key: '!journal.pages!uMM89meCq6mHV2yM.vGVJg3v99LADygxh'
     name: Known
     type: text
     title:
@@ -102,7 +102,7 @@ pages:
       default: 2
     flags: {}
   - _id: 7vY6ApDupBlEmUjQ
-    _key: '!journal.pages!7vY6ApDupBlEmUjQ'
+    _key: '!journal.pages!uMM89meCq6mHV2yM.7vY6ApDupBlEmUjQ'
     name: Discoverable (GM)
     type: text
     title:
@@ -167,7 +167,7 @@ pages:
       default: 0
     flags: {}
   - _id: kmSoTbHondoJb8IO
-    _key: '!journal.pages!kmSoTbHondoJb8IO'
+    _key: '!journal.pages!uMM89meCq6mHV2yM.kmSoTbHondoJb8IO'
     name: SEALED — GM Only
     type: text
     title:

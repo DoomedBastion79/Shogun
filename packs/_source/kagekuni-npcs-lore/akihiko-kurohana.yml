@@ -3,7 +3,7 @@ _key: '!journal!BeyOUhGlMY7ZBP9e'
 name: Akihiko Kurohana
 pages:
   - _id: OZv9qFhO2E2gzdU2
-    _key: '!journal.pages!OZv9qFhO2E2gzdU2'
+    _key: '!journal.pages!BeyOUhGlMY7ZBP9e.OZv9qFhO2E2gzdU2'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: KHttB3X293Yaft8H
-    _key: '!journal.pages!KHttB3X293Yaft8H'
+    _key: '!journal.pages!BeyOUhGlMY7ZBP9e.KHttB3X293Yaft8H'
     name: Known
     type: text
     title:
@@ -81,7 +81,7 @@ pages:
       default: 2
     flags: {}
   - _id: FGsl6V0axxvBa7JJ
-    _key: '!journal.pages!FGsl6V0axxvBa7JJ'
+    _key: '!journal.pages!BeyOUhGlMY7ZBP9e.FGsl6V0axxvBa7JJ'
     name: Discoverable (GM)
     type: text
     title:
@@ -123,7 +123,7 @@ pages:
       default: 0
     flags: {}
   - _id: PedV5mliFUlilQYd
-    _key: '!journal.pages!PedV5mliFUlilQYd'
+    _key: '!journal.pages!BeyOUhGlMY7ZBP9e.PedV5mliFUlilQYd'
     name: SEALED — GM Only
     type: text
     title:

@@ -3,7 +3,7 @@ _key: '!journal!LxYKTGiDHIGu2UFz'
 name: Hideaki Sato
 pages:
   - _id: ObYEKCwLE0yduNCn
-    _key: '!journal.pages!ObYEKCwLE0yduNCn'
+    _key: '!journal.pages!LxYKTGiDHIGu2UFz.ObYEKCwLE0yduNCn'
     name: Overview
     type: text
     title:
@@ -38,7 +38,7 @@ pages:
       default: 2
     flags: {}
   - _id: 9fNW2Ji9Mv6ubepN
-    _key: '!journal.pages!9fNW2Ji9Mv6ubepN'
+    _key: '!journal.pages!LxYKTGiDHIGu2UFz.9fNW2Ji9Mv6ubepN'
     name: Known
     type: text
     title:
@@ -82,7 +82,7 @@ pages:
       default: 2
     flags: {}
   - _id: TjhtIa8XOcAyh544
-    _key: '!journal.pages!TjhtIa8XOcAyh544'
+    _key: '!journal.pages!LxYKTGiDHIGu2UFz.TjhtIa8XOcAyh544'
     name: Discoverable (GM)
     type: text
     title:
@@ -131,7 +131,7 @@ pages:
       default: 0
     flags: {}
   - _id: knzIPk4gvio5y6HS
-    _key: '!journal.pages!knzIPk4gvio5y6HS'
+    _key: '!journal.pages!LxYKTGiDHIGu2UFz.knzIPk4gvio5y6HS'
     name: SEALED — GM Only
     type: text
     title:

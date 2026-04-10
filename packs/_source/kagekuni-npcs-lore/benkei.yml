@@ -3,7 +3,7 @@ _key: '!journal!AxEPHd8zzzGU9DdG'
 name: Benkei
 pages:
   - _id: WK0TcLsybqwAFfLs
-    _key: '!journal.pages!WK0TcLsybqwAFfLs'
+    _key: '!journal.pages!AxEPHd8zzzGU9DdG.WK0TcLsybqwAFfLs'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: OXFCWC1KmYeezKG0
-    _key: '!journal.pages!OXFCWC1KmYeezKG0'
+    _key: '!journal.pages!AxEPHd8zzzGU9DdG.OXFCWC1KmYeezKG0'
     name: Known
     type: text
     title:
@@ -81,7 +81,7 @@ pages:
       default: 2
     flags: {}
   - _id: HkVeXZtM9eBAt2sa
-    _key: '!journal.pages!HkVeXZtM9eBAt2sa'
+    _key: '!journal.pages!AxEPHd8zzzGU9DdG.HkVeXZtM9eBAt2sa'
     name: Discoverable (GM)
     type: text
     title:
@@ -125,7 +125,7 @@ pages:
       default: 0
     flags: {}
   - _id: t3VeM94dlbWUS9Vn
-    _key: '!journal.pages!t3VeM94dlbWUS9Vn'
+    _key: '!journal.pages!AxEPHd8zzzGU9DdG.t3VeM94dlbWUS9Vn'
     name: SEALED — GM Only
     type: text
     title:

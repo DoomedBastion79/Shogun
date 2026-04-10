@@ -3,7 +3,7 @@ _key: '!journal!VrETjkgf1vHEhCmN'
 name: Hiroshi Nakamura
 pages:
   - _id: MILsaAk3DF0X6d74
-    _key: '!journal.pages!MILsaAk3DF0X6d74'
+    _key: '!journal.pages!VrETjkgf1vHEhCmN.MILsaAk3DF0X6d74'
     name: Overview
     type: text
     title:
@@ -37,7 +37,7 @@ pages:
       default: 2
     flags: {}
   - _id: z0jMeDLVXCV1QoBD
-    _key: '!journal.pages!z0jMeDLVXCV1QoBD'
+    _key: '!journal.pages!VrETjkgf1vHEhCmN.z0jMeDLVXCV1QoBD'
     name: Known
     type: text
     title:
@@ -81,7 +81,7 @@ pages:
       default: 2
     flags: {}
   - _id: 9WKSloWDRF4PDZnN
-    _key: '!journal.pages!9WKSloWDRF4PDZnN'
+    _key: '!journal.pages!VrETjkgf1vHEhCmN.9WKSloWDRF4PDZnN'
     name: Discoverable (GM)
     type: text
     title:
@@ -121,7 +121,7 @@ pages:
       default: 0
     flags: {}
   - _id: 36E0ijDkAQeH3nAv
-    _key: '!journal.pages!36E0ijDkAQeH3nAv'
+    _key: '!journal.pages!VrETjkgf1vHEhCmN.36E0ijDkAQeH3nAv'
     name: SEALED — GM Only
     type: text
     title:

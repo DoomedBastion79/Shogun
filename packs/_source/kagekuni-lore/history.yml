@@ -3,7 +3,7 @@ _key: '!journal!4XQSQL2UrY3r73NO'
 name: History & Timeline
 pages:
   - _id: DTRJ6VIcjR9UDX75
-    _key: '!journal.pages!DTRJ6VIcjR9UDX75'
+    _key: '!journal.pages!4XQSQL2UrY3r73NO.DTRJ6VIcjR9UDX75'
     name: Known
     type: text
     title:
@@ -337,7 +337,7 @@ pages:
       default: 2
     flags: {}
   - _id: gQcVmo1K0kjUCSfT
-    _key: '!journal.pages!gQcVmo1K0kjUCSfT'
+    _key: '!journal.pages!4XQSQL2UrY3r73NO.gQcVmo1K0kjUCSfT'
     name: Discoverable (GM)
     type: text
     title:

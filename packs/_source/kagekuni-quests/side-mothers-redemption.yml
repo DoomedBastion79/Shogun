@@ -3,7 +3,7 @@ _key: '!journal!VJJCCGQeyX2TdTPg'
 name: 'A Mother''s Redemption: Journey to New Beginnings'
 pages:
   - _id: CvZT81LdQCDEHKxX
-    _key: '!journal.pages!CvZT81LdQCDEHKxX'
+    _key: '!journal.pages!VJJCCGQeyX2TdTPg.CvZT81LdQCDEHKxX'
     name: Known
     type: text
     title:
@@ -67,7 +67,7 @@ pages:
       default: 2
     flags: {}
   - _id: sfjJ48ZkD0hSjLZM
-    _key: '!journal.pages!sfjJ48ZkD0hSjLZM'
+    _key: '!journal.pages!VJJCCGQeyX2TdTPg.sfjJ48ZkD0hSjLZM'
     name: Discoverable (GM)
     type: text
     title:
@@ -129,7 +129,7 @@ pages:
       default: 0
     flags: {}
   - _id: zuVy8NataLNPQSqk
-    _key: '!journal.pages!zuVy8NataLNPQSqk'
+    _key: '!journal.pages!VJJCCGQeyX2TdTPg.zuVy8NataLNPQSqk'
     name: SEALED — GM Only
     type: text
     title:

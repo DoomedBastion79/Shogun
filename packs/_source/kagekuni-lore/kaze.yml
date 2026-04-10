@@ -3,7 +3,7 @@ _key: '!journal!bOpGneyl1iZ9BpRy'
 name: Kaze
 pages:
   - _id: ykrzCEt06uJ1kLV5
-    _key: '!journal.pages!ykrzCEt06uJ1kLV5'
+    _key: '!journal.pages!bOpGneyl1iZ9BpRy.ykrzCEt06uJ1kLV5'
     name: Known
     type: text
     title:
@@ -164,7 +164,7 @@ pages:
       default: 2
     flags: {}
   - _id: aXK0Qj8uwyGF2k1L
-    _key: '!journal.pages!aXK0Qj8uwyGF2k1L'
+    _key: '!journal.pages!bOpGneyl1iZ9BpRy.aXK0Qj8uwyGF2k1L'
     name: Discoverable (GM)
     type: text
     title:
@@ -202,7 +202,7 @@ pages:
       default: 0
     flags: {}
   - _id: ceuJXvlpe7I8t4ND
-    _key: '!journal.pages!ceuJXvlpe7I8t4ND'
+    _key: '!journal.pages!bOpGneyl1iZ9BpRy.ceuJXvlpe7I8t4ND'
     name: SEALED — GM Only
     type: text
     title:

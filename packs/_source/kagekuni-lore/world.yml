@@ -3,7 +3,7 @@ _key: '!journal!f9xMzy5K7s8sKDcj'
 name: World of Seizan
 pages:
   - _id: q3nZvQXoX6A6f36n
-    _key: '!journal.pages!q3nZvQXoX6A6f36n'
+    _key: '!journal.pages!f9xMzy5K7s8sKDcj.q3nZvQXoX6A6f36n'
     name: Known
     type: text
     title:
@@ -126,7 +126,7 @@ pages:
       default: 2
     flags: {}
   - _id: pyKA18eCTAly10QE
-    _key: '!journal.pages!pyKA18eCTAly10QE'
+    _key: '!journal.pages!f9xMzy5K7s8sKDcj.pyKA18eCTAly10QE'
     name: Discoverable (GM)
     type: text
     title:
@@ -163,7 +163,7 @@ pages:
       default: 0
     flags: {}
   - _id: Ls7xay574zhL1q3g
-    _key: '!journal.pages!Ls7xay574zhL1q3g'
+    _key: '!journal.pages!f9xMzy5K7s8sKDcj.Ls7xay574zhL1q3g'
     name: SEALED — GM Only
     type: text
     title:
