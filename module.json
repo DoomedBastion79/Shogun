@@ -1,8 +1,8 @@
 {
-  "id": "kagekuni-assistant",
+  "id": "assistant",
   "title": "Kagekuni Assistant",
   "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "authors": [
     {
       "name": "Andy Rowland"
@@ -29,7 +29,7 @@
   ],
   "packs": [
     {
-      "name": "kagekuni-lore",
+      "name": "lore",
       "label": "Core Lore",
       "path": "packs/kagekuni-lore",
       "type": "JournalEntry",
@@ -37,7 +37,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-locations",
+      "name": "locations",
       "label": "Locations",
       "path": "packs/kagekuni-locations",
       "type": "JournalEntry",
@@ -45,7 +45,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-quests",
+      "name": "quests",
       "label": "Quests",
       "path": "packs/kagekuni-quests",
       "type": "JournalEntry",
@@ -53,7 +53,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-npcs-lore",
+      "name": "npcs-lore",
       "label": "NPC Lore",
       "path": "packs/kagekuni-npcs-lore",
       "type": "JournalEntry",
@@ -61,7 +61,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-npcs",
+      "name": "npcs",
       "label": "NPCs",
       "path": "packs/kagekuni-npcs",
       "type": "Actor",
@@ -69,7 +69,7 @@
       "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-items",
+      "name": "items",
       "label": "Items",
       "path": "packs/kagekuni-items",
       "type": "Item",
@@ -77,7 +77,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-recipes",
+      "name": "recipes",
       "label": "Recipes",
       "path": "packs/kagekuni-recipes",
       "type": "JournalEntry",
@@ -85,7 +85,7 @@
       "ownership": { "PLAYER": "NONE", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-races",
+      "name": "races",
       "label": "Races",
       "path": "packs/kagekuni-races",
       "type": "Item",
@@ -93,7 +93,7 @@
       "ownership": { "PLAYER": "OBSERVER", "ASSISTANT": "OWNER" }
     },
     {
-      "name": "kagekuni-classes",
+      "name": "classes",
       "label": "Classes",
       "path": "packs/kagekuni-classes",
       "type": "Item",
@@ -107,15 +107,15 @@
       "sorting": "m",
       "color": "#991b1b",
       "packs": [
-        "kagekuni-lore",
-        "kagekuni-locations",
-        "kagekuni-quests",
-        "kagekuni-npcs",
-        "kagekuni-npcs-lore",
-        "kagekuni-items",
-        "kagekuni-races",
-        "kagekuni-classes",
-        "kagekuni-recipes"
+        "lore",
+        "locations",
+        "quests",
+        "npcs",
+        "npcs-lore",
+        "items",
+        "races",
+        "classes",
+        "recipes"
       ]
     }
   ],
