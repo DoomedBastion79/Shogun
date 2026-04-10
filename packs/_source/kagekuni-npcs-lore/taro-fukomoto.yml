@@ -1,0 +1,112 @@
+_id: pQR5C4JfmyeCDwYc
+_key: '!journal!pQR5C4JfmyeCDwYc'
+name: Taro Fukomoto
+pages:
+  - _id: Ev1052qNzMyWqQuL
+    _key: '!journal.pages!Ev1052qNzMyWqQuL'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Master Blacksmith, Heian</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">heian</dd></div></dl><p><em
+        lang="ja-Latn">Master Blacksmith — Taro&#39;s Forge, Kurogane-sho District, Heian</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: iGAS1TWuNjVtmbHX
+    _key: '!journal.pages!iGAS1TWuNjVtmbHX'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Over 6 feet tall; broad shoulders; muscular; tanned weathered skin; thick black beard flecked with silver;
+        dark intense eyes; leather apron; flame and mythical creature tattoos on arms.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Owner and master smith of Taro&#39;s Forge in the Kurogane-sho (Steel Precinct) district of Heian. The
+        district&#39;s most prestigious establishment. Renowned for both quality and integrity. Produces weapons and
+        armor of exceptional craftsmanship; maintains a small stock for immediate sale and takes commissions that can
+        take months to complete.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Renowned for skill AND integrity; approachable; booming laugh; willing to share knowledge with apprentices;
+        balances strength with artistry.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established. His forge is the most notable establishment in the Kurogane-sho district that
+        the party has access to in Heian.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/taro-fukomoto.md
+    slug: taro-fukomoto
+    frontmatter:
+      name: Taro Fukomoto
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: none
+      caste: zokumin
+      role: Master Blacksmith, Heian
+      location: heian
+      affiliations: []
+      tags:
+        - blacksmith
+        - craftsman
+        - kurogane-sho
+        - taros-forge
+      aliases: []
+      related_npcs: []
+      related_quests: []

@@ -1,0 +1,77 @@
+_id: VbeOYE2HHcpUZzTe
+_key: '!journal!VbeOYE2HHcpUZzTe'
+name: Tsubaki
+pages:
+  - _id: 5AdO4E0dYcFONxZB
+    _key: '!journal.pages!5AdO4E0dYcFONxZB'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">mention</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Keeper of the Crimson Shrine; Order of the Ancient Guard
+        (Initiate)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">hi-province</dd></div></dl><p><em lang="ja-Latn">Keeper of the Crimson Shrine — Order of
+        the Ancient Guard (Initiate)</em></p>
+
+        <p>Elderly woman who has served the Crimson Shrine in the volcanic highlands of Hi province for approximately
+        sixty years. Initiate of the Order of the Ancient Guard. She does not know Akaryū&#39;s (the Crimson
+        Dragon&#39;s) location, but she knows the dragon is alive. She communicates through the shrine&#39;s ember-bowl:
+        offerings burned there reach something that responds. The shrine&#39;s ember-bowl recently responded to an
+        offering in a way it never has before — she needs discreet help interpreting what it means.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/tsubaki.md
+    slug: tsubaki
+    frontmatter:
+      name: Tsubaki
+      type: npc
+      detail: mention
+      status: active
+      race: Human
+      sex: F
+      clan: none
+      caste: zokumin
+      role: Keeper of the Crimson Shrine; Order of the Ancient Guard (Initiate)
+      location: hi-province
+      affiliations:
+        - order-of-the-ancient-guard
+        - crimson-shrine
+      tags:
+        - shrine-keeper
+        - ancient-guard
+        - crimson-dragon
+        - hi-province
+      aliases: []
+      related_npcs:
+        - benkei
+        - solas-evergreen
+      related_quests: []

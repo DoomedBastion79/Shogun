@@ -1,0 +1,190 @@
+_id: BJQ7tycD0IMEsUcO
+_key: '!journal!BJQ7tycD0IMEsUcO'
+name: Takamine
+pages:
+  - _id: eq5ca2bSD9eVmseM
+    _key: '!journal.pages!eq5ca2bSD9eVmseM'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
+        lang="ja-Latn">&quot;The mountain owes us nothing. We dig anyway.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Dvbix5BaAZtE5CVk
+    _key: '!journal.pages!Dvbix5BaAZtE5CVk'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
+        data-section="overview">Overview</h3>
+
+        <p>Takamine is a village of honest poverty. It sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the
+        head of the Star River, in a valley receiving less direct sunlight due to the mountain&#39;s angle. The small
+        iron mine that sustains the village produces modest yields -- enough to keep the operation viable, not enough to
+        generate real prosperity. Thin, rocky soil supplements mining income through limited farming.</p>
+
+        <p>The community is close-knit in the way that difficult circumstances produce -- people who depend on each
+        other genuinely. Visitors are noticed. Help is offered and received as a matter of course. The village has a
+        pride rooted in endurance.</p>
+
+        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
+
+        <p><strong>Ryu no Tetsu Ryokan (Dragon&#39;s Iron Inn)</strong> -- The village&#39;s single inn. Comfortable by
+        local standards. The innkeeper&#39;s family has run it for four generations.</p>
+
+        <p><strong>Ryu no Iki Kajiba (Dragon&#39;s Breath Forge)</strong> -- The village forge, working primarily in
+        local iron. The smith produces tools and hardware; technically capable of weapons work.</p>
+
+        <p><strong>General Shop</strong> -- Combined general goods; also serves as the mine company store.</p>
+
+        <p><strong>Village Temple</strong> -- Small and well-maintained despite the village&#39;s poverty. The community
+        invests disproportionately in its upkeep as collective identity.</p>
+
+        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
+
+        <ul>
+
+        <li>Yamamoto Kenji -- Village leader -&gt; npcs/yamamoto-kenji.md</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: aZmqOdGyHudRwAkj
+    _key: '!journal.pages!aZmqOdGyHudRwAkj'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not
+        gold, but something with remarkable properties.</li>
+
+        <li>Yamamoto Kenji has quietly sent a sample to Heian for identification.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: zAE77dJ9EhqgNVKd
+    _key: '!journal.pages!zAE77dJ9EhqgNVKd'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
+        Secrets</h3>
+
+        <p><strong>What the Mine Actually Contains</strong>
+
+        The deeper work face has started encountering a dark, lustrous metal with unusual properties: it doesn&#39;t
+        rust, is harder than anything the village smith has worked, and holds an edge that standard iron cannot match.
+        Yamamoto Kenji has quietly sent a sample to Heian, but the political vacuum has slowed response.</p>
+
+        <p>The material is a trace deposit of an alloy associated with Onyx Dragon Clan presence. Kokuryu&#39;s domain
+        was never here, but volcanic geology has carried the material far from its origin. The vein is small but
+        uniquely suited for sei-conductive tools and weapons.</p>
+
+        <p><strong>Yamamoto Kenji&#39;s Dilemma</strong>
+
+        If the mine material becomes known, Takamine loses control. The village is too poor and too politically isolated
+        to defend a valuable find. Kenji is trying to get information before events overtake him. He would respond
+        warmly to trustworthy outsiders who could help.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>The mysterious metal could draw unwanted attention from merchant guilds or military factions</li>
+
+        <li>Kenji needs help identifying the material and deciding how to protect his village&#39;s interests</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/takamine.md
+    slug: takamine
+    frontmatter:
+      name: Takamine
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: hana
+      governing_clan: kaminari
+      administrator: npcs/yamamoto-kenji.md
+      population: 97
+      climate: Mountain shadow; less direct sunlight; thin rocky soil
+      tags: []

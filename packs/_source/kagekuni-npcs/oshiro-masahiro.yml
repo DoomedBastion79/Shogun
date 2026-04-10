@@ -1,0 +1,97 @@
+_id: wZJU4VJxl72Zaupy
+_key: '!actors!wZJU4VJxl72Zaupy'
+name: Oshiro Masahiro
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Oshiro Masahiro
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/oshiro-masahiro.md
+    slug: oshiro-masahiro
+    linkedJournalId: GIiMlyrBXNH18EiT
+    frontmatter:
+      name: Oshiro Masahiro
+      type: npc
+      detail: major
+      status: active
+      race: Unknown
+      sex: M
+      clan: none
+      caste: zokumin
+      role: Junsa-chō (Chief Inspector), Teikoku Keisatsu (Imperial Police)
+      location: ayame
+      affiliations:
+        - teikoku-keisatsu
+      tags:
+        - imperial-police
+        - chief-inspector
+        - party-ally
+        - intelligence
+      aliases: []
+      related_npcs:
+        - takeda-yoshinobu
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Unknown
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Unknown</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Junsa-chō (Chief Inspector), Teikoku Keisatsu (Imperial
+        Police)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">ayame</dd></div></dl><p><em lang="ja-Latn">Junsa-chō (Chief Inspector) — Teikoku Keisatsu
+        (Imperial Police), Ayame</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Chief Inspector of the Imperial Police stationed in Ayame, the mountain waypoint town at the base of the
+        Tenchūsan Ren pass. His authority and presence represent imperial law enforcement in this critical transit
+        chokepoint.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, meticulous, exudes authority.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Confirmed party ally. Returned the impounded wagon, horses, and treasures after assessing the situation.
+        Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are
+        potentially useful going forward.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

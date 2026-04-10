@@ -1,0 +1,11 @@
+_id: YqhkC0JDdsl8Qo6D
+_key: '!folders!YqhkC0JDdsl8Qo6D'
+name: Quests
+type: JournalEntry
+folder: null
+sorting: m
+sort: 10
+color: '#991b1b'
+flags:
+  kagekuni-assistant:
+    folderPath: quests/quests

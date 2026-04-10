@@ -1,0 +1,94 @@
+_id: ZnSdJ4CLlOSta2Rr
+_key: '!actors!ZnSdJ4CLlOSta2Rr'
+name: Kenta Yamada
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Kenta Yamada
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/kenta-yamada.md
+    slug: kenta-yamada
+    linkedJournalId: cJEGI93QabikivVA
+    frontmatter:
+      name: Kenta Yamada
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      age: 32
+      height: 5'4"
+      weight: 140
+      clan: none
+      caste: zokumin
+      role: Merchant; Owner of the Sakura Blossom Inn
+      location: unknown
+      affiliations:
+        - yamada-family
+        - merchant-guild
+      tags:
+        - merchant
+        - innkeeper
+      aliases: []
+      related_npcs: []
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">none</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Merchant; Owner of the Sakura Blossom Inn</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">unknown</dd></div></dl><p><em
+        lang="ja-Latn">Merchant — Owner of the Sakura Blossom Inn</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Short dark hair; sharp focused eyes; lithe and agile build; lightly tanned.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Owns and manages the Sakura Blossom Inn. Member of the Yamada Family and associated with the Merchant Guild.
+        Jovial and welcoming innkeeper.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Sharp, quick-thinking, resourceful; enjoys market hustle; dislikes dishonesty.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.cJEGI93QabikivVA]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

@@ -1,0 +1,212 @@
+_id: ShUhepogQgY5ZTGJ
+_key: '!journal!ShUhepogQgY5ZTGJ'
+name: Masota no Gekkō
+pages:
+  - _id: smpMEfEATEmvtkeR
+    _key: '!journal.pages!smpMEfEATEmvtkeR'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">transformed</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human (transformed to Nagaji)</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">gekko</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Daimyo of Clan Gekkō</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">unknown</dd></div></dl><p><em
+        lang="ja-Latn">Daimyo of Clan Gekkō — Transformed</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: qMDf2zIENSj1BrUt
+    _key: '!journal.pages!qMDf2zIENSj1BrUt'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Unknown in current state. Formerly the Daimyo of Clan Gekkō, the third independent clan governing Kaze
+        province from Hokori.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo of Clan Gekkō. His disappearance and the silence of the entire Gekkō Clan is the central mystery
+        driving the party&#39;s primary mission.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Unknown in current state.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 7QLx3xgRVezMCW15
+    _key: '!journal.pages!7QLx3xgRVezMCW15'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-true-nature"
+        data-section="true-nature">True Nature</h3>
+
+        <p>Missing. The entire Gekkō Clan has gone silent. The party&#39;s primary mission is to investigate this
+        disappearance.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Clan Gekkō had a long and close relationship with the Order of the Black Lily, who provided intelligence and
+        covert capability in exchange for cover and protection. The clan&#39;s disappearance has severed the Order&#39;s
+        primary institutional support structure.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> The full
+        reveal of Masota&#39;s fate is intended to occur at the Monastery of the Black Lily in Akatsuki.</div>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: NiRLsgCBJhcQ6iZ3
+    _key: '!journal.pages!NiRLsgCBJhcQ6iZ3'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-campaign-secrets"
+        data-section="campaign-secrets">Campaign Secrets</h3>
+
+        <p>Masota no Gekkō has been transformed into a Nagaji by a dark ritual gone wrong. He underwent the ritual in a
+        final attempt to maintain leadership of his people after many clan members were transformed. His current state
+        of mind is fragmented awareness — he retains a broken understanding of what happened and recognizes his mistake.
+        Coherence degrades over time; the longer the party takes to reach him, the less of Masota is left to reach. This
+        creates urgency without hard deadlines.</p>
+
+        <p>The Order of the Black Lily knows the full truth: what ritual was used, who performed it first, approximately
+        how many Gekkō clan members were transformed, and that Masota himself underwent the ritual. They have been
+        unable to locate him — the transformed Gekkō move in patterns that even their surveillance cannot consistently
+        track.</p>
+
+        <p>A reversal exists — theoretical, not practical. It requires three elements: the original ritual documentation
+        (which exists in Kinkōkyo, in the Golden Dragon Clan&#39;s records addressing Kokuryū&#39;s historical
+        experimentation with transformation); a specific sei configuration present only during a particular celestial
+        alignment (upcoming — within the next few sessions); and a practitioner capable of performing sei-based
+        restoration at significant scale.</p>
+
+        <h3 id="kg-plot-threads" data-section="plot-threads">Plot Threads</h3>
+
+        <ul>
+
+        <li>Central mystery of the current campaign arc</li>
+
+        <li>Nagaji transformation — the party has killed multiple Nagaji without knowing they were transformed Gekkō
+        clan members; moral weight of this revelation is pending</li>
+
+        <li>Temple of Kinryū may contain the reversal documentation</li>
+
+        <li>Order of the Black Lily at Akatsuki holds the full truth and will propose a partnership</li>
+
+        <li>Haruto Masashige&#39;s ancient Dragonborn purification/restoration rite is directly applicable to the Nagaji
+        situation if someone connects the dots</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/masota-no-gekko.md
+    slug: masota-no-gekko
+    frontmatter:
+      name: Masota no Gekkō
+      type: npc
+      detail: major
+      status: transformed
+      race: Human (transformed to Nagaji)
+      sex: M
+      clan: gekko
+      caste: kugai
+      role: Daimyo of Clan Gekkō
+      location: unknown
+      affiliations:
+        - clan-gekko
+      tags:
+        - daimyo
+        - transformed
+        - nagaji
+        - gekko-crisis
+      aliases: []
+      related_npcs: []
+      related_quests:
+        - gekko-investigation

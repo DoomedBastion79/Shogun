@@ -1,0 +1,313 @@
+_id: uMM89meCq6mHV2yM
+_key: '!journal!uMM89meCq6mHV2yM'
+name: 'Nightfall Ambush: An Unknown Journey'
+pages:
+  - _id: mvx1h8bGhpeVCiVz
+    _key: '!journal.pages!mvx1h8bGhpeVCiVz'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">tenchusan-ren</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">side</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">discovered</dd></div></dl><p><em
+        lang="ja-Latn">&quot;Someone sent those bandits with instructions. Someone is expecting a delivery that will
+        never arrive.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: vGVJg3v99LADygxh
+    _key: '!journal.pages!vGVJg3v99LADygxh'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>The party was ambushed overnight by bandits on the Emperor&#39;s Highway north of Heian. The attack was
+        repelled. During the aftermath, a letter was found concealed on the body of the bandit leader — written in an
+        unfamiliar language and clearly of some significance, given the care taken to hide it.</p>
+
+        <p>The letter was subsequently translated. Its contents are a set of directional instructions — a treasure
+        location cipher, written in obscure but decipherable terms — pointing toward a hidden cache or discovery of
+        notable value.</p>
+
+        <p>The ambush itself raises questions beyond the letter: were the bandits operating independently and the letter
+        is their own, or were they hired? If hired, by whom and for what purpose? The letter may be a lead the bandits
+        were following, or a map they were transporting for someone else.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Survive the ambush</li>
+
+        <li class="kg-task" data-done="false">Discover the letter on the bandit leader</li>
+
+        <li class="kg-task" data-done="false">Translate the letter</li>
+
+        <li class="kg-task" data-done="false">Find where &quot;the earth feels soft&quot;</li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><strong>The Translated Letter</strong>:</p>
+
+        <p><em lang="ja-Latn">&quot;In the shadow of the great cedar, where the sun&#39;s light barely touches, lies the
+        path to fortune.&quot;</em></p>
+
+        <p><em lang="ja-Latn">&quot;Seek the stone that stands alone, marked with the kanji of the moon; beneath it, the
+        first secret is revealed.&quot;</em></p>
+
+        <p><em lang="ja-Latn">&quot;Follow the stream that sings through the night, its waters whispering tales of
+        hidden gold.&quot;</em></p>
+
+        <p><em lang="ja-Latn">&quot;At the fork where the wildflowers bloom, choose the path guarded by the fox&#39;s
+        den.&quot;</em></p>
+
+        <p><em lang="ja-Latn">&quot;When you hear the owl&#39;s call, count seven paces from the ancient oak and dig
+        where the earth feels soft.&quot;</em></p>
+
+        <p><strong>Analysis of the Letter</strong>:
+
+        The instructions are sequential — each line depends on the previous. The final destination is reached by
+        following a specific route through landmarks described in order. Key identifiers:</p>
+
+        <ul>
+
+        <li>A great cedar in shadow — large, old cedar tree in a location where direct sunlight doesn&#39;t reach;
+        likely north-facing slope or deep forest interior</li>
+
+        <li>A lone standing stone marked with the moon kanji — a deliberate marker; someone placed or marked this stone
+        intentionally</li>
+
+        <li>A stream audible at night — moving water with enough volume to be heard in quiet conditions</li>
+
+        <li>A wildflower fork with a fox&#39;s den — a trail junction near a known fox habitat</li>
+
+        <li>An ancient oak, seven paces, soft earth — the final cache location</li>
+
+        </ul>
+
+        <p><strong>Geographic candidates</strong>: The letter&#39;s language and style suggest origin in the central or
+        northern Hokori region. The Tenchusan Ren and surrounding foothills contain all the described terrain types, but
+        so does the Kaze province interior and the Kusa lowland forests.</p>
+
+        <p><strong>The unknown language</strong>: What language was the letter written in? Identifying the script would
+        narrow down who wrote it and potentially where the described location lies.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 7vY6ApDupBlEmUjQ
+    _key: '!journal.pages!7vY6ApDupBlEmUjQ'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The bandits were not independent treasure hunters. They were hired. The employer is a mid-level operative
+        working for a splinter cell of the Eikyu Yami Clan — Kuroyami no Akuma&#39;s organization, which persists in
+        fragmentary form following the Plague Campaign. The cache is not gold. It is magical in nature.</p>
+
+        <p>The letter was written in an old variant of the Eikyu Yami Clan&#39;s internal cipher language — a
+        constructed language used for operational communication. A scholar of ancient languages or a practitioner
+        familiar with Dark Ages-era arcane traditions would recognize it as related to certain pre-Reformation shadow
+        magic writings.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>The Kitsune at the fox&#39;s den</strong> — An actual fox spirit who has occupied a particular
+        burrow system at a trail junction in the Tenchusan Ren foothills for approximately two hundred years. She knows
+        the junction is used as a landmark in certain documents and finds this mildly amusing. She also knows
+        approximately where the cache is. She is not hostile but is not forthcoming without reason — she can be a source
+        of information or a complication depending on the party&#39;s approach.</li>
+
+        <li><strong>A linguist in Heian&#39;s Hikari Zon</strong> — recognizes the script when shown it and becomes very
+        quiet; she asks where the party found it and seems genuinely frightened by the answer.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A linguist in Heian recognizes the script and provides context about the Eikyu Yami Clan&#39;s cipher
+        language</li>
+
+        <li>The kitsune at the fox&#39;s den has been waiting for someone worth talking to; she has information
+        she&#39;s been holding for some time</li>
+
+        <li>A second group is following the same letter&#39;s directions — they are further behind the party but moving
+        with purpose and professional competence</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: kmSoTbHondoJb8IO
+    _key: '!journal.pages!kmSoTbHondoJb8IO'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>The cache is a sealed container — a lacquered iron box, buried and warded — holding a fragmentary copy of the
+        necromantic tome that Kuroyami originally found in Kuroshi Temple on Yurei. The original tome went with Kuroyami
+        when he escaped. What the party would find is a hand-copied excerpt — several pages of the original text, copied
+        by an early follower who then buried their copy here when they realized what following this path would cost
+        them. The excerpt covers transformation rituals — dark ones — and is connected to the same tradition that the
+        Gekko seimasters eventually discovered (through a different branch of the same source material).</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ul>
+
+        <li>Finding the cache completes the treasure-hunt objective but opens a much larger question: what is this
+        fragment, who else is looking for it, and what does its existence imply about how widely Kuroyami&#39;s
+        knowledge has spread?</li>
+
+        <li>The Eikyu Yami Clan operatives who hired the bandits will eventually realize the bandits failed and send
+        someone more capable</li>
+
+        <li>The fragment&#39;s content — transformation rituals connected to the Gekko disaster — makes it directly
+        relevant to the main investigation</li>
+
+        </ul>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>The Eikyu Yami follow-up operative will arrive when the bandit failure is confirmed; timeline flexible</li>
+
+        <li>A second group following the letter&#39;s directions is further behind but moving with professional
+        competence</li>
+
+        <li>No hard deadline; the cache has been there for a long time and is not going anywhere</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>main-gekko-investigation</strong> — the necromantic fragment covers the same transformation rituals
+        that created the Nagaji; different branch of the same source material</li>
+
+        <li><strong>Eikyu Yami Clan / Kuroyami no Akuma</strong> — the persistent remnant of the Plague Campaign
+        villain; the cache is their buried knowledge</li>
+
+        <li><strong>The kitsune</strong> — a 200-year-old fox spirit who serves as both resource and potential
+        complication; needs name, personality, and stat block before encounter</li>
+
+        <li><strong>Murasakiryu connection</strong> — open question whether Kuroyami&#39;s original discovery on Yurei
+        was arranged by the Amethyst Progenitor</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/side-nightfall-ambush.md
+    slug: side-nightfall-ambush
+    frontmatter:
+      name: 'Nightfall Ambush: An Unknown Journey'
+      type: quest
+      quest_type: side
+      status: active
+      quest_giver: discovered
+      pc_focus:
+        - Ko'jiri
+        - Dian Wei
+        - Relc
+        - Sun Wukong
+      location: tenchusan-ren
+      acquired_date: Emperor's Highway, overnight camp between Heian and Ayame
+      resolved_date: null
+      trigger: null
+      origin: null
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: null
+      related_quests:
+        - main-gekko-investigation
+      tags: []
+  simple-quest:
+    status: active

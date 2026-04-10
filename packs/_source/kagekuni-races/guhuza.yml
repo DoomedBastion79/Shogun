@@ -1,0 +1,198 @@
+_id: xQAn2kIXMb2N1ca4
+_key: '!items!xQAn2kIXMb2N1ca4'
+name: Guhuza
+type: race
+img: icons/environment/people/group.webp
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/races/guhuza.md
+    slug: guhuza
+    category: race
+    frontmatter:
+      name: Guhuza
+      type: race
+      size: medium
+      speed: 30
+      darkvision: 60
+      ability_scores:
+        int: 2
+      subraces:
+        - kwita
+        - izina
+      languages:
+        - Common
+        - +2 of choice
+      homeland: seizan
+      tags:
+        - race
+        - simian
+        - seizan
+        - playable
+      source: https://www.dandwiki.com/wiki/Guhuza_(5e_Race)
+      license: CC BY-SA 3.0
+      related_npcs:
+        - elder-benkei
+      related_quests: []
+system:
+  identifier: guhuza
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+      class="kg-info__row"><dt>Type</dt><dd data-field="type">race</dd></div></dl><p><em lang="ja-Latn">Simian people of
+      Seizan — see <code>core/races.md</code> for the canonical Kagekuni entry and
+
+      <code>npcs/elder-benkei.md</code> for the exemplar elder.</em></p>
+
+      </section>
+
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>The Guhuza are the ape-folk of Seizan: tall, fur-covered humanoids who walk upright,
+
+      speak the old tongues, and live remarkably long lives by human reckoning. In Kagekuni
+
+      they are most often encountered as monks, scholars, and forest-wardens, though the
+
+      two subraces — the burly <strong>Kwita</strong> and the lithe, tailed <strong>Izina</strong> — carry very
+
+      different bearings. Their native speech cannot be written in Common script, so Guhuza
+
+      who travel beyond Seizan typically adopt a name from the language of their hosts.</p>
+
+      <p>Guhuza are a setting-native race in Kagekuni (see <code>core/races.md</code>). Elder Benkei of
+
+      the Order of the Tranquil Lotus is 198 years old, establishing longevity as a canon
+
+      trait — Guhuza mature between ages 10 and 14 but may live for centuries.</p>
+
+      <h3 id="kg-racial-traits-summary" data-section="racial-traits-summary">Racial Traits Summary</h3>
+
+      <ul>
+
+      <li><strong>Ability Score Increase:</strong> Intelligence +2 (plus subrace modifier)</li>
+
+      <li><strong>Age:</strong> mature at 10–14; long-lived</li>
+
+      <li><strong>Size:</strong> Medium (roughly human-sized; Kwita tend larger, Izina smaller)</li>
+
+      <li><strong>Speed:</strong> 30 ft walking</li>
+
+      <li><strong>Darkvision:</strong> 60 ft</li>
+
+      <li><strong>Adept Learner:</strong> proficiency with two artisan&#39;s tools of your choice</li>
+
+      <li><strong>Languages:</strong> Common plus two languages of your choice</li>
+
+      <li><strong>Subrace:</strong> choose Kwita or Izina</li>
+
+      </ul>
+
+      <h4 id="kg-kwita-great-ape-lineage" data-section="kwita-great-ape-lineage">Kwita (great-ape lineage)</h4>
+
+      <ul>
+
+      <li><strong>Ability Score Increase:</strong> Strength +1</li>
+
+      <li><strong>Thunderwave (innate):</strong> cast the <em lang="ja-Latn">thunderwave</em> spell once per short/long
+      rest;
+
+      Intelligence is the spellcasting ability</li>
+
+      <li><strong>Great Build:</strong> proficient in Athletics and Intimidation</li>
+
+      </ul>
+
+      <h4 id="kg-izina-tailed-monkey-lineage" data-section="izina-tailed-monkey-lineage">Izina (tailed-monkey
+      lineage)</h4>
+
+      <ul>
+
+      <li><strong>Ability Score Increase:</strong> Dexterity +1</li>
+
+      <li><strong>Agile:</strong> advantage on Dex (Acrobatics) checks to escape a grapple</li>
+
+      <li><strong>Prehensile Tail:</strong> proficient in Acrobatics</li>
+
+      <li><strong>Nimble Climbers:</strong> climbing speed equal to walking speed</li>
+
+      </ul>
+
+      </section>
+    chat: ''
+  advancement:
+    l7XdaFxhGjc074cq:
+      _id: l7XdaFxhGjc074cq
+      type: Size
+      configuration:
+        sizes:
+          - med
+      level: 0
+      value: {}
+      flags: {}
+      hint: ''
+    EEXSxEPXdh1dR2xO:
+      _id: EEXSxEPXdh1dR2xO
+      type: Trait
+      configuration:
+        mode: default
+        allowReplacements: true
+        grants:
+          - languages:standard:common
+        choices:
+          - count: 2
+            pool:
+              - languages:*
+      value:
+        chosen:
+          - languages:standard:common
+      level: 0
+      title: Languages
+      flags: {}
+      hint: ''
+    sfwFONI3JenCdx1I:
+      _id: sfwFONI3JenCdx1I
+      type: AbilityScoreImprovement
+      configuration:
+        points: 0
+        fixed:
+          int: 2
+        cap: 2
+        locked: []
+        recommendation: null
+      value:
+        type: asi
+      level: 0
+      flags: {}
+      hint: ''
+  movement:
+    burrow: '0'
+    climb: '0'
+    fly: '0'
+    swim: '0'
+    walk: '30'
+    units: ft
+    hover: false
+    ignoredDifficultTerrain: []
+  senses:
+    units: null
+    special: ''
+    ranges:
+      darkvision: 60
+      blindsight: null
+      tremorsense: null
+      truesight: null
+  type:
+    value: humanoid
+effects: []

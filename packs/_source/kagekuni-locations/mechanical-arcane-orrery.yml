@@ -1,0 +1,757 @@
+_id: WAYTN7jo6Q7PVsIo
+_key: '!journal!WAYTN7jo6Q7PVsIo'
+name: Observatory Repair Mechanics
+pages:
+  - _id: z7Dgd0YPrM2N7Jmu
+    _key: '!journal.pages!z7Dgd0YPrM2N7Jmu'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">location</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">design</dd></div></dl><p><em
+        lang="ja-Latn">&quot;Chamber of the Star Mirror&quot;</em></p>
+
+        <p><em lang="ja-Latn">The Golden Dragon Clan built the most complete model of the Miyosai system ever
+        constructed — mechanical and arcane, capable of projecting celestial positions across millennia. It has not been
+        operational since the temple fell in 13088. The Great Aphelion — the nadir of the sei drought — occurred
+        approximately 1,256 years later (~14344), long after the last operator walked away.</em></p>
+
+        <hr>
+
+        <h2 id="kg-what-it-is" data-section="what-it-is">What It Is</h2>
+
+        <p>A circular domed chamber on the second floor of Oryuzan Tenku-ji. At its center, a mechanical-arcane orrery —
+        a system of bronze armatures, gear tracks, and arcane projection lenses that together model the full Miyosai
+        system:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Type</th>
+
+        <th>Bodies</th>
+
+        <th>Armatures</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Stars</td>
+
+        <td>Amaterasu, Susanoo, Tsukuyomi</td>
+
+        <td>3</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Moons</td>
+
+        <td>Aokiba, Kagetsu, Nagikumo, Ryugetsu</td>
+
+        <td>4</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Planets</td>
+
+        <td>Akahoshi, Akasa, Asahikawa, <strong>Seizan</strong>, Shizukanami, Korigami, Yamiyo</td>
+
+        <td>7</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Total</strong></td>
+
+        <td></td>
+
+        <td><strong>14 tracked bodies</strong></td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>The mechanical layer uses precision bronze gearwork to model orbital periods. The arcane layer projects
+        illusory light around each armature — color, scale, atmospheric effects — transforming the bare mechanism into a
+        functioning planetarium. A control interface at the base allows an operator to set a date, and the mechanism
+        advances or rewinds to show the celestial configuration at that moment.</p>
+
+        <h2 id="kg-miyosai-system-orbital-structure" data-section="miyosai-system-orbital-structure">Miyosai System —
+        Orbital Structure</h2>
+
+        <p>The Miyosai system is a gravitationally bound trinary stellar system. All three stars orbit a common
+        <strong>barycenter</strong>. Amaterasu is the most massive and carries its planetary family as it orbits.
+        Seizan, as one of those planets, travels with Amaterasu.</p>
+
+        <p>The three stars travel on <strong>different orbital inclinations</strong>, producing a three-dimensional
+        dance rather than a flat disc. The named astrological events — Nagorikaze, Long Shadow — are routine expressions
+        of this dance.</p>
+
+        <p><strong>Critical for the orrery</strong>: The seven planets orbit Amaterasu and do not participate in the
+        Great Aphelion. The four moons orbit Seizan and are similarly unaffected. In the orrery, the sei drought is
+        visible as exclusively a two-star withdrawal — Susanoo and Tsukuyomi receding while everything else continues
+        its ordinary motion. The machine keeps working, the planets keep moving, and two of the three stars are simply
+        not where they should be.</p>
+
+        <hr>
+
+        <h2 id="kg-how-it-connects-to-the-tapestries" data-section="how-it-connects-to-the-tapestries">How It Connects
+        to the Tapestries</h2>
+
+        <p>The orrery is integrated with the temple&#39;s foundational magic. When the orrery reaches full operational
+        status (all 9 components restored), its sei resonance propagates through the construction-level enchantment that
+        permeates the entire structure. On the first floor, the <em lang="ja-Latn">ori-kioku</em> tapestries — fabric
+        woven with the Golden Dragon order&#39;s memory-recording technique — respond to the restored sei field by
+        activating simultaneously.</p>
+
+        <p><strong>In play</strong>: Full orrery restoration triggers all four surviving tapestries at once. The scenes
+        do not loop or replay — they run continuously as sustained living images, the way a fire is sustained rather
+        than the way a torch is lit and guttered. The woven figures move, the stitched landscapes shift, color deepens
+        and flows. The tapestries remain active for as long as the orrery is operational.</p>
+
+        <p>The physical separation between the orrery and the tapestries still matters — the party must descend from the
+        second floor to the South Entrance to witness the result. The first descent after restoring the orrery is a
+        dramatic beat: they have been in this room before, they know these walls. Now the tapestries are alive.</p>
+
+        <p>The orrery&#39;s date-display function — its ability to model celestial configurations across millennia — is
+        a separate capability, independent of tapestry activation. The party can use the orrery to explore the Miyosai
+        system&#39;s history (including the dramatic approach of the Great Aphelion) without affecting the tapestries,
+        which respond to the orrery&#39;s operational state, not its displayed date.</p>
+
+        <p>The 11 tapestry positions in the South Entrance correspond to 11 moments in the temple&#39;s history. Four
+        survive intact. Seven are destroyed or removed. The observatory can only activate what physically remains — no
+        tapestry, no scene.</p>
+
+        <hr>
+
+        <h2 id="kg-component-system" data-section="component-system">Component System</h2>
+
+        <p>The observatory requires <strong>9 components</strong> to reach full operation. Five are found on the first
+        floor; four are on the second floor (in the observatory itself or in adjacent second-floor rooms). Components
+        fall into four repair categories.</p>
+
+        <h3 id="kg-first-floor-components-5" data-section="first-floor-components-5">First Floor Components (5)</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>#</th>
+
+        <th>Component</th>
+
+        <th>Category</th>
+
+        <th>Location</th>
+
+        <th>Found Via</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>1</td>
+
+        <td><strong>Susanoo projection lens</strong></td>
+
+        <td>Arcane</td>
+
+        <td>Grand Hall — pool debris</td>
+
+        <td>DC 14 Investigation</td>
+
+        <td>Blue-white crystal; rolled near pools during the fall; Nagaji avoided it</td>
+
+        </tr>
+
+        <tr>
+
+        <td>2</td>
+
+        <td><strong>Planetary gear assembly</strong></td>
+
+        <td>Mechanical</td>
+
+        <td>Dormitories — Nagaji-searched cell</td>
+
+        <td>DC 13 Investigation</td>
+
+        <td>7 interlocking bronze rings; found and discarded by Nagaji</td>
+
+        </tr>
+
+        <tr>
+
+        <td>3</td>
+
+        <td><strong>Calibration disc</strong></td>
+
+        <td>Calibration</td>
+
+        <td>Dormitories — sealed room (bronze order seal)</td>
+
+        <td>Already found if party has the disc</td>
+
+        <td>Reverse face has orbital engravings; seats into control interface</td>
+
+        </tr>
+
+        <tr>
+
+        <td>4</td>
+
+        <td><strong>Tsukuyomi projection lens</strong></td>
+
+        <td>Arcane</td>
+
+        <td>Mess Hall — sealed ceramic jar</td>
+
+        <td>DC 14 Investigation (automatic if jar opened)</td>
+
+        <td>Deep red crystal; hidden deliberately by a priest during the fall</td>
+
+        </tr>
+
+        <tr>
+
+        <td>5</td>
+
+        <td><strong>Sei conduit filament</strong></td>
+
+        <td>Arcane</td>
+
+        <td>Inner Sanctum — surviving Kinryu scroll border</td>
+
+        <td>DC 16 Arcana (DC 14 if lens already found)</td>
+
+        <td>Golden filament; extraction risks destroying the scroll (DC 14 Sleight of Hand / Tinker&#39;s Tools)</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-second-floor-components-4" data-section="second-floor-components-4">Second Floor Components (4)</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>#</th>
+
+        <th>Component</th>
+
+        <th>Category</th>
+
+        <th>Location</th>
+
+        <th>Found Via</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>6</td>
+
+        <td><strong>Amaterasu projection lens</strong></td>
+
+        <td>Arcane</td>
+
+        <td>Observatory — still mounted, cracked</td>
+
+        <td>Visible on inspection</td>
+
+        <td>Golden-yellow crystal; largest of the three; cracked but repairable in place (DC 15 Arcana + Tinker&#39;s
+        Tools)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>7</td>
+
+        <td><strong>Stellar drive mechanism</strong></td>
+
+        <td>Mechanical</td>
+
+        <td>Observatory — seized in place</td>
+
+        <td>Visible on inspection</td>
+
+        <td>The main drive that connects to planetary gears; bronze gearwork frozen by corrosion and debris; requires
+        cleaning and lubrication (DC 13 Tinker&#39;s Tools or Smith&#39;s Tools; Athletics DC 12 to free the main
+        shaft)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>8</td>
+
+        <td><strong>Lunar armature set</strong></td>
+
+        <td>Mechanical</td>
+
+        <td>Scriptorium / adjacent room — removed and stored</td>
+
+        <td>DC 14 Investigation in the scriptorium area</td>
+
+        <td>Four delicate arms removed by the order for maintenance or safekeeping before the fall; stored in a sealed
+        cabinet with other precision instruments</td>
+
+        </tr>
+
+        <tr>
+
+        <td>9</td>
+
+        <td><strong>Operator&#39;s manual</strong></td>
+
+        <td>Calibration</td>
+
+        <td>Scriptorium — among preserved texts</td>
+
+        <td>DC 13 Investigation (DC 10 for Ko&#39;jiri)</td>
+
+        <td>A sei-lacquered instructional scroll detailing calibration and operation procedures; written in Old Imperial
+        with technical diagrams</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-repair-sequence" data-section="repair-sequence">Repair Sequence</h2>
+
+        <p>Repairs happen in stages as the party acquires components and makes checks. The observatory does
+        <strong>not</strong> need all 9 components for partial function — it can be brought online incrementally.</p>
+
+        <h3 id="kg-stage-1-assessment-no-components-required"
+        data-section="stage-1-assessment-no-components-required">Stage 1 — Assessment (No components required)</h3>
+
+        <p><strong>When</strong>: The party first enters the observatory.
+
+        <strong>What happens</strong>: The room is visually impressive even damaged — the armature framework is visible,
+        the dome&#39;s inner surface is etched with constellation guides, the central mechanism is clearly a device of
+        extraordinary complexity. A character can assess the damage without tools:</p>
+
+        <ul>
+
+        <li>DC 12 Investigation or Arcana: Identifies this as an astronomical device; recognizes missing/broken
+        components</li>
+
+        <li>DC 14 History (DC 11 for Ko&#39;jiri): Connects it to Golden Dragon Clan records of a celestial observatory;
+        understands its purpose</li>
+
+        <li>DC 14 Tinker&#39;s Tools or Smith&#39;s Tools: Identifies what specific repairs are needed and in what
+        order</li>
+
+        </ul>
+
+        <p><strong>DM note</strong>: If the party has already found components on the first floor, this is the
+        &quot;aha&quot; moment — the mysterious crystals and bronze rings suddenly have context.</p>
+
+        <h3 id="kg-stage-2-mechanical-restoration" data-section="stage-2-mechanical-restoration">Stage 2 — Mechanical
+        Restoration</h3>
+
+        <p><strong>Requirements</strong>: Planetary gear assembly (#2), stellar drive mechanism (#7, freed in place)
+
+        <strong>Checks</strong>:</p>
+
+        <ul>
+
+        <li>Free the seized stellar drive: DC 12 Athletics to break the main shaft loose, then DC 13 Tinker&#39;s Tools
+        or Smith&#39;s Tools to clean and realign</li>
+
+        <li>Install planetary gear assembly: DC 13 Tinker&#39;s Tools (the bent outer ring must be straightened first —
+        DC 12 Smith&#39;s Tools or improvised)</li>
+
+        </ul>
+
+        <p><strong>Result</strong>: The mechanical layer begins to move. Armatures track, but without lenses the
+        movement is bare bronze — functional but producing no light or projection. The party can see the <em
+        lang="ja-Latn">shape</em> of celestial motion without the detail. This is still impressive and demonstrates the
+        mechanism works.</p>
+
+        <h3 id="kg-stage-3-arcane-restoration" data-section="stage-3-arcane-restoration">Stage 3 — Arcane
+        Restoration</h3>
+
+        <p><strong>Requirements</strong>: At least one projection lens (#1, #4, or #6 repaired), sei conduit filament
+        (#5)
+
+        <strong>Checks</strong>:</p>
+
+        <ul>
+
+        <li>Install sei conduit filament: DC 14 Arcana — thread the filament through the conduit channel running from
+        the mechanism&#39;s base to the projection mounts. A character attuned to sei (Ko&#39;jiri, Relc) has
+        advantage.</li>
+
+        <li>Mount projection lens(es): DC 12 Tinker&#39;s Tools per lens. Each lens seats into a specific mount —
+        Susanoo (blue-white) in the inner ring, Tsukuyomi (deep red) in the outer ring, Amaterasu (golden) in the
+        central position.</li>
+
+        <li>Repair cracked Amaterasu lens: DC 15 Arcana combined with Tinker&#39;s Tools (two characters can work
+        together). Failure does not destroy the lens but leaves its projection dim and incomplete.</li>
+
+        </ul>
+
+        <p><strong>Result per lens</strong>:</p>
+
+        <ul>
+
+        <li><strong>Amaterasu only</strong>: The primary star projects — golden light fills the dome, warm and steady.
+        The mechanical armatures are now illuminated. Beautiful but incomplete.</li>
+
+        <li><strong>Susanoo added</strong>: Blue-white companion star appears; ghost-light effects play across the dome
+        walls when its orbit draws close. Water magic ambient effects become faintly perceptible.</li>
+
+        <li><strong>Tsukuyomi added</strong>: Deep red dwarf star appears on its elongated orbit. Shadows in the room
+        shift subtly as it moves. The full stellar system is now operational.</li>
+
+        </ul>
+
+        <p><strong>Partial function note</strong>: With even one lens installed and the sei conduit connected, the
+        orrery begins producing sei resonance — the room comes alive with partial projection. However, tapestry
+        activation requires full orrery restoration (all 9 components). Partial restoration produces no tapestry
+        response. The orrery&#39;s sei output at partial stages is sufficient for the observatory&#39;s own projection
+        effects but not for propagating resonance through the temple&#39;s foundational magic to the South Entrance.</p>
+
+        <h3 id="kg-stage-4-lunar-arms" data-section="stage-4-lunar-arms">Stage 4 — Lunar Arms</h3>
+
+        <p><strong>Requirements</strong>: Lunar armature set (#8)
+
+        <strong>Checks</strong>:</p>
+
+        <ul>
+
+        <li>Install four lunar arms: DC 13 Tinker&#39;s Tools (single check for all four — they mount as a set into
+        pre-built receivers)</li>
+
+        </ul>
+
+        <p><strong>Result</strong>: The four moons appear in the projection — each with its canonical character (Aokiba
+        crystalline, Kagetsu shadow-absorbing, Nagikumo softly glowing, Ryugetsu color-shifting). Tidal calculations
+        become visible. The compound stellar + lunar alignments that produce the named astrological events (Nagorikaze,
+        Tatsunami, Hikarisho, etc.) are now trackable.</p>
+
+        <h3 id="kg-stage-5-calibration" data-section="stage-5-calibration">Stage 5 — Calibration</h3>
+
+        <p><strong>Requirements</strong>: Calibration disc (#3), operator&#39;s manual (#9)
+
+        <strong>Checks</strong>:</p>
+
+        <ul>
+
+        <li>Seat the calibration disc: DC 12 (automatic if a character understands its purpose)</li>
+
+        <li>Read the operator&#39;s manual: DC 14 History to read Old Imperial technical text (DC 11 for Ko&#39;jiri;
+        advantage if <em lang="ja-Latn">Comprehend Languages</em> is active)</li>
+
+        <li>Set the reference date: DC 14 Navigator&#39;s Tools or Arcana — using the Star Shrine&#39;s fixed etching of
+        the Great Aphelion as a known reference point (if the party studied it). Without the Star Shrine reference, DC
+        17.</li>
+
+        <li><strong>Alternative calibration method</strong>: A character who meditates in the Star Shrine under
+        moonlight and then returns to the observatory has advantage on the calibration check — the shrine&#39;s
+        projected sky provides the &quot;current&quot; reference, and the orrery can be wound backward from there.</li>
+
+        </ul>
+
+        <p><strong>Result</strong>: The control interface is operational. The operator can set any date and the orrery
+        advances or rewinds to display the celestial configuration at that moment. The tapestry activation reaches full
+        clarity — but the party must descend to the South Entrance to witness the result.</p>
+
+        <hr>
+
+        <h2 id="kg-using-the-observatory" data-section="using-the-observatory">Using the Observatory</h2>
+
+        <h3 id="kg-setting-a-date" data-section="setting-a-date">Setting a Date</h3>
+
+        <p>The operator turns the calibration disc to advance or rewind time. The mechanism moves smoothly — the room
+        fills with light and shadow as centuries pass in minutes. Watching the Great Aphelion approach is dramatic:
+        Susanoo&#39;s blue-white dims and vanishes from its armature; Tsukuyomi&#39;s deep red bleeds away even earlier.
+        The planetary and lunar armatures continue their ordinary motion — the machine keeps working while two of its
+        three stars go dark. The light dims to Amaterasu alone. The room grows cold. Then it passes, and the slow return
+        begins — Susanoo first, then Tsukuyomi, centuries apart.</p>
+
+        <h3 id="kg-orrery-projection-sequence" data-section="orrery-projection-sequence">Orrery Projection Sequence</h3>
+
+        <p><em lang="ja-Latn">What the party observes when scrolling through the dial. Mechanical armature motion
+        continues normally throughout — only the arcane projection layer responds to sei availability. See
+        core/great-aphelion.md for the full detailed sequence with individual star profiles.</em></p>
+
+        <p><strong>Pre-Decline (pre-~12605)</strong>: All three stars at full intensity. The dome warm and fully lit —
+        the room functioning as designed. When the party scrolls to a Golden Age date, they understand for the first
+        time what they have been looking at in its damaged state.</p>
+
+        <p><strong>Early Decline (~12605–12700)</strong>: Tsukuyomi&#39;s deep red begins to bleed at the edges. Subtle.
+        Susanoo holds full brightness. The dome is visibly but not dramatically wrong.</p>
+
+        <p><strong>Deepening Decline (~12700–12806)</strong>: Tsukuyomi&#39;s red is clearly diminished. Susanoo still
+        holds. The first star crosses below visibility threshold at approximately 12806. Dark ages begin.</p>
+
+        <p><strong>Late Decline (~12806–14264)</strong>: Tsukuyomi&#39;s arm is dark. Susanoo still holds but dimming.
+        The dome is Amaterasu&#39;s gold, Susanoo&#39;s fading blue-white, and one silent arm.</p>
+
+        <p><strong>Susanoo&#39;s Failure (~14264–14344)</strong>: Susanoo&#39;s projection dims and goes dark. The dome
+        is Amaterasu alone. All planetary and lunar armatures continue their ordinary motion. The room does not feel
+        like an observatory.</p>
+
+        <p><strong>Great Aphelion (~14344)</strong>: All three stars at maximum mutual distance. Three separate arms on
+        three separate planes, all pointing away from each other. The geometry is legible before the party processes the
+        darkness. Amaterasu alone in the dome. The nadir.</p>
+
+        <p><strong>Post-Nadir (~14344–15883)</strong>: Scrolling forward changes nothing visible. Amaterasu holds. The
+        two secondary arms remain dark. Advancing centuries in seconds and seeing no change has its own effect at the
+        table. The absence is not passive.</p>
+
+        <p><strong>Dawn (~15883)</strong>: Susanoo&#39;s armature shows the first ghost of blue-white. A character with
+        sei sensitivity may feel warmth in their sternum before the light is visible to anyone. The dark ages end.</p>
+
+        <p><strong>First Talents (~15883–15962)</strong>: Susanoo&#39;s blue-white strengthens slowly. Tsukuyomi&#39;s
+        arm remains dark. The match between star position and magical accessibility is legible if they think to look for
+        it.</p>
+
+        <p><strong>Return Arc (~15962–16693)</strong>: Susanoo continues strengthening. Tsukuyomi&#39;s deep red begins
+        its slower return. The return does not feel like restoration — it feels like recovery from a very long
+        illness.</p>
+
+        <p><strong>Great Awakening (~16693)</strong>: Tsukuyomi&#39;s red crosses into clear visibility. All three stars
+        present.</p>
+
+        <p><strong>Current Date (16744)</strong>: The orrery shows the present sky. All three stars lit. A comparison
+        against a Golden Age date reveals Tsukuyomi&#39;s projection carries slightly less intensity than its
+        pre-decline readings. The return is real. It is not yet complete.</p>
+
+        <p><em lang="ja-Latn">This is the only moment in the orrery sequence where the party is looking at their own
+        world in real time.</em></p>
+
+        <h3 id="kg-tapestry-activation" data-section="tapestry-activation">Tapestry Activation</h3>
+
+        <p>When the orrery reaches full operational status (all 9 components restored), sei resonance propagates through
+        the temple&#39;s foundational magic down to the South Entrance. All four surviving tapestries activate
+        simultaneously.</p>
+
+        <ul>
+
+        <li><strong>Intact tapestry</strong>: The woven scene comes to life on the fabric itself. Stitched figures move
+        within the weave, colors deepen and flow, the static image becomes a sustained living state. Faint sound — not
+        words but the ambient texture of the recorded moment (wind, fire, distant voices) — emanates from the fabric.
+        The scene does not loop or replay. It runs continuously, the ori-kioku sustaining the recorded moment as a
+        living state rather than a playback.</li>
+
+        <li><strong>Damaged tapestry</strong>: The surviving portions animate; damaged sections remain static or flicker
+        with partial, distorted motion. Where the fabric is torn, the scene cuts off at the tear edge. Information is
+        partial, shaped by what physically remains.</li>
+
+        <li><strong>Destroyed tapestry</strong>: The position is dark. If the frame is still mounted but the fabric
+        burned or decayed beyond recognition, a faint pulse of warmth and the ghost of color ripples across the ruined
+        surface — the ori-kioku is trying to activate in material that can no longer carry it. Nothing readable comes
+        through.</li>
+
+        <li><strong>Missing tapestry (cut down and removed)</strong>: Nothing at all. The empty wall shows no response.
+        But a character standing at the empty position during activation (DC 12 Perception) feels a brief pulse of
+        warmth in the stone behind the mounting brackets — confirming the system <em lang="ja-Latn">expected</em>
+        something here. The missing tapestries exist somewhere, if they can be found.</li>
+
+        </ul>
+
+        <h3 id="kg-tapestry-iii-architectural-distinction"
+        data-section="tapestry-iii-architectural-distinction">Tapestry III — Architectural Distinction</h3>
+
+        <p>Tapestry III is architecturally distinct from the other three. Where Tapestries I, II, and IV hold fixed
+        historical moments in their ori-kioku, Tapestry III was built as a monitoring surface — its ori-kioku records
+        ongoing network state rather than a single event. When the orrery activates it, it does not play back the past.
+        It shows the current state of the sanctuary network as of the moment of activation.</p>
+
+        <p>This distinction is discoverable: the motion quality of Tapestry III is subtly different from the others.
+        Historical ori-kioku playback has a smoothness — complete, consistent, rendered the way memory renders the past.
+        Tapestry III has the slight irregular quality of a live feed. The tidal motion does not loop. It follows an
+        actual current. DC 14 Arcana to identify the distinction formally; observant players may notice it without a
+        check.</p>
+
+        <p>This property means that Tapestry III&#39;s value is not fixed at the moment of orrery restoration — it
+        continues to reflect the network&#39;s actual state. If a site changes status after the party restores the
+        orrery, Tapestry III will show the change.</p>
+
+        <h3 id="kg-ruling-the-tapestry-is-the-medium" data-section="ruling-the-tapestry-is-the-medium">Ruling: The
+        Tapestry Is the Medium</h3>
+
+        <p>The ori-kioku technique records into the fabric. The fabric is not a screen — it <em lang="ja-Latn">is</em>
+        the recording. What was physically destroyed is gone. Cut sections, gouged faces, missing panels — the
+        activation animates what remains, nothing more. Destroying a tapestry destroys the record. Removing a tapestry
+        removes the record from this location.</p>
+
+        <p>This means:</p>
+
+        <ul>
+
+        <li><strong>The destroyed tapestries&#39; content is permanently lost</strong> unless the physical fabric is
+        recovered from wherever it was taken</li>
+
+        <li><strong>The deliberate damage matters</strong> — the infiltrators who gouged the first head priest&#39;s
+        face and cut sections from multiple tapestries successfully erased that information. Their act of destruction
+        holds weight across millennia.</li>
+
+        <li><strong>Finding missing tapestries becomes a potential quest thread</strong> — several were cut down and
+        removed, not destroyed. They exist somewhere. Returning them to their positions and activating the orrery would
+        reveal their scenes.</li>
+
+        <li><strong>The activation rewards thorough exploration without cheapening the physical damage</strong> — the
+        party sees four living moments of Golden Dragon history, each one powerful but incomplete. The incompleteness is
+        the point.</li>
+
+        </ul>
+
+        <hr>
+
+        <h2 id="kg-character-moments-during-repair" data-section="character-moments-during-repair">Character Moments
+        During Repair</h2>
+
+        <h3 id="kg-ko39jiri" data-section="ko39jiri">Ko&#39;jiri</h3>
+
+        <p>The observatory is the genuine article of everything he has performed knowledge of. Working on the real
+        mechanism — reading the operator&#39;s manual, recognizing the planetary notations from his research — is a
+        moment where the con artist&#39;s scholarly knowledge proves to be real expertise. His Golden Dragon Clan
+        advantage applies throughout. The orrery doesn&#39;t judge him the way the statue does; it just needs someone
+        who knows what it is. He does.</p>
+
+        <h3 id="kg-relc" data-section="relc">Relc</h3>
+
+        <p>The calibration process benefits from druidic celestial attunement. Relc can <em lang="ja-Latn">feel</em>
+        when the mechanism is correctly aligned — not through calculation but through the same instinct that connects
+        him to natural cycles. The Star Shrine meditation path (advantage on calibration) is his contribution. The sky
+        is a text he already reads.</p>
+
+        <h3 id="kg-sun-wukong" data-section="sun-wukong">Sun Wukong</h3>
+
+        <p>The mechanical precision required for armature installation and lens mounting rewards steady hands and
+        disciplined focus. Ki-guided fine motor work — the monk&#39;s equivalent of Tinker&#39;s Tools. The
+        monastery&#39;s emphasis on patience and precision maps directly onto the repair work.</p>
+
+        <h3 id="kg-dian-wei" data-section="dian-wei">Dian Wei</h3>
+
+        <p>The seized stellar drive requires physical strength (Athletics DC 12) before the fine work can begin. The
+        structural assessment — identifying load-bearing cracks, ensuring the mechanism&#39;s frame is stable — is
+        practical, martial knowledge applied in a new context. Dian holds the room together while the others do the
+        delicate work.</p>
+
+        <hr>
+
+        <h2 id="kg-pacing-across-sessions" data-section="pacing-across-sessions">Pacing Across Sessions</h2>
+
+        <p>The observatory repair is designed to span the second floor exploration, not dominate it. The party returns
+        to the observatory between other second-floor activities.</p>
+
+        <p><strong>Suggested flow</strong>:</p>
+
+        <ol>
+
+        <li><strong>Discovery</strong>: Party reaches second floor, finds the observatory. Assessment checks.
+        &quot;Aha&quot; moment if they have first-floor components.</li>
+
+        <li><strong>First repair session</strong>: Mechanical restoration (Stage 2). The mechanism moves. Brief,
+        satisfying.</li>
+
+        <li><strong>Exploration break</strong>: Party explores scriptorium and other second-floor rooms. Finds lunar
+        armatures, operator&#39;s manual, other second-floor content.</li>
+
+        <li><strong>Second repair session</strong>: Arcane restoration (Stage 3). First lens installed. Light fills the
+        dome. Major atmospheric moment.</li>
+
+        <li><strong>More exploration</strong>: Continue second-floor content. Maybe encounter. Return with remaining
+        components.</li>
+
+        <li><strong>Final repair session</strong>: Lunar arms (Stage 4), calibration (Stage 5). Full activation.</li>
+
+        <li><strong>The descent</strong>: After full restoration, the party goes back downstairs to the South Entrance —
+        the very first room they entered. They have been here before. They know these walls. Describe the South Entrance
+        differently now. The moment they see the first tapestry <em lang="ja-Latn">moving</em>, the room they thought
+        they understood becomes something else entirely. Let that beat land.</li>
+
+        <li><strong>The living tapestries</strong>: All four surviving tapestries are now active simultaneously. The
+        party can move between them freely. Budget 45-60 minutes for the full experience. This is a sustained state, not
+        a timed event — they can return to the tapestries whenever they want as long as the orrery is running.</li>
+
+        </ol>
+
+        <p>Each repair session should take 15-30 minutes of table time. The tapestry activation scene is the big set
+        piece. Budget 45-60 minutes.</p>
+
+        <hr>
+
+        <p><strong>[QUEST SEED → quests/main-light-of-the-star-mirror.md]</strong></p>
+
+        <p><em lang="ja-Latn">Connected entries: floor-1.md (floor overview, spatial layout), floor-1/ room files
+        (component locations per room), tapestry.md (tapestry content — static and activation), overview.md (temple
+        structure), core/world.md [SEALED] (Great Aphelion), core/magic.md [SEALED] (sei drought),
+        core/great-aphelion.md (full timeline and projection sequence)</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/locations/tenkuji-temple/supplements/mechanical-arcane-orrery.md
+    slug: mechanical-arcane-orrery
+    frontmatter:
+      name: Observatory Repair Mechanics
+      type: location
+      location_type: design-document
+      parent: tenkuji-temple
+      island: hokori
+      province: hana
+      status: design
+      tags:
+        - temple
+        - kinryu
+        - observatory
+        - orrery
+        - repair
+        - mechanics

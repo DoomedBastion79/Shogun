@@ -1,0 +1,698 @@
+_id: hBi28qcekbyBeeqt
+_key: '!items!hBi28qcekbyBeeqt'
+name: Buddhist Monk
+type: class
+img: icons/skills/trades/academics-book-study-purple.webp
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: buddhist-monk
+    category: class
+    frontmatter:
+      name: Buddhist Monk
+      type: class
+      hit_die: d10
+      primary_ability:
+        - dex
+        - wis
+      saving_throws:
+        - dex
+        - wis
+      armor:
+        - light
+      weapons:
+        - simple
+        - martial
+      tools:
+        - one artisan tool or musical instrument (player choice)
+      skills:
+        choose: 3
+        from:
+          - acrobatics
+          - athletics
+          - history
+          - insight
+          - investigation
+          - nature
+          - perception
+          - religion
+          - stealth
+      subclass_label: Way of the Monk
+      subclass_levels:
+        - 3
+        - 6
+        - 11
+        - 17
+      source: https://www.dandwiki.com/wiki/Buddhist_Monk_(5e_Class)
+      license: CC BY-SA 3.0
+      canonical_in_campaign: true
+      used_by_pcs:
+        - sun-wukong
+      tags:
+        - class
+        - monk
+        - ki
+        - homebrew
+        - dandwiki
+      related_npcs:
+        - elder-benkei
+      related_quests: []
+system:
+  identifier: buddhist-monk
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  description:
+    value: >-
+      <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+      class="kg-info__row"><dt>Type</dt><dd data-field="type">class</dd></div></dl><p><em lang="ja-Latn">Homebrew Monk
+      variant from D&amp;D Wiki. This is the class Sun Wukong is built on — not
+
+      the SRD monk. Mechanical differences (d10 hit die, doubled ki pool, front-loaded
+
+      level 6) matter for balance and should be noted in session prep.</em></p>
+
+      <p>See <code>pcs/sun-wukong.md</code> for the active character and <code>npcs/elder-benkei.md</code> for the
+
+      order&#39;s elder.</p>
+
+      </section>
+
+      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
+      data-section="description">Description</h3>
+
+      <p>A discipline of armed and unarmed combat taught in the monasteries of Seizan and
+
+      Hokori&#39;s mountain orders. Buddhist Monks of this path — the <em lang="ja-Latn">Tranquil Lotus</em> among
+
+      them — train the body as an instrument of ki and follow one of twelve Ways. Where
+
+      an SRD monk is a lightly armored martial artist, the Buddhist Monk leans harder
+
+      into ki expenditure, tool mastery, and a broader weapon repertoire (simple <em lang="ja-Latn">and</em>
+
+      martial proficiency).</p>
+
+      <h3 id="kg-quick-reference" data-section="quick-reference">Quick Reference</h3>
+
+      <ul>
+
+      <li><strong>Hit Die:</strong> d10 (10 + Con at 1st; 1d10 + Con per level after)</li>
+
+      <li><strong>Saves:</strong> Dexterity, Wisdom</li>
+
+      <li><strong>Armor:</strong> Light only</li>
+
+      <li><strong>Weapons:</strong> Simple and martial</li>
+
+      <li><strong>Tools:</strong> One artisan&#39;s tool or musical instrument (player choice)</li>
+
+      <li><strong>Skills:</strong> Pick 3 from Acrobatics, Athletics, History, Insight, Investigation,
+
+      Nature, Perception, Religion, Stealth</li>
+
+      <li><strong>Subclass pick at:</strong> Level 3 (Way of the Monk)</li>
+
+      <li><strong>Subclass features at:</strong> 3, 6, 11, 17</li>
+
+      </ul>
+
+      <h3 id="kg-starting-equipment" data-section="starting-equipment">Starting Equipment</h3>
+
+      <ul>
+
+      <li>(a) one martial weapon of your choice <strong>or</strong> (b) two simple weapons of your choice</li>
+
+      <li>(a) an explorer&#39;s pack <strong>or</strong> (b) a dungeoneer&#39;s pack</li>
+
+      <li>Alternative starting wealth: 2d4 × 10 gp</li>
+
+      </ul>
+
+      <h3 id="kg-progression-table" data-section="progression-table">Progression Table</h3>
+
+      <p>Paraphrased from the source; see wiki for full text. Ki pool and Martial Arts die
+
+      scaling are the most distinctive numbers in this variant.</p>
+
+      <table>
+
+      <thead>
+
+      <tr>
+
+      <th>Lvl</th>
+
+      <th>PB</th>
+
+      <th>Martial Arts</th>
+
+      <th>Ki Points</th>
+
+      <th>Unarm. Move</th>
+
+      <th>Key Features Gained</th>
+
+      </tr>
+
+      </thead>
+
+      <tbody><tr>
+
+      <td>1</td>
+
+      <td>+2</td>
+
+      <td>1d6</td>
+
+      <td>—</td>
+
+      <td>+10 ft</td>
+
+      <td>Unarmored Mastery, Martial Arts</td>
+
+      </tr>
+
+      <tr>
+
+      <td>2</td>
+
+      <td>+2</td>
+
+      <td>1d6</td>
+
+      <td>4 + Wis</td>
+
+      <td>+10 ft</td>
+
+      <td>Ki, Body Improvements</td>
+
+      </tr>
+
+      <tr>
+
+      <td>3</td>
+
+      <td>+2</td>
+
+      <td>1d6</td>
+
+      <td>6 + Wis</td>
+
+      <td>+10 ft</td>
+
+      <td>Way of the Monk, Ki Enhancement, Deflect Projectiles</td>
+
+      </tr>
+
+      <tr>
+
+      <td>4</td>
+
+      <td>+2</td>
+
+      <td>1d6</td>
+
+      <td>8 + Wis</td>
+
+      <td>+10 ft</td>
+
+      <td>ASI, Slow Fall, Unlocked Ki</td>
+
+      </tr>
+
+      <tr>
+
+      <td>5</td>
+
+      <td>+3</td>
+
+      <td>1d8</td>
+
+      <td>10 + Wis</td>
+
+      <td>+15 ft</td>
+
+      <td>Extra Attack, Stunning Strike</td>
+
+      </tr>
+
+      <tr>
+
+      <td>6</td>
+
+      <td>+3</td>
+
+      <td>1d8</td>
+
+      <td>12 + Wis</td>
+
+      <td>+15 ft</td>
+
+      <td>Ki-Empowered Strikes, Monk Training, Way feature, ASI</td>
+
+      </tr>
+
+      <tr>
+
+      <td>7</td>
+
+      <td>+3</td>
+
+      <td>1d8</td>
+
+      <td>14 + Wis</td>
+
+      <td>+15 ft</td>
+
+      <td>Resistant, Stillness of Mind</td>
+
+      </tr>
+
+      <tr>
+
+      <td>8</td>
+
+      <td>+3</td>
+
+      <td>1d8</td>
+
+      <td>16 + Wis</td>
+
+      <td>+15 ft</td>
+
+      <td>ASI, Ki-Enhanced Critical</td>
+
+      </tr>
+
+      <tr>
+
+      <td>9</td>
+
+      <td>+4</td>
+
+      <td>1d10</td>
+
+      <td>18 + Wis</td>
+
+      <td>+20 ft</td>
+
+      <td>Ki Recovery</td>
+
+      </tr>
+
+      <tr>
+
+      <td>10</td>
+
+      <td>+4</td>
+
+      <td>1d10</td>
+
+      <td>20 + Wis</td>
+
+      <td>+20 ft</td>
+
+      <td>Limit Break, Purity of Body, Unlocked Ki (2)</td>
+
+      </tr>
+
+      <tr>
+
+      <td>11</td>
+
+      <td>+4</td>
+
+      <td>1d10</td>
+
+      <td>22 + Wis</td>
+
+      <td>+20 ft</td>
+
+      <td>Advanced Energy Usage, Extra Attack (2), Way feature</td>
+
+      </tr>
+
+      <tr>
+
+      <td>12</td>
+
+      <td>+4</td>
+
+      <td>1d10</td>
+
+      <td>24 + Wis</td>
+
+      <td>+20 ft</td>
+
+      <td>ASI, Advanced Monk Training</td>
+
+      </tr>
+
+      <tr>
+
+      <td>13</td>
+
+      <td>+5</td>
+
+      <td>1d12</td>
+
+      <td>26 + Wis</td>
+
+      <td>+25 ft</td>
+
+      <td>Tongue of the Sun and Moon</td>
+
+      </tr>
+
+      <tr>
+
+      <td>14</td>
+
+      <td>+5</td>
+
+      <td>1d12</td>
+
+      <td>28 + Wis</td>
+
+      <td>+25 ft</td>
+
+      <td>Diamond Soul, Limit Break (2)</td>
+
+      </tr>
+
+      <tr>
+
+      <td>15</td>
+
+      <td>+5</td>
+
+      <td>2d6</td>
+
+      <td>30 + Wis</td>
+
+      <td>+25 ft</td>
+
+      <td>Timeless Body</td>
+
+      </tr>
+
+      <tr>
+
+      <td>16</td>
+
+      <td>+5</td>
+
+      <td>2d6</td>
+
+      <td>32 + Wis</td>
+
+      <td>+25 ft</td>
+
+      <td>ASI, Ultimate Monk Training</td>
+
+      </tr>
+
+      <tr>
+
+      <td>17</td>
+
+      <td>+6</td>
+
+      <td>2d8</td>
+
+      <td>34 + Wis</td>
+
+      <td>+30 ft</td>
+
+      <td>Way feature</td>
+
+      </tr>
+
+      <tr>
+
+      <td>18</td>
+
+      <td>+6</td>
+
+      <td>2d8</td>
+
+      <td>36 + Wis</td>
+
+      <td>+30 ft</td>
+
+      <td>Empty Body, Limit Break (3)</td>
+
+      </tr>
+
+      <tr>
+
+      <td>19</td>
+
+      <td>+6</td>
+
+      <td>2d8</td>
+
+      <td>38 + Wis</td>
+
+      <td>+30 ft</td>
+
+      <td>ASI</td>
+
+      </tr>
+
+      <tr>
+
+      <td>20</td>
+
+      <td>+6</td>
+
+      <td>2d8</td>
+
+      <td>40 + Wis</td>
+
+      <td>+30 ft</td>
+
+      <td>Enlightenment</td>
+
+      </tr>
+
+      </tbody></table>
+
+      <h3 id="kg-core-class-features-summaries" data-section="core-class-features-summaries">Core Class Features
+      (Summaries)</h3>
+
+      <p>Paraphrased. Consult the source wiki for full rules text and exact costs.</p>
+
+      <ul>
+
+      <li><strong>Unarmored Mastery (1):</strong> While unarmored and without a shield, AC = 10 + Dex + Wis;
+
+      gain bonus speed and can run along walls or across water while ki is active. Gains
+
+      a limited flight option at 9 while holding at least 1 ki.</li>
+
+      <li><strong>Martial Arts (1):</strong> Use Dex for unarmed and monk-weapon attacks; substitute the
+
+      Martial Arts die for normal damage; get a bonus-action unarmed strike whenever
+
+      you Attack with an unarmed strike or monk weapon.</li>
+
+      <li><strong>Ki (2):</strong> Pool of ki points recovered on a short rest after 30 minutes of
+
+      meditation. Base uses: <strong>Flurry of Blows</strong> (1 ki, two bonus-action strikes),
+
+      <strong>Patient Defense</strong> (1 ki, Dodge as bonus action), <strong>Step of the Wind</strong> (1 ki,
+
+      Dash/Disengage as bonus action, doubled jump, no OA). Ki save DC = 8 + PB + Wis.</li>
+
+      <li><strong>Body Improvements (2):</strong> Proficiency in Perception and Insight (doubled if
+
+      already proficient).</li>
+
+      <li><strong>Way of the Monk (3):</strong> Pick a subclass; features at 3, 6, 11, 17.</li>
+
+      <li><strong>Ki Enhancement (3):</strong> Pick one of Empowered Strike, Energy Armor, or Weapon
+
+      Enhancement — each burns ki for different offensive/defensive riders.</li>
+
+      <li><strong>Deflect Projectiles (3):</strong> Reaction reduces ranged damage by Martial Arts die +
+
+      Dex + monk level; reducing to 0 lets you throw the projectile back for 1 ki. Extra
+
+      dedicated reactions unlock at 8 and 13.</li>
+
+      <li><strong>Slow Fall (4):</strong> Reaction reduces falling damage by 5 × monk level.</li>
+
+      <li><strong>Unlocked Ki (4, 10):</strong> Adds Abundant Step, Focused Aim, Ki Sphere at 4; Iron
+
+      Fist, Karmic Strike, Weakening Touch, and Ki Surge at 10.</li>
+
+      <li><strong>Extra Attack (5, 11):</strong> Two attacks at 5, three at 11.</li>
+
+      <li><strong>Stunning Strike (5):</strong> 1 ki on a melee hit forces a Con save or stun until end
+
+      of your next turn. Later options let you paralyze or blind instead.</li>
+
+      <li><strong>Ki-Empowered Strikes (6):</strong> Unarmed strikes (or monk weapons, your pick) count
+
+      as magical and add a Wisdom-scaled damage die. Both options become magical at 11.</li>
+
+      <li><strong>Monk Training / Advanced / Ultimate (6, 12, 16):</strong> Bonus feats chosen from
+
+      curated Body, Martial Arts, Ki, Ki Manipulation, and Healing feat lists, with one
+
+      non-level prerequisite waived.</li>
+
+      <li><strong>Resistant (7):</strong> Pick a high ability (16+); successful saves of that ability for
+
+      half damage now take no damage, failures take half. A second option unlocks at 17.</li>
+
+      <li><strong>Stillness of Mind (7):</strong> Action to remove charmed or frightened from yourself.</li>
+
+      <li><strong>Ki-Enhanced Critical (8):</strong> While you have at least 1 ki, crit range expands to
+
+      19–20; at 16, 18–20.</li>
+
+      <li><strong>Ki Recovery (9):</strong> Regain 1 ki at the start of each of your combat turns.</li>
+
+      <li><strong>Limit Break (10, 14, 18):</strong> +2 to Str or Dex (pick), Con, and Wis, raising the
+
+      cap — to 22 at 10, 24 at 14, 26 at 18.</li>
+
+      <li><strong>Purity of Body (10):</strong> Immune to disease and poison.</li>
+
+      <li><strong>Advanced Energy Usage (11):</strong> Pick two &quot;ki energy use&quot; options — imbuing
+
+      objects into improvised weapons, rendering them volatile, etc. Ki costs scale
+
+      with object size.</li>
+
+      <li><strong>Tongue of the Sun and Moon (13):</strong> Understand and be understood in any spoken
+
+      language.</li>
+
+      <li><strong>Diamond Soul (14):</strong> Proficient in all saves; spend 1 ki to reroll a failed save.</li>
+
+      <li><strong>Timeless Body (15):</strong> No aging, no need for food or water, spend ki to extend
+
+      breath-holding.</li>
+
+      <li><strong>Empty Body (18):</strong> 4 ki for 1-minute invisibility with resistance to all damage
+
+      except force; 6 ki to cast <em lang="ja-Latn">astral projection</em> on yourself.</li>
+
+      <li><strong>Enlightenment (20):</strong> +4 to Str or Dex, Con, and Wis. Once per turn activate a
+
+      1-ki feature free. Bonus action to regain (2 × Wis mod) ki, uses = ½ PB. Spend 1
+
+      ki to manifest a Third Eye — 20 ft truesight and immunity to surprise for 1 min.</li>
+
+      </ul>
+
+      <h3 id="kg-ways-of-the-monk-subclasses" data-section="ways-of-the-monk-subclasses">Ways of the Monk
+      (Subclasses)</h3>
+
+      <p>Twelve subclasses are available, each granting features at 3, 6, 11, and 17. Short
+
+      original summaries:</p>
+
+      <ol>
+
+      <li><strong>Ki Manipulator</strong> — scholar-monk path specializing in ki efficiency, ally
+
+      healing, and high-level elemental &quot;Deva&quot; transformations.</li>
+
+      <li><strong>Sun Soul</strong> — channels ki as searing radiant light and solar bolts.</li>
+
+      <li><strong>Astral Self</strong> — manifests a spectral inner self (arms, face, body) that fights
+
+      with force damage.</li>
+
+      <li><strong>Living Weapon</strong> — pure martial body-hardening path focused on stacked unarmed
+
+      strikes and an awakened combat state.</li>
+
+      <li><strong>Drunken Master</strong> — unpredictable brawler who drinks for buffs, redirects
+
+      attacks, and eventually breathes fire.</li>
+
+      <li><strong>Kensei</strong> — treats weapons as monk weapons, adds medium armor training, and
+
+      layers combat techniques onto flurries and parries.</li>
+
+      <li><strong>Long Death</strong> — studies mortality, draining vitality as temp HP and inflicting
+
+      fear and necrotic damage.</li>
+
+      <li><strong>Mercy</strong> — wandering healer-monks whose hands can soothe or wound, combining
+
+      necrotic strikes with potent ki-powered healing pools.</li>
+
+      <li><strong>Shadow</strong> — ninja-flavored shadow-benders who hide in dim light and move unseen.</li>
+
+      <li><strong>Open Hand</strong> — classic pressure-point path controlling the battlefield via
+
+      knockdown, shove, and reaction suppression through Flurry of Blows.</li>
+
+      <li><strong>Four Elements</strong> — elemental spellcaster-monks converting ki into fire, water,
+
+      earth, or air discipline effects.</li>
+
+      <li><strong>Cobalt Soul</strong> — investigator-monks who &quot;analyze&quot; enemies to learn resistances
+
+      and vulnerabilities, then exploit that intel with extra reactions.</li>
+
+      </ol>
+
+      </section>
+    chat: ''
+  advancement:
+    cZVmZSM9W6SMSgjQ:
+      _id: cZVmZSM9W6SMSgjQ
+      type: HitPoints
+      configuration: {}
+      level: 0
+      value: {}
+      flags: {}
+      hint: ''
+  levels: 0
+  hitDice: d10
+  hitDiceUsed: 0
+  saves:
+    - dex
+    - wis
+  skills:
+    number: 3
+    choices:
+      - acrobatics
+      - athletics
+      - history
+      - insight
+      - investigation
+      - nature
+      - perception
+      - religion
+      - stealth
+    value: []
+  primaryAbility:
+    value:
+      - dex
+      - wis
+    all: true
+  spellcasting:
+    progression: none
+    ability: ''
+    preparation:
+      formula: ''
+      value: 0
+      max: 0
+effects: []

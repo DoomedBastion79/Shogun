@@ -1,0 +1,402 @@
+_id: 5ohYhK6tOymCynGL
+_key: '!journal!5ohYhK6tOymCynGL'
+name: Hana
+pages:
+  - _id: KIrPm8MQYZ0hA0p8
+    _key: '!journal.pages!KIrPm8MQYZ0hA0p8'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-geography-amp-terrain"
+        data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
+
+        <p>Hana occupies the eastern coast of Hokori and is the seat of imperial history. It stretches along the
+        island&#39;s eastern seaboard, bounded to the northwest by the mountainous interior of Sora province for the
+        majority of its inland border, with Tsuchi and Hi to the west, and Kaze to the north.</p>
+
+        <p>The province&#39;s defining feature is the Serenia-kai (Selenia Sea), a vast inland sea covering more than a
+        thousand square miles, fed by twenty-five rivers and thirteen waterfalls cascading from the Tenchusan Ren and
+        the central highlands of Hokori. Its surface shifts color with the seasons. The tidal rhythms driven by
+        Kagekuni&#39;s four moons make its edges unpredictable; the shoreline can retreat several hundred meters during
+        low compound tides.</p>
+
+        <p>To the west, the Seidorin Mori (Bronze Wood Forest) stretches for miles -- an ancient woodland where the
+        trees grow with bark of burnished copper-bronze that catches sunlight like armor. Their leaves shed entirely in
+        one night when the temperature drops below a certain threshold. The wood itself is extraordinarily hard and is
+        harvested under strict clan license for weapons and structural reinforcement.</p>
+
+        <p>To the northeast, the land rises sharply toward the Tenchusan Ren. The pass through this range is the primary
+        land route north. The mountains are sacred in Hana&#39;s religious tradition; several peak-top shrines are
+        maintained by hermit monks.</p>
+
+        <p>Shirogane Yama (Silver Mountain), the highest peak on Hokori, dominates the northern skyline -- a pale peak
+        streaked with natural mineral deposits that catch moonlight. At its summit sits the Hoshino To (Tower of Stars),
+        an ancient astronomical observatory built during the Golden Age. The city of Kumoji sits at its base.</p>
+
+        <p>Key Waterways: Kinryugawa (Gold Dragon River), Midorikawa (Green River), Sutariba (Star River)</p>
+
+        <p>Points of Interest:</p>
+
+        <ul>
+
+        <li>Seidorin Mori (Bronze Wood Forest) -- Ancient woodland with metallic-barked trees. Harvested under strict
+        Clan Kaminari license. The interior is unnervingly quiet -- sound behaves strangely under the canopy. Unlicensed
+        logging is a capital offense.</li>
+
+        <li>Serenia-kai (Selenia Sea) -- The great inland sea. Major artery for trade and travel. The most dangerous
+        tidal event is Ryugetsu&#39;s Embrace, when three moons align over the sea simultaneously.</li>
+
+        <li>Hoshino To (Tower of Stars) -- Ancient observatory on Shirogane Yama summit. Still operational; maintained
+        by a small order of seimasters. Instruments calibrated to all three stars and four moons simultaneously.</li>
+
+        <li>Kodan no Jinja -- Ancient roadside shrine. Grants divine boons to supplicants for a period of days equal to
+        three times the recipient&#39;s experience level (maximum sixty days). Only one boon at a time.</li>
+
+        <li>Shadowfen Bridge -- Stone bridge near Sakura Mura crossing into marsh forest. Legend claims a river spirit
+        demands one honest secret spoken aloud; liars find the far bank leads somewhere unintended.</li>
+
+        <li>Tenchusan Ren (Heavenly Pillar Mountains) -- The mountain range forming Hana&#39;s northwestern boundary.
+        The pass is treacherous in autumn and impassable during winter storms. Significant ruins exist within the
+        range.</li>
+
+        </ul>
+
+        <h3 id="kg-settlements" data-section="settlements">Settlements</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Settlement</th>
+
+        <th>Type</th>
+
+        <th>Population</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Heian</td>
+
+        <td>City</td>
+
+        <td>Large</td>
+
+        <td>Imperial capital; major port; seat of clan governance</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Fujisato</td>
+
+        <td>City</td>
+
+        <td>Medium</td>
+
+        <td>Northeastern coastal port; fishing and trade</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kikyo</td>
+
+        <td>City</td>
+
+        <td>Medium</td>
+
+        <td>Eastern edge of Bronze Wood; lumber trade; Clan Seishin subject</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Ayame</td>
+
+        <td>Town</td>
+
+        <td>638</td>
+
+        <td>Military waypoint; base of Tenchusan Ren pass</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kumoji</td>
+
+        <td>Town</td>
+
+        <td>Medium</td>
+
+        <td>Base of Shirogane Yama; near Hoshino To observatory</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Momiji</td>
+
+        <td>Town</td>
+
+        <td>Small</td>
+
+        <td>Peaceful western lakeside town on Serenia-kai</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sakurano</td>
+
+        <td>Town</td>
+
+        <td>Small</td>
+
+        <td>On Lake Midoriko; Heian ferry connection</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Natsumura</td>
+
+        <td>Village</td>
+
+        <td>161</td>
+
+        <td>Fishing village at mouth of Sutariba</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Nishihara</td>
+
+        <td>Village</td>
+
+        <td>180</td>
+
+        <td>Rolling hills; weekly market; Temple of Ancestors</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sakura Mura</td>
+
+        <td>Village</td>
+
+        <td>150</td>
+
+        <td>Grew from highway inn; Shadowfen Bridge</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kawaguchi</td>
+
+        <td>Village</td>
+
+        <td>Small</td>
+
+        <td>River crossing settlement</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Takamine</td>
+
+        <td>Village</td>
+
+        <td>97</td>
+
+        <td>Poor iron mining village; shadow of Kinryuzan</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h3>
+
+        <p>Hana&#39;s culture is the closest to the old imperial ideal -- formal, ceremonially rich, and deeply aware of
+        its historical weight. The proximity to Heian means merchants, scholars, monks, and diplomats pass through
+        constantly, and even small villages carry themselves with a certain civic dignity uncommon in frontier
+        provinces.</p>
+
+        <p>The Bronze Wood trade defines the province&#39;s economy. Seidorin timber commands extraordinary prices
+        across the archipelago -- weapons and armor crafted from it are status symbols as much as tools. The licensing
+        system for harvesting creates significant corruption opportunities at every level of local administration.</p>
+
+        <p>Fishing on the Serenia-kai and the Kinryugawa sustains much of the rural population. The Gold Dragon River
+        runs fat with a fish called kinuo (gold-tail) that is considered a delicacy in Heian and commands premium prices
+        at market.</p>
+
+        <h3 id="kg-history" data-section="history">History</h3>
+
+        <p>Hana is the oldest continuously inhabited province in the archipelago. The Golden Dragon Clan held dominion
+        over these southern highlands long before human settlement -- their capital Kinkokyo is believed to have stood
+        somewhere in or beneath the Tenchusan Ren, buried by the avalanche triggered during the Onyx Rebellion. The
+        province&#39;s rivers still run faintly gold at dawn -- a phenomenon locals call Kinryu no Namida (the Golden
+        Dragon&#39;s Tears).</p>
+
+        <p>Heian was chosen as the imperial capital by the First Emperor Tenryu no Mikado for strategic and spiritual
+        reasons -- it stood at the convergence of three rivers, on a defensible peninsula, and was reportedly the site
+        of a vision in which Kinryu declared the land under divine protection.</p>
+
+        <p>The province suffered heavily during the Dark Ages -- Heian was sacked twice -- but its infrastructure proved
+        resilient. The Emperor&#39;s Highway remains largely intact through Hana.</p>
+
+        <p>Clan Kaminari has governed Hana for the past several centuries. The clan rose to prominence when Raijin no
+        Kazuhiko unified the province under a single authority following a period of fractious minor-clan
+        governance.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: XjnIaBOaQE2d8avH
+    _key: '!journal.pages!XjnIaBOaQE2d8avH'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The Bronze Wood Forest&#39;s metallic quality has a deeper origin than simple mineral runoff -- connected to
+        the buried city of Kinkokyo beneath the Tenchusan Ren.</li>
+
+        <li>The Shadowfen Bridge exhibits genuine sei resonance that produces mild disorientation in those who speak
+        falsehoods while crossing.</li>
+
+        <li>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
+        nothing in the records.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: XEqZNTUaMTr33Lro
+    _key: '!journal.pages!XEqZNTUaMTr33Lro'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-the-buried-city-of-kinkokyo"
+        data-section="the-buried-city-of-kinkokyo">The Buried City of Kinkokyo</h3>
+
+        <p>The Golden Dragon Clan&#39;s capital is not simply buried rubble. Significant portions survived structurally
+        intact, sealed beneath hundreds of feet of rock and earth. The gold doors the party currently stands before are
+        an outer entrance to this buried complex, exposed by a recent earthquake. The temple above is connected to
+        Kinkokyo below. Ko&#39;jiri&#39;s research is essentially correct.</p>
+
+        <h3 id="kg-kinryu-no-hikari" data-section="kinryu-no-hikari">Kinryu no Hikari</h3>
+
+        <p>The artifact exists. It is held in a sealed vault deep within the temple, in the farthest underground section
+        of Kinkokyo. It is not a weapon or a key. It is a communication device: a golden mirror that allows direct
+        communion with Kinryu, the living Golden Dragon, wherever she is hidden. She will answer if called by someone
+        she deems worthy.</p>
+
+        <h3 id="kg-the-bronze-wood-secret" data-section="the-bronze-wood-secret">The Bronze Wood Secret</h3>
+
+        <p>The Seidorin Mori grows over a second branch of the buried Kinkokyo canal system. The metallic quality of the
+        trees is caused by trace mineral content in the groundwater -- water flowing through golden veins in the buried
+        city&#39;s infrastructure for thousands of years. Ren Nakamura (Shicho of Kikyo) knows this. The merchant guild
+        he is allied with wants to find the source and exploit it directly.</p>
+
+        <h3 id="kg-hiroshi-nakamura----traitor-in-place" data-section="hiroshi-nakamura----traitor-in-place">Hiroshi
+        Nakamura -- Traitor in Place</h3>
+
+        <p>As Shugo of Heian, Hiroshi controls the administrative heart of the province. His access to Clan Kaminari
+        intelligence is nearly total. He has been feeding information to an outside party (undeveloped) for at least
+        three years. His warm, approachable public persona is his most effective weapon -- even his brother Hideo does
+        not suspect how deep the betrayal runs.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>Unlicensed Bronze Wood poaching tied to a merchant guild front operation in Kikyo -- Ren Nakamura&#39;s
+        faction or a rival?</li>
+
+        <li>Strange behavior reported in Shadowfen Bridge area -- a traveler arrived at the wrong destination and has no
+        memory of the crossing</li>
+
+        <li>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
+        nothing in the records</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/hana.md
+    slug: hana
+    frontmatter:
+      name: Hana
+      type: province
+      island: hokori
+      governing_clan: kaminari
+      daimyo: npcs/raijin-no-kazuhiko.md
+      capital: heian
+      alliance: independent
+      tags: []

@@ -1,0 +1,224 @@
+_id: 3547LGTcup50JPNu
+_key: '!journal!3547LGTcup50JPNu'
+name: Ayame
+pages:
+  - _id: xGRjTyBVJP8sVpff
+    _key: '!journal.pages!xGRjTyBVJP8sVpff'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
+        lang="ja-Latn">&quot;Everyone coming or going through the mountains passes through Ayame.
+        Everyone.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: N6HlhlSFHQeASxlj
+    _key: '!journal.pages!N6HlhlSFHQeASxlj'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
+        data-section="overview">Overview</h3>
+
+        <p>Ayame occupies the valley at the base of the Tenchusan Ren pass -- the primary land route between Hana&#39;s
+        southern lowlands and the northern provinces. Everything that travels overland between these regions passes
+        through Ayame. This geographic chokepoint function defines the town&#39;s character: it is less a community than
+        a transit organism.</p>
+
+        <p>The town is organized around the pass road. The main thoroughfare runs straight through parallel to the
+        Kinryugawa, broadening into a market square at the center. Secondary streets branch off at intervals --
+        accommodation, services, and residential areas spreading outward in concentric zones of decreasing
+        formality.</p>
+
+        <p>The military overseer structure means Ayame is administered by appointed officials with military backgrounds.
+        This produces efficient governance but can feel impersonal; permanent residents are pragmatic people who work
+        with whoever is in charge.</p>
+
+        <h3 id="kg-districts-landmarks" data-section="districts-landmarks">Districts / Landmarks</h3>
+
+        <p><strong>Chuo-ku (Central District)</strong> -- Main thoroughfare and market square. Most commercial activity.
+        The Marketplace operates daily.</p>
+
+        <p><strong>Tenchusan Chiku (Mountain District)</strong> -- The approach zone toward the pass. Stables, equipment
+        rental, guide services, outfitter shops. Increasingly sparse toward the pass entrance.</p>
+
+        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
+
+        <p><strong>The Marketplace</strong> -- Permanent covered market stalls along the main street. Serves local needs
+        and traveler provisioning. Prices reflect the captive market.</p>
+
+        <p><strong>Blacksmith&#39;s Forge</strong> -- Military-grade equipment maintenance and standard smithing. Works
+        in cooperation with the garrison.</p>
+
+        <p><strong>Weaver&#39;s Shop</strong> -- Mountain-weight textiles and cold-weather clothing. Genuinely
+        excellent; mountain gear quality is a survival matter.</p>
+
+        <p><strong>Kawabe no Tengaku (Riverside Haven)</strong> -- Inn along the river approach. Quieter; favored by
+        travelers wanting rest over socialization.</p>
+
+        <p><strong>Kin no Chochin Ryokan (Golden Lantern Inn)</strong> -- Main waypoint inn on the central street. Busy,
+        efficient, well-run. The party stayed here during their Ayame transit.</p>
+
+        <p><strong>Ryu no Yasuragi Yado (Dragon&#39;s Rest Lodge)</strong> -- Secondary inn; the party stayed here after
+        the wagon impoundment situation. Slightly more modest.</p>
+
+        <p><strong>Ayame Temple</strong> -- Small temple in the residential quarter. Patron deity is a traveling spirit
+        protector. Resident monk maintains the shrine to the pass spirits.</p>
+
+        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
+
+        <ul>
+
+        <li>Takeda Yoshinobu -- Town leader; competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
+
+        <li>Chief Inspector Oshiro Masahiro -- Teikoku Keisatsu; confirmed party ally -&gt; npcs/oshiro-masahiro.md</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 89pCByXcxUT4cCXK
+    _key: '!journal.pages!89pCByXcxUT4cCXK'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>Oshiro Masahiro&#39;s intelligence network extends far beyond what his official position suggests.</li>
+
+        <li>The Tenchusan Ren pass approach is under more surveillance than it appears.</li>
+
+        <li>Mountain guides have been returning from upper-route jobs shaken and unwilling to specify what they
+        saw.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: GUxYsgnOarqlsB7M
+    _key: '!journal.pages!GUxYsgnOarqlsB7M'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
+        Secrets</h3>
+
+        <p><strong>Oshiro Masahiro -- Intelligence Asset</strong>
+
+        Oshiro&#39;s decision to assist the party was not simply a judgment about innocence. He had received information
+        suggesting their mission was legitimate and the impoundment was creating an obstacle. He knows more about the
+        Gekko situation than he has shared. He is a potential ongoing intelligence ally.</p>
+
+        <p><strong>The Pass Road -- Surveillance</strong>
+
+        The pass approach is watched more carefully than it appears. Oshiro has informants at both the waypoint inn and
+        the outfitter district who log significant travelers and goods movements. The network also detected a group with
+        no identifiable clan affiliation, moving fast and carrying unusual cargo, approximately three weeks before the
+        party&#39;s transit.</p>
+
+        <p><strong>Takeda Yoshinobu&#39;s Concerns</strong>
+
+        Yoshinobu has been receiving reports from mountain guides about unusual activity in the upper pass -- disrupted
+        trail markers, signs of large encampment at non-standard locations, and two guides who came back shaken and
+        unwilling to specify what they saw. He has not reported upward because he has no official channels he
+        trusts.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>Oshiro sends a discrete message: he has information relevant to the party&#39;s mission that he couldn&#39;t
+        share safely in Ayame; proposes a meeting at the next Michibata up the pass</li>
+
+        <li>One of the mountain guides who returned early is drinking heavily at the Dragon&#39;s Rest and muttering
+        fragments of what they saw</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/settlements/ayame.md
+    slug: ayame
+    frontmatter:
+      name: Ayame
+      type: settlement
+      settlement_type: town
+      island: hokori
+      province: hana
+      governing_clan: kaminari
+      administrator: npcs/takeda-yoshinobu.md
+      population: 638
+      climate: Valley setting; sheltered; cold winters; brief warm summers; heavy spring snowmelt
+      tags: []

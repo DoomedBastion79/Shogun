@@ -1,0 +1,100 @@
+_id: brbXKB8EXSZ6JBU6
+_key: '!actors!brbXKB8EXSZ6JBU6'
+name: Akihiko Kurohana
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Akihiko Kurohana
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/akihiko-kurohana.md
+    slug: akihiko-kurohana
+    linkedJournalId: BeyOUhGlMY7ZBP9e
+    frontmatter:
+      name: Akihiko Kurohana
+      type: npc
+      detail: major
+      status: active
+      race: Dragonborn (Black)
+      sex: M
+      age: 54
+      height: 6'6"
+      weight: 270
+      clan: kurohana
+      caste: kugai
+      role: Daimyo of Clan Kurohana
+      location: utsuroi
+      affiliations:
+        - clan-kurohana
+      tags:
+        - daimyo
+        - political-leader
+        - dragonborn
+      aliases: []
+      related_npcs:
+        - raijin-no-kazuhiko
+        - kenshin-arakawa
+        - tatsuya-hoshino
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Dragonborn (Black)
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Dragonborn (Black)</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kurohana</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Daimyo of Clan Kurohana</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">utsuroi</dd></div></dl><p><em
+        lang="ja-Latn">Daimyo of Clan Kurohana</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Black scales with a glossy sheen; glowing red eyes; intricate dragon tattoos on his back.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo and supreme leader of Clan Kurohana, one of the three independent clans. Commands significant military
+        resources and political influence. Issued the Imperial Seal of the Kurohana Clan calling upon the independent
+        Kaminari Clan to investigate the Gekkō Clan&#39;s unexplained silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, commanding; values loyalty and discipline; enjoys battle and strategy; unforgiving of betrayal.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Indirect. The party carries the Imperial Seal of the Kurohana Clan, issued by Lord Kurohana Tatsuya on behalf
+        of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans
+        (Kurohana and Kaminari) are invested in the Gekkō situation — Gekkō is the third independent clan.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

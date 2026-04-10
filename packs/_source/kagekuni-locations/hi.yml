@@ -1,0 +1,286 @@
+_id: 0BP22RJbOxnAxmou
+_key: '!journal!0BP22RJbOxnAxmou'
+name: Hi
+pages:
+  - _id: QRk0UFfkl1l9l01N
+    _key: '!journal.pages!QRk0UFfkl1l9l01N'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-geography-amp-terrain"
+        data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
+
+        <p>Hi is the most geologically violent province on Hokori -- a region of active volcanism, fumarole fields,
+        obsidian plains, and mountains that periodically tear themselves apart. It encompasses the majority of the
+        island&#39;s western side, surrounded by mountains and the sea. Tsuchi borders it to the southeast, Hana shares
+        a small stretch of its eastern border, Sora encompasses its northern boundary, and Mizu sits along its western
+        edge. Earthquakes are ambient. Residents learn to read tremors the way sailors read wind.</p>
+
+        <p>The province takes its name -- Hi, meaning fire -- from the volcanic peaks that define it. The largest,
+        Enshiyama (Flame Peak Mountain), is the third highest peak on Hokori. It last erupted in full approximately two
+        hundred years ago.</p>
+
+        <p>The terrain is dramatic and hostile. Black obsidian fields stretch for miles where ancient lava flows cooled
+        and cracked. Fumarole vents release sulfurous steam. Soil, where it exists, is extraordinarily fertile --
+        volcanic ash enriches it beyond anything in the southern provinces. Terraced farming on the slopes between
+        active zones produces crops of startling quality. This contradiction -- death and abundance in tight proximity
+        -- defines Hi&#39;s cultural character.</p>
+
+        <p>Rivers here run fast and hot from thermal sources. The Honogawa (Flame River) originates from a thermal lake
+        near Enshiyama&#39;s base and is warm to the touch for its entire upper reach.</p>
+
+        <p>Points of Interest:</p>
+
+        <ul>
+
+        <li>Enshiyama (Flame Peak Mountain) -- Dominant volcano of Hokori&#39;s north. Currently active at low levels.
+        Crater contains a mineral-rich lake that glows faintly orange at night.</li>
+
+        <li>Honogawa (Flame River) -- Warm thermal river. Upper reach near the source is hot enough to scald. Runs
+        through a narrow volcanic gorge.</li>
+
+        <li>Obsidian Fields of Kuroso -- Vast plains of black volcanic glass. Obsidian of exceptional quality, ideal for
+        blades and lenses. Seismically active and hazardous.</li>
+
+        <li>The Crimson Shrine -- Deep in the volcanic highlands, predating the empire. Torii of natural red stone.
+        Local tradition holds Akaryu&#39;s presence can be felt during major eruptions. Never absorbed into the imperial
+        religious system.</li>
+
+        <li>Onsen-machi Hot Springs -- The only genuinely comfortable location in Hi. Natural hot spring pools developed
+        into a resort town maintaining political neutrality.</li>
+
+        </ul>
+
+        <h3 id="kg-settlements" data-section="settlements">Settlements</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Settlement</th>
+
+        <th>Type</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Enshiro</td>
+
+        <td>Town</td>
+
+        <td>Provisional garrison capital; military administration; base of active clan competition</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kazan Mura</td>
+
+        <td>Village</td>
+
+        <td>Slopes of Enshiyama; volcano watchers; evacuation specialists</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kurokawa</td>
+
+        <td>Village</td>
+
+        <td>Black river settlement; obsidian crafting; trade in volcanic glass</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Onsen-machi</td>
+
+        <td>Town</td>
+
+        <td>Hot spring resort town; wealthy visitors; nominal neutrality</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Takibi</td>
+
+        <td>Village</td>
+
+        <td>Remote highland farming community; terraced volcanic fields</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-culture-amp-trade" data-section="culture-amp-trade">Culture &amp; Trade</h3>
+
+        <p>Hi&#39;s culture is defined by proximity to death. The people are laconic, practical, and possess a dark
+        humor about their circumstances. They do not flee volcanic activity -- they have developed sophisticated systems
+        for reading, mitigating, and living alongside it. Hi&#39;s volcano-guides, engineers, and evacuation specialists
+        are prized across the archipelago.</p>
+
+        <p>Primary exports are obsidian, volcanic sulfur (used in alchemy and sei-related preparations), hot spring
+        minerals, and surprisingly excellent agricultural products from volcanic terraces. The Onsen-machi resort draws
+        wealthy visitors from across Hokori and beyond.</p>
+
+        <h3 id="kg-history" data-section="history">History</h3>
+
+        <p>Hi was long considered a backwater -- too dangerous and too remote. The Crimson Dragon Clan had their true
+        stronghold here before unification, and the western reaches refused submission to Tenryu no Mikado. That refusal
+        left a cultural legacy: Hi&#39;s people are fiercely independent and deeply skeptical of imperial authority.</p>
+
+        <p>During the Dark Ages, Hi was almost entirely abandoned by formal authority. Small communities developed their
+        own governance structures, spiritual practices, and martial traditions largely divorced from the broader
+        empire.</p>
+
+        <p>The province is currently in contested administration. The previous governing clan was wiped out in the
+        opening engagements of the Arashi-Genso war, and neither alliance has installed a replacement. Several smaller
+        clans are vying for the position.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: RyExY8tSNtDcRcpQ
+    _key: '!journal.pages!RyExY8tSNtDcRcpQ'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <li>The Crimson Shrine&#39;s keeper, Tsubaki, has served for sixty years and communicates with something through
+        the shrine&#39;s ember-bowl.</li>
+
+        <li>The western territories of Hi are home to descendants of the Crimson Clan faction that refused unification,
+        organized into loose tribal confederacies preserving forgotten traditions.</li>
+
+        <li>Seimasters debate whether Enshiyama&#39;s current activity signals a major eruption building.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: bhknTHq6Jq8kXNfk
+    _key: '!journal.pages!bhknTHq6Jq8kXNfk'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3
+        id="kg-the-crimson-dragon-clan39s-hidden-presence" data-section="the-crimson-dragon-clan39s-hidden-presence">The
+        Crimson Dragon Clan&#39;s Hidden Presence</h3>
+
+        <p>Akaryu, the Crimson Dragon, is still alive and hidden. She maintains a tenuous connection to Hi through the
+        Crimson Shrine. The shrine&#39;s keeper Tsubaki is an Initiate of the Order of the Ancient Guard. She does not
+        know Akaryu&#39;s location, but knows the dragon is alive. Offerings burned in the shrine&#39;s ember-bowl reach
+        something that responds.</p>
+
+        <h3 id="kg-the-western-territories" data-section="the-western-territories">The Western Territories</h3>
+
+        <p>The western reaches are effectively a separate entity. Descendants of the Crimson Clan faction that refused
+        Tenryu&#39;s unification live there in loose tribal confederacies that have preserved traditions the rest of the
+        empire forgot. They are fiercely territorial and know things about the volcanic highlands that no imperial map
+        captures.</p>
+
+        <h3 id="kg-enshiyama-and-the-coming-eruption" data-section="enshiyama-and-the-coming-eruption">Enshiyama and the
+        Coming Eruption</h3>
+
+        <p>The current low-level activity is the precursor to a significant eruption -- within one to three years. The
+        seimasters who know this are divided on whether to publicize it; the political vacuum means there is no
+        coordinating authority capable of organizing evacuation. This is an unlit fuse.</p>
+
+        <h3 id="kg-the-contested-administration" data-section="the-contested-administration">The Contested
+        Administration</h3>
+
+        <p>The three clans competing for Hi&#39;s governance are being quietly manipulated by a fourth party -- a
+        merchant consortium that wants provincial administration too weak to enforce trade regulations. The current
+        chaos is, to some degree, manufactured.</p>
+
+        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        <ul>
+
+        <li>A volcano-guide from Kazan Mura has seen something in the upper reaches of Enshiyama -- something that moved
+        against the wind -- and is too frightened to go back alone</li>
+
+        <li>The Crimson Shrine&#39;s ember-bowl responded to an offering in a way it never has before; Tsubaki needs
+        discreet help interpreting what it means</li>
+
+        <li>A seimaster studying the eruption precursors has disappeared; her notes suggest she found something in the
+        obsidian fields that was not geological</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/geography/hokori/provinces/hi.md
+    slug: hi
+    frontmatter:
+      name: Hi
+      type: province
+      island: hokori
+      governing_clan: contested
+      daimyo: vacant
+      capital: enshiro
+      alliance: contested
+      tags: []

@@ -1,0 +1,97 @@
+_id: EXAOX7TcufIZ8xS9
+_key: '!actors!EXAOX7TcufIZ8xS9'
+name: Tatsuya Hoshino
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Tatsuya Hoshino
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/tatsuya-hoshino.md
+    slug: tatsuya-hoshino
+    linkedJournalId: w7vr5dZctZHig504
+    frontmatter:
+      name: Tatsuya Hoshino
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      age: 31
+      height: 5'11"
+      weight: 170
+      clan: kurohana
+      caste: zokumin
+      role: Samurai, Clan Hoshino (vassal of Kurohana)
+      location: unknown
+      affiliations:
+        - clan-kurohana
+        - clan-hoshino
+      tags:
+        - samurai
+        - vassal-clan
+      aliases: []
+      related_npcs:
+        - akihiko-kurohana
+      related_quests: []
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kurohana</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Samurai, Clan Hoshino (vassal of
+        Kurohana)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">unknown</dd></div></dl><p><em lang="ja-Latn">Samurai — Clan Hoshino (Vassal of
+        Kurohana)</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Black hair; tanned; brown eyes; dragon tattoo winding around left arm.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Samurai of Clan Hoshino, a respected vassal family of Clan Kurohana known for martial excellence and loyalty.
+        Issued the Imperial Seal of the Kurohana Clan on behalf of the clan, calling upon Clan Kaminari to investigate
+        the Gekkō silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Calm, disciplined, authoritative; values honor and duty; little patience for treachery.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>The party carries the Imperial Seal he issued on behalf of Clan Kurohana.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.w7vr5dZctZHig504]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

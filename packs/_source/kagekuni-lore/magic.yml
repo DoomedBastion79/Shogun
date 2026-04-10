@@ -1,0 +1,166 @@
+_id: 6Xc3Q220iRhIhIwq
+_key: '!journal!6Xc3Q220iRhIhIwq'
+name: Magic & Sei
+pages:
+  - _id: bqgHwrwzttQzbo0k
+    _key: '!journal.pages!bqgHwrwzttQzbo0k'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-sei-fundamentals"
+        data-section="sei-fundamentals">Sei Fundamentals</h3>
+
+        <ul>
+
+        <li><strong>Sei</strong> = magic energy flowing through all living things</li>
+
+        <li>Present throughout Seizan; expressed through celestial alignment and natural forces</li>
+
+        <li>Began declining during the War of Fractured Banners era (~12605); first secondary star lost to visibility
+        ~12806; effectively inaccessible by ~13088 (when the last major sei institution — Oryuzan Tenku-ji — fell)</li>
+
+        <li>Period without accessible sei lasted approximately 3,077 years (<del>12806–</del>15883)</li>
+
+        <li>Slowly returned through Talents from ~15962</li>
+
+        <li>Fully restored ~16693 (Great Awakening)</li>
+
+        <li>The drought&#39;s cause is officially unknown; scholars debate whether it was consequence of the war itself
+        or a natural cycle</li>
+
+        </ul>
+
+        <h3 id="kg-seimasters" data-section="seimasters">Seimasters</h3>
+
+        <ul>
+
+        <li><strong>Arcane scholars and researchers</strong> — not necessarily practitioners</li>
+
+        <li>Study sei as discipline; map, theorize, document celestial alignments</li>
+
+        <li>Title connotes scholarship over power</li>
+
+        <li>A non-casting seimaster may outrank a gifted practitioner socially</li>
+
+        <li>Some manifest as wizards, sorcerers, monks in D&amp;D terms</li>
+
+        <li>Study in mountaintop monasteries</li>
+
+        </ul>
+
+        <h3 id="kg-magical-factions-publicly-known" data-section="magical-factions-publicly-known">Magical Factions
+        (Publicly Known)</h3>
+
+        <ul>
+
+        <li><strong>Seishin</strong> (City, Unmeijima) — premier magical research institution</li>
+
+        <li><strong>Raimeiin</strong> (雷鳴院 — Institute of Thunder) — publicly declared during Plague Campaign</li>
+
+        <li><strong>Forest of Spirits</strong> — publicly declared during Plague Campaign</li>
+
+        <li><strong>Hikari no Shizuku</strong> — healing/light magic; operates within Heian</li>
+
+        </ul>
+
+        <h3 id="kg-kuroyami-no-akuma" data-section="kuroyami-no-akuma">Kuroyami no Akuma</h3>
+
+        <ul>
+
+        <li>Formerly Takeda no Arata</li>
+
+        <li>Found necromantic tome in Kuroshi Temple, Yurei</li>
+
+        <li>Led Plague Campaign 16609–16616</li>
+
+        <li>Defeated but <strong>never captured or killed</strong> — escaped; whereabouts unknown</li>
+
+        <li>Eikyū Yami Clan persists</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: WCKzQxLSTSdOt9Cj
+    _key: '!journal.pages!WCKzQxLSTSdOt9Cj'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-the-sei-drought-and-the-great-aphelion"
+        data-section="the-sei-drought-and-the-great-aphelion">The Sei Drought and the Great Aphelion</h3>
+
+        <p>The sei drought was not caused by the War of Fractured Banners — it coincided with the Great Aphelion, a
+        once-in-millennia event in which all three stars of the Miyosai trinary system reached maximum mutual distance
+        from their common barycenter simultaneously. The planets, which orbit Amaterasu and travel with it, did not
+        participate — nor did the moons, which orbit Seizan directly. The event was exclusively a three-star separation
+        across three independent orbital inclinations, compounding geometrically.</p>
+
+        <p>The true timeline: stellar decline began <del>12605; dark ages started ~12806 (first star lost to
+        visibility); the temple fell in 13088; the Great Aphelion nadir occurred ~14344; dawn (first star returned)
+        ~15883; First Talents ~15962; Great Awakening ~16693. The drought spanned approximately 3,077 years
+        (</del>12806–~15883).</p>
+
+        <p>The causal chain (aphelion → slumber → drought, or aphelion → both) is unknown even to the Ancient Guard. The
+        slow orbital return of the secondary stars correlates with sei&#39;s gradual restoration — but the orbital
+        correction is not yet complete.</p>
+
+        <p><em lang="ja-Latn">See also: core/world.md [SEALED] — The Great Aphelion and the Sei Drought;
+        core/great-aphelion.md — full canonical timeline and orbital mechanics.</em></p>
+
+        <h3 id="kg-murasakiry39s-sei-awareness" data-section="murasakiry39s-sei-awareness">Murasakiryū&#39;s Sei
+        Awareness</h3>
+
+        <p>Every sei use in Kagekuni passes through the awakened Progenitor Murasakiryū&#39;s awareness. This means
+        every spell the party casts, every druidic invocation, every monk ability — all of it is potentially observed.
+        The implications for Ko&#39;jiri&#39;s sorcery, Relc&#39;s druidic power, and Sun Wukong&#39;s ki are
+        significant but unexplored.</p>
+
+        <p><strong>Key question (unresolved):</strong> Does Murasakiryū actively monitor individual sei users, or is it
+        passive background awareness? Does the party register as notable?</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/magic.md
+    slug: magic
+    frontmatter:
+      name: Magic & Sei
+      type: core
+      description: Sei fundamentals, seimasters, magical factions, and the history of magic's disappearance and return

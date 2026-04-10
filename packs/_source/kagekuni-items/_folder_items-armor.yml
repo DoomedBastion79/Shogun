@@ -1,0 +1,11 @@
+_id: kSFnY4o71ub2pQrU
+_key: '!folders!kSFnY4o71ub2pQrU'
+name: Armor
+type: Item
+folder: null
+sorting: m
+sort: 20
+color: null
+flags:
+  kagekuni-assistant:
+    folderPath: items/armor

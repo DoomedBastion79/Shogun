@@ -1,0 +1,94 @@
+_id: 5xtd5ZzWxC3TFENG
+_key: '!actors!5xtd5ZzWxC3TFENG'
+name: Masota no Gekkō
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Masota no Gekkō
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/npcs/masota-no-gekko.md
+    slug: masota-no-gekko
+    linkedJournalId: ShUhepogQgY5ZTGJ
+    frontmatter:
+      name: Masota no Gekkō
+      type: npc
+      detail: major
+      status: transformed
+      race: Human (transformed to Nagaji)
+      sex: M
+      clan: gekko
+      caste: kugai
+      role: Daimyo of Clan Gekkō
+      location: unknown
+      affiliations:
+        - clan-gekko
+      tags:
+        - daimyo
+        - transformed
+        - nagaji
+        - gekko-crisis
+      aliases: []
+      related_npcs: []
+      related_quests:
+        - gekko-investigation
+    hasStatblock: false
+system:
+  details:
+    race: Human (transformed to Nagaji)
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">transformed</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human (transformed to Nagaji)</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">gekko</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Daimyo of Clan Gekkō</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">unknown</dd></div></dl><p><em
+        lang="ja-Latn">Daimyo of Clan Gekkō — Transformed</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Unknown in current state. Formerly the Daimyo of Clan Gekkō, the third independent clan governing Kaze
+        province from Hokori.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo of Clan Gekkō. His disappearance and the silence of the entire Gekkō Clan is the central mystery
+        driving the party&#39;s primary mission.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Unknown in current state.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.kagekuni-npcs-lore.JournalEntry.ShUhepogQgY5ZTGJ]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

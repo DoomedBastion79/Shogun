@@ -1,0 +1,265 @@
+_id: VJJCCGQeyX2TdTPg
+_key: '!journal!VJJCCGQeyX2TdTPg'
+name: 'A Mother''s Redemption: Journey to New Beginnings'
+pages:
+  - _id: UaaeUwd4xOAtsYem
+    _key: '!journal.pages!UaaeUwd4xOAtsYem'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">sunsato</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">side</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">yasutake-mai</dd></div></dl><p><em
+        lang="ja-Latn">&quot;The road north is long, but some burdens are worth carrying.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: CvZT81LdQCDEHKxX
+    _key: '!journal.pages!CvZT81LdQCDEHKxX'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>On the first day of travel north from Heian toward Ayame, the party encountered a woman on the highway —
+        Yasutake Mai — out of breath and visibly distressed. The conversation that followed was brief and somewhat
+        chaotic. She claimed to be carrying a precious package and asked the party to hold it for her.</p>
+
+        <p>Within moments she spotted a group of figures running down the road toward her, tossed the package to the
+        party, and bolted. The package was her infant child. The running figures turned out to be boys simply out for a
+        run — not the threat she apparently believed them to be. Relc, in a moment of remarkable speed and determination
+        (and equally remarkable dice luck), managed to catch and return the fleeing mother to the situation.</p>
+
+        <p>With child and mother reunited, the party learned enough of her circumstances to understand she was fleeing
+        something — or someone — and had nowhere safe to go. The offer was made: the party would take her north through
+        the Tenchusan Ren, to Sunsato on the far side, where she might find safety and a new beginning in the region
+        where Relc&#39;s roots lie.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Reunite mother and child</li>
+
+        <li class="kg-task" data-done="false">Safely transport Yasutake Mai and her infant to
+        <strong>Sunsato</strong></li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><strong>Yasutake Mai</strong> — A young woman, clearly under significant stress at the time of the encounter.
+        She has not fully explained her circumstances or what she was fleeing. The infant appears healthy. Mai is
+        capable of managing independently under normal conditions but was operating in a state of fear-driven poor
+        decision making when the party found her.</p>
+
+        <p><strong>Sunsato</strong> — A settlement on the north side of the Tenchusan Ren, described as being near
+        Relc&#39;s home region of Mizu province. The party offered this as a destination and it was accepted.</p>
+
+        <p><strong>Current Status</strong> — The party entered the Tenchusan Ren mountain pass. Mai is currently
+        traveling with the party inside the temple — she is a civilian in a dungeon and cannot fight.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: sfjJ48ZkD0hSjLZM
+    _key: '!journal.pages!sfjJ48ZkD0hSjLZM'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>Mai is not simply a woman in difficult circumstances. She is the estranged daughter-in-law of a minor
+        merchant family in the Hana region — estranged because she took the infant and left after becoming aware that
+        her husband&#39;s family was involved in illegal activity (specifically: participation in unlicensed Bronze Wood
+        poaching, connected tangentially to the merchant guild operating out of Kikyo). She did not report this and has
+        no intention of reporting it; she simply wants to disappear with her child.</p>
+
+        <p>The &quot;group of men&quot; she feared on the highway were not those people. They were coincidental. But the
+        people she is actually afraid of are real and have noticed she is gone. They are not currently actively
+        searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Yasutake Mai</strong> — Knows her husband&#39;s family was involved in unlicensed Bronze Wood
+        poaching. Does not realize she knows things she doesn&#39;t know she knows — she lived in that household for
+        three years and heard conversations she didn&#39;t fully understand about the underground Bronze Wood sourcing
+        beneath Seidorin Mori.</li>
+
+        <li><strong>Elder Sato Hideaki (Koriwara)</strong> — Knows the community network near Sunsato and could help
+        establish Mai there, if the party makes that connection.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A merchant courier passing through Ayame or Sunsato is asking discreet questions about a young woman with an
+        infant who has gone missing from a family in southern Hana — not aggressive, not official, just persistent</li>
+
+        <li>Mai, once settled, sends a message to the party: she has remembered something from her former household that
+        she thinks might matter to them</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: zuVy8NataLNPQSqk
+    _key: '!journal.pages!zuVy8NataLNPQSqk'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>The infant is a healthy baby boy with no apparent significance beyond being a mother&#39;s reason to flee.
+        However, as a long-term seed: the merchant family she left was involved in Bronze Wood sourcing. If the
+        underground canal source beneath Seidorin Mori ever becomes a significant plot point, Mai knows things she
+        doesn&#39;t know she knows.</p>
+
+        <p>Sunsato exists near Relc&#39;s home region and is a viable destination. It is small enough that a newcomer
+        will be noticed, but the community near Koriwara is historically accepting of people who arrive asking for
+        honest work and quiet lives.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ul>
+
+        <li><strong>Safe delivery to Sunsato</strong> closes this quest. Optional extension: the party introduces Mai to
+        Elder Sato&#39;s community network, which earns them a favor with Sato and plants a contact in the north Mizu
+        foothills region.</li>
+
+        <li><strong>If the quest is abandoned</strong> — Mai will eventually find her way there through other means. She
+        is more capable than she appeared in crisis. She will survive. But she will remember whether the party kept
+        their word.</li>
+
+        </ul>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>Mai is currently with the party inside the temple — a civilian in a dungeon; she needs protection or a
+        defensible position during encounters</li>
+
+        <li>No hard deadline; the merchant family is not actively searching yet</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>Elder Sato Hideaki</strong> — introducing Mai to his network earns a favor and plants a useful
+        northern contact</li>
+
+        <li><strong>Bronze Wood poaching thread</strong> — long-term seed connecting to Seidorin Mori and the Kikyo
+        merchant guild</li>
+
+        <li><strong>Relc&#39;s home region</strong> — delivering Mai to Sunsato takes the party near Koriwara, where
+        Relc&#39;s personal quest (first stone) also points</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/side-mothers-redemption.md
+    slug: side-mothers-redemption
+    frontmatter:
+      name: 'A Mother''s Redemption: Journey to New Beginnings'
+      type: quest
+      quest_type: side
+      status: active
+      quest_giver: yasutake-mai
+      pc_focus:
+        - Relc
+      location: sunsato
+      acquired_date: Day 1 of travel north from Heian, Emperor's Highway
+      resolved_date: null
+      trigger: null
+      origin: null
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: null
+      related_quests: []
+      tags: []
+  simple-quest:
+    status: active

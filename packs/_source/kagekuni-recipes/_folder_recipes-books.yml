@@ -1,0 +1,11 @@
+_id: 0qiRRivtSnB4Kp5Y
+_key: '!folders!0qiRRivtSnB4Kp5Y'
+name: Recipe Books
+type: JournalEntry
+folder: null
+sorting: m
+sort: 10
+color: '#8b4513'
+flags:
+  kagekuni-assistant:
+    folderPath: recipes/books

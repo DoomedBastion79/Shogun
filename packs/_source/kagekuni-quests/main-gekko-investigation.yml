@@ -1,0 +1,374 @@
+_id: MUo4e74B3Sa1jI5D
+_key: '!journal!MUo4e74B3Sa1jI5D'
+name: The Clan Gekko Investigation
+pages:
+  - _id: j39YpdR9r8lAHxV1
+    _key: '!journal.pages!j39YpdR9r8lAHxV1'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">kaze-province</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">main</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd
+        data-field="quest-giver">taisho-hideo-nakamura</dd></div></dl><p><em lang="ja-Latn">&quot;An independent clan
+        does not simply go silent. Something happened. Finding out what may change everything.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: nS8oDse5JUuEB3oR
+    _key: '!journal.pages!nS8oDse5JUuEB3oR'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>Clan Gekko — one of Hokori&#39;s three politically independent clans and historically a stabilizing force in
+        Kagekuni&#39;s balance of power — has gone silent. No communication. No trade. No diplomatic contact. Provincial
+        administration in Kaze has stopped responding. The clan&#39;s last confirmed external communication was several
+        months ago and contained nothing unusual.</p>
+
+        <p>In the current political environment — no emperor, no shogun, two major alliances in open conflict — an
+        independent clan going silent is not merely a diplomatic problem. It is a potential flashpoint. If Clan Gekko
+        has been eliminated or absorbed, the balance of power shifts. If they are in crisis, the crisis could spill
+        outward. If they are being suppressed by an outside force, that force has made a significant move that demands
+        response.</p>
+
+        <p>Taisho Hideo Nakamura of Clan Kaminari&#39;s Special Operations division assigned the party to investigate —
+        using Ko&#39;jiri&#39;s conditional pardon as the formal mechanism, with the party as the operational unit. The
+        Imperial Seal issued by Daimyo Akihiko Kurohana provides diplomatic weight: it calls on all factions to
+        cooperate with the investigation as a matter of archipelago-wide concern.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Determine what has happened to Daimyo Masota no Gekko and Clan Gekko<ul>
+
+        <li class="kg-task" data-done="false">Travel to Kaze Province and Akatsuki</li>
+
+        <li class="kg-task" data-done="false">Investigate the Monastery of the Black Lily and the Order of the Black
+        Lily</li>
+
+        <li class="kg-task" data-done="false">Locate and assess Clan Gekko&#39;s current status</li>
+
+        <li class="kg-task" data-done="false">Report findings to Taisho Hideo Nakamura</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><strong>The Nagaji Connection</strong> — The party has encountered Nagaji (serpentine humanoid creatures)
+        multiple times in the Tenchusan Ren mountains. These creatures have been responsible for triggering the
+        avalanche that endangered the party, operating what appeared to be an outpost in the mountain ruins, and
+        guarding the approach to the gold doors. Their presence in the mountain pass between Hana and Kaze province is
+        not coincidental. Their connection to the Clan Gekko investigation is not yet known to the party.</p>
+
+        <p><strong>The Gold Doors</strong> — The party stands at the entrance to what appears to be the Lost Temple of
+        Kinryu. This location is within the Tenchusan Ren, at the boundary of Hana and Kaze provinces. Whatever lies
+        inside is connected to both the Golden Dragon Clan&#39;s history and — more immediately — to the Nagaji activity
+        that has defined the party&#39;s mountain passage.</p>
+
+        <p><strong>Imperial Seal of Clan Kurohana</strong> — Issued by Daimyo Akihiko Kurohana; carried by the party. A
+        diplomatic instrument calling on the independent Kaminari Clan and all factions to cooperate with investigating
+        Clan Gekko&#39;s unexplained silence. Its tone is carefully measured — no blame assigned, unity emphasized. Its
+        weight is significant.</p>
+
+        <p><strong>Known Parties with Interest</strong>:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Party</th>
+
+        <th>Interest</th>
+
+        <th>Stance</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Taisho Hideo Nakamura (Clan Kaminari)</td>
+
+        <td>Official mission authority</td>
+
+        <td>Supportive; needs deniability</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Daimyo Kazuhiko (Clan Kaminari)</td>
+
+        <td>Political stability; alliance balance</td>
+
+        <td>Invested; watching</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Daimyo Akihiko Kurohana</td>
+
+        <td>Balance of power; emperor assassination investigation</td>
+
+        <td>Allied; issued the seal</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Order of the Black Lily</td>
+
+        <td>Know the truth; managing information</td>
+
+        <td>Cautious; will engage right parties</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Clan Gekko survivors</td>
+
+        <td>Exist; transformed; situation desperate</td>
+
+        <td>Location unknown</td>
+
+        </tr>
+
+        </tbody></table>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: IY6sFN1vA79aRJny
+    _key: '!journal.pages!IY6sFN1vA79aRJny'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>Clan Gekko&#39;s senior seimasters discovered fragmentary texts describing a transformation ritual tied to
+        the Onyx Dragon Clan (Kokuryu). The ritual was meant to grant shadow-shifting capability. It transformed those
+        who underwent it into Nagaji — serpentine humanoids — irreversibly and catastrophically. The transformation
+        spread. Masota no Gekko himself performed the ritual last, in a final attempt to lead and protect his people in
+        their transformed state. He is now Nagaji as well. The Nagaji the party has been fighting in the mountains are
+        former Clan Gekko members.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Order of the Black Lily</strong> — Knows the full truth about Gekko. Their stance when the party
+        arrives at Akatsuki depends on how long they have known, whether they tried to stop it, and whether they are
+        protecting, containing, or observing the transformed members.</li>
+
+        <li><strong>Masota no Gekko</strong> — Alive, transformed, retains fragmented awareness. He recognizes his
+        mistake. Coherence degrades over time — the longer the party takes to reach him, the less of Masota is left to
+        reach.</li>
+
+        <li><strong>The Nagaji Zasu in Tenkuji Temple</strong> — The chief seimaster of Clan Gekko, architect of the
+        failed ritual. Fragments of the original person remain. Can potentially communicate if the party uses magic or
+        patience.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A transformed Gekko member (Nagaji) who retains more of their original personality approaches the party
+        non-aggressively — the first indication that these are people, not simply monsters</li>
+
+        <li>Inside the temple, Golden Dragon Clan records explicitly reference a &quot;serpent corruption&quot; and a
+        &quot;restoration of form&quot; — the connection between the temple and their mission becomes undeniable</li>
+
+        <li>The Order of the Black Lily makes contact through Akatsuki and proposes a partnership contingent on the
+        party having retrieved something from the Temple of Kinryu first</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: A5hhMRJyCjQZa2y4
+    _key: '!journal.pages!A5hhMRJyCjQZa2y4'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>The party has already killed people. The Nagaji slain in the mountain pass were transformed Gekko clan
+        members — people, not monsters. They did not know this. The moral weight of this revelation is pending and
+        should land with appropriate gravity when the truth is revealed. Some of those killed may have been mid-ranking
+        clan members with families. The party did not do anything wrong given what they knew; they had no way to know.
+        But they will have to reckon with it.</p>
+
+        <p>A reversal for the transformation exists in documented form inside the Temple of Kinryu — specifically in the
+        Golden Dragon Clan&#39;s historical records addressing Kokuryu&#39;s experimentation with transformation rituals
+        centuries ago. The Golden Clan developed a countermeasure. That documentation is somewhere in the temple complex
+        the party is about to enter.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ol>
+
+        <li><strong>Report the truth to Hideo and let the political process handle it</strong> — easiest; least
+        satisfying. The party washes its hands.</li>
+
+        <li><strong>Pursue the reversal before reporting, changing the terms of the revelation entirely</strong> —
+        hardest; most impactful. Requires finding and acting on the reversal documentation before anyone else learns the
+        truth.</li>
+
+        <li><strong>Work with the Order of the Black Lily to manage the timeline and pursue the reversal
+        collaboratively</strong> — middle path; most story-rich. Requires trust between the party and the Order.</li>
+
+        </ol>
+
+        <p>The quest formally closes when a report reaches Hideo Nakamura. What happens after depends on what that
+        report says.</p>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>Masota no Gekko&#39;s coherence degrades over time — creates urgency without hard deadlines</li>
+
+        <li>A celestial alignment approaching is required for the reversal to work on Masota specifically</li>
+
+        <li>The political explosion when the truth becomes public will reshape the alliance balance — every faction will
+        have a position on what happens to the Nagaji</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>personal-kojiri-misunderstood</strong> — Ko&#39;jiri&#39;s assignment IS this investigation; his
+        pardon depends on reporting back</li>
+
+        <li><strong>Temple of Kinryu</strong> — contains the reversal documentation; the temple is not just
+        Ko&#39;jiri&#39;s personal treasure hunt — it is the key to undoing the Gekko disaster</li>
+
+        <li><strong>The Nagaji transformation ritual</strong> — connected to the same Kokuryu source material as the
+        necromantic cache buried by the Eikyu Yami Clan (see side-nightfall-ambush)</li>
+
+        <li><strong>The political calculation</strong> — when the truth becomes public, Clan Gekko is functionally
+        destroyed; the alliance balance shifts; every faction responds differently</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/quests/main-gekko-investigation.md
+    slug: main-gekko-investigation
+    frontmatter:
+      name: The Clan Gekko Investigation
+      type: quest
+      quest_type: main
+      status: active
+      quest_giver: taisho-hideo-nakamura
+      pc_focus:
+        - Ko'jiri
+        - Dian Wei
+        - Relc
+        - Sun Wukong
+      location: kaze-province
+      acquired_date: Heian, Tensho no Mon district
+      resolved_date: null
+      trigger: null
+      origin: null
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: null
+      related_quests:
+        - personal-kojiri-misunderstood
+        - main-light-of-the-star-mirror
+      tags: []
+  simple-quest:
+    status: active

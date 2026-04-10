@@ -1,0 +1,203 @@
+_id: oAKGG43ddp55JzvN
+_key: '!journal!oAKGG43ddp55JzvN'
+name: Organizations & Factions
+pages:
+  - _id: oH9DnydBkaYAcrK6
+    _key: '!journal.pages!oH9DnydBkaYAcrK6'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-order-of-the-tranquil-lotus"
+        data-section="order-of-the-tranquil-lotus">Order of the Tranquil Lotus</h3>
+
+        <ul>
+
+        <li>Nature-based with monk focus</li>
+
+        <li>Monastery on Unmeijima near Kazehama</li>
+
+        <li>Elder: <strong>Benkei</strong> (Guhuza; 198 years old)</li>
+
+        <li>Sun Wukong is a novice; assigned as delegate to Clan Kaminari</li>
+
+        </ul>
+
+        <h3 id="kg-order-of-the-sacred-grove" data-section="order-of-the-sacred-grove">Order of the Sacred Grove</h3>
+
+        <ul>
+
+        <li>Nature/druidic tradition</li>
+
+        <li>Protective of specific sacred sites</li>
+
+        <li>Guardian: <strong>Solas Evergreen</strong> (deceased)</li>
+
+        <li>Initiate/new Guardian: <strong>Relc</strong> (appointed by Solas&#39;s posthumous letter)</li>
+
+        <li>Elder connection: <strong>Hideaki Sato</strong> (Kōriwara village)</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: FkSQHTi0imRCScNG
+    _key: '!journal.pages!FkSQHTi0imRCScNG'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-order-of-the-black-lily"
+        data-section="order-of-the-black-lily">Order of the Black Lily</h3>
+
+        <ul>
+
+        <li>Location: Monastery of the Black Lily, above Akatsuki village, Kaze province</li>
+
+        <li>Kagekuni&#39;s premier infiltration specialists</li>
+
+        <li>Secret training facility; austere dark stone construction</li>
+
+        <li>Villagers of Akatsuki know and say nothing to outsiders</li>
+
+        </ul>
+
+        <h3 id="kg-seiju-hygikai-the-starwood-council" data-section="seiju-hygikai-the-starwood-council">Seiju Hyōgikai
+        (星樹評議会 — The Starwood Council)</h3>
+
+        <ul>
+
+        <li>Arinori Senzai is a secret member</li>
+
+        <li><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</li>
+
+        <li>To be developed further</li>
+
+        </ul>
+
+        <h3 id="kg-shnin-za-merchant-guild" data-section="shnin-za-merchant-guild">Shōnin-za (商人座 — Merchant Guild)</h3>
+
+        <ul>
+
+        <li>Kenta Yamada is an active member</li>
+
+        <li>Ren Nakamura has secret alliance with a powerful Shōnin-za branch in Kikyo</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: bsA0IWJPYqkRnypw
+    _key: '!journal.pages!bsA0IWJPYqkRnypw'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3
+        id="kg-order-of-the-ancient-guard-most-secret-dm-only"
+        data-section="order-of-the-ancient-guard-most-secret-dm-only">Order of the Ancient Guard — MOST SECRET (DM
+        Only)</h3>
+
+        <p><strong>Purpose</strong>: Silent protectors of the living founding dragons; maintain harmony among clans to
+        preserve conditions under which dragons remain safe and hidden.</p>
+
+        <p><strong>Ranks</strong>:</p>
+
+        <ol>
+
+        <li>High Guardian</li>
+
+        <li>Warden</li>
+
+        <li>Sentinel</li>
+
+        <li>Keeper</li>
+
+        <li>Protector</li>
+
+        <li>Initiate</li>
+
+        </ol>
+
+        <p><strong>Operations</strong>: Hidden sanctuaries across Kagekuni; subtle influence; prevent any single power
+        from dominating; bound by solemn oath.</p>
+
+        <p><strong>Known Members</strong>:</p>
+
+        <ul>
+
+        <li><strong>Benkei</strong> — Elder, Order of the Tranquil Lotus (public); rank within Ancient Guard TBD</li>
+
+        <li><strong>Solas Evergreen</strong> — Guardian, Order of the Sacred Grove (public); DECEASED; rank likely
+        Protector or higher</li>
+
+        </ul>
+
+        <p><strong>Critical Implication</strong>: Solas&#39;s murder = someone killed a member of the order protecting
+        the dragons. Scope of threat unknown.</p>
+
+        <ul>
+
+        <li><strong>This is where the truth about Clan Gekkō/Nagaji will be revealed</strong></li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: null
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/core/organizations.md
+    slug: organizations
+    frontmatter:
+      name: Organizations & Factions
+      type: core
+      description: Secret orders, magical factions, guilds, and political organizations

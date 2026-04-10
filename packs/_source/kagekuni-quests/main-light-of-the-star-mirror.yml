@@ -1,0 +1,400 @@
+_id: fnxXVKD91Kurvds2
+_key: '!journal!fnxXVKD91Kurvds2'
+name: Light of the Star Mirror
+pages:
+  - _id: fAT1Zn6h3dMXiIz3
+    _key: '!journal.pages!fAT1Zn6h3dMXiIz3'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">quest</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">staged</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">tenkuji-temple</dd></div><div
+        class="kg-info__row"><dt>Quest Type</dt><dd data-field="quest-type">main</dd></div><div
+        class="kg-info__row"><dt>Quest Giver</dt><dd data-field="quest-giver">none</dd></div></dl><p><em
+        lang="ja-Latn">&quot;The machine does not care who repairs it. It only cares that someone does.&quot;</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: HCo9X7DTCfj8od1Z
+    _key: '!journal.pages!HCo9X7DTCfj8od1Z'
+    name: Known
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-background"
+        data-section="background">Background</h3>
+
+        <p>Deep within the Temple of Kinryū, on the second floor, the Golden Dragon Clan built the Hoshikagami no Ma —
+        the Chamber of the Star Mirror. At its center stands a mechanical-arcane orrery: a system of bronze armatures,
+        gear tracks, and arcane projection lenses that together model the full Miyosai celestial system. Stars, moons,
+        and planets tracked across millennia by a device of extraordinary precision.</p>
+
+        <p>The orrery has not been operational since the temple fell in 13088. Its components are scattered — some still
+        in the observatory, seized or cracked; others removed for safekeeping and left in rooms throughout the temple by
+        priests who never returned for them. Nine components are required for full restoration: five found on the first
+        floor, four on the second.</p>
+
+        <p>The observatory is integrated with the temple&#39;s foundational magic. When fully restored, its sei
+        resonance propagates through the construction-level enchantment that permeates the entire structure — awakening
+        the ori-kioku tapestries in the South Entrance below. Four tapestries survive. They hold records the Golden
+        Dragon order considered important enough to weave into fabric that would outlast stone.</p>
+
+        <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false">Assess the observatory and identify what repairs are needed</li>
+
+        <li class="kg-task" data-done="false">Locate the 5 first-floor components<ul>
+
+        <li class="kg-task" data-done="false">Susanoo projection lens (Grand Hall)</li>
+
+        <li class="kg-task" data-done="false">Planetary gear assembly (Dormitories)</li>
+
+        <li class="kg-task" data-done="false">Calibration disc (Dormitories — sealed room)</li>
+
+        <li class="kg-task" data-done="false">Tsukuyomi projection lens (Mess Hall)</li>
+
+        <li class="kg-task" data-done="false">Sei conduit filament (Inner Sanctum)</li>
+
+        </ul>
+
+        </li>
+
+        <li class="kg-task" data-done="false">Locate the 4 second-floor components<ul>
+
+        <li class="kg-task" data-done="false">Repair the cracked Amaterasu projection lens (Observatory)</li>
+
+        <li class="kg-task" data-done="false">Free the seized stellar drive mechanism (Observatory)</li>
+
+        <li class="kg-task" data-done="false">Find the lunar armature set (Scriptorium)</li>
+
+        <li class="kg-task" data-done="false">Find the operator&#39;s manual (Scriptorium)</li>
+
+        </ul>
+
+        </li>
+
+        <li class="kg-task" data-done="false">Restore the orrery through 5 repair stages</li>
+
+        <li class="kg-task" data-done="false">Descend to the South Entrance and witness the activated tapestries</li>
+
+        <li class="kg-task" data-done="false">Study the four surviving tapestries for information</li>
+
+        </ul>
+
+        <h3 id="kg-known-information" data-section="known-information">Known Information</h3>
+
+        <p><em lang="ja-Latn">Populated as the party discovers components and makes checks. Initially empty — the quest
+        begins with assessment.</em></p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JXvyNE5YGDZE7jJb
+    _key: '!journal.pages!JXvyNE5YGDZE7jJb'
+    name: Discoverable (GM)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><h3 id="kg-hidden-truth"
+        data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The orrery is not merely an astronomical curiosity. It is the operational heart of a network that connects
+        this temple to at least three other sanctuary sites across Hokori. Restoring it does not just activate the
+        tapestries — it brings the hub node of a millennia-old communication system back online.</p>
+
+        <p>Tapestry III is not a historical record like the other three. It is a monitoring surface — a live feed of the
+        sanctuary network&#39;s current state. When activated, it shows:</p>
+
+        <ul>
+
+        <li><strong>This temple</strong>: operational (steady gold pulse)</li>
+
+        <li><strong>Sora province site</strong>: acknowledged — a distress signal was received and answered, but help
+        never came (slow double-beat)</li>
+
+        <li><strong>Kaze province site</strong>: distress, unacknowledged — the signal has been running into silence
+        since the fall of 13088 (rapid pulse)</li>
+
+        <li><strong>Hi/Tsuchi border site</strong>: offline — severed, not dormant (cold fabric, no signal)</li>
+
+        </ul>
+
+        <p>These signals were set by practitioners during the fall. They have been running for over three thousand
+        years. The party is the first entity capable of receiving them.</p>
+
+        <p>The other three tapestries hold equally significant information:</p>
+
+        <ul>
+
+        <li><strong>Tapestry I</strong>: Records Kinryū&#39;s voluntary binding to this mountain — the founding moment
+        of the temple, cosmologically timed</li>
+
+        <li><strong>Tapestry II</strong>: Preserves the consecration ceremony that laid the temple&#39;s foundational
+        enchantments — and evidence of infiltration within the order itself (a Kokuryu-aspected sei signature hidden
+        within the golden working)</li>
+
+        <li><strong>Tapestry IV</strong>: Depicts the first head priest receiving a direct commission from Kinryū, with
+        a theological border encoding the order&#39;s founding obligations: creation, covenant, stewardship,
+        silence</li>
+
+        </ul>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Head Priest Kinjiro&#39;s spirit</strong> (priest&#39;s chamber): Knows the full history of the
+        orrery, the sanctuary network, and the tapestries&#39; contents. Can explain the network protocol if the party
+        engages peacefully. His operational ledger in the bronze box contains records of significant network
+        events.</li>
+
+        <li><strong>Ko&#39;jiri</strong>: His Golden Dragon Clan research gives him advantage throughout — the orrery
+        validates everything he has studied. The operator&#39;s manual is readable at reduced DC for him.</li>
+
+        <li><strong>Benkei</strong> (traveling, not present): Would recognize the sanctuary network as connected to the
+        Ancient Guard&#39;s mission. The sites marked on Tapestry III overlap with the locations the Warden&#39;s Wisdom
+        points toward.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li><strong>Assessment in the observatory</strong>: DC 14 History (DC 11 Ko&#39;jiri) connects the device to
+        Golden Dragon records. DC 14 Tinker&#39;s Tools identifies what specific repairs are needed.</li>
+
+        <li><strong>Component discovery</strong>: Each component found on the first floor gains context when the party
+        reaches the observatory — the &quot;aha&quot; moment when mysterious crystals and bronze rings suddenly have
+        purpose.</li>
+
+        <li><strong>Tapestry examination (static)</strong>: Available before orrery restoration. Two skill tracks per
+        tapestry yield different information layers. Tapestry III&#39;s Track One Critical Success identifies the three
+        sanctuary markers and their approximate geographic locations.</li>
+
+        <li><strong>Tapestry activation (orrery restored)</strong>: The living tapestries reveal information invisible
+        in the static state — Tapestry I tracks Ko&#39;jiri&#39;s presence, Tapestry III shows the live network,
+        Tapestry IV&#39;s activation cycle includes the head priest glancing toward Tapestry III mid-ceremony.</li>
+
+        <li><strong>Relc&#39;s presence during Tapestry III activation</strong>: He feels Solas&#39;s presence — not
+        here, but at one of the other sanctuary sites shown on the map. This connects his personal quest directly to the
+        sanctuary network.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: z8RzJd4tdBx32axs
+    _key: '!journal.pages!z8RzJd4tdBx32axs'
+    name: SEALED — GM Only
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-full-truth" data-section="full-truth">Full
+        Truth</h3>
+
+        <p>The sanctuary network is an Ancient Guard infrastructure. The four sites on Tapestry III are not random
+        temples — they are guardianship sites positioned near Progenitor resting locations. This temple is the hub. The
+        orrery is not just an astronomical tool; its sei resonance is what keeps the network alive.</p>
+
+        <p>The party, by restoring the orrery, has done something with consequences beyond this temple:</p>
+
+        <ul>
+
+        <li>The hub is online for the first time in three millennia</li>
+
+        <li>Any entity sensitive to the network (including the awakened Murasakiryū) may notice the signal change</li>
+
+        <li>The Kaze site&#39;s distress signal has been broadcasting into silence — restoring the hub makes the signal
+        receivable, and the party can acknowledge it</li>
+
+        <li>The Hi/Tsuchi site&#39;s offline/severed state suggests something happened there recently (the fabric
+        retains residual warmth — days or weeks, not centuries)</li>
+
+        </ul>
+
+        <p>The orrery&#39;s visualization of the Great Aphelion — watching two stars go dark while the mechanism keeps
+        running — is the sei drought made visible. A party that understands what they are seeing has the first concrete
+        evidence that the return of magic was not a natural restoration but the waking of a single source.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ol>
+
+        <li><p><strong>Full restoration + tapestry study</strong>: The party takes time to repair the orrery completely,
+        studies all four tapestries, and leaves the temple with geographic leads on three sanctuary sites, knowledge of
+        the network protocol, and the understanding that this temple is a functioning hub. This is the richest outcome
+        and feeds directly into future quests at each sanctuary site.</p>
+
+        </li>
+
+        <li><p><strong>Partial restoration</strong>: The party repairs the orrery enough for partial projection
+        (impressive but no tapestry activation) and moves on. They miss the sanctuary network revelation but may return
+        later. The components they found but couldn&#39;t use remain available.</p>
+
+        </li>
+
+        <li><p><strong>Full restoration, limited study</strong>: The party activates the tapestries but doesn&#39;t
+        invest time in deep examination. They get the dramatic moment but miss discoverable content. Available on return
+        visits.</p>
+
+        </li>
+
+        </ol>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>No hard deadline. The orrery repair is designed to span the second-floor exploration, interleaved with other
+        activities.</li>
+
+        <li>Each repair stage: 15-30 minutes of table time</li>
+
+        <li>Tapestry activation scene: budget 45-60 minutes for the full experience</li>
+
+        <li>The tapestries remain active as long as the orrery runs — the party can return</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>main-gekko-investigation</strong>: The temple contains reversal documentation for the Nagaji
+        transformation. The orrery quest and the Gekkō quest share a location but have separate payoffs — one reveals
+        the sanctuary network and the world&#39;s deeper history; the other provides the means to undo the Gekkō
+        disaster.</li>
+
+        <li><strong>personal-relc-sacred-grove</strong>: Tapestry III&#39;s sanctuary sites overlap with the
+        Warden&#39;s Wisdom locations. Solas&#39;s presence at one of those sites gives Relc a personal, urgent reason
+        to pursue them. The orrery restoration is the mechanism that surfaces this connection.</li>
+
+        <li><strong>Future quest — Kaze sanctuary</strong>: The distress signal. The site in the Kaze highlands the
+        party is already traveling toward for the Gekkō investigation. Two quests converge on one location.</li>
+
+        <li><strong>Future quest — Sora sanctuary</strong>: The acknowledged signal. A promise made and not kept. Stone
+        3 of Relc&#39;s cipher is on the Hoshimori Plateau in Sora.</li>
+
+        <li><strong>Future quest — Hi/Tsuchi site</strong>: The severed node. Recent activity. The Akaho Sanmyaku
+        eruption is ongoing in Hi province. Something happened at this site recently.</li>
+
+        <li><strong>Murasakiryū thread</strong>: The orrery&#39;s Great Aphelion visualization is the first evidence the
+        party can encounter that magic&#39;s return was not natural. The Kokuryu-aspected sei signature in Tapestry
+        II&#39;s fabric (and on the Inner Sanctum ward anchors) is the same fingerprint — a trail that eventually leads
+        to the masquerade.</li>
+
+        <li><strong>Ko&#39;jiri&#39;s arc</strong>: The orrery is the first time Ko&#39;jiri&#39;s performed scholarship
+        proves to be genuine expertise. The observatory does not judge him. It just needs someone who knows what it
+        is.</li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+folder: YqhkC0JDdsl8Qo6D
+sort: 0
+ownership:
+  default: 2
+flags:
+  kagekuni-assistant:
+    sourcePath: >-
+      C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini
+      Games/Shogun/Claude/quests/main-light-of-the-star-mirror.md
+    slug: main-light-of-the-star-mirror
+    frontmatter:
+      name: Light of the Star Mirror
+      type: quest
+      quest_type: main
+      status: staged
+      quest_giver: none
+      pc_focus:
+        - Ko'jiri
+        - Relc
+        - Sun Wukong
+        - Dian Wei
+      location: tenkuji-temple
+      acquired_date: null
+      resolved_date: null
+      trigger: Party reaches the observatory (Hoshikagami no Ma) on the second floor of Tenkū-ji and assesses the orrery
+      origin: locations/tenkuji-temple/supplements/mechanical-arcane-orrery.md
+      deadline_type: none
+      deadline_date: null
+      deadline_consequence: null
+      consequences: []
+      related_quests:
+        - main-gekko-investigation
+        - personal-relc-sacred-grove
+      tags:
+        - temple
+        - kinryu
+        - orrery
+        - tapestry
+        - sanctuary-network
+        - observatory
+  simple-quest:
+    status: active
