@@ -1,7 +1,7 @@
 {
   "moduleId": "assistant",
-  "version": "0.3.3",
-  "generated": "2026-04-10T22:04:07.446Z",
+  "version": "0.3.4",
+  "generated": "2026-04-11T00:47:40.345Z",
   "packs": {
     "classes": [
       {
@@ -103514,6 +103514,7 @@
               "volume": 0.5
             },
             "src": null,
+            "category": null,
             "sort": 0,
             "ownership": {
               "default": 0
