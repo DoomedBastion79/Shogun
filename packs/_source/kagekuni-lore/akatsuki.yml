@@ -78,15 +78,15 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>None publicly documented. The village maintains deliberate anonymity.</p>
 
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -100,11 +100,13 @@ pages:
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Order&#39;s Full Knowledge</strong>
 
@@ -135,11 +137,16 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -149,14 +156,14 @@ pages:
         <li>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
         gold doors</li>
 
-        <li>An Order initiate has broken protocol and is heading toward
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} with partial information -- needs
+        <li>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
         intercepting before triggering political consequences</li>
 
         </ul>
 
 
         </section>
+
       markdown: ''
     video:
       controls: true

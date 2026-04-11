@@ -49,7 +49,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <ul>
 
         <li>Sato Hideaki -- Choro (Village Elder); 78 years old -&gt; npcs/sato-hideaki.md</li>
@@ -59,14 +59,14 @@ pages:
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
         <li>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
-        Ancient Guard, and @UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen}.</li>
+        Ancient Guard, and Solas Evergreen.</li>
 
         <li>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</li>
 
@@ -77,19 +77,20 @@ pages:
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Sato&#39;s Full Knowledge</strong>
 
         Sato is a mid-rank member of the Order of the Sacred Grove. He has interacted with Order of the Ancient Guard
-        agents, including @UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen} directly.
-        He knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and broadly what it
-        protects. He has not told Relc because he was following Solas&#39;s instruction and because he judged Relc was
-        not yet ready.</p>
+        agents, including Solas Evergreen directly. He knows Solas was Ancient Guard (not just Sacred Grove). He knows
+        what the Ancient Guard is and broadly what it protects. He has not told Relc because he was following
+        Solas&#39;s instruction and because he judged Relc was not yet ready.</p>
 
         <p><strong>The Cipher Poem</strong>
 
@@ -107,16 +108,20 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
-        <li>Sato sends word through a traveling merchant heading toward
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}: he needs to speak with Relc; something
+        <li>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something
         has happened near the sacred grove</li>
 
         <li>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
@@ -126,6 +131,7 @@ pages:
 
 
         </section>
+
       markdown: ''
     video:
       controls: true

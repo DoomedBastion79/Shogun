@@ -118,7 +118,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <ul>
 
         <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.CyUld2eHP7MN7Tbx]{Takeda Yoshinobu} -- Town leader;
@@ -132,14 +132,13 @@ pages:
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{Oshiro Masahiro}&#39;s intelligence
-        network extends far beyond what his official position suggests.</li>
+        <li>Oshiro Masahiro&#39;s intelligence network extends far beyond what his official position suggests.</li>
 
         <li>The Tenchusan Ren pass approach is under more surveillance than it appears.</li>
 
@@ -151,14 +150,15 @@ pages:
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{Oshiro Masahiro} -- Intelligence
-        Asset</strong>
+        <p><strong>Oshiro Masahiro -- Intelligence Asset</strong>
 
         Oshiro&#39;s decision to assist the party was not simply a judgment about innocence. He had received information
         suggesting their mission was legitimate and the impoundment was creating an obstacle. He knows more about the
@@ -171,8 +171,7 @@ pages:
         no identifiable clan affiliation, moving fast and carrying unusual cargo, approximately three weeks before the
         party&#39;s transit.</p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.CyUld2eHP7MN7Tbx]{Takeda Yoshinobu}&#39;s
-        Concerns</strong>
+        <p><strong>Takeda Yoshinobu&#39;s Concerns</strong>
 
         Yoshinobu has been receiving reports from mountain guides about unusual activity in the upper pass -- disrupted
         trail markers, signs of large encampment at non-standard locations, and two guides who came back shaken and
@@ -182,11 +181,16 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -200,6 +204,7 @@ pages:
 
 
         </section>
+
       markdown: ''
     video:
       controls: true

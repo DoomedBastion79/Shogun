@@ -2,9 +2,9 @@ _id: JBrSdiECB8Mb9qgI
 _key: '!journal!JBrSdiECB8Mb9qgI'
 name: Rekishi
 pages:
-  - _id: VaYqA6gho1DOdtNT
-    _key: '!journal.pages!JBrSdiECB8Mb9qgI.VaYqA6gho1DOdtNT'
-    name: Introduction
+  - _id: a2LjDu5GOhtcLgof
+    _key: '!journal.pages!JBrSdiECB8Mb9qgI.a2LjDu5GOhtcLgof'
+    name: History of Kagekuni
     type: text
     title:
       show: true
@@ -12,35 +12,11 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>The archipelago&#39;s recorded history stretches back more than eight thousand years — and its unrecorded
         history stretches back further still. What follows is the account as it is understood by scholars, priests, and
         the educated classes of Kagekuni. Some of it is reliable. Some of it is myth layered over truth. Some of it is
         truth layered over something deeper that no one alive fully remembers.</p>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Introduction</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <ul>
-
-        <li><strong>Reforms of Ryūjin no Mikado (16732)</strong>: 18th emperor; last near-immortal elf; banned Kokushi
-        Kyōkai from appointing Shogun without imperial approval</li>
-
-        <li><strong>End of Imperial Line (16739)</strong>: Ryūjin no Mikado died under mysterious circumstances;
-        officially old age; foul play suspected but unproven</li>
-
-        <li><strong>Widespread Aggression (16742)</strong>: War between Genso and Arashi alliances begins</li>
-
-        <li><strong>Current Year: 16744</strong></li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -326,7 +302,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>The disappearance of sei was not a sudden event but a slow bleeding that scholars only recognised in
         retrospect. By the time the war ended and the empire looked up from its wounds, the bleeding was
         catastrophic.</p>
@@ -353,28 +329,17 @@ pages:
         same world that had entered the darkness.</p>
 
         <section class="secret kg-secret-sealed">
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 70
-    ownership:
-      default: 2
-    flags: {}
-  - _id: vidUFTjVQjfGZPMo
-    _key: '!journal.pages!JBrSdiECB8Mb9qgI.vidUFTjVQjfGZPMo'
-    name: DM Note — The Great Aphelion
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >-
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Great Aphelion</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
         <p>The sei drought was not caused by the war or by any mortal action. It was a cosmological event.</p>
 
         <p>The three stars of the Miyosai trinary system orbit a common gravitational centre on independent orbital
@@ -398,6 +363,9 @@ pages:
         temple fell.</p>
 
         </section>
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -405,7 +373,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 80
+    sort: 70
     ownership:
       default: 2
     flags: {}
@@ -441,7 +409,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 90
+    sort: 80
     ownership:
       default: 2
     flags: {}
@@ -482,7 +450,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 100
+    sort: 90
     ownership:
       default: 2
     flags: {}
@@ -523,7 +491,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 110
+    sort: 100
     ownership:
       default: 2
     flags: {}
@@ -557,7 +525,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 120
+    sort: 110
     ownership:
       default: 2
     flags: {}
@@ -588,7 +556,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 130
+    sort: 120
     ownership:
       default: 2
     flags: {}
@@ -626,7 +594,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 140
+    sort: 130
     ownership:
       default: 2
     flags: {}
@@ -640,7 +608,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>Magic officially returned to the world around the year 16687, though the process had been building for
         decades. The Great Awakening was not a single moment but a threshold — the point at which sei became reliably
         accessible to trained practitioners rather than appearing only in rare Talents born with innate ability.</p>
@@ -656,28 +624,17 @@ pages:
         learning fast, but they are learning without teachers, and the gaps in their understanding are significant.</p>
 
         <section class="secret kg-secret-sealed">
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 150
-    ownership:
-      default: 2
-    flags: {}
-  - _id: GuIzuPVNBBAi83x4
-    _key: '!journal.pages!JBrSdiECB8Mb9qgI.GuIzuPVNBBAi83x4'
-    name: DM Note — The True Cause of the Great Awakening
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >-
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The True Cause of the Great Awakening</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
         <p>The Great Awakening was not a natural restoration of cosmic balance. It was the consequence of waking a
         single malevolent Progenitor.</p>
 
@@ -697,6 +654,9 @@ pages:
         may not fully understand what he carries.</p>
 
         </section>
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -704,7 +664,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 160
+    sort: 140
     ownership:
       default: 2
     flags: {}
@@ -718,7 +678,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>The current crisis did not begin with war. It began with a reform.</p>
 
         <p>In <strong>16732</strong>, Emperor <strong>Ryūjin no Mikado</strong> — the eighteenth emperor, the last of
@@ -743,28 +703,17 @@ pages:
         have begun to stir.</p>
 
         <section class="secret kg-secret-sealed">
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 170
-    ownership:
-      default: 2
-    flags: {}
-  - _id: QdB5WpGaDWV4wVXn
-    _key: '!journal.pages!JBrSdiECB8Mb9qgI.QdB5WpGaDWV4wVXn'
-    name: DM Note — The Emperor's Death
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >-
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Emperor&#39;s Death</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyō —
         <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.0HclUlVglsnisViu]{Raijin no Kazuhiko}</strong> (Clan
@@ -776,6 +725,9 @@ pages:
         against the imperial line — a last attempt to prevent his enemies from consolidating power after his death.</p>
 
         </section>
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -783,7 +735,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 180
+    sort: 150
     ownership:
       default: 2
     flags: {}
@@ -864,7 +816,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 190
+    sort: 160
     ownership:
       default: 2
     flags: {}
@@ -878,7 +830,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >-
         <p><strong>Age of Dragons (Pre-8000)</strong></p>
 
         <ul>
@@ -1069,6 +1021,30 @@ pages:
         <li>Magic officially returned ~16687 — daimyo actively recruit mages</li>
 
         </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
+
+        <li><strong>Reforms of Ryūjin no Mikado (16732)</strong>: 18th emperor; last near-immortal elf; banned Kokushi
+        Kyōkai from appointing Shogun without imperial approval</li>
+
+        <li><strong>End of Imperial Line (16739)</strong>: Ryūjin no Mikado died under mysterious circumstances;
+        officially old age; foul play suspected but unproven</li>
+
+        <li><strong>Widespread Aggression (16742)</strong>: War between Genso and Arashi alliances begins</li>
+
+        <li><strong>Current Year: 16744</strong></li>
+
+        </ul>
+
+
+        </section>
       markdown: ''
     video:
       controls: true
@@ -1076,7 +1052,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 200
+    sort: 170
     ownership:
       default: 2
     flags: {}

@@ -105,7 +105,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -137,7 +137,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -276,7 +276,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -356,7 +356,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -409,7 +409,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -471,7 +471,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -543,7 +543,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -604,7 +604,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -660,7 +660,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -712,7 +712,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -767,7 +767,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -839,7 +839,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -884,7 +884,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1

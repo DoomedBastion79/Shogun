@@ -74,15 +74,15 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>None specifically documented.</p>
 
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -96,11 +96,13 @@ pages:
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Shadowfen Bridge</strong>
 
@@ -119,11 +121,16 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -137,6 +144,7 @@ pages:
 
 
         </section>
+
       markdown: ''
     video:
       controls: true

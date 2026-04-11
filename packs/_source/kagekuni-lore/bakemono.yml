@@ -2,9 +2,9 @@ _id: 2ksZmpD2sVpeUB0Q
 _key: '!journal!2ksZmpD2sVpeUB0Q'
 name: Bakemono
 pages:
-  - _id: hyPJeTAlgJgjZoja
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.hyPJeTAlgJgjZoja'
-    name: Introduction
+  - _id: klv6t4F65tnNyQdx
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.klv6t4F65tnNyQdx'
+    name: Overview
     type: text
     title:
       show: true
@@ -31,13 +31,581 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: ZbMVv5WEcOKKoS5R
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ZbMVv5WEcOKKoS5R'
-    name: Kami
+  - _id: ZksEQ06R1P0Lxthn
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ZksEQ06R1P0Lxthn'
+    name: Yokai — the Changed Ones
     type: text
     title:
       show: true
       level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Yokai are creatures of inherent supernatural nature — not spirits of the dead, not divine, not ordinary
+        beasts gone wrong. They exist because the world has room for them, because sei flows through living things and
+        some living things are stranger than others. Most yokai are intelligent. Many are ancient. A few are friendly,
+        though &quot;friendly&quot; is a relative term when the creature in question can swallow a horse.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: N9DK6nNw4MgJhzQC
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.N9DK6nNw4MgJhzQC'
+    name: Oni
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The great horned demons of Kagekuni are as much a part of the mountains as the stone itself. They come in
+        colors — red, blue, black, green — and each color carries different associations in local folklore, though the
+        oni themselves don&#39;t seem to care what stories are told about them.</p>
+
+        <p>Oni are territorial, physical, and direct. They favor high places: mountain passes, cliff faces, abandoned
+        fortifications. A lone oni will claim a stretch of road and exact tribute from travelers — food,
+        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake}, occasionally a fight for the sport of it. An oni
+        band, which is rarer and more dangerous, will fortify a position and hold it against anything short of an
+        army.</p>
+
+        <p>They are not stupid. An oni negotiating toll fees will remember a slight for decades. An oni given genuine
+        respect — not fear, respect — may become a surprisingly reliable neighbor. Villages near known oni territory
+        sometimes maintain formal arrangements: offerings left at specific stones on specific days, and in return the
+        oni discourages bandits and worse things from using the same road.</p>
+
+        <p>During the sei drought, oni populations declined sharply. Many retreated underground or fell into torpor.
+        Since the Great Awakening, sightings have risen steadily, and some oni have emerged disoriented and aggressive
+        after millennia of sleep — a problem for the settlements that grew up in their territory while they
+        slumbered.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: WJahaQ2bTzHgxkUq
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.WJahaQ2bTzHgxkUq'
+    name: Tengu
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Tengu inhabit the deep mountain forests and high ridgelines where the canopy thins and the wind carries the
+        smell of pine resin and distant snow. They appear as tall, thin humanoids with corvid features — black-feathered
+        wings, sharp dark eyes, beaked faces that manage to convey expressions no beak should be capable of.</p>
+
+        <p>They are warriors without peer. The legendary swordsmanship schools of Kagekuni trace their lineage to tengu
+        instructors, and the debt is not metaphorical — tengu did teach human swordsmen, centuries ago, and some still
+        do. A tengu who deems a mortal worthy of instruction will appear uninvited, train the student to the point of
+        exhaustion and beyond, then vanish without explanation. The student is expected to understand the lesson
+        eventually. Tengu do not explain themselves.</p>
+
+        <p>Tengu society is hierarchical and secretive. The greater tengu — the Daitengu — are beings of considerable
+        power, rumored to command weather and move through sei as birds move through air. The lesser tengu, the Kotengu,
+        are more numerous and more volatile: tricksters, thieves, and occasional allies who delight in humbling the
+        proud and rewarding the humble. They are particularly fond of embarrassing monks whose piety exceeds their
+        actual virtue.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: WXy4OzDwlY5IwfJ7
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.WXy4OzDwlY5IwfJ7'
+    name: Kitsune
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Fox spirits. The most well-known and most misunderstood of the yokai.</p>
+
+        <p>A kitsune appears, in its natural form, as a fox of unusual size and intelligence with fur that may be red,
+        white, silver, or — in the oldest and most powerful — gold. They are shapeshifters who can assume human form
+        with enough skill to pass undetected for years or even decades. The number of tails a kitsune possesses reflects
+        its age and power: a young kitsune has one; the legendary nine-tailed elders are beings of near-divine
+        potency.</p>
+
+        <p>Kitsune are drawn to interesting people and interesting situations, which makes them unpredictable. Some
+        serve as guardians of specific places — shrines, crossroads, ancient groves. Others attach themselves to mortals
+        out of curiosity, affection, or an amusement that can look identical to malice from the outside. A kitsune&#39;s
+        gifts always come with complications. A kitsune&#39;s tricks always contain a lesson, though the lesson may not
+        become clear for years.</p>
+
+        <p>They are deeply tied to the spirit world and to sei. Kitsune illusions are not mere glamour — they reshape
+        perception at a fundamental level, and a sufficiently powerful kitsune can make the illusory real, if only
+        temporarily. Fire is their traditional element: foxfire, the cold blue flame that marks kitsune territory, burns
+        without heat but illuminates things that ordinary light cannot reveal.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 1S3P7PY2SZUH5Did
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.1S3P7PY2SZUH5Did'
+    name: Tanuki
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The raccoon-dogs of Kagekuni are shapeshifters like kitsune, but where kitsune are elegant and calculating,
+        tanuki are exuberant, gluttonous, and absolutely shameless. A tanuki disguised as a merchant will sell you
+        leaves that look like gold coins — and the deception will hold just long enough for the tanuki to spend the real
+        coins you gave as change on @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} and tempura.</p>
+
+        <p>Tanuki are social creatures who gather in loose communities near human settlements, drawn by the availability
+        of food, drink, and entertainment. They are excellent mimics, passable musicians, and terrible liars who succeed
+        anyway through sheer confidence and the fact that people don&#39;t expect a pot-bellied creature with a leaf on
+        its head to be running an elaborate confidence scheme.</p>
+
+        <p>Despite their reputation as comic figures, tanuki are not harmless. An angry tanuki can reshape its body into
+        something much larger and much less amusing. A tanuki protecting its young will fight with a ferocity that
+        surprises creatures who only know the jolly sake-drinking version. And old tanuki — the ones who have lived long
+        enough to stop caring whether anyone finds them funny — are shapeshifters of alarming skill who can maintain
+        disguises indefinitely and have been known to replace village headmen for months without detection.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: h1PW8L7gRRhNdX42
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.h1PW8L7gRRhNdX42'
+    name: Jorogumo
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The spider-women of the deep forests and abandoned estates. A jorogumo appears as a beautiful woman — or as
+        an enormous spider the size of a small horse — and the transition between the two forms is disturbingly fluid.
+        They spin webs of silk so fine it catches light like water, and their lairs are decorated with an aesthetic
+        sensibility that would be admirable if the decorations didn&#39;t include the drained husks of previous
+        visitors.</p>
+
+        <p>Jorogumo are patient, intelligent, and profoundly solitary. They claim territories — a ruined villa, a cave
+        behind a waterfall, a particular stretch of forest path — and weave elaborate traps for anything that wanders
+        in. Their webs conduct sei, and a jorogumo sitting at the center of her web can feel vibrations from hundreds of
+        feet away, reading the approach of prey through tremors in the silk.</p>
+
+        <p>They are not mindless predators. A jorogumo who has recently fed may invite a traveler to tea, make polite
+        conversation, and allow them to leave unharmed — though she will remember their face and their scent, and if
+        they return she will expect them to bring a gift. Jorogumo appreciate poetry, fine fabric, and musical skill.
+        They despise dishonesty, which is ironic given that their primary hunting strategy is deception.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+  - _id: G4G4orZ6xHvTvFtS
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.G4G4orZ6xHvTvFtS'
+    name: Nure-Onna
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The wet women of rivers and coastal marshes. They appear as women from the waist up, with the body of an
+        enormous serpent below — though they can compress their lower form enough to wade through shallows and appear
+        merely waist-deep in water. Their hair is perpetually wet and black as lacquer, and their faces are beautiful in
+        the specific way that a riptide is beautiful: compelling and absolutely lethal.</p>
+
+        <p>Nure-onna haunt river crossings, bridges, and tidal flats. Their preferred method is to appear holding a
+        bundle wrapped in cloth and crying for help — a lost child, a drowning infant. When a compassionate traveler
+        approaches and takes the bundle, it becomes impossibly heavy, pinning them in place while the nure-onna strikes.
+        The bundle contains nothing but river stones and malice.</p>
+
+        <p>They are territorial and aggressive, and unlike many yokai, they show little interest in conversation or
+        negotiation. A river known to harbor a nure-onna will be marked with warning shimenawa by local villagers, and
+        fords will be relocated upstream at considerable expense rather than risk the crossing.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 2
+    flags: {}
+  - _id: sagP6mCSoVx6VzQB
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.sagP6mCSoVx6VzQB'
+    name: Tsukumogami
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Objects that have existed for one hundred years and, through long use and the slow accumulation of sei, have
+        awakened into something like consciousness. A tea kettle that hops off its hook at midnight. An umbrella that
+        opens itself in sunshine and closes in rain, spitefully. A writing brush that produces calligraphy of startling
+        beauty when no one is holding it.</p>
+
+        <p>Tsukumogami are the most common yokai in Kagekuni, though most go unrecognized. They are minor spirits —
+        rarely dangerous, frequently annoying, occasionally helpful. A household that treats its tools and implements
+        with respect will find them lasting longer and working better; a household that is careless with its possessions
+        may wake one morning to find every pot in the kitchen rearranged and the broom hiding behind the woodpile.</p>
+
+        <p>Since the Great Awakening, the rate of tsukumogami manifestation has increased noticeably. Seimasters debate
+        whether this reflects higher ambient sei, accumulated potential finally expressing after the drought, or simply
+        that people are paying closer attention. Whatever the cause, households across Kagekuni are discovering that
+        their grandmother&#39;s mirror has opinions about its placement.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 2
+    flags: {}
+  - _id: LmbCgMRglgPWpNCs
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.LmbCgMRglgPWpNCs'
+    name: Yurei — the Restless Dead
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Death in Kagekuni is not always permanent, and it is rarely clean. The dead who linger do so because
+        something binds them — an oath unfulfilled, a wrong unavenged, a love that outlasted the body. They are called
+        yurei, and they are treated with a mixture of pity, fear, and practical concern.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 100
+    ownership:
+      default: 2
+    flags: {}
+  - _id: cXA2R0fGJfOeqkUM
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.cXA2R0fGJfOeqkUM'
+    name: Yurei
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The classic restless dead. They appear in white burial kimono, hair unbound, feet that do not quite touch the
+        ground. Their forms are translucent but visible, and the temperature drops in their presence — a cold that
+        settles into the bones and does not leave quickly.</p>
+
+        <p>Yurei are bound to specific places, people, or purposes. A yurei haunting the place of their death may replay
+        their final moments endlessly, unaware of the living. A yurei seeking vengeance will pursue their target with
+        patient, relentless focus, appearing at the edges of rooms and in reflections until the moment they strike. A
+        yurei bound by love will simply... wait, in the place where they were happiest, for a reunion that may never
+        come.</p>
+
+        <p>The most dangerous yurei are those who have forgotten why they linger. Their original purpose has been
+        satisfied or has become meaningless, but the binding holds. These confused dead become increasingly hostile over
+        time, lashing out at the living not from malice but from a formless anguish they can no longer articulate.</p>
+
+        <p>Proper funeral rites prevent most hauntings. Shrines dedicated to ancestor veneration help maintain the
+        boundary. When a yurei does manifest, the most reliable resolution is to identify and address the binding cause
+        — which may require investigation, negotiation, or acts of restitution that the living find inconvenient.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 110
+    ownership:
+      default: 2
+    flags: {}
+  - _id: FHmlgHSvC3vgeCwG
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.FHmlgHSvC3vgeCwG'
+    name: Bōrei
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>A bōrei is a yurei of unusual potency — a spirit whose binding is so strong, whose will was so defined in
+        life, that they persist with something approaching full consciousness. They can speak, reason, and in some cases
+        interact physically with the world around them. They do not decay in the way lesser yurei do; a bōrei may haunt
+        a place for centuries without losing coherence.</p>
+
+        <p>Bōrei are rare and significant. A bōrei in a temple was almost certainly someone of great devotion or
+        authority. A bōrei in a castle was likely a lord or general whose duty extended past death. They can be
+        communicated with — carefully — and may possess knowledge that no living person retains.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 2
+    flags: {}
+  - _id: LfUyHbqL3y7MbeyZ
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.LfUyHbqL3y7MbeyZ'
+    name: Gashadokuro
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The great skeletons. When a mass death occurs — a battle, a famine, a plague — and the dead are not properly
+        honored, the accumulated resentment of the forgotten coalesces into a single enormous skeletal figure, fifteen
+        to twenty feet tall, assembled from the bones of the unburied. A gashadokuro makes no sound except the faint
+        rattle of its joints and the grinding of its teeth. It hunts at night, drawn to the living by the warmth of
+        their blood, and it bites the heads off its victims with a casualness that borders on contempt.</p>
+
+        <p>They are extraordinarily difficult to destroy. Scattering the bones only delays the reassembly. The only
+        permanent solution is to identify the mass death that created it and perform proper funerary rites for every
+        victim — a task that may require historical research, excavation, and the cooperation of priests who would
+        rather not dig up battlefields.</p>
+
+        <p>The current conflict between the Arashi and Genso alliances — with its border skirmishes, unmarked graves,
+        and soldiers lost in mountain passes — has led some scholars to worry about the conditions such violence leaves
+        in its wake.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Jbw4oPn0JtqT2U8W
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Jbw4oPn0JtqT2U8W'
+    name: Gaki
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Hungry ghosts. The dead who were consumed by greed, gluttony, or obsession in life return as gaki —
+        emaciated, translucent figures with distended bellies and mouths too small to eat. They cluster around sources
+        of what they craved: food markets, treasure houses,
+        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} breweries. They cannot consume what they desire;
+        the attempt to do so causes them visible agony, which they repeat compulsively.</p>
+
+        <p>Gaki are pathetic more than dangerous, but in large numbers they create an aura of gnawing hunger that
+        affects the living — food spoils faster, drink tastes of ash, and the feeling of being perpetually unsatisfied
+        settles over anyone who lingers too long. Gaki clusters near famine sites or abandoned marketplaces are a
+        recognized hazard, and traveling monks sometimes perform the rites of feeding — offering symbolic sustenance
+        that, while it doesn&#39;t satisfy the gaki, briefly eases their suffering enough to thin the cluster.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 2
+    flags: {}
+  - _id: gkV5ACwT03iXfRsZ
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.gkV5ACwT03iXfRsZ'
+    name: Sei Touched — the Changed and the Changing
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Sei does not merely fuel magic. It saturates the world, and where it pools or flows in concentrated currents,
+        the things that live in those currents change. The sei drought suppressed this process for three millennia.
+        Since the Great Awakening, it has resumed — and the world is still adjusting.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Zf4anQ4Nys1MmqmS
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Zf4anQ4Nys1MmqmS'
+    name: Sei Beasts
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Ordinary animals exposed to elevated sei concentrations over time. The changes are cumulative and
+        unpredictable: a deer in the Yōsei Mori might grow a third eye that perceives sei flows, or develop antlers of
+        crystallized amber that resonate in the presence of magic. A hawk nesting near a sei wellspring might produce
+        offspring with feathers of metallic bronze that cut like razors.</p>
+
+        <p>Sei beasts are not inherently aggressive, but they are often territorial in ways their mundane counterparts
+        are not, and their altered physiology can make them dangerous even without hostile intent. A sei-touched boar
+        that generates localized tremors when it charges is not trying to hurt anyone — it&#39;s just running. The
+        tremors are incidental. The fact that they can collapse a hillside is a separate problem.</p>
+
+        <p>The Yōsei Mori in @UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa} province has the
+        highest concentration of sei beasts in Hokori. Deeper reaches of the forest harbor creatures of significantly
+        elevated intelligence — animals that plan, coordinate, and in some cases appear to communicate in ways that defy
+        natural explanation.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 2
+    flags: {}
+  - _id: ayUlEwbYysH1q3qm
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ayUlEwbYysH1q3qm'
+    name: Sei Aberrations
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>When sei concentrations spike beyond what the local environment can integrate, the result is not gradual
+        change but sudden, violent transformation. Sei aberrations are creatures — or were creatures — that have been
+        overwhelmed by magical energy. Their bodies twist, merge with their surroundings, or develop properties that
+        contradict their original nature: a fish that burns, a bird made of liquid stone, a tree that bleeds and screams
+        when cut.</p>
+
+        <p>Sei aberrations are unpredictable and almost always hostile, not because they choose to be but because the
+        transformation is agonizing and they lash out at anything nearby. They are most common near sei wellsprings, ley
+        line intersections, and sites where magical catastrophes have occurred. The ruins of pre-Aphelion institutions —
+        temples, laboratories, libraries — are particularly prone to aberration formation, as residual enchantments
+        interact with returning sei in ways their builders never anticipated.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 2
+    flags: {}
+  - _id: II3VnDZLDTn9yfA1
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.II3VnDZLDTn9yfA1'
+    name: Nagaji
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: "<p>Serpentine humanoids of unknown origin, reported in increasing numbers across the mountainous interior of Hokori. Enough has been observed of their behavior, physiology, and organization to warrant a dedicated entry.</p>\n<p><em lang=\"ja-Latn\">See: <a href=\"Nagaji\">Nagaji</a></em>\n\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0</p>\n"
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 180
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Nv3zRbZLpyrzpuR6
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Nv3zRbZLpyrzpuR6'
+    name: Kami
+    type: text
+    title:
+      show: true
+      level: 2
     image: {}
     text:
       format: 1
@@ -68,12 +636,12 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 20
+    sort: 190
     ownership:
       default: 2
     flags: {}
-  - _id: TDzPHDhKIsFRISPo
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.TDzPHDhKIsFRISPo'
+  - _id: bwlsKxSYeztufimn
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.bwlsKxSYeztufimn'
     name: Kodama
     type: text
     title:
@@ -103,17 +671,266 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 30
+    sort: 200
     ownership:
       default: 2
     flags: {}
-  - _id: wAbfpYbLfcjqbYZC
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.wAbfpYbLfcjqbYZC'
-    name: Introduction
+  - _id: QLtrDU1eRfyWy447
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.QLtrDU1eRfyWy447'
+    name: Dragons
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The seven Progenitor Dragons founded the civilization of Kagekuni in the deep past. Their dragon clans —
+        Crimson, Azure, Emerald, Onyx, Golden, Silver, and Amethyst — established the framework of society, religion,
+        and magical practice that persists to this day. They are remembered as historical and mythological figures whose
+        legacy shapes every aspect of life in the Shrouded Isles.</p>
+
+        <p>Non-Progenitor dragons are extraordinarily rare in the current era. Sightings occur perhaps once in a
+        generation, usually in remote locations — the volcanic peaks of Fushichō, the deep waters around Kawa, the
+        highest ridges of the Tenchūsan Ren. These encounters are poorly documented because the witnesses tend to be
+        isolated travelers whose accounts are received with skepticism.</p>
+
+        <p>Dragon eggs surface occasionally in excavations, in the hoards of other creatures, or in the treasure vaults
+        of noble houses. They are believed to be fossils of the founding era — beautiful, collectible, and prized as
+        relics.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 210
+    ownership:
+      default: 2
+    flags: {}
+  - _id: J8UbLxJE0HQdqVNp
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.J8UbLxJE0HQdqVNp'
+    name: Ryūjin
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Dragon-blooded beings. Not dragonborn — who are a distinct race claiming descent from the Progenitors — but
+        creatures in which draconic blood manifests as something between beast and legend. A ryūjin might appear as an
+        enormous serpent with vestigial wings, or a lizard the size of a war-horse with scales that refract light into
+        colors that don&#39;t exist in the normal spectrum.</p>
+
+        <p>Ryūjin are tied to specific environments and elements. A river ryūjin commands the currents and can call
+        floods or droughts. A mountain ryūjin causes tremors and rockslides, sometimes deliberately and sometimes as a
+        byproduct of rolling over in its sleep. They are venerated in local tradition and placated with offerings, and
+        the distinction between a ryūjin and a kami is a subject of ongoing theological debate.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 220
+    ownership:
+      default: 2
+    flags: {}
+  - _id: pD3Tyc5ZwytoTJG0
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.pD3Tyc5ZwytoTJG0'
+    name: Yajū — Wildlife
     type: text
     title:
       show: true
       level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Kagekuni&#39;s natural fauna reflects the archipelago&#39;s varied geography — mountainous interiors, dense
+        forests, river valleys, and extensive coastlines — filtered through the fundamental strangeness of Seizan.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 230
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 3BjpdznkPJV59Jsv
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.3BjpdznkPJV59Jsv'
+    name: Terrestrial
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The forests of Hokori support populations of deer, boar, bear, fox, and wolf, along with smaller mammals that
+        fill the expected ecological niches. What makes them Kagekuni&#39;s own is the cosmetic: deer with pelts that
+        shift from copper to slate between seasons. Boar with bristles that carry a faint metallic sheen in certain
+        light. Bears whose fur, when the animal is old enough, develops patches of deep indigo that no dye can
+        replicate.</p>
+
+        <p>Mountain regions harbor snow monkeys in the heights, along with goats and ibex adapted to the thin air and
+        crystalline terrain of the upper peaks. The Tenchūsan Ren is known for a large species of mountain cat —
+        solitary, grey-furred, rarely seen — that local villages regard with superstitious respect and a practical
+        desire to keep their livestock behind strong fences.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 240
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 8XVVs0Zwt7Sy7I62
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.8XVVs0Zwt7Sy7I62'
+    name: Avian
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Cranes, herons, and egrets are common along waterways and are culturally significant — crane imagery appears
+        in clan heraldry, religious iconography, and wedding ceremonies. Birds of prey include hawks, eagles, and a
+        species of mountain falcon prized by the nobility for hunting. Corvids — crows, ravens, and jays — are
+        ubiquitous and regarded with a wariness that reflects their association with tengu.</p>
+
+        <p>The forests support a variety of songbirds whose calls are distinct enough that experienced travelers use
+        them for navigation and weather prediction. The nightjars of the Yōsei Mori produce a call that resonates with
+        sei, creating a harmonic that skilled listeners can use to detect magical activity in the area — though whether
+        the birds do this deliberately or incidentally is unknown.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 250
+    ownership:
+      default: 2
+    flags: {}
+  - _id: x3IWcbNd7HBPxMoF
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.x3IWcbNd7HBPxMoF'
+    name: Aquatic
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The rivers and inland seas of Hokori support extensive freshwater fisheries. The goldtail fish — named for
+        the iridescent gold flash of its tail fin — is commercially and culturally important, with seasonal runs during
+        Aki that define the economic calendar of riverside settlements. Serenia-kai, the great inland sea, supports its
+        own ecosystem of fish, crustaceans, and the occasional large predator whose exact nature is a matter of
+        fishermen&#39;s debate.</p>
+
+        <p>Coastal waters harbor species familiar to any maritime culture — tuna, mackerel, octopus, various shellfish —
+        alongside less explicable things. Deep-water fishermen report sightings of bioluminescent creatures at depth
+        that do not correspond to any catalogued species.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 260
+    ownership:
+      default: 2
+    flags: {}
+  - _id: hce10o27bDDzgORH
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.hce10o27bDDzgORH'
+    name: Insects & Minor Creatures
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Fireflies in Kagekuni produce light in colors that shift with the season and, in sei-rich areas, with the
+        phase of the nearest moon. Silk moths are commercially essential — the silk trade is a backbone of several
+        provincial economies — and the moths themselves have been selectively bred for millennia, producing varieties
+        that generate silk of unusual properties: threads that hold dye with preternatural permanence, fibers that
+        resist rot, and in rare cases, silk that conducts sei in ways that interest the Seishin Enclave greatly.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 270
+    ownership:
+      default: 2
+    flags: {}
+  - _id: xlUvv44fj4MBCH5d
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.xlUvv44fj4MBCH5d'
+    name: Taikobutsu — Ancient Creatures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Kagekuni is old. The Progenitor era stretches back over eight millennia, and the land was not empty before
+        the dragons arrived. Occasionally, things surface — literally — that belong to epochs the historical record does
+        not cover.</p>
+
+        <p>Pre-imperial ruins in remote locations sometimes contain guardian constructs that still function: stone
+        figures that animate when specific thresholds are crossed, metal mechanisms that track intruders with eyeless
+        heads, silk-wrapped bundles that unfold into something neither alive nor dead but very much still on duty. These
+        constructs are powered by sei configurations that predate modern understanding, and the fact that they survived
+        the three-thousand-year drought implies engineering of extraordinary sophistication — or materials that store
+        sei in ways current seimasters cannot replicate.</p>
+
+        <p>The founding-era temple complexes were built with a sophistication of sei-integrated construction beyond
+        anything the current era can reproduce. The magic woven into their foundations is not battle magic or
+        enchantment in the conventional sense; it is foundational, structural, as though sei were used as a building
+        material alongside stone and timber. What this implies about the entities that may have been bound into those
+        structures as part of their construction is a question worth considering before entering such places.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 280
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JPM19p9kBGksDnV1
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.JPM19p9kBGksDnV1'
+    name: Nagaji
+    type: text
+    title:
+      show: true
+      level: 2
     image: {}
     text:
       format: 1
@@ -141,17 +958,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 290
     ownership:
       default: 2
     flags: {}
-  - _id: GxXuVjkl181EIBVN
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.GxXuVjkl181EIBVN'
+  - _id: 3h3etyhMfaD0A9c0
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.3h3etyhMfaD0A9c0'
     name: General Physiology
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -175,17 +992,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 50
+    sort: 300
     ownership:
       default: 2
     flags: {}
-  - _id: 14CdK6dY2GbhCIuv
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.14CdK6dY2GbhCIuv'
+  - _id: 1M1PGB6Ur9qAOc0B
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.1M1PGB6Ur9qAOc0B'
     name: Observed Variants
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -200,17 +1017,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 60
+    sort: 310
     ownership:
       default: 2
     flags: {}
-  - _id: c4BJbrTLtXgXVwXE
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.c4BJbrTLtXgXVwXE'
+  - _id: b4JqNRDlU0rCM9r9
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.b4JqNRDlU0rCM9r9'
     name: Ashigaru
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -245,17 +1062,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 70
+    sort: 320
     ownership:
       default: 2
     flags: {}
-  - _id: 6IXQksdxv0u0yELS
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.6IXQksdxv0u0yELS'
+  - _id: sG6YTeB3L1iegBLG
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.sG6YTeB3L1iegBLG'
     name: Hohei
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -288,17 +1105,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 80
+    sort: 330
     ownership:
       default: 2
     flags: {}
-  - _id: bZ8ZUUvEtdjH6Ped
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.bZ8ZUUvEtdjH6Ped'
+  - _id: 7aNgi9mXUKWTdvuF
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.7aNgi9mXUKWTdvuF'
     name: Bushi
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -333,17 +1150,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 90
+    sort: 340
     ownership:
       default: 2
     flags: {}
-  - _id: YF3c6Kubq2f8KVpI
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.YF3c6Kubq2f8KVpI'
+  - _id: IYneriBXLzsOzPxj
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.IYneriBXLzsOzPxj'
     name: Kannushi
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -375,17 +1192,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 100
+    sort: 350
     ownership:
       default: 2
     flags: {}
-  - _id: Z1jdmbBFKj0nmFcS
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Z1jdmbBFKj0nmFcS'
+  - _id: AN8us5id0y3xtlFx
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.AN8us5id0y3xtlFx'
     name: Sōhei
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -419,17 +1236,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 110
+    sort: 360
     ownership:
       default: 2
     flags: {}
-  - _id: Qwpeg69k9iPestja
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Qwpeg69k9iPestja'
+  - _id: H7jBXavNtHeburwf
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.H7jBXavNtHeburwf'
     name: Zasu
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -474,17 +1291,17 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 120
+    sort: 370
     ownership:
       default: 2
     flags: {}
-  - _id: YogBl3jKJziYq7sJ
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.YogBl3jKJziYq7sJ'
+  - _id: pMwOwkVpKHzQnQmk
+    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.pMwOwkVpKHzQnQmk'
     name: Squad Tactics
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -516,823 +1333,6 @@ pages:
         <p><strong>Avoidance behavior:</strong> Nagaji have been observed avoiding certain spaces entirely — areas with
         strong residual magical presence or specific environmental qualities. Whether this reflects fear, discomfort, or
         something else is unknown, but it is consistent and can be exploited by those who recognize the pattern.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 130
-    ownership:
-      default: 2
-    flags: {}
-  - _id: A5qaDal6OIQQRSjp
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.A5qaDal6OIQQRSjp'
-    name: Dragons
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The seven Progenitor Dragons founded the civilization of Kagekuni in the deep past. Their dragon clans —
-        Crimson, Azure, Emerald, Onyx, Golden, Silver, and Amethyst — established the framework of society, religion,
-        and magical practice that persists to this day. They are remembered as historical and mythological figures whose
-        legacy shapes every aspect of life in the Shrouded Isles.</p>
-
-        <p>Non-Progenitor dragons are extraordinarily rare in the current era. Sightings occur perhaps once in a
-        generation, usually in remote locations — the volcanic peaks of Fushichō, the deep waters around Kawa, the
-        highest ridges of the Tenchūsan Ren. These encounters are poorly documented because the witnesses tend to be
-        isolated travelers whose accounts are received with skepticism.</p>
-
-        <p>Dragon eggs surface occasionally in excavations, in the hoards of other creatures, or in the treasure vaults
-        of noble houses. They are believed to be fossils of the founding era — beautiful, collectible, and prized as
-        relics.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 140
-    ownership:
-      default: 2
-    flags: {}
-  - _id: ZbEGVrxShJQmdV7S
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ZbEGVrxShJQmdV7S'
-    name: Ryūjin
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Dragon-blooded beings. Not dragonborn — who are a distinct race claiming descent from the Progenitors — but
-        creatures in which draconic blood manifests as something between beast and legend. A ryūjin might appear as an
-        enormous serpent with vestigial wings, or a lizard the size of a war-horse with scales that refract light into
-        colors that don&#39;t exist in the normal spectrum.</p>
-
-        <p>Ryūjin are tied to specific environments and elements. A river ryūjin commands the currents and can call
-        floods or droughts. A mountain ryūjin causes tremors and rockslides, sometimes deliberately and sometimes as a
-        byproduct of rolling over in its sleep. They are venerated in local tradition and placated with offerings, and
-        the distinction between a ryūjin and a kami is a subject of ongoing theological debate.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 150
-    ownership:
-      default: 2
-    flags: {}
-  - _id: 2cFywWmR73zzt36y
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.2cFywWmR73zzt36y'
-    name: Introduction
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Sei does not merely fuel magic. It saturates the world, and where it pools or flows in concentrated currents,
-        the things that live in those currents change. The sei drought suppressed this process for three millennia.
-        Since the Great Awakening, it has resumed — and the world is still adjusting.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 160
-    ownership:
-      default: 2
-    flags: {}
-  - _id: OaMZdRsKugJ84jmU
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.OaMZdRsKugJ84jmU'
-    name: Sei Beasts
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Ordinary animals exposed to elevated sei concentrations over time. The changes are cumulative and
-        unpredictable: a deer in the Yōsei Mori might grow a third eye that perceives sei flows, or develop antlers of
-        crystallized amber that resonate in the presence of magic. A hawk nesting near a sei wellspring might produce
-        offspring with feathers of metallic bronze that cut like razors.</p>
-
-        <p>Sei beasts are not inherently aggressive, but they are often territorial in ways their mundane counterparts
-        are not, and their altered physiology can make them dangerous even without hostile intent. A sei-touched boar
-        that generates localized tremors when it charges is not trying to hurt anyone — it&#39;s just running. The
-        tremors are incidental. The fact that they can collapse a hillside is a separate problem.</p>
-
-        <p>The Yōsei Mori in @UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa} province has the
-        highest concentration of sei beasts in Hokori. Deeper reaches of the forest harbor creatures of significantly
-        elevated intelligence — animals that plan, coordinate, and in some cases appear to communicate in ways that defy
-        natural explanation.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 170
-    ownership:
-      default: 2
-    flags: {}
-  - _id: xkqLCFi7AyXL29fE
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.xkqLCFi7AyXL29fE'
-    name: Sei Aberrations
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>When sei concentrations spike beyond what the local environment can integrate, the result is not gradual
-        change but sudden, violent transformation. Sei aberrations are creatures — or were creatures — that have been
-        overwhelmed by magical energy. Their bodies twist, merge with their surroundings, or develop properties that
-        contradict their original nature: a fish that burns, a bird made of liquid stone, a tree that bleeds and screams
-        when cut.</p>
-
-        <p>Sei aberrations are unpredictable and almost always hostile, not because they choose to be but because the
-        transformation is agonizing and they lash out at anything nearby. They are most common near sei wellsprings, ley
-        line intersections, and sites where magical catastrophes have occurred. The ruins of pre-Aphelion institutions —
-        temples, laboratories, libraries — are particularly prone to aberration formation, as residual enchantments
-        interact with returning sei in ways their builders never anticipated.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 180
-    ownership:
-      default: 2
-    flags: {}
-  - _id: ai1O6O1piVuYSQCJ
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ai1O6O1piVuYSQCJ'
-    name: Nagaji
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: "<p>Serpentine humanoids of unknown origin, reported in increasing numbers across the mountainous interior of Hokori. Enough has been observed of their behavior, physiology, and organization to warrant a dedicated entry.</p>\n<p><em lang=\"ja-Latn\">See: <a href=\"Nagaji\">Nagaji</a></em>\n\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0</p>\n"
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 190
-    ownership:
-      default: 2
-    flags: {}
-  - _id: JoZE7jAUj4yo38Bt
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.JoZE7jAUj4yo38Bt'
-    name: Taikobutsu — Ancient Creatures
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Kagekuni is old. The Progenitor era stretches back over eight millennia, and the land was not empty before
-        the dragons arrived. Occasionally, things surface — literally — that belong to epochs the historical record does
-        not cover.</p>
-
-        <p>Pre-imperial ruins in remote locations sometimes contain guardian constructs that still function: stone
-        figures that animate when specific thresholds are crossed, metal mechanisms that track intruders with eyeless
-        heads, silk-wrapped bundles that unfold into something neither alive nor dead but very much still on duty. These
-        constructs are powered by sei configurations that predate modern understanding, and the fact that they survived
-        the three-thousand-year drought implies engineering of extraordinary sophistication — or materials that store
-        sei in ways current seimasters cannot replicate.</p>
-
-        <p>The founding-era temple complexes were built with a sophistication of sei-integrated construction beyond
-        anything the current era can reproduce. The magic woven into their foundations is not battle magic or
-        enchantment in the conventional sense; it is foundational, structural, as though sei were used as a building
-        material alongside stone and timber. What this implies about the entities that may have been bound into those
-        structures as part of their construction is a question worth considering before entering such places.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 200
-    ownership:
-      default: 2
-    flags: {}
-  - _id: iBLP0p1f3RBGRtVK
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.iBLP0p1f3RBGRtVK'
-    name: Introduction
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Kagekuni&#39;s natural fauna reflects the archipelago&#39;s varied geography — mountainous interiors, dense
-        forests, river valleys, and extensive coastlines — filtered through the fundamental strangeness of Seizan.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 210
-    ownership:
-      default: 2
-    flags: {}
-  - _id: kVKkVjHf7CFkLS5Y
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.kVKkVjHf7CFkLS5Y'
-    name: Terrestrial
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The forests of Hokori support populations of deer, boar, bear, fox, and wolf, along with smaller mammals that
-        fill the expected ecological niches. What makes them Kagekuni&#39;s own is the cosmetic: deer with pelts that
-        shift from copper to slate between seasons. Boar with bristles that carry a faint metallic sheen in certain
-        light. Bears whose fur, when the animal is old enough, develops patches of deep indigo that no dye can
-        replicate.</p>
-
-        <p>Mountain regions harbor snow monkeys in the heights, along with goats and ibex adapted to the thin air and
-        crystalline terrain of the upper peaks. The Tenchūsan Ren is known for a large species of mountain cat —
-        solitary, grey-furred, rarely seen — that local villages regard with superstitious respect and a practical
-        desire to keep their livestock behind strong fences.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 220
-    ownership:
-      default: 2
-    flags: {}
-  - _id: 0lV1xb0KoOsCBC9f
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.0lV1xb0KoOsCBC9f'
-    name: Avian
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Cranes, herons, and egrets are common along waterways and are culturally significant — crane imagery appears
-        in clan heraldry, religious iconography, and wedding ceremonies. Birds of prey include hawks, eagles, and a
-        species of mountain falcon prized by the nobility for hunting. Corvids — crows, ravens, and jays — are
-        ubiquitous and regarded with a wariness that reflects their association with tengu.</p>
-
-        <p>The forests support a variety of songbirds whose calls are distinct enough that experienced travelers use
-        them for navigation and weather prediction. The nightjars of the Yōsei Mori produce a call that resonates with
-        sei, creating a harmonic that skilled listeners can use to detect magical activity in the area — though whether
-        the birds do this deliberately or incidentally is unknown.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 230
-    ownership:
-      default: 2
-    flags: {}
-  - _id: jEu7tauiDCXXS9oI
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.jEu7tauiDCXXS9oI'
-    name: Aquatic
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The rivers and inland seas of Hokori support extensive freshwater fisheries. The goldtail fish — named for
-        the iridescent gold flash of its tail fin — is commercially and culturally important, with seasonal runs during
-        Aki that define the economic calendar of riverside settlements. Serenia-kai, the great inland sea, supports its
-        own ecosystem of fish, crustaceans, and the occasional large predator whose exact nature is a matter of
-        fishermen&#39;s debate.</p>
-
-        <p>Coastal waters harbor species familiar to any maritime culture — tuna, mackerel, octopus, various shellfish —
-        alongside less explicable things. Deep-water fishermen report sightings of bioluminescent creatures at depth
-        that do not correspond to any catalogued species.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 240
-    ownership:
-      default: 2
-    flags: {}
-  - _id: QOIRXk6kzh2RH0N7
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.QOIRXk6kzh2RH0N7'
-    name: Insects & Minor Creatures
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Fireflies in Kagekuni produce light in colors that shift with the season and, in sei-rich areas, with the
-        phase of the nearest moon. Silk moths are commercially essential — the silk trade is a backbone of several
-        provincial economies — and the moths themselves have been selectively bred for millennia, producing varieties
-        that generate silk of unusual properties: threads that hold dye with preternatural permanence, fibers that
-        resist rot, and in rare cases, silk that conducts sei in ways that interest the Seishin Enclave greatly.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 250
-    ownership:
-      default: 2
-    flags: {}
-  - _id: Wvm6oiC7l5lsfACu
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Wvm6oiC7l5lsfACu'
-    name: Introduction
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Yokai are creatures of inherent supernatural nature — not spirits of the dead, not divine, not ordinary
-        beasts gone wrong. They exist because the world has room for them, because sei flows through living things and
-        some living things are stranger than others. Most yokai are intelligent. Many are ancient. A few are friendly,
-        though &quot;friendly&quot; is a relative term when the creature in question can swallow a horse.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 260
-    ownership:
-      default: 2
-    flags: {}
-  - _id: Eqk8O3z1C3H36NRF
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.Eqk8O3z1C3H36NRF'
-    name: Oni
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The great horned demons of Kagekuni are as much a part of the mountains as the stone itself. They come in
-        colors — red, blue, black, green — and each color carries different associations in local folklore, though the
-        oni themselves don&#39;t seem to care what stories are told about them.</p>
-
-        <p>Oni are territorial, physical, and direct. They favor high places: mountain passes, cliff faces, abandoned
-        fortifications. A lone oni will claim a stretch of road and exact tribute from travelers — food,
-        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake}, occasionally a fight for the sport of it. An oni
-        band, which is rarer and more dangerous, will fortify a position and hold it against anything short of an
-        army.</p>
-
-        <p>They are not stupid. An oni negotiating toll fees will remember a slight for decades. An oni given genuine
-        respect — not fear, respect — may become a surprisingly reliable neighbor. Villages near known oni territory
-        sometimes maintain formal arrangements: offerings left at specific stones on specific days, and in return the
-        oni discourages bandits and worse things from using the same road.</p>
-
-        <p>During the sei drought, oni populations declined sharply. Many retreated underground or fell into torpor.
-        Since the Great Awakening, sightings have risen steadily, and some oni have emerged disoriented and aggressive
-        after millennia of sleep — a problem for the settlements that grew up in their territory while they
-        slumbered.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 270
-    ownership:
-      default: 2
-    flags: {}
-  - _id: xMhEJFi0Aa8N6u9Y
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.xMhEJFi0Aa8N6u9Y'
-    name: Tengu
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Tengu inhabit the deep mountain forests and high ridgelines where the canopy thins and the wind carries the
-        smell of pine resin and distant snow. They appear as tall, thin humanoids with corvid features — black-feathered
-        wings, sharp dark eyes, beaked faces that manage to convey expressions no beak should be capable of.</p>
-
-        <p>They are warriors without peer. The legendary swordsmanship schools of Kagekuni trace their lineage to tengu
-        instructors, and the debt is not metaphorical — tengu did teach human swordsmen, centuries ago, and some still
-        do. A tengu who deems a mortal worthy of instruction will appear uninvited, train the student to the point of
-        exhaustion and beyond, then vanish without explanation. The student is expected to understand the lesson
-        eventually. Tengu do not explain themselves.</p>
-
-        <p>Tengu society is hierarchical and secretive. The greater tengu — the Daitengu — are beings of considerable
-        power, rumored to command weather and move through sei as birds move through air. The lesser tengu, the Kotengu,
-        are more numerous and more volatile: tricksters, thieves, and occasional allies who delight in humbling the
-        proud and rewarding the humble. They are particularly fond of embarrassing monks whose piety exceeds their
-        actual virtue.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 280
-    ownership:
-      default: 2
-    flags: {}
-  - _id: bSjXOeMrZSMJNMGI
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.bSjXOeMrZSMJNMGI'
-    name: Kitsune
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Fox spirits. The most well-known and most misunderstood of the yokai.</p>
-
-        <p>A kitsune appears, in its natural form, as a fox of unusual size and intelligence with fur that may be red,
-        white, silver, or — in the oldest and most powerful — gold. They are shapeshifters who can assume human form
-        with enough skill to pass undetected for years or even decades. The number of tails a kitsune possesses reflects
-        its age and power: a young kitsune has one; the legendary nine-tailed elders are beings of near-divine
-        potency.</p>
-
-        <p>Kitsune are drawn to interesting people and interesting situations, which makes them unpredictable. Some
-        serve as guardians of specific places — shrines, crossroads, ancient groves. Others attach themselves to mortals
-        out of curiosity, affection, or an amusement that can look identical to malice from the outside. A kitsune&#39;s
-        gifts always come with complications. A kitsune&#39;s tricks always contain a lesson, though the lesson may not
-        become clear for years.</p>
-
-        <p>They are deeply tied to the spirit world and to sei. Kitsune illusions are not mere glamour — they reshape
-        perception at a fundamental level, and a sufficiently powerful kitsune can make the illusory real, if only
-        temporarily. Fire is their traditional element: foxfire, the cold blue flame that marks kitsune territory, burns
-        without heat but illuminates things that ordinary light cannot reveal.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 290
-    ownership:
-      default: 2
-    flags: {}
-  - _id: grYzz6r6G2EIKoly
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.grYzz6r6G2EIKoly'
-    name: Tanuki
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The raccoon-dogs of Kagekuni are shapeshifters like kitsune, but where kitsune are elegant and calculating,
-        tanuki are exuberant, gluttonous, and absolutely shameless. A tanuki disguised as a merchant will sell you
-        leaves that look like gold coins — and the deception will hold just long enough for the tanuki to spend the real
-        coins you gave as change on @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} and tempura.</p>
-
-        <p>Tanuki are social creatures who gather in loose communities near human settlements, drawn by the availability
-        of food, drink, and entertainment. They are excellent mimics, passable musicians, and terrible liars who succeed
-        anyway through sheer confidence and the fact that people don&#39;t expect a pot-bellied creature with a leaf on
-        its head to be running an elaborate confidence scheme.</p>
-
-        <p>Despite their reputation as comic figures, tanuki are not harmless. An angry tanuki can reshape its body into
-        something much larger and much less amusing. A tanuki protecting its young will fight with a ferocity that
-        surprises creatures who only know the jolly sake-drinking version. And old tanuki — the ones who have lived long
-        enough to stop caring whether anyone finds them funny — are shapeshifters of alarming skill who can maintain
-        disguises indefinitely and have been known to replace village headmen for months without detection.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 300
-    ownership:
-      default: 2
-    flags: {}
-  - _id: bu27K5VVtlSCXTDa
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.bu27K5VVtlSCXTDa'
-    name: Jorogumo
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The spider-women of the deep forests and abandoned estates. A jorogumo appears as a beautiful woman — or as
-        an enormous spider the size of a small horse — and the transition between the two forms is disturbingly fluid.
-        They spin webs of silk so fine it catches light like water, and their lairs are decorated with an aesthetic
-        sensibility that would be admirable if the decorations didn&#39;t include the drained husks of previous
-        visitors.</p>
-
-        <p>Jorogumo are patient, intelligent, and profoundly solitary. They claim territories — a ruined villa, a cave
-        behind a waterfall, a particular stretch of forest path — and weave elaborate traps for anything that wanders
-        in. Their webs conduct sei, and a jorogumo sitting at the center of her web can feel vibrations from hundreds of
-        feet away, reading the approach of prey through tremors in the silk.</p>
-
-        <p>They are not mindless predators. A jorogumo who has recently fed may invite a traveler to tea, make polite
-        conversation, and allow them to leave unharmed — though she will remember their face and their scent, and if
-        they return she will expect them to bring a gift. Jorogumo appreciate poetry, fine fabric, and musical skill.
-        They despise dishonesty, which is ironic given that their primary hunting strategy is deception.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 310
-    ownership:
-      default: 2
-    flags: {}
-  - _id: wuWNkFanXiks3yva
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.wuWNkFanXiks3yva'
-    name: Nure-Onna
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The wet women of rivers and coastal marshes. They appear as women from the waist up, with the body of an
-        enormous serpent below — though they can compress their lower form enough to wade through shallows and appear
-        merely waist-deep in water. Their hair is perpetually wet and black as lacquer, and their faces are beautiful in
-        the specific way that a riptide is beautiful: compelling and absolutely lethal.</p>
-
-        <p>Nure-onna haunt river crossings, bridges, and tidal flats. Their preferred method is to appear holding a
-        bundle wrapped in cloth and crying for help — a lost child, a drowning infant. When a compassionate traveler
-        approaches and takes the bundle, it becomes impossibly heavy, pinning them in place while the nure-onna strikes.
-        The bundle contains nothing but river stones and malice.</p>
-
-        <p>They are territorial and aggressive, and unlike many yokai, they show little interest in conversation or
-        negotiation. A river known to harbor a nure-onna will be marked with warning shimenawa by local villagers, and
-        fords will be relocated upstream at considerable expense rather than risk the crossing.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 320
-    ownership:
-      default: 2
-    flags: {}
-  - _id: ngCNdN49acQKls61
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.ngCNdN49acQKls61'
-    name: Tsukumogami
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Objects that have existed for one hundred years and, through long use and the slow accumulation of sei, have
-        awakened into something like consciousness. A tea kettle that hops off its hook at midnight. An umbrella that
-        opens itself in sunshine and closes in rain, spitefully. A writing brush that produces calligraphy of startling
-        beauty when no one is holding it.</p>
-
-        <p>Tsukumogami are the most common yokai in Kagekuni, though most go unrecognized. They are minor spirits —
-        rarely dangerous, frequently annoying, occasionally helpful. A household that treats its tools and implements
-        with respect will find them lasting longer and working better; a household that is careless with its possessions
-        may wake one morning to find every pot in the kitchen rearranged and the broom hiding behind the woodpile.</p>
-
-        <p>Since the Great Awakening, the rate of tsukumogami manifestation has increased noticeably. Seimasters debate
-        whether this reflects higher ambient sei, accumulated potential finally expressing after the drought, or simply
-        that people are paying closer attention. Whatever the cause, households across Kagekuni are discovering that
-        their grandmother&#39;s mirror has opinions about its placement.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 330
-    ownership:
-      default: 2
-    flags: {}
-  - _id: kKnjNIMEIaAPkMrX
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.kKnjNIMEIaAPkMrX'
-    name: Introduction
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Death in Kagekuni is not always permanent, and it is rarely clean. The dead who linger do so because
-        something binds them — an oath unfulfilled, a wrong unavenged, a love that outlasted the body. They are called
-        yurei, and they are treated with a mixture of pity, fear, and practical concern.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 340
-    ownership:
-      default: 2
-    flags: {}
-  - _id: HKDVuUir26irGIj1
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.HKDVuUir26irGIj1'
-    name: Yurei
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The classic restless dead. They appear in white burial kimono, hair unbound, feet that do not quite touch the
-        ground. Their forms are translucent but visible, and the temperature drops in their presence — a cold that
-        settles into the bones and does not leave quickly.</p>
-
-        <p>Yurei are bound to specific places, people, or purposes. A yurei haunting the place of their death may replay
-        their final moments endlessly, unaware of the living. A yurei seeking vengeance will pursue their target with
-        patient, relentless focus, appearing at the edges of rooms and in reflections until the moment they strike. A
-        yurei bound by love will simply... wait, in the place where they were happiest, for a reunion that may never
-        come.</p>
-
-        <p>The most dangerous yurei are those who have forgotten why they linger. Their original purpose has been
-        satisfied or has become meaningless, but the binding holds. These confused dead become increasingly hostile over
-        time, lashing out at the living not from malice but from a formless anguish they can no longer articulate.</p>
-
-        <p>Proper funeral rites prevent most hauntings. Shrines dedicated to ancestor veneration help maintain the
-        boundary. When a yurei does manifest, the most reliable resolution is to identify and address the binding cause
-        — which may require investigation, negotiation, or acts of restitution that the living find inconvenient.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 350
-    ownership:
-      default: 2
-    flags: {}
-  - _id: DEo3RqfmycVVXkdZ
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.DEo3RqfmycVVXkdZ'
-    name: Bōrei
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>A bōrei is a yurei of unusual potency — a spirit whose binding is so strong, whose will was so defined in
-        life, that they persist with something approaching full consciousness. They can speak, reason, and in some cases
-        interact physically with the world around them. They do not decay in the way lesser yurei do; a bōrei may haunt
-        a place for centuries without losing coherence.</p>
-
-        <p>Bōrei are rare and significant. A bōrei in a temple was almost certainly someone of great devotion or
-        authority. A bōrei in a castle was likely a lord or general whose duty extended past death. They can be
-        communicated with — carefully — and may possess knowledge that no living person retains.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 360
-    ownership:
-      default: 2
-    flags: {}
-  - _id: qeiczMzIGXiGdllQ
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.qeiczMzIGXiGdllQ'
-    name: Gashadokuro
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>The great skeletons. When a mass death occurs — a battle, a famine, a plague — and the dead are not properly
-        honored, the accumulated resentment of the forgotten coalesces into a single enormous skeletal figure, fifteen
-        to twenty feet tall, assembled from the bones of the unburied. A gashadokuro makes no sound except the faint
-        rattle of its joints and the grinding of its teeth. It hunts at night, drawn to the living by the warmth of
-        their blood, and it bites the heads off its victims with a casualness that borders on contempt.</p>
-
-        <p>They are extraordinarily difficult to destroy. Scattering the bones only delays the reassembly. The only
-        permanent solution is to identify the mass death that created it and perform proper funerary rites for every
-        victim — a task that may require historical research, excavation, and the cooperation of priests who would
-        rather not dig up battlefields.</p>
-
-        <p>The current conflict between the Arashi and Genso alliances — with its border skirmishes, unmarked graves,
-        and soldiers lost in mountain passes — has led some scholars to worry about the conditions such violence leaves
-        in its wake.</p>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 370
-    ownership:
-      default: 2
-    flags: {}
-  - _id: GIRI6tvUtqLFfjF1
-    _key: '!journal.pages!2ksZmpD2sVpeUB0Q.GIRI6tvUtqLFfjF1'
-    name: Gaki
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >
-        <p>Hungry ghosts. The dead who were consumed by greed, gluttony, or obsession in life return as gaki —
-        emaciated, translucent figures with distended bellies and mouths too small to eat. They cluster around sources
-        of what they craved: food markets, treasure houses,
-        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} breweries. They cannot consume what they desire;
-        the attempt to do so causes them visible agony, which they repeat compulsively.</p>
-
-        <p>Gaki are pathetic more than dangerous, but in large numbers they create an aura of gnawing hunger that
-        affects the living — food spoils faster, drink tastes of ash, and the feeling of being perpetually unsatisfied
-        settles over anyone who lingers too long. Gaki clusters near famine sites or abandoned marketplaces are a
-        recognized hazard, and traveling monks sometimes perform the rites of feeding — offering symbolic sustenance
-        that, while it doesn&#39;t satisfy the gaki, briefly eases their suffering enough to thin the cluster.</p>
       markdown: ''
     video:
       controls: true

@@ -8,7 +8,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -46,7 +46,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -128,7 +128,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -152,7 +152,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -188,9 +188,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: SubaE7ASCUfkhl7C
-    _key: '!journal.pages!FAOlL8D3kPY1rEAc.SubaE7ASCUfkhl7C'
-    name: Introduction
+  - _id: XjbItsgQDFW8eGxN
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.XjbItsgQDFW8eGxN'
+    name: Religion and Mythology
     type: text
     title:
       show: true
@@ -350,7 +350,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>The founding dragons occupy a unique position in Kagekuni&#39;s spiritual landscape — elevated above saints,
         distinct from kami, revered as something closer to demigods. They are the seven Progenitors who ruled the
         archipelago before the first human emperor rose to power, and whose bloodlines, according to tradition, flow
@@ -479,28 +479,17 @@ pages:
         they convey is real.</p>
 
         <section class="secret kg-secret-sealed">
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 90
-    ownership:
-      default: 2
-    flags: {}
-  - _id: v45LwVRv04vI5A9y
-    _key: '!journal.pages!FAOlL8D3kPY1rEAc.v45LwVRv04vI5A9y'
-    name: DM Note — The Dragons Live
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >-
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Dragons Live</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
         <p>All seven founding dragons are still alive. They are not dead, not ascended, and not mythological. They are
         hidden — withdrawn into deep slumber across the archipelago, their locations known only to the <strong>Order of
         the Ancient Guard</strong>, the secret organisation dedicated to their protection.</p>
@@ -517,6 +506,9 @@ pages:
         sea. The shrines built in their honour sometimes sit directly above the sites where they rest.</p>
 
         </section>
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -524,7 +516,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 100
+    sort: 90
     ownership:
       default: 2
     flags: {}
@@ -565,7 +557,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 110
+    sort: 100
     ownership:
       default: 2
     flags: {}
@@ -579,7 +571,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <p>The tenth month of the calendar is called <strong>Kannazuki</strong> — the Month of No Gods. Tradition holds
         that during this month, the kami leave their shrines and territories to gather at a great convocation, leaving
         the mortal world temporarily unattended. Shrines see reduced attendance. Certain rituals are suspended. The
@@ -590,28 +582,17 @@ pages:
         priests for millennia without resolution.</p>
 
         <section class="secret kg-secret-sealed">
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 120
-    ownership:
-      default: 2
-    flags: {}
-  - _id: erodGotdiqWfNqva
-    _key: '!journal.pages!FAOlL8D3kPY1rEAc.erodGotdiqWfNqva'
-    name: DM Note — The True Origin of Kannazuki
-    type: text
-    title:
-      show: true
-      level: 2
-    image: {}
-    text:
-      format: 1
-      content: >-
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The True Origin of Kannazuki</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
         <p>The name is a historical fossil from the earliest age when the seven Progenitor dragons did physically gather
         during the tenth month. The tradition outlived the practice by millennia. The Ancient Guard recognises the irony
         — the &quot;Month of No Gods&quot; was originally the month when <em lang="ja-Latn">all</em> the gods were
@@ -619,6 +600,9 @@ pages:
         different reasons.</p>
 
         </section>
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -626,7 +610,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 130
+    sort: 110
     ownership:
       default: 2
     flags: {}
@@ -674,7 +658,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 140
+    sort: 120
     ownership:
       default: 2
     flags: {}
@@ -707,13 +691,13 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 150
+    sort: 130
     ownership:
       default: 2
     flags: {}
-  - _id: d8GrkJ3elAYL2euB
-    _key: '!journal.pages!FAOlL8D3kPY1rEAc.d8GrkJ3elAYL2euB'
-    name: Introduction
+  - _id: oxaSGPbxF9GZr3Si
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.oxaSGPbxF9GZr3Si'
+    name: The Great Aphelion
     type: text
     title:
       show: true
@@ -735,7 +719,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 160
+    sort: 140
     ownership:
       default: 2
     flags: {}
@@ -745,7 +729,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -845,7 +829,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 170
+    sort: 150
     ownership:
       default: 2
     flags: {}
@@ -855,7 +839,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -891,7 +875,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 180
+    sort: 160
     ownership:
       default: 2
     flags: {}
@@ -901,7 +885,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -923,7 +907,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 190
+    sort: 170
     ownership:
       default: 2
     flags: {}
@@ -933,7 +917,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -970,7 +954,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 200
+    sort: 180
     ownership:
       default: 2
     flags: {}
@@ -980,7 +964,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1001,7 +985,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 210
+    sort: 190
     ownership:
       default: 2
     flags: {}
@@ -1011,7 +995,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1041,7 +1025,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 220
+    sort: 200
     ownership:
       default: 2
     flags: {}
@@ -1051,7 +1035,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1083,7 +1067,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 230
+    sort: 210
     ownership:
       default: 2
     flags: {}
@@ -1093,7 +1077,7 @@ pages:
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
@@ -1107,7 +1091,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 240
+    sort: 220
     ownership:
       default: 2
     flags: {}
@@ -1117,7 +1101,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1134,7 +1118,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 250
+    sort: 230
     ownership:
       default: 2
     flags: {}
@@ -1144,7 +1128,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1160,7 +1144,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 260
+    sort: 240
     ownership:
       default: 2
     flags: {}
@@ -1170,7 +1154,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1186,7 +1170,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 270
+    sort: 250
     ownership:
       default: 2
     flags: {}
@@ -1196,7 +1180,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1211,7 +1195,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 280
+    sort: 260
     ownership:
       default: 2
     flags: {}
@@ -1221,7 +1205,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1236,7 +1220,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 290
+    sort: 270
     ownership:
       default: 2
     flags: {}
@@ -1246,7 +1230,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1264,7 +1248,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 300
+    sort: 280
     ownership:
       default: 2
     flags: {}
@@ -1274,7 +1258,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1289,7 +1273,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 310
+    sort: 290
     ownership:
       default: 2
     flags: {}
@@ -1299,7 +1283,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1316,7 +1300,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 320
+    sort: 300
     ownership:
       default: 2
     flags: {}
@@ -1326,7 +1310,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1343,7 +1327,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 330
+    sort: 310
     ownership:
       default: 2
     flags: {}
@@ -1353,7 +1337,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1368,7 +1352,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 340
+    sort: 320
     ownership:
       default: 2
     flags: {}
@@ -1378,7 +1362,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1394,7 +1378,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 350
+    sort: 330
     ownership:
       default: 2
     flags: {}
@@ -1404,7 +1388,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1428,7 +1412,7 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 360
+    sort: 340
     ownership:
       default: 2
     flags: {}

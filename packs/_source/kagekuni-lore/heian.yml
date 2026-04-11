@@ -173,7 +173,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <ul>
 
         <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura} -- Shugo (Governor) of
@@ -190,9 +190,9 @@ pages:
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -209,14 +209,15 @@ pages:
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura} -- Traitor in
-        Place</strong>
+        <p><strong>Hiroshi Nakamura -- Traitor in Place</strong>
 
         As Shugo, Hiroshi has near-total access to Clan Kaminari&#39;s intelligence and administrative operations. He is
         feeding intelligence to an outside party and has been for at least three years. He is aware that Hideo is
@@ -235,8 +236,7 @@ pages:
         Council, among other groups. Information exchanges here regularly under the social protection of tea ceremony
         neutrality. The staff are trained to notice and remember without appearing to.</p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura}&#39;s
-        Investigation</strong>
+        <p><strong>Hideo Nakamura&#39;s Investigation</strong>
 
         Hideo is hunting a traitor he does not yet know is his brother. He has narrowed the leak to a small circle of
         senior staff. The question is whether he reaches the conclusion before Hiroshi learns how close Hideo is and
@@ -251,16 +251,21 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura} asks the party to carry
-        out intelligence work he cannot assign to his own staff -- suggests he suspects someone close</li>
+        <li>Hideo Nakamura asks the party to carry out intelligence work he cannot assign to his own staff -- suggests
+        he suspects someone close</li>
 
         <li>An unusual request arrives from the sealed section of the Imperial Palace: someone inside has sent a note
         requesting outside contact; the Kokushi Kyokai doesn&#39;t know how this happened</li>
@@ -272,6 +277,7 @@ pages:
 
 
         </section>
+
       markdown: ''
     video:
       controls: true

@@ -75,7 +75,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >+
         <ul>
 
         <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} -- Village leader -&gt;
@@ -86,36 +86,35 @@ pages:
 
         <section class="secret kg-secret-discoverable">
 
-        <p><strong>Introduction</strong></p>
+        <p><strong>Details</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
         <li>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not
         gold, but something with remarkable properties.</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} has quietly sent a
-        sample to @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} for identification.</li>
+        <li>Yamamoto Kenji has quietly sent a sample to Heian for identification.</li>
 
         </ul>
 
 
         </section>
 
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>DM Secrets</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>What the Mine Actually Contains</strong>
 
         The deeper work face has started encountering a dark, lustrous metal with unusual properties: it doesn&#39;t
         rust, is harder than anything the village smith has worked, and holds an edge that standard iron cannot match.
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} has quietly sent a sample to
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}, but the political vacuum has slowed
-        response.</p>
+        Yamamoto Kenji has quietly sent a sample to Heian, but the political vacuum has slowed response.</p>
 
         <p>The material is a trace deposit of an alloy associated with Onyx Dragon Clan presence. Kokuryu&#39;s domain
         was never here, but volcanic geology has carried the material far from its origin. The vein is small but
@@ -130,11 +129,16 @@ pages:
 
         </section>
 
+
+
+
+
+
         <section class="secret kg-secret-sealed">
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p><em>sealed</em></p>
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -146,6 +150,7 @@ pages:
 
 
         </section>
+
       markdown: ''
     video:
       controls: true
