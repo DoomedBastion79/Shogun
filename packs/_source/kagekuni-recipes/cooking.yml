@@ -3,7 +3,7 @@ _key: '!journal!oqZ7C7B0aijPXJpQ'
 name: Kagekuni Cooking
 pages:
   - _id: p03P4Ntcn1HKzzC1
-    _key: '!journal.pages!p03P4Ntcn1HKzzC1'
+    _key: '!journal.pages!oqZ7C7B0aijPXJpQ.p03P4Ntcn1HKzzC1'
     name: Test Crafted Item
     type: mastercrafted.mastercrafted
     title:
@@ -54,6 +54,7 @@ pages:
       controls: true
       volume: 0.5
     src: null
+    category: null
     sort: 0
     ownership:
       default: 0
