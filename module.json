@@ -95,17 +95,6 @@
       }
     },
     {
-      "name": "recipes",
-      "label": "Recipes",
-      "path": "packs/kagekuni-recipes",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "NONE",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
       "name": "races",
       "label": "Races",
       "path": "packs/kagekuni-races",
@@ -164,7 +153,6 @@
         "items",
         "races",
         "classes",
-        "recipes",
         "classfeatures",
         "monsters"
       ]

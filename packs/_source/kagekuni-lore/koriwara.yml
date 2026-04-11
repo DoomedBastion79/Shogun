@@ -2,8 +2,8 @@ _id: 9NBSUIsBfb44L72D
 _key: '!journal!9NBSUIsBfb44L72D'
 name: Koriwara
 pages:
-  - _id: JChHwt0rhP1xsHgi
-    _key: '!journal.pages!9NBSUIsBfb44L72D.JChHwt0rhP1xsHgi'
+  - _id: NRyydZ19IblY2sUJ
+    _key: '!journal.pages!9NBSUIsBfb44L72D.NRyydZ19IblY2sUJ'
     name: Overview
     type: text
     title:
@@ -12,12 +12,22 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
-        lang="ja-Latn">&quot;Not every important place announces itself.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.9NBSUIsBfb44L72D]{Koriwara} sits in the foothills where
+        @UUID[Compendium.assistant.lore.JournalEntry.MLJk1KAijasQiUgh]{Mizu} province&#39;s maritime lowlands begin to
+        rise toward Hokori&#39;s interior ranges. It is unremarkable by any visible standard -- small-scale farming and
+        herding, modest architecture, a self-contained community with little need for outside contact. A traveler
+        passing through would find nothing to distinguish it from dozens of similar villages.</p>
 
-        </section>
+        <p>What distinguishes it cannot be seen from the road: the presence of Elder Sato Hideaki, whose decades of
+        accumulated knowledge, his connection to the Order of the Sacred Grove, and his quiet role as a node in networks
+        extending far beyond a mountain foothills village give Koriwara significance disproportionate to its size.</p>
+
+        <p>The sacred grove that Sato tends is a small stand of ancient trees on the hillside above the village, reached
+        by a foot path behind the northernmost homes. The grove is not marked, not fenced, not formally maintained -- it
+        simply exists, and the village has always known to leave it alone.</p>
+
+        <p>This is Relc&#39;s home village.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +39,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: WD6r0kSfFnAAplgn
-    _key: '!journal.pages!9NBSUIsBfb44L72D.WD6r0kSfFnAAplgn'
-    name: Known
+  - _id: 0GXnjuXiYSsLduoL
+    _key: '!journal.pages!9NBSUIsBfb44L72D.0GXnjuXiYSsLduoL'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -40,59 +50,23 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Koriwara sits in the foothills where Mizu province&#39;s maritime lowlands begin to rise toward Hokori&#39;s
-        interior ranges. It is unremarkable by any visible standard -- small-scale farming and herding, modest
-        architecture, a self-contained community with little need for outside contact. A traveler passing through would
-        find nothing to distinguish it from dozens of similar villages.</p>
-
-        <p>What distinguishes it cannot be seen from the road: the presence of Elder Sato Hideaki, whose decades of
-        accumulated knowledge, his connection to the Order of the Sacred Grove, and his quiet role as a node in networks
-        extending far beyond a mountain foothills village give Koriwara significance disproportionate to its size.</p>
-
-        <p>The sacred grove that Sato tends is a small stand of ancient trees on the hillside above the village, reached
-        by a foot path behind the northernmost homes. The grove is not marked, not fenced, not formally maintained -- it
-        simply exists, and the village has always known to leave it alone.</p>
-
-        <p>This is Relc&#39;s home village.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
         <ul>
 
         <li>Sato Hideaki -- Choro (Village Elder); 78 years old -&gt; npcs/sato-hideaki.md</li>
 
         </ul>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 20
-    ownership:
-      default: 2
-    flags: {}
-  - _id: OYwyg63tzUSFdfoo
-    _key: '!journal.pages!9NBSUIsBfb44L72D.OYwyg63tzUSFdfoo'
-    name: Discoverable (GM)
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
-        Ancient Guard, and Solas Evergreen.</li>
+        Ancient Guard, and @UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen}.</li>
 
         <li>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</li>
 
@@ -100,38 +74,22 @@ pages:
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: xyfwtrtpMSbMASFJ
-    _key: '!journal.pages!9NBSUIsBfb44L72D.xyfwtrtpMSbMASFJ'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>Sato&#39;s Full Knowledge</strong>
 
         Sato is a mid-rank member of the Order of the Sacred Grove. He has interacted with Order of the Ancient Guard
-        agents, including Solas Evergreen directly. He knows Solas was Ancient Guard (not just Sacred Grove). He knows
-        what the Ancient Guard is and broadly what it protects. He has not told Relc because he was following
-        Solas&#39;s instruction and because he judged Relc was not yet ready.</p>
+        agents, including @UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen} directly.
+        He knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and broadly what it
+        protects. He has not told Relc because he was following Solas&#39;s instruction and because he judged Relc was
+        not yet ready.</p>
 
         <p><strong>The Cipher Poem</strong>
 
@@ -146,17 +104,26 @@ pages:
         significantly superior capability or intimate familiarity -- someone Solas trusted. This points to either a very
         powerful practitioner or someone inside the Orders themselves.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
-        <li>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something
+        <li>Sato sends word through a traveling merchant heading toward
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}: he needs to speak with Relc; something
         has happened near the sacred grove</li>
 
         <li>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
         concerned about whether Relc is being watched</li>
 
         </ul>
+
 
         </section>
       markdown: ''
@@ -166,11 +133,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 20
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -184,8 +151,3 @@ flags:
       settlement_type: village
       island: hokori
       province: mizu
-      governing_clan: tbd
-      administrator: npcs/sato-hideaki.md
-      population: Small
-      climate: Foothills; transitional maritime to montane
-      tags: []

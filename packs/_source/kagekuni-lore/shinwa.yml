@@ -1,0 +1,1445 @@
+_id: FAOlL8D3kPY1rEAc
+_key: '!journal!FAOlL8D3kPY1rEAc'
+name: Shinwa
+pages:
+  - _id: 6ysIjnN3cSsCf7GG
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.6ysIjnN3cSsCf7GG'
+    name: The Divine Structure
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <ul>
+
+        <li><strong>Single supreme divine entity</strong> — analogous to Christianity&#39;s monotheism</li>
+
+        <li>Historical deities venerated as saint-equivalents — subordinate to supreme being</li>
+
+        <li>Shrines and temples may be dedicated to specific divine figures without contradicting monotheistic
+        faith</li>
+
+        <li>Different clans/regions have patron divine figures</li>
+
+        <li><strong>Dragons</strong> occupy a unique revered position — between saints-equivalent and kami</li>
+
+        <li>Kami (nature spirits) exist as a separate category of minor spiritual beings</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JM6KBwtwv1kErlgF
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.JM6KBwtwv1kErlgF'
+    name: The Seven Dragon Clans — Founding Era
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: |
+        <table>
+        <thead>
+        <tr>
+        <th>Clan</th>
+        <th>Dragon</th>
+        <th>Color</th>
+        <th>Island</th>
+        <th>Domain</th>
+        </tr>
+        </thead>
+        <tbody><tr>
+        <td><strong>Crimson Clan</strong></td>
+        <td>Akaryū</td>
+        <td>Red</td>
+        <td>Fushichō</td>
+        <td>Fire, volcanic power, strength</td>
+        </tr>
+        <tr>
+        <td><strong>Azure Clan</strong></td>
+        <td>Aoryū</td>
+        <td>Blue</td>
+        <td>Kawa</td>
+        <td>Water, storms, coastal protection</td>
+        </tr>
+        <tr>
+        <td><strong>Emerald Clan</strong></td>
+        <td>Midoryū</td>
+        <td>Green</td>
+        <td>Hokori</td>
+        <td>Nature, earth, healing, balance</td>
+        </tr>
+        <tr>
+        <td><strong>Onyx Clan</strong></td>
+        <td>Kokuryū</td>
+        <td>Black</td>
+        <td>Tatara</td>
+        <td>Shadow, darkness, cunning, mystery</td>
+        </tr>
+        <tr>
+        <td><strong>Golden Clan</strong></td>
+        <td>Kinryū</td>
+        <td>Gold</td>
+        <td>Hokori (central highlands)</td>
+        <td>Honor, justice, nobility, mediation</td>
+        </tr>
+        <tr>
+        <td><strong>Silver Clan</strong></td>
+        <td>Ginryū</td>
+        <td>Silver</td>
+        <td>Fuukajima</td>
+        <td>Grace, purity, ice, cold, moon/stars</td>
+        </tr>
+        <tr>
+        <td><strong>Amethyst Clan</strong></td>
+        <td>Murasakiryū</td>
+        <td>Purple</td>
+        <td>Shizukajima</td>
+        <td>Arcane knowledge, divination, mystical arts</td>
+        </tr>
+        </tbody></table>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: wspLHlxDtKhm6n6e
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.wspLHlxDtKhm6n6e'
+    name: First Emperor
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Tenryū no Mikado</strong> — descended from both Crimson and Golden bloodlines; united clans ~8000;
+        established first imperial dynasty</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: M1n2p1xfXKAEI7zv
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.M1n2p1xfXKAEI7zv'
+    name: Dragon Legacy in Society
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: |-
+        <ul>
+        <li>Dragonborn within Kugai claim descent from dragon founders — legitimizes noble authority</li>
+        <li>Many daimyo trace lineage to founding dragons</li>
+        <li>Temples, shrines, festivals honor dragon ancestors annually</li>
+        <li>The arcadian (elf) imperial line descended from dragon-settler intermingling</li>
+        </ul>
+
+        <section class="secret kg-secret-sealed">
+        <p><strong>Dragons Today — CRITICAL SECRET (DM Only)</strong></p>
+        <p><em>sealed</em></p>
+        <ul>
+        <li><strong>All seven founding dragons are still alive</strong> — hidden, withdrawn</li>
+        <li>World considers them purely historical and mythological</li>
+        <li>Dragons are extremely rare in current era — occasional individuals exist</li>
+        <li>Dragon eggs believed to be fossils — viability unknown to world at large</li>
+        <li>Dragon eggs are highly collectible</li>
+        <li><strong>The Order of the Ancient Guard exists specifically to protect the living dragons</strong></li>
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: SubaE7ASCUfkhl7C
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.SubaE7ASCUfkhl7C'
+    name: Introduction
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The spiritual life of Kagekuni is layered, ancient, and deeply woven into daily existence. There is no
+        separation between the sacred and the mundane — a farmer who plants rice in the spring does so with a prayer to
+        the kami of the paddy. A samurai who draws their blade offers a silent word to their ancestors. A merchant who
+        opens their shop at dawn bows to the small shrine beside the door, and means it. Religion in Kagekuni is not
+        practiced in isolation; it is practiced in everything.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 2f8whY6wykoI9zhW
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.2f8whY6wykoI9zhW'
+    name: The Divine
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>At the foundation of Kagekuni&#39;s faith is a single supreme divine being — an ultimate creator whose nature
+        is understood to transcend mortal comprehension. This entity is not named in common speech, not depicted in art,
+        and not the subject of direct worship in the way a familiar god might be. It simply is. The divine is the origin
+        point from which all other spiritual beings descend, the source of the natural order, and the reason the world
+        holds together rather than falling apart.</p>
+
+        <p>Beneath this supreme being, a hierarchy of venerated figures serves as intermediaries between the divine and
+        the mortal world. These figures — historical heroes, legendary seimasters, mythologised rulers, and great
+        spiritual teachers — occupy a role analogous to saints. Shrines and temples may be dedicated to specific figures
+        without contradiction; a shrine to a legendary healer and a shrine to a dragon ancestor both point upward toward
+        the same ultimate source.</p>
+
+        <p>This structure allows for enormous local variation. A fishing village on the coast of
+        @UUID[Compendium.assistant.lore.JournalEntry.RIEvGqWkHWedg3O6]{Nami} may venerate a storm-calming saint unknown
+        in the interior of @UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa}. A mountain monastery
+        may honour a philosopher whose name has never been spoken in
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}. The faith accommodates these differences
+        without strain — local devotion and universal truth coexist.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: iIZVQjFHsk3BjphE
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.iIZVQjFHsk3BjphE'
+    name: Kami — The Spirits of the World
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Kami are the spiritual inhabitants of the natural world — beings of place, element, and phenomenon who exist
+        alongside the mortal population. They are not gods. They are not saints. They are something else entirely:
+        presences that dwell in rivers, mountains, ancient trees, crossroads, waterfalls, and any place where the
+        natural world gathers unusual weight or beauty.</p>
+
+        <p>A kami may be benevolent, indifferent, or dangerous — and sometimes all three, depending on how it is
+        treated. The kami of a river might bless the villages along its banks with clean water and good fishing for
+        generations, then drown a child who wades too deep without offering respect. This is not cruelty. It is nature.
+        Kami do not operate by human morality. They operate by their own logic, which mortals can learn to read but
+        never fully control.</p>
+
+        <p>Shrines mark the resting places and territories of known kami. These range from grand structures maintained
+        by dedicated priests to simple roadside markers — a torii gate, a stone basin, a length of sacred rope tied
+        around an ancient tree. The distinction between a great shrine and a humble one is not a measure of the
+        kami&#39;s power but of the community&#39;s resources. A village kami honoured with a mossy stone and a daily
+        cup of rice may be every bit as potent as one housed in a lacquered hall.</p>
+
+        <p>Interaction with kami follows established protocols: purification before approach, offerings appropriate to
+        the spirit&#39;s nature, prayers spoken with correct form, and gratitude expressed whether the request is
+        granted or not. Disturbing a kami — through disrespect, pollution of its territory, or destruction of its shrine
+        — invites consequences that can persist for generations.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+  - _id: coXt5kNPHsydfMoA
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.coXt5kNPHsydfMoA'
+    name: Ancestor Veneration
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The dead do not leave. Not entirely. In Kagekuni&#39;s understanding, the boundary between the living and the
+        deceased is less a wall than a screen — translucent, permeable, and never quite solid. The ancestors watch. They
+        listen. And they care, deeply, about the conduct of their descendants.</p>
+
+        <p>Every household of any standing maintains a <strong>butsudan</strong> — a family shrine where the names,
+        images, and memorial tablets of the dead are kept. Daily offerings of rice, incense, water, and sometimes
+        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} are made to the ancestors, accompanied by prayers
+        that range from formal invocations to quiet conversation. A samurai may inform his grandfather&#39;s tablet of a
+        promotion. A merchant may ask a deceased parent&#39;s forgiveness for a poor decision. A child may simply say
+        good morning.</p>
+
+        <p>At the community level, temples maintain records of the dead and conduct ceremonies marking the anniversaries
+        of passing, seasonal remembrances, and festivals where the boundary between worlds thins and the ancestors are
+        believed to return briefly to the mortal realm. These are not sombre occasions — they are celebrations, feasts,
+        and reunions with the dead conducted in a spirit of joy and gratitude rather than grief.</p>
+
+        <p>Ancestor veneration carries practical weight in Kagekuni&#39;s political life. A daimyō whose ancestors
+        served with honour can invoke that legacy as a source of authority. A family whose ancestors committed shameful
+        acts may carry that burden for generations. The dead vote, in a sense — their reputation shapes the living&#39;s
+        standing in ways that no amount of present achievement can entirely overcome.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JASqWsgPK2OksWAy
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.JASqWsgPK2OksWAy'
+    name: The Seven Dragons
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The founding dragons occupy a unique position in Kagekuni&#39;s spiritual landscape — elevated above saints,
+        distinct from kami, revered as something closer to demigods. They are the seven Progenitors who ruled the
+        archipelago before the first human emperor rose to power, and whose bloodlines, according to tradition, flow
+        through the veins of the dragonborn elite and the imperial line itself.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Clan</th>
+
+        <th>Dragon</th>
+
+        <th>Color</th>
+
+        <th>Domain</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Crimson Clan</strong></td>
+
+        <td>Akaryū</td>
+
+        <td>Red</td>
+
+        <td>Fire, volcanic power, strength</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Azure Clan</strong></td>
+
+        <td>Aoryū</td>
+
+        <td>Blue</td>
+
+        <td>Water, storms, coastal protection</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Emerald Clan</strong></td>
+
+        <td>Midoryū</td>
+
+        <td>Green</td>
+
+        <td>Nature, earth, healing, balance</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Onyx Clan</strong></td>
+
+        <td>Kokuryū</td>
+
+        <td>Black</td>
+
+        <td>Shadow, darkness, cunning, mystery</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Golden Clan</strong></td>
+
+        <td>Kinryū</td>
+
+        <td>Gold</td>
+
+        <td>Honour, justice, nobility, mediation</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Silver Clan</strong></td>
+
+        <td>Ginryū</td>
+
+        <td>Silver</td>
+
+        <td>Grace, purity, ice, moon and stars</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Amethyst Clan</strong></td>
+
+        <td>Murasakiryū</td>
+
+        <td>Purple</td>
+
+        <td>Arcane knowledge, divination, mystical arts</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Each dragon clan once ruled from a specific island or region of the archipelago, and the cultural memory of
+        those domains persists in regional identity, local festivals, and the heraldry of the clans that claim descent
+        from them. Temples and shrines dedicated to the founding dragons are found across Kagekuni — some grand and
+        well-maintained, others ancient and half-forgotten, their stonework crumbling under moss and rain.</p>
+
+        <p>The first emperor, <strong>Tenryū no Mikado</strong>, is said to have descended from both the Crimson and
+        Golden bloodlines — fire and justice united in a single line. His unification of the warring dragon clans
+        approximately eight thousand years ago established the imperial dynasty and the political order that persists,
+        in increasingly fractured form, to this day.</p>
+
+        <p>In the current era, the founding dragons are considered historical and mythological figures. The world at
+        large believes them long dead or ascended beyond mortal reach. Dragon eggs — occasionally unearthed from ancient
+        sites — are treated as fossils and collectibles rather than signs of living beings.</p>
+
+        <p>Dragonborn within the Kugai elite claim direct descent from the founding dragons, and this claim forms the
+        bedrock of noble authority in many clans. Whether the genealogies are genuine or constructed, the social power
+        they convey is real.</p>
+
+        <section class="secret kg-secret-sealed">
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 2
+    flags: {}
+  - _id: v45LwVRv04vI5A9y
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.v45LwVRv04vI5A9y'
+    name: DM Note — The Dragons Live
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>All seven founding dragons are still alive. They are not dead, not ascended, and not mythological. They are
+        hidden — withdrawn into deep slumber across the archipelago, their locations known only to the <strong>Order of
+        the Ancient Guard</strong>, the secret organisation dedicated to their protection.</p>
+
+        <p>The world considers the Progenitors purely historical. The Ancient Guard works to maintain this belief,
+        understanding that the revelation of living dragons would destabilise every political, religious, and military
+        institution in Kagekuni simultaneously.</p>
+
+        <p>Dragon eggs are not fossils. Their viability is unknown to the world at large, but the Ancient Guard treats
+        them as potentially living.</p>
+
+        <p>The implications for religious life are profound: the saints and demigods that the faithful venerate are not
+        distant memories but sleeping beings, physically present somewhere beneath the mountains, the forests, or the
+        sea. The shrines built in their honour sometimes sit directly above the sites where they rest.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 100
+    ownership:
+      default: 2
+    flags: {}
+  - _id: SjhCul8iWYzX3mWv
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.SjhCul8iWYzX3mWv'
+    name: Ritual Purification
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Purification is the most universally practiced spiritual act in Kagekuni. It crosses caste, clan, and
+        regional boundaries. The principle is simple: contact with death, blood, illness, spiritual pollution, or moral
+        transgression creates impurity that must be cleansed before a person can properly interact with the sacred.</p>
+
+        <p>In practice, purification takes many forms. Water is the most common agent — the ritual washing of hands and
+        mouth at a shrine&#39;s <strong>temizuya</strong> (water basin) before entering. Salt is scattered at thresholds
+        to ward off impurity. Incense smoke purifies spaces. Priests perform formal ceremonies of cleansing for
+        individuals, buildings, and even weapons. Before a battle, entire armies may undergo purification rites — not
+        for divine protection, but to ensure they enter combat in a state of spiritual clarity.</p>
+
+        <p>The most significant purifications mark life transitions: birth, coming of age, marriage, and death. A house
+        where someone has died is purified before the living resume normal activity. A blade that has taken a life may
+        be ritually cleansed. A warrior returning from battle washes not just the blood from their skin but the
+        spiritual residue of killing from their soul.</p>
+
+        <p>This practice intersects with the caste system in uncomfortable ways. The Burakumin — whose occupations
+        involve constant contact with death and spiritual pollution — are considered permanently impure by those who
+        observe the strictest interpretations of purification law. Their segregation is, in part, a spiritual
+        justification layered over social prejudice.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 110
+    ownership:
+      default: 2
+    flags: {}
+  - _id: FVZcs5Ya9CtxqfUr
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.FVZcs5Ya9CtxqfUr'
+    name: Kannazuki — The Month of No Gods
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The tenth month of the calendar is called <strong>Kannazuki</strong> — the Month of No Gods. Tradition holds
+        that during this month, the kami leave their shrines and territories to gather at a great convocation, leaving
+        the mortal world temporarily unattended. Shrines see reduced attendance. Certain rituals are suspended. The
+        month carries a faint unease — a feeling of being unwatched, which in Kagekuni is not a comfort but a
+        vulnerability.</p>
+
+        <p>The name is ancient — far older than the current empire — and its origin has been debated by scholars and
+        priests for millennia without resolution.</p>
+
+        <section class="secret kg-secret-sealed">
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 2
+    flags: {}
+  - _id: erodGotdiqWfNqva
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.erodGotdiqWfNqva'
+    name: DM Note — The True Origin of Kannazuki
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The name is a historical fossil from the earliest age when the seven Progenitor dragons did physically gather
+        during the tenth month. The tradition outlived the practice by millennia. The Ancient Guard recognises the irony
+        — the &quot;Month of No Gods&quot; was originally the month when <em lang="ja-Latn">all</em> the gods were
+        present in one place. Now, with the Progenitors slumbering, the name is accidentally accurate again for entirely
+        different reasons.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 2
+    flags: {}
+  - _id: okYaQ2sJ15fNUVFv
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.okYaQ2sJ15fNUVFv'
+    name: Temples & Monastic Traditions
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Monasteries serve as centres of learning, contemplation, and — not infrequently — political refuge. The
+        monastic traditions of Kagekuni draw on a contemplative philosophy that emphasises mindfulness, detachment from
+        worldly desire, and the cultivation of inner stillness. Monks and nuns withdraw from the hierarchies of secular
+        life, though in practice monasteries are never entirely free from political entanglement.</p>
+
+        <p>Several monastic orders maintain influence across the archipelago:</p>
+
+        <p>The <strong>Order of the Tranquil Lotus</strong> on Unmeijima combines nature-focused spirituality with
+        rigorous physical discipline. Their elder,
+        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.AxEPHd8zzzGU9DdG]{Benkei}</strong> — a Guhuza of 198
+        years — is among the oldest known living individuals in Kagekuni.</p>
+
+        <p>The <strong>Order of the Sacred Grove</strong> follows a druidic tradition devoted to protecting specific
+        sacred sites. Their guardians tend individual locations for decades, maintaining a quiet vigil that most of the
+        world never notices.</p>
+
+        <p>The <strong>Order of the Black Lily</strong>, based above
+        @UUID[Compendium.assistant.lore.JournalEntry.G73nlQAKU99FLB4T]{Akatsuki} village in
+        @UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{Kaze} province, is less a spiritual order than a
+        professional one — Kagekuni&#39;s premier infiltration specialists, operating from a monastery that serves as
+        both temple and training facility.</p>
+
+        <p>The tension between worldly duty and spiritual withdrawal runs through all of these traditions. A monk who
+        retreats from the world still lives in it. A monastery that claims neutrality still sits on land that someone
+        claims to own. The spiritual life of Kagekuni is never purely spiritual — it is always, in some measure,
+        political.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 2
+    flags: {}
+  - _id: lJghSxnkVHModB9B
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.lJghSxnkVHModB9B'
+    name: The Practice of Faith
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>For most people in Kagekuni, religion is not a matter of doctrine but of practice. A farmer does not study
+        theology. He maintains his family shrine, makes offerings to the kami of his fields, honours his ancestors at
+        the butsudan, and visits the local temple on festival days. His faith is expressed through action — through the
+        rituals that mark the rhythm of the year, the prayers that accompany daily work, and the quiet understanding
+        that the world is populated by forces larger and older than himself.</p>
+
+        <p>This practical faith produces a population that is simultaneously devout and pragmatic. The people of
+        Kagekuni believe in the spiritual world because they live in it — because the rivers glow faintly at night,
+        because the fog sometimes carries incense from no source, because the trees in certain forests have bark of
+        burnished bronze and no one considers this remarkable. The sacred is not separate from the ordinary. It is the
+        ordinary, seen clearly.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 2
+    flags: {}
+  - _id: d8GrkJ3elAYL2euB
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.d8GrkJ3elAYL2euB'
+    name: Introduction
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><em lang="ja-Latn">This document establishes the canonical timeline of the sei drought and Great Aphelion,
+        the orbital mechanics of the Miyosai trinary system, and the orrery projection sequence as observed through the
+        Hoshikagami no Ma. Content here supersedes or supplements existing entries in world.md, magic.md, and
+        mechanical-arcane-orrery.md.</em></p>
+
+        <hr>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 2
+    flags: {}
+  - _id: lAnBLhqnO3sKu3LQ
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.lAnBLhqnO3sKu3LQ'
+    name: Canonical Timeline
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Date</th>
+
+        <th>Event</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>~12605</td>
+
+        <td>War of Fractured Banners begins; stellar decline starts as Susanoo and Tsukuyomi begin their long
+        retreat</td>
+
+        </tr>
+
+        <tr>
+
+        <td>~12806</td>
+
+        <td>First secondary star lost to naked-eye visibility; dark ages begin</td>
+
+        </tr>
+
+        <tr>
+
+        <td>13088</td>
+
+        <td>Temple of @UUID[Compendium.assistant.locations.JournalEntry.ifdMI1VP1fjPGAAh]{Oryuzan Tenku-ji} falls;
+        surviving worshipers depart</td>
+
+        </tr>
+
+        <tr>
+
+        <td>~14344</td>
+
+        <td><strong>Great Aphelion</strong> — all three stars at maximum mutual distance; absolute nadir of the dark
+        ages</td>
+
+        </tr>
+
+        <tr>
+
+        <td>~15883</td>
+
+        <td>First secondary star returns to naked-eye visibility; dark ages end; dawn</td>
+
+        </tr>
+
+        <tr>
+
+        <td>~15962</td>
+
+        <td>First Talents emerge; sei accessible again in rare individuals</td>
+
+        </tr>
+
+        <tr>
+
+        <td>~16693</td>
+
+        <td><strong>Great Awakening</strong> — all three stars clearly visible; sei fully restored</td>
+
+        </tr>
+
+        <tr>
+
+        <td>16744</td>
+
+        <td>Current campaign date — 51 years post-Awakening</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><em lang="ja-Latn">The dark ages span ~12806 to ~15883 — approximately 3,077 years, with the Great Aphelion
+        at their midpoint. The decline preceding them runs 201 years. The return arc from dawn to Great Awakening runs
+        810 years.</em></p>
+
+        <hr>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 2
+    flags: {}
+  - _id: yuMqov3mWxZrVTnq
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.yuMqov3mWxZrVTnq'
+    name: Structure
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The Miyosai system is a gravitationally bound trinary stellar system. All three stars orbit a common
+        <strong>barycenter</strong> — the true gravitational center of the system. Amaterasu is the most massive of the
+        three and carries its planetary family with it as it completes its barycentric orbit. Seizan, as one of those
+        planets, travels with Amaterasu.</p>
+
+        <pre><code>Barycenter (common gravitational center)
+
+        ├── Amaterasu — orbits barycenter on its own inclined plane
+
+        │   └── Planetary system — orbits Amaterasu (includes Seizan)
+
+        │       └── Moons — orbit Seizan
+
+        ├── Susanoo — orbits barycenter on its own inclined plane
+
+        └── Tsukuyomi — orbits barycenter on its own inclined plane
+
+        </code></pre>
+
+        <p>The three stars travel on <strong>different orbital inclinations</strong> relative to each other, producing a
+        three-dimensional dance rather than a flat orbital disc. Each star&#39;s position in Seizan&#39;s sky shifts
+        continuously as all three complete their individual barycentric orbits. The named astrological events in the
+        existing record — Nagorikaze, Long Shadow — are the routine expressions of this dance: individual stars reaching
+        notable positions within normal orbital variation.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 180
+    ownership:
+      default: 2
+    flags: {}
+  - _id: NKx2QC4aBuHazpxx
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.NKx2QC4aBuHazpxx'
+    name: Planetary and Lunar Behavior
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Because the planets orbit Amaterasu and travel with it, <strong>the seven planets do not participate in the
+        Great Aphelion</strong>. Their positions relative to Seizan shift only in their normal orbital patterns around
+        Amaterasu throughout the drought period. The moons, which orbit Seizan directly, are similarly unaffected by the
+        positions of Susanoo and Tsukuyomi.</p>
+
+        <p>In the orrery, this means planetary and lunar armatures continue their normal motion through the entire dark
+        ages period. The sei drought is visible in the orrery as exclusively a two-star withdrawal — Susanoo and
+        Tsukuyomi receding while everything else continues its ordinary dance. This is more striking than a general
+        dimming: the machine keeps working, the planets keep moving, and two of the three stars are simply not where
+        they should be.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 190
+    ownership:
+      default: 2
+    flags: {}
+  - _id: cMmPxjW40ZIICht2
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.cMmPxjW40ZIICht2'
+    name: Why the Great Aphelion Is Singular
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Under normal orbital conditions, the three stars periodically reach individual far points from each other —
+        this is routine. The Great Aphelion requires three independent conditions to align simultaneously:</p>
+
+        <ul>
+
+        <li>Amaterasu at maximum distance from the barycenter on one side of its orbit, carrying Seizan with it</li>
+
+        <li>Susanoo at maximum distance on the opposing side of its orbital arc</li>
+
+        <li>Tsukuyomi at maximum distance on the opposing extreme of its own inclined arc</li>
+
+        </ul>
+
+        <p>Because the three orbital periods and inclinations are entirely independent, the probability of all three
+        peaking simultaneously is the product of three separate low-probability alignments. More critically, the
+        compounding is <strong>geometric rather than additive</strong> — when Amaterasu swings to its extreme, it
+        carries Seizan away from the barycenter; Susanoo and Tsukuyomi simultaneously reaching their opposing extremes
+        means Seizan is not simply far from two stars, but has been actively carried in the opposite direction while
+        they retreated. The distance at nadir is the sum of three orbital extremes working against each other.</p>
+
+        <p>This event has been recorded once — imperfectly, in fragmentary form. The possibility of a future occurrence
+        exists but is considered by any scholar who has assembled the relevant data to be a matter for timescales beyond
+        meaningful planning.</p>
+
+        <hr>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 200
+    ownership:
+      default: 2
+    flags: {}
+  - _id: I7lHJcDUEVr3LdHM
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.I7lHJcDUEVr3LdHM'
+    name: Amaterasu — The Anchor
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Mass</strong>: Primary; largest of the three stars. <strong>Orbit</strong>: Moves around the
+        barycenter, but its greater mass means the barycenter sits relatively close to it — Amaterasu&#39;s orbital
+        movement is the least dramatic of the three. Its planetary family travels with it throughout. <strong>Sei
+        signature</strong>: Core life energy; baseline sei. Foundational and stable. <strong>Projection color</strong>:
+        Golden-yellow. <strong>During the drought</strong>: Never goes dark. Amaterasu&#39;s projection in the orrery
+        holds throughout the entire drought period. It is the one point of gold that remains in the dome regardless of
+        what date the operator sets. This is why the dark ages were cultural and intellectual collapse rather than
+        extinction — Amaterasu&#39;s baseline sei sustained life, agriculture, and the physical world while the more
+        complex magical expressions that depended on the full trinary system became inaccessible.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 210
+    ownership:
+      default: 2
+    flags: {}
+  - _id: XrDKIMIEILzTnY8J
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.XrDKIMIEILzTnY8J'
+    name: Tsukuyomi — First to Fade, Last to Return
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Mass</strong>: Larger deep-red dwarf; second most massive. <strong>Orbit</strong>: Elongated
+        barycentric orbit — already has the most dramatic near-far swing of the three under normal conditions. Long
+        Shadow events are the routine expression of this elongation. During the Great Aphelion, the elongation compounds
+        to an extreme that no living record had prepared the order to anticipate. <strong>Sei signature</strong>:
+        Transformation magic, energy manipulation. <strong>Projection color</strong>: Deep red.</p>
+
+        <p><strong>Fade sequence</strong>: Tsukuyomi&#39;s deep red begins bleeding from the orrery&#39;s projection
+        approximately 150–170 years before the Great Aphelion nadir (~14174–14194). Because its elongated orbit already
+        produces dramatic near-far variation, the early stages of its decline would have been logged by the order as an
+        unusually extended Long Shadow before the true nature of the event became clear. Practitioners of the period
+        would have noticed transformation magic becoming unreliable first — the most complex sei expressions failing
+        before the simpler ones.</p>
+
+        <p><strong>Return sequence</strong>: Because its orbit is the most elongated, Tsukuyomi&#39;s return is the
+        slowest. Its deep red is the last color to reappear in the orrery during the recovery arc — faint and
+        intermittent for centuries before becoming reliable. The moment all three stars are clearly visible
+        simultaneously, which defines the Great Awakening (~16693), is effectively the moment Tsukuyomi&#39;s red
+        crosses the threshold of clarity. It is the completion of the return, not its beginning.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 220
+    ownership:
+      default: 2
+    flags: {}
+  - _id: rVkmUqHQp8iCFmkf
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.rVkmUqHQp8iCFmkf'
+    name: Susanoo — Second to Fade, First to Return
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Mass</strong>: Smallest blue-white dwarf. <strong>Orbit</strong>: Complex barycentric orbit — not
+        elongated like Tsukuyomi&#39;s, but highly variable. Produces both the closest approaches (Nagorikaze) and
+        meaningful retreats. Being the least massive of the three, its sei output is the most sensitive to distance.
+        <strong>Sei signature</strong>: Water magic, healing, purification. <strong>Projection color</strong>:
+        Blue-white.</p>
+
+        <p><strong>Fade sequence</strong>: Susanoo&#39;s blue-white dims approximately 50–80 years before the Great
+        Aphelion nadir (~14264–14294). The order would have watched Tsukuyomi declining for nearly a century before
+        Susanoo began to follow. Susanoo&#39;s failure was the loss that reached the general population — healers losing
+        effectiveness, coastal and maritime practices becoming unreliable. Tsukuyomi&#39;s decline was a practitioner
+        problem; Susanoo&#39;s was a human one.</p>
+
+        <p><strong>Return sequence</strong>: Because its orbit is complex rather than elongated, Susanoo&#39;s return
+        path is more direct. It is the first secondary star to show meaningful recovery in the orrery — a faint but
+        perceptible blue-white appearing in the dome while Tsukuyomi&#39;s arm remains dark. Susanoo&#39;s return is the
+        first confirmation that the system is correcting rather than continuing to deteriorate. The first Talents
+        (<del>15962) emerge after dawn (</del>15883) and correlate with Susanoo&#39;s partial return, consistent with
+        healing and purification being among the earliest accessible sei expressions.</p>
+
+        <hr>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 230
+    ownership:
+      default: 2
+    flags: {}
+  - _id: AmB82T61YG2aRsoq
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.AmB82T61YG2aRsoq'
+    name: Orrery Projection Sequence
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><em lang="ja-Latn">What the party observes when scrolling through the dial. Mechanical armature motion
+        continues normally throughout — only the arcane projection layer responds to sei availability.</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 240
+    ownership:
+      default: 2
+    flags: {}
+  - _id: lSXgIxFnxGJuqwZi
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.lSXgIxFnxGJuqwZi'
+    name: Pre-Decline (pre-~12605)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>All three stars project at full intensity. Amaterasu golden-yellow at center. Susanoo&#39;s blue-white and
+        Tsukuyomi&#39;s deep red visible on their respective inclined armature planes. Planets and moons in full normal
+        motion around Amaterasu&#39;s family. The dome is warm and fully lit — this is the room functioning as it was
+        designed to function. When the party scrolls to a Golden Age date, they understand for the first time what they
+        have been looking at in its damaged state.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 250
+    ownership:
+      default: 2
+    flags: {}
+  - _id: kMGlNL5bhmIQS71J
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.kMGlNL5bhmIQS71J'
+    name: Early Decline (~12605–12700)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Tsukuyomi&#39;s deep red begins to bleed at the edges. Subtle — a skilled operator would notice the color
+        temperature shifting before they could name it. A pre-existing Long Shadow event during this period would have
+        been logged by the order as unusually extended before the deeper pattern was recognized. Susanoo holds full
+        brightness. The dome is visibly but not dramatically wrong.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 260
+    ownership:
+      default: 2
+    flags: {}
+  - _id: YbuKssWfGqlj9LVP
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.YbuKssWfGqlj9LVP'
+    name: Deepening Decline (~12700–12806)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Tsukuyomi&#39;s red is clearly diminished — no longer a question of interpretation. The dome feels unbalanced
+        in a way that is difficult to articulate. Susanoo still holds, which means the order would have had reason to
+        hope the event was limited to Tsukuyomi&#39;s orbit. The first star crosses below naked-eye visibility threshold
+        at approximately 12806. Dark ages begin.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 270
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 5zmFVpcKWsqrj7cw
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.5zmFVpcKWsqrj7cw'
+    name: Late Decline / Early Dark Ages (~12806–14264)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Tsukuyomi&#39;s arm is dark. Susanoo still holds its blue-white in the orrery projection, though dimming as
+        it approaches its own far point. The dome is now Amaterasu&#39;s gold, Susanoo&#39;s fading blue-white, and one
+        silent arm. The operator&#39;s log from this period — if it survived — would be increasingly terse.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 280
+    ownership:
+      default: 2
+    flags: {}
+  - _id: jl5RVu8l2XA6tHRR
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.jl5RVu8l2XA6tHRR'
+    name: Susanoo's Failure / Approach to Nadir (~14264–14344)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Susanoo&#39;s projection dims and goes dark. The dome is now Amaterasu alone. All planetary and lunar
+        armatures continue their ordinary motion — the machine still works — but the two secondary stars are bare
+        bronze. The room does not feel like an observatory. It feels like something else.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 290
+    ownership:
+      default: 2
+    flags: {}
+  - _id: HAvU9ojE3vQxw7uP
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.HAvU9ojE3vQxw7uP'
+    name: Great Aphelion (~14344)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>All three stars at maximum mutual distance. Amaterasu&#39;s armature sits at one extreme of its barycentric
+        arc, the planetary family clustered around it. Susanoo&#39;s armature sits at the opposing extreme on its
+        inclined plane. Tsukuyomi&#39;s armature sits at its own opposing extreme on its differently inclined plane.
+        Three separate arms on three separate planes, all pointing away from each other. The geometry of the event is
+        legible in the mechanism before the party processes the darkness — they can see <em lang="ja-Latn">why</em> it
+        was catastrophic. Amaterasu alone in the dome. The nadir.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 300
+    ownership:
+      default: 2
+    flags: {}
+  - _id: eKOTv3fEX70DcuSC
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.eKOTv3fEX70DcuSC'
+    name: Post-Nadir / Continuing Dark Ages (~14344–15883)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Scrolling forward through these years changes nothing visible. Amaterasu holds. The two secondary arms remain
+        dark. Advancing decades — centuries — in seconds and seeing no change in the darkness has its own effect at the
+        table. The absence is not passive.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 310
+    ownership:
+      default: 2
+    flags: {}
+  - _id: p5kCPM29VX2d669D
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.p5kCPM29VX2d669D'
+    name: Dawn (~15883)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Susanoo&#39;s armature shows the first ghost of blue-white. Not full projection — a faint shimmer, barely
+        distinguishable from reflected light. A character with sei sensitivity (Relc, Ko&#39;jiri, Sun Wukong) may feel
+        warmth in their sternum before the light is visible to anyone. This is the moment the dark ages end — not
+        because magic returns, but because the sky does. Sei remains largely inaccessible; the stars are simply
+        back.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 320
+    ownership:
+      default: 2
+    flags: {}
+  - _id: NqpjHlXKMmXsDUet
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.NqpjHlXKMmXsDUet'
+    name: First Talents / Early Return (~15883–15962)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Susanoo&#39;s blue-white strengthens slowly. Tsukuyomi&#39;s arm remains dark. The dome is Amaterasu and a
+        faint secondary light — the room no longer feels like the nadir, but it does not feel restored. When the party
+        scrolls to ~15962, the first Talents date, they can see that sei&#39;s earliest return correlates with Susanoo
+        having only partially recovered. The match between star position and magical accessibility is legible if they
+        think to look for it.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 330
+    ownership:
+      default: 2
+    flags: {}
+  - _id: NVGQiR6xbE7gz28W
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.NVGQiR6xbE7gz28W'
+    name: Return Arc (~15962–16693)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Susanoo continues strengthening. Tsukuyomi&#39;s deep red begins its slower return — faint and intermittent
+        for a long period before becoming reliable. Scrolling through this arc in the orrery, the party watches the dome
+        gradually fill. The return does not feel like restoration — it feels like recovery from a very long illness.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 340
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Apr23wgZees9qaM8
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.Apr23wgZees9qaM8'
+    name: Great Awakening (~16693)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Tsukuyomi&#39;s red crosses into clear, reliable visibility. All three stars present. This is the
+        recognizable moment — a party member who has seen the Golden Age dates and then scrolled forward through
+        centuries of darkness will feel the completion of this arc when all three lights are in the dome together
+        again.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 350
+    ownership:
+      default: 2
+    flags: {}
+  - _id: vKpPCeeatyS1PlIV
+    _key: '!journal.pages!FAOlL8D3kPY1rEAc.vKpPCeeatyS1PlIV'
+    name: Current Date (16744)
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The orrery shows the present sky. All three stars lit. Planetary and lunar armatures in their current
+        positions. A party member who thinks to compare this against a deep Golden Age date may notice that
+        Tsukuyomi&#39;s projection, while present, carries slightly less intensity than its pre-decline readings. The
+        return is real. It is not yet complete. The orbital correction is still ongoing.</p>
+
+        <p><em lang="ja-Latn">This is the only moment in the orrery sequence where the party is looking at their own
+        world in real time. The comparison between then and now is available to them if they seek it.</em></p>
+
+        <hr>
+
+        <p><em lang="ja-Latn">Connected entries: mechanical-arcane-orrery.md, world.md [SEALED], magic.md [SEALED],
+        overview.md</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 360
+    ownership:
+      default: 2
+    flags: {}
+folder: KQ1E6vMeEYo9NJNH
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: shinwa
+    frontmatter:
+      name: Shinwa
+      type: core

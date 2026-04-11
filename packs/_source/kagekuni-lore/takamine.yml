@@ -2,8 +2,8 @@ _id: Nlnrpona1dVTR4EQ
 _key: '!journal!Nlnrpona1dVTR4EQ'
 name: Takamine
 pages:
-  - _id: rmoSWk290SOziJrg
-    _key: '!journal.pages!Nlnrpona1dVTR4EQ.rmoSWk290SOziJrg'
+  - _id: n2vTe4mfokSgXiDW
+    _key: '!journal.pages!Nlnrpona1dVTR4EQ.n2vTe4mfokSgXiDW'
     name: Overview
     type: text
     title:
@@ -12,12 +12,16 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The mountain owes us nothing. We dig anyway.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.Nlnrpona1dVTR4EQ]{Takamine} is a village of honest poverty. It
+        sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the head of the Star River, in a valley receiving less
+        direct sunlight due to the mountain&#39;s angle. The small iron mine that sustains the village produces modest
+        yields -- enough to keep the operation viable, not enough to generate real prosperity. Thin, rocky soil
+        supplements mining income through limited farming.</p>
 
-        </section>
+        <p>The community is close-knit in the way that difficult circumstances produce -- people who depend on each
+        other genuinely. Visitors are noticed. Help is offered and received as a matter of course. The village has a
+        pride rooted in endurance.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +33,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: RpfR7lVfLprjY0U9
-    _key: '!journal.pages!Nlnrpona1dVTR4EQ.RpfR7lVfLprjY0U9'
-    name: Known
+  - _id: yg6sXLLHiF9Bj2pr
+    _key: '!journal.pages!Nlnrpona1dVTR4EQ.yg6sXLLHiF9Bj2pr'
+    name: Notable Establishments
     type: text
     title:
       show: true
@@ -39,21 +43,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Takamine is a village of honest poverty. It sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the
-        head of the Star River, in a valley receiving less direct sunlight due to the mountain&#39;s angle. The small
-        iron mine that sustains the village produces modest yields -- enough to keep the operation viable, not enough to
-        generate real prosperity. Thin, rocky soil supplements mining income through limited farming.</p>
-
-        <p>The community is close-knit in the way that difficult circumstances produce -- people who depend on each
-        other genuinely. Visitors are noticed. Help is offered and received as a matter of course. The village has a
-        pride rooted in endurance.</p>
-
-        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
-
+      content: >
         <p><strong>Ryu no Tetsu Ryokan (Dragon&#39;s Iron Inn)</strong> -- The village&#39;s single inn. Comfortable by
         local standards. The innkeeper&#39;s family has run it for four generations.</p>
 
@@ -64,16 +54,6 @@ pages:
 
         <p><strong>Village Temple</strong> -- Small and well-maintained despite the village&#39;s poverty. The community
         invests disproportionately in its upkeep as collective identity.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <ul>
-
-        <li>Yamamoto Kenji -- Village leader -&gt; npcs/yamamoto-kenji.md</li>
-
-        </ul>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -85,9 +65,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: dWvWgtd9CVmGRO4j
-    _key: '!journal.pages!Nlnrpona1dVTR4EQ.dWvWgtd9CVmGRO4j'
-    name: Discoverable (GM)
+  - _id: OSfR9cNzXx34hYU6
+    _key: '!journal.pages!Nlnrpona1dVTR4EQ.OSfR9cNzXx34hYU6'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -96,46 +76,46 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <ul>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} -- Village leader -&gt;
+        npcs/yamamoto-kenji.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not
         gold, but something with remarkable properties.</li>
 
-        <li>Yamamoto Kenji has quietly sent a sample to Heian for identification.</li>
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} has quietly sent a
+        sample to @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} for identification.</li>
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: BfN6BKktouAEIomM
-    _key: '!journal.pages!Nlnrpona1dVTR4EQ.BfN6BKktouAEIomM'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>What the Mine Actually Contains</strong>
 
         The deeper work face has started encountering a dark, lustrous metal with unusual properties: it doesn&#39;t
         rust, is harder than anything the village smith has worked, and holds an edge that standard iron cannot match.
-        Yamamoto Kenji has quietly sent a sample to Heian, but the political vacuum has slowed response.</p>
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.XltoGh3JAZrPEhAE]{Yamamoto Kenji} has quietly sent a sample to
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}, but the political vacuum has slowed
+        response.</p>
 
         <p>The material is a trace deposit of an alloy associated with Onyx Dragon Clan presence. Kokuryu&#39;s domain
         was never here, but volcanic geology has carried the material far from its origin. The vein is small but
@@ -147,7 +127,14 @@ pages:
         to defend a valuable find. Kenji is trying to get information before events overtake him. He would respond
         warmly to trustworthy outsiders who could help.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
@@ -157,6 +144,7 @@ pages:
 
         </ul>
 
+
         </section>
       markdown: ''
     video:
@@ -165,11 +153,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 30
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -183,8 +171,3 @@ flags:
       settlement_type: village
       island: hokori
       province: hana
-      governing_clan: kaminari
-      administrator: npcs/yamamoto-kenji.md
-      population: 97
-      climate: Mountain shadow; less direct sunlight; thin rocky soil
-      tags: []

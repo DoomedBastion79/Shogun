@@ -1,0 +1,11 @@
+_id: 345Tc1BpA5OYRo5m
+_key: '!folders!345Tc1BpA5OYRo5m'
+name: Shared
+type: JournalEntry
+folder: hblkekVzRZxWUE7x
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: quests/party/shared

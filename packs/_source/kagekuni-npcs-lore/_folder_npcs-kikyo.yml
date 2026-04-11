@@ -1,0 +1,11 @@
+_id: HeMsAoPjaih4ysDk
+_key: '!folders!HeMsAoPjaih4ysDk'
+name: kikyo
+type: JournalEntry
+folder: null
+sorting: m
+sort: 30
+color: null
+flags:
+  assistant:
+    folderPath: npcs/kikyo

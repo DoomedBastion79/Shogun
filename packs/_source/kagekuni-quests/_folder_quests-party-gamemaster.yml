@@ -1,0 +1,11 @@
+_id: wECAI8cRhwAFEe4U
+_key: '!folders!wECAI8cRhwAFEe4U'
+name: Gamemaster
+type: JournalEntry
+folder: hblkekVzRZxWUE7x
+sorting: m
+sort: 20
+color: null
+flags:
+  assistant:
+    folderPath: quests/party/gamemaster

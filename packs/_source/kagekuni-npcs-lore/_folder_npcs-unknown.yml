@@ -1,0 +1,11 @@
+_id: NkPoueVSOMoNFCQ9
+_key: '!folders!NkPoueVSOMoNFCQ9'
+name: unknown
+type: JournalEntry
+folder: null
+sorting: m
+sort: 50
+color: null
+flags:
+  assistant:
+    folderPath: npcs/unknown

@@ -2,8 +2,8 @@ _id: 4eQEIEpIE7lIHyDq
 _key: '!journal!4eQEIEpIE7lIHyDq'
 name: Sakura Mura
 pages:
-  - _id: i6j1c1DxXppDN0BR
-    _key: '!journal.pages!4eQEIEpIE7lIHyDq.i6j1c1DxXppDN0BR'
+  - _id: Zf5ZifDx9XNfomtF
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.Zf5ZifDx9XNfomtF'
     name: Overview
     type: text
     title:
@@ -12,12 +12,19 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em lang="ja-Latn">&quot;It
-        grew because travelers needed a reason to stop. Now they stop because it grew.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.4eQEIEpIE7lIHyDq]{Sakura Mura} did not begin as a planned
+        settlement -- it accumulated around a single inn on the Emperor&#39;s Highway that proved well-positioned for a
+        rest stop. Over generations, the inn attracted other services, the services attracted residents, and the
+        residents built a community. The village retains its highway-dependent character.</p>
 
-        </section>
+        <p>A river runs east-west through the village, spanned at the north end by Shadowfen Bridge -- a stone bridge
+        leading into a stretch of marsh forest. A secondary road path continues north from the bridge&#39;s far
+        bank.</p>
+
+        <p>The village is surrounded by forest on three sides, with a lake visible to the southeast. The cherry trees
+        that give the village its name line the Highway approach for a quarter-mile -- planted two centuries ago by a
+        traveling monk as a gift.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +36,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: bC1sr89kh965bI1a
-    _key: '!journal.pages!4eQEIEpIE7lIHyDq.bC1sr89kh965bI1a'
-    name: Known
+  - _id: EMazwuisWOqbiryR
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.EMazwuisWOqbiryR'
+    name: Notable Establishments
     type: text
     title:
       show: true
@@ -39,37 +46,13 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Sakura Mura did not begin as a planned settlement -- it accumulated around a single inn on the Emperor&#39;s
-        Highway that proved well-positioned for a rest stop. Over generations, the inn attracted other services, the
-        services attracted residents, and the residents built a community. The village retains its highway-dependent
-        character.</p>
-
-        <p>A river runs east-west through the village, spanned at the north end by Shadowfen Bridge -- a stone bridge
-        leading into a stretch of marsh forest. A secondary road path continues north from the bridge&#39;s far
-        bank.</p>
-
-        <p>The village is surrounded by forest on three sides, with a lake visible to the southeast. The cherry trees
-        that give the village its name line the Highway approach for a quarter-mile -- planted two centuries ago by a
-        traveling monk as a gift.</p>
-
-        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
-
+      content: >
         <p><strong>Oka-tei Inn</strong> -- The original settlement&#39;s reason for existing. Large, well-run, designed
         for highway travelers. Stabling for horses and oxen; common room with a good fire; private rooms at premium
         rates.</p>
 
         <p><strong>Takahashi&#39;s Hunting Lodge</strong> -- Equipment, local guides, and hunting licenses for the
         surrounding forest. Serves both dedicated hunters and travelers wanting fresh game.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <p>None specifically documented.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -81,9 +64,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: WL3RS8dW7Cbt5daQ
-    _key: '!journal.pages!4eQEIEpIE7lIHyDq.WL3RS8dW7Cbt5daQ'
-    name: Discoverable (GM)
+  - _id: F8xMY3sS9SuU15Bg
+    _key: '!journal.pages!4eQEIEpIE7lIHyDq.F8xMY3sS9SuU15Bg'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -92,7 +75,16 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <p>None specifically documented.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>The Shadowfen Bridge exhibits a genuine sei phenomenon -- a low-level resonance that produces mild
         disorientation in those who speak falsehoods while crossing.</li>
@@ -101,31 +93,14 @@ pages:
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: jzyY128A3aXS4GqP
-    _key: '!journal.pages!4eQEIEpIE7lIHyDq.jzyY128A3aXS4GqP'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>Shadowfen Bridge</strong>
 
@@ -141,7 +116,14 @@ pages:
         avoid a specific area they describe as &quot;wrong-feeling.&quot; The structure&#39;s origin and purpose are
         unknown.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
@@ -153,6 +135,7 @@ pages:
 
         </ul>
 
+
         </section>
       markdown: ''
     video:
@@ -161,11 +144,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 30
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -179,8 +162,3 @@ flags:
       settlement_type: village
       island: hokori
       province: hana
-      governing_clan: kaminari
-      administrator: unknown
-      population: 150
-      climate: Temperate; forested surroundings; along Emperor's Highway
-      tags: []

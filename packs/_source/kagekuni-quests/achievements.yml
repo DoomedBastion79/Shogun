@@ -1,0 +1,37 @@
+_id: Y3XsDZ3xuCi12QtM
+_key: '!journal!Y3XsDZ3xuCi12QtM'
+name: Achievements
+pages:
+  - _id: 6rvCWzPXLG1L1OT3
+    _key: '!journal.pages!Y3XsDZ3xuCi12QtM.6rvCWzPXLG1L1OT3'
+    name: Achievements
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: <p>Achievement records will appear here.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: SwIEokv2hoSqho5O
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
+    slug: achievements
+    frontmatter:
+      name: Achievements
+      type: quest-achievements

@@ -1,0 +1,11 @@
+_id: SwIEokv2hoSqho5O
+_key: '!folders!SwIEokv2hoSqho5O'
+name: Quests
+type: JournalEntry
+folder: null
+sorting: m
+sort: 10
+color: '#991b1b'
+flags:
+  assistant:
+    folderPath: quests/root

@@ -18,9 +18,9 @@ pages:
         class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div></dl><p><strong>Type</strong>:
         Curse (not disease)</p>
 
-        <p>Reflects <em lang="ja-Latn">kegare</em> as spiritual pollution — a Shinto concept of ritual impurity — not
-        physical illness. Removal requires <em lang="ja-Latn">Remove Curse</em> (3rd level spell), not <em
-        lang="ja-Latn">Lesser Restoration</em>.</p>
+        <p>Reflects <span class="kg-jp" lang="ja-Latn" title="穢れ — spiritual impurity">kegare</span> as spiritual
+        pollution — a Shinto concept of ritual impurity — not physical illness. Removal requires <em
+        lang="ja-Latn">Remove Curse</em> (3rd level spell), not <em lang="ja-Latn">Lesser Restoration</em>.</p>
 
         <hr>
 
@@ -70,7 +70,7 @@ pages:
     ownership:
       default: 2
     flags: {}
-folder: null
+folder: WKW6ySAT51XYqSKp
 sort: 0
 ownership:
   default: 2

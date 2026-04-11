@@ -1,0 +1,11 @@
+_id: hblkekVzRZxWUE7x
+_key: '!folders!hblkekVzRZxWUE7x'
+name: Party
+type: JournalEntry
+folder: SwIEokv2hoSqho5O
+sorting: m
+sort: 20
+color: null
+flags:
+  assistant:
+    folderPath: quests/party

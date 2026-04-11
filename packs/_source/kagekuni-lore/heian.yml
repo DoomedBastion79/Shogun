@@ -2,8 +2,8 @@ _id: hzsa2iSlnRd38adi
 _key: '!journal!hzsa2iSlnRd38adi'
 name: Heian
 pages:
-  - _id: lD7DDZXi8m3sH1G4
-    _key: '!journal.pages!hzsa2iSlnRd38adi.lD7DDZXi8m3sH1G4'
+  - _id: 131heIX7n38ya9Ds
+    _key: '!journal.pages!hzsa2iSlnRd38adi.131heIX7n38ya9Ds'
     name: Overview
     type: text
     title:
@@ -12,12 +12,22 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The city that outlasted every empire built within it.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} is the oldest continuously inhabited
+        city in the archipelago and the seat of imperial authority for over eight thousand years. It stands on a
+        peninsula where the Nagisa Sea meets Lake Midoriko -- a position offering both a defensible landward approach
+        and open water access in two directions.</p>
 
-        </section>
+        <p>The city is beautiful in the way that things shaped by deep time become beautiful -- through the accumulation
+        of craftsmanship, care, and purpose. Ancient trees line the main avenues, their roots lifting paving stones that
+        are reset around them generation after generation. The Imperial Palace complex dominates the skyline. Shirogane
+        Yama is visible on clear days forty miles to the north and northwest.</p>
+
+        <p>The Emperor&#39;s Highway extends from Heian in three directions -- north through Tenchusan Ren toward
+        @UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{Kaze}, east along the coast, and west by ferry
+        connection to Sakurano and the interior. With no emperor, the city is a center without a purpose -- the streets
+        are still busy, the markets still active, but there is a quality to civic life: the posture of a city holding
+        itself together while waiting for resolution.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +39,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: kK56CHpKzJP5zvom
-    _key: '!journal.pages!hzsa2iSlnRd38adi.kK56CHpKzJP5zvom'
-    name: Known
+  - _id: ok3txOztGvFk088F
+    _key: '!journal.pages!hzsa2iSlnRd38adi.ok3txOztGvFk088F'
+    name: Districts / Landmarks
     type: text
     title:
       show: true
@@ -39,31 +49,12 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Heian is the oldest continuously inhabited city in the archipelago and the seat of imperial authority for
-        over eight thousand years. It stands on a peninsula where the Nagisa Sea meets Lake Midoriko -- a position
-        offering both a defensible landward approach and open water access in two directions.</p>
-
-        <p>The city is beautiful in the way that things shaped by deep time become beautiful -- through the accumulation
-        of craftsmanship, care, and purpose. Ancient trees line the main avenues, their roots lifting paving stones that
-        are reset around them generation after generation. The Imperial Palace complex dominates the skyline. Shirogane
-        Yama is visible on clear days forty miles to the north and northwest.</p>
-
-        <p>The Emperor&#39;s Highway extends from Heian in three directions -- north through Tenchusan Ren toward Kaze,
-        east along the coast, and west by ferry connection to Sakurano and the interior. With no emperor, the city is a
-        center without a purpose -- the streets are still busy, the markets still active, but there is a quality to
-        civic life: the posture of a city holding itself together while waiting for resolution.</p>
-
-        <h3 id="kg-districts-landmarks" data-section="districts-landmarks">Districts / Landmarks</h3>
-
+      content: >
         <p><strong>Hikari Zon -- Knowledge District</strong>
 
         Libraries, academies, schools, and scholarly institutions. Low, wide buildings with sliding walls. The central
-        library holds the largest collection in Hana. Seimasters and scholars from across the archipelago spend time
-        here.</p>
+        library holds the largest collection in @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana}.
+        Seimasters and scholars from across the archipelago spend time here.</p>
 
         <p><strong>Hinode-ku -- Eastern Residential Ward</strong>
 
@@ -80,7 +71,7 @@ pages:
         Temples, shrines, and spiritual institutions. Torii gates multiply inward from the boundary. A shrine to each of
         the seven dragon clans exists here.</p>
 
-        <p><strong>Kaze-sho -- Wind District</strong>
+        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{Kaze}-sho -- Wind District</strong>
 
         Open spaces, windmills, farming plots within the city boundary. The windmills power grain milling and workshop
         machinery.</p>
@@ -99,10 +90,10 @@ pages:
 
         The forge district. Smiths, armorers, weapons specialists. Runs hot year-round. Home to Taro&#39;s Forge.</p>
 
-        <p><strong>Mizu-gai -- Riverside Ward</strong>
+        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.MLJk1KAijasQiUgh]{Mizu}-gai -- Riverside Ward</strong>
 
         Along the water&#39;s edge. Water gardens, seafood restaurants, fish markets, fishing family residences. The
-        morning catch market is a Heian institution.</p>
+        morning catch market is a @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} institution.</p>
 
         <p><strong>Ryu Jikuchiku -- Dragon Borough</strong>
 
@@ -125,35 +116,9 @@ pages:
 
         <p><strong>Tensho no Mon -- Military District</strong>
 
-        Barracks, command infrastructure, training grounds. Home to Taisho Hideo Nakamura&#39;s command headquarters.
+        Barracks, command infrastructure, training grounds. Home to Taisho
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura}&#39;s command headquarters.
         Where the party received their mission briefing.</p>
-
-        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
-
-        <p><strong>Taro&#39;s Forge (Kurogane-sho)</strong> -- Master blacksmith Taro Fukomoto&#39;s workshop. Renowned
-        for quality and integrity. Produces exceptional weapons and armor. Taro teaches those who demonstrate genuine
-        commitment.</p>
-
-        <p><strong>The Moonlit Garden (Ryu Jikuchiku)</strong> -- Teahouse in the Dragon Borough with a garden famous
-        for nighttime aesthetics -- white stone, silver-leaved trees, reflecting pool. The party first convened here.
-        Renowned for discretion.</p>
-
-        <p><strong>Hikari no Shizuku (Hikari Zon)</strong> -- Healing and light magic enclave in the Knowledge District.
-        Provides medical services and trains healing-aligned sei practitioners.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <ul>
-
-        <li>Hiroshi Nakamura -- Shugo (Governor) of Heian -&gt; npcs/hiroshi-nakamura.md</li>
-
-        <li>Hideo Nakamura -- Taisho (General); military commander -&gt; npcs/hideo-nakamura.md</li>
-
-        <li>Taro Fukomoto -- Master blacksmith -&gt; npcs/taro-fukomoto.md</li>
-
-        </ul>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -165,9 +130,42 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: 48FH2UYG0F758gZn
-    _key: '!journal.pages!hzsa2iSlnRd38adi.48FH2UYG0F758gZn'
-    name: Discoverable (GM)
+  - _id: Rr8NVUH1sqKrdjB2
+    _key: '!journal.pages!hzsa2iSlnRd38adi.Rr8NVUH1sqKrdjB2'
+    name: Notable Establishments
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Taro&#39;s Forge (Kurogane-sho)</strong> -- Master blacksmith
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.pQR5C4JfmyeCDwYc]{Taro Fukomoto}&#39;s workshop. Renowned for
+        quality and integrity. Produces exceptional weapons and armor. Taro teaches those who demonstrate genuine
+        commitment.</p>
+
+        <p><strong>The Moonlit Garden (Ryu Jikuchiku)</strong> -- Teahouse in the Dragon Borough with a garden famous
+        for nighttime aesthetics -- white stone, silver-leaved trees, reflecting pool. The party first convened here.
+        Renowned for discretion.</p>
+
+        <p><strong>Hikari no Shizuku (Hikari Zon)</strong> -- Healing and light magic enclave in the Knowledge District.
+        Provides medical services and trains healing-aligned sei practitioners.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: OVdxiVLLcTTn1XYM
+    _key: '!journal.pages!hzsa2iSlnRd38adi.OVdxiVLLcTTn1XYM'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -176,7 +174,27 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <ul>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura} -- Shugo (Governor) of
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} -&gt; npcs/hiroshi-nakamura.md</li>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura} -- Taisho (General);
+        military commander -&gt; npcs/hideo-nakamura.md</li>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.pQR5C4JfmyeCDwYc]{Taro Fukomoto} -- Master blacksmith
+        -&gt; npcs/taro-fukomoto.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>The Imperial Palace&#39;s sealed sections contain something found after the Emperor&#39;s death that the
         Kokushi Kyokai does not know how to handle.</li>
@@ -188,33 +206,17 @@ pages:
 
         </ul>
 
-        </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: LXb5eJTyOXHcwEzK
-    _key: '!journal.pages!hzsa2iSlnRd38adi.LXb5eJTyOXHcwEzK'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
 
-        <p><strong>Hiroshi Nakamura -- Traitor in Place</strong>
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura} -- Traitor in
+        Place</strong>
 
         As Shugo, Hiroshi has near-total access to Clan Kaminari&#39;s intelligence and administrative operations. He is
         feeding intelligence to an outside party and has been for at least three years. He is aware that Hideo is
@@ -233,7 +235,8 @@ pages:
         Council, among other groups. Information exchanges here regularly under the social protection of tea ceremony
         neutrality. The staff are trained to notice and remember without appearing to.</p>
 
-        <p><strong>Hideo Nakamura&#39;s Investigation</strong>
+        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura}&#39;s
+        Investigation</strong>
 
         Hideo is hunting a traitor he does not yet know is his brother. He has narrowed the leak to a small circle of
         senior staff. The question is whether he reaches the conclusion before Hiroshi learns how close Hideo is and
@@ -245,12 +248,19 @@ pages:
         administrative delay. Three serious claimants are being watched. Two are probably fraudulent. One may not
         be.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
-        <li>Hideo Nakamura asks the party to carry out intelligence work he cannot assign to his own staff -- suggests
-        he suspects someone close</li>
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura} asks the party to carry
+        out intelligence work he cannot assign to his own staff -- suggests he suspects someone close</li>
 
         <li>An unusual request arrives from the sealed section of the Imperial Palace: someone inside has sent a note
         requesting outside contact; the Kokushi Kyokai doesn&#39;t know how this happened</li>
@@ -259,6 +269,7 @@ pages:
         verification</li>
 
         </ul>
+
 
         </section>
       markdown: ''
@@ -270,9 +281,9 @@ pages:
     category: null
     sort: 40
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -286,8 +297,3 @@ flags:
       settlement_type: city
       island: hokori
       province: hana
-      governing_clan: kaminari
-      administrator: npcs/hiroshi-nakamura.md
-      population: Large (estimated high tens of thousands)
-      climate: Temperate; cherry blossom springs; warm summers; brilliant autumns; mild winters
-      tags: []

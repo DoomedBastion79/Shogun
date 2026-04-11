@@ -1,0 +1,677 @@
+_id: P63d5AJsqtwbZDmT
+_key: '!journal!P63d5AJsqtwbZDmT'
+name: Shakai
+pages:
+  - _id: lr4E39vzL6uOcYig
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.lr4E39vzL6uOcYig'
+    name: Society of Kagekuni
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Kagekuni is a civilisation built on hierarchy. It is not a suggestion, not a tradition that has softened with
+        time — it is the architecture of daily life, enforced by law, reinforced by custom, and internalised by nearly
+        everyone who lives within it. From the moment a child is born, their place in the order is known. What they may
+        do, where they may go, how they must speak to those above and below them — all of it is governed by structures
+        older than most of the buildings they live in.</p>
+
+        <p>Understanding this society is essential to moving through it. The adventurer who ignores social rank will
+        find doors closed, prices raised, and patience exhausted long before any blade is drawn.</p>
+
+        <h2 id="kg-the-imperial-order" data-section="the-imperial-order">The Imperial Order</h2>
+
+        <p>At the apex of Kagekuni&#39;s political structure sits the Emperor — or, more precisely, the empty throne
+        where an emperor should sit. For over eight thousand years, the imperial line traced its descent from
+        <strong>Tenryū no Mikado</strong>, the first emperor, who united the warring dragon clans and forged the
+        archipelago into a single civilisation. The emperor&#39;s authority was absolute in theory and considerable in
+        practice, tempered by the realities of governing a vast island chain through intermediaries.</p>
+
+        <p>Beneath the emperor, the <strong>Shogun</strong> served as supreme military commander — a wartime appointment
+        granted by imperial decree, carrying the authority to mobilise armies, impose martial law, and compel obedience
+        from the daimyō. The position was never permanent by design. In practice, some shoguns held power for
+        decades.</p>
+
+        <p>The <strong>Kokushi Kyōkai</strong> — the Council of Five Ministers — administers the empire&#39;s civilian
+        machinery. Five departments cover the essential functions of governance:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Title</th>
+
+        <th>Role</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Anzen Hoshō Daijin</strong></td>
+
+        <td>Minister of Security — intelligence, imperial protectorate</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Fukushi Daijin</strong></td>
+
+        <td>Minister of Welfare — healthcare, education, public assistance</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Gaikō Daijin</strong></td>
+
+        <td>Minister of Foreign Affairs — diplomacy, trade, foreign nationals</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Seimu Daijin</strong></td>
+
+        <td>Minister of Administration — provincial governance, infrastructure</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Zaiumu Daijin</strong></td>
+
+        <td>Minister of Finance — treasury, taxation, revenue</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>Below the national level, provincial administration follows its own chain: <strong>Chiji</strong> (Governor)
+        to <strong>Gunji</strong> (County Magistrate) to <strong>Shi</strong> (Municipal Assembly) to
+        <strong>Shichō</strong> (Mayor) to <strong>Sonchō</strong> (Village Leader). In theory, each level answers to
+        the one above. In practice, local power depends heavily on who controls the samurai in the region.</p>
+
+        <p>The <strong>Teikoku Keisatsu</strong> — the Imperial Police — maintain order at a local level. Once an
+        empire-wide institution, the police have retreated to a regional footprint in the absence of central authority.
+        They cooperate with local clan forces where relations allow it and operate independently where they do not.</p>
+
+        <h2 id="kg-the-three-castes" data-section="the-three-castes">The Three Castes</h2>
+
+        <p>Kagekuni&#39;s population is divided into three castes. Movement between them is rare, difficult, and in most
+        cases functionally impossible. A person&#39;s caste determines what occupations they may hold, who they may
+        marry, where they may live, and how they are treated under law.</p>
+
+        <h3 id="kg-kugai-the-elite" data-section="kugai-the-elite">Kugai — The Elite</h3>
+
+        <p>The ruling class. Kugai families claim descent from the imperial founders or the dragon clans that preceded
+        them. In practice, the caste is dominated by humans and dragonborn, though other races with sufficient political
+        connections have occasionally been elevated. The Kugai includes the daimyō, their courts, senior scholars, and
+        the highest-ranking samurai — the <strong>hatamoto</strong>, or bannermen, who serve as personal retainers to
+        clan lords.</p>
+
+        <p>Kugai families maintain genealogical records stretching back centuries. Some are genuine. Some are creative.
+        All are taken seriously.</p>
+
+        <h3 id="kg-zokumin-the-commonfolk" data-section="zokumin-the-commonfolk">Zokumin — The Commonfolk</h3>
+
+        <p>The broad middle of society, encompassing everyone from samurai to merchants. The Zokumin are not a single
+        class but a gradient, and the distinctions within it matter enormously to those who live them.</p>
+
+        <p>At the top sit <strong>samurai</strong> in active service — warriors sworn to a lord, carrying the authority
+        of their clan. Below them, <strong>rōnin</strong> — masterless samurai — occupy an uncomfortable middle ground:
+        they retain the right to carry weapons but lack the social anchor of a lord&#39;s name. Below rōnin come
+        <strong>peasants</strong>, who work the land and form the backbone of the food supply. <strong>Artisans</strong>
+        follow — craftspeople whose skills are valued but whose social standing reflects the society&#39;s bias toward
+        land and loyalty over craft. At the very bottom of the Zokumin sit <strong>merchants</strong>.</p>
+
+        <p>This last distinction is the source of chronic social tension. Merchants often possess considerable wealth —
+        in some cases more than the samurai who look down on them. But wealth without rank buys comfort, not respect. A
+        merchant who forgets this distinction will be reminded of it quickly and without sympathy.</p>
+
+        <h3 id="kg-burakumin-the-outcasts" data-section="burakumin-the-outcasts">Burakumin — The Outcasts</h3>
+
+        <p>Those whose work involves death or pollution. Leather workers, butchers, executioners, undertakers,
+        gravediggers — anyone whose livelihood touches the boundary between life and death. The Burakumin live in
+        segregated communities called <strong>buraku</strong>, subject to limited civil rights and systemic harassment.
+        They are not enslaved, but the freedoms available to them are narrow and the prejudice they face is open.</p>
+
+        <p>The caste system predates the current empire. It survived the Dark Ages, the return of magic, and every
+        political upheaval in between. It will likely survive whatever comes next.</p>
+
+        <h2 id="kg-honour" data-section="honour">Honour</h2>
+
+        <p>Honour in Kagekuni is not an abstraction. It is a currency, a weapon, and a sentence.</p>
+
+        <p>A samurai&#39;s honour determines their standing within their clan, their right to speak in councils, the
+        marriages their children may make, and the manner of their death. Honour is earned through service, loyalty, and
+        sacrifice. It is lost through cowardice, betrayal, or failure — and once lost, it is extraordinarily difficult
+        to recover. A samurai who loses their honour may face exile, ritual punishment, or the expectation that they
+        will take their own life to restore their family&#39;s name.</p>
+
+        <p>The codes of <strong>bushidō</strong> — the way of the warrior — govern samurai conduct. Duty to one&#39;s
+        lord supersedes personal desire. Courage in battle is expected, not celebrated. Loyalty is absolute until the
+        moment it isn&#39;t, at which point it becomes treason. The tension between these demands — when duty conflicts
+        with conscience, when loyalty to a corrupt lord meets personal honour — is the engine that drives much of
+        Kagekuni&#39;s political drama.</p>
+
+        <p>Honour applies differently across the castes. Peasants and merchants are not bound by bushidō, but they live
+        within its shadow. A merchant who shames a samurai may find their shop burned. A peasant who fails to show
+        proper deference may be struck without legal consequence. The social codes are enforced not by law alone but by
+        a pervasive understanding that hierarchy is the natural order — and that those who disrupt it invite
+        consequences not just for themselves but for their families.</p>
+
+        <h2 id="kg-the-peoples-of-kagekuni" data-section="the-peoples-of-kagekuni">The Peoples of Kagekuni</h2>
+
+        <p>The archipelago is home to many races, though not all enjoy equal standing. Humans and dragonborn —
+        particularly those claiming descent from the founding dragon clans — move through society with the fewest
+        barriers. Other races face varying degrees of prejudice depending on the region, the local clan&#39;s attitudes,
+        and the circumstances of their presence.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Race</th>
+
+        <th>Cultural Name</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Elves</td>
+
+        <td><strong>Arcadians</strong></td>
+
+        <td>Near-immortal; the imperial line was Arcadian; last emperor Ryūjin died 16739</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dwarves</td>
+
+        <td><strong>Zirak</strong></td>
+
+        <td>Ancestral homeland in Mizuho, on the island of Tatara</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Gnomes</td>
+
+        <td><strong>Glimfyr</strong></td>
+
+        <td>Ancestral homeland in Shugyoku, on the island of Tatara</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Great Apes</td>
+
+        <td><strong>Guhuza</strong></td>
+
+        <td>Distinct race of Seizan; powerful build; fur from black to silvered; capable of great age</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dragonborn</td>
+
+        <td>Dragonborn</td>
+
+        <td>Prominent among the Kugai; claim descent from the founding dragons</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Halflings</td>
+
+        <td>Halflings</td>
+
+        <td>Present across the archipelago; lower social standing</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>The <strong>Zirak</strong> and <strong>Glimfyr</strong> have maintained an eternal feud on their shared
+        island of Tatara. They rarely stop fighting. Historically, only an emperor&#39;s direct command has imposed
+        truces — and those truces have always ended sooner than intended. Their conflict once sparked the empire-wide
+        <strong>War of Fractured Banners</strong>. With no emperor to restrain them, the feud has recently escalated
+        again.</p>
+
+        <p>Characters who are not dragonborn, human, or the locally dominant non-human race will encounter prejudice in
+        social situations. Doors close. Prices rise. Patience runs thin. This is not universal — individual NPCs may be
+        more or less tolerant — but the systemic bias is real and pervasive.</p>
+
+        <h2 id="kg-the-military" data-section="the-military">The Military</h2>
+
+        <p>War in Kagekuni is the domain of the samurai, but the dying is shared widely.</p>
+
+        <p>The military command hierarchy runs from the <strong>Shōgun</strong> (currently a vacant position) down
+        through the <strong>daimyō</strong>, who command their clan&#39;s forces directly. Below the daimyō, the chain
+        continues:</p>
+
+        <p><strong>Sotaishō</strong> (Supreme Commander) → <strong>Karō</strong> (Chief Retainer) →
+        <strong>Taishō</strong> (General) → <strong>Kumigashira</strong> (Squad Leader) → <strong>Kogashira</strong>
+        (Corporal)</p>
+
+        <p>Samurai form the officer class, ranked from <strong>gokenin</strong> (housemen) through
+        <strong>goshi</strong> (rustic warriors) to <strong>hatamoto</strong> (bannermen — the elite retainers of a
+        daimyō). Below them, the <strong>ashigaru</strong> — peasant infantry — fill the ranks with sword, spear, and
+        bow.</p>
+
+        <p>An extensive logistics corps of <strong>bugyō</strong> (commissioners) manages everything from weapons and
+        armour to provisions, boats, and battlefield flags. War in Kagekuni is not simply a matter of warriors meeting
+        on a field — it is an administrative enterprise requiring coordination across difficult terrain, unpredictable
+        weather, and supply lines that stretch through mountains and across water.</p>
+
+        <h3 id="kg-the-ronin-crisis" data-section="the-ronin-crisis">The Ronin Crisis</h3>
+
+        <p>The current political vacuum has produced a surge in <strong>rōnin</strong> — masterless samurai — at numbers
+        not seen in living memory. Some lost their lords to the war. Others served clans that dissolved during the
+        upheaval. Some walked away by choice, unable to reconcile their duty with their conscience.</p>
+
+        <p>Rōnin are a destabilising force. They retain the right to bear arms and the training to use them, but lack
+        the social anchor of a lord&#39;s authority. Some seek new masters. Some sell their swords. Some turn to
+        banditry. The roads of Kagekuni are significantly less safe than they were a decade ago, and rōnin are the
+        primary reason.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Teeqj4LPE34rl1US
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.Teeqj4LPE34rl1US'
+    name: Clans and Factions
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: "<p>Power in Kagekuni flows through clans. Each is a political entity unto itself — a family at its core, expanded over centuries into a network of vassals, retainers, allied families, and sworn samurai. A clan controls territory, maintains armies, administers justice within its borders, and pursues its interests through diplomacy, marriage, trade, and war. The daimyō who leads each clan holds authority that is, within their province, nearly absolute.</p>\n<p>For most of the empire&#39;s history, the clans answered to the Emperor. With the throne empty and the Shogunate frozen, that restraint is gone. What remains is ambition, geography, and the alliances that clans have forged to survive what comes next.</p>\n<h2 id=\"kg-the-alliances\" data-section=\"the-alliances\">The Alliances</h2>\n<p>Two years of open war have divided Hokori&#39;s major clans into opposing alliances, with three clans maintaining a precarious independence between them.</p>\n<table>\n<thead>\n<tr>\n<th>Alliance</th>\n<th>Member Clans</th>\n<th>Provinces</th>\n<th>Status</th>\n</tr>\n</thead>\n<tbody><tr>\n<td><strong>Genso</strong></td>\n<td>Fuyugiri, Homoruyama, Ryū@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{kaze}, Tsuchiura</td>\n<td>@UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa}, @UUID[Compendium.assistant.lore.JournalEntry.NqmsJN8vRCfayaIO]{Tsuchi}</td>\n<td>At war</td>\n</tr>\n<tr>\n<td><strong>Arashi</strong></td>\n<td>Arashiyama, Hoshizora, Shirotsuru, Yūgure</td>\n<td>@UUID[Compendium.assistant.lore.JournalEntry.MLJk1KAijasQiUgh]{Mizu}, @UUID[Compendium.assistant.lore.JournalEntry.RIEvGqWkHWedg3O6]{Nami}</td>\n<td>At war</td>\n</tr>\n<tr>\n<td><strong>Independent</strong></td>\n<td>Kaminari, Kurohana, Gekkō</td>\n<td>@UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana}, and others</td>\n<td>Neutral — for now</td>\n</tr>\n</tbody></table>\n<p>The <strong>Genso Alliance</strong> controls the verdant interior and the southern frontier. Its strength lies in agricultural wealth, ore from the mountains of Tsuchi, and the strategic depth that comes from holding the island&#39;s most productive farmland.</p>\n<p>The <strong>Arashi Alliance</strong> commands the northwestern coast and the storm-battered northeast. Its advantages are naval — Minato-jō and Namigashira are the two great ports of Hokori — and its clans are hardened by generations of living where the weather itself is a combatant.</p>\n<p>Two years of escalating hostility have produced no decisive outcome. Battles are fought, borders shift, villages burn, and the common people pay the price.</p>\n<p>The three <strong>independent clans</strong> are the fulcrum on which the war may turn. Every faction knows this. The independents are courted, threatened, and watched. Their allegiance — or continued neutrality — could end the war overnight.</p>\n<h2 id=\"kg-the-independent-clans\" data-section=\"the-independent-clans\">The Independent Clans</h2>\n<h3 id=\"kg-clan-kaminari\" data-section=\"clan-kaminari\">Clan Kaminari</h3>\n<p><strong>Daimyō:</strong> @UUID[Compendium.assistant.npcs-lore.JournalEntry.0HclUlVglsnisViu]{Raijin no Kazuhiko} — <em lang=\"ja-Latn\">The Storm-lord</em>\n<strong>Race:</strong> Human | <strong>Age:</strong> 47 | <strong>Province:</strong> Hana | <strong>Capital:</strong> @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}</p>\n<p>Kazuhiko was not born into Clan Kaminari. He rose through martial prowess alone — a fact that earns him both grudging respect and quiet resentment among those who believe blood should determine rank. His hair is black streaked with silver, his manner direct, and his reputation built on a mastery of storm magic that few in the archipelago can match.</p>\n<p>Kaminari controls the Province of Hana and with it the imperial capital of Heian — the most politically sensitive position of any clan in Kagekuni. They hold the seat of empire without the authority to claim it. Every decision Kazuhiko makes is scrutinised by both alliances, who see in Hana&#39;s independence either a potential ally or a threat that must eventually be addressed.</p>\n<p>Kaminari&#39;s warriors are fierce and well-trained, known for discipline under pressure and a willingness to fight in conditions that would break lesser forces. The clan&#39;s connection to storm magic is not merely a reputation — it shapes their tactics, their training, and the way their enemies plan against them.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-kaminari-secrets\" data-section=\"dm-note-kaminari-secrets\">DM Note — Kaminari Secrets</h4>\n<p>Kazuhiko doubts the official accusations against Dian&#39;s father and is quietly investigating the circumstances of Emperor Ryūjin&#39;s death. He has shared this with no one outside his closest circle.</p>\n<p><strong>Key Personnel:</strong></p>\n<ul>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.M8agMY0L6FYoWSms]{Hideo Nakamura}</strong> — Taishō; runs special operations for the clan. Loyal and competent.</li>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura}</strong> — Taishō; Shugo (military governor) of Heian. Hideo&#39;s brother. <strong>TRAITOR</strong> — feeding intelligence to the Genso Alliance. Hideo does not suspect.</li>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.1uZPhioHmd3Fmxti]{Arinori Senzai}</strong> — Hyōrō Bugyō (provisions commissioner). Secret member of the Elven Council; quietly investigating corruption within it.</li>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.fbx0optmtxCbt7X7]{Haruto Masashige}</strong> — Captain of the Guard at @UUID[Compendium.assistant.lore.JournalEntry.qQn8an0aGULyMhoM]{Kikyo}.</li>\n</ul>\n</section>\n\n<h3 id=\"kg-clan-kurohana\" data-section=\"clan-kurohana\">Clan Kurohana</h3>\n<p><strong>Daimyō:</strong> @UUID[Compendium.assistant.npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{Akihiko Kurohana}\n<strong>Race:</strong> Black Dragonborn | <strong>Age:</strong> 54 | <strong>Province:</strong> Varies | <strong>Capital:</strong> Unspecified</p>\n<p>Akihiko Kurohana stands six and a half feet tall, with scales like polished obsidian and eyes that glow faintly red. He maintains his clan&#39;s independence through strength and reputation rather than diplomacy. His intentions are difficult to read, which is precisely as he prefers it.</p>\n<p>Kurohana is a clan that trades on uncertainty. Their daimyō says little in public, commits to nothing without advantage, and ensures that neither alliance can take his loyalty for granted. In the current climate, this deliberate opacity is both a shield and a provocation — every faction wonders what Kurohana will do, and Akihiko ensures they keep wondering.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-kurohana-secrets\" data-section=\"dm-note-kurohana-secrets\">DM Note — Kurohana Secrets</h4>\n<p>Akihiko also doubts the accusations against Dian&#39;s father and is independently investigating the emperor&#39;s assassination — unknown to Kaminari, who are pursuing the same line of inquiry.</p>\n<p>Akihiko issued an Imperial Seal calling for an investigation into the silence of Clan Gekkō.</p>\n<p><strong>Key Personnel:</strong></p>\n<ul>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.KYknxHBu4Tsi3xBr]{Noboru Takeda}</strong> — Mid-level commander. Notable primarily for incompetence.</li>\n<li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.w7vr5dZctZHig504]{Tatsuya Hoshino}</strong> — Loyal samurai in Akihiko&#39;s service.</li>\n</ul>\n</section>\n\n<h3 id=\"kg-clan-gekk-status-uncertain\" data-section=\"clan-gekk-status-uncertain\">Clan Gekkō (Status Uncertain)</h3>\n<p><strong>Daimyō:</strong> Masota no Gekkō\n<strong>Race:</strong> Unknown | <strong>Age:</strong> Unknown | <strong>Province:</strong> Kaze | <strong>Capital:</strong> Tsukikage</p>\n<p>Daimyō Masota no Gekkō has not been seen publicly in some time. His clan&#39;s silence has drawn attention from both alliances and from the other independents. Trade through Kaze province has slowed. The provincial administration has stopped communicating with Heian. Rumours vary — illness, a power struggle within the clan, or something worse.</p>\n<p>Clan Gekkō historically governed Kaze with careful neutrality through successive political upheavals. Their sudden silence is one of the most pressing questions in Kagekuni&#39;s current politics, and both Kaminari and Kurohana have taken notice.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-clan-gekk\" data-section=\"dm-note-clan-gekk\">DM Note — Clan Gekkō</h4>\n<p>Clan Gekkō&#39;s senior seimasters discovered fragmentary texts describing an Onyx Dragon ritual — a transformation rite tied to Kokuryū. Those who underwent it became <strong>Nagaji</strong> (serpent folk). The transformation spread through the clan. Daimyō Masota no Gekkō underwent it last, in desperation. He is alive in the highlands of Kaze, retaining fragments of his identity but losing coherence over time. The longer the situation persists, the less of him remains to reach.</p>\n<p>The capital of <strong>Tsukikage</strong> stands functionally abandoned — eerily intact, personal belongings still in place, meals half-finished, as if everyone simply walked away.</p>\n<p>The <strong>Order of the Black Lily</strong> (Monastery of the Black Lily, above @UUID[Compendium.assistant.lore.JournalEntry.G73nlQAKU99FLB4T]{Akatsuki} village in Kaze province) knows the full truth. They have made a calculated decision: the information is too dangerous to release without a reversal plan. They will share the complete truth with parties who reach them — but only the complete truth.</p>\n<p><strong>The party has already encountered and killed several Nagaji without knowing they were Gekkō clan members.</strong> The moral reckoning is pending.</p>\n<p>A reversal may be possible but requires rare materials, specific conditions, or Progenitor involvement. The details are TBD.</p>\n</section>\n\n<h2 id=\"kg-the-alliance-clans\" data-section=\"the-alliance-clans\">The Alliance Clans</h2>\n<h3 id=\"kg-genso-alliance\" data-section=\"genso-alliance\">Genso Alliance</h3>\n<p>The Genso Alliance governs the provinces of <strong>Kusa</strong> and <strong>Tsuchi</strong> through four member clans: <strong>Fuyugiri</strong>, <strong>Homoruyama</strong>, <strong>Ryūkaze</strong>, and <strong>Tsuchiura</strong>. Their strength lies in the agricultural heartland of Kusa — the most productive farmland on Hokori — and the mineral wealth of Tsuchi&#39;s mountains. The alliance&#39;s strategic depth means it can absorb territorial losses that would cripple a coastal faction.</p>\n<p><strong>Clan Tsuchiura</strong> is the most prominent of the Genso clans beyond Hokori, also governing the <strong>Mizuho</strong> region on the island of Tatara — the ancestral homeland of the Zirak.</p>\n<h3 id=\"kg-arashi-alliance\" data-section=\"arashi-alliance\">Arashi Alliance</h3>\n<p>The Arashi Alliance controls <strong>Mizu</strong> and <strong>Nami</strong> through four member clans: <strong>Arashiyama</strong>, <strong>Hoshizora</strong>, <strong>Shirotsuru</strong>, and <strong>Yūgure</strong>. Their power is naval. The two great ports of Hokori — <strong>Minato-jō</strong> in the northwest and <strong>Namigashira</strong> in the northeast — both sit within Arashi territory. What moves by sea moves through them.</p>\n<p><strong>Clan Shirotsuru</strong> extends the Arashi Alliance&#39;s reach to Tatara, governing the <strong>Shugyoku</strong> region — the ancestral homeland of the Glimfyr.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-arashi-naval-build-up\" data-section=\"dm-note-arashi-naval-build-up\">DM Note — Arashi Naval Build-up</h4>\n<p>Minato-jō is building naval capacity beyond what defensive requirements would justify. An offensive operation involving the western sea is being planned. The details remain opaque to outsiders.</p>\n</section>\n\n<h2 id=\"kg-minor-clans\" data-section=\"minor-clans\">Minor Clans</h2>\n<p>Not every clan commands a province. Smaller clans exist as vassals, allies, or clients of the great clans — bound by oaths of loyalty, grants of land, or simple necessity.</p>\n<h3 id=\"kg-clan-seishin-subject-of-kaminari\" data-section=\"clan-seishin-subject-of-kaminari\">Clan Seishin (Subject of Kaminari)</h3>\n<p><strong>Daimyō:</strong> @UUID[Compendium.assistant.npcs-lore.JournalEntry.A1IgNg32hleJFjNB]{Ren Nakamura} | <strong>Race:</strong> Human | <strong>Age:</strong> 52</p>\n<p>Also known as <strong>Clan Minato</strong> by their lesser title. Ren Nakamura serves as Shichō of Kikyo within Kaminari territory.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-clan-seishin\" data-section=\"dm-note-clan-seishin\">DM Note — Clan Seishin</h4>\n<p>Ren Nakamura is quietly working to elevate Clan Seishin&#39;s status. He has formed a secret alliance with a powerful merchant guild — leveraging economic influence where political standing is insufficient.</p>\n<p>He also possesses ancient knowledge about the <strong>Seidōrin Mori</strong> (Bronze Wood Forest) and the nature of its metallic trees — knowledge that connects to deeper secrets about what lies beneath Hana province.</p>\n</section>\n\n<h2 id=\"kg-orders-amp-organisations\" data-section=\"orders-amp-organisations\">Orders &amp; Organisations</h2>\n<p>Beyond the clan structure, several organisations operate across — and sometimes against — the political landscape.</p>\n<h3 id=\"kg-order-of-the-tranquil-lotus\" data-section=\"order-of-the-tranquil-lotus\">Order of the Tranquil Lotus</h3>\n<p>A nature-focused monastic order based on <strong>Unmeijima</strong>, near the town of Kazehama. The order emphasises contemplation, physical discipline, and harmony with the natural world. Their elder, <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.AxEPHd8zzzGU9DdG]{Benkei}</strong> — a Guhuza of 198 years — is among the oldest known living individuals in the archipelago.</p>\n<p>The order occasionally dispatches members as delegates or advisors to the clans. <strong>Sun Wukong</strong>, a novice, currently serves as delegate to Clan Kaminari.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-benkei\" data-section=\"dm-note-benkei\">DM Note — Benkei</h4>\n<p>Elder Benkei is a member of the <strong>Order of the Ancient Guard</strong> — the secret organisation dedicated to protecting the sleeping founding dragons. His rank within the Ancient Guard is TBD, but his position as head of the Tranquil Lotus gives him a legitimate cover for influence across the archipelago.</p>\n</section>\n\n<h3 id=\"kg-order-of-the-sacred-grove\" data-section=\"order-of-the-sacred-grove\">Order of the Sacred Grove</h3>\n<p>A druidic tradition devoted to protecting specific sacred sites across Kagekuni. The order&#39;s guardians are few, scattered, and deeply committed to sites they may tend for decades.</p>\n<p>Their former guardian, <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen}</strong>, is deceased. His successor, <strong>Relc</strong>, was appointed through a posthumous letter — an unusual and somewhat irregular transfer of authority that suggests Solas anticipated his own death. <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.LxYKTGiDHIGu2UFz]{Hideaki Sato}</strong>, an elder of the order, resides in Kōriwara village in Mizu province.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-order-of-the-sacred-grove\" data-section=\"dm-note-order-of-the-sacred-grove\">DM Note — Order of the Sacred Grove</h4>\n<p>Solas Evergreen was a member of the <strong>Order of the Ancient Guard</strong> — likely ranked Protector or higher. His murder was not random violence but a deliberate assassination intended to prevent the awakening of <strong>Kinryū</strong> (the Golden Dragon). Solas was protecting the path to Kinryū, and someone removed him.</p>\n<p>Relc now carries the mission Solas died for. He possesses the <strong>Warden&#39;s Wisdom</strong> — a cipher that leads to methods for awakening Kinryū. Relc may not fully understand the significance of what he holds.</p>\n<p>Hideaki Sato knew Solas directly and knows that Solas was a member of the Ancient Guard. One of three cipher poem stones connected to the Warden&#39;s Wisdom is located near Kōriwara.</p>\n</section>\n\n<h3 id=\"kg-order-of-the-black-lily\" data-section=\"order-of-the-black-lily\">Order of the Black Lily</h3>\n<p>Kagekuni&#39;s premier infiltration specialists, based at the <strong>Monastery of the Black Lily</strong> above Akatsuki village in Kaze province. The monastery is a secret training facility — austere dark stone construction, hidden from casual observation. The villagers of Akatsuki know the order exists and tell outsiders nothing.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-order-of-the-black-lily\" data-section=\"dm-note-order-of-the-black-lily\">DM Note — Order of the Black Lily</h4>\n<p>The Black Lily holds the complete truth about Clan Gekkō&#39;s transformation into Nagaji. They have decided the information is too dangerous to release without a viable reversal plan. Parties who reach the monastery will learn everything — but only if they reach it.</p>\n</section>\n\n<h3 id=\"kg-shnin-za\" data-section=\"shnin-za\">Shōnin-za</h3>\n<p>The merchant class occupies the lowest rung of the Zokumin caste, but their economic influence far exceeds their social standing. Merchant guilds operate across clan borders, moving goods, capital, and — inevitably — information. <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.cJEGI93QabikivVA]{Kenta Yamada}</strong> is an active guild member. <strong>Ren Nakamura</strong> of Clan Seishin maintains a secret alliance with a powerful guild branch in Kikyo.</p>\n<p>The tension between merchant wealth and merchant status is one of Kagekuni&#39;s chronic fault lines. Guilds cannot openly challenge the social order, but their money flows where swords cannot reach.</p>\n<h3 id=\"kg-seiju-hygikai\" data-section=\"seiju-hygikai\">Seiju Hyōgikai</h3>\n<p>A shadowy body whose full membership and purpose are not widely known. <strong>Arinori Senzai</strong> is a secret member.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-the-elven-council\" data-section=\"dm-note-the-elven-council\">DM Note — The Elven Council</h4>\n<p>Some members of the council are suspected of corruption. Senzai is quietly investigating from within. The council&#39;s full scope, membership, and influence are to be developed further.</p>\n</section>\n\n<h3 id=\"kg-magical-institutions\" data-section=\"magical-institutions\">Magical Institutions</h3>\n<p>The return of sei has spawned institutions dedicated to its study and application:</p>\n<p><strong>Seishin</strong> on the island of Unmeijima — the premier research institution for sei, founded around <strong>Hikari no Kenta</strong>, the first known Talent. What began as a place of study has grown into a city in its own right.</p>\n<p><strong>Hikari no Shizuku</strong> in Heian — a healing and light magic tradition operating within the imperial capital.</p>\n<p>The <strong>Raimeiin</strong> (雷鳴院 — Institute of Thunder) and the tradition associated with the <strong>Forest of Spirits</strong> (Yōsei Mori) in Kusa were both revealed publicly during the Plague Campaign of 16609–16616. Their methods and internal workings are not widely known.</p>\n<section class=\"secret kg-secret-sealed\">\n\n<h4 id=\"kg-dm-note-the-forest-of-spirits\" data-section=\"dm-note-the-forest-of-spirits\">DM Note — The Forest of Spirits</h4>\n<p>During the Dark Ages, a faction survived within the Yōsei Mori and continued to study sei behavior during the magic-absent era. They hold records that would upend current seimaster orthodoxy — evidence that sei never truly disappeared but rather changed in ways the mainstream tradition failed to observe. This knowledge is contained within the deeper reaches of the forest, where navigation is unreliable and the creatures are unnervingly intelligent.</p>\n</section>\n\n<h2 id=\"kg-hidden-organisations\" data-section=\"hidden-organisations\">Hidden Organisations</h2>\n<blockquote>\n<p><strong>Foundry Note:</strong> The following sections should be marked as hidden from player view. They contain DM-only information about organisations the players have not yet discovered.</p>\n</blockquote>\n<h3 id=\"kg-order-of-the-ancient-guard\" data-section=\"order-of-the-ancient-guard\">Order of the Ancient Guard</h3>\n<p>The most secret organisation in Kagekuni. The Ancient Guard exists for a single purpose: to protect the seven founding dragons in their slumber and to maintain the conditions under which they remain undisturbed.</p>\n<p><strong>Ranks:</strong></p>\n<ol>\n<li>High Guardian</li>\n<li>Warden</li>\n<li>Sentinel</li>\n<li>Keeper</li>\n<li>Protector</li>\n<li>Initiate</li>\n</ol>\n<p>The Guard operates through hidden sanctuaries across the archipelago. Its members hold public positions in other organisations — monasteries, druidic orders, provincial administrations — using these as cover for their true work. Their influence is subtle: preventing any single power from dominating, steering political outcomes away from actions that might disturb draconic sites, and watching for threats to the dragons&#39; safety.</p>\n<p><strong>Known Members:</strong></p>\n<ul>\n<li><strong>Benkei</strong> — Elder of the Order of the Tranquil Lotus; rank within the Ancient Guard TBD</li>\n<li><strong>Solas Evergreen</strong> — Former Guardian of the Order of the Sacred Grove; DECEASED; rank likely Protector or higher</li>\n<li><strong>Keeper @UUID[Compendium.assistant.npcs-lore.JournalEntry.VbeOYE2HHcpUZzTe]{Tsubaki}</strong> — Initiate, ~60 years of service; stationed at the Crimson Shrine in Hi province</li>\n</ul>\n<p><strong>Critical Implication:</strong> Solas&#39;s murder means someone is actively targeting members of the order that protects the dragons. The scope of the threat is unknown. Whether this is a single actor or a coordinated campaign has not been determined.</p>\n<h3 id=\"kg-eiky-yami-clan\" data-section=\"eiky-yami-clan\">Eikyū Yami Clan</h3>\n<p><strong>Kuroyami no Akuma</strong> — once called Takeda no Arata — discovered a necromantic tome on the island of Yūrei and raised an army of the dead during the Plague Campaign (16609–16616). He was defeated. He was not destroyed. His dark cult, the <strong>Eikyū Yami Clan</strong>, persists in unknown form. Kuroyami&#39;s whereabouts and current activities remain among the most dangerous unanswered questions in Kagekuni.\n\0\0\0\0\0\0\0\0\0\0\0</p>\n"
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: iLwuL3ie3i19Nwa1
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.iLwuL3ie3i19Nwa1'
+    name: Introduction
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Race</th>
+
+        <th>Setting Name</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Elves</td>
+
+        <td><strong>Arcadians</strong></td>
+
+        <td>Broadly elves; near-immortal; imperial line was arcadian; last emperor Ryūjin died 16739</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dwarves</td>
+
+        <td><strong>Zirak</strong></td>
+
+        <td>Cultural name, not subspecies; ancestral homeland Mizuho, Tatara</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Gnomes</td>
+
+        <td><strong>Glimfyr</strong></td>
+
+        <td>Cultural name, not subspecies; ancestral homeland Shugyoku, Tatara</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Great Apes</td>
+
+        <td><strong>Guhuza</strong></td>
+
+        <td>Distinct race of Seizan; powerful build; fur ranging black to silvered with age; simian features; capable of
+        great age (@UUID[Compendium.assistant.npcs-lore.JournalEntry.AxEPHd8zzzGU9DdG]{Benkei} is 198)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dragonborn</td>
+
+        <td>Dragonborn</td>
+
+        <td>Prominent in Kugai; claim descent from dragon founders</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Halflings</td>
+
+        <td>Halflings</td>
+
+        <td>Present; lower social status (@UUID[Compendium.assistant.npcs-lore.JournalEntry.KYknxHBu4Tsi3xBr]{Noboru
+        Takeda} example)</td>
+
+        </tr>
+
+        </tbody></table>
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li><strong>This is where the truth about Clan Gekkō/Nagaji will be revealed</strong></li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: ugaQLUbl8QGOEdQ9
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.ugaQLUbl8QGOEdQ9'
+    name: Zirak vs Glimfyr
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: |
+        <ul>
+        <li>Eternal feud on Tatara; rarely stop fighting</li>
+        <li>Only pause when emperor commands — and resume sooner than expected</li>
+        <li>Conflict sparked the War of Fractured Banners when it spread empire-wide</li>
+        <li>Cutscene: Gnomes deliberately sabotaged dwarven relic site — conflict currently escalating</li>
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: AFJUEDtiFmfGKxxi
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.AFJUEDtiFmfGKxxi'
+    name: Other Notable Clans
+    type: text
+    title:
+      show: true
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <ul>
+
+        <li><strong>Clan Tsuchiura</strong>: Governs Mizuho region, Tatara</li>
+
+        <li><strong>Clan Shirotsuru</strong>: Governs Shugyoku region, Tatara (Arashi Alliance)</li>
+
+        <li><strong>Eikyū Yami Clan</strong>: Kuroyami&#39;s dark cult; status unclear but persists</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Clan Seishin (Minor — Subject of Kaminari)</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
+
+        <li>Daimyo: <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.A1IgNg32hleJFjNB]{Ren Nakamura}</strong>
+        (Shicho of @UUID[Compendium.assistant.lore.JournalEntry.qQn8an0aGULyMhoM]{Kikyo}; human; 52)</li>
+
+        <li>Also known as <strong>Clan Minato</strong> for his lesser clan title</li>
+
+        <li><strong>Secret</strong>: Working to elevate Clan Seishin/Minato; secret alliance with merchant guild</li>
+
+        <li>Possesses ancient knowledge about Seidōrin Mori and Bronze Wood</li>
+
+        </ul>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Clan Gekkō (Independent — COMPROMISED)</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li>Daimyo: <strong>Masota no Gekkō</strong> — missing; transformed by dark ritual</li>
+
+        <li><strong>CRITICAL SECRET</strong>: Clan Gekkō attempted a dark ritual with catastrophic consequences — clan
+        members transformed into <strong>Nagaji</strong> (serpent folk)</li>
+
+        <li>Masota no Gekkō was also transformed</li>
+
+        <li>Full truth to be revealed at Monastery of the Black Lily in
+        @UUID[Compendium.assistant.lore.JournalEntry.G73nlQAKU99FLB4T]{Akatsuki},
+        @UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{Kaze} province</li>
+
+        <li>The Nagaji the party has been encountering ARE Clan Gekkō members</li>
+
+        <li><strong>Party has killed several without knowing they were people</strong> — moral weight pending</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 6HIdOnCDz0fB1uko
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.6HIdOnCDz0fB1uko'
+    name: Order of the Tranquil Lotus
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <ul>
+
+        <li>Nature-based with monk focus</li>
+
+        <li>Monastery on Unmeijima near Kazehama</li>
+
+        <li>Elder: <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.AxEPHd8zzzGU9DdG]{Benkei}</strong> (Guhuza;
+        198 years old)</li>
+
+        <li>Sun Wukong is a novice; assigned as delegate to Clan Kaminari</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: C8yTVn2oCG2wkBiO
+    _key: '!journal.pages!P63d5AJsqtwbZDmT.C8yTVn2oCG2wkBiO'
+    name: Order of the Sacred Grove
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <ul>
+
+        <li>Nature/druidic tradition</li>
+
+        <li>Protective of specific sacred sites</li>
+
+        <li>Guardian: <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas
+        Evergreen}</strong> (deceased)</li>
+
+        <li>Initiate/new Guardian: <strong>Relc</strong> (appointed by Solas&#39;s posthumous letter)</li>
+
+        <li>Elder connection: <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.LxYKTGiDHIGu2UFz]{Hideaki
+        Sato}</strong> (Kōriwara village)</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Seiju Hyōgikai (星樹評議会 — The Starwood Council)</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.1uZPhioHmd3Fmxti]{Arinori Senzai} is a secret member</li>
+
+        <li><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</li>
+
+        <li>To be developed further</li>
+
+        </ul>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Shōnin-za (商人座 — Merchant Guild)</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.cJEGI93QabikivVA]{Kenta Yamada} is an active member</li>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.A1IgNg32hleJFjNB]{Ren Nakamura} has secret alliance with a
+        powerful Shōnin-za branch in @UUID[Compendium.assistant.lore.JournalEntry.qQn8an0aGULyMhoM]{Kikyo}</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+folder: KQ1E6vMeEYo9NJNH
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: shakai
+    frontmatter:
+      name: Shakai
+      type: core

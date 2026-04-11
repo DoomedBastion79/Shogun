@@ -1,0 +1,11 @@
+_id: KQ1E6vMeEYo9NJNH
+_key: '!folders!KQ1E6vMeEYo9NJNH'
+name: Lore - Players Guide
+type: JournalEntry
+folder: null
+sorting: m
+sort: 10
+color: '#2563eb'
+flags:
+  assistant:
+    folderPath: lore/players-guide

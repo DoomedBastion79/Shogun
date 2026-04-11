@@ -1,0 +1,39 @@
+_id: t3v9dRe5xRjSmQ7s
+_key: '!journal!t3v9dRe5xRjSmQ7s'
+name: Failed
+pages:
+  - _id: 5B4JBI5NNBW9m1YX
+    _key: '!journal.pages!t3v9dRe5xRjSmQ7s.5B4JBI5NNBW9m1YX'
+    name: No Quests
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: <p>No failed quests.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: SwIEokv2hoSqho5O
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
+    slug: failed
+    frontmatter:
+      name: Failed
+      type: quest-group
+  simple-quest:
+    status: failed

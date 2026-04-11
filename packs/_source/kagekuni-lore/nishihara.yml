@@ -2,8 +2,8 @@ _id: QFymGSn2VMFb4Jz0
 _key: '!journal!QFymGSn2VMFb4Jz0'
 name: Nishihara
 pages:
-  - _id: FzSDAmxQFNFkYi2V
-    _key: '!journal.pages!QFymGSn2VMFb4Jz0.FzSDAmxQFNFkYi2V'
+  - _id: 4GqBJ5BxW6i04p7L
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.4GqBJ5BxW6i04p7L'
     name: Overview
     type: text
     title:
@@ -12,12 +12,16 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em lang="ja-Latn">&quot;A
-        good market draws people together. Everything else follows.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.QFymGSn2VMFb4Jz0]{Nishihara} sits in the rolling hills west of
+        the Kinryugawa, in the gentle agricultural country between
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} and the Tenchusan Ren foothills. It is a
+        village that exists primarily to serve the farmers and herders of the surrounding area -- a focal point for
+        exchange, news, and social connection in a landscape of dispersed homesteads.</p>
 
-        </section>
+        <p>The weekly market is Nishihara&#39;s defining feature. It draws traders from a surprising radius -- merchants
+        from Heian, specialty vendors from neighboring villages, and itinerant traders whose routes include Nishihara.
+        The market has a genuine village-fair quality; it is not purely transactional.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +33,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: iq0ENgAggKg5OY1d
-    _key: '!journal.pages!QFymGSn2VMFb4Jz0.iq0ENgAggKg5OY1d'
-    name: Known
+  - _id: 3kBcCIXei5LzayaI
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.3kBcCIXei5LzayaI'
+    name: Notable Establishments
     type: text
     title:
       show: true
@@ -39,37 +43,13 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Nishihara sits in the rolling hills west of the Kinryugawa, in the gentle agricultural country between Heian
-        and the Tenchusan Ren foothills. It is a village that exists primarily to serve the farmers and herders of the
-        surrounding area -- a focal point for exchange, news, and social connection in a landscape of dispersed
-        homesteads.</p>
-
-        <p>The weekly market is Nishihara&#39;s defining feature. It draws traders from a surprising radius -- merchants
-        from Heian, specialty vendors from neighboring villages, and itinerant traders whose routes include Nishihara.
-        The market has a genuine village-fair quality; it is not purely transactional.</p>
-
-        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
-
+      content: >
         <p><strong>Market Hall</strong> -- Permanent covered structure hosting the weekly market. On non-market days it
         functions as a community gathering space and occasional shelter for travelers.</p>
 
         <p><strong>Temple of the Ancestors</strong> -- The largest structure in the village; a well-maintained
         ancestor-veneration temple serving the surrounding rural community. Seasonal festivals draw families from
         several hours&#39; travel distance.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <ul>
-
-        <li>Yukari -- Village leader -&gt; npcs/yukari.md</li>
-
-        </ul>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -81,9 +61,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: 7D64fx7NeJVN1sBv
-    _key: '!journal.pages!QFymGSn2VMFb4Jz0.7D64fx7NeJVN1sBv'
-    name: Discoverable (GM)
+  - _id: euLkdqWsT3MdvBsN
+    _key: '!journal.pages!QFymGSn2VMFb4Jz0.euLkdqWsT3MdvBsN'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -92,7 +72,20 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <ul>
+
+        <li>Yukari -- Village leader -&gt; npcs/yukari.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>Yukari has an unusually clear picture of broader regional events because she makes it her business to listen
         to the traveling traders.</li>
@@ -102,31 +95,14 @@ pages:
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: fQHxZZylwfeFjGcL
-    _key: '!journal.pages!QFymGSn2VMFb4Jz0.fQHxZZylwfeFjGcL'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>Market Intelligence</strong>
 
@@ -142,7 +118,14 @@ pages:
         before stopping suddenly. The documented symptoms, if examined by a seimaster, would match early stages of a
         sei-manipulation effect rather than natural illness. No one has looked at these records recently.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
@@ -152,6 +135,7 @@ pages:
 
         </ul>
 
+
         </section>
       markdown: ''
     video:
@@ -160,11 +144,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 30
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -178,8 +162,3 @@ flags:
       settlement_type: village
       island: hokori
       province: hana
-      governing_clan: kaminari
-      administrator: npcs/yukari.md
-      population: 180
-      climate: Temperate; rolling agricultural hills
-      tags: []

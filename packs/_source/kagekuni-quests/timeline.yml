@@ -1,0 +1,430 @@
+_id: ep2zWPFA0cFCnPxu
+_key: '!journal!ep2zWPFA0cFCnPxu'
+name: Timeline
+pages:
+  - _id: op99DWqXfiJi3utE
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.op99DWqXfiJi3utE'
+    name: The First Emperor Ascends
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>~8000</strong></p><p>Tenryū no Mikado, an 852-year-old Arcadian of mixed Crimson and Golden dragon
+        lineage, unifies the archipelago through a combination of diplomacy, marriage alliances, and military conquest.
+        The imperial dynasty begins.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: WzDfHuuRaHqTZCOE
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.WzDfHuuRaHqTZCOE'
+    name: The Onyx Rebellion
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>8238</strong></p><p>Kokuryū, the Onyx Dragon, refuses imperial authority and launches a
+        four-hundred-year guerrilla campaign across the mountains of Tatara. The rebellion ends only with the
+        destruction of Kuroi Yama, though the dragon escapes.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: lv5zxuvweJVOIuFI
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.lv5zxuvweJVOIuFI'
+    name: The Golden Age Begins
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>8611</strong></p><p>Under eight successive emperors, Kagekuni achieves a level of civilisation,
+        artistic refinement, and magical sophistication never equalled. The Imperial Palace, Great Library, Grand Canal,
+        and Hoshino Tō observatory are constructed.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Sdm44zu7VTKjpQpy
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.Sdm44zu7VTKjpQpy'
+    name: The Emperor’s Highway Completed
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>11248</strong></p><p>The great road extending from
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} in three directions is completed.
+        Everything important in Hokori is still measured by its distance from that road.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: LJBk5j8rpdZu7aPF
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.LJBk5j8rpdZu7aPF'
+    name: Stellar Decline Begins
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Stellar Decline Begins</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p><strong>~12605</strong></p><p>The three-star system begins its long separation. Sei output diminishes
+        gradually. Scholars record unusual celestial phenomena but do not yet understand the pattern.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 8xMUgdQIfrokQn5J
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.8xMUgdQIfrokQn5J'
+    name: War of Fractured Banners
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>13050</strong></p><p>The Golden Age ends in blood. A feud between Zirak and Glimfyr on Tatara spreads
+        empire-wide as clans choose sides and ancient grievances resurface.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: u3QRJ3lcDc8UIKR9
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.u3QRJ3lcDc8UIKR9'
+    name: The Dark Ages Begin — Oryuzan Tenkū-ji Falls
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>13088</strong></p><p>The war breaks the empire. The Temple of Oryuzan Tenkū-ji falls during this
+        period. Magic fades as the stars separate. Civilisation contracts.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JHIJsnj57VOQs8M3
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.JHIJsnj57VOQs8M3'
+    name: The Great Aphelion — Nadir
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>The Great Aphelion — Nadir</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p><strong>~14344</strong></p><p>All three stars reach maximum distance simultaneously. The nadir of the dark
+        ages. Sei is at its lowest point. Population has fallen by nearly half.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 2
+    flags: {}
+  - _id: AGgBqAPdrRgL4nSh
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.AGgBqAPdrRgL4nSh'
+    name: The Jinshō Reformation
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>~15642</strong></p><p>The first sustained recovery begins. Political structures reform. The islands
+        begin reconnecting.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 5I9ktRmDl8Ss23z2
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.5I9ktRmDl8Ss23z2'
+    name: Dawn — First Star Returns
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Dawn — First Star Returns</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p><strong>~15883</strong></p><p>Susanoo returns to reliable visibility. The dark ages formally end. Water magic
+        and healing begin to strengthen.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 100
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 84dm6qUpm16Z2mwf
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.84dm6qUpm16Z2mwf'
+    name: First Talents Emerge
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>~15962</strong></p><p>Individuals born with innate magical ability begin appearing. They are hunted
+        before they are understood.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 110
+    ownership:
+      default: 2
+    flags: {}
+  - _id: qLo6ftQ5YoSSEXMK
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.qLo6ftQ5YoSSEXMK'
+    name: The Great Awakening
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>~16693</strong></p><p>All three stars return to reliable visibility. Magic is fully restored.
+        Tsukuyomi is the last to return, its deep red crossing into visibility defining the moment.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 2
+    flags: {}
+  - _id: pqvC9heioKd9rC4t
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.pqvC9heioKd9rC4t'
+    name: Death of the Last Emperor
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>16739</strong></p><p>Ryūjin no Mikado, the 18th Emperor, dies. No successor is confirmed. The throne
+        sits empty. Political fragmentation accelerates.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 2
+    flags: {}
+  - _id: GcVcpeTzZq1JDMbp
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.GcVcpeTzZq1JDMbp'
+    name: War Between the Alliances Begins
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>16742</strong></p><p>Open war begins between the Arashi and Genso alliances. Hokori has not known
+        peace since.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 2GxTDPQTbXeUSq49
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.2GxTDPQTbXeUSq49'
+    name: Fushichō Ashfall — Volcano Erupts
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Hachigatsu 29, 16744</strong></p><p>The Akaho Sanmyaku erupts on Fushichō. Ashfall reaches as far as
+        Hokori&#39;s northern provinces.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 0qTprjgsEzz4hREF
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.0qTprjgsEzz4hREF'
+    name: Campaign Present — Party at Tenkū-ji Gold Doors
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Nagatsuki 1, 16744</strong></p><p>The party stands before the gold doors of Oryuzan Tenkū-ji Temple,
+        first floor. Nagaji highway discovered beyond.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 2
+    flags: {}
+folder: SwIEokv2hoSqho5O
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/timeline.json
+    slug: timeline
+    frontmatter:
+      name: Timeline
+      type: quest-timeline

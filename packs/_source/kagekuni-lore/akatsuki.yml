@@ -2,8 +2,8 @@ _id: G73nlQAKU99FLB4T
 _key: '!journal!G73nlQAKU99FLB4T'
 name: Akatsuki
 pages:
-  - _id: T1Yff5EifVPgtE5i
-    _key: '!journal.pages!G73nlQAKU99FLB4T.T1Yff5EifVPgtE5i'
+  - _id: iZgJF7iHd9EVTtoG
+    _key: '!journal.pages!G73nlQAKU99FLB4T.iZgJF7iHd9EVTtoG'
     name: Overview
     type: text
     title:
@@ -12,13 +12,19 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The village that keeps secrets the way stone keeps cold -- completely and without
-        effort.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.G73nlQAKU99FLB4T]{Akatsuki} -- Dawn -- is a village whose name
+        contradicts its character. It sits in perpetual shadow from the peaks above it, reached by a winding stone path
+        gaining significant altitude. The air is cold even in summer. Mist collects in the surrounding terrain and
+        rarely lifts before midday, often not at all.</p>
 
-        </section>
+        <p>The village is modest -- terraced farming on steep slopes, stone-built houses with heavy roofs designed for
+        snow load, a central well, a small shrine. Residents are not hostile but are compact -- words measured
+        carefully, questions answered with just enough to satisfy without offering more. They have maintained this
+        posture for generations because they live below the Monastery of the Black Lily.</p>
+
+        <p>Above the village, higher on the mountainside and accessed by a stone staircase cut into the rock face,
+        stands the Monastery of the Black Lily.</p>
       markdown: ''
     video:
       controls: true
@@ -30,9 +36,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: YRkdzRiCkGNos9Lr
-    _key: '!journal.pages!G73nlQAKU99FLB4T.YRkdzRiCkGNos9Lr'
-    name: Known
+  - _id: zFiyslXPXDn4StZ8
+    _key: '!journal.pages!G73nlQAKU99FLB4T.zFiyslXPXDn4StZ8'
+    name: Districts / Landmarks
     type: text
     title:
       show: true
@@ -40,24 +46,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Akatsuki -- Dawn -- is a village whose name contradicts its character. It sits in perpetual shadow from the
-        peaks above it, reached by a winding stone path gaining significant altitude. The air is cold even in summer.
-        Mist collects in the surrounding terrain and rarely lifts before midday, often not at all.</p>
-
-        <p>The village is modest -- terraced farming on steep slopes, stone-built houses with heavy roofs designed for
-        snow load, a central well, a small shrine. Residents are not hostile but are compact -- words measured
-        carefully, questions answered with just enough to satisfy without offering more. They have maintained this
-        posture for generations because they live below the Monastery of the Black Lily.</p>
-
-        <p>Above the village, higher on the mountainside and accessed by a stone staircase cut into the rock face,
-        stands the Monastery of the Black Lily.</p>
-
-        <h3 id="kg-districts-landmarks" data-section="districts-landmarks">Districts / Landmarks</h3>
-
+      content: >
         <p><strong>The Monastery of the Black Lily</strong> -- Dark stone and iron construction; austere; functional
         rather than beautiful. The Order of the Black Lily operates here -- Kagekuni&#39;s premier training facility for
         infiltration specialists, covert intelligence operatives, and precision agents.</p>
@@ -68,12 +57,6 @@ pages:
         <p>The monks and initiates know the truth about the Nagaji transformation. They have made a calculated decision
         to not release this information without a reversal plan. They will share the complete truth with parties who
         demonstrate they are positioned to actually address the situation.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <p>None publicly documented. The village maintains deliberate anonymity.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -85,9 +68,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: rC22CVhmQ2SmHu0i
-    _key: '!journal.pages!G73nlQAKU99FLB4T.rC22CVhmQ2SmHu0i'
-    name: Discoverable (GM)
+  - _id: QhEUWcLzJqS6aHS0
+    _key: '!journal.pages!G73nlQAKU99FLB4T.QhEUWcLzJqS6aHS0'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -96,7 +79,16 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <p>None publicly documented. The village maintains deliberate anonymity.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
         demonstrate they are positioned to act.</li>
@@ -105,31 +97,14 @@ pages:
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: 75S7gaiPtkIuoDMs
-    _key: '!journal.pages!G73nlQAKU99FLB4T.75S7gaiPtkIuoDMs'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>The Order&#39;s Full Knowledge</strong>
 
@@ -157,7 +132,14 @@ pages:
         agents between assignments. Visitors who threaten this arrangement will encounter more than agricultural
         resistance.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
@@ -167,10 +149,12 @@ pages:
         <li>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
         gold doors</li>
 
-        <li>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
+        <li>An Order initiate has broken protocol and is heading toward
+        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} with partial information -- needs
         intercepting before triggering political consequences</li>
 
         </ul>
+
 
         </section>
       markdown: ''
@@ -180,11 +164,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 30
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -198,8 +182,3 @@ flags:
       settlement_type: village
       island: hokori
       province: kaze
-      governing_clan: gekko
-      administrator: unknown
-      population: Small (exact count unknown)
-      climate: Cold; perpetual shadow from peaks; mist rarely lifts
-      tags: []

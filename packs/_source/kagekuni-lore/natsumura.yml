@@ -2,8 +2,8 @@ _id: K5oyIOFTT6FGxIDb
 _key: '!journal!K5oyIOFTT6FGxIDb'
 name: Natsumura
 pages:
-  - _id: hJoY8xnuA2EEQaBh
-    _key: '!journal.pages!K5oyIOFTT6FGxIDb.hJoY8xnuA2EEQaBh'
+  - _id: cBf4c4HDK51jcaNt
+    _key: '!journal.pages!K5oyIOFTT6FGxIDb.cBf4c4HDK51jcaNt'
     name: Overview
     type: text
     title:
@@ -12,12 +12,17 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-        class="kg-info__row"><dt>Type</dt><dd data-field="type">settlement</dd></div></dl><p><em
-        lang="ja-Latn">&quot;The sea gives and the sea takes. We have learned not to keep count.&quot;</em></p>
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.K5oyIOFTT6FGxIDb]{Natsumura} is a small fishing village at the
+        point where the Star River empties into the Serenia-kai. The village has existed in essentially the same form
+        for centuries -- a cluster of wooden thatched houses on the riverbank, a small port with drying racks and
+        mooring posts. The Serenia-kai&#39;s tidal complexities make the approach navigable only during specific tidal
+        windows; the village&#39;s fishermen know these windows intimately.</p>
 
-        </section>
+        <p>The @UUID[Compendium.assistant.items.Item.e7u3mhtKBBukGdCk]{kinuo} (gold-tail fish) that commands premium
+        prices in @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} runs heaviest at the
+        Sutariba&#39;s mouth in late spring and early autumn. During these runs, Natsumura&#39;s population effectively
+        doubles with seasonal workers and traders.</p>
       markdown: ''
     video:
       controls: true
@@ -29,9 +34,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: kUK6DgzfU3SUx0Lf
-    _key: '!journal.pages!K5oyIOFTT6FGxIDb.kUK6DgzfU3SUx0Lf'
-    name: Known
+  - _id: Vq43Mfq6KsPs8VV7
+    _key: '!journal.pages!K5oyIOFTT6FGxIDb.Vq43Mfq6KsPs8VV7'
+    name: Notable Establishments
     type: text
     title:
       show: true
@@ -39,22 +44,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-overview"
-        data-section="overview">Overview</h3>
-
-        <p>Natsumura is a small fishing village at the point where the Star River empties into the Serenia-kai. The
-        village has existed in essentially the same form for centuries -- a cluster of wooden thatched houses on the
-        riverbank, a small port with drying racks and mooring posts. The Serenia-kai&#39;s tidal complexities make the
-        approach navigable only during specific tidal windows; the village&#39;s fishermen know these windows
-        intimately.</p>
-
-        <p>The kinuo (gold-tail fish) that commands premium prices in Heian runs heaviest at the Sutariba&#39;s mouth in
-        late spring and early autumn. During these runs, Natsumura&#39;s population effectively doubles with seasonal
-        workers and traders.</p>
-
-        <h3 id="kg-notable-establishments" data-section="notable-establishments">Notable Establishments</h3>
-
+      content: >
         <p><strong>The Seaside Teahouse &amp; Inn</strong> -- The village&#39;s sole accommodation and primary social
         gathering point. The proprietor is the de facto news exchange.</p>
 
@@ -65,18 +55,9 @@ pages:
         <p><strong>Net Weaver&#39;s Workshop</strong> -- Produces and repairs fishing nets adapted to Serenia-kai
         conditions.</p>
 
-        <p><strong>Natsumura Shrine</strong> -- Small riverside shrine dedicated to a water spirit associated with the
-        Sutariba. Receives offerings before gold-tail runs.</p>
-
-        <h3 id="kg-key-figures" data-section="key-figures">Key Figures</h3>
-
-        <ul>
-
-        <li>Takeda Haruto -- Village leader -&gt; npcs/takeda-haruto.md</li>
-
-        </ul>
-
-        </section>
+        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.K5oyIOFTT6FGxIDb]{Natsumura} Shrine</strong> -- Small
+        riverside shrine dedicated to a water spirit associated with the Sutariba. Receives offerings before gold-tail
+        runs.</p>
       markdown: ''
     video:
       controls: true
@@ -88,9 +69,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: 9hn48bHoQa6XCOau
-    _key: '!journal.pages!K5oyIOFTT6FGxIDb.9hn48bHoQa6XCOau'
-    name: Discoverable (GM)
+  - _id: MFXGXvl4tU9YWRRV
+    _key: '!journal.pages!K5oyIOFTT6FGxIDb.MFXGXvl4tU9YWRRV'
+    name: Key Figures
     type: text
     title:
       show: true
@@ -99,7 +80,20 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-discoverable" data-tier="discoverable"><ul>
+        <ul>
+
+        <li>Takeda Haruto -- Village leader -&gt; npcs/takeda-haruto.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Introduction</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <ul>
 
         <li>The Star River has recently shown anomalies -- unusual turbidity, temperature changes, and dead fish with
         injuries inconsistent with normal predation.</li>
@@ -108,31 +102,14 @@ pages:
 
         </ul>
 
+
         </section>
-      markdown: ''
-    video:
-      controls: true
-      volume: 0.5
-    src: null
-    system: {}
-    category: null
-    sort: 30
-    ownership:
-      default: 0
-    flags: {}
-  - _id: 7CUZMFr5pfBOqlnH
-    _key: '!journal.pages!K5oyIOFTT6FGxIDb.7CUZMFr5pfBOqlnH'
-    name: SEALED — GM Only
-    type: text
-    title:
-      show: true
-      level: 1
-    image: {}
-    text:
-      format: 1
-      content: >-
-        <section class="kg-tier kg-tier-sealed" data-tier="sealed"><h3 id="kg-dm-secrets" data-section="dm-secrets">DM
-        Secrets</h3>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em>sealed</em></p>
 
         <p><strong>The Sutariba&#39;s Upper Reach</strong>
 
@@ -146,7 +123,14 @@ pages:
         that moved in a way that was not quite right. He has not reported it because he has no confidence that authority
         is currently functioning.</p>
 
-        <h3 id="kg-plot-hooks" data-section="plot-hooks">Plot Hooks</h3>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em>sealed</em></p>
 
         <ul>
 
@@ -156,6 +140,7 @@ pages:
 
         </ul>
 
+
         </section>
       markdown: ''
     video:
@@ -164,11 +149,11 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 30
     ownership:
-      default: 0
+      default: 2
     flags: {}
-folder: null
+folder: LEr9qD0Kx7HIyVz5
 sort: 0
 ownership:
   default: 2
@@ -182,8 +167,3 @@ flags:
       settlement_type: village
       island: hokori
       province: hana
-      governing_clan: kaminari
-      administrator: npcs/takeda-haruto.md
-      population: 161
-      climate: Coastal; influenced by Serenia-kai tidal patterns
-      tags: []

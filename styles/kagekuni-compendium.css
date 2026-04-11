@@ -100,3 +100,26 @@
   max-width: 100%;
   border-radius: 4px;
 }
+
+/* ---- Inline secret blocks (new topic-page model) ---------------------- */
+.kg-secret-discoverable {
+  border-left: 4px solid #d97706;
+  background: rgba(217, 119, 6, 0.05);
+  padding: 0.5em 1em;
+  border-radius: 0 4px 4px 0;
+  margin: 0.75em 0;
+}
+.kg-secret-sealed {
+  border-left: 4px solid #991b1b;
+  background: rgba(153, 27, 27, 0.05);
+  padding: 0.5em 1em;
+  border-radius: 0 4px 4px 0;
+  margin: 0.75em 0;
+}
+
+/* ---- Japanese glossary hover annotations ------------------------------ */
+.kg-jp {
+  text-decoration: underline dotted;
+  text-decoration-color: rgba(0, 0, 0, 0.3);
+  cursor: help;
+}

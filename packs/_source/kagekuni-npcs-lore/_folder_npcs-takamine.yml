@@ -1,0 +1,11 @@
+_id: hclp9Eo2nDcHs9fU
+_key: '!folders!hclp9Eo2nDcHs9fU'
+name: takamine
+type: JournalEntry
+folder: null
+sorting: m
+sort: 90
+color: null
+flags:
+  assistant:
+    folderPath: npcs/takamine
