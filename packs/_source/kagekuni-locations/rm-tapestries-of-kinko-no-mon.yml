@@ -13,8 +13,10 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><p><em lang="ja-Latn">Static examination and
-        orrery-activated behavior for the four surviving tapestries in the South Entrance.</em></p>
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><em lang="ja-Latn">Static examination and orrery-activated behavior for the four surviving tapestries in the
+        South Entrance.</em></p>
 
         <p><em lang="ja-Latn">Static content describes what the party can learn from examining the tapestries as still
         fabric. Activation content describes what happens when the orrery is fully restored and the tapestries come
@@ -22,7 +24,9 @@ pages:
 
         <hr>
 
-        <h2 id="kg-how-this-works" data-section="how-this-works">How This Works</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-how-this-works" data-section="how-this-works">How This Works</h3>
 
         <p>Each tapestry supports two independent skill tracks. A player may attempt either or both, in any order — the
         two tracks produce genuinely different information, not the same content reframed from a different angle.</p>
@@ -100,6 +104,8 @@ pages:
         History advantage to the History (Track Two) check. On Tapestry IV, he may apply it to his Track One check — the
         founding priest&#39;s identity falls within his documented research.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-the-four-tiers" data-section="the-four-tiers">The Four Tiers</h3>
 
         <table>
@@ -172,8 +178,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-tapestry-i-kinryu-descends-to-the-mountain"
-        data-section="tapestry-i-kinryu-descends-to-the-mountain">Tapestry I — Kinryu Descends to the Mountain</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-tapestry-i-kinryu-descends-to-the-mountain"
+        data-section="tapestry-i-kinryu-descends-to-the-mountain">Tapestry I — Kinryu Descends to the Mountain</h3>
 
         <p><em lang="ja-Latn">West wall, north end. Best preserved of the four. Approximately two-thirds
         intact.</em></p>
@@ -247,6 +255,8 @@ pages:
         carving reported — before the Dark Ages, unverified since — somewhere in the highlands of Kaze province. Three
         separate moments. Three separate bindings. This, by available record, is the first.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
 
         <p>The activation is not passive. The descending figure&#39;s gaze tracks Ko&#39;jiri specifically throughout
@@ -263,8 +273,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-tapestry-ii-the-rite-of-the-golden-flame"
-        data-section="tapestry-ii-the-rite-of-the-golden-flame">Tapestry II — The Rite of the Golden Flame</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-tapestry-ii-the-rite-of-the-golden-flame"
+        data-section="tapestry-ii-the-rite-of-the-golden-flame">Tapestry II — The Rite of the Golden Flame</h3>
 
         <p><em lang="ja-Latn">East wall, center. Approximately half intact; significant damage on the left, right side
         largely preserved.</em></p>
@@ -339,6 +351,8 @@ pages:
         Nothing like the cold bronze of the sconce metalwork. Not all of the temple&#39;s current inhabitants moved
         through this entrance without stopping.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
 
         <p>The activation allows a character to read the ceremony being performed — not possible from the static
@@ -367,8 +381,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-tapestry-iii-hokori-before-the-reckoning"
-        data-section="tapestry-iii-hokori-before-the-reckoning">Tapestry III — Hokori Before the Reckoning</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-tapestry-iii-hokori-before-the-reckoning"
+        data-section="tapestry-iii-hokori-before-the-reckoning">Tapestry III — Hokori Before the Reckoning</h3>
 
         <p><em lang="ja-Latn">West wall, south end. Least preserved of the four — approximately forty percent remains
         across three disconnected sections.</em></p>
@@ -444,6 +460,8 @@ pages:
         No symbols. No notation of any kind. On a map that renders even open water with some notation, this blank is not
         an oversight. Whatever stands in that location was known to the people who made this. They did not record it,
         and the absence of a record is itself a kind of record.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
 
@@ -667,8 +685,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-tapestry-iv-the-first-head-priest" data-section="tapestry-iv-the-first-head-priest">Tapestry IV — The
-        First Head Priest</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-tapestry-iv-the-first-head-priest" data-section="tapestry-iv-the-first-head-priest">Tapestry IV — The
+        First Head Priest</h3>
 
         <p><em lang="ja-Latn">East wall, north end. Well-preserved upper two-thirds; lower third missing
         entirely.</em></p>
@@ -742,6 +762,8 @@ pages:
         carved frieze around the Inner Sanctum door, at the base of the great statue in the Grand Hall. The order
         embedded its founding charge into the architecture of the entire building. The message is consistent across
         every surface. Silence is always rendered largest.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
 

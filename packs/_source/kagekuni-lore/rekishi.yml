@@ -494,7 +494,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 1
     image: {}
     text:
       format: 1
@@ -528,7 +528,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 1
     image: {}
     text:
       format: 1
@@ -559,7 +559,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 1
     image: {}
     text:
       format: 1

@@ -13,15 +13,19 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><p><em lang="ja-Latn">In-game narration for each room.
-        Reference individual room files in <code>floor-1/</code> for mechanical details, DCs, and DM notes. Reference
-        <code>floor-1.md</code> for spatial layout and floor-level overview.</em></p>
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><em lang="ja-Latn">In-game narration for each room. Reference individual room files in <code>floor-1/</code>
+        for mechanical details, DCs, and DM notes. Reference <code>floor-1.md</code> for spatial layout and floor-level
+        overview.</em></p>
 
         <hr>
 
-        <h2 id="kg-1-the-south-entrance-kinko-no-mon-gate-of-golden"
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-1-the-south-entrance-kinko-no-mon-gate-of-golden"
         data-section="1-the-south-entrance-kinko-no-mon-gate-of-golden">1. The South Entrance — Kinko no Mon (Gate of
-        Golden Light)</h2>
+        Golden Light)</h3>
 
         <p><em lang="ja-Latn">The doors open and the cold comes first — dry and still, carrying the faint mineral scent
         of old bronze and something beneath it with no name, the absence of smoke from flames that do not burn the way
@@ -64,8 +68,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-2-the-grand-hall-hiroba-wide-hall" data-section="2-the-grand-hall-hiroba-wide-hall">2. The Grand Hall
-        — Hiroba (Wide Hall)</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-2-the-grand-hall-hiroba-wide-hall" data-section="2-the-grand-hall-hiroba-wide-hall">2. The Grand Hall
+        — Hiroba (Wide Hall)</h3>
 
         <p><em lang="ja-Latn">The passage opens and the walls fall away.</em></p>
 
@@ -94,8 +100,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-3-the-star-shrine-okuden-inner-hall" data-section="3-the-star-shrine-okuden-inner-hall">3. The Star
-        Shrine — Okuden (Inner Hall)</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-3-the-star-shrine-okuden-inner-hall" data-section="3-the-star-shrine-okuden-inner-hall">3. The Star
+        Shrine — Okuden (Inner Hall)</h3>
 
         <p><em lang="ja-Latn">The hallway that leads here is unmarked — no carvings, no script, no alcoves. Just stone,
         ten feet wide, stretching sixty feet ahead of you with the narrowing sense that you are going somewhere set
@@ -127,9 +135,11 @@ pages:
 
         <hr>
 
-        <h2 id="kg-4-the-mess-hall-and-kitchen-shokudo-dining-hall"
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-4-the-mess-hall-and-kitchen-shokudo-dining-hall"
         data-section="4-the-mess-hall-and-kitchen-shokudo-dining-hall">4. The Mess Hall and Kitchen — Shokudo (Dining
-        Hall)</h2>
+        Hall)</h3>
 
         <p><em lang="ja-Latn">The hallway turns — south, then east — and the smell finds you before the room does. The
         fire was a long time ago. The smell of it is still here.</em></p>
@@ -161,8 +171,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-5-the-dormitories-bo-monks39-quarters" data-section="5-the-dormitories-bo-monks39-quarters">5. The
-        Dormitories — Bo (Monks&#39; Quarters)</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-5-the-dormitories-bo-monks39-quarters" data-section="5-the-dormitories-bo-monks39-quarters">5. The
+        Dormitories — Bo (Monks&#39; Quarters)</h3>
 
         <p><em lang="ja-Latn">A long corridor, wide enough for two people to walk side by side, with doors branching
         left and right. Most of the doors are open. At the far ends of the corridor, larger chambers.</em></p>
@@ -189,8 +201,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-6-the-inner-sanctum-naijin-inner-sanctuary"
-        data-section="6-the-inner-sanctum-naijin-inner-sanctuary">6. The Inner Sanctum — Naijin (Inner Sanctuary)</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-6-the-inner-sanctum-naijin-inner-sanctuary"
+        data-section="6-the-inner-sanctum-naijin-inner-sanctuary">6. The Inner Sanctum — Naijin (Inner Sanctuary)</h3>
 
         <p><em lang="ja-Latn">The doors to the inner sanctum are black-lacquered wood banded with bronze, a frieze of
         the seven dragon clans carved into the frame in a ring. They are standing open.</em></p>

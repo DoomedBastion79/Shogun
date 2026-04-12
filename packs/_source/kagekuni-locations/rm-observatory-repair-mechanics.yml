@@ -13,8 +13,9 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="kg-tier kg-tier-intro" data-tier="intro"><p><em lang="ja-Latn">&quot;Chamber of the Star
-        Mirror&quot;</em></p>
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><em lang="ja-Latn">&quot;Chamber of the Star Mirror&quot;</em></p>
 
         <p><em lang="ja-Latn">The Golden Dragon Clan built the most complete model of the Miyosai system ever
         constructed — mechanical and arcane, capable of projecting celestial positions across millennia. It has not been
@@ -23,7 +24,9 @@ pages:
 
         <hr>
 
-        <h2 id="kg-what-it-is" data-section="what-it-is">What It Is</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-what-it-is" data-section="what-it-is">What It Is</h3>
 
         <p>A circular domed chamber on the second floor of Oryuzan Tenku-ji. At its center, a mechanical-arcane orrery —
         a system of bronze armatures, gear tracks, and arcane projection lenses that together model the full Miyosai
@@ -92,8 +95,10 @@ pages:
         functioning planetarium. A control interface at the base allows an operator to set a date, and the mechanism
         advances or rewinds to show the celestial configuration at that moment.</p>
 
-        <h2 id="kg-miyosai-system-orbital-structure" data-section="miyosai-system-orbital-structure">Miyosai System —
-        Orbital Structure</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-miyosai-system-orbital-structure" data-section="miyosai-system-orbital-structure">Miyosai System —
+        Orbital Structure</h3>
 
         <p>The Miyosai system is a gravitationally bound trinary stellar system. All three stars orbit a common
         <strong>barycenter</strong>. Amaterasu is the most massive and carries its planetary family as it orbits.
@@ -111,8 +116,10 @@ pages:
 
         <hr>
 
-        <h2 id="kg-how-it-connects-to-the-tapestries" data-section="how-it-connects-to-the-tapestries">How It Connects
-        to the Tapestries</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-how-it-connects-to-the-tapestries" data-section="how-it-connects-to-the-tapestries">How It Connects
+        to the Tapestries</h3>
 
         <p>The orrery is integrated with the temple&#39;s foundational magic. When the orrery reaches full operational
         status (all 9 components restored), its sei resonance propagates through the construction-level enchantment that
@@ -140,11 +147,15 @@ pages:
 
         <hr>
 
-        <h2 id="kg-component-system" data-section="component-system">Component System</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-component-system" data-section="component-system">Component System</h3>
 
         <p>The observatory requires <strong>9 components</strong> to reach full operation. Five are found on the first
         floor; four are on the second floor (in the observatory itself or in adjacent second-floor rooms). Components
         fall into four repair categories.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-first-floor-components-5" data-section="first-floor-components-5">First Floor Components (5)</h3>
 
@@ -252,6 +263,8 @@ pages:
 
         </tbody></table>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-second-floor-components-4" data-section="second-floor-components-4">Second Floor Components (4)</h3>
 
         <table>
@@ -349,10 +362,14 @@ pages:
 
         <hr>
 
-        <h2 id="kg-repair-sequence" data-section="repair-sequence">Repair Sequence</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-repair-sequence" data-section="repair-sequence">Repair Sequence</h3>
 
         <p>Repairs happen in stages as the party acquires components and makes checks. The observatory does
         <strong>not</strong> need all 9 components for partial function — it can be brought online incrementally.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-stage-1-assessment-no-components-required"
         data-section="stage-1-assessment-no-components-required">Stage 1 — Assessment (No components required)</h3>
@@ -379,6 +396,8 @@ pages:
         <p><strong>DM note</strong>: If the party has already found components on the first floor, this is the
         &quot;aha&quot; moment — the mysterious crystals and bronze rings suddenly have context.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-stage-2-mechanical-restoration" data-section="stage-2-mechanical-restoration">Stage 2 — Mechanical
         Restoration</h3>
 
@@ -400,6 +419,8 @@ pages:
         movement is bare bronze — functional but producing no light or projection. The party can see the <em
         lang="ja-Latn">shape</em> of celestial motion without the detail. This is still impressive and demonstrates the
         mechanism works.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-stage-3-arcane-restoration" data-section="stage-3-arcane-restoration">Stage 3 — Arcane
         Restoration</h3>
@@ -445,6 +466,8 @@ pages:
         response. The orrery&#39;s sei output at partial stages is sufficient for the observatory&#39;s own projection
         effects but not for propagating resonance through the temple&#39;s foundational magic to the South Entrance.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-stage-4-lunar-arms" data-section="stage-4-lunar-arms">Stage 4 — Lunar Arms</h3>
 
         <p><strong>Requirements</strong>: Lunar armature set (#8)
@@ -462,6 +485,8 @@ pages:
         crystalline, Kagetsu shadow-absorbing, Nagikumo softly glowing, Ryugetsu color-shifting). Tidal calculations
         become visible. The compound stellar + lunar alignments that produce the named astrological events (Nagorikaze,
         Tatsunami, Hikarisho, etc.) are now trackable.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-stage-5-calibration" data-section="stage-5-calibration">Stage 5 — Calibration</h3>
 
@@ -492,7 +517,7 @@ pages:
 
         <hr>
 
-        <h2 id="kg-using-the-observatory" data-section="using-the-observatory">Using the Observatory</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-setting-a-date" data-section="setting-a-date">Setting a Date</h3>
 
@@ -502,6 +527,8 @@ pages:
         The planetary and lunar armatures continue their ordinary motion — the machine keeps working while two of its
         three stars go dark. The light dims to Amaterasu alone. The room grows cold. Then it passes, and the slow return
         begins — Susanoo first, then Tsukuyomi, centuries apart.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-orrery-projection-sequence" data-section="orrery-projection-sequence">Orrery Projection Sequence</h3>
 
@@ -555,6 +582,8 @@ pages:
         <p><em lang="ja-Latn">This is the only moment in the orrery sequence where the party is looking at their own
         world in real time.</em></p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-tapestry-activation" data-section="tapestry-activation">Tapestry Activation</h3>
 
         <p>When the orrery reaches full operational status (all 9 components restored), sei resonance propagates through
@@ -585,6 +614,8 @@ pages:
 
         </ul>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-tapestry-iii-architectural-distinction"
         data-section="tapestry-iii-architectural-distinction">Tapestry III — Architectural Distinction</h3>
 
@@ -602,6 +633,8 @@ pages:
         <p>This property means that Tapestry III&#39;s value is not fixed at the moment of orrery restoration — it
         continues to reflect the network&#39;s actual state. If a site changes status after the party restores the
         orrery, Tapestry III will show the change.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-ruling-the-tapestry-is-the-medium" data-section="ruling-the-tapestry-is-the-medium">Ruling: The
         Tapestry Is the Medium</h3>
@@ -634,8 +667,7 @@ pages:
 
         <hr>
 
-        <h2 id="kg-character-moments-during-repair" data-section="character-moments-during-repair">Character Moments
-        During Repair</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-ko39jiri" data-section="ko39jiri">Ko&#39;jiri</h3>
 
@@ -645,6 +677,8 @@ pages:
         advantage applies throughout. The orrery doesn&#39;t judge him the way the statue does; it just needs someone
         who knows what it is. He does.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-relc" data-section="relc">Relc</h3>
 
         <p>The calibration process benefits from druidic celestial attunement. Relc can <em lang="ja-Latn">feel</em>
@@ -652,11 +686,15 @@ pages:
         him to natural cycles. The Star Shrine meditation path (advantage on calibration) is his contribution. The sky
         is a text he already reads.</p>
 
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
         <h3 id="kg-sun-wukong" data-section="sun-wukong">Sun Wukong</h3>
 
         <p>The mechanical precision required for armature installation and lens mounting rewards steady hands and
         disciplined focus. Ki-guided fine motor work — the monk&#39;s equivalent of Tinker&#39;s Tools. The
         monastery&#39;s emphasis on patience and precision maps directly onto the repair work.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
         <h3 id="kg-dian-wei" data-section="dian-wei">Dian Wei</h3>
 
@@ -667,7 +705,9 @@ pages:
 
         <hr>
 
-        <h2 id="kg-pacing-across-sessions" data-section="pacing-across-sessions">Pacing Across Sessions</h2>
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-pacing-across-sessions" data-section="pacing-across-sessions">Pacing Across Sessions</h3>
 
         <p>The observatory repair is designed to span the second floor exploration, not dominate it. The party returns
         to the observatory between other second-floor activities.</p>

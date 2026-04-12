@@ -612,7 +612,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -688,7 +688,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -751,7 +751,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -819,7 +819,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -852,7 +852,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -921,7 +921,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -989,7 +989,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1032,7 +1032,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1085,7 +1085,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1126,7 +1126,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1179,7 +1179,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1238,7 +1238,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1318,7 +1318,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1386,7 +1386,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
