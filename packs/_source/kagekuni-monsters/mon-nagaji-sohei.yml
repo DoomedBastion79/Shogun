@@ -1,0 +1,114 @@
+_id: vWu3fJlU8NZsRRGM
+_key: '!actors!vWu3fJlU8NZsRRGM'
+name: Nagaji Sōhei
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Sōhei
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-sohei
+    category: nagaji
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>Nagaji sōhei are warrior-monks who blend martial prowess with limited divine magic granted by their serpent
+        deity. They fight with unarmed strikes and spears, their movements unnaturally fluid. Sōhei serve as enforcers,
+        squad leaders, and temple guardians.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Sōhei combine melee multiattack with support spells — Command to disrupt enemies and Shield of Faith to
+        bolster allies. They are faster than standard humanoids, moving with serpentine grace.</p>
+
+        <h3>Spells</h3>
+
+        <p>Sacred Flame, Thaumaturgy, Command, Shield of Faith</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Role</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Sōhei undergo rigorous training in nagaji monasteries, learning to channel divine sei through martial forms.
+        They answer to kannushi priests and serve as the bridge between the warrior and priestly castes.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any Non-Good
+    cr: 2
+    type:
+      value: humanoid
+      subtype: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

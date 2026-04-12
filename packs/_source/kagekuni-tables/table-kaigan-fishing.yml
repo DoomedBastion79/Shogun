@@ -1,0 +1,122 @@
+_id: FUpsYKKKT6SES1uc
+_key: '!tables!FUpsYKKKT6SES1uc'
+name: Coastal Fishing
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.E2Ed9VDRHpezvtDW'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Kawa-gani
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: ybxYeEVZDaXnGAd3
+    _id: E2Ed9VDRHpezvtDW
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.FVAP4YDMlmHdrhkA'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Suzume
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: IDDHhOUzmZh0BlML
+    _id: FVAP4YDMlmHdrhkA
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.EpeKz9t7O8moBrYQ'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Iwashi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: YNTZzkwNoy9f82Nw
+    _id: EpeKz9t7O8moBrYQ
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.k70HVRVGWpn70EBa'
+    type: pack
+    weight: 4
+    range:
+      - 4
+      - 4
+    name: Hato
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: Uwonrf5VJZVUeZkA
+    _id: k70HVRVGWpn70EBa
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.6T2ghUTIoZaSx8WN'
+    type: pack
+    weight: 2
+    range:
+      - 5
+      - 5
+    name: Kamo
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: KQ85LBp2ZlXo2wuN
+    _id: 6T2ghUTIoZaSx8WN
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!FUpsYKKKT6SES1uc.Uh29ndmaOtP73Ot9'
+    type: pack
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Oniuo
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: MkohvRh4Uaida6vA
+    _id: Uh29ndmaOtP73Ot9
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d2
+formula: 1d6
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-kaigan-fishing
+    biome: kaigan-fishing
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

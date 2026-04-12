@@ -1,0 +1,88 @@
+_id: kyF8Xiy2N6xzf4RL
+_key: '!items!kyF8Xiy2N6xzf4RL'
+name: Hoshi-tōfu 干し豆腐 (Dried Tofu) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-hoshi-tofu
+    grade: jo
+    category: shushoku
+    materialName: Hoshi-tōfu
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-hoshi-tofu
+      - mat-hoshi-tofu:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-hoshi-tofu-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Hoshi-tōfu 干し豆腐 (Dried Tofu)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Dry months; freeze-dried Sora blocks keep a
+      year<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Firm blocks of soybean curd dried in the open air, or freeze-dried in the mountain winters of Sora.
+      Reconstitutes in broth to a spongy, flavour-absorbing texture. Favoured by travelling monks and mountain pilgrims
+      as a lightweight protein that carries no moral weight, and by lowland travellers for its sheer practicality.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Monk traveler food. No moral weight.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dried Tofu
+    description: A firm, pale block of dried curd lighter than it looks and absorbent to the touch.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -2,8 +2,8 @@ _id: Krl1VvqQG0aHAZDR
 _key: '!journal!Krl1VvqQG0aHAZDR'
 name: Completed
 pages:
-  - _id: BxUAsbRa9vbBU9Bh
-    _key: '!journal.pages!Krl1VvqQG0aHAZDR.BxUAsbRa9vbBU9Bh'
+  - _id: DLgrqGY9nd0fJzAX
+    _key: '!journal.pages!Krl1VvqQG0aHAZDR.DLgrqGY9nd0fJzAX'
     name: 'Spoils of Justice: The Thieves'' Hoard'
     type: text
     title:
@@ -17,8 +17,8 @@ pages:
         data-field="type">side</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">resolved</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
         data-field="quest-giver">discovered</dd></div><div class="kg-info__row"><dt>Location</dt><dd
-        data-field="location">ayame</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
-        data-field="pc-focus">Ko&#39;jiri, Sun Wukong</dd></div></dl>
+        data-field="location">st-ayame</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
+        data-field="pc-focus">pc-kojiri, pc-sun-wukong</dd></div></dl>
 
         <h3 id="kg-background" data-section="background">Background</h3>
 
@@ -34,8 +34,8 @@ pages:
         rest.</p>
 
         <p>The stolen goods were recovered and subsequently turned over to Chief Inspector
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{Oshiro Masahiro} of the Teikoku Keisatsu in
-        @UUID[Compendium.assistant.lore.JournalEntry.fd1TGgk4t5ud89NX]{Ayame}, who received them without excessive
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} of the Teikoku Keisatsu in
+        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, who received them without excessive
         questions and confirmed the party&#39;s good-faith engagement with legal authority. This interaction contributed
         meaningfully to Oshiro&#39;s decision to confirm the party as trustworthy when the wagon impoundment situation
         arose shortly thereafter.</p>
@@ -76,7 +76,7 @@ pages:
 
         <p>The goods were not random opportunistic theft. The thieves were part of a small, loosely organized network of
         independent contractors working for a merchant in
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}&#39;s Ichiba Chiku — a legitimate-seeming
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba Chiku — a legitimate-seeming
         trading operation that runs a side business in redirected goods. &quot;Redirected&quot; meaning: items that were
         supposed to arrive at one destination are intercepted and sold to a different buyer who doesn&#39;t ask where
         they came from. The daimyo&#39;s men reference meant a Clan Kaminari supply transport was expected on the road
@@ -94,11 +94,11 @@ pages:
         be useful to know, or whether there might be money in information about where they went. Not a significant
         threat but is a loose thread.</li>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{Oshiro Masahiro}</strong> —
+        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro}</strong> —
         Official report noted the party by description (not by name at that point) and flagged them as &quot;travelers
         of apparent good character and law-abiding intent operating in the
-        @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana} northern highway corridor.&quot; This
-        report is in the Teikoku Keisatsu&#39;s @UUID[Compendium.assistant.lore.JournalEntry.fd1TGgk4t5ud89NX]{Ayame}
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} northern highway corridor.&quot; This
+        report is in the Teikoku Keisatsu&#39;s @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}
         file.</li>
 
         </ul>
@@ -125,7 +125,7 @@ pages:
 
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
-        <p>The merchant operation in @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}&#39;s Ichiba
+        <p>The merchant operation in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba
         Chiku continues. The thieves were low-level contractors; losing them is a minor operational hiccup, not a
         crisis. The &quot;daimyo&#39;s men&quot; reference points to a Clan Kaminari supply transport — suggesting the
         network has enough intelligence on military logistics to plan around official movements.</p>
@@ -143,10 +143,10 @@ pages:
 
         <ul>
 
-        <li><strong>Chief Inspector @UUID[Compendium.assistant.npcs-lore.JournalEntry.GIiMlyrBXNH18EiT]{Oshiro
+        <li><strong>Chief Inspector @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
         Masahiro}</strong> — confirmed ally; his positive assessment of the party has practical value in
-        @UUID[Compendium.assistant.lore.JournalEntry.fd1TGgk4t5ud89NX]{Ayame} and the broader
-        @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana} region</li>
+        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the broader
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region</li>
 
         <li><strong>The enterprising thief</strong> — a loose thread who is gathering information about the party; could
         be a minor complication or a contact depending on future developments</li>

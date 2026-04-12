@@ -12,7 +12,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>The world of <strong>Seizan</strong> exists within the <strong>Miyosai system</strong> — a trinary stellar
         system governed by three stars, orbited by seven planets, and watched over by four moons. It is a world where
         magic energy called <strong>sei</strong> flows through all living things, shaped and amplified by the celestial
@@ -37,9 +37,6 @@ pages:
         understanding of magic and the natural world — all of it is rooted in the dance of light above them. What
         follows is what is known of that dance.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-the-great-aphelion" data-section="dm-note-the-great-aphelion">DM Note — The Great
         Aphelion</h3>
 
@@ -49,8 +46,6 @@ pages:
         stellar position and sei availability is the campaign&#39;s deepest cosmological secret. No living scholar has
         assembled the complete picture. See the individual section entries for details on how this manifests in each
         celestial body&#39;s behavior.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -215,7 +210,7 @@ pages:
         Tsukuyomi entered their long retreat from the barycenter of the Miyosai trinary system, sei accessibility
         diminished gradually. The first secondary star crossed below naked-eye visibility around ~12806, marking the
         beginning of the dark ages. The Temple of
-        @UUID[Compendium.assistant.locations.JournalEntry.ifdMI1VP1fjPGAAh]{Oryuzan Tenku-ji} fell in 13088 — a
+        @UUID[Compendium.assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} fell in 13088 — a
         consequence of the drought, not its cause.</p>
 
         <p>The three stars of the Miyosai system orbit a common gravitational center (barycenter) on different orbital
@@ -281,7 +276,7 @@ pages:
 
         <td>Largest; four tectonic plates; X-shaped</td>
 
-        <td>Primary campaign island; capital @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}</td>
+        <td>Primary campaign island; capital @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</td>
 
         </tr>
 
@@ -512,7 +507,7 @@ pages:
 
         <li>Began declining during the War of Fractured Banners era (~12605); first secondary star lost to visibility
         ~12806; effectively inaccessible by ~13088 (when the last major sei institution —
-        @UUID[Compendium.assistant.locations.JournalEntry.ifdMI1VP1fjPGAAh]{Oryuzan Tenku-ji} — fell)</li>
+        @UUID[Compendium.assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} — fell)</li>
 
         <li>Period without accessible sei lasted approximately 3,077 years (<del>12806–</del>15883)</li>
 
@@ -585,7 +580,7 @@ pages:
         <li><strong>Forest of Spirits</strong> — publicly declared during Plague Campaign</li>
 
         <li><strong>Hikari no Shizuku</strong> — healing/light magic; operates within
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}</li>
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</li>
 
         </ul>
       markdown: ''
@@ -679,8 +674,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: a4QcOfxKBQEbOYVY
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.a4QcOfxKBQEbOYVY'
+  - _id: JebzPM0jBZJeBCvJ
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.JebzPM0jBZJeBCvJ'
     name: The Three Stars
     type: text
     title:
@@ -689,7 +684,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>The Miyosai system is governed by three stars that orbit a common gravitational center. Their movements drive
         the great astrological events of Seizan, shaping weather, tides, and the flow of sei across the world. These are
         purely celestial phenomena — named after older divine concepts but not worshipped directly.</p>
@@ -788,9 +783,6 @@ pages:
         <p>Additional solar events exist but are less commonly named or studied. Seimasters at Seishin maintain
         observational records of celestial alignments and their correlations to sei fluctuation.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-the-three-stars-and-the-great-aphelion"
         data-section="dm-note-the-three-stars-and-the-great-aphelion">DM Note — The Three Stars and the Great
         Aphelion</h3>
@@ -828,8 +820,6 @@ pages:
         decline was a practitioner problem; Susanoo&#39;s was a human one. Susanoo was also first to return — the first
         Talents (</del>15962) correlate with its partial recovery, consistent with healing and purification being among
         the earliest accessible sei expressions.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -841,8 +831,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: s8Q9lgocDyQ2DAHa
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.s8Q9lgocDyQ2DAHa'
+  - _id: 15F42Oxq4MSmmBfC
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.15F42Oxq4MSmmBfC'
     name: The Moons
     type: text
     title:
@@ -851,7 +841,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>Four moons orbit Seizan directly, each with its own character, orbit, and influence on the world below.
         Together they are called <strong>The Sisters&#39; Tears</strong> — a name whose origin has been lost to time,
         though folk tales offer a dozen contradictory explanations. Their combined gravitational pull creates complex
@@ -1197,9 +1187,6 @@ pages:
         reverential terms — the ocean withdrew beyond the horizon before returning as a wall of luminescent water, and
         sei-sensitive individuals reported hearing the world itself vibrate like a struck bell.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-tatsunami-frequency-and-campaign-history"
         data-section="dm-note-tatsunami-frequency-and-campaign-history">DM Note — Tatsunami Frequency and Campaign
         History</h3>
@@ -1211,9 +1198,6 @@ pages:
         moons are in near-alignment), which is why coastal communities treat it as a recurring threat rather than a
         once-in-a-millennium catastrophe. The true four-moon convergence is something most scholars debate rather than
         fear.</p>
-
-        </section>
-
 
         <h2 id="kg-lunar-sei-influence" data-section="lunar-sei-influence">Lunar Sei Influence</h2>
 
@@ -1234,9 +1218,6 @@ pages:
         alone. A Nagorikaze event during a Tatsunami convergence, for instance, produces tidal and magical conditions
         that exceed what either event generates independently.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-moons-and-the-great-aphelion" data-section="dm-note-moons-and-the-great-aphelion">DM Note —
         Moons and the Great Aphelion</h3>
 
@@ -1246,8 +1227,6 @@ pages:
         channel was effectively inert for ~3,077 years. The return of stellar sei has reactivated lunar resonance, but
         whether the current lunar sei signatures match their pre-Aphelion intensity is unknown. Seishin&#39;s records do
         not extend that far back.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -1259,8 +1238,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: hMo43V7ce8TD6hsP
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.hMo43V7ce8TD6hsP'
+  - _id: xYHKSB5hAVUBSxCt
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.xYHKSB5hAVUBSxCt'
     name: The Planets
     type: text
     title:
@@ -1269,7 +1248,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>Seven planets orbit Amaterasu, travelling with the primary star as it traces its own path through the Miyosai
         system. Their positions relative to Seizan shift in predictable patterns — the movements of siblings sharing a
         common parent rather than independent wanderers. Astronomers at Seishin track their orbits with precision, and
@@ -1355,9 +1334,6 @@ pages:
         Tsukuyomi, a phenomenon called <strong>Shadow Resonance</strong> occurs, during which shadow magic reaches its
         absolute peak and the boundary between the material and spirit worlds thins perceptibly.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-planets-and-the-great-aphelion" data-section="dm-note-planets-and-the-great-aphelion">DM Note
         — Planets and the Great Aphelion</h3>
 
@@ -1366,8 +1342,6 @@ pages:
         throughout the entire drought period. In the Tenkū-ji orrery, this is visible and striking: the planetary
         armatures continue their normal motion while the two secondary stellar arms go dark. The machine keeps working,
         the planets keep moving — two of the three stars are simply not where they should be.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -1379,8 +1353,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: Pru5QsyxBZh7hQls
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.Pru5QsyxBZh7hQls'
+  - _id: OynrV4dmdEsV78Mj
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.OynrV4dmdEsV78Mj'
     name: Sei
     type: text
     title:
@@ -1389,7 +1363,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p><strong>Sei</strong> is the magic energy that flows through all living things on Seizan. It is not an
         external force to be harnessed or a resource to be mined — it is present in the blood, the breath, the roots of
         trees, and the currents of rivers. Sei is woven into the fabric of the world, expressed through celestial
@@ -1439,7 +1413,7 @@ pages:
         naturalistic sei traditions.</li>
 
         <li><strong>Hikari no Shizuku</strong> — A healing and light magic tradition operating within the capital city
-        of @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}.</li>
+        of @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</li>
 
         </ul>
 
@@ -1476,9 +1450,6 @@ pages:
         remain unknown. His followers, the <strong>Eikyū Yami Clan</strong>, persist — a reminder that sei is a tool,
         and tools serve the hand that holds them.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-the-true-cause-of-the-sei-drought"
         data-section="dm-note-the-true-cause-of-the-sei-drought">DM Note — The True Cause of the Sei Drought</h3>
 
@@ -1502,8 +1473,6 @@ pages:
         awareness. Every spell the party casts, every druidic invocation, every monk ability — all of it is potentially
         observed. Whether Murasakiryū actively monitors individual sei users or maintains passive background awareness
         is unresolved. Whether the party registers as notable is unknown.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -1515,8 +1484,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: UIDzQxxqF1vvYKv5
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.UIDzQxxqF1vvYKv5'
+  - _id: mDCDRwyZgE9Z1Ekw
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.mDCDRwyZgE9Z1Ekw'
     name: The Seasons
     type: text
     title:
@@ -1732,8 +1701,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: ivn1U6rUYkWkcrVi
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.ivn1U6rUYkWkcrVi'
+  - _id: 9GhrtIvoRiIGfhgZ
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.9GhrtIvoRiIGfhgZ'
     name: The Calendar
     type: text
     title:
@@ -1742,7 +1711,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <p>Kagekuni follows a traditional twelve-month calendar rooted in the agricultural and spiritual rhythms of the
         land. Each month carries a name that reflects the character of its days — what grows, what changes, what is
         demanded of the people who live through it. The names are ancient, predating the dark ages, and their meanings
@@ -1973,9 +1942,6 @@ pages:
         are said to be running during the twelfth month — settling accounts, performing final rites, and preparing
         shrines for the new year. It is the busiest month for temples and the most frantic for merchants.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-kannazuki39s-true-origin" data-section="dm-note-kannazuki39s-true-origin">DM Note —
         Kannazuki&#39;s True Origin</h3>
 
@@ -1987,8 +1953,6 @@ pages:
 
         <p><strong>Discovery path:</strong> Research in the Great Library of Kawa; conversations with Ancient Guard
         members; study of pre-Reckoning texts.</p>
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -2000,8 +1964,8 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: KLmaH6zo92Ji3hf6
-    _key: '!journal.pages!upvXcfbSR2TcUoKm.KLmaH6zo92Ji3hf6'
+  - _id: yuwAaiePf29pzhjk
+    _key: '!journal.pages!upvXcfbSR2TcUoKm.yuwAaiePf29pzhjk'
     name: The Current Year 16744
     type: text
     title:
@@ -2043,28 +2007,22 @@ pages:
         authority that has historically held the empire together during periods of crisis — is legally frozen. There is
         no emperor to approve a Shogun, and no Shogun to impose order.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-the-emperor39s-death" data-section="dm-note-the-emperor39s-death">DM Note — The Emperor&#39;s
         Death</h3>
 
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyo —
-        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.0HclUlVglsnisViu]{Raijin no Kazuhiko}</strong> (Clan
-        Kaminari) and <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{Akihiko
+        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no Kazuhiko}</strong> (Clan
+        Kaminari) and <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko
         Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s
         death. Neither has shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been
         motivated by Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies
         from consolidating power after his death.</p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.VrETjkgf1vHEhCmN]{Hiroshi Nakamura}</strong>, Shugo
-        (military governor) of @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} in Kaminari
+        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura}</strong>, Shugo
+        (military governor) of @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in Kaminari
         territory, is a <strong>traitor</strong> working with the Genso Alliance. He is using his position to feed
         intelligence to Genso — likely connected to the larger political destabilisation.</p>
-
-        </section>
-
 
         <h2 id="kg-war-between-the-alliances" data-section="war-between-the-alliances">War Between the Alliances</h2>
 
@@ -2072,12 +2030,12 @@ pages:
         into open conflict.</p>
 
         <p>The <strong>Genso Alliance</strong> — Clans Fuyugiri, Homoruyama,
-        Ryū@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{kaze}, and Tsuchiura — governs the provinces
-        of @UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa} and
-        @UUID[Compendium.assistant.lore.JournalEntry.NqmsJN8vRCfayaIO]{Tsuchi}. The <strong>Arashi Alliance</strong> —
+        Ryū@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}, and Tsuchiura — governs the provinces
+        of @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} and
+        @UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}. The <strong>Arashi Alliance</strong> —
         Clans Arashiyama, Hoshizora, Shirotsuru, and Yūgure — governs
-        @UUID[Compendium.assistant.lore.JournalEntry.MLJk1KAijasQiUgh]{Mizu} and
-        @UUID[Compendium.assistant.lore.JournalEntry.RIEvGqWkHWedg3O6]{Nami}. Two years of escalating hostility have
+        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} and
+        @UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}. Two years of escalating hostility have
         produced no decisive outcome. Battles are fought, borders shift, villages burn, and the common people pay the
         price.</p>
 
@@ -2092,7 +2050,7 @@ pages:
 
         <p>Governed by <strong>Raijin no Kazuhiko</strong>, the Storm-lord — a human warrior of 47 years who was born
         outside the clan and rose through martial prowess alone. Kaminari controls the Province of
-        @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana} and its capital, <strong>Heian</strong> —
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and its capital, <strong>Heian</strong> —
         the imperial capital, now without an emperor. Known for mastery of storm magic and fierce warriors, Kaminari
         occupies the most politically sensitive position of any clan: they hold the seat of empire without the authority
         to claim it.</p>
@@ -2111,9 +2069,6 @@ pages:
         within the clan, or something worse. The truth of Clan Gekkō&#39;s situation is one of the most pressing
         questions in Kagekuni&#39;s current politics.</p>
 
-        <section class="secret kg-secret-sealed">
-
-
         <h3 id="kg-dm-note-clan-gekk" data-section="dm-note-clan-gekk">DM Note — Clan Gekkō</h3>
 
         <p>Clan Gekkō attempted a dark ritual with catastrophic consequences. The entire clan — including Daimyo Masota
@@ -2122,15 +2077,12 @@ pages:
         reach.</p>
 
         <p>The <strong>Order of the Black Lily</strong> (Monastery of the Black Lily, above
-        @UUID[Compendium.assistant.lore.JournalEntry.G73nlQAKU99FLB4T]{Akatsuki} village in Kaze province) knows the
+        @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in Kaze province) knows the
         truth and has been monitoring the situation. The party has already encountered and <strong>killed several Nagaji
         without knowing they were Gekkō clan members</strong>. The moral reckoning is pending.</p>
 
         <p>A reversal may be possible but requires rare materials, specific conditions, or Progenitor involvement. The
         details are TBD.</p>
-
-        </section>
-
 
         <h3 id="kg-the-alliances-at-a-glance" data-section="the-alliances-at-a-glance">The Alliances at a Glance</h3>
 
@@ -2264,17 +2216,14 @@ pages:
         traditions.</li>
 
         <li><strong>Order of the Tranquil Lotus</strong> (Unmeijima) — A nature-based monastic order near the town of
-        Kazehama. Elder @UUID[Compendium.assistant.npcs-lore.JournalEntry.AxEPHd8zzzGU9DdG]{Benkei}, a Guhuza of 198
+        Kazehama. Elder @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza of 198
         years, leads the order.</li>
 
         <li><strong>Order of the Sacred Grove</strong> — A druidic tradition protective of specific sacred sites. Its
-        former Guardian, @UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas Evergreen}, is
+        former Guardian, @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}, is
         deceased. A new Guardian has been appointed.</li>
 
         </ul>
-
-        <section class="secret kg-secret-sealed">
-
 
         <h3 id="kg-dm-note-the-order-of-the-ancient-guard" data-section="dm-note-the-order-of-the-ancient-guard">DM Note
         — The Order of the Ancient Guard</h3>
@@ -2305,9 +2254,6 @@ pages:
         <p><strong>Solas Evergreen was killed to prevent the awakening of Kinryū</strong> (Golden Dragon, domain of
         honour and justice) — the natural counter-balance. Relc now holds Solas&#39;s mission: the Warden&#39;s Wisdom
         cipher that leads to methods for waking Kinryū.</p>
-
-        </section>
-
 
         <h2 id="kg-the-season" data-section="the-season">The Season</h2>
 

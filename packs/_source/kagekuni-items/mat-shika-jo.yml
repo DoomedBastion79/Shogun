@@ -1,0 +1,92 @@
+_id: m4s6CdHw557JB9OQ
+_key: '!items!m4s6CdHw557JB9OQ'
+name: Shika 鹿 (Deer) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-shika
+    grade: jo
+    category: niku
+    materialName: Shika
+  mastercrafted:
+    tags:
+      - niku
+      - mat-shika
+      - mat-shika:jo
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-shika-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shika 鹿 (Deer)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 2 days fresh; indefinitely if smoked or
+      salted<br><strong>Tools:</strong> Bow, spear, or polearm; cook's utensils for butchery<br><strong>Grade:</strong>
+      上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Venison from Hokori&#39;s forest deer, dark and dense. The shoulder and haunch cuts slow-braise into
+      tenderness; the tenderloin sears quickly and carries a clean iron flavour. Standard game meat throughout the
+      wooded provinces, and the most reliable large-game harvest in the system.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Deer are ubiquitous in Hokori&#39;s forested provinces; a sustained hunt over a day will almost always reward a
+      competent hunter. A single carcass yields both venison (Niku) and secondary materials in the Kegawa and Hone
+      categories when fully processed.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Deer
+    description: Dark red slabs of large-game meat, neatly butchered, heavy in the hand. A faint iron scent.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

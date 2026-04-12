@@ -1,0 +1,99 @@
+_id: 95nEBylil7xHUpjO
+_key: '!journal!95nEBylil7xHUpjO'
+name: Yamamoto Kenji
+pages:
+  - _id: SOxYfs4KPzjt0gFD
+    _key: '!journal.pages!95nEBylil7xHUpjO.SOxYfs4KPzjt0gFD'
+    name: Yamamoto Kenji
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Leader of @UUID[Compendium.assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine}, a mining village of 97
+        people sitting in the shadow of Kinryūzan (Gold Dragon Mountain) at the head of the Star River. The small iron
+        mine sustains the village with modest yields. The community is close-knit in the way that difficult
+        circumstances produce.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Not described in detail beyond pragmatic leadership of a poor but proud community.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Has quietly sent a sample of an unusual dark lustrous metal found in the deeper mine face to
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} for identification, but the political
+        vacuum has slowed the response. The material doesn&#39;t rust, is harder than anything the village smith has
+        worked with, and holds an exceptional edge. He is trying to get information before events overtake him.</p>
+
+        <p>The village is too poor and too politically isolated to defend a valuable find. Kenji would respond warmly to
+        trustworthy outsiders who could help him understand what his mine has found.</p>
+
+        <p>The material is a trace deposit of an alloy associated with Onyx Dragon Clan presence — sei-conductive,
+        uniquely suited for tools and weapons. The vein is small but its properties are significant. Volcanic subsurface
+        mineral migrations carried it far from its origin point.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: Jed34IpfNeDP6ZQZ
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-yamamoto-kenji
+    frontmatter:
+      name: Yamamoto Kenji
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: null
+      caste: zokumin
+      role: Village Leader, Takamine
+      location: st-takamine
+      affiliations: []
+      tags:
+        - village-leader
+        - mining
+        - takamine
+      aliases: []
+      related_npcs: []
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null

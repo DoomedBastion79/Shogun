@@ -1,0 +1,92 @@
+_id: 5MxZoXqoluye70Lz
+_key: '!items!5MxZoXqoluye70Lz'
+name: Ryū no Sake 竜の酒 (Dragon's Sake) (並 Nami)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-ryu-no-sake
+    grade: nami
+    category: shushoku
+    materialName: Ryū no Sake
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-ryu-no-sake
+      - mat-ryu-no-sake:nami
+      - veryRare
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-ryu-no-sake-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ryū no Sake 竜の酒 (Dragon's Sake)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Indefinite in sealed ceremonial flask<br><strong>Tools:</strong>
+      None<br><strong>Restrictions:</strong> **Never sold**; a single Progenitor-blessed cask in continuous
+      use<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Sake brewed in a single cask that was blessed at a Progenitor shrine generations ago and has been in continuous
+      use ever since. The rice is Tennō-mai, the water is drawn from a sei-active spring, and the fermentation is tended
+      by a master brewer who inherited the position from their grandmother. The finished sake is faintly luminescent in
+      dim light, and those who drink it describe a sensation of warmth settling into the bones. Served only at imperial
+      observances and the highest Shinto ceremonies — never sold, and given only as the most meaningful of gifts.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Campaign-level gift. Use as recognition from an emperor-tier figure.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dragon's Sake
+    description: A clear pale liquid in an ornate ceremonial flask that glows faintly in dim light.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

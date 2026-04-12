@@ -1,0 +1,89 @@
+_id: zkAMwb3lbjBudYlR
+_key: '!items!zkAMwb3lbjBudYlR'
+name: Sake 酒 (Rice Wine) (極上 Gokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-sake
+    grade: gokujo
+    category: shushoku
+    materialName: Sake
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-sake
+      - mat-sake:gokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-sake-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Sake 酒 (Rice Wine)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Sealed flask keeps months; improves with age up to a
+      point<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Rice wine sold in small ceramic or bamboo flasks for travel. Drunk cold in summer and warm in winter, sake is
+      also a cornerstone of cooking — a splash in broth, a rinse for fish, a glaze for grilled meat. Common grades are
+      cheap and functional; named breweries command meaningful premiums. Every traveller carries at least a small flask,
+      if only for the warming sip after a hard day&#39;s walk.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Social lubricant, cooking ingredient, warming agent.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Rice Wine
+    description: A small ceramic flask of clear, slightly fragrant rice wine.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

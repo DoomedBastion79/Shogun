@@ -1,0 +1,59 @@
+_id: V72SDFwd5QOWaABv
+_key: '!journal!V72SDFwd5QOWaABv'
+name: Commander Nokumora
+pages:
+  - _id: tT225mQh5q6BJtxr
+    _key: '!journal.pages!V72SDFwd5QOWaABv.tT225mQh5q6BJtxr'
+    name: Commander Nokumora
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: |
+        <p><em lang="ja-Latn">Commander (incompetent)</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: NkPoueVSOMoNFCQ9
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-commander-nokumora
+    frontmatter:
+      name: Commander Nokumora
+      type: npc
+      detail: mention
+      status: active
+      race: Unknown
+      sex: M
+      clan: unknown
+      caste: zokumin
+      role: Commander (incompetent)
+      location: unknown
+      affiliations: []
+      tags:
+        - commander
+        - incompetent
+        - dian-backstory
+      aliases: []
+      related_npcs:
+        - npc-kenshin-arakawa
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null

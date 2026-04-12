@@ -1,0 +1,66 @@
+_id: mVVA7eN85oceKNLT
+_key: '!items!mVVA7eN85oceKNLT'
+name: Kome-zu
+type: consumable
+img: icons/consumables/potions/bottle-round-corked-red.webp
+folder: bZQBpReVtC9ZiotH
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-kome-zu
+    category: consumable
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kome-zu
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A pale acidic liquid.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 5
+    denomination: cp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: '1'
+    recovery:
+      - period: lr
+        type: recoverAll
+    spent: 0
+    autoDestroy: true
+  type:
+    value: food
+    baseItem: ''
+  properties: []
+  description:
+    value: >
+      <p>Rice vinegar — mild, slightly sweet, essential for pickling and dressings. Keeps indefinitely and weighs
+      little.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

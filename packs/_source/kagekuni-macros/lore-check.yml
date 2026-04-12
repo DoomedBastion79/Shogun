@@ -1,0 +1,113 @@
+_id: xDsqtB2zYkNfcGvt
+_key: '!macros!xDsqtB2zYkNfcGvt'
+name: Lore Check
+type: script
+author: null
+img: icons/svg/book.svg
+scope: global
+command: >-
+  // Lore Check — Kagekuni
+  //
+  // Triggers a group History/Arcana/Religion check for selected tokens.
+  // Uses Epic Rolls 5e if available. Supports tiered results:
+  //   - DC+10: Sealed-tier insight (GM whisper only)
+  //   - DC+5:  Discoverable-tier insight
+  //   - DC:    Known-tier confirmation
+  //   - Below: No useful information
+  //
+  // Usage: Select tokens, run macro, choose skill via dialog.
+
+  const tokens = canvas.tokens.controlled;
+
+  if (tokens.length === 0) {
+    ui.notifications.warn("Select tokens first.");
+    return;
+  }
+
+  const actors = tokens.map(t => t.actor).filter(Boolean);
+
+  // Prompt for skill and DC
+  const skillChoices = {
+    his: "History",
+    arc: "Arcana",
+    rel: "Religion",
+    inv: "Investigation",
+    nat: "Nature",
+  };
+
+  const content = `
+    <form>
+      <div class="form-group">
+        <label>Skill</label>
+        <select name="skill">
+          ${Object.entries(skillChoices).map(([k, v]) => `<option value="${k}">${v}</option>`).join("")}
+        </select>
+      </div>
+      <div class="form-group">
+        <label>DC</label>
+        <input type="number" name="dc" value="14" min="5" max="30" />
+      </div>
+    </form>`;
+
+  const result = await Dialog.prompt({
+    title: "Lore Check",
+    content,
+    callback: (html) => ({
+      skill: html.find("[name=skill]").val(),
+      dc: Number(html.find("[name=dc]").val()),
+    }),
+    rejectClose: false,
+  });
+
+  if (!result) return;
+
+  const { skill, dc } = result;
+  const skillName = skillChoices[skill] || skill;
+
+  if (ui.EpicRolls5e) {
+    const rolls = await ui.EpicRolls5e.requestRoll({
+      actors,
+      type: skill,
+      options: { DC: dc, showDC: false }
+    });
+
+    if (rolls.canceled) return;
+
+    for (const r of rolls.results) {
+      let tier, msg;
+      if (r.value >= dc + 10) {
+        tier = "sealed";
+        msg = `Deep insight — sealed-tier knowledge (GM: review ${skillName} DC ${dc + 10}+ content).`;
+      } else if (r.value >= dc + 5) {
+        tier = "discoverable";
+        msg = `Significant recognition — discoverable-tier knowledge available.`;
+      } else if (r.value >= dc) {
+        tier = "known";
+        msg = `Basic recognition — known-tier knowledge confirmed.`;
+      } else {
+        tier = "none";
+        msg = `No useful information comes to mind.`;
+      }
+
+      const user = game.users.find(u => u.character?.id === r.actor.id);
+      const whisperTo = tier === "sealed" ? [game.user.id] : (user ? [user.id] : [game.user.id]);
+
+      ChatMessage.create({
+        content: `<p><strong>${r.actor.name}</strong> (${skillName} ${r.value}, tier: ${tier}):</p><p>${msg}</p>`,
+        speaker: { alias: "Kagekuni" },
+        whisper: whisperTo,
+      });
+    }
+  } else {
+    for (const actor of actors) {
+      await actor.rollSkill(skill, { targetValue: dc });
+    }
+  }
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: lore-check
+    description: Group lore check with tiered results (known/discoverable/sealed). Uses Epic Rolls 5e.

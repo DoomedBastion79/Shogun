@@ -1,0 +1,100 @@
+_id: 70clSBvgePybHjG5
+_key: '!items!70clSBvgePybHjG5'
+name: Kasumi-sō 霞草 (Mist Herb) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kasumi-so
+    grade: tokujo
+    category: yakuso
+    materialName: Kasumi-sō
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-kasumi-so
+      - mat-kasumi-so:tokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kasumi-so-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kasumi-sō 霞草 (Mist Herb)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 5 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit<br><strong>Restrictions:</strong> Concentrated in Kaze fog zones<br><strong>Grade:</strong> 特上 Tokujō (craft
+      modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Found only in the dense fog banks of Kaze province&#39;s deepest valleys, where visibility drops to arm&#39;s
+      length and sound arrives from the wrong direction. The herb is identifiable by scent alone — a sharp green
+      fragrance that cuts through the ambient dampness. Used in cooking, it produces a heightened clarity of taste in
+      other ingredients, as though the fog around one&#39;s senses had been lifted.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Finding it at all requires a Wisdom (Perception) check or equivalent — disadvantage if the character is relying
+      on sight.
+
+
+      ---
+
+
+      **Very Rare**</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mist Herb
+    description: Small pale leaves that can only be found by scent — the sharp green fragrance is distinctive even in thick fog.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

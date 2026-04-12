@@ -1,0 +1,91 @@
+_id: yEQ8ebNW8DijZSeG
+_key: '!items!yEQ8ebNW8DijZSeG'
+name: Udon & Soba うどん・蕎麦 (Wheat & Buckwheat Noodles) (上 Jō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-udon-soba
+    grade: jo
+    category: shushoku
+    materialName: Udon & Soba
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-udon-soba
+      - mat-udon-soba:jo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-udon-soba-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Udon & Soba うどん・蕎麦 (Wheat & Buckwheat Noodles)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Dried weeks to months<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Dried wheat noodles (udon) and buckwheat noodles (soba), sold in paper-wrapped bundles. Keep for weeks, cook in
+      minutes. Soba is the mountain food — buckwheat grows where wheat cannot — while udon is the lowland staple,
+      favoured for its softness and the way it holds a rich broth. A traveller of any province recognises both and knows
+      when to carry which.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Two regional subvariants — DM chooses which by province.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wheat & Buckwheat Noodles
+    description: >-
+      A paper-wrapped bundle of long, dried noodle strands — some thick and pale (udon), some thin and grey-brown
+      (soba).
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

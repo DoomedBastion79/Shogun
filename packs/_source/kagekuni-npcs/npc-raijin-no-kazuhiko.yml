@@ -1,0 +1,106 @@
+_id: ES3t3pNEOBOdLb86
+_key: '!actors!ES3t3pNEOBOdLb86'
+name: Raijin no Kazuhiko
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Raijin no Kazuhiko
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-raijin-no-kazuhiko
+    linkedJournalId: ckxUlw8oW1BCfkai
+    frontmatter:
+      name: Raijin no Kazuhiko
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: M
+      clan: kaminari
+      caste: kugai
+      role: Daimyo of Clan Kaminari
+      location: st-heian
+      affiliations:
+        - clan-kaminari
+      tags:
+        - daimyo
+        - political-leader
+        - storm-lord
+      aliases:
+        - The Storm-lord
+      related_npcs:
+        - npc-hideo-nakamura
+        - npc-hiroshi-nakamura
+        - npc-arinori-senzai
+        - npc-haruto-masashige
+        - npc-akihiko-kurohana
+      related_quests: []
+      age: 47
+      height: 6'5\"
+      weight: 240
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">kaminari</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Daimyo of Clan Kaminari</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">st-heian</dd></div></dl><p><em
+        lang="ja-Latn">Daimyo of Clan Kaminari — The Storm-lord</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Black hair with silver streaks.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo and supreme leader of Clan Kaminari, the dominant clan governing the province of Hana and the imperial
+        capital of Heian. Commands one of the most powerful military and political structures in Kagekuni.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, commanding; values loyalty; enjoys battle, thunder, and strategy; strict code of honor.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact. The party operates under the authority of his clan through Taisho Hideo Nakamura. Dian Wei
+        received sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan daimyo share the
+        Kazuhiko name, which can cause confusion.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

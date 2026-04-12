@@ -1,0 +1,63 @@
+_id: 2CrV6Wqik4rKNJsD
+_key: '!journal!2CrV6Wqik4rKNJsD'
+name: Fumoto — Foothills Hunting
+pages:
+  - sort: 100000
+    name: Foothills Hunting
+    type: gatherer.gatherer
+    _id: cQEc406e8tLng2EB
+    _key: '!journal.pages!2CrV6Wqik4rKNJsD.cQEc406e8tLng2EB'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Rolling foothills between lowlands and mountain ranges. Mixed terrain with meadows, rocky outcrops, and
+        scattered woodland.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.YS6NyRGcKplVhbnr
+        time: 20
+        draws: 6
+        quantity: ''
+        require: ''
+        minigame: 0
+        expression: ''
+        systemAbil: sur
+        DC: 13
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-fumoto-hunting
+    biome: fumoto
+    activity: fumoto-hunting
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

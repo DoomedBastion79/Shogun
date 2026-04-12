@@ -1,0 +1,61 @@
+_id: PyTj71eIJYH8Va92
+_key: '!journal!PyTj71eIJYH8Va92'
+name: Kawa to Numa — River Fishing
+pages:
+  - sort: 100000
+    name: River Fishing
+    type: gatherer.gatherer
+    _id: V67NEcWoxHhuiFGg
+    _key: '!journal.pages!PyTj71eIJYH8Va92.V67NEcWoxHhuiFGg'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: <p>Waterways, river banks, marshland, and estuaries. Primary fishing grounds.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.9bxksIp8vQuhR1Yu
+        time: 20
+        draws: 8
+        quantity: ''
+        require: ''
+        minigame: 500
+        expression: ''
+        systemAbil: sur
+        DC: 11
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-kawa-to-numa-fishing
+    biome: kawa-to-numa
+    activity: kawa-to-numa-fishing
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

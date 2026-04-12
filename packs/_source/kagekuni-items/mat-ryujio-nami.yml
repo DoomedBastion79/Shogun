@@ -1,0 +1,90 @@
+_id: n2dUsjrAqEAJ6a1c
+_key: '!items!n2dUsjrAqEAJ6a1c'
+name: Ryūjio 竜塩 (Dragon Salt) (並 Nami)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-ryujio
+    grade: nami
+    category: chomiryo
+    materialName: Ryūjio
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-ryujio
+      - mat-ryujio:nami
+      - rare
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-ryujio-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ryūjio 竜塩 (Dragon Salt)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Indefinite<br><strong>Tools:</strong> Herbalism kit (advantage); Arcana
+      (Int) DC 12 to recognise provenance<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Crystalline mineral deposits found in caverns near Progenitor-associated sites. The crystals are warm to the
+      touch and dissolve slowly, releasing a flavor that shifts — first savory, then faintly sweet, then something that
+      has no earthly comparison. A single pinch transforms a dish.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Progenitor-site marker loot.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dragon Salt
+    description: A warm, slowly-dissolving crystal from a deep cavern — faintly luminous and strangely heavy.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

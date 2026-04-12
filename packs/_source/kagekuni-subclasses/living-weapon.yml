@@ -1,0 +1,126 @@
+_id: owfhmHXuPGT4wFR5
+_key: '!items!owfhmHXuPGT4wFR5'
+name: Living Weapon
+type: subclass
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: living-weapon
+    className: buddhist-monk
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  description:
+    value: <p>Pure martial body-hardening path focused on stacked unarmed strikes and an awakened combat state.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  identifier: living-weapon
+  classIdentifier: buddhist-monk
+  advancement:
+    6ktg5jzOdjjN8Gr6:
+      _id: 6ktg5jzOdjjN8Gr6
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.7CmNYNfLKEV15Edo
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    0HVH7LhsIjdfUVut:
+      _id: 0HVH7LhsIjdfUVut
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.Ix8xpB8KVDYZ29at
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 6
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    ZcD3UynJnLCyGrTL:
+      _id: ZcD3UynJnLCyGrTL
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.zxflLwKPQlana2zA
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 11
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    J54C3rGOst6ReIIG:
+      _id: J54C3rGOst6ReIIG
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.GgtqboJTmYrH028f
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 17
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

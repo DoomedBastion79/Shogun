@@ -1,0 +1,93 @@
+_id: OUDEWf8D3r6QyPVD
+_key: '!items!OUDEWf8D3r6QyPVD'
+name: Ginrei-sō 銀嶺草 (Silver Spirit Herb) (並 Nami)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-ginrei-so
+    grade: nami
+    category: yakuso
+    materialName: Ginrei-sō
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-ginrei-so
+      - mat-ginrei-so:nami
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-ginrei-so-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ginrei-sō 銀嶺草 (Silver Spirit Herb)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 7 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit; cook's utensils for proper preparation<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A frost-white herb that grows at extreme altitude on the Hoshimori Plateau, where it clings to rock faces in
+      thin soil that freezes solid every night. The leaves are tough and fibrous — useless raw — but when simmered they
+      release a clean, piercingly bright flavour that clears the sinuses and sharpens the mind. Sora&#39;s observatory
+      seimasters brew it as a study aid.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditional tea of the Hoshimori seimaster community. Three cups is said to keep a man alert through a full
+      night of astronomical observation.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Silver Spirit Herb
+    description: Frost-pale leaves that feel cold even in the hand, fibrous and tough.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

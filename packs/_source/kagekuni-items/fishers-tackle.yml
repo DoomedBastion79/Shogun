@@ -1,0 +1,67 @@
+_id: jM9216Lys4JfyliX
+_key: '!items!jM9216Lys4JfyliX'
+name: Fisher's Tackle
+type: tool
+img: icons/tools/instruments/lute-gold-brown.webp
+folder: 2aDy2uANsc4FNnTL
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-fishers-tackle
+    category: tool
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: fishers-tackle
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A bundle of line and hooks.
+  quantity: 1
+  weight:
+    value: 4
+    units: lb
+  price:
+    value: 1
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: art
+    baseItem: ''
+  ability: wis
+  chatFlavor: ''
+  proficient: 0
+  bonus: ''
+  properties: []
+  description:
+    value: >
+      <p>A bamboo rod, silk line, assorted hooks, lead weights, and lures fashioned from feather and lacquered wood.
+      Adequate for river and lake fishing throughout Hokori.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

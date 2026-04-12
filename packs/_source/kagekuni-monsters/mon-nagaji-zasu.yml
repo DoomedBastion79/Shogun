@@ -1,0 +1,129 @@
+_id: cRhrQ7TL3vVUKO75
+_key: '!actors!cRhrQ7TL3vVUKO75'
+name: Nagaji Zasu
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Zasu
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-zasu
+    category: nagaji
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>The nagaji zasu — high priest — is a monstrous serpentine being that has transcended its humanoid origins
+        through dark pact magic. Unlike the divine kannushi, the zasu draws power from a patron entity, granting it
+        Magic Resistance, Devil&#39;s Sight, and the ability to put entire groups to sleep with Merrshaulk&#39;s
+        Slumber.</p>
+
+        <h3>Tactics</h3>
+
+        <p>The zasu opens with Merrshaulk&#39;s Slumber to incapacitate multiple targets, then uses Spectral Fangs at
+        range or closes for a devastating triple Bite attack that delivers piercing and poison damage. It uses
+        Suggestion and Hold Person to control dangerous opponents.</p>
+
+        <h3>Spells</h3>
+
+        <p>Animal Friendship (snakes only), Guidance, Mage Hand, Message, Suggestion, Hold Person, Invisibility</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>A zasu is classified as a monstrosity rather than a humanoid — its pact magic has physically transformed it,
+        granting darkvision out to 120 feet and immunity to poison. It has more in common with a yuan-ti abomination
+        than a humanoid priest.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Merrshaulk</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>The name &#39;Merrshaulk&#39;s Slumber&#39; references an entity of serpentine power. Whether this is the
+        same being as the yuan-ti god or a distinct Kagekuni entity remains unclear.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any Non-Good
+    cr: 5
+    type:
+      value: monstrosity
+      subtype: warlock
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,93 @@
+_id: wkssigwzLBwgbjWR
+_key: '!items!wkssigwzLBwgbjWR'
+name: Takenoko 筍 (Bamboo Shoot) (並 Nami)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-takenoko
+    grade: nami
+    category: yakuso
+    materialName: Takenoko
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-takenoko
+      - mat-takenoko:nami
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-takenoko-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Takenoko 筍 (Bamboo Shoot)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 3 days fresh; indefinitely pickled<br><strong>Tools:</strong> Herbalism
+      kit; simple blade; cook's utensils for preparation<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Young bamboo shoots harvested in spring from the edges of bamboo groves. Must be boiled to remove bitterness
+      before eating. The tender inner flesh is crisp, mildly sweet, and absorbs flavour from whatever it is cooked with.
+      Abundant wherever bamboo grows — which is most of lowland Hokori.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A spring staple in Hana, Kusa, Mizu, and Tsuchi. The short season is a real constraint — a party arriving in
+      summer finds far fewer available.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Bamboo Shoot
+    description: >-
+      A pale ivory conical shoot with a fibrous outer sheath, heavier than it looks, smelling faintly of fresh-cut
+      grass.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

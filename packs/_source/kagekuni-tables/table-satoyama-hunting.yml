@@ -1,0 +1,106 @@
+_id: cZHzxIJf0sgjCbvb
+_key: '!tables!cZHzxIJf0sgjCbvb'
+name: Village Hunting
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!cZHzxIJf0sgjCbvb.hMWBxmuXJvtRQgtI'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Yama-usagi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: bsY9KPFDAr2soehZ
+    _id: hMWBxmuXJvtRQgtI
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!cZHzxIJf0sgjCbvb.dBlaphRdDXnsofmN'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Uzura
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: kcrSRbUUoBLBDiJ9
+    _id: dBlaphRdDXnsofmN
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!cZHzxIJf0sgjCbvb.Eqir0s44Qh2v1SGd'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Suzume
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: IDDHhOUzmZh0BlML
+    _id: Eqir0s44Qh2v1SGd
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!cZHzxIJf0sgjCbvb.E3VJUe5wtpunqA4U'
+    type: pack
+    weight: 4
+    range:
+      - 4
+      - 4
+    name: Shika
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 8IVExk159sKcabdY
+    _id: E3VJUe5wtpunqA4U
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!cZHzxIJf0sgjCbvb.3jrNomwJRIrnIFtJ'
+    type: pack
+    weight: 4
+    range:
+      - 5
+      - 5
+    name: Hato
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: Uwonrf5VJZVUeZkA
+    _id: 3jrNomwJRIrnIFtJ
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+formula: 1d5
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-satoyama-hunting
+    biome: satoyama-hunting
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

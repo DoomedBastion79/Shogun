@@ -1,0 +1,70 @@
+_id: TBaeROZ7xZAsI4rO
+_key: '!items!TBaeROZ7xZAsI4rO'
+name: Do
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: dV6zoxmFdsZ2vMvZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-do
+    category: armor
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: do
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A simple lacquered chest piece.
+  quantity: 1
+  weight:
+    value: 10
+    units: lb
+  price:
+    value: 10
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 11
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: light
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A lacquered bamboo-and-leather chest protector worn by ashigaru and travelers. Light enough to move freely,
+      sturdy enough to turn a glancing blow. The lacquer finish sheds rain and resists rot.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

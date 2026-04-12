@@ -1,0 +1,122 @@
+_id: YS6NyRGcKplVhbnr
+_key: '!tables!YS6NyRGcKplVhbnr'
+name: Foothills Hunting
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.ftapLwdPHepLU4FY'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Yama-usagi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: bsY9KPFDAr2soehZ
+    _id: ftapLwdPHepLU4FY
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.4NDyIJinCltU57li'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Yamadori
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: wk12V9lnFHZUb2lm
+    _id: 4NDyIJinCltU57li
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.nm7jjffnMUAY0hhX'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Shika
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 8IVExk159sKcabdY
+    _id: nm7jjffnMUAY0hhX
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.za9ZQnhvoxIZjocI'
+    type: pack
+    weight: 2
+    range:
+      - 4
+      - 4
+    name: Inoshishi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: PgQrGPDwz7dToHM6
+    _id: za9ZQnhvoxIZjocI
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.yzF1xNCW2ZSMXTN8'
+    type: pack
+    weight: 2
+    range:
+      - 5
+      - 5
+    name: Taka-usagi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 2X9DsbuXDT15JGuJ
+    _id: yzF1xNCW2ZSMXTN8
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!YS6NyRGcKplVhbnr.Ef4U3sl38GA6RgVW'
+    type: pack
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Tsuchimogura
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: gYst6iso2gq9qs9u
+    _id: Ef4U3sl38GA6RgVW
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d2
+formula: 1d6
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-fumoto-hunting
+    biome: fumoto-hunting
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,93 @@
+_id: yT8L8TmA3DPD1a7K
+_key: '!items!yT8L8TmA3DPD1a7K'
+name: Kamo 鴨 (Wild Duck) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kamo
+    grade: jo
+    category: niku
+    materialName: Kamo
+  mastercrafted:
+    tags:
+      - niku
+      - mat-kamo
+      - mat-kamo:jo
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kamo-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kamo 鴨 (Wild Duck)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 2 days fresh; 14 days salted<br><strong>Tools:</strong> Bow, net, or
+      sling; cook's utensils for dressing<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Rich dark meat from the wild ducks that winter on Kagekuni&#39;s wetlands. The breast is layered with golden
+      fat beneath dark rose flesh; the legs render for long braising. Duck in Hokori is traditionally paired with negi
+      (leek) and a clear, savoury broth.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The duck runs are among the defining hunts of late autumn in the lowland provinces. A skilled bowman working a
+      morning flight can fill a pack in an hour.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Wild Duck
+    description: >-
+      Plucked waterfowl — rose-dark flesh showing at the cut edges, a thick layer of golden-yellow subcutaneous fat that
+      smells faintly of riverweed.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

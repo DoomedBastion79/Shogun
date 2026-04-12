@@ -1,0 +1,93 @@
+_id: Ohu9p6WR2bADXw7d
+_key: '!items!Ohu9p6WR2bADXw7d'
+name: Kazan-koshō 火山胡椒 (Volcano Pepper) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kazan-kosho
+    grade: gokujo
+    category: chomiryo
+    materialName: Kazan-koshō
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-kazan-kosho
+      - mat-kazan-kosho:gokujo
+      - rare
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kazan-kosho-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kazan-koshō 火山胡椒 (Volcano Pepper)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Dried indefinitely; oil extract 6 months<br><strong>Tools:</strong>
+      Herbalism kit (advantage); **mildly toxic — alchemy kit to handle safely**<br><strong>Restrictions:</strong>
+      Enshiyama is an active volcanic hazard<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>The fruit of a stunted bush that grows in the ash fields surrounding Enshiyama&#39;s crater, where soil
+      temperatures remain elevated year-round. The berries are tiny and dark red, and the heat they carry is unlike any
+      other pepper — it builds slowly, reaches an almost painful intensity, then subsides into a deep, smoky warmth. Hi
+      province alchemists classify it as mildly toxic. Hi province cooks classify anyone who can&#39;t handle it as
+      weak.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Mild toxicity:** unproficient handlers take 1 poison damage per berry eaten above reasonable dose.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Volcano Pepper
+    description: Tiny dark-red berries on a stunted ash-field bush, faintly warm to the touch and releasing a searing smoky heat.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

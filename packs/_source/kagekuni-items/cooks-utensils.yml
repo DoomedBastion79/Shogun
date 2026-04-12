@@ -1,0 +1,67 @@
+_id: v4KbSuGMBDZ655lx
+_key: '!items!v4KbSuGMBDZ655lx'
+name: Cook's Utensils
+type: tool
+img: icons/tools/instruments/lute-gold-brown.webp
+folder: 2aDy2uANsc4FNnTL
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-cooks-utensils
+    category: tool
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: cooks-utensils
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A set of cooking implements.
+  quantity: 1
+  weight:
+    value: 8
+    units: lb
+  price:
+    value: 1
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: art
+    baseItem: ''
+  ability: wis
+  chatFlavor: ''
+  proficient: 0
+  bonus: ''
+  properties: []
+  description:
+    value: >
+      <p>A portable cooking kit: iron pot, ladle, cutting knife, wooden spatula, mortar and pestle, and small containers
+      for seasonings. Essential for preparing meals from gathered ingredients in the field.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

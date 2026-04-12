@@ -1,0 +1,84 @@
+_id: q1DTo8y6nD6yYCmz
+_key: '!actors!q1DTo8y6nD6yYCmz'
+name: Tsubaki
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Tsubaki
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-tsubaki
+    linkedJournalId: eBDxeG8Ot80eeBvJ
+    frontmatter:
+      name: Tsubaki
+      type: npc
+      detail: mention
+      status: active
+      race: Human
+      sex: F
+      clan: null
+      caste: zokumin
+      role: Keeper of the Crimson Shrine; Order of the Ancient Guard (Initiate)
+      location: st-hi-province
+      affiliations:
+        - order-of-the-ancient-guard
+        - crimson-shrine
+      tags:
+        - shrine-keeper
+        - ancient-guard
+        - crimson-dragon
+        - hi-province
+      aliases: []
+      related_npcs:
+        - npc-benkei
+        - npc-solas-evergreen
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">mention</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Keeper of the Crimson Shrine; Order of the Ancient Guard
+        (Initiate)</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">st-hi-province</dd></div></dl><p><em lang="ja-Latn">Keeper of the Crimson Shrine — Order
+        of the Ancient Guard (Initiate)</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><p><em lang="ja-Latn">Keeper of the Crimson Shrine;
+        Order of the Ancient Guard (Initiate)</em></p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

@@ -1,0 +1,91 @@
+_id: k3LOpa4K4UDPbAMR
+_key: '!macros!k3LOpa4K4UDPbAMR'
+name: Group Stealth
+type: script
+author: null
+img: icons/svg/cowled.svg
+scope: global
+command: >-
+  // Group Stealth Check — Kagekuni
+  //
+  // Party Stealth vs. a target's Perception. Uses Epic Rolls 5e
+  // contest mode if available; otherwise standard Stealth rolls.
+  //
+  // Usage: Select party tokens, optionally target an NPC token.
+
+  const partyTokens = canvas.tokens.controlled;
+
+  if (partyTokens.length === 0) {
+    ui.notifications.warn("Select party tokens first.");
+    return;
+  }
+
+  const partyActors = partyTokens.map(t => t.actor).filter(Boolean);
+  const targets = Array.from(game.user.targets);
+  const contestant = targets.length > 0 ? targets[0].actor : null;
+
+  if (ui.EpicRolls5e) {
+    const data = {
+      actors: partyActors,
+      type: "ste",
+    };
+
+    if (contestant) {
+      data.contestants = [contestant];
+      data.contest = "per";
+    } else {
+      // Prompt for passive Perception DC
+      const dc = await Dialog.prompt({
+        title: "Stealth DC",
+        content: `<form><div class="form-group"><label>Passive Perception DC</label><input type="number" name="dc" value="12" min="5" max="30" /></div></form>`,
+        callback: (html) => Number(html.find("[name=dc]").val()),
+        rejectClose: false,
+      });
+      if (!dc) return;
+      data.options = { DC: dc, showDC: false };
+    }
+
+    const results = await ui.EpicRolls5e.requestRoll(data);
+    if (results.canceled) return;
+
+    // Summarize who was detected
+    const detected = [];
+    const hidden = [];
+    const dc = data.options?.DC || 0;
+
+    for (const r of results.results) {
+      if (contestant) {
+        // Contest mode — Epic Rolls handles pass/fail display
+        continue;
+      }
+      if (r.value < dc) {
+        detected.push(`${r.actor.name} (${r.value})`);
+      } else {
+        hidden.push(`${r.actor.name} (${r.value})`);
+      }
+    }
+
+    if (!contestant && (detected.length > 0 || hidden.length > 0)) {
+      const summary = [];
+      if (hidden.length) summary.push(`<p><strong>Hidden:</strong> ${hidden.join(", ")}</p>`);
+      if (detected.length) summary.push(`<p><strong>Detected:</strong> ${detected.join(", ")}</p>`);
+
+      ChatMessage.create({
+        content: summary.join(""),
+        speaker: { alias: "Kagekuni" },
+        whisper: [game.user.id],
+      });
+    }
+  } else {
+    for (const actor of partyActors) {
+      await actor.rollSkill("ste");
+    }
+  }
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: group-stealth
+    description: Group Stealth check or Stealth vs. Perception contest. Uses Epic Rolls 5e.

@@ -1,0 +1,111 @@
+_id: lPwFsViCtm8VeV8u
+_key: '!actors!lPwFsViCtm8VeV8u'
+name: Swarm of Yaminezumi
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Swarm of Yaminezumi
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-swarm-of-yaminezumi
+    category: beast
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>A churning mass of tiny dark-furred rats with glinting red eyes. Yaminezumi swarms gather in sewers,
+        abandoned buildings, and forest undergrowth, drawn together by some instinct darker than mere hunger. They flow
+        like a living tide, climbing walls and pouring through gaps barely wider than a finger.</p>
+
+        <h3>Behavior</h3>
+
+        <p>Yaminezumi swarms are aggressive when disturbed and will pursue prey relentlessly through narrow spaces. They
+        scatter only when reduced to a handful of survivors.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Ecology</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Yaminezumi are touched by shadow — their eyes glow faintly in darkness, and they seem to thrive in places
+        where the boundary between the material and spirit world is thin. Some scholars believe they are attracted to
+        sites of death or dark sei.</p>
+
+
+        </section>
+      public: ''
+    alignment: Unaligned
+    cr: 0.25
+    type:
+      value: beast
+      subtype: swarm, tiny
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

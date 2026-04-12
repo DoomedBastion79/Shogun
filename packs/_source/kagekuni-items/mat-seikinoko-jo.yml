@@ -1,0 +1,93 @@
+_id: 3eL4IpZYx6OhKtE7
+_key: '!items!3eL4IpZYx6OhKtE7'
+name: Seikinoko 精茸 (Sei Mushroom) (上 Jō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-seikinoko
+    grade: jo
+    category: kinoko
+    materialName: Seikinoko
+  mastercrafted:
+    tags:
+      - kinoko
+      - mat-seikinoko
+      - mat-seikinoko:jo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-seikinoko-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Seikinoko 精茸 (Sei Mushroom)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Fades of sei charge within 3 days of picking; dried caps retain flavour
+      but lose resonance<br><strong>Tools:</strong> Herbalism kit (advantage); sei-sense or Arcana (Int) DC 12 to
+      identify active specimens<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Luminescent mushrooms found deep within the Yōsei Mori and in caverns with active sei flow. They glow a soft
+      violet-blue and the caps are warm to the touch. The taste is subtle — like forest air after rain — but the sei
+      resonance within them is unmistakable.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Sei-resonant. Ingredients in seimaster brews. Not a common market item — most are handled by shrine
+      suppliers.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Sei Mushroom
+    description: A softly glowing violet-blue mushroom cap warm to the touch, emitting a faint light visible even in shadow.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

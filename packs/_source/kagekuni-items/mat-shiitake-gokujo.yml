@@ -1,0 +1,94 @@
+_id: Q9fM795LrRRqrREN
+_key: '!items!Q9fM795LrRRqrREN'
+name: Shiitake 椎茸 (Oak Mushroom) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-shiitake
+    grade: gokujo
+    category: kinoko
+    materialName: Shiitake
+  mastercrafted:
+    tags:
+      - kinoko
+      - mat-shiitake
+      - mat-shiitake:gokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-shiitake-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shiitake 椎茸 (Oak Mushroom)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Dries indefinitely; keeps years when properly
+      stored<br><strong>Tools:</strong> Herbalism kit (advantage); unproficient forager rolls at disadvantage for
+      identification<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>The universal cooking mushroom of Kagekuni. Broad, dark-brown caps with pale, pleated gills, found in colonies
+      on fallen hardwood throughout Hana, Kusa, and Mizu. The flesh is dense and meaty with a rich umami that deepens
+      when dried. Every travelling cook carries a string of them, and every village market has a basket for sale.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The workhorse mushroom of the Kagekuni pantry. Always in season in some form somewhere; always the safe default
+      for a new forager.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Oak Mushroom
+    description: >-
+      A brown-capped mushroom with pale, pleated gills, growing from a fallen log in an overlapping colony. The flesh
+      beneath the cap is thick and pale, and the stem is short and fibrous.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

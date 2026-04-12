@@ -219,7 +219,7 @@ pages:
         civilisation, artistic refinement, and magical sophistication that has never been equalled.</p>
 
         <p>The great constructions of the Golden Age defined the physical landscape of the empire. The <strong>Imperial
-        Palace</strong> in @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} became the
+        Palace</strong> in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} became the
         architectural heart of the nation. The <strong>Great Library</strong> at Seirei Mizuumi on Kawa gathered the
         accumulated knowledge of civilisation under one roof. The <strong>Grand Canal</strong> of Mizushima connected
         inland waterways into a navigable system spanning provinces. The <strong>Hoshino Tō</strong> — a grand
@@ -330,12 +330,6 @@ pages:
 
         <section class="secret kg-secret-sealed">
 
-
-
-
-
-        <section class="secret kg-secret-sealed">
-
         <p><strong>DM Note — The Great Aphelion</strong></p>
 
         <p><em lang="ja-Latn">sealed</em></p>
@@ -362,7 +356,6 @@ pages:
         arcane orrery capable of projecting celestial positions across millennia. It has not been operational since the
         temple fell.</p>
 
-        </section>
 
         </section>
 
@@ -477,13 +470,13 @@ pages:
         hunted. Many formed underground communities for survival.</p>
 
         <p>Notable Talents of this era included <strong>Mizuki no
-        @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana}</strong> of Clan Gekkō, who manifested
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}</strong> of Clan Gekkō, who manifested
         shadow magic, and <strong>Fujimoto no Aiko</strong> of Clan
-        Ryū@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{kaze}, who could manipulate wind. The
+        Ryū@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}, who could manipulate wind. The
         <strong>Seishin Enclave</strong> was founded on the island of Unmeijima as a place of study and refuge for
         Talents — it eventually grew into the city of <strong>Seishin</strong>, the premier magical research institution
         in Kagekuni. <strong>Hikari no Shizuku</strong>, a healing and light magic tradition, established itself within
-        the imperial capital of @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}.</p>
+        the imperial capital of @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</p>
       markdown: ''
     video:
       controls: true
@@ -511,7 +504,7 @@ pages:
 
         <p>The <strong>Hōjō Clan</strong> tore itself apart in civil war, and the survivors merged with the
         <strong>Minamoto Clan</strong> to form <strong>Clan Kaminari</strong> — named in honour of Raijin, the spirit of
-        thunder. <strong>Clan Ryū@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{kaze}</strong> absorbed
+        thunder. <strong>Clan Ryū@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}</strong> absorbed
         smaller clans and became dominant in the northwest. The <strong>Yamamoto Clan</strong> splintered. The
         <strong>Ishikawa Clan</strong> dissolved entirely, and from its remnants the mercenary <strong>Clan
         Tetsujin</strong> emerged.</p>
@@ -625,12 +618,6 @@ pages:
 
         <section class="secret kg-secret-sealed">
 
-
-
-
-
-        <section class="secret kg-secret-sealed">
-
         <p><strong>DM Note — The True Cause of the Great Awakening</strong></p>
 
         <p><em lang="ja-Latn">sealed</em></p>
@@ -648,12 +635,11 @@ pages:
         unknown to the world at large.</p>
 
         <p><strong>Kinryū</strong> (the Golden Dragon) would serve as the natural counterbalance to Murasakiryū. The
-        assassination of <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.WY2KOMHT0gaMGZcr]{Solas
+        assassination of <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
         Evergreen}</strong> — a member of the Order of the Ancient Guard — was a deliberate act to prevent Kinryū&#39;s
         awakening. The cipher leading to methods for waking the Golden Dragon now rests with <strong>Relc</strong>, who
         may not fully understand what he carries.</p>
 
-        </section>
 
         </section>
 
@@ -704,27 +690,20 @@ pages:
 
         <section class="secret kg-secret-sealed">
 
-
-
-
-
-        <section class="secret kg-secret-sealed">
-
         <p><strong>DM Note — The Emperor&#39;s Death</strong></p>
 
         <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyō —
-        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.0HclUlVglsnisViu]{Raijin no Kazuhiko}</strong> (Clan
-        Kaminari) and <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BeyOUhGlMY7ZBP9e]{Akihiko
+        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no Kazuhiko}</strong> (Clan
+        Kaminari) and <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko
         Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances. Neither has shared their
         suspicions publicly.</p>
 
         <p>The 16732 reform that froze the Shogunate may have been motivated by Ryūjin&#39;s awareness of threats
         against the imperial line — a last attempt to prevent his enemies from consolidating power after his death.</p>
 
-        </section>
 
         </section>
 
@@ -873,7 +852,7 @@ pages:
         <li>Eight emperors; unprecedented peace and prosperity</li>
 
         <li>Major constructions: Imperial Palace
-        (@UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian}), Great Library (Seirei Mizuumi), Grand
+        (@UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}), Great Library (Seirei Mizuumi), Grand
         Canal (Mizushima), Hoshino Tō observatory (Shirogane Yama), Kokuyō Ryūkyūjō fortress (Tatara)</li>
 
         <li>Emperor&#39;s Highway built 11248</li>
@@ -959,8 +938,8 @@ pages:
         <li>Talents persecuted; formed underground communities</li>
 
         <li>Notable Talents: <strong>Mizuki no
-        @UUID[Compendium.assistant.lore.JournalEntry.LGWViZizhJlD3KdR]{Hana}</strong> (Gekkō Clan; shadow magic),
-        <strong>Fujimoto no Aiko</strong> (Ryū@UUID[Compendium.assistant.lore.JournalEntry.bOpGneyl1iZ9BpRy]{kaze} Clan;
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}</strong> (Gekkō Clan; shadow magic),
+        <strong>Fujimoto no Aiko</strong> (Ryū@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze} Clan;
         wind manipulation)</li>
 
         <li><strong>Seishin Enclave</strong> founded on Unmeijima; grew into city of Seishin</li>

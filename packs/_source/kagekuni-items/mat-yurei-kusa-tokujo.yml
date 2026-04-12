@@ -1,0 +1,93 @@
+_id: i0kUczUlLx3QbeiW
+_key: '!items!i0kUczUlLx3QbeiW'
+name: Yūrei-kusa 幽霊草 (Ghost Grass) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-yurei-kusa
+    grade: tokujo
+    category: yakuso
+    materialName: Yūrei-kusa
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-yurei-kusa
+      - mat-yurei-kusa:tokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-yurei-kusa-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Yūrei-kusa 幽霊草 (Ghost Grass)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 14 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A pale, almost transparent grass that grows in the shadow of ancient ruins and abandoned settlements —
+      particularly around Tsukikage in Kaze province. It sways without wind and is cold to the touch even in summer.
+      When brewed as a tea, it produces a heightened awareness of one&#39;s surroundings that borders on unsettling.
+      Some drinkers report hearing whispers.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A particularly good candidate for Tenku-ji Temple foraging. Tea from yūrei-kusa grants perception advantages
+      but causes unsettling sensations — DM may choose to impose minor morale checks for prolonged use.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Ghost Grass
+    description: Pale translucent grass that moves slightly without any apparent breeze, cool to the touch in any weather.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,178 @@
+_id: Yk0fOJkKYfbgC0jU
+_key: '!journal!Yk0fOJkKYfbgC0jU'
+name: Solas Evergreen
+pages:
+  - _id: wvZFK94CKAWsQDEf
+    _key: '!journal.pages!Yk0fOJkKYfbgC0jU.wvZFK94CKAWsQDEf'
+    name: Solas Evergreen
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>Long flowing silver hair; pale skin; emerald green eyes; intricate nature motif tattoos on arms.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Former Guardian of the Order of the Sacred Grove. Dead under mysterious circumstances. Appears to Relc as a
+        spirit — guiding visions that direct Relc&#39;s journey.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Unknown in life beyond what Relc and Sato Hideaki remember — a mentor, a protector, someone who prepared
+        carefully for his own death.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>Relc&#39;s mentor and predecessor as Guardian. Appointed Relc as next Guardian via a posthumous letter. Left
+        a cipher poem pointing to hidden knowledge (Warden&#39;s Wisdom). His spirit appears to Relc at key moments —
+        the next expected vision is at the gold doors or shortly after entering the Temple of Kinryū (Solas in the grove
+        above Kōriwara, hand on a specific stone, dawn light from the east).</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>His death was not natural or accidental. He was killed by someone with either significantly superior
+        capability or intimate familiarity — someone he trusted and did not guard against. This points to either a very
+        powerful practitioner or someone inside the Order of the Sacred Grove or the Ancient Guard itself.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Connected to @UUID[Compendium.assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato} (mid-rank
+        Sacred Grove member) and @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} (Ancient
+        Guard). His death has compromised the Ancient Guard.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> The
+        cipher poem (three stones, still water, rising sun, phoenix fern glade) leads to the Warden&#39;s Wisdom —
+        protected knowledge about the living dragons. One of the three stones is in Kōriwara&#39;s sacred grove.
+
+        <strong>[QUEST SEED]</strong> Investigating Solas&#39;s killer — the killer was motivated by hunting the
+        locations of the Progenitors (the living founding dragons); they knew Solas was connected to protected knowledge
+        about the dragons and targeted him for it.</div>
+
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p>Member of the Order of the Ancient Guard. The Ancient Guard protects knowledge about the living dragons — the
+        campaign&#39;s deepest secret.</p>
+
+        <p>Solas&#39;s killer was motivated by hunting the locations of the Progenitors (the living founding dragons).
+        The killer knew Solas was connected to protected knowledge about the dragons and targeted him for it. Further
+        identity and method TBD, but the motive is locked.</p>
+
+        <p>The Warden&#39;s Wisdom — the destination of the cipher poem — is protected knowledge about the living
+        dragons held by the Order of the Sacred Grove for safekeeping. Its specific content and the destination location
+        are yet to be determined but connect to the Ancient Guard or living dragons arc.</p>
+
+        <p>Sato Hideaki knows Solas was Ancient Guard (not just Sacred Grove). He knows the category of entity capable
+        of killing Solas but not the specific identity.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li>Relc&#39;s personal quest — the cipher poem and Warden&#39;s Wisdom</li>
+
+        <li>Solas&#39;s murder investigation — connected to the living dragons secret</li>
+
+        <li>Order of the Ancient Guard — his death has compromised the order</li>
+
+        <li>Spirit visions — ongoing guidance for Relc</li>
+
+        <li>The Progenitor hunt — whoever killed Solas is still looking for dragon locations</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: jacNIZYOv6kAAY6d
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-solas-evergreen
+    frontmatter:
+      name: Solas Evergreen
+      type: npc
+      detail: major
+      status: deceased
+      race: Elf
+      sex: M
+      clan: null
+      caste: zokumin
+      role: Guardian, Order of the Sacred Grove
+      location: none
+      affiliations:
+        - order-of-the-sacred-grove
+        - order-of-the-ancient-guard
+      tags:
+        - deceased
+        - guardian
+        - ancient-guard
+        - spirit-appearances
+        - elf
+      aliases: []
+      related_npcs:
+        - npc-hideaki-sato
+        - npc-benkei
+      related_quests: []
+      height: 6'2\"
+      weight: 170
+      images:
+        portrait: null
+        token: null
+        variants: null

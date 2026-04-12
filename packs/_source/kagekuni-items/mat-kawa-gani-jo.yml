@@ -1,0 +1,94 @@
+_id: r1IJtk7NvtzuQvzx
+_key: '!items!r1IJtk7NvtzuQvzx'
+name: Kawa-gani 川蟹 (River Crab) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kawa-gani
+    grade: jo
+    category: niku
+    materialName: Kawa-gani
+  mastercrafted:
+    tags:
+      - niku
+      - mat-kawa-gani
+      - mat-kawa-gani:jo
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kawa-gani-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kawa-gani 川蟹 (River Crab)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> Must be kept alive until cooking; cooked meat keeps 1
+      day<br><strong>Tools:</strong> None (hand-caught); cook's utensils for dressing<br><strong>Grade:</strong> 上 Jō
+      (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small freshwater crabs pulled from clear streams and the edges of rice paddies. The shells are dark mottled
+      green in life, turning vivid orange when cooked. Sweet, briny flesh inside a shell that must be cracked with
+      fingers or the butt of a knife. Grilled whole, their flavour intensifies into something far greater than their
+      size suggests.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Gathered by hand from clear streams and paddy margins. Peasant children often harvest them as a side activity
+      during other work. Fishing tackle not required. Best yields immediately after rainfall.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified River Crab
+    description: >-
+      Small armored arthropods, palm-sized, with dark mottled shells and pincers held defensively. They clack faintly
+      when disturbed.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

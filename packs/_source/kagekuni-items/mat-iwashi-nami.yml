@@ -1,0 +1,93 @@
+_id: dlderu2gReZCgcj3
+_key: '!items!dlderu2gReZCgcj3'
+name: Iwashi 鰯 (Sardine) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-iwashi
+    grade: nami
+    category: niku
+    materialName: Iwashi
+  mastercrafted:
+    tags:
+      - niku
+      - mat-iwashi
+      - mat-iwashi:nami
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-iwashi-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Iwashi 鰯 (Sardine)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 1 day fresh; 30 days salted; indefinitely
+      dried<br><strong>Tools:</strong> Nets; fishing tackle for rod-and-line work<br><strong>Grade:</strong> 並 Nami
+      (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small silver ocean fish that run in vast schools along Hokori&#39;s coasts. The flesh is oily and
+      strong-flavoured — hated by some, beloved by others. Grilled on a metal plate over coals until the skin crisps and
+      the bones soften, they are the humble backbone of coastal Mizu and Nami kitchens.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The anchor ingredient of coastal peasant cuisine. A good haul from a beach-seine can yield enough to feed a
+      village and leave a surplus for drying.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Sardine
+    description: >-
+      Handfuls of small silver-blue fish, each no longer than a finger, packed tightly together and carrying a strong
+      oceanic smell.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

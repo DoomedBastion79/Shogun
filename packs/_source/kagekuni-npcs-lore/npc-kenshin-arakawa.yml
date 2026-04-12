@@ -1,0 +1,59 @@
+_id: VUV5V6hTplIdxGLj
+_key: '!journal!VUV5V6hTplIdxGLj'
+name: Kenshin Arakawa
+pages:
+  - _id: Xc8aZKElShOFdHl7
+    _key: '!journal.pages!VUV5V6hTplIdxGLj.Xc8aZKElShOFdHl7'
+    name: Kenshin Arakawa
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: |
+        <p><em lang="ja-Latn">Taisho, Utsuroi (Tatara)</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: 2eUpFQSGsAVOEHUM
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-kenshin-arakawa
+    frontmatter:
+      name: Kenshin Arakawa
+      type: npc
+      detail: mention
+      status: active
+      race: Unknown
+      sex: M
+      clan: kurohana
+      caste: kugai
+      role: Taisho, Utsuroi (Tatara)
+      location: st-utsuroi
+      affiliations:
+        - clan-kurohana
+      tags:
+        - taisho
+      aliases: []
+      related_npcs:
+        - npc-akihiko-kurohana
+        - npc-commander-nokumora
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null

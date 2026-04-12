@@ -1,0 +1,362 @@
+_id: 5Ucjh32hvZ77ZHCw
+_key: '!tables!5Ucjh32hvZ77ZHCw'
+name: Village Foraging
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.Sjx4a5OQCFfj1PZ0'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Yamashiso
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: HP047yyjzVBtbb1c
+    _id: Sjx4a5OQCFfj1PZ0
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.jvAb7U0NBCTKCkOT'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Nobiru
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: ygrqyaJlsmZjsk7H
+    _id: jvAb7U0NBCTKCkOT
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.MZEp21lrM4y1cFgI'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Yomogi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: nfgQnVvUNeYJ88QX
+    _id: MZEp21lrM4y1cFgI
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.MSOtFlN15hhG58kC'
+    type: pack
+    weight: 4
+    range:
+      - 4
+      - 4
+    name: Warabi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: lLHrmxWyfRTPGTGi
+    _id: MSOtFlN15hhG58kC
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.50bnrBp7Iz6Pmn0b'
+    type: pack
+    weight: 4
+    range:
+      - 5
+      - 5
+    name: Mitsuba
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: Jwyq8I4iXHDbgm9A
+    _id: 50bnrBp7Iz6Pmn0b
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.VdwULF0IJKSIBATT'
+    type: pack
+    weight: 4
+    range:
+      - 6
+      - 6
+    name: Takenoko
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: II7QPTlE4hwVvLW7
+    _id: VdwULF0IJKSIBATT
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.BpDBNdf1DI4dYJGb'
+    type: pack
+    weight: 4
+    range:
+      - 7
+      - 7
+    name: Shungiku
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: bEYjIy4DI1D43ZQT
+    _id: BpDBNdf1DI4dYJGb
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.0wiGRoP9uk7hcSVN'
+    type: pack
+    weight: 4
+    range:
+      - 8
+      - 8
+    name: Karashi-na
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: fvwQh2gKpwm2PdtI
+    _id: 0wiGRoP9uk7hcSVN
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.umxdA1wMEvYBOA0D'
+    type: pack
+    weight: 2
+    range:
+      - 9
+      - 9
+    name: Tsuchi-shōga
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 5MbG84cRloEd3DIu
+    _id: umxdA1wMEvYBOA0D
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.b3MmLf0nEh0mhsSA'
+    type: pack
+    weight: 4
+    range:
+      - 10
+      - 10
+    name: Shiitake
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: i0AYdmUbl1UlVIyb
+    _id: b3MmLf0nEh0mhsSA
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.kRak29QjqsutO6Gb'
+    type: pack
+    weight: 4
+    range:
+      - 11
+      - 11
+    name: Shimeji
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: JzcxBhhLJrkUNqLF
+    _id: kRak29QjqsutO6Gb
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.AkzboerdKNFvnk96'
+    type: pack
+    weight: 4
+    range:
+      - 12
+      - 12
+    name: Hiratake
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: HwbaI3Auo0boCh4d
+    _id: AkzboerdKNFvnk96
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.aqHkK2eaymJqowZ9'
+    type: pack
+    weight: 4
+    range:
+      - 13
+      - 13
+    name: Matsutake
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: C5DuSoRZyZinKdiU
+    _id: aqHkK2eaymJqowZ9
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.BK4E58Kj1V7Ily0z'
+    type: pack
+    weight: 4
+    range:
+      - 14
+      - 14
+    name: Eringi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: wr78311ZTNWo8Mko
+    _id: BK4E58Kj1V7Ily0z
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.dJLWrGXvqrJOQAxV'
+    type: pack
+    weight: 4
+    range:
+      - 15
+      - 15
+    name: Maitake
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: HkFkO2a1cA6bd4UN
+    _id: dJLWrGXvqrJOQAxV
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.0MTqLuMypOQQSiJc'
+    type: pack
+    weight: 2
+    range:
+      - 16
+      - 16
+    name: Tanuki-take
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: vtlNy4kD5D9ms0bv
+    _id: 0MTqLuMypOQQSiJc
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.lzvX4K7fBqysSvrF'
+    type: pack
+    weight: 4
+    range:
+      - 17
+      - 17
+    name: Sanshō
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: ZHDGGPJD0pKpO6By
+    _id: lzvX4K7fBqysSvrF
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.6pFFhaHcnTZtUBfL'
+    type: pack
+    weight: 4
+    range:
+      - 18
+      - 18
+    name: Myōga
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: XlbnNXP5Potw0F0h
+    _id: 6pFFhaHcnTZtUBfL
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.L6ZCadMbC7vdrt4S'
+    type: pack
+    weight: 4
+    range:
+      - 19
+      - 19
+    name: Goma
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: m9xyoLGEyV5vtU1Y
+    _id: L6ZCadMbC7vdrt4S
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.syZ5O3Yu8QcduLhk'
+    type: pack
+    weight: 4
+    range:
+      - 20
+      - 20
+    name: Yuzu
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: dqxvv7tr4Cf16Xbe
+    _id: syZ5O3Yu8QcduLhk
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!5Ucjh32hvZ77ZHCw.QhhKcOShcPJxJGxA'
+    type: pack
+    weight: 4
+    range:
+      - 21
+      - 21
+    name: Shiso-mi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: ZHy0TRpCgEBkEqQM
+    _id: QhhKcOShcPJxJGxA
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+formula: 1d21
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-satoyama-foraging
+    biome: satoyama-foraging
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

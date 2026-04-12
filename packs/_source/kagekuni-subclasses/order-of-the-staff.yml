@@ -1,0 +1,126 @@
+_id: lPmHxjzWSXe6DsBR
+_key: '!items!lPmHxjzWSXe6DsBR'
+name: Order of the Staff
+type: subclass
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    slug: order-of-the-staff
+    className: bastion
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  description:
+    value: <p>Healing and support focus. Uses divine energy to keep allies at full capacity.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: Fan Content Policy
+    custom: ''
+    rules: '2024'
+    revision: 1
+  identifier: order-of-the-staff
+  classIdentifier: bastion
+  advancement:
+    kneNk0iNn4g2uUjq:
+      _id: kneNk0iNn4g2uUjq
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.usHyijLC7nAGq1NK
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    XcW6YnlPI4OgL1mc:
+      _id: XcW6YnlPI4OgL1mc
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.YqRaAOmwdXyRUkoV
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 5
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    4wMdYyzANS9XDqko:
+      _id: 4wMdYyzANS9XDqko
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.yp2LbBfGN9XT4ZDA
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 10
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    OOipizhp0C1lPqaG:
+      _id: OOipizhp0C1lPqaG
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.YuuB1aUqgG1ZXNpm
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 18
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,125 @@
+_id: 90rx0Ypw3TFrUOLG
+_key: '!items!90rx0Ypw3TFrUOLG'
+name: Ōkami no Kegawa 狼の毛皮 (Mountain God's Pelt)
+type: loot
+img: icons/commodities/leather/leather-worn-tan.webp
+folder: xRXCGUX77MCiPrss
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-okami-no-kegawa
+    grade: gokujo
+    category: kegawa
+    materialName: Ōkami no Kegawa
+  mastercrafted:
+    tags:
+      - kegawa
+      - mat-okami-no-kegawa
+      - mat-okami-no-kegawa:gokujo
+      - veryRare
+      - harvested
+      - one-time
+      - crafting
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-okami-no-kegawa-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ōkami no Kegawa 狼の毛皮 (Mountain God's Pelt)</h4>
+
+      <p><strong>Category:</strong> Kegawa<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      one-time-harvest<br><strong>Preservation:</strong> Indefinite if properly cured and stored cool and dry. Requires
+      specialist leatherworker for finishing (weeks of downtime work).<br><strong>Tools:</strong> Leatherworker's tools
+      for curing and finishing; ceremonial stitching requires a master, not a
+      journeyman<br><strong>Restrictions:</strong> Single-grade-locked. This entry does not follow the standard
+      Nami/Jō/Tokujō/Gokujō grade progression — the nat-20 harvest check locked the pelt at 極上 Gokujō at the moment of
+      butchering, and no lesser grade exists for this material.</p>
+
+      </article>
+
+      </div>
+
+      <p>A single enormous pelt taken from the back, flanks, and shoulders of the beast. The fur is silver-grey at the
+      roots and deepens to charcoal at the tips, dense enough to turn a winter wind and long enough at the ruff that a
+      man could bury both hands to the wrist in it. In low light the guard hairs catch a faint cool sheen — not
+      luminous, but suggestive, the way frost catches starlight. Two further sections — one from the belly, one stitched
+      from the limb hide — come off cleaner than any hunter could reasonably expect, bringing the total usable pelt to
+      something well beyond a single cloak.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**One-time harvest.** Single-grade-locked at 極上 Gokujō. The party currently holds the full yield — 1 primary
+      pelt + 2 secondary sections. Track in `dm/campaign-state.md`.
+
+
+      **Skill-Check Reveals** — the full value of this component is not obvious. A character may attempt one check per
+      skill when the pelt is first examined or investigated further. A natural 20 reveals everything across all three
+      skills.
+
+
+      - **Religion (DC 13)** — Wolves are sacred to many of the mountain kami, and a pelt of this clarity would be
+      received as an extraordinary offering at any mountain shrine. A shrine receiving it would owe the giver a favour —
+      the kind of favour that gets remembered for years. In Sora, Tsuchi, or upper Kaze, this could open doors that gold
+      cannot.
+
+      - **Nature (DC 12)** — The pelt is from a once-in-a-generation specimen. The character understands which sections
+      are most valuable, how the hide must be cured, and that a master leatherworker (not a common one) is required to
+      do the work properly. Identifies the leatherworkers of Heian, Kumo-no-Ue, and Akatsuki as having the requisite
+      skill.
+
+      - **Arcana (DC 15)** — The faint cool sheen in low light is real sei resonance — the creature&#39;s spiritual
+      nature has imprinted on its fur. Worked into a ceremonial garment, the pelt could serve as an arcane focus for
+      protection, divination, or ward-based magics. A seimaster who handles such a cloak would feel it.
+
+
+      Cross-references: See Niku → Ōkami-niku and related cuts; Hone → Ōkami no Hone / Zugai / Kiba / Tenohira; Shushoku
+      → Ōkami no Abura. All Yama-no-Ōkami components share the single-grade-locked Gokujō convention.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain God's Pelt
+    description: >-
+      An enormous wolf pelt, silver-grey shading to charcoal, far larger than any ordinary wolf should grow. The fur is
+      dense and heavy, catches the light oddly in dim rooms, and carries a faint cold smell of mountain stone.
+  quantity: 1
+  weight:
+    value: 100
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

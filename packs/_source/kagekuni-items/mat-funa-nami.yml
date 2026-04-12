@@ -1,0 +1,91 @@
+_id: 3WdhSOHQYzdMEgo1
+_key: '!items!3WdhSOHQYzdMEgo1'
+name: Funa 鮒 (Crucian Carp) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-funa
+    grade: nami
+    category: niku
+    materialName: Funa
+  mastercrafted:
+    tags:
+      - niku
+      - mat-funa
+      - mat-funa:nami
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-funa-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Funa 鮒 (Crucian Carp)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 1 day fresh; 14 days salted; indefinitely
+      dried<br><strong>Tools:</strong> Fishing tackle, nets, or traps<br><strong>Grade:</strong> 並 Nami (craft modifier:
+      -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Stout silver-bronze fish that fill every pond, paddy, and sluggish river in lowland Hokori. The flesh is mild
+      and earthy and stands up to strong seasoning — miso, soy, and ginger are the traditional rescues. Peasant food
+      elevated by time-honoured preparation.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The most reliable fish in inland Hokori. Often the catch that separates a proper meal from an empty pot on a
+      slow day.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Crucian Carp
+    description: Dull-silver, deep-bodied fish around a foot long, with coarse scales and a muddy river scent.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

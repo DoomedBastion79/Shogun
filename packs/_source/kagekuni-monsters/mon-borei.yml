@@ -1,0 +1,118 @@
+_id: I8CGFyd6dUeRizU2
+_key: '!actors!I8CGFyd6dUeRizU2'
+name: Bōrei
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Bōrei
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-borei
+    category: undead
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>A bōrei is a powerful seimaster — a mage of significant skill who channels sei through intellect and study.
+        They command devastating evocation magic including Fireball and Cone of Cold, protect themselves with Shield and
+        Counterspell, and can teleport short distances with Misty Step. A bōrei in its element is among the most
+        dangerous opponents an adventuring party can face.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Bōrei fight methodically: Mage Armor before combat, Misty Step to maintain distance, Fireball or Cone of Cold
+        against groups, and Divine Burst for sustained single-target damage. They use Counterspell and Shield reactively
+        to survive focused attacks.</p>
+
+        <h3>Spells</h3>
+
+        <p>Detect Magic, Light, Mage Armor, Mage Hand, Prestidigitation, Fireball, Invisibility, Cone of Cold, Fly,
+        Spirit Guardians, Misty Step, Counterspell, Shield</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>The term &#39;bōrei&#39; literally means &#39;departed spirit&#39; but in common usage refers to any powerful
+        seimaster who has devoted their life to magical study. Not all bōrei are hostile — some are reclusive scholars,
+        court advisors, or wandering sages. The stat block represents a combat-ready mage of considerable power.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any
+    cr: 5
+    type:
+      value: humanoid
+      subtype: wizard
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

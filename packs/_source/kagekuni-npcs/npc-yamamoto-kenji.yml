@@ -1,0 +1,94 @@
+_id: 2SozkOt57iDgalfl
+_key: '!actors!2SozkOt57iDgalfl'
+name: Yamamoto Kenji
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Yamamoto Kenji
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-yamamoto-kenji
+    linkedJournalId: 95nEBylil7xHUpjO
+    frontmatter:
+      name: Yamamoto Kenji
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: null
+      caste: zokumin
+      role: Village Leader, Takamine
+      location: st-takamine
+      affiliations: []
+      tags:
+        - village-leader
+        - mining
+        - takamine
+      aliases: []
+      related_npcs: []
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Human
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">minor</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Human</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Village Leader, Takamine</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">st-takamine</dd></div></dl><p><em
+        lang="ja-Latn">Village Leader — Takamine Mining Village</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Leader of Takamine, a mining village of 97 people sitting in the shadow of Kinryūzan (Gold Dragon Mountain)
+        at the head of the Star River. The small iron mine sustains the village with modest yields. The community is
+        close-knit in the way that difficult circumstances produce.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Not described in detail beyond pragmatic leadership of a poor but proud community.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.95nEBylil7xHUpjO]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

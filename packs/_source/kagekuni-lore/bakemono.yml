@@ -74,7 +74,7 @@ pages:
 
         <p>Oni are territorial, physical, and direct. They favor high places: mountain passes, cliff faces, abandoned
         fortifications. A lone oni will claim a stretch of road and exact tribute from travelers — food,
-        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake}, occasionally a fight for the sport of it. An oni
+        @UUID[Compendium.assistant.items.Item.1PqdGF09UULiIMWB]{sake}, occasionally a fight for the sport of it. An oni
         band, which is rarer and more dangerous, will fortify a position and hold it against anything short of an
         army.</p>
 
@@ -189,7 +189,7 @@ pages:
         <p>The raccoon-dogs of Kagekuni are shapeshifters like kitsune, but where kitsune are elegant and calculating,
         tanuki are exuberant, gluttonous, and absolutely shameless. A tanuki disguised as a merchant will sell you
         leaves that look like gold coins — and the deception will hold just long enough for the tanuki to spend the real
-        coins you gave as change on @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} and tempura.</p>
+        coins you gave as change on @UUID[Compendium.assistant.items.Item.1PqdGF09UULiIMWB]{sake} and tempura.</p>
 
         <p>Tanuki are social creatures who gather in loose communities near human settlements, drawn by the availability
         of food, drink, and entertainment. They are excellent mimics, passable musicians, and terrible liars who succeed
@@ -395,10 +395,10 @@ pages:
     text:
       format: 1
       content: >
-        <p>A bōrei is a yurei of unusual potency — a spirit whose binding is so strong, whose will was so defined in
-        life, that they persist with something approaching full consciousness. They can speak, reason, and in some cases
-        interact physically with the world around them. They do not decay in the way lesser yurei do; a bōrei may haunt
-        a place for centuries without losing coherence.</p>
+        <p>A @UUID[Compendium.assistant.monsters.Actor.I8CGFyd6dUeRizU2]{bōrei} is a yurei of unusual potency — a spirit
+        whose binding is so strong, whose will was so defined in life, that they persist with something approaching full
+        consciousness. They can speak, reason, and in some cases interact physically with the world around them. They do
+        not decay in the way lesser yurei do; a bōrei may haunt a place for centuries without losing coherence.</p>
 
         <p>Bōrei are rare and significant. A bōrei in a temple was almost certainly someone of great devotion or
         authority. A bōrei in a castle was likely a lord or general whose duty extended past death. They can be
@@ -464,7 +464,7 @@ pages:
         <p>Hungry ghosts. The dead who were consumed by greed, gluttony, or obsession in life return as gaki —
         emaciated, translucent figures with distended bellies and mouths too small to eat. They cluster around sources
         of what they craved: food markets, treasure houses,
-        @UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{sake} breweries. They cannot consume what they desire;
+        @UUID[Compendium.assistant.items.Item.1PqdGF09UULiIMWB]{sake} breweries. They cannot consume what they desire;
         the attempt to do so causes them visible agony, which they repeat compulsively.</p>
 
         <p>Gaki are pathetic more than dangerous, but in large numbers they create an aura of gnawing hunger that
@@ -529,7 +529,7 @@ pages:
         that generates localized tremors when it charges is not trying to hurt anyone — it&#39;s just running. The
         tremors are incidental. The fact that they can collapse a hillside is a separate problem.</p>
 
-        <p>The Yōsei Mori in @UUID[Compendium.assistant.lore.JournalEntry.pGJ1frab9rD23hhN]{Kusa} province has the
+        <p>The Yōsei Mori in @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} province has the
         highest concentration of sei beasts in Hokori. Deeper reaches of the forest harbor creatures of significantly
         elevated intelligence — animals that plan, coordinate, and in some cases appear to communicate in ways that defy
         natural explanation.</p>
@@ -1032,9 +1032,9 @@ pages:
     text:
       format: 1
       content: >
-        <p>The most numerous variant. Nagaji ashigaru form the bulk of any encountered group, typically six to a squad.
-        They are lighter in build than other variants — faster, more agile, and prone to flanking maneuvers rather than
-        direct engagement.</p>
+        <p>The most numerous variant. @UUID[Compendium.assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji ashigaru} form
+        the bulk of any encountered group, typically six to a squad. They are lighter in build than other variants —
+        faster, more agile, and prone to flanking maneuvers rather than direct engagement.</p>
 
         <p><strong>Physiology:</strong> Slighter frame than other variants. Scales tend toward darker mottling,
         providing natural camouflage in shadow and stone environments.</p>

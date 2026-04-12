@@ -1,0 +1,91 @@
+_id: zQai1r4SeeATFQMN
+_key: '!items!zQai1r4SeeATFQMN'
+name: Fuki 蕗 (Butterbur) (並 Nami)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-fuki
+    grade: nami
+    category: yakuso
+    materialName: Fuki
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-fuki
+      - mat-fuki:nami
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-fuki-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Fuki 蕗 (Butterbur)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 3 days fresh; indefinitely pickled<br><strong>Tools:</strong> Herbalism
+      kit; cook's utensils for blanching<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A tall, broad-leafed plant with thick celery-like stalks that push up through the snow in early spring. The
+      stalks are peeled, blanched, and simmered to remove a lingering bitterness — the reward is a clean fresh flavour
+      that announces the end of winter. A beloved sign of the turning year in every mountain village.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Mountain villages hold small informal celebrations when the first fuki of the year is harvested. A reliable
+      early-spring food source.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Butterbur
+    description: Thick pale-green fleshy stalks, each as long as a forearm, topped with broad flat leaves.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

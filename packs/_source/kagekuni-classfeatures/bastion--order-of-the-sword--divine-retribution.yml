@@ -1,0 +1,59 @@
+_id: 1D8xCdrAZ9YCdo1Y
+_key: '!items!1D8xCdrAZ9YCdo1Y'
+name: Divine Retribution
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    slug: divine-retribution
+    className: bastion
+    subclass: order-of-the-sword
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: class
+    subtype: ''
+  requirements: Order of the Sword 18
+  identifier: divine-retribution
+  description:
+    value: >-
+      <p>When casting a single-target spell, duplicate it to a second target using overload levels equal to the spell
+      level. Uses: CHA mod per long rest.</p>
+
+      <p><strong>2. Order of the Shield</strong> — Defensive and protection focus. Manipulates the flow of sei to ward
+      allies and resist harmful effects.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: Fan Content Policy
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

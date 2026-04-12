@@ -1,0 +1,172 @@
+_id: 7Th9c00d5oE1qbfi
+_key: '!journal!7Th9c00d5oE1qbfi'
+name: Nishihara
+pages:
+  - _id: XyDiDQidiOuGc3vC
+    _key: '!journal.pages!7Th9c00d5oE1qbfi.XyDiDQidiOuGc3vC'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.7Th9c00d5oE1qbfi]{Nishihara} sits in the rolling hills west of
+        the Kinryugawa, in the gentle agricultural country between
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} and the Tenchusan Ren foothills. It is a
+        village that exists primarily to serve the farmers and herders of the surrounding area -- a focal point for
+        exchange, news, and social connection in a landscape of dispersed homesteads.</p>
+
+        <p>The weekly market is Nishihara&#39;s defining feature. It draws traders from a surprising radius -- merchants
+        from Heian, specialty vendors from neighboring villages, and itinerant traders whose routes include Nishihara.
+        The market has a genuine village-fair quality; it is not purely transactional.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 897ecZSm9fhrCyBq
+    _key: '!journal.pages!7Th9c00d5oE1qbfi.897ecZSm9fhrCyBq'
+    name: Notable Establishments
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Market Hall</strong> -- Permanent covered structure hosting the weekly market. On non-market days it
+        functions as a community gathering space and occasional shelter for travelers.</p>
+
+        <p><strong>Temple of the Ancestors</strong> -- The largest structure in the village; a well-maintained
+        ancestor-veneration temple serving the surrounding rural community. Seasonal festivals draw families from
+        several hours&#39; travel distance.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: DK96VvNjWzqlEm2D
+    _key: '!journal.pages!7Th9c00d5oE1qbfi.DK96VvNjWzqlEm2D'
+    name: Key Figures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <ul>
+
+        <li>Yukari -- Village leader -&gt; npcs/yukari.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <ul>
+
+        <li>Yukari has an unusually clear picture of broader regional events because she makes it her business to listen
+        to the traveling traders.</li>
+
+        <li>The Temple of the Ancestors maintains records going back several centuries with documentation of unusual
+        historical events.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>Market Intelligence</strong>
+
+        Nishihara&#39;s market functions as an informal information exchange point for the rural interior. Yukari has an
+        unusually clear picture of broader events because she listens attentively to traders. She is not an intelligence
+        operative -- she is simply attentive. If the party passes through and asks good questions, she can provide
+        regional context unavailable from official sources.</p>
+
+        <p><strong>The Temple&#39;s Old Records</strong>
+
+        The Temple maintains records going back several centuries. Among them is documentation of a regional event
+        approximately 80 years ago -- a strange sickness affecting livestock and then people in a specific pattern
+        before stopping suddenly. The documented symptoms, if examined by a seimaster, would match early stages of a
+        sei-manipulation effect rather than natural illness. No one has looked at these records recently.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Yukari can provide regional context and rumors if approached with good questions</li>
+
+        <li>The temple records could be relevant to understanding historical sei phenomena in the region</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+folder: LEr9qD0Kx7HIyVz5
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: st-nishihara
+    frontmatter:
+      name: Nishihara
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: pr-hana

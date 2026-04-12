@@ -1,0 +1,67 @@
+_id: QUOpXWGvEEP42ToQ
+_key: '!items!QUOpXWGvEEP42ToQ'
+name: Herbalism Kit
+type: tool
+img: icons/tools/instruments/lute-gold-brown.webp
+folder: 2aDy2uANsc4FNnTL
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-herbalism-kit
+    category: tool
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: herbalism-kit
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A pouch of dried herbs and small implements.
+  quantity: 1
+  weight:
+    value: 3
+    units: lb
+  price:
+    value: 5
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: art
+    baseItem: ''
+  ability: wis
+  chatFlavor: ''
+  proficient: 0
+  bonus: ''
+  properties: []
+  description:
+    value: >
+      <p>A leather pouch containing clippers, a mortar and pestle, glass vials, and pouches of common dried herbs. Used
+      for identifying, gathering, and preparing medicinal plants.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

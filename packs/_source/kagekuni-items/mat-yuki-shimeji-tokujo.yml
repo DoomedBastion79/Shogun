@@ -1,0 +1,92 @@
+_id: ukBA1RWfvWYQma8E
+_key: '!items!ukBA1RWfvWYQma8E'
+name: Yuki-shimeji 雪占地 (Snow Cluster) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-yuki-shimeji
+    grade: tokujo
+    category: kinoko
+    materialName: Yuki-shimeji
+  mastercrafted:
+    tags:
+      - kinoko
+      - mat-yuki-shimeji
+      - mat-yuki-shimeji:tokujo
+      - uncommon
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-yuki-shimeji-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Yuki-shimeji 雪占地 (Snow Cluster)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Fresh 3 days in cold; dries adequately; flavour fades outside cold
+      climate<br><strong>Tools:</strong> Herbalism kit (advantage); cold-weather gear<br><strong>Grade:</strong> 特上
+      Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>A cold-hardy variant of the common shimeji found only above the snow line in Sora and on the highest ridges of
+      the Tenchūsan Ren. The caps are pale blue-white and the stems are unusually crisp. The flavor is clean and
+      slightly sweet, with a brightness that ordinary shimeji lack.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Sora/Tenchūsan signature. Reliable altitude indicator.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Snow Cluster
+    description: A cluster of small pale-blue-white capped mushrooms emerging through patchy snow, stems unusually firm and crisp.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

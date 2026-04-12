@@ -1,0 +1,63 @@
+_id: HOpnFt6O1mcL7yqP
+_key: '!journal!HOpnFt6O1mcL7yqP'
+name: Fumoto — Foothills Foraging
+pages:
+  - sort: 100000
+    name: Foothills Foraging
+    type: gatherer.gatherer
+    _id: Y0FmydwZW9B7cCaC
+    _key: '!journal.pages!HOpnFt6O1mcL7yqP.Y0FmydwZW9B7cCaC'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Rolling foothills between lowlands and mountain ranges. Mixed terrain with meadows, rocky outcrops, and
+        scattered woodland.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.jWoxmZRdUEIDeqc9
+        time: 15
+        draws: 8
+        quantity: ''
+        require: ''
+        minigame: 0
+        expression: ''
+        systemAbil: sur
+        DC: 11
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-fumoto-foraging
+    biome: fumoto
+    activity: fumoto-foraging
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

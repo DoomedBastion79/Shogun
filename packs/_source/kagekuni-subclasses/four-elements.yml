@@ -1,0 +1,126 @@
+_id: nq1HWzKB0nRjY43s
+_key: '!items!nq1HWzKB0nRjY43s'
+name: Four Elements
+type: subclass
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: four-elements
+    className: buddhist-monk
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  description:
+    value: <p>Elemental spellcaster-monks converting ki into fire, water, earth, or air discipline effects.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  identifier: four-elements
+  classIdentifier: buddhist-monk
+  advancement:
+    hQTnBXOHTRzWi0wQ:
+      _id: hQTnBXOHTRzWi0wQ
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.VoE7kmiEuhHNjC3E
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    OPoSc3cTyvigdhVY:
+      _id: OPoSc3cTyvigdhVY
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.qR7qOguORFERac1y
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 6
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    57w6BhPQyd87sFCX:
+      _id: 57w6BhPQyd87sFCX
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.ghAb4cPcYYJLJFCY
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 11
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    tRuJdPG6gdhqnibf:
+      _id: tRuJdPG6gdhqnibf
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.FSeVHP8Ek6XQUGSc
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 17
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,70 @@
+_id: pXSHGw1LOFJParjR
+_key: '!items!pXSHGw1LOFJParjR'
+name: Menpo
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: dV6zoxmFdsZ2vMvZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-menpo
+    category: armor
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: menpo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: An iron face guard.
+  quantity: 1
+  weight:
+    value: 3
+    units: lb
+  price:
+    value: 10
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 2
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: shield
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A half-mask of lacquered iron covering the lower face, chin, and throat. Often sculpted into fearsome
+      expressions. Provides the protective benefit of a shield for the head and neck.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

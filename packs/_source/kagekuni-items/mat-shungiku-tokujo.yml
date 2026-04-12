@@ -1,0 +1,90 @@
+_id: YGg749Zv9USy1Idr
+_key: '!items!YGg749Zv9USy1Idr'
+name: Shungiku 春菊 (Chrysanthemum Greens) (特上 Tokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-shungiku
+    grade: tokujo
+    category: yakuso
+    materialName: Shungiku
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-shungiku
+      - mat-shungiku:tokujo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-shungiku-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shungiku 春菊 (Chrysanthemum Greens)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 3 days fresh; indefinitely dried (loses some
+      character)<br><strong>Tools:</strong> Herbalism kit<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>The edible leaves of wild chrysanthemum, with a distinctive aromatic bitterness that cuts through rich broths.
+      Found in open sunny areas and along cultivated field margins. A common hot pot ingredient and a mild digestive
+      aid.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Considered a gentler herb — popular with those recovering from illness or overindulgence.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Chrysanthemum Greens
+    description: Deeply lobed grey-green leaves with a sharp chrysanthemum scent.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

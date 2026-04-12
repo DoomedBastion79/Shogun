@@ -1,0 +1,109 @@
+_id: QFGY5Db5HgGSrHEp
+_key: '!items!QFGY5Db5HgGSrHEp'
+name: Kinryūgoi 金竜鯉 (Golden Dragon Carp) (特上 Tokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kinryugoi
+    grade: tokujo
+    category: niku
+    materialName: Kinryūgoi
+  mastercrafted:
+    tags:
+      - niku
+      - mat-kinryugoi
+      - mat-kinryugoi:tokujo
+      - veryRare
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kinryugoi-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kinryūgoi 金竜鯉 (Golden Dragon Carp)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 1 day fresh; loses its properties if
+      preserved<br><strong>Tools:</strong> Fishing tackle of master quality; traditionally hand-caught by a fisher with
+      Wisdom (Survival) expertise<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>The legendary golden-scaled carp of the Kinryūgawa — a fish said to carry a fragment of the Golden Dragon&#39;s
+      essence in its flesh. Those who have eaten it describe it as the most complete meal of their life — every element
+      of taste layered through the single fish. Even a small portion is a meal worth travelling to.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A single Kinryūgoi kill is a life-defining event for a fisher. Tradition holds that the fish appears only to
+      those whose intent matches the dragon&#39;s favour. See Part II — Named Beast Harvests for ritual obligations
+      around the catch.
+
+
+      ---
+
+
+      **Named Beast Harvests — Yama-no-Ōkami (Mountain God of the Tenchūsan Ren)**
+
+
+      *Slain in the mountain pass during the Fushichō ashfall. A Huge-category beast — roughly twelve to fifteen feet
+      from nose to haunch, eight feet at the shoulder, and weighing somewhere between six and eight thousand pounds.
+      Butchered with exceptional skill — the natural 20 on the harvest check triggered the bonus d10 and cleared the
+      Legendary threshold, securing every cut the beast had to offer, including the Reikokoro. All food components from
+      this harvest are tagged at 極上 Gokujō grade by virtue of the harvest roll. The Reikokoro is a single-grade
+      Legendary exception and does not carry the standard four-grade variant block.*</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Golden Dragon Carp
+    description: >-
+      A large carp with metallic-gold scales that catch light like polished brass. Impossibly heavy for its size. The
+      eyes remain bright and the flesh faintly warm long after death.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

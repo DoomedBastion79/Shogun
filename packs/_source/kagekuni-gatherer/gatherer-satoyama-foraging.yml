@@ -1,0 +1,63 @@
+_id: 9yLsWjZ3cgymNn7O
+_key: '!journal!9yLsWjZ3cgymNn7O'
+name: Satoyama — Village Foraging
+pages:
+  - sort: 100000
+    name: Village Foraging
+    type: gatherer.gatherer
+    _id: hKHyD4LdEYaaP3pS
+    _key: '!journal.pages!9yLsWjZ3cgymNn7O.hKHyD4LdEYaaP3pS'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>Managed woodland near settlements. The interface between cultivated land and wild forest — rich in common
+        game and herbs.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.5Ucjh32hvZ77ZHCw
+        time: 10
+        draws: 12
+        quantity: ''
+        require: ''
+        minigame: 0
+        expression: ''
+        systemAbil: sur
+        DC: 8
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-satoyama-foraging
+    biome: satoyama
+    activity: satoyama-foraging
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

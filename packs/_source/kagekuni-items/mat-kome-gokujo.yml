@@ -1,0 +1,90 @@
+_id: U8PFCLHoowzcpLvp
+_key: '!items!U8PFCLHoowzcpLvp'
+name: Kome 米 (Rice) (極上 Gokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kome
+    grade: gokujo
+    category: shushoku
+    materialName: Kome
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-kome
+      - mat-kome:gokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kome-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kome 米 (Rice)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Keeps months in dry cloth; years if properly stored in sealed
+      containers<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>The foundation of nearly every meal in Kagekuni. White polished rice is carried by all travellers in small
+      cloth bags and purchased in any settlement. Peasant households stretch it with brown rice or mixed grains; samurai
+      eat it white. Quality varies subtly by province — Tsuchi rice is said to be the finest for daily eating, while
+      Kusa&#39;s slightly sweeter grain is favoured for festival dishes. A traveller without kome in their pack is a
+      traveller who expects hospitality.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>The default staple. Never run out of this in a market town.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Rice
+    description: A small cloth bag of clean white polished grains, heavy for its size.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

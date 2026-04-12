@@ -1,0 +1,89 @@
+_id: ERvGo4yUUHAjxkgU
+_key: '!items!ERvGo4yUUHAjxkgU'
+name: Azuki 小豆 (Red Beans) (特上 Tokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-azuki
+    grade: tokujo
+    category: shushoku
+    materialName: Azuki
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-azuki
+      - mat-azuki:tokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-azuki-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Azuki 小豆 (Red Beans)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Years dried in cloth<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small, dark red beans sold by the handful or in larger cloth bags. Boiled into porridge for autumn mornings,
+      sweetened for festival confections, or cooked with mochigome for ceremonial red rice. A peasant staple throughout
+      the agricultural provinces — cheap, filling, and keeping indefinitely. The dark soup made from them carries
+      ceremonial significance at certain seasonal observances.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Festival / ceremonial item.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Red Beans
+    description: Small, dark red, smooth dried beans.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

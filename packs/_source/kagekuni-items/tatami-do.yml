@@ -1,0 +1,70 @@
+_id: dDyV6rOMD9T2BFQf
+_key: '!items!dDyV6rOMD9T2BFQf'
+name: Tatami-do
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: dV6zoxmFdsZ2vMvZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-tatami-do
+    category: armor
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: tatami-do
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: Folding armor of hexagonal plates.
+  quantity: 1
+  weight:
+    value: 35
+    units: lb
+  price:
+    value: 400
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 15
+    magicalBonus: ''
+    dex: 2
+  strength: 0
+  type:
+    value: medium
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A suit of hexagonal iron plates connected by mail and mounted on cloth, designed to fold flat for transport.
+      When assembled it provides excellent protection. The name means folding armor.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,61 @@
+_id: SeuNRs3aUJWZPtsY
+_key: '!journal!SeuNRs3aUJWZPtsY'
+name: Kaigan — Coastal Fishing
+pages:
+  - sort: 100000
+    name: Coastal Fishing
+    type: gatherer.gatherer
+    _id: H3CWrrA5GVNUXuxv
+    _key: '!journal.pages!SeuNRs3aUJWZPtsY.H3CWrrA5GVNUXuxv'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: <p>Tidal zones, sea cliffs, beaches, and shallow waters. Fishing and coastal foraging.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.FUpsYKKKT6SES1uc
+        time: 25
+        draws: 6
+        quantity: ''
+        require: ''
+        minigame: 500
+        expression: ''
+        systemAbil: sur
+        DC: 12
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-kaigan-fishing
+    biome: kaigan
+    activity: kaigan-fishing
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

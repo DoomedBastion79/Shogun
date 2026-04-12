@@ -1,0 +1,1503 @@
+_id: 0Az9VOHD4cJgP9xn
+_key: '!journal!0Az9VOHD4cJgP9xn'
+name: Oryuzan Tenku-ji — First Floor
+pages:
+  - _id: 9JtIu0gtmL8Vrm1i
+    _key: '!journal.pages!0Az9VOHD4cJgP9xn.9JtIu0gtmL8Vrm1i'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><em lang="ja-Latn">&quot;Great Dragon Mountain — Temple of the Celestial Sky&quot;</em></p>
+
+        <p><em lang="ja-Latn">The temple has slept for thousands of years. Something in it has not.</em></p>
+
+        <blockquote>
+
+        <p><strong>In-game narration</strong> for all rooms on this floor is in
+        <code>supplements/read-aloud-floor-1.md</code>. This file contains the floor overview, spatial layout, and DM
+        reference material. Individual room details are in the <code>floor-1/</code> folder.</p>
+
+        </blockquote>
+
+        <hr>
+
+        <h2 id="kg-room-completion" data-section="room-completion">Room Completion</h2>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/south-entrance.md">1. South Entrance — Kinko no
+        Mon</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/grand-hall.md">2. Grand Hall — Hiroba</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/star-shrine.md">3. Star Shrine — Okuden</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/mess-hall.md">4. Mess Hall &amp; Kitchen —
+        Shokudo</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/dormitories.md">5. Dormitories — Bo</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/inner-sanctum.md">6. Inner Sanctum — Naijin</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/inner-sanctum.md">6a. High Priest&#39;s Quarters —
+        Jushoku no Ma</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/inner-sanctum.md">6b. High Priest&#39;s Vault —
+        Hoko</a></li>
+
+        <li class="kg-task" data-done="false"><a href="floor-1/central-hallway.md">Central Hallway Cross —
+        Watariro</a></li>
+
+        </ul>
+
+        <hr>
+
+        <h2 id="kg-first-floor-inhabitants-summary" data-section="first-floor-inhabitants-summary">First Floor —
+        Inhabitants Summary</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Location</th>
+
+        <th>Inhabitants</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Grand Hall</td>
+
+        <td>2 Kageban (影番 — Shadow Watch)</td>
+
+        <td>Former loyal guards; descend when disturbed; avoid pools (invisibility)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>xHiroba (general)</td>
+
+        <td>Nagaji Bushi ×1, Hohei ×2, Ashigaru ×6</td>
+
+        <td>On rotation from Naijin</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dormitory Wing</td>
+
+        <td>4 Uragiri no Onryō (裏切りの怨霊)</td>
+
+        <td>Vengeful spirits of betrayal; confused, escalate to hostility</td>
+
+        </tr>
+
+        <tr>
+
+        <td>xShokudo</td>
+
+        <td>4 Yaminezumi (闇鼠 — Darkness Rats)</td>
+
+        <td>Carry Kegare no Yamai; not aggressive unless cornered</td>
+
+        </tr>
+
+        <tr>
+
+        <td>xInner Sanctum</td>
+
+        <td>Nagaji Zasu</td>
+
+        <td>Currently patrolling; returns periodically</td>
+
+        </tr>
+
+        <tr>
+
+        <td>xOkuden</td>
+
+        <td>Nagaji Kannushi</td>
+
+        <td>Present and meditating; hostile when triggered; magical darkness (20 ft radius from cursed urn)</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-supplement-the-tapestries-of-kinko-no-mon"
+        data-section="supplement-the-tapestries-of-kinko-no-mon">Supplement: The Tapestries of Kinko no Mon</h2>
+
+        <p>Full tapestry content — static examination, activation behaviors, and DM notes — has been moved to
+        <strong><code>supplements/tapestry.md</code></strong>. That file contains both the pre-activation skill check
+        content (what the party sees when examining the tapestries as static fabric) and the post-activation behaviors
+        (what happens when the orrery is restored and the tapestries come alive).</p>
+
+        <hr>
+
+        <h2 id="kg-first-floor-key-discoveries-summary" data-section="first-floor-key-discoveries-summary">First Floor —
+        Key Discoveries Summary</h2>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Discovery</th>
+
+        <th>Location</th>
+
+        <th>Significance</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Chisel-marked defaced carvings</td>
+
+        <td>South Entrance</td>
+
+        <td>Confirms deliberate desecration; History check reveals timeline</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Missing dedicatory plaque (brackets remain)</td>
+
+        <td>South Entrance</td>
+
+        <td>Taken, not destroyed; could be found elsewhere</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tapestry I — Kinryu Descends</td>
+
+        <td>South Entrance</td>
+
+        <td>Founding image; celestial date encoded; Ko&#39;jiri advantage on next temple History check (crit)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tapestry II — Rite of the Golden Flame</td>
+
+        <td>South Entrance</td>
+
+        <td>Infiltrator captured in image; advantage on Abomination Insight checks (crit); hidden door outline
+        (exceptional)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tapestry III — Hokori Before the Reckoning</td>
+
+        <td>South Entrance</td>
+
+        <td>Pre-Golden Age map; sanctuary sites in Kaze and Sora (crit); fourth senior sanctuary in Hi/Tsuchi
+        (exceptional)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tapestry IV — The First Head Priest</td>
+
+        <td>South Entrance</td>
+
+        <td>Amber eyes link priest to statue and Ko&#39;jiri; &quot;...wa shinanai&quot; fragment (exceptional);
+        Ko&#39;jiri Charisma advantage in temple (crit)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Ko&#39;jiri recognized by statue</td>
+
+        <td>Grand Hall</td>
+
+        <td>Amber eyes orient; resonant hum; personal character moment</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Restorative pools (finite)</td>
+
+        <td>Grand Hall</td>
+
+        <td>Remove curses/disease, powerful healing; ~48 uses total</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Star map ceiling</td>
+
+        <td>Star Shrine</td>
+
+        <td>Functional; celestial attunement; Relc&#39;s vision trigger</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Coiled impression on shrine dais</td>
+
+        <td>Okuden</td>
+
+        <td>Nagaji Kannushi has been returning here</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sealed jar inscription</td>
+
+        <td>Mess Hall Kitchen</td>
+
+        <td>Handout: &quot;They are already inside. Hiroki knows.&quot;</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Scroll case + bronze disc</td>
+
+        <td>Sealed Dormitory Cell</td>
+
+        <td>Handout: Last Record of Priest Tomohiro; disc is a key</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Surviving Kinryu scroll</td>
+
+        <td>Inner Sanctum</td>
+
+        <td>800gp antique; pointer to upper-floor scriptorium; contains sei conduit filament</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sei conduit filament</td>
+
+        <td>Inner Sanctum (scroll border)</td>
+
+        <td>Observatory component; DC 16 Arcana to detect; extraction risks scroll</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hidden door to Jushoku no Ma</td>
+
+        <td>Naijin (east rubble)</td>
+
+        <td>Requires bronze disc to open</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Head Priest Kinjiro&#39;s journal + Kinryu no Chikara mandate + operational ledger</td>
+
+        <td>Jushoku no Ma</td>
+
+        <td>Major reward; grants authority within the temple; ledger documents network history</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Skeletal remains of Head Priest Kinjiro</td>
+
+        <td>Jushoku no Ma</td>
+
+        <td>Spirit encounter; peaceful or combat resolution; cleansing the temple releases him</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Susanoo projection lens</td>
+
+        <td>Grand Hall (pool debris)</td>
+
+        <td>Observatory component; blue-white crystal; DC 14 Investigation</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Tsukuyomi projection lens</td>
+
+        <td>Star Shrine (Kannushi&#39;s relic collection)</td>
+
+        <td>Observatory component; deep red crystal; moved by Kannushi from original hiding place</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Planetary gear assembly</td>
+
+        <td>Dormitories (Nagaji-searched cell)</td>
+
+        <td>Observatory component; 7 interlocking bronze rings; discarded by Nagaji</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Calibration disc (bronze disc reverse)</td>
+
+        <td>Dormitories (sealed room)</td>
+
+        <td>Observatory component; dual-purpose order seal / orrery reference key</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hoko</td>
+
+        <td>Jushoku no Ma (secret door, S wall behind dresser)</td>
+
+        <td>Temple&#39;s most sacred items; untouched; contents TBD</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Collapsed south dormitory entrance</td>
+
+        <td>East wing (S side of E-W hallway)</td>
+
+        <td>Entrance deliberately collapsed by priests during the fall; dormitory beyond intact but inaccessible</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-architecture-notes-first-floor" data-section="dm-architecture-notes-first-floor">DM Architecture
+        Notes — First Floor</h3>
+
+        <p><strong>The Temple&#39;s Two States</strong>
+
+        The central dramatic tension of the first floor is the contrast between what has decayed and what has not. The
+        statue and pools are perfect. Everything else is dying. This should never be explained — just felt. Players will
+        draw their own conclusions. The correct conclusion (that Kinryu&#39;s lingering presence, however attenuated,
+        maintains what is closest to their effigy) is available to a DC 16 Arcana or Religion check, but it should not
+        be handed out.</p>
+
+        <p><strong>The Nagaji as Former People</strong>
+
+        The party does not yet know the Nagaji are transformed Gekko clan members. Everything in this floor should add
+        weight to that eventual revelation without revealing it. The intact bowl placed in the kitchen. The Nagaji drawn
+        to the meditation space. The chief seimaster who has made a nest in the sanctum and sorted the debris with
+        scholarly instinct. When the truth lands — they will look back at all of this differently.</p>
+
+        <p><strong>The Nagaji Zasu — Playing the Encounter</strong>
+
+        The chief seimaster is not a simple monster. If the party manages to communicate — through magic, through
+        gesture, through patience — fragments of the original person respond. They remember the ritual. They remember it
+        going wrong. They cannot fully articulate what they know, but a character who succeeds on a DC 15 Insight check
+        during any interaction realizes: <em lang="ja-Latn">this thing is trying to tell them something.</em> A DC 18
+        Persuasion check (with appropriate magical translation) can open a halting exchange. The abomination knows the
+        temple&#39;s layout, including the scriptorium above. They cannot reverse what happened to themselves. But they
+        might help someone else try.</p>
+
+        <p><strong>Connecting to the Floors Above</strong>
+
+        The scriptorium — where the Gekko reversal documentation lives — is on an upper floor. The first floor exists to
+        prepare the party for that discovery: the sei-lacquer pointer from the surviving scroll, the celestial-timing
+        insight from the star shrine, the bronze disc as a key, the Kinryu no Chikara mandate as a credential.
+        Everything here is a tool for what comes next.</p>
+
+        <p><strong>The Observatory Thread</strong>: Five observatory components are distributed across the first floor
+        (Susanoo lens in the Grand Hall, planetary gear assembly in the dormitories, calibration disc on the bronze
+        order seal, Tsukuyomi lens in the Star Shrine relic collection, sei conduit filament in the sanctum scroll).
+        Additional components exist on the second floor. A party that explores thoroughly will accumulate components
+        without necessarily understanding what they&#39;re for — the observatory itself, when they reach it, provides
+        the context. The first component a player identifies (likely the planetary gear assembly, lowest Investigation
+        DC) should prompt a &quot;what is this part of?&quot; question. Do not answer it directly. Let them carry the
+        mystery upward. The orrery, when they find it, is the answer.</p>
+
+        <p><strong>The Pools — Spending Wisely</strong>
+
+        With approximately 48 charges of healing, condition removal, curse cleansing, and blessings available, the pools
+        are a meaningful mid-dungeon resource. The party should understand they are finite. A character who examines the
+        pools carefully (DC 13 Arcana) senses that the supply is not replenishing — each use is a permanent expenditure
+        of something the temple has been holding in reserve for a very long time. Note: Kegare no Yamai (from Yaminezumi
+        bites) auto-cleanses on pool entry at 1 charge per stack — the party may spend charges without realizing it.</p>
+
+        <hr>
+
+        <h2 id="kg-spatial-layout" data-section="spatial-layout">Spatial Layout</h2>
+
+        <p>type: dungeon
+
+        scale: feet</p>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-ascii-map" data-section="ascii-map">ASCII Map</h3>
+
+        <pre><code>                                         N
+                                                 ↑
+
+                             ┌──────────────────────────────────────────┐
+                             │            6. Inner Sanctum               │
+                             │               (Naijin)                    │
+                             │             90 ft W × 35 ft D             │
+                             │                                           │
+                             │  ┌───────┐      ┌─────────────┐          │
+                             │  │ Hoko  │      │  Jushoku    │          │
+                             │  │(secret│      │   no Ma     │          │
+                             │  │S wall)│      │  15W × 20D  │          │
+                             │  └───────┘      └──────┬──────┘          │
+                             │                        │ secret hall      │
+                             │                        │ 5W × 20L        │
+                             └───────────┬────────────┴─────────────────┘
+                                         │ double double-doors (open, wards broken)
+                                         │
+                       ┌─────────────────┴──────────────────┐
+                       │          2. Grand Hall              │
+                       │             (Hiroba)                │
+                       │       oval: 125W × 100 N-S          │
+                       │                                     │
+                       │           ◆ Kinryu Statue           │
+                       │           ≈ ≈ ≈ ≈ pools             │
+                       │                                     │
+                       └─────────────────┬──────────────────┘
+                                         │ double double-doors (~10 ft vestibule)
+                                         │
+                                    ┌────┴────┐
+                                    │  N-S    │
+                                    │ hallway │ 20 ft wide
+                                    │         │
+             ◄── W wing (120 ft) ──┼─────────┼── E wing (120 ft) ──►
+                                    │  20×20  │
+                                    │ center  │
+                                    │  square │
+                                    ├─────────┤
+                                    │         │
+
+          W wing detail:                                         E wing detail:
+
+          ┌──────────────────┐                                   ┌──────────────────┐
+          │   3. Star        │                                   │  5. Dormitories  │
+          │   Shrine         │  10W hallway                      │  (N side)        │
+          │  (Okuden)        ├──── 60 ft ─────  N side           │  cells + sealed  │
+          │  45W × 35D       │               of hallway          │  shared room     │
+          └──────────────────┘                   │           N ──┤                  │
+                                                 │           side│                  │
+                ┌────┐                           │                └──────────────────┘
+                │    │  L-hallway                │
+                │    │  10W, S 35ft              │                ┌──────────────────┐
+                │    │  then E 45ft              │                │  5. Dormitories  │
+                │    └───────────┐  S side       │           S ──┤  (S side)        │
+                │                │  of hallway   │           side│██ENTRY COLLAPSED██
+          ┌─────┴──────────────┐ │              │                └──────────────────┘
+          │                    │ │    ▼stairs dn │
+          │   4. Mess Hall     ├─┘    (45ft W,  │
+          │    50W × 50D       │      S side)   │
+          │                    │               │
+          │  ┌──────────────┐  │    ▲stairs up  │
+          │  │   Kitchen    │  │    (45ft W &amp;   │
+          │  │  35W × 35D   │  │     45ft E)    │
+          │  │  (W side)    │  │               │
+          │  │  [gap in     │  │               │
+          │  │   W wall]    │  │               │
+          │  └──────────────┘  │               │
+          └────────────────────┘               │
+                                                │
+                                    ┌───────────┴───────────┐
+                                    │                       │
+                                    │  1. South Entrance    │
+                                    │  (Kinko no Mon)       │
+                                    │  70W × 75L            │
+                                    │  60-ft ceiling        │
+                                    │                       │
+                                    │  ║ ║ ║ ║  pillars ║ ║ │  ╳ ╳ = fallen (NE)
+                                    │  ║ ║ ║ ║          ╳ ╳ │
+                                    │       tapers to 20 ft │
+                                    │       at ~50 ft mark  │
+                                    │                       │
+                                    │  tapestries on walls  │
+                                    │                       │
+                                    └───────────┬───────────┘
+                                                │
+                                           main doors
+                                          (south face)
+                                           ↓ ENTRANCE
+        </code></pre>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-nodes" data-section="nodes">Nodes</h3>
+
+        <p><em lang="ja-Latn">Detailed room descriptions are in the individual room files under <code>floor-1/</code>.
+        Node data here provides spatial and tactical reference.</em></p>
+
+        <ul>
+
+        <li><p><strong>1. South Entrance — Kinko no Mon</strong> [hall: 70W × 75L, 60 ft ceiling] → <a
+        href="floor-1/south-entrance.md">south-entrance.md</a></p>
+
+        <ul>
+
+        <li>dimensions: 70 ft wide at the south doors, 75 ft long; tapers to 20 ft wide at approximately 50 ft in,
+        connecting to the N-S hallway</li>
+
+        <li>light: dim (blue-white magical torches, ~half functioning, ~two-thirds of those still burning; NE corner is
+        dark)</li>
+
+        <li>cover: 8 freestanding pillars in two rows of 4 (half cover); shadow side-aisles between pillars and walls
+        (three-quarters cover from center path); fallen pillar rubble in NE corner (full cover)</li>
+
+        <li>sight_lines: center path has clear line to N-S hallway (north); side-aisles obscured by pillar rows and dim
+        light; taper narrows field of view approaching the hallway</li>
+
+        <li>occupants: none (standard)</li>
+
+        <li>atmosphere: cold, dry, still; bronze mineral scent; sound echoes with half-beat delay from vault; silence
+        near tapestried walls</li>
+
+        <li>tactical: shadow corridors are the key feature — Nagaji use the side-aisles; DC 12 Perception to notice the
+        depth before committing to center path; scraped center path telegraphs recent large-creature movement; taper
+        creates a natural funnel toward the hallway</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>Central Hallway Cross</strong> [hallway system] → <a
+        href="floor-1/central-hallway.md">central-hallway.md</a></p>
+
+        <ul>
+
+        <li>dimensions: 20 ft wide throughout; N-S hallway connects South Entrance (south) to Grand Hall double doors
+        (north); E-W hallway intersects at a 20 ft × 20 ft center square; E-W wings extend approximately 120 ft in each
+        direction from center</li>
+
+        <li>light: dark (no magical lighting in hallways)</li>
+
+        <li>cover: minimal in hallways (flat walls, no alcoves described)</li>
+
+        <li>sight_lines: long sight lines down each hallway axis; corners at the center intersection block cross-axis
+        views</li>
+
+        <li>occupants: patrol route for Nagaji</li>
+
+        <li>tactical: the center intersection is the most important decision point on the floor — four directions of
+        movement; hallway width (20 ft) allows 4-abreast formation or two-abreast with flanking space</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>2. Grand Hall — Hiroba</strong> [chamber: oval, 125W × 100 N-S] → <a
+        href="floor-1/grand-hall.md">grand-hall.md</a></p>
+
+        <ul>
+
+        <li>dimensions: oval room, 125 ft east-to-west, 100 ft north-to-south; ceiling not visible (well beyond standard
+        darkvision range — statue is 250 ft, so ceiling must be at least that)</li>
+
+        <li>access: double set of double doors on south wall (from N-S hallway, ~10 ft vestibule between door sets);
+        double set of double doors on north wall (directly into Inner Sanctum)</li>
+
+        <li>light: dark (no natural light; statue radiates warm light within 30 ft; pools emit faint blue-white
+        luminescence)</li>
+
+        <li>cover: central statue and plinth (full cover); collapsed offering tables and debris (half cover at
+        edges)</li>
+
+        <li>sight_lines: both door sets visible from center; far walls require darkvision or brought light; oval
+        geometry means no blind corners</li>
+
+        <li>occupants: 2 Shadows (upper darkness, descend when disturbed, avoid pools); Nagaji Bushi ×1, Hohei ×2,
+        Ashigaru ×6 (on rotation from Naijin)</li>
+
+        <li>atmosphere: the statue&#39;s warmth zone (30 ft radius) contrasts with the cold decay beyond it; cold-based
+        effects within 30 ft of statue have damage reduced by 1d4</li>
+
+        <li>tactical: the statue is the only spatial anchor; the pools create a safe zone the Shadows and Nagaji avoid;
+        upper darkness is effectively infinite vertical space for the Shadows; the double-double-door arrangement on
+        both ends creates two vestibule chokepoints</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>3. Star Shrine — Okuden</strong> [chamber: 45W × 35D] → <a
+        href="floor-1/star-shrine.md">star-shrine.md</a></p>
+
+        <ul>
+
+        <li>dimensions: square room, 45 ft wide × 35 ft deep</li>
+
+        <li>access: 10 ft wide hallway, approximately 60 ft long, extending north from the north side of the west wing
+        of the E-W hallway</li>
+
+        <li>light: dark (moonlight projection through ceiling shaft when Kagetsu is positioned; otherwise pitch
+        black)</li>
+
+        <li>cover: central dais (minimal cover — low stone platform); no other furnishings</li>
+
+        <li>sight_lines: clear sight to all walls from center; 10 ft wide entrance hallway is the only break</li>
+
+        <li>occupants: Nagaji Kannushi (returns periodically to meditate on dais)</li>
+
+        <li>atmosphere: complete sound suppression at threshold; polished obsidian floor still reflective; isolated and
+        sacred</li>
+
+        <li>tactical: single entrance/exit via 60 ft hallway (10 ft wide — two-abreast); sound suppression means combat
+        here is inaudible from the main hallway — works both ways; 60 ft approach hallway is a long kill zone</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>4. Mess Hall — Shokudo</strong> [room: 50W × 50D] → <a
+        href="floor-1/mess-hall.md">mess-hall.md</a></p>
+
+        <ul>
+
+        <li>dimensions: 50 ft wide × 50 ft deep</li>
+
+        <li>access: L-shaped hallway (10 ft wide) from the south side of the west wing — heads south 35 ft, then turns
+        east 45 ft into the mess hall</li>
+
+        <li>light: dark (no magical lighting; gap in kitchen west wall admits thin blade of natural light)</li>
+
+        <li>cover: collapsed tables (half cover); hearth rubble (half cover); kitchen doorway (three-quarters
+        cover)</li>
+
+        <li>sight_lines: open floor plan; kitchen visible to the west; L-hallway blocks direct sight to main E-W
+        hallway</li>
+
+        <li>occupants: 4 Swarms of Rats (nest in collapsed west wall section of kitchen; not aggressive unless
+        cornered)</li>
+
+        <li>atmosphere: pervasive old char smell; draft of clean mountain air from kitchen west wall gap</li>
+
+        <li>tactical: L-shaped hallway means no line of sight from the main corridor — must commit to the turn; rats are
+        a noise hazard if startled</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>4a. Kitchen</strong> [room: 35W × 35D]</p>
+
+        <ul>
+
+        <li>dimensions: 35 ft wide × 35 ft deep, west side of the mess hall</li>
+
+        <li>features: great central hearth (partially collapsed, iron crane bent); gap in west wall mortar (admits
+        mountain air and thin natural light); larder in far corner (door half-open, shelved goods collapsed to
+        dust)</li>
+
+        <li>tactical: west wall gap is a potential secondary exit (small, would require squeezing); kitchen is a
+        defensible fallback position from the mess hall</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>5. Dormitories — Bo</strong> [corridor complex] → <a
+        href="floor-1/dormitories.md">dormitories.md</a></p>
+
+        <ul>
+
+        <li>dimensions: corridor complex branching off both north and south sides of the east wing hallway, 120 ft from
+        center intersection; corridor is two-person width with individual cells branching L/R</li>
+
+        <li>access_north: north-side dormitory — cells, sealed shared room (barred from inside)</li>
+
+        <li>access_south: south-side dormitory — <strong>entrance collapsed by the priests</strong> during the fall;
+        dormitory beyond intact but inaccessible from this side</li>
+
+        <li>light: dark (no magical lighting)</li>
+
+        <li>cover: doorframes (half cover); cell interiors (full cover from corridor); pushed furniture in
+        starburst-damaged area</li>
+
+        <li>sight_lines: corridor provides long sight line in one axis; no sight into cells without approaching; shared
+        chambers are separate spaces</li>
+
+        <li>occupants: 4 Specters (confused, not immediately hostile; become hostile if sealed room is disturbed
+        disrespectfully)</li>
+
+        <li>atmosphere: colder than Grand Hall — unnatural cold from accumulated violence; uneasy feeling</li>
+
+        <li>tactical: corridor is a natural chokepoint (two-abreast only); cells provide ambush positions; collapsed
+        south entrance blocks access to intact dormitory beyond; north sealed room is undisturbed</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>6. Inner Sanctum — Naijin</strong> [chamber: 90W × 35D] → <a
+        href="floor-1/inner-sanctum.md">inner-sanctum.md</a></p>
+
+        <ul>
+
+        <li>dimensions: 90 ft wide × 35 ft deep (octagonal plan)</li>
+
+        <li>access: double set of double doors on south wall (from Grand Hall north doors); standing open; silver
+        ward-lines dead; wards broken from outside (shadow-aspected / Kokuryu)</li>
+
+        <li>light: dark (no magical lighting; surviving scroll&#39;s sei-lacquer emits faint preservation glow)</li>
+
+        <li>cover: debris pushed to walls (half cover at edges); cleared center offers no cover</li>
+
+        <li>sight_lines: octagonal geometry means all walls visible from center; hidden door (east wall) is flush and
+        not visible without active search (DC 15 Perception)</li>
+
+        <li>occupants: Nagaji Zasu (currently patrolling; returns periodically; has made nest in center)</li>
+
+        <li>atmosphere: residual warmth and sense of presence even when empty; debris has been sorted (valuables
+        separated from refuse — the occupant is not mindless); high Passive Perception (14+) notices the sorting</li>
+
+        <li>tactical: the Abomination treats this as its lair; the nest depression is warm and territorial; double doors
+        could be closed to create a defensive position; wide-and-shallow room means the party can be flanked easily if
+        enemies enter from behind</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>6a. Jushoku no Ma</strong> [room: 15W × 20D, sealed]</p>
+
+        <ul>
+
+        <li>dimensions: 15 ft wide × 20 ft deep</li>
+
+        <li>access: secret hallway from Inner Sanctum east wall (5 ft wide, 20 ft long); opened by pressing bronze disc
+        against specific carved scale in dragon-frieze border</li>
+
+        <li>light: dark (sealed since the order fell; no light sources)</li>
+
+        <li>cover: writing desk (half cover); bed and dresser along west wall</li>
+
+        <li>sight_lines: single hidden entrance from secret hallway</li>
+
+        <li>occupants: skeletal remains of Head Priest Kinjiro on sleeping platform (facing wall); spirit manifests when
+        bronze box or remains are touched</li>
+
+        <li>atmosphere: sealed atmosphere — still, dry; undisturbed since the door closed millennia ago</li>
+
+        <li>tactical: 5-ft-wide, 20-ft-long secret hallway is single-file only; room itself (15×20) allows limited
+        maneuvering; spirit encounter is primarily narrative but can become combat (Revenant stats)</li>
+
+        </ul>
+
+        </li>
+
+        <li><p><strong>6b. Hoko</strong> [room: sealed, secret]</p>
+
+        <ul>
+
+        <li>dimensions: not specified (small — storage vault)</li>
+
+        <li>access: secret door on south wall of Jushoku no Ma, west side; behind the dresser, west side of the bed;
+        completely concealed</li>
+
+        <li>light: dark (sealed; no light sources)</li>
+
+        <li>contents: the priest&#39;s and temple&#39;s most sacred items — untouched since the order fell</li>
+
+        <li>atmosphere: perfectly preserved; sealed within a sealed room</li>
+
+        <li>tactical: requires discovering the Jushoku no Ma first, then finding a second secret door — this is the
+        deepest-hidden space on the first floor</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>main doors → 1. South Entrance</strong>: temple&#39;s main doors (south face), only standard
+        entry/exit to the temple exterior</li>
+
+        <li><strong>1. South Entrance → Central Hallway (N-S)</strong>: hall tapers from 70 ft to 20 ft at the ~50 ft
+        mark, connecting to the N-S hallway</li>
+
+        <li><strong>Central Hallway (N-S) → 2. Grand Hall</strong>: double set of double doors with ~10 ft vestibule
+        between sets; iron brackets above outer doors (dedicatory plaque missing)</li>
+
+        <li><strong>Central Hallway (E-W, west wing, N side) → 3. Star Shrine</strong>: 10 ft wide hallway, 60 ft long,
+        extending north from the west wing</li>
+
+        <li><strong>Central Hallway (E-W, west wing, S side) → 4. Mess Hall</strong>: L-shaped hallway (10 ft wide) —
+        south 35 ft, then east 45 ft into the mess hall</li>
+
+        <li><strong>4. Mess Hall → 4a. Kitchen</strong>: open access, west side of mess hall</li>
+
+        <li><strong>Central Hallway (E-W, east wing, N side) → 5. Dormitories (north)</strong>: accessible; 120 ft from
+        center intersection</li>
+
+        <li><strong>Central Hallway (E-W, east wing, S side) → 5. Dormitories (south)</strong>: <strong>entrance
+        collapsed by the priests</strong> — rubble blocks the passage; dormitory beyond is intact</li>
+
+        <li><strong>2. Grand Hall → 6. Inner Sanctum</strong>: double set of double doors (north wall of Grand Hall);
+        black-lacquered wood banded with bronze, seven-dragon-clan frieze; standing open; silver ward-lines dead; wards
+        broken from outside (shadow-aspected / Kokuryu)</li>
+
+        <li><strong>6. Naijin → 6a. Jushoku no Ma</strong>: secret hallway (east wall); 5 ft wide, 20 ft long; opened by
+        pressing bronze disc against specific carved scale in dragon-frieze border</li>
+
+        <li><strong>6a. Jushoku no Ma → 6b. Hoko</strong>: secret door (south wall, west side); behind dresser, west of
+        bed; completely concealed</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-vertical-connections" data-section="vertical-connections">Vertical Connections</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Connection</th>
+
+        <th>Location</th>
+
+        <th>Destination</th>
+
+        <th>Notes</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Stairs (down)</td>
+
+        <td>E-W hallway, south side, 45 ft west of center</td>
+
+        <td>Lower level / cavern system</td>
+
+        <td>Access to Nagaji transit network; campaign-significant discovery</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Stairs (up)</td>
+
+        <td>E-W hallway, 45 ft west of center</td>
+
+        <td>Floor 2 — Observatory &amp; Scriptorium</td>
+
+        <td>Open access; standard stairs</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Stairs (up)</td>
+
+        <td>E-W hallway, 45 ft east of center</td>
+
+        <td>Floor 2 — Observatory &amp; Scriptorium</td>
+
+        <td>Open access; standard stairs</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Ceiling gap</td>
+
+        <td>South Entrance, NE corner</td>
+
+        <td>Raw mountain rock (no passage)</td>
+
+        <td>Where fallen pillars broke through; structural only</td>
+
+        </tr>
+
+        <tr>
+
+        <td>West wall gap</td>
+
+        <td>Kitchen (west side of Mess Hall)</td>
+
+        <td>Mountain exterior</td>
+
+        <td>Small breach in mortar; admits air and thin natural light; potential squeeze exit</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-chokepoints" data-section="chokepoints">Chokepoints</h3>
+
+        <ul>
+
+        <li><strong>Main doors (south)</strong>: only standard entry/exit to the temple; controls all access</li>
+
+        <li><strong>South Entrance taper</strong>: hall narrows from 70 ft to 20 ft — a natural funnel; attackers in the
+        wide hall have flanking advantage over defenders in the narrow hallway, and vice versa</li>
+
+        <li><strong>South Entrance side-aisles</strong>: shadow corridors between pillars and walls create an ambush
+        lane the Nagaji know and use; party moving down center path is exposed to three-quarters cover attacks from the
+        aisles</li>
+
+        <li><strong>Center intersection</strong>: the 20 ft × 20 ft crossroads where N-S meets E-W hallway; controls
+        access to all wings and the Grand Hall; a force holding the center can contest every direction</li>
+
+        <li><strong>Grand Hall double-double-doors (south)</strong>: two sets of double doors with 10 ft vestibule
+        between — a kill box if both sets are closed; controls access between the hallway system and the Grand Hall</li>
+
+        <li><strong>Grand Hall double-double-doors (north)</strong>: same configuration into the Inner Sanctum; the
+        Abomination&#39;s lair entrance</li>
+
+        <li><strong>Star Shrine hallway</strong>: 10 ft wide, 60 ft long — a narrow approach with no cover; sound
+        suppression at the shrine threshold means combat inside is inaudible from the main hallway and vice versa</li>
+
+        <li><strong>Mess Hall L-hallway</strong>: L-shaped approach (10 ft wide) blocks line of sight to the main
+        corridor; must commit to the turn blind; defensible from either end</li>
+
+        <li><strong>Dormitory corridor</strong>: two-abreast only; cells create flanking positions; Specters can emerge
+        from multiple doorways simultaneously</li>
+
+        <li><strong>Jushoku no Ma secret hallway</strong>: 5 ft wide, 20 ft long (single-file); extremely defensible
+        from either end; Kinjiro&#39;s Bōrei controls this space</li>
+
+        <li><strong>Collapsed south dormitory entrance</strong>: rubble blocks the hallway entrance only — the dormitory
+        beyond is intact but inaccessible from this side; clearing the rubble or finding an alternate route opens an
+        unexplored wing</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-sight-lines" data-section="sight-lines">Sight Lines</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>From</th>
+
+        <th>Can See</th>
+
+        <th>Cannot See</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>South Entrance (center path)</td>
+
+        <td>Taper and N-S hallway entrance (north); side-aisles obscured</td>
+
+        <td>Hallway cross; Grand Hall; any rooms</td>
+
+        </tr>
+
+        <tr>
+
+        <td>South Entrance (side-aisles)</td>
+
+        <td>Center path and opposite wall clearly</td>
+
+        <td>Other side-aisle (pillars block)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Center intersection</td>
+
+        <td>All four hallway directions; Grand Hall doors (north)</td>
+
+        <td>Inside any room; around hallway corners</td>
+
+        </tr>
+
+        <tr>
+
+        <td>E-W hallway (west wing)</td>
+
+        <td>Star Shrine hallway entrance (N); L-hallway entrance (S); stairs down (S side, 45 ft W)</td>
+
+        <td>Inside Star Shrine (60 ft hallway); inside Mess Hall (L-turn blocks); center intersection (if &gt;60 ft
+        away)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>E-W hallway (east wing)</td>
+
+        <td>Dormitory entrance (N); collapsed south dormitory entrance (S); stairs up (45 ft E)</td>
+
+        <td>Inside dormitory cells; beyond collapsed entrance; center intersection (if &gt;60 ft away)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Star Shrine hallway</td>
+
+        <td>60 ft straight line to shrine entrance; main hallway visible behind</td>
+
+        <td>Inside shrine (wall blocks at entrance)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Grand Hall (center)</td>
+
+        <td>Both door sets (south and north); statue dominates</td>
+
+        <td>Far walls without darkvision/light; upper darkness; inside sanctum or hallway</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Grand Hall (near statue)</td>
+
+        <td>30-ft warm/lit radius clearly</td>
+
+        <td>Beyond 30 ft degrades rapidly</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Star Shrine</td>
+
+        <td>All walls from center; hallway entrance</td>
+
+        <td>Main hallway (60 ft hallway + walls block); sound does not carry</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Mess Hall</td>
+
+        <td>Open floor plan; kitchen to west</td>
+
+        <td>Main hallway (L-turn blocks line of sight)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Dormitory corridor</td>
+
+        <td>Long axis of corridor; cell doorways</td>
+
+        <td>Inside cells without approaching; shared chambers at ends</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Naijin (center)</td>
+
+        <td>All eight walls; south double doors; 90 ft wide view</td>
+
+        <td>Hidden east wall door (flush, DC 15); Jushoku no Ma; Hoko</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-vtt-map-checklist-first-floor" data-section="vtt-map-checklist-first-floor">VTT Map Checklist — First
+        Floor</h2>
+
+        <p><em lang="ja-Latn">Use this to verify every explorable element has a corresponding token, marker, visual cue,
+        or interactive object on the virtual tabletop. Check off each item once it has been placed and confirmed on the
+        VTT map.</em></p>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-structural-architecture" data-section="structural-architecture">Structural / Architecture</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, south wall</strong> — Main temple doors (south
+        face)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, flanking center path</strong> — Eight freestanding
+        pillars (two rows of four)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, NE corner</strong> — Two collapsed pillars
+        (rubble)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, above NE corner</strong> — Ceiling breach (raw
+        mountain rock)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, ~50 ft mark</strong> — Taper from 70 ft to 20 ft
+        wide</li>
+
+        <li class="kg-task" data-done="false"><strong>Connecting South Entrance to Grand Hall</strong> — N-S hallway (20
+        ft wide)</li>
+
+        <li class="kg-task" data-done="false"><strong>Where N-S meets E-W hallway</strong> — Center intersection (20 ft
+        × 20 ft square)</li>
+
+        <li class="kg-task" data-done="false"><strong>West from center intersection</strong> — E-W hallway, west wing
+        (120 ft)</li>
+
+        <li class="kg-task" data-done="false"><strong>East from center intersection</strong> — E-W hallway, east wing
+        (120 ft)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, south wall (from hallway)</strong> — Double
+        double-doors (south set) + 10 ft vestibule</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, south door frame</strong> — Iron brackets above outer
+        doors (plaque missing)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, north wall (into Inner Sanctum)</strong> — Double
+        double-doors (north set), black-lacquered, bronze-banded, seven-dragon frieze</li>
+
+        <li class="kg-task" data-done="false"><strong>West wing, north side</strong> — Star Shrine hallway (10 ft wide ×
+        60 ft long)</li>
+
+        <li class="kg-task" data-done="false"><strong>West wing, south side</strong> — L-shaped hallway to Mess Hall (10
+        ft wide; S 35 ft, then E 45 ft)</li>
+
+        <li class="kg-task" data-done="false"><strong>East wing, north side</strong> — Dormitory corridor entrance
+        (north)</li>
+
+        <li class="kg-task" data-done="false"><strong>East wing, south side</strong> — Collapsed dormitory entrance
+        (south), rubble</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum</strong> — Octagonal walls (90 ft W × 35 ft D)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, east wall (hidden, DC 15)</strong> — Secret hallway
+        (5 ft W × 20 ft L)</li>
+
+        <li class="kg-task" data-done="false"><strong>Beyond secret hallway</strong> — Jushoku no Ma (15 ft W × 20 ft
+        D)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma, south wall, west side, behind dresser</strong> —
+        Hoko secret door</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-vertical-connections" data-section="vertical-connections">Vertical Connections</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>E-W hallway, south side, 45 ft west of center</strong> — Stairs
+        down (to lower level / cavern system)</li>
+
+        <li class="kg-task" data-done="false"><strong>E-W hallway, 45 ft west of center</strong> — Stairs up (west) to
+        Floor 2</li>
+
+        <li class="kg-task" data-done="false"><strong>E-W hallway, 45 ft east of center</strong> — Stairs up (east) to
+        Floor 2</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, west wall</strong> — West wall gap (squeeze exit to
+        mountain exterior)</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-lighting-amp-atmosphere" data-section="lighting-amp-atmosphere">Lighting &amp; Atmosphere</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, both walls, 7 ft intervals</strong> — Blue-white
+        magical torches in gold sconces (~half present, ~two-thirds burning)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, NE corner</strong> — Dead zone / dark corner
+        (missing torches)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, center</strong> — Kinryu statue warm light radius (30
+        ft)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, flanking statue</strong> — Pool luminescence (faint
+        blue-white)</li>
+
+        <li class="kg-task" data-done="false"><strong>Hallways, Star Shrine, Mess Hall, Dormitories, Inner
+        Sanctum</strong> — All rooms marked as DARK (no magical lighting)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, west wall</strong> — Thin blade of natural light from
+        wall gap</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-interactive-objects-amp-discoveries" data-section="interactive-objects-amp-discoveries">Interactive
+        Objects &amp; Discoveries</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, NE corner (behind rubble, in darkness)</strong> —
+        Tapestry I: Kinryu Descends</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, wall position</strong> — Tapestry II: Rite of the
+        Golden Flame</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, wall position</strong> — Tapestry III: Hokori
+        Before the Reckoning</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, wall position</strong> — Tapestry IV: The First
+        Head Priest</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, remaining wall positions</strong> — Seven
+        destroyed tapestry positions (blackened/collapsed)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, among the destroyed positions</strong> — Empty
+        tapestry frames (cut down, not deteriorated)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, all eight pillars</strong> — Defaced pillar
+        carvings (chisel marks at reachable height)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, floor</strong> — Gold and blue geometric tile
+        floor (scraped center path)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, center</strong> — Kinryu statue (250 ft tall, amber
+        eyes, golden scales, perfect condition)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, around statue base</strong> — Restorative pools (~48
+        uses, flanking statue)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, edges</strong> — Collapsed offering tables and
+        debris</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, pool debris</strong> — Susanoo projection lens
+        (blue-white crystal, DC 14 Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>Star Shrine, ceiling</strong> — Star map ceiling (functional,
+        celestial attunement)</li>
+
+        <li class="kg-task" data-done="false"><strong>Star Shrine, center</strong> — Low stone dais with coiled
+        impression</li>
+
+        <li class="kg-task" data-done="false"><strong>Star Shrine, floor</strong> — Polished obsidian floor (still
+        reflective)</li>
+
+        <li class="kg-task" data-done="false"><strong>Mess Hall, main floor</strong> — Collapsed tables</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, center</strong> — Great central hearth (partially
+        collapsed, bent iron crane)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, far corner</strong> — Larder (door half-open, shelved
+        goods collapsed to dust)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, larder/storage area</strong> — Sealed jar with
+        inscription (&quot;They are already inside. Hiroki knows.&quot;)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, sealed jar</strong> — Tsukuyomi projection lens (deep red
+        crystal, hidden deliberately during fall)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, collapsed west wall section</strong> — Rat nest area</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, north side</strong> — Dormitory cells (individual
+        rooms branching L/R off corridor)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, north side, end of corridor</strong> — Sealed shared
+        room (barred from inside)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, sealed room</strong> — Scroll case + bronze disc
+        (Last Record of Priest Tomohiro)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, sealed room</strong> — Calibration disc (bronze disc
+        reverse, dual-purpose seal/orrery key)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, north side</strong> — Nagaji-searched cell with
+        scattered contents</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, Nagaji-searched cell</strong> — Planetary gear
+        assembly (7 interlocking bronze rings, discarded by Nagaji)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, specific cell(s)</strong> — Starburst damage area
+        with pushed furniture</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, south side</strong> — Intact south dormitory
+        (inaccessible, behind collapsed entrance)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, center floor</strong> — Abomination nest (center,
+        sorted debris)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, south double doors</strong> — Broken silver
+        ward-lines on door frame</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, among sorted debris</strong> — Surviving Kinryu
+        scroll (800 gp antique, sei-lacquer glow)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, within surviving scroll</strong> — Sei conduit
+        filament (DC 16 Arcana to detect, in scroll border)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, east wall (rubble area)</strong> — Hidden door to
+        secret hallway (flush with wall, DC 15 Perception)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, east wall secret door</strong> — Dragon-frieze
+        border with specific carved scale (bronze disc keyhole)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma</strong> — Writing desk</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma, west wall</strong> — Bed and dresser</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma, on/near desk</strong> — Bronze box (Head Priest
+        Kinjiro&#39;s journal + Kinryu no Chikara mandate + operational ledger)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma, sleeping platform</strong> — Skeletal remains of
+        Head Priest Kinjiro (facing wall)</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-creature-placement-tokens" data-section="creature-placement-tokens">Creature Placement / Tokens</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, ceiling/upper dark</strong> — 2 Shadows (descend when
+        disturbed, avoid pools)</li>
+
+        <li class="kg-task" data-done="false"><strong>Hiroba, general area / patrol route</strong> — Nagaji Bushi ×1,
+        Hohei ×2, Ashigaru ×6 (on rotation from Naijin)</li>
+
+        <li class="kg-task" data-done="false"><strong>Okuden, on dais</strong> — Nagaji Kannushi (returns periodically
+        to meditate)</li>
+
+        <li class="kg-task" data-done="false"><strong>Kitchen, west wall nest</strong> — 4 Swarms of Rats (not
+        aggressive unless cornered)</li>
+
+        <li class="kg-task" data-done="false"><strong>Dormitories, cells/corridor</strong> — 4 Specters (confused, not
+        immediately hostile)</li>
+
+        <li class="kg-task" data-done="false"><strong>Inner Sanctum, nest area</strong> — Nagaji Zasu (patrols, returns
+        periodically)</li>
+
+        <li class="kg-task" data-done="false"><strong>Jushoku no Ma, at remains</strong> — Head Priest Kinjiro&#39;s
+        Bōrei (manifests when remains/box touched)</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-tactical-environmental-features" data-section="tactical-environmental-features">Tactical /
+        Environmental Features</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, between pillars and walls</strong> — Shadow
+        side-aisles (3/4 cover from center path)</li>
+
+        <li class="kg-task" data-done="false"><strong>South Entrance, NE corner</strong> — Fallen pillar rubble (full
+        cover)</li>
+
+        <li class="kg-task" data-done="false"><strong>Star Shrine, entrance</strong> — Sound suppression boundary at
+        shrine threshold</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, centered on statue</strong> — 30 ft warm zone (cold
+        damage reduced 1d4)</li>
+
+        <li class="kg-task" data-done="false"><strong>Hiroba, pool radius</strong> — Pool safe zone (Shadows and Nagaji
+        avoid)</li>
+
+        <li class="kg-task" data-done="false"><strong>Grand Hall, south double-double-doors</strong> — Vestibule
+        chokepoint (south)</li>
+
+        <li class="kg-task" data-done="false"><ul>
+
+        <li></li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: l5BIhfSF43CFAEB4
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
+    slug: rm-floor-1
+    frontmatter:
+      name: Oryuzan Tenku-ji — First Floor
+      tags:
+        - temple
+        - kinryu
+        - dungeon
+        - first-floor
+      parent: loc-tenkuji-temple/floor-1
+      floor: '1'
+      roomNumber: '0'

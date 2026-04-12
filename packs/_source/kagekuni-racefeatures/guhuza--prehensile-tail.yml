@@ -1,0 +1,52 @@
+_id: E21tcHeQmGjaHvKO
+_key: '!items!E21tcHeQmGjaHvKO'
+name: Prehensile Tail
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: prehensile-tail
+    raceName: Guhuza (Izina)
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: race
+    subtype: ''
+  requirements: Guhuza (Izina)
+  identifier: prehensile-tail
+  description:
+    value: <p>Proficient in Acrobatics.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

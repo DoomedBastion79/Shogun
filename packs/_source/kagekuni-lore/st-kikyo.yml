@@ -1,0 +1,235 @@
+_id: 8BPLYleAkYpmvX5a
+_key: '!journal!8BPLYleAkYpmvX5a'
+name: Kikyo
+pages:
+  - _id: 2L5J8ozyIO9Wpmxh
+    _key: '!journal.pages!8BPLYleAkYpmvX5a.2L5J8ozyIO9Wpmxh'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} sits at the eastern edge of the
+        Seidorin Mori -- the Bronze Wood Forest -- organized entirely around harvesting and trading a resource it did
+        not create. The Bronze Wood is to Kikyo what a great mine is to a mining town, except the resource is renewable
+        (slowly), carefully managed, and far more politically complicated.</p>
+
+        <p>The city&#39;s architecture uses Bronze Wood extensively -- older buildings have developed a patina of aged
+        copper giving streets a warm metallic glow at sunset. Newer construction uses it more sparingly due to licensing
+        restrictions, creating visible stratification between old-money establishments and newer buildings.</p>
+
+        <p>Kikyo&#39;s economy runs on the licensing system. Every piece of Bronze Wood leaving the forest passes
+        through a licensing transaction administered by
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s office. The paperwork is
+        meticulous; the opportunities for licensed abuse are significant.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: nG3kiFLDg2SkF9KZ
+    _key: '!journal.pages!8BPLYleAkYpmvX5a.nG3kiFLDg2SkF9KZ'
+    name: Districts / Landmarks
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Commercial Quarter</strong> -- Trading heart. Merchant warehouses, guild offices, the commodity
+        exchange for Bronze Wood contracts. Ko&#39;jiri was caught performing here.</p>
+
+        <p><strong>Administrative Quarter</strong> --
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offices and civic
+        administration. The licensing offices are among the most visited buildings in
+        @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</p>
+
+        <p><strong>Residential Quarters</strong> -- Mixed; older areas near the forest edge contain original families;
+        newer development pushed outward.</p>
+
+        <p><strong>Kikyo Guard Compound</strong> --
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s base of operations.
+        Small but highly capable force focused on licensing enforcement and forest protection.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JVJFhYudTXznY2zA
+    _key: '!journal.pages!8BPLYleAkYpmvX5a.JVJFhYudTXznY2zA'
+    name: Notable Establishments
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>Notable establishments are primarily the licensing offices, merchant guild headquarters, and the Guard
+        Compound -- all integral to the Bronze Wood trade that defines the city.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: zlSokZBB4VeTZ9DK
+    _key: '!journal.pages!8BPLYleAkYpmvX5a.zlSokZBB4VeTZ9DK'
+    name: Key Figures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <ul>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} -- Shicho (Mayor) and
+        Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
+
+        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige} -- Captain of the
+        Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <ul>
+
+        <li>Ren Nakamura has discovered the true source of the Bronze Wood&#39;s metallic quality and is working with a
+        merchant guild to exploit it.</li>
+
+        <li>Haruto Masashige is building an informant network and has noticed irregularities in the licensing
+        records.</li>
+
+        <li>Ko&#39;jiri carries both a legitimate letter from Ren Nakamura and a forged version -- a ticking clock.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>The Bronze Wood Secret</strong>
+
+        The Seidorin Mori grows over an underground branch of Kinkokyo&#39;s ancient canal system. The metallic quality
+        is caused by trace gold and copper in groundwater flowing through the buried city&#39;s infrastructure for
+        thousands of years. Ren Nakamura has discovered this. His allied merchant guild wants to locate and exploit the
+        source directly, bypassing tree-harvesting -- requiring excavation that would destroy the forest.</p>
+
+        <p><strong>Haruto Masashige&#39;s True Purpose</strong>
+
+        Masashige suspects something significant about the licensing system. He has noticed irregularities -- specific
+        harvesting zones consistently licensed to a single merchant entity with documentation that obscures the pattern.
+        He is three to four months from a coherent accusation.</p>
+
+        <p><strong>Ren Nakamura&#39;s Alliance</strong>
+
+        The merchant guild is based in Heian with operations across Hana and beyond. The alliance provides financial
+        support for Clan Minato&#39;s elevation ambitions and exclusive export contracts. Nakamura is not villainous by
+        nature but has made compromises requiring further compromises to sustain.</p>
+
+        <p><strong>Ko&#39;jiri&#39;s Forged Letter -- Ticking Clock</strong>
+
+        Ko&#39;jiri carries a legitimate letter and a forged version requesting additional materials. The real letter
+        has already been sent to Heian through official channels. When the discrepancy is discovered, Ko&#39;jiri&#39;s
+        Conditional Pardon will be immediately at risk. Estimate: 2-4 sessions.</p>
+
+        <p><strong>Ancient Dragonborn Ritual Knowledge</strong>
+
+        Haruto Masashige&#39;s knowledge of ancient Dragonborn rituals includes a purification and restoration rite
+        preserved in his family&#39;s oral tradition -- directly applicable to the Nagaji situation if someone connected
+        the dots.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Haruto sends word to the party in Heian: he has found something in the licensing records connecting to their
+        mission</li>
+
+        <li>A merchant guild representative in Kikyo attempts to discourage the party from returning there with unusual
+        vehemence</li>
+
+        <li>Ren Nakamura contacts Ko&#39;jiri separately with an additional, unwritten request</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+folder: LEr9qD0Kx7HIyVz5
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: st-kikyo
+    frontmatter:
+      name: Kikyo
+      type: settlement
+      settlement_type: city
+      island: hokori
+      province: pr-hana

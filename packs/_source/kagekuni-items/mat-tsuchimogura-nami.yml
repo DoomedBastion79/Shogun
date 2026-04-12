@@ -1,0 +1,91 @@
+_id: 9G8mCfsQIoyxQZjr
+_key: '!items!9G8mCfsQIoyxQZjr'
+name: Tsuchimogura 土藻鱼 (Earth Mole) (並 Nami)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-tsuchimogura
+    grade: nami
+    category: niku
+    materialName: Tsuchimogura
+  mastercrafted:
+    tags:
+      - niku
+      - mat-tsuchimogura
+      - mat-tsuchimogura:nami
+      - rare
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-tsuchimogura-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tsuchimogura 土藻鱼 (Earth Mole)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 2 days fresh; 10 days salted<br><strong>Tools:</strong> Specialized
+      burrow traps; patience more than strength<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>An unusually large subterranean mammal — dense, short-limbed, and blind — whose meat is prized among farmers
+      and foragers for its rich, dark flavour and the surprising tenderness of its flesh. Hunted with patience rather
+      than force; a single earth mole can feed a small family for several meals.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditional prey of rural trappers working grassland and foothill edges. The burrow networks are extensive — a
+      patient hunter sets traps at multiple exits and waits.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Earth Mole
+    description: A small blind-eyed burrowing animal with dense muscle, short powerful limbs, and dark fur. Heavier than it looks.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

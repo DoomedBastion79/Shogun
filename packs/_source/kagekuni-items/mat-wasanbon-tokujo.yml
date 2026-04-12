@@ -1,0 +1,90 @@
+_id: E2ijmbiinhcdUHK3
+_key: '!items!E2ijmbiinhcdUHK3'
+name: Wasanbon 和三盆 (Refined Sugar) (特上 Tokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-wasanbon
+    grade: tokujo
+    category: shushoku
+    materialName: Wasanbon
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-wasanbon
+      - mat-wasanbon:tokujo
+      - uncommon
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-wasanbon-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Wasanbon 和三盆 (Refined Sugar)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Years in sealed paper packet; humidity destroys
+      it<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Pale, extraordinarily fine sugar refined in small village cooperatives of southern Hana and Kusa, where the
+      specific microclimate allows for the slow, patient crystallisation the product demands. Used sparingly in sweets,
+      ceremonial confections, and the glaze of refined dishes. A luxury to most peasant households — a small paper
+      packet of wasanbon is considered a generous gift to a host.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Gift-worthy item for noble social encounters.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Refined Sugar
+    description: A fine pale powder-like sugar in a paper packet, almost floury to touch.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,850 @@
+_id: s20CQvb4hE8aBbiZ
+_key: '!journal!s20CQvb4hE8aBbiZ'
+name: Tapestries of Kinko no Mon
+pages:
+  - _id: sGExneTa5wiQOtGR
+    _key: '!journal.pages!s20CQvb4hE8aBbiZ.sGExneTa5wiQOtGR'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><p><em lang="ja-Latn">Static examination and
+        orrery-activated behavior for the four surviving tapestries in the South Entrance.</em></p>
+
+        <p><em lang="ja-Latn">Static content describes what the party can learn from examining the tapestries as still
+        fabric. Activation content describes what happens when the orrery is fully restored and the tapestries come
+        alive.</em></p>
+
+        <hr>
+
+        <h2 id="kg-how-this-works" data-section="how-this-works">How This Works</h2>
+
+        <p>Each tapestry supports two independent skill tracks. A player may attempt either or both, in any order — the
+        two tracks produce genuinely different information, not the same content reframed from a different angle.</p>
+
+        <p><strong>Track One — Reading the Image</strong>
+
+        Use <strong>Investigation</strong> (analytical, connective, inferential) or <strong>Perception</strong>
+        (sensory, visual, observational) interchangeably. Both engage with what is physically present in the tapestry. A
+        player who attempts both rolls does not stack content — the second check may add a small sensory or contextual
+        detail at DM discretion, but core information does not compound.</p>
+
+        <p><strong>Track Two — The Secondary Skill</strong>
+
+        Each tapestry has a distinct secondary skill that unlocks a different layer of information entirely.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Tapestry</th>
+
+        <th>Secondary Skill</th>
+
+        <th>Lens</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>I — Kinryu Descends</strong></td>
+
+        <td>History</td>
+
+        <td>Iconographic meaning, clan conventions, lineage</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>II — The Rite of the Golden Flame</strong></td>
+
+        <td>Arcana</td>
+
+        <td>Sei resonance, enchantment traces, magical residue</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>III — Hokori Before the Reckoning</strong></td>
+
+        <td>Insight</td>
+
+        <td>Intent — what was chosen, hidden, or deliberately omitted</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>IV — The First Head Priest</strong></td>
+
+        <td>Religion</td>
+
+        <td>Sacred symbolism, devotional context, divine significance</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>Ko&#39;jiri&#39;s Advantage</strong>: On Tapestry I, Ko&#39;jiri may apply his Golden Dragon Clan
+        History advantage to the History (Track Two) check. On Tapestry IV, he may apply it to his Track One check — the
+        founding priest&#39;s identity falls within his documented research.</p>
+
+        <h3 id="kg-the-four-tiers" data-section="the-four-tiers">The Four Tiers</h3>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Result</th>
+
+        <th>DC</th>
+
+        <th>What It Means</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>Failure</strong></td>
+
+        <td>Below 10</td>
+
+        <td>Misreads, wrong conclusion, or finds nothing</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Partial</strong></td>
+
+        <td>10-13</td>
+
+        <td>Surface impression only; limited or ambiguous</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Success</strong></td>
+
+        <td>14-17</td>
+
+        <td>Observations first, then one interpretive possibility</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Critical Success</strong></td>
+
+        <td>18-21</td>
+
+        <td>Full picture plus a tangible or mechanical reward</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>Exceptional</strong></td>
+
+        <td>22+</td>
+
+        <td>Critical success plus one detail not otherwise visible</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <hr>
+
+        <h2 id="kg-tapestry-i-kinryu-descends-to-the-mountain"
+        data-section="tapestry-i-kinryu-descends-to-the-mountain">Tapestry I — Kinryu Descends to the Mountain</h2>
+
+        <p><em lang="ja-Latn">West wall, north end. Best preserved of the four. Approximately two-thirds
+        intact.</em></p>
+
+        <p><strong>At a glance</strong>: Gold thread on deep indigo — a massive figure descending from a night sky
+        filled with precisely rendered stars. The lower portion is gone, a diagonal tear removing most of the bottom
+        quarter.</p>
+
+        <p><strong>Track One — Investigation or Perception</strong></p>
+
+        <p><strong>FAILURE</strong>: Something large descending. Gold, or close to it. The damage at the bottom takes
+        most of the scene with it. Whatever the figure was descending toward, you cannot see it.</p>
+
+        <p><strong>PARTIAL</strong>: A dragon, or a depiction of one — coming down through a starlit sky toward
+        something in the missing lower section. The posture is deliberate: unhurried, the movement chosen. At the torn
+        edge, just at the damage line, the faintest hint of figures below.</p>
+
+        <p><strong>SUCCESS</strong>: The stitchwork is extraordinary — individual scales in thread of at least three
+        different weights, each catching the cold torchlight at its own angle. The stars in the indigo field are
+        rendered with the same precision: not decorative, not approximate. The posture — wings folded back, head
+        inclined — has the quality of a choice rather than a movement. Just above the tear, the tops of ground figures
+        are barely present: one robed, arms raised, the forearms bearing a textured pattern stitched in thread that
+        might read as scales. In the raised hands, something small and circular, stitched in thread that has tarnished
+        nearly black.</p>
+
+        <p><em lang="ja-Latn">The deliberateness of the descent — wings folded, head lowered — suggests this moment was
+        considered important enough to record with unusual care.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The figure at the torn edge is positioned as a recipient, not a witness —
+        arms raised in a specific formal gesture, weight forward, attention directed upward. The circular object at
+        their belt is a disc, and its proportions match something you have encountered or will encounter elsewhere in
+        this temple. The star arrangement above is not generic — it is a specific configuration, a particular night,
+        rendered as precisely as everything else here.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: Recognizing the disc shape connects this figure to the bronze disc
+        found in the sealed dormitory. The character gains advantage on the next Investigation check made while
+        searching for hidden mechanisms or sealed doors anywhere in the temple.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: The tear line is too uniform. The threads along the diagonal show the tension
+        pattern of a cut, not a break — the surrounding fabric confirms it. The bottom quarter was removed deliberately,
+        not lost to time. Whatever stood below the descending figure at the moment this image depicts, someone decided
+        it should not be visible here.</p>
+
+        <p><strong>Track Two — History</strong></p>
+
+        <p><strong>FAILURE</strong>: A dragon arriving. The posture reads as territorial — a claim being made, a place
+        taken. This reading is wrong, and conclusions built on it will be wrong.</p>
+
+        <p><strong>PARTIAL</strong>: A standard subject in Golden Dragon clan commemorative imagery — a formal depiction
+        of Kinryu in descent. Nothing here immediately distinguishes this from common examples of the genre.</p>
+
+        <p><strong>SUCCESS</strong>: The posture — wings folded, head inclined — is a specific iconographic convention
+        used by the Golden Dragon clan exclusively for one kind of moment: not conquest or arrival, but <em
+        lang="ja-Latn">voluntary binding</em>. This pose appears when Kinryu is depicted choosing to commit — to a
+        place, a purpose, a relationship. This image is not commemorative. It records a promise.</p>
+
+        <p><em lang="ja-Latn">The star arrangement is rendered with the same specificity as everything else in the
+        image. It appears to be a real configuration, not a decorative one.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The star arrangement is datable. Ko&#39;jiri — if present and engaged —
+        recognizes it from his research notes: a celestial alignment recorded in a secondary source as <em
+        lang="ja-Latn">&quot;the night Kinryu first spoke to a mortal in the age before the clans were named.&quot;</em>
+        This event was cosmologically timed. The founding of this temple was not incidental to larger events — it was
+        coordinated with them.</p>
+
+        <p><em lang="ja-Latn">Ko&#39;jiri Tangible Reward</em>: Advantage on his next History check made inside the
+        temple.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: The voluntary-binding pose appears in three surviving examples of Golden Dragon
+        clan iconography: once here, once in a fragment held at the Great Library of Seirei Mizuumi, and once in a
+        carving reported — before the Dark Ages, unverified since — somewhere in the highlands of Kaze province. Three
+        separate moments. Three separate bindings. This, by available record, is the first.</p>
+
+        <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
+
+        <p>The activation is not passive. The descending figure&#39;s gaze tracks Ko&#39;jiri specifically throughout
+        the scene. It does not track other party members. The quality of attention in the image reads as recognition, or
+        the desire for it — the ori-kioku recorded a moment of directed intent, and Ko&#39;jiri carries whatever quality
+        that intent was directed toward. The wanting in it is not subtle once noticed.</p>
+
+        <p>Other party members observing will notice the eyes are not following them.</p>
+
+        <p><strong>Cross-reference hum</strong>: If Ko&#39;jiri is present during activation, he hears the resonant hum
+        from the Grand Hall statue — faint, directional, traveling through the temple&#39;s stone. Not an echo of the
+        tapestry. The building is cross-referencing him through its foundational magic. Do not explain this to the
+        players.</p>
+
+        <hr>
+
+        <h2 id="kg-tapestry-ii-the-rite-of-the-golden-flame"
+        data-section="tapestry-ii-the-rite-of-the-golden-flame">Tapestry II — The Rite of the Golden Flame</h2>
+
+        <p><em lang="ja-Latn">East wall, center. Approximately half intact; significant damage on the left, right side
+        largely preserved.</em></p>
+
+        <p><strong>At a glance</strong>: Robed figures in a circle around a fire that rests on nothing. Hands raised.
+        The left half of the image is mostly gone.</p>
+
+        <p><strong>Track One — Investigation or Perception</strong></p>
+
+        <p><strong>FAILURE</strong>: A ceremony of some kind around a fire. The left side is too damaged to add
+        anything. Common enough subject matter.</p>
+
+        <p><strong>PARTIAL</strong>: The robes carry a distinctive collar treatment — high and structured, not seen in
+        other contexts. The fire at the center has no source: no brazier, no platform, no floor contact. The hand
+        gestures are specific rather than open.</p>
+
+        <p><strong>SUCCESS</strong>: Each figure&#39;s gesture is precise and directional — hands angled as though
+        managing something, not appealing to it. The fire responds to whatever they are doing; its shape bends in ways
+        consistent with being guided. On the surviving right side, one figure&#39;s face is visible beneath a lowered
+        hood: Dragonborn, gold-scaled, expression watchful rather than absorbed. This figure&#39;s hands carry the same
+        basic posture as the others but angled differently — oriented away from the fire, toward something outside the
+        frame.</p>
+
+        <p><em lang="ja-Latn">The divergence is subtle. It may have been missed by whoever made this image. Or noticed
+        and preserved deliberately.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The figure with the differently-angled hands is doing something separate
+        from everyone else in the circle. The energy the others are directing into the fire — this figure&#39;s hands
+        are oriented away from it, toward whatever lies beyond the image&#39;s edge. The fire is not diminished for it;
+        whatever is being redirected draws from a different source. The image captured a moment in which two things were
+        happening in the same ceremony, and only one of them was visible to most participants.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: This understanding — that the order&#39;s end was patient, embedded,
+        and invisible to most of those inside it — grants the party advantage on Insight checks when interacting with
+        the creature in the Inner Sanctum.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: The damage on the left side follows the frame edge in a way consistent with
+        cutting rather than deterioration. The thread tension along the left margin suggests the fabric was under stress
+        before it failed — as though pulled before it was cut. Whatever stood on the left side of this circle was
+        removed along with that section of the tapestry. The circle is incomplete.</p>
+
+        <p><strong>Track Two — Arcana</strong></p>
+
+        <p><strong>FAILURE</strong>: Old sei in the thread — a preservation enchantment of some kind. Common enough in
+        high-value objects from this period.</p>
+
+        <p><strong>PARTIAL</strong>: The thread treatment is more involved than standard preservation — the sei was
+        woven in during construction, not applied afterward. Significant craft went into this. The age is consistent
+        with the temple&#39;s overall timeline.</p>
+
+        <p><strong>SUCCESS</strong>: The technique is <em lang="ja-Latn">ori-kioku</em> — woven memory, a Golden Dragon
+        order practice allowing fabric to hold sei resonance as a form of record. This tapestry is not merely depicting
+        the rite — a faint echo of the actual sei present at the moment of weaving is still held in the thread. Two
+        distinct signatures are layered in the fabric: one warm and gold-aspected, one cold and shadow-edged. They do
+        not come from the same source. One belongs to this tradition. The other does not.</p>
+
+        <p><em lang="ja-Latn">What the shadow-edged signature fits is a different question entirely.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The shadow-edged signature is Kokuryu-aspected — Onyx Clan tradition,
+        identifiable to anyone trained in historical sei lineages. It was present and active during this rite, masked by
+        the surrounding warmth of golden sei, preserved by the <em lang="ja-Latn">ori-kioku</em> process because that
+        process records indiscriminately. The tapestry held what the participants may not have seen: a second hand at
+        work inside the circle.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: The Kokuryu-aspected sei signature is now recognizable as a
+        fingerprint. The same signature appears on the broken ward anchors in the Inner Sanctum door frame — and on a
+        fresh trace in this room, weeks old rather than centuries. Something with this sei character has been near this
+        tapestry recently.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: The fresh trace is localized — concentrated near the tapestry&#39;s surface as
+        though whatever left it stood here for a period of time, attentive, before moving on. Dry. Faintly mineral.
+        Nothing like the cold bronze of the sconce metalwork. Not all of the temple&#39;s current inhabitants moved
+        through this entrance without stopping.</p>
+
+        <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
+
+        <p>The activation allows a character to read the ceremony being performed — not possible from the static
+        image.</p>
+
+        <p><strong>DC 14 Arcana</strong>: Identifies the working as a consecration ceremony — sei made visible and held
+        in collective form by multiple trained practitioners. The suspended flame is the working itself, made manifest.
+        The circle is sealing something into the building&#39;s structural magic: a ward, a record, an authorization
+        layer. This is how the temple&#39;s foundational enchantments were laid. The party is watching the
+        building&#39;s own creation ritual.</p>
+
+        <p><strong>DC 18 Arcana</strong>: Recognizes the specific technique as identical to the method woven into the
+        torches, the pools, and the ori-kioku itself. Every preservation enchantment in the building traces back to
+        ceremonies like this one.</p>
+
+        <p><strong>The divergence</strong>: Once the working is understood, the gold-scaled Dragonborn&#39;s redirected
+        hands carry specific meaning. They are not withholding their contribution from the flame. They are tapping the
+        working as it runs — drawing a thread of the collective sei output and routing it outward toward whatever lies
+        in the missing left half of the tapestry. The ceremony succeeded from the inside. The binding was completed. But
+        a portion of whatever was sealed into the foundations was simultaneously copied and transmitted elsewhere. The
+        order sealed something into this building. Someone else received a key.</p>
+
+        <p>This does not replace the existing Arcana Track Two content (the Kokuryu-aspected sei signature) — it adds a
+        layer accessible specifically during activation that was not accessible from the static image. The dissonant
+        harmonic heard during activation is that same signature rendered audible.</p>
+
+        <hr>
+
+        <h2 id="kg-tapestry-iii-hokori-before-the-reckoning"
+        data-section="tapestry-iii-hokori-before-the-reckoning">Tapestry III — Hokori Before the Reckoning</h2>
+
+        <p><em lang="ja-Latn">West wall, south end. Least preserved of the four — approximately forty percent remains
+        across three disconnected sections.</em></p>
+
+        <p><strong>At a glance</strong>: Fragments of something cartographic. Coastlines in places, shapes suggesting
+        mountain ranges, small symbols whose purpose is not immediately clear. The sections do not connect. Large areas
+        are simply absent.</p>
+
+        <p><strong>Track One — Investigation or Perception</strong></p>
+
+        <p><strong>FAILURE</strong>: Geographic imagery — possibly. The sections don&#39;t orient to anything
+        recognizable, and there isn&#39;t enough intact to extract information with confidence.</p>
+
+        <p><strong>PARTIAL</strong>: A map, probably Hokori based on the coastline shapes, though the conventions differ
+        from anything in current use. Old, significantly older than any administrative archive. Too fragmented to read
+        for specific information.</p>
+
+        <p><strong>SUCCESS</strong>: This is Hokori — the distinctive shape reads across the gaps for someone who knows
+        what to look for. The rendering predates current cartographic conventions entirely; the visual language suggests
+        not just age but a different understanding of what a map is for. Mountain ranges appear here with no equivalent
+        on modern maps. Settlements cluster in places corresponding to no current town — some now wilderness, some now
+        open water. In the most intact section, a symbol appears three times in a loose triangle: a small circle with a
+        line through it, distinct from the settlement markers, rendered with the same care as everything else in the
+        image. Near one instance, partial script: <em lang="ja-Latn">&quot;—ryu—.&quot;</em></p>
+
+        <p><em lang="ja-Latn">The symbol does not appear in any cartographic convention you have encountered. It was
+        placed here deliberately, meaning something specific to whoever made this.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The three instances of the symbol form a rough triangle across the
+        surviving sections. One falls at a location corresponding to this mountain range. The other two triangulate —
+        approximately, accounting for the damage — to areas that would now be Kaze province interior and Sora province.
+        Whatever the symbol marks, this temple is one of three on Hokori, and the other two are elsewhere.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: Geographic leads recorded — Kaze province interior and Sora
+        province. Both connect to threads active in the current investigation.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: A fourth instance of the symbol exists on the map, partially obscured by damage
+        but recoverable with careful examination. It carries an additional mark above it — a small vertical stroke —
+        that the other three instances lack. A distinction of some kind. Its location, accounting for the fragment&#39;s
+        position, places it in what is now Hi province or the Hi/Tsuchi border region. Whatever stands there was
+        considered differently from the other three. The additional mark suggests category rather than just
+        presence.</p>
+
+        <p><strong>Track Two — Insight</strong></p>
+
+        <p><strong>FAILURE</strong>: A map made to be used. Practical, careful. The damage makes it difficult to read
+        anything deeper into the intent.</p>
+
+        <p><strong>PARTIAL</strong>: The maker knew this geography — the care in the rendering, even in fragments,
+        suggests someone who spent time in this landscape rather than working from secondary sources. The omissions feel
+        more like damage than choice, but there is not enough intact to be certain.</p>
+
+        <p><strong>SUCCESS</strong>: The settlement symbols are styled in a way that reads as decorative on casual
+        inspection — integrated with surrounding imagery, easy to overlook as aesthetic rather than functional. The
+        three circle-and-line symbols are embedded even more deliberately, placed where the surrounding palette and
+        detail naturally draw the eye toward more prominent features. This information is present, but it is not
+        announced. Whoever made this expected the map might be seen by people who should not understand it.</p>
+
+        <p><em lang="ja-Latn">The intent behind this is not scholarly caution.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The map was made during a period in which the maker could not protect what
+        they were recording through concealment, so they protected it through obscurity instead. The mundane layer —
+        coastlines, settlements, mountain ranges — is the camouflage. The symbol-marked locations are what the map
+        actually exists to preserve. The damage, whatever caused it, removed the camouflage while leaving the symbols
+        partly intact. The information survived in the layer that was most deliberately hidden.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: Understanding how this order concealed information grants advantage
+        on Investigation checks made to find hidden things elsewhere in the temple. The party now knows how these people
+        hid what mattered.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: There is a fifth element on this map — not a symbol but an absence. The area
+        corresponding to the mountains above a settlement in Kaze province has been left entirely blank. No topography.
+        No symbols. No notation of any kind. On a map that renders even open water with some notation, this blank is not
+        an oversight. Whatever stands in that location was known to the people who made this. They did not record it,
+        and the absence of a record is itself a kind of record.</p>
+
+        <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
+
+        <p><strong>What Tapestry III shows on activation</strong></p>
+
+        <p>The tapestry shows the sanctuary network&#39;s current state as of 16744. The terrain animates — coastlines,
+        mountain shadows, settlement lights. The three circle-and-line markers do not behave identically.</p>
+
+        <p><strong>Site states at time of activation:</strong></p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Site</th>
+
+        <th>State</th>
+
+        <th>Visual</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>This temple (hub)</td>
+
+        <td>Operational</td>
+
+        <td>Steady single pulse, warm gold</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Sora</td>
+
+        <td>Acknowledged</td>
+
+        <td>Slow double-beat, warmer tone than distress</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Kaze</td>
+
+        <td>Distress — unacknowledged</td>
+
+        <td>Rapid pulse, sharp and bright</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hi/Tsuchi</td>
+
+        <td>Offline</td>
+
+        <td>No signal; fabric cold around marker</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>Why Kaze and Sora are frozen in these states</strong></p>
+
+        <p>The Kaze distress signal and the Sora acknowledged state are not current communications. They are the last
+        states set by practitioners at those sites during the fall of 13088, locked in when those practitioners were
+        lost before they could stand them down. Both have been running into silence for thousands of years. The party,
+        on restoring the orrery, is the first entity capable of receiving these signals since they were sent.</p>
+
+        <p>The emotional weight of this should be allowed to land without explanation. These signals may have been
+        running for the entire duration of the temple&#39;s abandonment. The people who sent them did not know if anyone
+        would ever receive them.</p>
+
+        <p><strong>Kaze — re-escalation ambiguity</strong></p>
+
+        <p>It cannot be determined from the tapestry alone whether Kaze&#39;s current distress state is the original
+        unacknowledged transmission from 13088, or whether Kaze was acknowledged at some point and a surviving
+        practitioner re-escalated before the site went silent. Re-escalation requires a deliberate act by a practitioner
+        physically present at the site. Without a written record of hub operations, both possibilities remain open.
+        Resolution requires the operational ledger from the chief priest&#39;s chamber.</p>
+
+        <p><strong>Sora — acknowledged state</strong></p>
+
+        <p>Someone sent the acknowledgement that shifted Sora into its current state. That acknowledgement exists in the
+        network record. Whether it was the head priest, a junior priest acting independently, someone at the hub during
+        the chaos of the fall — the tapestry cannot say. The acknowledgement was sent. Help never followed. Sora has
+        been sitting in the held state of a promise that was made and not kept for thousands of years.</p>
+
+        <p><strong>Hi/Tsuchi — offline distinction</strong></p>
+
+        <p>A dormant site looks like an unlit lamp — infrastructure present, nothing feeding it. An offline site is
+        distinguishable: the fabric around the Hi/Tsuchi marker is cold in a way dormant sites are not. The network
+        registers the difference between a site that has gone quiet and a site that has been severed. Hi/Tsuchi is
+        severed. The additional mark above its symbol, which distinguished it categorically from the other three sites
+        in the historical rendering, takes on retrospective weight: whatever made it different may be connected to how
+        it ended. Two sites died still transmitting. One died without making a sound.</p>
+
+        <p><strong>The signal vocabulary — full system</strong></p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>State</th>
+
+        <th>Visual</th>
+
+        <th>Meaning</th>
+
+        <th>How set</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Operational</td>
+
+        <td>Steady single pulse</td>
+
+        <td>Site functional, no action needed</td>
+
+        <td>Active practitioner at site</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Distress</td>
+
+        <td>Rapid pulse</td>
+
+        <td>Urgent — unacknowledged crisis</td>
+
+        <td>Active practitioner; locks if practitioner lost before standing down</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Acknowledged</td>
+
+        <td>Slow double-beat, warmer tone</td>
+
+        <td>Distress received by hub; situation not resolved</td>
+
+        <td>Hub sends double-pulse toward that site</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Deliberate dark</td>
+
+        <td>Two-beat then full stop</td>
+
+        <td>Going quiet by choice; do not send</td>
+
+        <td>Active practitioner at site</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Offline</td>
+
+        <td>No signal; cold fabric</td>
+
+        <td>Connection severed or site destroyed</td>
+
+        <td>Happens to the site, not set by it</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p>The acknowledged state is processed by the network&#39;s foundational logic — it does not require a living
+        practitioner at the receiving site to register. A frozen distress signal can receive and hold an acknowledgement
+        millennia after the practitioner who sent it is gone.</p>
+
+        <p><strong>The acknowledgement action</strong></p>
+
+        <p>The party can send a double-pulse acknowledgement to Kaze and Sora from the hub. Doing so requires either the
+        operator&#39;s manual or a DC 15 Arcana check to reason out the protocol from the mechanism. Sending the
+        acknowledgement to Kaze shifts its display from rapid distress to the slow double-beat acknowledged state. The
+        distress signal that has been running since the fall finally receives a response.</p>
+
+        <p>There is no one at either site to receive it. The acknowledgement is a record, not a rescue. A character who
+        understands this and sends it anyway is doing something that is not tactically useful. Whether any of the party
+        members are that kind of person is worth finding out at the table.</p>
+
+        <p><strong>Hub pulse and party presence</strong></p>
+
+        <p>The temple&#39;s operational marker does not require party presence to remain lit — the restored orrery feeds
+        the node. Active sei presence brightens the signal. The pulse strengthens noticeably when the full party stands
+        before the tapestry, dims when the hall is empty. Observable at DC 12 Perception.</p>
+
+        <p><strong>The Kaze blank</strong></p>
+
+        <p>The area in the Kaze highlands that was never recorded remains blank during activation — the ori-kioku cannot
+        render what was never embedded in the fabric. The surrounding topography brightens slightly each time the hub
+        pulses. Whatever occupies that location is responsive to the network signal without being part of the network.
+        It receives without returning.</p>
+
+        <p><strong>Hi/Tsuchi — Exceptional result only</strong></p>
+
+        <p>If the party found the fourth symbol (the one with the additional vertical mark in Hi province or the
+        Hi/Tsuchi border), look for it when the tapestry activates. It is offline. The fabric around it holds residual
+        warmth distinct from the cold stillness of the other unlit markers — recent enough that the tapestry is still
+        reading it. Something with sufficient sei presence to register as a network node was active at that site and is
+        no longer. Days or weeks, not centuries.</p>
+
+        <hr>
+
+        <h2 id="kg-tapestry-iv-the-first-head-priest" data-section="tapestry-iv-the-first-head-priest">Tapestry IV — The
+        First Head Priest</h2>
+
+        <p><em lang="ja-Latn">East wall, north end. Well-preserved upper two-thirds; lower third missing
+        entirely.</em></p>
+
+        <p><strong>At a glance</strong>: A single figure, large in scale, occupying the full width of the tapestry.
+        Robed. Dragonborn. One hand extended, palm up, holding something small. The face has been worked at — the eyes
+        gouged out with the same kind of tool that left marks on the pillars, but applied with more force.</p>
+
+        <p><strong>Track One — Investigation or Perception</strong></p>
+
+        <p><strong>FAILURE</strong>: An important figure whose face has been removed. The object in the extended hand is
+        too small to make out from this distance.</p>
+
+        <p><strong>PARTIAL</strong>: A formal portrait — the defacement matches the pillar work in technique.
+        Gold-scaled Dragonborn. The hand is extended in a specific gesture, something small resting on the palm.</p>
+
+        <p><strong>SUCCESS</strong>: The object in the extended hand is a disc — circular, palm-sized. The gesture is
+        specific: weight shifted, arm extended, the body&#39;s orientation suggesting receipt rather than offering. The
+        free hand rests on something in the missing lower third, angled as though what lay beneath it mattered enough to
+        present. Around the gouged sockets where the eyes were, the thread beneath the damage is still faintly visible
+        at the right angle of light — a ghost of color. Something amber, or close to it.</p>
+
+        <p><em lang="ja-Latn">The defacement here was not applied with the same evenhandedness as the pillar work. This
+        face was addressed with more force than the others.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The amber thread at the eye sockets is not the warm brown-amber of the
+        clan&#39;s general palette — it is a specific, vivid shade that reads almost luminous in the cold torchlight.
+        The disc in the extended hand matches in proportion the bronze disc carried by the figure in the sealed
+        dormitory room. The posture is an investiture gesture — not the assumption of authority but the moment of its
+        bestowal from somewhere above. This figure is being given something.</p>
+
+        <p><em lang="ja-Latn">Ko&#39;jiri Tangible Reward</em>: The amber eyes. The statue in the Grand Hall. The eyes
+        that oriented toward Ko&#39;jiri when he crossed the threshold. Ko&#39;jiri gains advantage on all Charisma
+        checks within the temple for the remainder of this visit. Do not explain the connection. Let him make it.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: Along the lower border of the surviving fabric, running the full width just
+        above where the missing third begins, a line of very small, very dense Old Imperial text is stitched into the
+        decorative border. Most is lost with the missing section. At the right edge, perhaps eight characters survive:
+        <em lang="ja-Latn">&quot;...wa shinanai.&quot;</em> The rest of the sentence is gone.</p>
+
+        <p><strong>Track Two — Religion</strong></p>
+
+        <p><strong>FAILURE</strong>: A devotional portrait — standard format for a religious institution commemorating
+        its leadership. The defacement is desecration of a familiar kind.</p>
+
+        <p><strong>PARTIAL</strong>: The vestments are high-order ceremonial, indicating significant religious
+        authority. The posture marks a moment of formal consecration rather than administrative appointment.</p>
+
+        <p><strong>SUCCESS</strong>: The robe&#39;s border is not decorative — it is a liturgical record in the Golden
+        Dragon order&#39;s visual theology. Reading left to right across the surviving fabric: four symbols in sequence,
+        each rendered distinctly. Creation. Covenant. Stewardship. Silence. These are obligations, rendered in the
+        order&#39;s formal symbolic language — not descriptions of rank but declarations of commitment. The fourth
+        symbol, Silence, is stitched at a larger scale than the other three. In this tradition, the final duty of the
+        founding priesthood was not to speak but to keep — to hold something without disclosing it.</p>
+
+        <p><em lang="ja-Latn">This portrait does not record what this person did. It declares what they promised not to
+        say.</em></p>
+
+        <p><strong>CRITICAL SUCCESS</strong>: The extended hand — the specific gesture, not the general posture —
+        appears in Golden Dragon religious imagery in only one context: the receipt of a direct commission from a divine
+        source rather than a human or institutional authority. This person was not appointed by a council or a clan.
+        They were commissioned directly. In the tradition&#39;s theology, this gesture is reserved for moments when a
+        dragon has personally conferred an obligation on a mortal.</p>
+
+        <p><em lang="ja-Latn">Tangible Reward</em>: Understanding the order&#39;s founding as a direct commission — not
+        devotion but a task assigned at the source — reframes the purpose of every room in this temple. The party gains
+        advantage on Religion and History checks for the remainder of the first floor.</p>
+
+        <p><strong>EXCEPTIONAL</strong>: The four symbols — creation, covenant, stewardship, silence — appear on this
+        tapestry&#39;s border. They also appear elsewhere: fragments in the stonework of the dormitory corridor, in the
+        carved frieze around the Inner Sanctum door, at the base of the great statue in the Grand Hall. The order
+        embedded its founding charge into the architecture of the entire building. The message is consistent across
+        every surface. Silence is always rendered largest.</p>
+
+        <h3 id="kg-activation-behavior" data-section="activation-behavior">Activation Behavior</h3>
+
+        <p><strong>The mandate connection</strong>: The Kinryu no Chikara mandate requires a short ritual — a spoken
+        statement of genuine intent — for inscription. This works regardless of whether the party has witnessed the
+        activation. However, a character who has watched the border sequence perform its obligations in order, who has
+        seen the investiture gesture as it was originally made, who has felt the weight of Silence holding longest — is
+        performing the inscription ritual with knowledge that changes what the ritual is. Not a bureaucratic formality
+        but a deliberate repetition of a specific act witnessed across millennia.</p>
+
+        <p>The practical distinction of this additional layer is left to the DM. It could manifest as an extended
+        benefit, a deeper attunement to the temple&#39;s foundational magic, or simply the understanding that the
+        Silence obligation is the most significant one and has been accepted knowingly rather than incidentally.</p>
+
+        <p><strong>The glance and the paper</strong>: At one point in the activation cycle — after the border sequence
+        has run at least once, not at the opening — the figure&#39;s formal posture breaks slightly. The head turns
+        briefly toward the position of Tapestry III on the opposite wall. Then the hand not holding the disc lifts a
+        loose sheet of paper into the lower frame of the surviving image, held preparatory to writing. The gesture lasts
+        a beat. The posture returns. The border sequence continues.</p>
+
+        <p>The paper is not ceremonial. The glance is not part of the ritual. This is the head priest doing their job
+        between the moments the record was made to commemorate. No check required to see it — it occurs in the surviving
+        upper two-thirds and is visible to anyone watching the full cycle. A character who notices the direction of the
+        glance and looks where the figure looked will find themselves facing Tapestry III.</p>
+
+        <p><strong>The head priest&#39;s monitoring practice</strong>: The head priest did not personally monitor
+        Tapestry III — that was the assigned duty of a designated monitor, a junior priest or specialist whose role was
+        to watch the network and escalate state changes up the chain. What the activation shows is the head priest
+        receiving a report and moving to log it. The glance toward the map tapestry is verification — checking the
+        displayed state against what they have just been told — not direct observation.</p>
+
+        <p>This means the ledger in the bronze box is the head priest&#39;s record of significant events that rose to
+        their level, not a complete operational record. The monitor&#39;s working log, which would contain routine
+        activity, almost certainly existed and is not preserved.</p>
+
+        <hr>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-notes-tapestry-supplement" data-section="dm-notes-tapestry-supplement">DM NOTES — Tapestry
+        Supplement</h3>
+
+        <p><strong>Running Two Tracks Naturally</strong>: Do not present this as a skill-check menu. Let players declare
+        their approach — &quot;I try to read the thread texture closely&quot; is Arcana on Tapestry II; &quot;I try to
+        understand what this ceremony depicts&quot; is Track One. Name the secondary skill option only if a player seems
+        stuck or asks what else they might try. The system should feel like natural investigation, not a mechanical
+        selection.</p>
+
+        <p><strong>The Most Strategically Significant Content</strong>: Tapestry III carries the most consequential
+        information across both tracks. The sanctuary markers (Track One, Critical Success and above) point toward
+        locations relevant to the Order of the Ancient Guard&#39;s deepest purpose. The Insight track&#39;s Exceptional
+        result — the deliberate blank over a Kaze province location — connects the Gekko investigation to the
+        temple&#39;s founders in ways the party cannot yet fully map. If this information reaches the wrong hands, it
+        has tactical value. Consider whether any faction learns the party was in this temple and might reason backward
+        to what they found.</p>
+
+        <p><strong>The Fresh Sei Trace in Tapestry II</strong>: The Arcana track&#39;s Exceptional result is the
+        supplement&#39;s most immediately actionable piece of information. The Kokuryu-aspected sei fingerprint readable
+        in the tapestry appears again on the broken ward anchors in the Inner Sanctum door frame. A party that makes
+        both connections has identified — before ever meeting the temple&#39;s primary occupant — which of the current
+        inhabitants broke the sanctum&#39;s seals. That is meaningful foreknowledge for what follows.</p>
+
+        <p><strong>The Border Theology of Tapestry IV</strong>: Creation, covenant, stewardship, silence. A player who
+        engages with this on the Religion track and then later notices the same symbols on the sanctum frieze or at the
+        statue&#39;s base will understand the order&#39;s purpose before they find any written record of it. That is the
+        preferred sequence — let the architecture teach first, let Kinjiro&#39;s journal confirm. Not the reverse.</p>
+
+        <p><strong>&quot;...wa shinanai&quot;</strong>: Do not translate unless a player asks and makes DC 12 History or
+        a relevant language check. When they ask: give them exactly <em lang="ja-Latn">&quot;does not die&quot;</em> and
+        nothing more. The subject of the sentence is gone with the missing lower third. What does not die is a question
+        the text cannot answer. Let it remain one.</p>
+
+        <p><strong>Ko&#39;jiri Across All Four</strong>: Tapestry I (History track advantage, celestial alignment
+        recognition), Tapestry II (Arcana — his sorcerous nature may sensitize him to the sei residue), Tapestry IV
+        (Track One advantage, Charisma reward, the amber eyes). A player who engages seriously with all four tapestries
+        as Ko&#39;jiri should leave this hall with a meaningfully different sense of what this place is and what his
+        character&#39;s relationship to it might mean. Do not rush this accumulation.</p>
+
+        <p><strong>Pacing</strong>: Not every player will examine every tapestry. Not every tapestry needs both tracks
+        explored. The Exceptional tier rewards genuine investment — it is not obligatory. Everything here remains
+        available on return visits if the party moves through quickly on first pass.</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: 1hGyH6FPW3ohTf9L
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
+    slug: rm-tapestries-of-kinko-no-mon
+    frontmatter:
+      name: Tapestries of Kinko no Mon
+      tags: []
+      parent: loc-tenkuji-temple/supplements

@@ -1,0 +1,92 @@
+_id: yhJWsEWl9spQwJwv
+_key: '!items!yhJWsEWl9spQwJwv'
+name: Uzura 鶉 (Quail) (極上 Gokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-uzura
+    grade: gokujo
+    category: niku
+    materialName: Uzura
+  mastercrafted:
+    tags:
+      - niku
+      - mat-uzura
+      - mat-uzura:gokujo
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-uzura-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Uzura 鶉 (Quail)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 2 days fresh; 10 days smoked<br><strong>Tools:</strong> Bow, sling, or
+      snares; cook's utensils for dressing<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Small ground-dwelling birds hunted in grasslands, scrub, and the margins of cultivated fields. The meat is
+      darker than chicken and carries a slightly mineral sweetness — perfect for a single-skewer meal over a cooking
+      fire.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Abundant in grasslands and scrub. Often driven into nets by beaters; rural households maintain standing snare
+      lines near paddy margins during harvest season.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Quail
+    description: >-
+      Small plucked game birds, each no larger than a fist, with pale-to-rose flesh and tiny bones. Faint scent of grass
+      and warm feathers.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

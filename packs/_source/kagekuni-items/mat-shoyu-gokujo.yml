@@ -1,0 +1,88 @@
+_id: PaHEZ8f67heN9ch8
+_key: '!items!PaHEZ8f67heN9ch8'
+name: Shōyu 醤油 (Soy Paste) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-shoyu
+    grade: gokujo
+    category: chomiryo
+    materialName: Shōyu
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-shoyu
+      - mat-shoyu:gokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-shoyu-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shōyu 醤油 (Soy Paste)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Stable for a year or more in sealed vessel; improves with
+      age<br><strong>Tools:</strong> None required<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A fermented seasoning carried by most travelers and available in any settlement with a market. Dark, savory,
+      with a depth that builds over years in the vat. Not foraged — purchased or traded. The oldest fermentation houses
+      in Kusa are treated as shrines.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Strict purchase item. Grade represents the fermentation house of origin.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Soy Paste
+    description: A dark, salty, umami liquid in a small ceramic jar.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,91 @@
+_id: jEVPpv6HYtbL7at4
+_key: '!items!jEVPpv6HYtbL7at4'
+name: Shimeji 占地 (Beech Cluster) (上 Jō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-shimeji
+    grade: jo
+    category: kinoko
+    materialName: Shimeji
+  mastercrafted:
+    tags:
+      - kinoko
+      - mat-shimeji
+      - mat-shimeji:jo
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-shimeji-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Shimeji 占地 (Beech Cluster)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Fresh 2–3 days; dries adequately; best consumed
+      fresh<br><strong>Tools:</strong> Herbalism kit (advantage)<br><strong>Grade:</strong> 上 Jō (craft modifier:
+      +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Clusters of small, round-capped mushrooms found at the base of beech and other broadleaf trees. The flavor is
+      mild with a faint sweetness that develops when cooked. Plentiful enough that even an inexperienced forager can
+      find them on a good day.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Easy forage in Kusa and Hana; autumn abundance.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Beech Cluster
+    description: A tight cluster of small round-capped mushrooms at the base of a hardwood tree, stems joined at a common base.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

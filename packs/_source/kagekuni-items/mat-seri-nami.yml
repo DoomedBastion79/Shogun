@@ -1,0 +1,91 @@
+_id: eTDf2QsLBoKJKd0U
+_key: '!items!eTDf2QsLBoKJKd0U'
+name: Seri 芹 (Water Parsley) (並 Nami)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-seri
+    grade: nami
+    category: yakuso
+    materialName: Seri
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-seri
+      - mat-seri:nami
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-seri-nami
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Seri 芹 (Water Parsley)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 2 days fresh; loses flavour when dried<br><strong>Tools:</strong>
+      Herbalism kit<br><strong>Grade:</strong> 並 Nami (craft modifier: -2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Crisp, peppery water parsley found along streams and the margins of rice paddies. One of the very first wild
+      greens to appear in spring — its arrival marks the true turning of the year for village cooks. A common addition
+      to soups and rice dishes throughout the countryside.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A sign of winter&#39;s end in paddy country. Abundant in the Tambo and Kawa to Numa of Kusa, Hana, and
+      Tsuchi.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Water Parsley
+    description: Slender stems with lace-like leaves, cool and wet from the water it grows in. A sharp green peppery scent.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

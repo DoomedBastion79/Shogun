@@ -1,0 +1,70 @@
+_id: 6ruBE5bcacvM7HOe
+_key: '!items!6ruBE5bcacvM7HOe'
+name: Karuta
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: dV6zoxmFdsZ2vMvZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-karuta
+    category: armor
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: karuta
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: Overlapping rectangular plates laced together.
+  quantity: 1
+  weight:
+    value: 30
+    units: lb
+  price:
+    value: 50
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 14
+    magicalBonus: ''
+    dex: 2
+  strength: 0
+  type:
+    value: medium
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>Small rectangular iron plates laced together with silk cord over a padded undergarment. The overlapping scales
+      deflect blows effectively but rattle with movement. Common military armor for mid-rank bushi.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

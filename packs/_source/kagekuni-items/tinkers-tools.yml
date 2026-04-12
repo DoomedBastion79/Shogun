@@ -1,0 +1,67 @@
+_id: WLKFnqOGr5kqiwgN
+_key: '!items!WLKFnqOGr5kqiwgN'
+name: Tinker's Tools
+type: tool
+img: icons/tools/instruments/lute-gold-brown.webp
+folder: 2aDy2uANsc4FNnTL
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-tinkers-tools
+    category: tool
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: tinkers-tools
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A case of precision instruments.
+  quantity: 1
+  weight:
+    value: 10
+    units: lb
+  price:
+    value: 50
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: art
+    baseItem: ''
+  ability: int
+  chatFlavor: ''
+  proficient: 0
+  bonus: ''
+  properties: []
+  description:
+    value: >
+      <p>A wooden case containing fine pliers, wire cutters, a jeweler&#39;s loupe, small files, tweezers, and an
+      assortment of gears, springs, and screws. Used for repairing mechanical devices.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

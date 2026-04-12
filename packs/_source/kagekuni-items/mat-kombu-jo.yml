@@ -1,0 +1,90 @@
+_id: BgQsc5mO87FzWWtt
+_key: '!items!BgQsc5mO87FzWWtt'
+name: Kombu 昆布 (Kelp) (上 Jō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kombu
+    grade: jo
+    category: chomiryo
+    materialName: Kombu
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-kombu
+      - mat-kombu:jo
+      - harvested
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kombu-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kombu 昆布 (Kelp)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Dried indefinitely; reconstitutes in water; preferred carrying
+      form<br><strong>Tools:</strong> Knife for cutting at low tide<br><strong>Grade:</strong> 上 Jō (craft modifier:
+      +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>Broad, dark sheets of seaweed harvested from coastal rocks and tidal zones. The foundation of dashi stock.
+      Available fresh along any coastline or dried in any market settlement. The umami it imparts to broth is
+      irreplaceable.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Dashi base ingredient. Near-universal pantry item.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Kelp
+    description: Broad, dark-green, leathery sheets of dried seaweed tied in a small bundle.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

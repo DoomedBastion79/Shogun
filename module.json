@@ -2,7 +2,7 @@
   "id": "assistant",
   "title": "Kagekuni Assistant",
   "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "authors": [
     {
       "name": "Andy Rowland"
@@ -106,6 +106,17 @@
       }
     },
     {
+      "name": "racefeatures",
+      "label": "Race Features",
+      "path": "packs/kagekuni-racefeatures",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "classes",
       "label": "Classes",
       "path": "packs/kagekuni-classes",
@@ -124,6 +135,48 @@
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "subclasses",
+      "label": "Subclasses",
+      "path": "packs/kagekuni-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "tables",
+      "label": "Roll Tables",
+      "path": "packs/kagekuni-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "gatherer",
+      "label": "Gathering Nodes",
+      "path": "packs/kagekuni-gatherer",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/kagekuni-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -152,8 +205,13 @@
         "npcs-lore",
         "items",
         "races",
+        "racefeatures",
         "classes",
         "classfeatures",
+        "subclasses",
+        "tables",
+        "gatherer",
+        "macros",
         "monsters"
       ]
     }

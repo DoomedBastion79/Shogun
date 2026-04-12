@@ -1,0 +1,95 @@
+_id: X0ZHERDssZ7Y8HjK
+_key: '!items!X0ZHERDssZ7Y8HjK'
+name: Yomi-take 黄泉茸 (Underworld Cap) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/mushroom-red-brown.webp
+folder: rrZkKqMRyzbugSKN
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-yomi-take
+    grade: gokujo
+    category: kinoko
+    materialName: Yomi-take
+  mastercrafted:
+    tags:
+      - kinoko
+      - mat-yomi-take
+      - mat-yomi-take:gokujo
+      - veryRare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-yomi-take-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Yomi-take 黄泉茸 (Underworld Cap)</h4>
+
+      <p><strong>Category:</strong> Kinoko<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Stable in absolute darkness; decays rapidly in any
+      light<br><strong>Tools:</strong> Herbalism kit (advantage); Arcana (Int) DC 15 to handle
+      safely<br><strong>Restrictions:</strong> Found only in places that have not seen light in geological
+      time<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A pitch-black mushroom found in the deepest accessible caverns of Kagekuni — places where no light has reached
+      in geological time. The cap absorbs light rather than reflecting it, creating a visual absence that is
+      disorienting to look at directly. The flavor is the densest umami imaginable — concentrated essence of earth and
+      darkness. Herbalists and seimasters debate whether it should be classified as a fungus at all.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Classification unresolved.** Consumption is a DM-discretion event — may have sei effects, may simply be the
+      purest umami in Kagekuni. Often tied to deep-dungeon reward.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Underworld Cap
+    description: A cap so black that it seems to be a hole in the world; the eye slides off it and cannot focus on its edge.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

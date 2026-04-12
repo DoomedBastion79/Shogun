@@ -1,0 +1,177 @@
+_id: DGvk4sQTQAwvHUzg
+_key: '!journal!DGvk4sQTQAwvHUzg'
+name: Natsumura
+pages:
+  - _id: bXeOpLVJL3TrdcrD
+    _key: '!journal.pages!DGvk4sQTQAwvHUzg.bXeOpLVJL3TrdcrD'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} is a small fishing village at the
+        point where the Star River empties into the Serenia-kai. The village has existed in essentially the same form
+        for centuries -- a cluster of wooden thatched houses on the riverbank, a small port with drying racks and
+        mooring posts. The Serenia-kai&#39;s tidal complexities make the approach navigable only during specific tidal
+        windows; the village&#39;s fishermen know these windows intimately.</p>
+
+        <p>The @UUID[Compendium.assistant.items.Item.W11VxXyWegpY4JzH]{kinuo} (gold-tail fish) that commands premium
+        prices in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} runs heaviest at the
+        Sutariba&#39;s mouth in late spring and early autumn. During these runs, Natsumura&#39;s population effectively
+        doubles with seasonal workers and traders.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: iN3eQwA8HAqmjqIT
+    _key: '!journal.pages!DGvk4sQTQAwvHUzg.iN3eQwA8HAqmjqIT'
+    name: Notable Establishments
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>The Seaside Teahouse &amp; Inn</strong> -- The village&#39;s sole accommodation and primary social
+        gathering point. The proprietor is the de facto news exchange.</p>
+
+        <p><strong>Fisherman&#39;s Market</strong> -- Daily fish market at the dock. Operates at dawn.</p>
+
+        <p><strong>Boatwright&#39;s Shed</strong> -- Repairs and maintains the village&#39;s fishing fleet.</p>
+
+        <p><strong>Net Weaver&#39;s Workshop</strong> -- Produces and repairs fishing nets adapted to Serenia-kai
+        conditions.</p>
+
+        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} Shrine</strong> -- Small
+        riverside shrine dedicated to a water spirit associated with the Sutariba. Receives offerings before gold-tail
+        runs.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: L0pr87nIhdAQppoA
+    _key: '!journal.pages!DGvk4sQTQAwvHUzg.L0pr87nIhdAQppoA'
+    name: Key Figures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <ul>
+
+        <li>Takeda Haruto -- Village leader -&gt; npcs/takeda-haruto.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <ul>
+
+        <li>The Star River has recently shown anomalies -- unusual turbidity, temperature changes, and dead fish with
+        injuries inconsistent with normal predation.</li>
+
+        <li>A figure has been observed watching the village from the far riverbank at night.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>The Sutariba&#39;s Upper Reach</strong>
+
+        The Star River has recently shown anomalies -- unusual turbidity, changes in water temperature, and dead fish
+        floating downstream bearing injuries inconsistent with normal predation. This is a consequence of Nagaji
+        activity in the upper pass.</p>
+
+        <p><strong>Takeda Haruto&#39;s Observation</strong>
+
+        The village leader has seen, twice, a figure watching the village from the far riverbank at night -- a figure
+        that moved in a way that was not quite right. He has not reported it because he has no confidence that authority
+        is currently functioning.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Investigation of the river anomalies could lead to discovery of Nagaji presence in the mountains above</li>
+
+        <li>The figure watching from across the river -- Nagaji scout, or something else?</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+folder: LEr9qD0Kx7HIyVz5
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: st-natsumura
+    frontmatter:
+      name: Natsumura
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: pr-hana

@@ -1,0 +1,92 @@
+_id: I7KAwIbJIOXQFRTE
+_key: '!items!I7KAwIbJIOXQFRTE'
+name: Yamadori 山鳥 (Mountain Pheasant) (上 Jō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-yamadori
+    grade: jo
+    category: niku
+    materialName: Yamadori
+  mastercrafted:
+    tags:
+      - niku
+      - mat-yamadori
+      - mat-yamadori:jo
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-yamadori-jo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Yamadori 山鳥 (Mountain Pheasant)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 2 days fresh; 14 days hung and salted<br><strong>Tools:</strong> Bow or
+      snares; cook's utensils for dressing<br><strong>Grade:</strong> 上 Jō (craft modifier: +0)</p>
+
+      </article>
+
+      </div>
+
+      <p>The copper-barred pheasants of Hokori&#39;s forested hills. Larger and richer than quail, with a deep-red
+      breast meat that benefits from slow cooking or the sharp bright heat of the grill. A proud bird, hunted by lords
+      as often as peasants.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A favoured game bird of samurai hunters and a good meal for a road-weary party. Best taken at dawn along forest
+      edges.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain Pheasant
+    description: >-
+      A dressed game bird perhaps two feet long from neck stump to rump, dark meat under pale skin, a few
+      copper-coloured feathers still clinging where the plucker missed.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: common
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

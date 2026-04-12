@@ -1,0 +1,122 @@
+_id: XjdZfDmQ4FVYi1lu
+_key: '!tables!XjdZfDmQ4FVYi1lu'
+name: Forest Hunting
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.ZjK4MSVoXX05ay2e'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Yama-usagi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: bsY9KPFDAr2soehZ
+    _id: ZjK4MSVoXX05ay2e
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.wHp28swArWKYXKXX'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Yamadori
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: wk12V9lnFHZUb2lm
+    _id: wHp28swArWKYXKXX
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.LnKgrGhI3N5vUVKj'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Shika
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 8IVExk159sKcabdY
+    _id: LnKgrGhI3N5vUVKj
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.OYv24NPKtk5PdyBx'
+    type: pack
+    weight: 2
+    range:
+      - 4
+      - 4
+    name: Inoshishi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: PgQrGPDwz7dToHM6
+    _id: OYv24NPKtk5PdyBx
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.5DOLXVzb9kRmVO5J'
+    type: pack
+    weight: 2
+    range:
+      - 5
+      - 5
+    name: Yuki-kiji
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: jKk2ENgLcvqiA0qj
+    _id: 5DOLXVzb9kRmVO5J
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!XjdZfDmQ4FVYi1lu.ZEJAIJp8OPLgjcxP'
+    type: pack
+    weight: 1
+    range:
+      - 6
+      - 6
+    name: Ryūjika
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: SlIoGguWQVfp8kAg
+    _id: ZEJAIJp8OPLgjcxP
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d2
+formula: 1d6
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-sugi-no-mori-hunting
+    biome: sugi-no-mori-hunting
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

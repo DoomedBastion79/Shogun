@@ -1,0 +1,61 @@
+_id: cF6gYkVYvLUaB5Rs
+_key: '!journal!cF6gYkVYvLUaB5Rs'
+name: Sugi no Mori — Forest Hunting
+pages:
+  - sort: 100000
+    name: Forest Hunting
+    type: gatherer.gatherer
+    _id: zxjX3QgaA2QxWV7a
+    _key: '!journal.pages!cF6gYkVYvLUaB5Rs.zxjX3QgaA2QxWV7a'
+    system:
+      text:
+        format: 1
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: <p>Ancient cedar forests with dense canopy, damp undergrowth, and abundant wildlife.</p>
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    category: null
+    flags:
+      gatherer:
+        table: Compendium.assistant.kagekuni-tables.RollTable.XjdZfDmQ4FVYi1lu
+        time: 15
+        draws: 8
+        quantity: ''
+        require: ''
+        minigame: 0
+        expression: ''
+        systemAbil: sur
+        DC: 12
+        toolCheck: art
+        toolDC: null
+        modifierList:
+          - modifier: ''
+            DC: null
+    ownership:
+      default: -1
+folder: null
+categories: []
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: gatherer-sugi-no-mori-hunting
+    biome: sugi-no-mori
+    activity: sugi-no-mori-hunting
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

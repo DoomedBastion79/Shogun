@@ -1,0 +1,94 @@
+_id: fgqfp8ikWr35eGpz
+_key: '!items!fgqfp8ikWr35eGpz'
+name: Seirei-taka 精霊鷹 (Spirit Hawk) (特上 Tokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-seirei-taka
+    grade: tokujo
+    category: niku
+    materialName: Seirei-taka
+  mastercrafted:
+    tags:
+      - niku
+      - mat-seirei-taka
+      - mat-seirei-taka:tokujo
+      - veryRare
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-seirei-taka-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Seirei-taka 精霊鷹 (Spirit Hawk)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 1 day fresh; 7 days salted<br><strong>Tools:</strong> Bow with
+      exceptional skill; the bird is nearly impossible to surprise<br><strong>Grade:</strong> 特上 Tokujō (craft modifier:
+      +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>The flesh of a hawk that carries visible sei in its feathers and a faint heat in its living body. Eating it is
+      considered a communion — the hunter takes the hawk&#39;s keen sight and sharp attention into themselves, briefly.
+      Prepared only by chefs with both cook&#39;s utensils training and some form of spiritual authority.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditionally, a Seirei-taka kill is offered at a shrine before it is eaten — the shrine blessing is considered
+      part of the preparation. A hunter who eats one without the ritual is said to be marked for misfortune.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Spirit Hawk
+    description: >-
+      A plucked bird of prey whose flesh carries a faint warmth that does not fade with death. The smell is clean and
+      slightly metallic.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,66 @@
+_id: L2uxAqv5CLYNV0d4
+_key: '!items!L2uxAqv5CLYNV0d4'
+name: Sake
+type: consumable
+img: icons/consumables/potions/bottle-round-corked-red.webp
+folder: bZQBpReVtC9ZiotH
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-sake
+    category: consumable
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sake
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A ceramic bottle of clear liquid.
+  quantity: 1
+  weight:
+    value: 2
+    units: lb
+  price:
+    value: 1
+    denomination: sp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: '1'
+    recovery:
+      - period: lr
+        type: recoverAll
+    spent: 0
+    autoDestroy: true
+  type:
+    value: food
+    baseItem: ''
+  properties: []
+  description:
+    value: >
+      <p>Rice wine brewed throughout the archipelago. Essential in cooking, ceremony, and social bonding. Carries
+      cultural weight beyond its alcohol content.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

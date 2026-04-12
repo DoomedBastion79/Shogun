@@ -23,129 +23,143 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.6dFJijMCAYhwePCs]{Yama-usagi}</td><td><span style="color:
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.usATpGoWEC2yvydY]{Yama-usagi}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Satoyama, Sugi no Mori, Fumoto</td><td>All</td><td>1
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.GMYNwMLtvE6zfRnO]{Kawa-gani}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.m33BDOFlrlQhLsBw]{Kawa-gani}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa, Kaigan (freshwater estuaries)</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Ep4fog4dwrdaRPDu]{Uzura}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wV6SoU8KiqT6Xsa1]{Uzura}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Murasaki-hara, Tambo margins</td><td>All</td><td>1
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.3FXACTvcr7uh6lXa]{Ayu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.P8duTfTkQ0UXKaTH]{Ayu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa (fast-flowing streams)</td><td>Natsu, Aki</td><td>1
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.qWlHH7cLYJBwJjSY]{Suzume}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.KuGe6r1pTu8lT0MR]{Suzume}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Tambo, Kaigan</td><td>All</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.nHYpg5VTdSwoIl2p]{Tanishi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.67UwYP15c8CYqj4f]{Tanishi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Tambo, Kawa to Numa</td><td>Haru, Natsu, Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.6Qi4oeOihdR63isd]{Yamadori}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.rLmx6QzfBgX9eMU5]{Yamadori}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori, Fumoto, Takane (lower slopes)</td><td>All</td><td>2
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.wWdNiUufsCE5u0RJ]{Shika}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.HkSeIj2LxH4CH8XR]{Shika}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori, Fumoto, Satoyama</td><td>All (prime in Aki rut)</td><td>2
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.JcgFDOdK5rpq54oM]{Funa}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.QNYxL2dKaIKVlCUW]{Funa}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa, Tambo (paddies), Uchi-umi (Serenia-kai freshwater
         inlets)</td><td>All</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.RNydD5XeymtcArrV]{Iwashi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.pjAhKtNQHqFriD34]{Iwashi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kaigan, Ōumi</td><td>All (winter run is best)</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.4kZ3gtdQ3J6UOLBj]{Hato}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.1mmGzrcmEXyvU1nP]{Hato}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Haikyo, Kaigan</td><td>All</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.e7u3mhtKBBukGdCk]{Kinuo}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.W11VxXyWegpY4JzH]{Kinuo}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa (cold, clear mountain streams), Takane
         foothills</td><td>Haru, Natsu</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.4oDJfAN8Vr40ZJdo]{Inoshishi}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.4TGC88UScVnREcPP]{Inoshishi}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Sugi no Mori, Fumoto, lower Takane</td><td>All (prime in
         Fuyu)</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.iN4J83infR8421RG]{Yuki-kiji}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NOE33JqsYQY7TAcF]{Yuki-kiji}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Takane, Hoshimori Kōgen edges, upper Sugi no Mori</td><td>Fuyu
         (primarily)</td><td>6 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.y1IiFqXV8qyD5b7F]{Iwana}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.ikUG87l0M1fgUWiT]{Iwana}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa (cold high streams), Takane</td><td>All</td><td>4
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.tgTJ3uULpVIqWly2]{Unagi}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.EHcQ4LtaO9dwHH3i]{Unagi}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa (slow rivers and estuaries), Uchi-umi
         margins</td><td>Natsu, Aki</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.PhrvpyViAe1jqDgf]{Kamo}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.zXwtmR7VxaCJSRV7]{Kamo}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa, Tambo, Uchi-umi, Kaigan</td><td>Aki, Fuyu</td><td>4
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.wsS3Q6LsbDYPHVlk]{Suppon}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.3dgzWATqedaxemp2]{Suppon}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa, Tambo (irrigation canals)</td><td>Haru, Natsu,
         Aki</td><td>8 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.dv4ZrLtCWJucrqxn]{Taka-usagi}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.nkTdWyeYP2QZ1Mp6]{Taka-usagi}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Murasaki-hara, Fumoto (open hilltops)</td><td>All</td><td>7
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.PK2DMVA4zW95U9i9]{Seireiuo}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.OnTBG0qGH1BEr8HV]{Seireiuo}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Yōrin streams, sei-active springs</td><td>All</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Dvvk9wPdXKEQ6BNl]{Ryūjika}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.hhclOBf5mN6rIUqd]{Ryūjika}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Hoshimori Kōgen edges, upper Sugi no Mori, Takane</td><td>All (prime in
         Aki)</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Ao2s8ndTzJTJ0F0r]{Oniuo}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NHIDAr7URNLGco96]{Oniuo}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Ōumi (deep ocean), Kaigan (storm-swept coasts during
         Tatsunami)</td><td>All (best during Tatsunami)</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.gR46K6nxfS798uo6]{Kumokiji}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.L8atzIKnSCpXlrln]{Kumokiji}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Takane, Hoshimori Kōgen</td><td>Haru, Natsu (birds descend during
         Hikarishō)</td><td>7 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.sXPXzVXmhxtuyGL4]{Kaseki-gani}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.pn69yi4D0jCllbz8]{Kaseki-gani}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Kaigan (ancient tidal rock pools), Kuroso Kōya edges</td><td>All
         (emerges rarely)</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Cfqldi7gywP4MpeN]{Tsuchimogura}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.nRtMeWU1l2HgFmQd]{Tsuchimogura}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Fumoto, Murasaki-hara (burrow networks)</td><td>All</td><td>5
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.CrLygZpvNXCfRi3U]{Kōri-iwana}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.Ek8BsCvIciKpCo2a]{Kōri-iwana}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Kōri-no-Mori streams, Takane</td><td>Fuyu</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.CkjSYOpihNWKyNXR]{Ryūgame}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.hHhAJJEyx77cktC4]{Ryūgame}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Uchi-umi (deep Serenia-kai), rare Ōumi sightings</td><td>All (prime
         during Tatsunami)</td><td>25 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.lRa8iJYWUNoe6rWL]{Seirei-taka}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.saoPmKSwlA3Gqt2U]{Seirei-taka}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Yōrin, Hoshimori Kōgen, Takane</td><td>All</td><td>30
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.M9dOzFw1vVGR5Ryf]{Kinryūgoi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.j624cvD7FGxd5oJB]{Kinryūgoi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Kawa to Numa (Kinryūgawa and its named tributaries)</td><td>Haru,
-        Natsu</td><td>35 gp</td></tr>
+        Natsu</td><td>35 gp</td></tr></tbody>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.c90ATedJG5jw0Eoj]{Ōkami-niku}</td><td><span style="color: #1a8a1a;
-        font-weight: 600;">uncommon</span></td><td>N/A (unrepeatable)</td><td>N/A</td><td>3 gp</td></tr>
+        </table>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.L04YVVImKBKMFwtc]{Yama no Kimo}</td><td><span style="color:
+        <h3>One-Time Harvest</h3>
+
+        <table>
+
+        <thead><tr>
+
+        <th>Material</th><th>Rarity</th>
+
+        <th>Biomes</th><th>Seasons</th><th>Base Value</th>
+
+        </tr></thead>
+
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.Ak4oONzJ9DILjX48]{Ōkami-niku}</td><td><span style="color:
+        #1a8a1a; font-weight: 600;">uncommon</span></td><td>N/A (unrepeatable)</td><td>N/A</td><td>3 gp</td></tr>
+
+        <tr><td>@UUID[Compendium.assistant.items.Item.6o0rXUOvwL1TSJ6p]{Yama no Kimo}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>N/A</td><td>N/A</td><td>15 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.oc8Rrt08cMMivdwC]{Shirokiba no Zui}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.NgwJ8Mqa3GElaOGK]{Shirokiba no Zui}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>N/A</td><td>N/A</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.h7uYxXfjTwJ2EsEz]{Arashi-suji}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.QSpSb131ZQMbV0eB]{Arashi-suji}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>N/A</td><td>N/A</td><td>12 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.NjLYPUtwWBA52Kmq]{Reikokoro}</td><td><span style="color: #d97706;
+        <tr><td>@UUID[Compendium.assistant.items.Item.gHlYvGY0hryAEOWA]{Reikokoro}</td><td><span style="color: #d97706;
         font-weight: 600;">legendary</span></td><td>N/A</td><td>N/A</td><td>0 cp</td></tr></tbody>
 
         </table>
@@ -181,118 +195,118 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.nXgEZPqddLVKwA3y]{Yamashiso}</td><td><span style="color:
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.LXK2pC5bK1Tpy7Dh]{Yamashiso}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Satoyama, Fumoto, Sugi no Mori edges</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.n6CeuN0WvWiWPal5]{Seri}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.loeJmQgBkarBio0f]{Seri}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa, Tambo edges</td><td>Haru (peak), Natsu, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.avwK5AkhfixtDXC9]{Nobiru}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.8GPNfzPxQLDPXIe1]{Nobiru}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Murasaki-hara, road margins</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.PQcPEhVg7e2uiC8R]{Yomogi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.S5XbDOzkj0VmHR1T]{Yomogi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Tambo margins, roadsides</td><td>Haru, Natsu, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Lh3gD3QiDjR6Y9zA]{Warabi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.Ml0XdpIglZyLA584]{Warabi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori, Satoyama (shaded forest floor)</td><td>Haru
         (only)</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.TXyIXH2dS3ldQvCd]{Mitsuba}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.fulnu9zLxVTpyAoU]{Mitsuba}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori (shaded streamsides), Satoyama</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.a6WRtwKQ1j0adRyJ]{Takenoko}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.HWV8vNZGIXTB0nkn]{Takenoko}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama (bamboo groves), Sugi no Mori edges</td><td>Haru (peak; 1d2
         per resource point in other seasons)</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.aU0pPvnT87J7x3me]{Shungiku}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.t9a64TR6qbXncpN6]{Shungiku}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama, Murasaki-hara, Tambo margins</td><td>Haru, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.vDnlG3tNVrgdAf9N]{Fuki}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.EvuiE6bykwSJGrib]{Fuki}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa, Sugi no Mori (damp valleys)</td><td>Haru (peak)</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.a7RMLsThDqyKhDpE]{Zenmai}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.3TLOUbQeTJZdX5qp]{Zenmai}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori, Takane lower slopes</td><td>Haru (only)</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.0inwDHqgtWfTZn2x]{Karashi-na}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.kh8mzYNNku9Aixs8]{Karashi-na}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Tambo margins, Satoyama, roadsides</td><td>Haru, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.1RKXQGyK4l6ISvhx]{Kurokaze-sō}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.LcTIXqik9gTUysQC]{Kurokaze-sō}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Sugi no Mori (Kaze black pine forests)</td><td>All</td><td>5
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.rIjQ21auZQxpEnpm]{Hi no Ha}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.GYknJBP8Ug4CoJDt]{Hi no Ha}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kazan (fumarole fields), volcanic slopes of Hi</td><td>All</td><td>3
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.HeV4ivfNt2fQ5yJD]{Tsukimisō}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.T6ynEQFZi6ZUhZ97]{Tsukimisō}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Takane, Hoshimori Kōgen edges, Hana mountain ridgelines</td><td>All
         (night harvest only)</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.M0FurUH6XRR0YXAB]{Umikaze-na}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.k0FgWllYLJVyeiZ4]{Umikaze-na}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kaigan (cliff faces, sea-spray zone)</td><td>All</td><td>2
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.mBYN7uHseWVLNl4K]{Kagerō-sō}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.VtPxTqS40KtXJjmB]{Kagerō-sō}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kawa to Numa (Kagerō River, Kaze thermal
         streams)</td><td>All</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.3f0QNfREQfAYHHbH]{Iwa-ninniku}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.ZgrRJ4rpEF8DmMFN]{Iwa-ninniku}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Takane, Fumoto cliff faces, Tenchūsan Ren mountain
         roads</td><td>All</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.fqX5Q01iE61HGfjd]{Murasaki-ha}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.v9Btj1axC9g7MkzV]{Murasaki-ha}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Murasaki-hara, Sugi no Mori edges (Kusa only)</td><td>Haru,
         Natsu, Aki</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.TfskPZvSzLz1ke8H]{Tsuchi-shōga}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.a1dlEzMZCfI79C4x]{Tsuchi-shōga}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Tambo, Satoyama (volcanic soil)</td><td>Aki (peak); Haru,
         Natsu at reduced yield</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.XPLkITJVSxWglKwz]{Seiryoku-gusa}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.aZQRdhIVjq1U4eqQ]{Seiryoku-gusa}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Yōrin, sei-active shrine surrounds, Whispering
         Flats</td><td>All</td><td>15 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.fzFjKTP3YQi5mNn4]{Ryūketsu-bana}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.MbMuLSltQz9OMCSv]{Ryūketsu-bana}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Haikyo (Progenitor ruins), Seidorin deep interior, Kazan
         ridgelines</td><td>All</td><td>10 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.xBG8SnMuEqEOTt5Z]{Ginrei-sō}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NxyvEGlCPazzP0Y0]{Ginrei-sō}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Hoshimori Kōgen (rock faces), Takane upper
         ridgelines</td><td>All</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Y1U23SCFjl1pqimH]{Akabana}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.U1YdifxzI1l4QVuA]{Akabana}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Kazan (active volcanic ash fields, fumarole
         margins)</td><td>All</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.YAyc6Reacr0uJeji]{Yūrei-kusa}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.X68DKemwrZFZHmXl]{Yūrei-kusa}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Haikyo (abandoned settlements, ruined foundations), spirit-touched
         ground</td><td>All</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.UbLDvPz5qcu6RJyS]{Mizuchi-na}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.cTQSMX8fZyrwnNZg]{Mizuchi-na}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Kawa to Numa (cold mountain springs), Takane snowmelt pools</td><td>Haru,
         Natsu</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.BlW8Ido1CZ2FFd8T]{Kasumi-sō}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.ZhV6ISW9s4MJBMYf]{Kasumi-sō}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Sugi no Mori (deep fog valleys, Kaze)</td><td>All</td><td>7 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.fdFmlK4LvQxptTpI]{Ryūsō}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.tKC9aP7NvSIDpTh9]{Ryūsō}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Haikyo (Progenitor shrine sites only)</td><td>All</td><td>0
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.lKtf27JBXO4ACXTL]{Hoshikusa}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wa63SnREqZEHHlth]{Hoshikusa}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Hoshimori Kōgen (during Hikarishō alignment only)</td><td>Hikarishō
         (seasonal event tag)</td><td>0 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.AgAAmBWwRxMstQq1]{Kaminari-kusa}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.sdeOgFd7AHgA0EzH]{Kaminari-kusa}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Takane, Fumoto (exposed ridgelines during active
         thunderstorms)</td><td>Natsu (primarily, during thunderstorms)</td><td>0 cp</td></tr></tbody>
 
@@ -329,108 +343,108 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.5kVXtj2Nqu011U7a]{Shiitake}</td><td><span style="color:
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.3DOU5FcNyAK6FbNp]{Shiitake}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Satoyama; Sugi no Mori; Haikyo</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.AWzn87P01na2Zh9g]{Nameko}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.h3I7WPUrcZ8g7ZBp]{Nameko}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori; Kawa to Numa; Haikyo (cave mouths)</td><td>Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Tdny2LFEEhSCmO3V]{Shimeji}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.5JawDBGNzqEoGz41]{Shimeji}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama; Sugi no Mori</td><td>Natsu, Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.bGIsJYjnVrwEL3sD]{Kikurage}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wvklfs3p7pI2K8FW]{Kikurage}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa; Sugi no Mori</td><td>Haru, Natsu, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.ttAHYJ4V3UhC4APz]{Hiratake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.cn3RH5KG68dK9cJA]{Hiratake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama; Sugi no Mori; Haikyo</td><td>Haru, Aki, Fuyu (year-round in
         mild climates)</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.PFCKJyIjbbQj5fec]{Matsutake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.Mg7jLVh0fPBvIXTb]{Matsutake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama; Sugi no Mori (red pine)</td><td>Aki only</td><td>5
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Ck4WOe4syhD5Hvcr]{Eringi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.YzV3RoEg7kS1TNMc]{Eringi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Murasaki-hara; Satoyama (field margins)</td><td>Haru, Natsu,
         Aki</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.XBqoreMaCp0Y2ttz]{Maitake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.qouTovUklyzjQa88]{Maitake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Sugi no Mori; Satoyama</td><td>Aki (peak); late Natsu</td><td>2
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.hOwnwQCjJESu7KOT]{Sugihiratake}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.nYbqlZ2E4wgwZloe]{Sugihiratake}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Sugi no Mori; Fumoto (foothills)</td><td>Aki (damp
         autumns)</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.MCHaoobzD7Nbg2cV]{Haratake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.PBUX8dIEshh7mcx1]{Haratake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Murasaki-hara</td><td>Haru, Natsu, Aki (best after rain)</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.VSWkFiwUAZFOtoR5]{Kageboushi}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.IHyPxcwoawhRT9RH]{Kageboushi}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Haikyo (lightless galleries); Sugi no Mori (Kaze
         interior)</td><td>All (cave environments are season-indifferent)</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.J1LOMPKgczPBytbE]{Enokidake}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.mYb0owaaIqG7DyAl]{Enokidake}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Seidōrin Mori (Bronze Wood Forest) — unique micro-biome under Sugi no
         Mori</td><td>Haru, Natsu, Aki</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.0zrUXbgdYu5XleO8]{Iwatake}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.au9zDbBOUpH0Oyh7]{Iwatake}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Takane; Kaigan (exposed rock variants)</td><td>Haru, Natsu,
         Aki</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.WdPhvCbN4Ge0xlX3]{Kurenai-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.F4CTFx1HPXLABK1E]{Kurenai-take}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Kazan</td><td>Haru, Natsu, Aki, Fuyu (thermal environments
         are season-indifferent)</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.RU0xZAvcLMFVmH9z]{Yuki-shimeji}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.MTabWeAbANnKpVwI]{Yuki-shimeji}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Takane (above snow line)</td><td>Fuyu; late Aki; early
         Haru</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.1dpIjG6LJ7edPCxm]{Tanuki-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.UFdUFiV93d8Y1aeY]{Tanuki-take}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Satoyama; Sugi no Mori</td><td>Aki</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.txevrFTrqyvhGPxn]{Shio-take}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.5WNlJSNATTBab31p]{Shio-take}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kaigan (limestone caves); Haikyo (sea-spray grottoes)</td><td>All
         (tidal environments are season-indifferent)</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.WNPI8MPpwlarQZbP]{Seikinoko}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.fyGsU9O40sprKFPS]{Seikinoko}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (Yōsei Mori); Haikyo (sei-active caverns)</td><td>All
         (spirit-touched biomes are season-indifferent)</td><td>12 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.0vRYRy5ziI9YKJnU]{Hinotake}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.n3G6lcJKTYm2HCH7]{Hinotake}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Kazan</td><td>All (thermal)</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.ZwZ4h604a63XcOQH]{Tsukiyo-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.qXLGKVIth6DRnWcD]{Tsukiyo-take}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Takane; Spirit-Touched (moonlit deadwood)</td><td>All
         (restricted by lunar condition — full Kagetsu only)</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.UGJ4FnlJavX95TVY]{Kōtetsu-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.P6b4ohv0FZgWwiIN]{Kōtetsu-take}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Fumoto (iron-rich soil); Haikyo (mine tailings)</td><td>Haru,
         Natsu, Aki</td><td>4 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.wKq0hToOJbfEkYF5]{Arashi-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.252P7GXRPbwyChvg]{Arashi-take}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Kaigan; Murasaki-hara (storm-damaged surfaces)</td><td>All
         (post-storm only)</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.B7HqzyXVNmh5GS2i]{Dokuro-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.xlTtGJq1mQR4Ivsi]{Dokuro-take}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Haikyo (old battlefields, gravesites, ruined
         foundations)</td><td>All</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.anh10J2Je9Q4h1KK]{Kaseki-take}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.KaIGlAsuR5Qvuo6B]{Kaseki-take}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Haikyo (petrified wood, ancient geological formations); Sugi no
         Mori (river gorges)</td><td>All</td><td>7 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.9jmoH7nz6Jd1DoTa]{Ryūkinoko}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.8trY8oZgrXrNacTr]{Ryūkinoko}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Spirit-Touched (Progenitor caverns only)</td><td>All
         (spirit-touched)</td><td>50 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.WbGa6qUZfjYL9FRp]{Hoshi-take}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.VwQqY26oKtjpvfdL]{Hoshi-take}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Spirit-Touched (Hoshimori Plateau only)</td><td>All (restricted by
         stellar alignment)</td><td>0 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.6hJrchcCQ9A4w6XM]{Yomi-take}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.2MVdLOn1Vn6McOlp]{Yomi-take}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">veryRare</span></td><td>Haikyo (deepest caverns); Spirit-Touched (absolute
         darkness)</td><td>All (subterranean)</td><td>0 cp</td></tr></tbody>
 
@@ -467,111 +481,111 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.AB4zbeHDMXo7J7rs]{Shio}</td><td><span style="color:
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.f1bWv4IPsc0PZ644]{Shio}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Kaigan; Marketplace (purchased)</td><td>Haru, Natsu, Aki,
         Fuyu</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.BOc2DjO7ffvXi9Zc]{Shōyu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.zU27r1ZiqFfK0AWv]{Shōyu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace (any settlement)</td><td>Haru, Natsu, Aki, Fuyu</td><td>2
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.1I1s3c8hMhCt6l7o]{Wasabi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NXmmX2v3RSIBkm6R]{Wasabi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Fumoto (cool mountain streams); Kawa to Numa</td><td>Haru, Natsu,
         Aki</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Yf3n5W78JFTxsVLN]{Sanshō}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.XDuoklKQUqllxzB8]{Sanshō}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Fumoto; Satoyama (forest edges)</td><td>Haru, Natsu, Aki</td><td>2
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.qcrc5DPHF9VsdOfV]{Myōga}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.e601yBdBSZHCbpoE]{Myōga}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama; Sugi no Mori; Kawa to Numa</td><td>Natsu, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.EavzLdhGQkMPFNeX]{Kombu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.GxHD28WYxuTvRrR5]{Kombu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kaigan; Marketplace (purchased)</td><td>Haru, Natsu, Aki,
         Fuyu</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Cp6PTx36Du8OzPFD]{Goma}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wQfGvvyoIwri0aMO]{Goma}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Murasaki-hara; Satoyama (edges)</td><td>Natsu, Aki</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.60Q45A1cl3DXSOJl]{Yuzu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.ZGRr08cWHliQn9j4]{Yuzu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama; Fumoto (foothills)</td><td>Aki (peak)</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.8UKSkTQs0aYlumNo]{Tōgarashi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NLGOyMech3Vsdx42]{Tōgarashi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Murasaki-hara; Kazan (Hi province)</td><td>Aki (peak harvest)</td><td>1
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.tfxcZ1EsKIlfti4T]{Tade}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.CYB8mTM7L2X2BhaZ]{Tade}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Kawa to Numa; Murasaki-hara (rice paddy edges)</td><td>Haru, Natsu,
         Aki</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.JAfdtWx3bIUi0luQ]{Shiso-mi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.EPLzidpaS5h1VfWS]{Shiso-mi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Satoyama (edges); Murasaki-hara</td><td>Aki (late summer
         harvest)</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.igO0pXxCGIsA6c68]{Seidōrin no Shio}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.xi78G9LNAAExAPbk]{Seidōrin no Shio}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Spirit-Touched (Seidōrin Mori)</td><td>Haru, Natsu, Aki,
         Fuyu</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.qpTxdnM7e98xun2m]{Kuro-koshō}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.AIRmIKpxkTm5l0mH]{Kuro-koshō}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Sugi no Mori (Kaze province black pine
         understory)</td><td>Aki</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.23XPrQS9u03qAmcs]{Kaen-su}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.zsXgJt2EwMbYR7rL]{Kaen-su}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kazan (Hi province)</td><td>All</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.j9CPVzuoVROyaxZm]{Umi-shio}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.hzs8JMllfIJPQMHA]{Umi-shio}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Kaigan (Nami deep tidal caves)</td><td>All (tidal cycle
         gated)</td><td>3 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.IMNeucm0kTFa9Adn]{Tsuchi-miso}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.aZtWT6wsKYT5NkfO]{Tsuchi-miso}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Kazan (Hi, Tsuchi hot spring deposits)</td><td>All</td><td>4
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.fjSLlhqIS9bIQ6SV]{Kumo-no-Su Kōji}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.PbI4M7HaEqBJBhA5]{Kumo-no-Su Kōji}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Takane (Sora high-altitude
         settlements)</td><td>All</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.S8q5SKkTaxpj5CzA]{Nami no Hana}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.TkZbeUM8CYldM3tt]{Nami no Hana}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Kaigan (exposed rocks during Tatsunami)</td><td>Tatsunami
         event window (four-moon alignment)</td><td>5 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.RimDMBOZQlm5HE8f]{Ryūjio}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.uUsyahsmtM7iSFPF]{Ryūjio}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (Progenitor-associated caverns); Haikyo (deep
         ruins)</td><td>All</td><td>15 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.SgCffPrpqJN4QAGW]{Kuroyō-su}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.k5xnEU6xN0pBUzh9]{Kuroyō-su}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Kazan (Kurosō Obsidian Fields, Hi)</td><td>All</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.m59LZ45X3mvb6BV4]{Seidō-kōji}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.ycY29hRdtDEVbxO9]{Seidō-kōji}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (Seidōrin Mori interior)</td><td>All</td><td>10
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.fXDYzZkX0KG1njVw]{Rei-en}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.ii0reiuWZEx3XVIR]{Rei-en}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (sei-active springs, shrine pools)</td><td>All</td><td>15
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.4WSgktK7Pd48rlI1]{Kazan-koshō}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.PqZXGszVpUdRwTPO]{Kazan-koshō}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Kazan (Enshiyama ash fields)</td><td>All</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.UDjVvRCYavZ2hCKh]{Gin-en}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wO8o7X9xzje9mbJ6]{Gin-en}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (Ginryū-associated sites); Takane (high mineral
         deposits)</td><td>All</td><td>12 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.qOHpbGGONM4eLzo7]{Yūgure-su}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.QEgOB8eWgVh7UhPb]{Yūgure-su}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Spirit-Touched (Yōsei Mori ancient hardwoods)</td><td>All</td><td>10
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.phIfaO1P44OOgmNk]{Ryū no Namida}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.5jQP26yaRYC1Xyyd]{Ryū no Namida}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Spirit-Touched (deepest Progenitor
         caverns)</td><td>All</td><td>0 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.2EOEd99iaNp2Bphb]{Hoshi no Kona}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.mElFV5eIzMzScsxv]{Hoshi no Kona}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Spirit-Touched (Hoshimori Plateau during
         Hikarishō)</td><td>Hikarishō event window only</td><td>0 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.imK99yrVHW1OhBcC]{Inochi no Shio}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.kDwHRV4LLL8KCZPg]{Inochi no Shio}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Spirit-Touched + Kazan convergence (under a dozen sites in
         Kagekuni)</td><td>All</td><td>0 cp</td></tr></tbody>
 
@@ -608,98 +622,112 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.w0Z9zjfEC6BvflMV]{Kome}</td><td><span style="color:
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.Ew3UAfRR8R3EAJFH]{Kome}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Marketplace (universal)</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.iZ3lvKq5KzkgRPzu]{Miso}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.jyM83znw9qKPADVb]{Miso}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.AZBcdEZRAsQBbAeQ]{Dashi-kake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.cVCnTAQo5mM5lumb]{Dashi-kake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace (coastal preferred)</td><td>All</td><td>3 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.L2uxAqv5CLYNV0d4]{Sake}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.1PqdGF09UULiIMWB]{Sake}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>5 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.mVVA7eN85oceKNLT]{Kome-zu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.V04DQADiNNgj7YYp]{Kome-zu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.z5BAtSTtAZfSSD9W]{Tsukemono}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.sOjI3Amh47I9d4jp]{Tsukemono}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; household gift</td><td>All</td><td>3 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.aICMJe6vejsZkOQh]{Hoshi-tōfu}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.TEVXKSp3QPRs6FjY]{Hoshi-tōfu}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; Buddhist villages</td><td>All (winter-dried
         best)</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.5CO4n64lGO2c4EaB]{Mirin}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.WZcoeLW1VeRUH848]{Mirin}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>1 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.HgWQC3tMWeh6huAe]{Udon & Soba}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.zb00VywfeadYhtyj]{Udon & Soba}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.HyGVjTTYZIeo74zB]{Goma-abura}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.0RrtTkoX7Cwo8Y3S]{Goma-abura}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; agricultural provinces</td><td>All</td><td>3 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Q96dADZUz8KidhsC]{Umeboshi}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.kFx5mBhKeicIbg6L]{Umeboshi}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; household gift</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.SnMDa7JLlPt4xual]{Nori}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.22EaLfdRAJYRqiEw]{Nori}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace (coastal; traded inland)</td><td>All</td><td>3 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.VSVA4WTu3HIMSd1p]{Katsuobushi}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.jokPi1F0RZrcfc2U]{Katsuobushi}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">common</span></td><td>Marketplace (coastal)</td><td>All</td><td>4 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.jT6jbw7xO2zfvuGU]{Azuki}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.yBdnvx94WveOWQYX]{Azuki}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace</td><td>All</td><td>1 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.GYUEy3XEvwBBI73Z]{Mochigome}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.vDKg2zLbyXJa4laH]{Mochigome}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; shrine towns</td><td>All</td><td>3 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.AFWgwcEYhMKemnKW]{Komugi-ko}</td><td><span style="color: #1a1a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.Ihv9Mh5HMbqbO8Q6]{Komugi-ko}</td><td><span style="color: #1a1a1a;
         font-weight: 600;">common</span></td><td>Marketplace; agricultural provinces</td><td>All</td><td>2 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.92FTHgWUuuPfbjtl]{Wasanbon}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.0zzaozCfE20EbFW6]{Wasanbon}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Marketplace (larger towns, Heian)</td><td>All</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.78H3l5yKP41Eozou]{Junmai-shu}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.eCS0f5NBRDXwRUeV]{Junmai-shu}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Marketplace (upscale); noble estates</td><td>All</td><td>3
         sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.JHhADw9aYhodk29n]{Koikuchi-shōyu}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.RLmdPnDqJ0FHi56D]{Koikuchi-shōyu}</td><td><span style="color:
         #1a8a1a; font-weight: 600;">uncommon</span></td><td>Marketplace (quality)</td><td>All</td><td>2 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.uC6E8a0YheLaZc35]{Kōji}</td><td><span style="color: #1a8a1a;
+        <tr><td>@UUID[Compendium.assistant.items.Item.9tkJWOSTUagX55me]{Kōji}</td><td><span style="color: #1a8a1a;
         font-weight: 600;">uncommon</span></td><td>Marketplace (specialty); breweries</td><td>All</td><td>1 sp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.wF5vraiae2tLiv71]{Chōrei Miso}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.V45RAvWOpie7rQjP]{Chōrei Miso}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Specific Buddhist monasteries; not openly
         sold</td><td>All</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.owKftHNnXyI4ofqw]{Tennō-mai}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.NehWjtykDZSzNEhO]{Tennō-mai}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Imperial court; select Heian shops</td><td>All</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.AQd021LCYEtjn9uj]{Sanjūnen-shōyu}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.DUcDU9qJakKtMPYL]{Sanjūnen-shōyu}</td><td><span style="color:
         #2563eb; font-weight: 600;">rare</span></td><td>Specialty vendors in Heian; certain noble
         households</td><td>All</td><td>6 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.QpdPvcleiPS9w32E]{Hime-jio}</td><td><span style="color: #2563eb;
+        <tr><td>@UUID[Compendium.assistant.items.Item.wRn7HNjg3hXNvg0z]{Hime-jio}</td><td><span style="color: #2563eb;
         font-weight: 600;">rare</span></td><td>Specialty vendors; single Mizu coastal village</td><td>All</td><td>4
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.M1MaLEV3Ye5Czqx2]{Ryū no Sake}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.9zNdMtVMO9A1SJlF]{Ryū no Sake}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Imperial court; high Shinto ceremonies</td><td>All</td><td>0
         cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.msa61n03NsS6M4a7]{Kagami Mochi no Shinsei}</td><td><span
+        <tr><td>@UUID[Compendium.assistant.items.Item.L3A7YFU3uWSFmzVy]{Kagami Mochi no Shinsei}</td><td><span
         style="color: #1a1a1a; font-weight: 600;">veryRare</span></td><td>Specific Shinto shrines</td><td>Year-turning
         only (winter/spring boundary)</td><td>0 cp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.0nZDsvvjU1R7IqYK]{Hoshiyo-jio}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.cewlPFXZDdRe0Zbt]{Hoshiyo-jio}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>Spirit-Touched (Hoshimori Plateau, Hikarishō
-        peak)</td><td>Hikarishō event only</td><td>0 cp</td></tr>
+        peak)</td><td>Hikarishō event only</td><td>0 cp</td></tr></tbody>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.Me2CxVdlj76E1DLA]{Ōkami no Abura}</td><td><span style="color:
-        #1a1a1a; font-weight: 600;">veryRare</span></td><td>Takane (Tenchūsan Ren — historical)</td><td>N/A (one-time
-        event)</td><td>2 gp</td></tr></tbody>
+        </table>
+
+        <h3>One-Time Harvest</h3>
+
+        <table>
+
+        <thead><tr>
+
+        <th>Material</th><th>Rarity</th>
+
+        <th>Biomes</th><th>Seasons</th><th>Base Value</th>
+
+        </tr></thead>
+
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.VNbSqO72HSpbKzNo]{Ōkami no Abura}</td><td><span
+        style="color: #1a1a1a; font-weight: 600;">veryRare</span></td><td>Takane (Tenchūsan Ren —
+        historical)</td><td>N/A (one-time event)</td><td>2 gp</td></tr></tbody>
 
         </table>
       markdown: ''
@@ -724,6 +752,9 @@ pages:
     text:
       format: 1
       content: >-
+
+        <h3>One-Time Harvest</h3>
+
         <table>
 
         <thead><tr>
@@ -734,7 +765,7 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.Ky0ukyphGTrpsFUB]{Ōkami no Kegawa}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.cNdsQdvqqDwYxio5]{Ōkami no Kegawa}</td><td><span
         style="color: #1a1a1a; font-weight: 600;">veryRare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>400
         gp</td></tr></tbody>
@@ -762,6 +793,9 @@ pages:
     text:
       format: 1
       content: >-
+
+        <h3>One-Time Harvest</h3>
+
         <table>
 
         <thead><tr>
@@ -772,19 +806,19 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.BGbzolXpfHNSo5X1]{Ōkami no Hone}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.assistant.items.Item.hduynv6C5ChMu8H5]{Ōkami no Hone}</td><td><span
         style="color: #1a1a1a; font-weight: 600;">veryRare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.0ZdmsQxz8EQ9G34a]{Ōkami no Zugai}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.h3nOECwFNQwdrnCp]{Ōkami no Zugai}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>N/A (harvested from the Yama-no-Ōkami during the Fushichō
         ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>600 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.VPu2FOMqBDjPgzZr]{Ōkami no Kiba}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.JfCtLEgmKei25agq]{Ōkami no Kiba}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>N/A (harvested from the Yama-no-Ōkami during the Fushichō
         ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>40 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.assistant.items.Item.RFvF5JXTBpBMVAtD]{Ōkami no Tenohira}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.assistant.items.Item.oFhXHbSs1tODz486]{Ōkami no Tenohira}</td><td><span style="color:
         #1a1a1a; font-weight: 600;">veryRare</span></td><td>N/A (harvested from the Yama-no-Ōkami during the Fushichō
         ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>80 gp</td></tr></tbody>
 

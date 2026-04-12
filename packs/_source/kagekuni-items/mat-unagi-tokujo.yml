@@ -1,0 +1,96 @@
+_id: Hf4keM5XdM8eVRkb
+_key: '!items!Hf4keM5XdM8eVRkb'
+name: Unagi 鰻 (Freshwater Eel) (特上 Tokujō)
+type: loot
+img: icons/consumables/meat/steak-plain-brown-white.webp
+folder: oW56WfbIg5gD6jHK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-unagi
+    grade: tokujo
+    category: niku
+    materialName: Unagi
+  mastercrafted:
+    tags:
+      - niku
+      - mat-unagi
+      - mat-unagi:tokujo
+      - uncommon
+      - hunted
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-unagi-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Unagi 鰻 (Freshwater Eel)</h4>
+
+      <p><strong>Category:</strong> Niku<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      hunting<br><strong>Preservation:</strong> 1 day fresh; cooked eel keeps 2 days<br><strong>Tools:</strong> Traps,
+      fishing tackle with specialized hooks; cook's utensils essential for butchering<br><strong>Grade:</strong> 特上
+      Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Long, dark eels pulled from slow rivers and river-mouth estuaries. The flesh is rich with fat, almost buttery,
+      and requires expert butchery to prepare properly — the spine must be pinned and the fillets drawn in long clean
+      cuts. Grilled over coals and basted with a sweet soy glaze, it is one of the great summer indulgences in
+      Kagekuni.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Traditional hashing — pinning the spine, drawing the fillets, removing the skin — requires trained hands. A
+      cook without cook&#39;s utensils proficiency gets a rough, partially-ruined yield. Summer eel is strongest in
+      flavour; autumn eel is fatter.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Freshwater Eel
+    description: >-
+      A long, dark, snake-like fish the length of an arm, slick and strong even after killing. A faint river-bottom
+      scent.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

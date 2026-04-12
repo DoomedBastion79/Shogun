@@ -1,0 +1,93 @@
+_id: j575JftmQhDqpROh
+_key: '!items!j575JftmQhDqpROh'
+name: Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-kumo-no-su-koji
+    grade: gokujo
+    category: chomiryo
+    materialName: Kumo-no-Su Kōji
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-kumo-no-su-koji
+      - mat-kumo-no-su-koji:gokujo
+      - uncommon
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-kumo-no-su-koji-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Must be stored in dry cold; active culture remains viable for
+      months<br><strong>Tools:</strong> Herbalism kit (advantage); clean collecting surface; Sora community
+      permission<br><strong>Restrictions:</strong> Sora villages guard specific strains; outsider collection without
+      permission is theft<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A beneficial mold culture found growing on grain stores in the high-altitude settlements of Sora, where the
+      cold, dry air and altitude produce unique fermentation conditions. The mold is collected and used to inoculate
+      rice for a distinctively sharp, clean sake and a fermented seasoning paste with an almost effervescent quality.
+      The communities of Kumo-no-Ue guard their specific culture strains carefully.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Social/political obstacle — Sora communities grant strains only as gifts of honour.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Cloud Nest Mold
+    description: A pale, fuzzy mold culture clinging to a grain of polished rice, dry and almost crystalline in appearance.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

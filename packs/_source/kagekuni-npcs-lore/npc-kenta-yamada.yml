@@ -1,0 +1,92 @@
+_id: hJ0k4bboy6fyQWKM
+_key: '!journal!hJ0k4bboy6fyQWKM'
+name: Kenta Yamada
+pages:
+  - _id: lJFkoMAulXHXyEms
+    _key: '!journal.pages!hJ0k4bboy6fyQWKM.lJFkoMAulXHXyEms'
+    name: Kenta Yamada
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>Short dark hair; sharp focused eyes; lithe and agile build; lightly tanned.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Owns and manages the Sakura Blossom Inn. Member of the Yamada Family and associated with the Merchant Guild.
+        Jovial and welcoming innkeeper.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Sharp, quick-thinking, resourceful; enjoys market hustle; dislikes dishonesty.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Building a case against a corrupt rival merchant; gathering evidence of dishonest practices. The specifics of
+        this investigation are undeveloped.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: NkPoueVSOMoNFCQ9
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-kenta-yamada
+    frontmatter:
+      name: Kenta Yamada
+      type: npc
+      detail: minor
+      status: active
+      race: Human
+      sex: M
+      clan: null
+      caste: zokumin
+      role: Merchant; Owner of the Sakura Blossom Inn
+      location: unknown
+      affiliations:
+        - yamada-family
+        - merchant-guild
+      tags:
+        - merchant
+        - innkeeper
+      aliases: []
+      related_npcs: []
+      related_quests: []
+      age: 32
+      height: 5'4\"
+      weight: 140
+      images:
+        portrait: null
+        token: null
+        variants: null

@@ -1,0 +1,170 @@
+_id: 9bxksIp8vQuhR1Yu
+_key: '!tables!9bxksIp8vQuhR1Yu'
+name: River Fishing
+img: icons/svg/d20-grey.svg
+description: ''
+results:
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.lSMnANa8EoV2GfvE'
+    type: pack
+    weight: 4
+    range:
+      - 1
+      - 1
+    name: Kawa-gani
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: ybxYeEVZDaXnGAd3
+    _id: lSMnANa8EoV2GfvE
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.US7EWPEt4YQXzAF7'
+    type: pack
+    weight: 4
+    range:
+      - 2
+      - 2
+    name: Ayu
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: dL8DduG2qy50QQPL
+    _id: US7EWPEt4YQXzAF7
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.ZXBw8yappr1vTHWk'
+    type: pack
+    weight: 4
+    range:
+      - 3
+      - 3
+    name: Funa
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: vBGE9TrA6myMyRFu
+    _id: ZXBw8yappr1vTHWk
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.2X5vcUzoREalJig6'
+    type: pack
+    weight: 2
+    range:
+      - 4
+      - 4
+    name: Kinuo
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: iu6YBa1HRmhpxr1r
+    _id: 2X5vcUzoREalJig6
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.pYcGFAnLOgHazWZc'
+    type: pack
+    weight: 2
+    range:
+      - 5
+      - 5
+    name: Iwana
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: WoD41HfgkKWFSPy1
+    _id: pYcGFAnLOgHazWZc
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.j0YWdPLqrdTelR38'
+    type: pack
+    weight: 2
+    range:
+      - 6
+      - 6
+    name: Unagi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: UQkTVBWRlgqx7K9w
+    _id: j0YWdPLqrdTelR38
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.1RBJyAwkDceCIXsu'
+    type: pack
+    weight: 2
+    range:
+      - 7
+      - 7
+    name: Kamo
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: KQ85LBp2ZlXo2wuN
+    _id: 1RBJyAwkDceCIXsu
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.pzJqsNv4WjstphZv'
+    type: pack
+    weight: 2
+    range:
+      - 8
+      - 8
+    name: Suppon
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: MoIQyOHZisja5hs0
+    _id: pzJqsNv4WjstphZv
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d3
+  - _key: '!tables.results!9bxksIp8vQuhR1Yu.KORUfbbAU6SpEcMw'
+    type: pack
+    weight: 3
+    range:
+      - 9
+      - 9
+    name: Kinryūgoi
+    img: systems/dnd5e/icons/svg/items/loot.svg
+    documentCollection: assistant.kagekuni-items
+    documentId: 42IYZZ0MRjvIyeLn
+    _id: KORUfbbAU6SpEcMw
+    description: ''
+    drawn: false
+    flags:
+      gatherer:
+        quantity: 1d4
+formula: 1d9
+replacement: true
+displayRoll: true
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    slug: table-kawa-to-numa-fishing
+    biome: kawa-to-numa-fishing
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

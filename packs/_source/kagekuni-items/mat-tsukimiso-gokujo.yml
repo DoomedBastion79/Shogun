@@ -1,0 +1,93 @@
+_id: f6xLSvxJ15FJRR91
+_key: '!items!f6xLSvxJ15FJRR91'
+name: Tsukimisō 月見草 (Moon-Viewing Herb) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-tsukimiso
+    grade: gokujo
+    category: yakuso
+    materialName: Tsukimisō
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-tsukimiso
+      - mat-tsukimiso:gokujo
+      - uncommon
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-tsukimiso-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Tsukimisō 月見草 (Moon-Viewing Herb)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 3 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit; light source managed to avoid spoiling petals<br><strong>Restrictions:</strong> Harvested at night; petals
+      close at dawn<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Pale silver flowers that open only at night, found on high ground in Sora and along the ridgelines of
+      Hana&#39;s mountains. The petals, dried and crumbled, produce a mild calming effect. Traditionally served as a tea
+      before important negotiations.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Tsukimisō tea is part of the informal diplomatic vocabulary of the mountain courts. A cup served at the start
+      of a talk is a signal that the host intends calm discussion.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Moon-Viewing Herb
+    description: Pale silvery-white flowers with four broad petals, cool to the touch and faintly fragrant in moonlight.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

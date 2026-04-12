@@ -1,0 +1,71 @@
+_id: blOX0ByEpM2JAX4R
+_key: '!items!blOX0ByEpM2JAX4R'
+name: O-Yoroi
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: dV6zoxmFdsZ2vMvZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-o-yoroi
+    category: armor
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: o-yoroi
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A magnificent suit of great armor.
+  quantity: 1
+  weight:
+    value: 55
+    units: lb
+  price:
+    value: 1500
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 17
+    magicalBonus: ''
+    dex: 0
+  strength: 15
+  type:
+    value: heavy
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>The great armor of the samurai elite — a full suit of lacquered iron and leather lamellar plates covering
+      torso, shoulders, thighs, and shins. Ornate, heavy, and unmistakable. Its weight demands considerable
+      strength.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

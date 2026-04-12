@@ -1,0 +1,128 @@
+_id: nhB4TGDazyNk9x7J
+_key: '!items!nhB4TGDazyNk9x7J'
+name: Order of the Sword
+type: subclass
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    slug: order-of-the-sword
+    className: bastion
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  description:
+    value: >-
+      <p>Offensive magic focus. Uses the flow of sei to empower spells and minimize overload cost when on the
+      attack.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: Fan Content Policy
+    custom: ''
+    rules: '2024'
+    revision: 1
+  identifier: order-of-the-sword
+  classIdentifier: bastion
+  advancement:
+    tyLDkwd6GrXF9JVN:
+      _id: tyLDkwd6GrXF9JVN
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.GiVxfmcGEbCd2u1Z
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    XREqTngl8iX3BxRn:
+      _id: XREqTngl8iX3BxRn
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.3v4bjhCeMQ4KQgtm
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 5
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    akcMNACwAB4EJA57:
+      _id: akcMNACwAB4EJA57
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.b2L7AtsXpT4h3R5M
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 10
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    6VVUJmU0fa6O0PPn:
+      _id: 6VVUJmU0fa6O0PPn
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.1D8xCdrAZ9YCdo1Y
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 18
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,97 @@
+_id: nBUrdsofENwmEmIP
+_key: '!items!nBUrdsofENwmEmIP'
+name: Ryūsō 竜草 (Dragon Herb) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-ryuso
+    grade: gokujo
+    category: yakuso
+    materialName: Ryūsō
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-ryuso
+      - mat-ryuso:gokujo
+      - veryRare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-ryuso-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ryūsō 竜草 (Dragon Herb)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 3 days fresh; cannot be dried without losing
+      properties<br><strong>Tools:</strong> Herbalism kit; ritual knowledge
+      recommended<br><strong>Restrictions:</strong> Cannot be cultivated — transplant kills the plant within
+      hours<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A small, leathery-leafed plant found growing directly on the stone of Progenitor shrine sites, its roots
+      apparently drawing sustenance from the rock itself. The leaves are warm to the touch year-round and carry a faint
+      metallic sheen. When consumed, the flavour changes depending on the shrine&#39;s associated Progenitor — fiery
+      near Crimson sites, cool and bright near Azure.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Transplanting attempts always fail. The plant draws its properties from the shrine itself — uproot it and the
+      effect dies with the roots. A character with Religion training recognises the ritual significance immediately.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dragon Herb
+    description: >-
+      Small leathery leaves clinging to bare stone, warm to the touch regardless of weather, with a faint metallic
+      sheen.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

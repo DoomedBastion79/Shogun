@@ -1,0 +1,89 @@
+_id: TPjT1lxwPaNTpMXS
+_key: '!items!TPjT1lxwPaNTpMXS'
+name: Katsuobushi 鰹節 (Dried Bonito Flakes) (特上 Tokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-katsuobushi
+    grade: tokujo
+    category: shushoku
+    materialName: Katsuobushi
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-katsuobushi
+      - mat-katsuobushi:tokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-katsuobushi-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Katsuobushi 鰹節 (Dried Bonito Flakes)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Keeps a year in sealed packet; flakes soften with
+      humidity<br><strong>Tools:</strong> None<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Smoked, dried, and shaved skipjack tuna, sold in paper packets of paper-thin flakes. Distinct from dried dashi
+      blocks — katsuobushi is used as a finishing topping on hot food, where the flakes curl and &quot;dance&quot; in
+      the rising steam as though the fish were alive again. A cornerstone of Mizu and Nami cooking and the defining
+      flavour of ocean-touched cuisine.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Classic &quot;dancing flakes&quot; moment for evocative dish descriptions.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Dried Bonito Flakes
+    description: Paper-thin pale-brown flakes that curl and shimmer when scattered over hot food.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

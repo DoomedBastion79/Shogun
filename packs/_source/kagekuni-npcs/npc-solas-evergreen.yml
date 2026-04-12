@@ -1,0 +1,105 @@
+_id: MDmIOFYf5r1NVOPh
+_key: '!actors!MDmIOFYf5r1NVOPh'
+name: Solas Evergreen
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Solas Evergreen
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-solas-evergreen
+    linkedJournalId: Yk0fOJkKYfbgC0jU
+    frontmatter:
+      name: Solas Evergreen
+      type: npc
+      detail: major
+      status: deceased
+      race: Elf
+      sex: M
+      clan: null
+      caste: zokumin
+      role: Guardian, Order of the Sacred Grove
+      location: none
+      affiliations:
+        - order-of-the-sacred-grove
+        - order-of-the-ancient-guard
+      tags:
+        - deceased
+        - guardian
+        - ancient-guard
+        - spirit-appearances
+        - elf
+      aliases: []
+      related_npcs:
+        - npc-hideaki-sato
+        - npc-benkei
+      related_quests: []
+      height: 6'2\"
+      weight: 170
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Elf
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">deceased</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Elf</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Guardian, Order of the Sacred Grove</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">none</dd></div></dl><p><em
+        lang="ja-Latn">Guardian — Order of the Sacred Grove (Deceased)</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>Long flowing silver hair; pale skin; emerald green eyes; intricate nature motif tattoos on arms.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Former Guardian of the Order of the Sacred Grove. Dead under mysterious circumstances. Appears to Relc as a
+        spirit — guiding visions that direct Relc&#39;s journey.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Unknown in life beyond what Relc and Sato Hideaki remember — a mentor, a protector, someone who prepared
+        carefully for his own death.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Relc&#39;s mentor and predecessor as Guardian. Appointed Relc as next Guardian via a posthumous letter. Left
+        a cipher poem pointing to hidden knowledge (Warden&#39;s Wisdom). His spirit appears to Relc at key moments —
+        the next expected vision is at the gold doors or shortly after entering the Temple of Kinryū (Solas in the grove
+        above Kōriwara, hand on a specific stone, dawn light from the east).</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

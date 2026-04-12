@@ -1,0 +1,182 @@
+_id: gzeHJBD2MSIEL1L6
+_key: '!journal!gzeHJBD2MSIEL1L6'
+name: Ren Nakamura
+pages:
+  - _id: 6Z5PCtbPXROa95jy
+    _key: '!journal.pages!gzeHJBD2MSIEL1L6.6Z5PCtbPXROa95jy'
+    name: Ren Nakamura
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>Long black hair in topknot; fair skin; dark brown eyes; Clan Kaminari emblem tattoo on upper arm.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Shicho (Mayor) of @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} and Daimyo of Clan
+        Minato. Kikyo is a subject city of Clan Kaminari, but Ren Nakamura&#39;s dual role as both civic administrator
+        and minor clan daimyo gives him unusual autonomy. He administers the Bronze Wood licensing system — every piece
+        of Bronze Wood that leaves the Seidōrin Mori passes through a licensing transaction managed by his office.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Stern but fair; values loyalty; enjoys strategy (Go) and tea ceremonies; despises dishonesty — an irony,
+        given his own secret alliances.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>Issued the Summons and Conditional Pardon to Ko&#39;jiri. Sent Ko&#39;jiri as envoy to
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status depends on
+        completing the mission assigned through Ren Nakamura&#39;s authority.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Subtly working to elevate Clan Minato to equal standing with major clans. Has a secret alliance with a
+        powerful merchant guild — exclusive Kikyo trading rights in exchange for financial and political support for
+        Clan Minato&#39;s ambitions. Possesses ancient knowledge about Seidōrin Mori and Bronze Wood that he has not
+        shared publicly.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>The merchant guild he works with is not a Kikyo entity — it is based in Heian with operations across
+        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and beyond. The alliance was struck in
+        exchange for financial support for Clan Minato&#39;s elevation ambitions and exclusive export contracts.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Ren
+        Nakamura may contact Ko&#39;jiri separately from the group with an additional, unwritten request — something the
+        formal letter couldn&#39;t contain.</div>
+
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p>Nakamura is not villainous by nature — he genuinely believes Clan Minato deserves greater standing — but he
+        has made compromises that are beginning to require further compromises to sustain.</p>
+
+        <p>The Bronze Wood secret: the Seidōrin Mori grows over an underground branch of Kinkōkyo&#39;s ancient canal
+        system. The metallic quality of the trees is caused by trace gold and copper content in the groundwater — water
+        flowing through the buried city&#39;s infrastructure for thousands of years has mineralized the soil and is
+        absorbed by the trees. Ren Nakamura has discovered this. The merchant guild he is allied with wants to locate
+        and exploit the source directly, bypassing the tree-harvesting process entirely. This would require excavating
+        the forest floor — destroying the grove to access what lies beneath.</p>
+
+        <p>Ko&#39;jiri&#39;s forged letter ticking clock: Ko&#39;jiri carries both a legitimate letter from Ren Nakamura
+        and a forged version requesting additional materials. The real letter has already been sent to Heian through
+        official channels — it will arrive before or very shortly after the party does. When the discrepancy is
+        discovered, Ko&#39;jiri&#39;s Conditional Pardon will be immediately at risk. Estimated timeline: 2-4 sessions
+        from party arrival in Heian.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li>Ko&#39;jiri&#39;s legal jeopardy through the forged letter</li>
+
+        <li>Bronze Wood / Kinkōkyo underground connection</li>
+
+        <li>Clan Minato&#39;s elevation ambitions</li>
+
+        <li>Merchant guild exploitation of Seidōrin Mori</li>
+
+        <li>Connection to @UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s
+        licensing investigation</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: A8bUof1R8QFUo8qb
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-ren-nakamura
+    frontmatter:
+      name: Ren Nakamura
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: M
+      clan: minato
+      caste: kugai
+      role: Shicho (Mayor) of Kikyo; Daimyo of Clan Minato
+      location: st-kikyo
+      affiliations:
+        - clan-minato
+        - clan-kaminari
+        - merchant-guild
+      tags:
+        - political-leader
+        - shicho
+        - daimyo
+        - kikyo
+        - bronze-wood
+      aliases: []
+      related_npcs:
+        - npc-haruto-masashige
+        - npc-hideo-nakamura
+        - npc-hiroshi-nakamura
+      related_quests: []
+      age: 52
+      height: 5'10\"
+      weight: 170
+      images:
+        portrait: null
+        token: null
+        variants: null

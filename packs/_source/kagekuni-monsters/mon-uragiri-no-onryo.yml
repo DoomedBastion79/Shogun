@@ -1,0 +1,123 @@
+_id: 4MbPf7AmyxvvHd4k
+_key: '!actors!4MbPf7AmyxvvHd4k'
+name: Uragiri no Onryō
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Uragiri no Onryō
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-uragiri-no-onryo
+    category: undead
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>A translucent spectral figure wreathed in cold fury, the Uragiri no Onryō — the Specter of Betrayal — is the
+        restless spirit of one who died by treachery. It drifts through walls and solid matter, its touch draining the
+        very life from the living.</p>
+
+        <h3>Behavior</h3>
+
+        <p>These vengeful spirits haunt the places where they were betrayed, lashing out at any living creature that
+        enters their domain. They are weakened by sunlight but nearly impossible to harm with mundane weapons.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Origin</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>An onryō forms when someone dies with overwhelming feelings of betrayal — a samurai murdered by a trusted
+        retainer, a spouse poisoned by their partner, a merchant cheated unto death. The intensity of the betrayal
+        determines the spirit&#39;s power.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Weakness</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>An onryō can sometimes be put to rest by exposing and punishing the one who betrayed them, or by performing
+        the proper funeral rites that were denied.</p>
+
+
+        </section>
+      public: ''
+    alignment: Chaotic Evil
+    cr: 1
+    type:
+      value: undead
+      subtype: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

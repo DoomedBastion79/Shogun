@@ -1,0 +1,170 @@
+_id: BIHGIXqUS0FLQg7C
+_key: '!journal!BIHGIXqUS0FLQg7C'
+name: Hiroshi Nakamura
+pages:
+  - _id: pv0L7UgIXWoqMQvr
+    _key: '!journal.pages!BIHGIXqUS0FLQg7C.pv0L7UgIXWoqMQvr'
+    name: Hiroshi Nakamura
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>Dark hair tied back; tanned; deep brown eyes; warm approachable expression.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Taisho (General) of Clan Kaminari and Shugo (Governor) of
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. As Shugo, he has near-total access to
+        Clan Kaminari&#39;s intelligence and administrative operations. He is the civilian administrative authority over
+        the imperial capital.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Calm, peace-loving, nature-appreciating, wise mediator. His warmth makes him trusted by nearly everyone —
+        including his brother Hideo.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
+        interact with.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>His public persona — calm, peace-loving, wise — is a deliberate mask of exceptional consistency. His warmth
+        is his most effective weapon.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Brother of Taisho @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. Their
+        sibling relationship gives him both access and cover.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span>
+        Hiroshi&#39;s true nature, once discovered, represents a massive intelligence find — the Shugo of the imperial
+        capital is a traitor.</div>
+
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p>Hiroshi Nakamura is an active traitor conspiring against Clan Kaminari. His primary driver is personal
+        ambition — Nakamura family elevation. He is working with the Genso Alliance as his vehicle — Genso is the more
+        overtly antagonist alliance in the broader story. His warmth and mediator persona is a deliberate mask over a
+        calculated power play.</p>
+
+        <p>He is using his Shugo position to feed intelligence to enemies. He has been doing this for at least three
+        years. He is aware that Hideo is investigating a traitor and is actively monitoring that investigation to stay
+        ahead of it.</p>
+
+        <p>Who he is specifically working with within the Genso Alliance — his specific contact — is undeveloped and to
+        be determined.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li>Traitor within Kaminari — Hideo is hunting him without knowing it</li>
+
+        <li>Genso Alliance connection — his betrayal ties into the broader war</li>
+
+        <li>Nakamura family ambition — the driving motive</li>
+
+        <li>The eventual brother confrontation — devastating narrative moment</li>
+
+        <li>Succession crisis implications — the Shugo of the capital working against his own clan</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: igBPJX3vra7f80cA
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-hiroshi-nakamura
+    frontmatter:
+      name: Hiroshi Nakamura
+      type: npc
+      detail: major
+      status: active
+      race: Human
+      sex: M
+      clan: kaminari
+      caste: kugai
+      role: Taisho; Shugo (Governor) of Heian
+      location: st-heian
+      affiliations:
+        - clan-kaminari
+        - genso-alliance
+      tags:
+        - taisho
+        - shugo
+        - traitor
+        - political-leader
+      aliases: []
+      related_npcs:
+        - npc-hideo-nakamura
+        - npc-raijin-no-kazuhiko
+      related_quests: []
+      age: 47
+      height: 6'0\"
+      weight: 190
+      images:
+        portrait: null
+        token: null
+        variants: null

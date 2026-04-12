@@ -1,0 +1,54 @@
+_id: WGlBVecw9gjL87SN
+_key: '!items!WGlBVecw9gjL87SN'
+name: Wholeness of Body
+type: feat
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: wholeness-of-body
+    className: buddhist-monk
+    subclass: open-hand
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  type:
+    value: class
+    subtype: ''
+  requirements: Open Hand 6
+  identifier: wholeness-of-body
+  description:
+    value: <p>Wholeness of Body — see Open Hand description for details.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

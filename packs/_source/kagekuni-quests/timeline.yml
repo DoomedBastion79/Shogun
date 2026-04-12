@@ -89,7 +89,7 @@ pages:
       format: 1
       content: >
         <p><strong>11248</strong></p><p>The great road extending from
-        @UUID[Compendium.assistant.lore.JournalEntry.hzsa2iSlnRd38adi]{Heian} in three directions is completed.
+        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in three directions is completed.
         Everything important in Hokori is still measured by its distance from that road.</p>
       markdown: ''
     video:

@@ -1,0 +1,93 @@
+_id: RzHrp4MhCuERApi6
+_key: '!items!RzHrp4MhCuERApi6'
+name: Akabana 紅花 (Crimson Bloom) (極上 Gokujō)
+type: loot
+img: icons/consumables/plants/leaf-herb-green.webp
+folder: s0C8x7l7f1BXaWFT
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-akabana
+    grade: gokujo
+    category: yakuso
+    materialName: Akabana
+  mastercrafted:
+    tags:
+      - yakuso
+      - mat-akabana
+      - mat-akabana:gokujo
+      - rare
+      - foraged
+      - cooking
+      - alchemy
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-akabana-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Akabana 紅花 (Crimson Bloom)</h4>
+
+      <p><strong>Category:</strong> Yakuso<br><strong>Rarity:</strong> Rare<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> 7 days fresh; indefinitely dried<br><strong>Tools:</strong> Herbalism
+      kit; heat-resistant gloves<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>A heat-loving flower found growing in volcanic ash near active vents in Hi province. The petals are a vivid
+      crimson that deepens to black at the edges. When dried and crumbled into food, they produce a slow, building
+      warmth that starts in the chest and spreads to the extremities. Hi province healers use them to treat exposure and
+      hypothermia.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>A genuine cold-weather remedy — the warmth is mechanical, not flavour. Hi province healers carry dried petals
+      on any winter expedition into Sora or Kōri-no-Mori.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Crimson Bloom
+    description: A bright crimson flower with char-black petal edges, warm to the touch.
+  quantity: 1
+  weight:
+    value: 0
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

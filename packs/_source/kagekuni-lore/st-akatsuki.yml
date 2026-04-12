@@ -1,0 +1,191 @@
+_id: ow3AGqlvFevncAwN
+_key: '!journal!ow3AGqlvFevncAwN'
+name: Akatsuki
+pages:
+  - _id: 05Mk2E4m6y1IGCbx
+    _key: '!journal.pages!ow3AGqlvFevncAwN.05Mk2E4m6y1IGCbx'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} -- Dawn -- is a village whose name
+        contradicts its character. It sits in perpetual shadow from the peaks above it, reached by a winding stone path
+        gaining significant altitude. The air is cold even in summer. Mist collects in the surrounding terrain and
+        rarely lifts before midday, often not at all.</p>
+
+        <p>The village is modest -- terraced farming on steep slopes, stone-built houses with heavy roofs designed for
+        snow load, a central well, a small shrine. Residents are not hostile but are compact -- words measured
+        carefully, questions answered with just enough to satisfy without offering more. They have maintained this
+        posture for generations because they live below the Monastery of the Black Lily.</p>
+
+        <p>Above the village, higher on the mountainside and accessed by a stone staircase cut into the rock face,
+        stands the Monastery of the Black Lily.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: kkGZU1EXdsxgmk0n
+    _key: '!journal.pages!ow3AGqlvFevncAwN.kkGZU1EXdsxgmk0n'
+    name: Districts / Landmarks
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>The Monastery of the Black Lily</strong> -- Dark stone and iron construction; austere; functional
+        rather than beautiful. The Order of the Black Lily operates here -- Kagekuni&#39;s premier training facility for
+        infiltration specialists, covert intelligence operatives, and precision agents.</p>
+
+        <p>The Order&#39;s relationship with Clan Gekko was long and close. The disappearance of Clan Gekko has severed
+        the primary institutional support structure. They are reassessing.</p>
+
+        <p>The monks and initiates know the truth about the Nagaji transformation. They have made a calculated decision
+        to not release this information without a reversal plan. They will share the complete truth with parties who
+        demonstrate they are positioned to actually address the situation.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 07Aby4BQRli913p7
+    _key: '!journal.pages!ow3AGqlvFevncAwN.07Aby4BQRli913p7'
+    name: Key Figures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <p>None publicly documented. The village maintains deliberate anonymity.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <ul>
+
+        <li>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
+        demonstrate they are positioned to act.</li>
+
+        <li>The village is not simply a bystander community -- it functions as a support system for the monastery.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>The Order&#39;s Full Knowledge</strong>
+
+        The Order knows: what ritual was used, who performed it first, approximately how many Gekko clan members were
+        transformed, and that Masota no Gekko himself underwent the ritual. They do not know where Masota currently is.
+        The transformed Gekko move in patterns that even their surveillance cannot consistently track.</p>
+
+        <p><strong>The Reversal</strong>
+
+        The Order has determined a reversal exists -- theoretical, not practical. It requires three elements: the
+        original ritual documentation (in Kinkokyo, in the Golden Dragon Clan&#39;s records); a specific sei
+        configuration present only during a particular celestial alignment (upcoming, within the next few sessions); and
+        a practitioner capable of performing sei-based restoration at significant scale.</p>
+
+        <p><strong>What the Order Wants from the Party</strong>
+
+        The Order will propose a partnership: the party retrieves the reversal documentation from the Temple of Kinryu;
+        the Order handles logistics of gathering the transformed Gekko; together they manage the political revelation on
+        a controlled timeline. In exchange, the Order provides intelligence, resources, and full knowledge of the Gekko
+        situation.</p>
+
+        <p><strong>The Village&#39;s Role</strong>
+
+        Several former Order members have retired to the village. Two of the village&#39;s farmers are active deep-cover
+        agents between assignments. Visitors who threaten this arrangement will encounter more than agricultural
+        resistance.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>A message from the Order reaches the party: &quot;Come to Akatsuki. Complete information will be provided.
+        Bring nothing official.&quot;</li>
+
+        <li>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
+        gold doors</li>
+
+        <li>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
+        intercepting before triggering political consequences</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+folder: LEr9qD0Kx7HIyVz5
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: st-akatsuki
+    frontmatter:
+      name: Akatsuki
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: pr-kaze

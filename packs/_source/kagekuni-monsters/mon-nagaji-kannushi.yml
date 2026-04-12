@@ -1,0 +1,116 @@
+_id: OGA1LtjRQuabbHHR
+_key: '!actors!OGA1LtjRQuabbHHR'
+name: Nagaji Kannushi
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Kannushi
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-kannushi
+    category: nagaji
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>Nagaji kannushi are high priests of the serpent deity, commanding powerful divine magic alongside martial
+        skill. They see through magical darkness with Devil&#39;s Sight, resist necrotic energy, and wield devastating
+        spells including Cone of Cold and Spirit Guardians. A kannushi typically leads a nagaji force of dozens.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Kannushi open with area spells — Spirit Guardians for sustained damage, Fear to break morale, Cone of Cold
+        for burst damage. They use Hold Person to neutralize dangerous threats and Shield of Faith on their bushi
+        bodyguards. In melee they are competent but prefer to direct from behind the front line.</p>
+
+        <h3>Spells</h3>
+
+        <p>Sacred Flame, Thaumaturgy, Command, Inflict Wounds, Shield of Faith, Hold Person, Spiritual Weapon, Spirit
+        Guardians, Fear, Cone of Cold</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Role</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Kannushi interpret the will of the serpent deity and direct nagaji communities. They are both spiritual
+        leaders and military commanders, wielding authority through divine mandate and raw magical power.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any Non-Good
+    cr: 5
+    type:
+      value: humanoid
+      subtype: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

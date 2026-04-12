@@ -1,0 +1,92 @@
+_id: vRZCxOngNbsaLOFW
+_key: '!items!vRZCxOngNbsaLOFW'
+name: Seidōrin no Shio 青銅林の塩 (Bronze Wood Salt) (極上 Gokujō)
+type: loot
+img: icons/consumables/food/bowl-liquid-soup-white.webp
+folder: XxINXNOKM6waGcYz
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-seidorin-no-shio
+    grade: gokujo
+    category: chomiryo
+    materialName: Seidōrin no Shio
+  mastercrafted:
+    tags:
+      - chomiryo
+      - mat-seidorin-no-shio
+      - mat-seidorin-no-shio:gokujo
+      - uncommon
+      - foraged
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-seidorin-no-shio-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Seidōrin no Shio 青銅林の塩 (Bronze Wood Salt)</h4>
+
+      <p><strong>Category:</strong> Chomiryo<br><strong>Rarity:</strong> Uncommon<br><strong>Source:</strong>
+      foraging<br><strong>Preservation:</strong> Indefinite; mineral-stable<br><strong>Tools:</strong> Herbalism kit
+      (advantage); clan license<br><strong>Restrictions:</strong> **Unlicensed harvesting is technically a capital
+      offense.**<br><strong>Grade:</strong> 極上 Gokujō (craft modifier: +5)</p>
+
+      </article>
+
+      </div>
+
+      <p>Mineral salt collected from crystalline deposits at the base of bronze-barked trees in the Seidōrin Mori. Has a
+      faintly metallic, almost sweet quality that enhances the flavor of game meats. Collection requires a clan license
+      — unlicensed harvesting is technically a capital offense.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**Legal risk.** Party caught harvesting without license faces noble consequences. Good story lever for Hana
+      politics.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Bronze Wood Salt
+    description: Pale crystalline deposits at the base of a strange bronze-barked tree, with a subtle metallic sheen.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

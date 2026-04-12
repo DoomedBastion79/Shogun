@@ -1,0 +1,119 @@
+_id: tTMNaVjL132BAIM1
+_key: '!items!tTMNaVjL132BAIM1'
+name: Ōkami no Hone 狼の骨 (Mountain God's Bones)
+type: loot
+img: icons/commodities/bones/bone-skull-worn-white.webp
+folder: dMoUIiTH1J8iI9SD
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-okami-no-hone
+    grade: gokujo
+    category: hone
+    materialName: Ōkami no Hone
+  mastercrafted:
+    tags:
+      - hone
+      - mat-okami-no-hone
+      - mat-okami-no-hone:gokujo
+      - veryRare
+      - harvested
+      - one-time
+      - crafting
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-okami-no-hone-gokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Ōkami no Hone 狼の骨 (Mountain God's Bones)</h4>
+
+      <p><strong>Category:</strong> Hone<br><strong>Rarity:</strong> VeryRare<br><strong>Source:</strong>
+      one-time-harvest<br><strong>Preservation:</strong> Indefinite if kept dry. Raw bone benefits from cleaning and
+      bleaching soon after harvest.<br><strong>Tools:</strong> Woodcarver's or bonecarver's tools for shaping; butcher's
+      cleaver for initial sectioning<br><strong>Restrictions:</strong> Single-grade-locked. Does not follow standard
+      grade progression — the nat-20 harvest check locked all bone material at 極上 Gokujō.</p>
+
+      </article>
+
+      </div>
+
+      <p>A clean butchering preserved the long bones of the legs, the heavy bones of the spine, and the great curved
+      ribs. Bone of this size and density is genuinely uncommon — most predators in Hokori are smaller creatures whose
+      bones snap rather than carve. A bone-carver can shape these into hilts, scabbard fittings, ornamental inlays, and
+      the kind of polished accents that mark an expensive weapon or a noble&#39;s accessories. There is enough material
+      here to keep a single craftsman supplied for years.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>**One-time harvest.** Single-grade-locked at 極上 Gokujō. Party holds the full 350 lb of carving stock (tracked
+      in `dm/campaign-state.md`).
+
+
+      **Skill-Check Reveals** — one check per skill; nat-20 reveals all three.
+
+
+      - **Religion (DC 13)** — Bones of a creature thought to be a kami avatar carry spiritual weight. Ground into bone
+      meal and presented at a shrine, they constitute a significant offering. Carved into prayer beads or ritual
+      implements, they serve as a permanent reminder of the offering and may carry the kami&#39;s favour with them.
+
+      - **Nature (DC 11)** — Excellent carving stock. The character can identify which bones are best suited to which
+      products — femurs for sword hilts, ribs for scabbard fittings, vertebrae for ornaments and beads. Knows the going
+      rate per pound raw and per pound cut.
+
+      - **Arcana (DC 14)** — The bone is *resonant* — it carries a faint sei echo when struck, a quality prized by
+      arcane focus makers. Carved into a focus, it would suit a seimaster whose practice leans toward warding,
+      banishment, or anti-spirit magics. Particularly valuable to seimasters in Sora and Kaze.
+
+
+      Cross-references: See Kegawa → Ōkami no Kegawa; Hone → Ōkami no Zugai / Kiba / Tenohira; Niku → Ōkami-niku and
+      related cuts.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Mountain God's Bones
+    description: >-
+      A large collection of unusually dense, pale grey bones from a massive wolf-like creature. Femurs as long as a
+      man's arm, ribs curved like longbow staves, vertebrae the size of a clenched fist. Strike one against another and
+      the sound carries oddly, lingering a moment longer than plain bone should.
+  quantity: 1
+  weight:
+    value: 350
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: rare
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

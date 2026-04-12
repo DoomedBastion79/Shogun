@@ -1,0 +1,81 @@
+_id: vLB4D8moCpNxOyo7
+_key: '!actors!vLB4D8moCpNxOyo7'
+name: Tranquil Lotus Novices
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Tranquil Lotus Novices
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/npcs.json
+    slug: npc-tranquil-lotus-novices
+    linkedJournalId: OmW0YtNV3fGwVg3s
+    frontmatter:
+      name: Tranquil Lotus Novices
+      type: npc
+      detail: mention
+      status: active
+      race: Various
+      sex: Mixed
+      clan: null
+      caste: zokumin
+      role: Novice monks, Order of the Tranquil Lotus
+      location: traveling
+      affiliations:
+        - tranquil-lotus
+      tags:
+        - tranquil-lotus
+        - benkei
+        - traveling
+        - kazehama
+      aliases: []
+      related_npcs:
+        - npc-benkei
+      related_quests: []
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Various
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">mention</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Various</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">zokumin</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Novice monks, Order of the Tranquil Lotus</dd></div><div
+        class="kg-info__row"><dt>Location</dt><dd data-field="location">traveling</dd></div></dl><p><em
+        lang="ja-Latn">Six novice monks traveling with Benkei from Kazehama to Heian</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><p><em lang="ja-Latn">Novice monks, Order of the
+        Tranquil Lotus</em></p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.assistant.npcs-lore.JournalEntry.OmW0YtNV3fGwVg3s]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

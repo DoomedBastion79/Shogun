@@ -1,0 +1,126 @@
+_id: 4kQKUEDLuAleEiXg
+_key: '!items!4kQKUEDLuAleEiXg'
+name: Astral Self
+type: subclass
+img: icons/svg/aura.svg
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    slug: astral-self
+    className: buddhist-monk
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  description:
+    value: <p>Manifests a spectral inner self — arms, face, body — that fights with force damage.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: CC BY-SA 3.0
+    custom: ''
+    rules: '2024'
+    revision: 1
+  identifier: astral-self
+  classIdentifier: buddhist-monk
+  advancement:
+    BEgFwBCsdkWEH8pQ:
+      _id: BEgFwBCsdkWEH8pQ
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.vAhGzcUimhRTol3u
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 3
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    mNcUPsFmbVKmoxgP:
+      _id: mNcUPsFmbVKmoxgP
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.Ww9exyyt94Sq1tMO
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 6
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    c5FoKa2hTO8oARmB:
+      _id: c5FoKa2hTO8oARmB
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.QNloQSzZY5DmaNbU
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 11
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    RMJKZLXwMFul6OFF:
+      _id: RMJKZLXwMFul6OFF
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-classfeatures.m8UBUkO8QP2Zay5z
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 17
+      title: Features
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

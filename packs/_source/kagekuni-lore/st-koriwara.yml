@@ -1,0 +1,159 @@
+_id: glkgG2E8eJWrxCrm
+_key: '!journal!glkgG2E8eJWrxCrm'
+name: Koriwara
+pages:
+  - _id: xtCUDFYs2c0lYAqD
+    _key: '!journal.pages!glkgG2E8eJWrxCrm.xtCUDFYs2c0lYAqD'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>@UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} sits in the foothills where
+        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province&#39;s maritime lowlands begin to
+        rise toward Hokori&#39;s interior ranges. It is unremarkable by any visible standard -- small-scale farming and
+        herding, modest architecture, a self-contained community with little need for outside contact. A traveler
+        passing through would find nothing to distinguish it from dozens of similar villages.</p>
+
+        <p>What distinguishes it cannot be seen from the road: the presence of Elder Sato Hideaki, whose decades of
+        accumulated knowledge, his connection to the Order of the Sacred Grove, and his quiet role as a node in networks
+        extending far beyond a mountain foothills village give Koriwara significance disproportionate to its size.</p>
+
+        <p>The sacred grove that Sato tends is a small stand of ancient trees on the hillside above the village, reached
+        by a foot path behind the northernmost homes. The grove is not marked, not fenced, not formally maintained -- it
+        simply exists, and the village has always known to leave it alone.</p>
+
+        <p>This is Relc&#39;s home village.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Zhz43VXsIWxMjQwq
+    _key: '!journal.pages!glkgG2E8eJWrxCrm.Zhz43VXsIWxMjQwq'
+    name: Key Figures
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <ul>
+
+        <li>Sato Hideaki -- Choro (Village Elder); 78 years old -&gt; npcs/sato-hideaki.md</li>
+
+        </ul>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Details</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <ul>
+
+        <li>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
+        Ancient Guard, and Solas Evergreen.</li>
+
+        <li>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</li>
+
+        <li>A stranger recently arrived in Koriwara asking questions about Relc.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>Sato&#39;s Full Knowledge</strong>
+
+        Sato is a mid-rank member of the Order of the Sacred Grove. He has interacted with Order of the Ancient Guard
+        agents, including Solas Evergreen directly. He knows Solas was Ancient Guard (not just Sacred Grove). He knows
+        what the Ancient Guard is and broadly what it protects. He has not told Relc because he was following
+        Solas&#39;s instruction and because he judged Relc was not yet ready.</p>
+
+        <p><strong>The Cipher Poem</strong>
+
+        One of the three stones is in Koriwara -- in the sacred grove above the village. A naturally occurring stone
+        with unusual surface striations that, viewed from a specific angle at dawn, produce a visual pattern. Sato knows
+        this stone. He knows what the Warden&#39;s Wisdom is: protected knowledge about the living dragons held by the
+        Order of the Sacred Grove.</p>
+
+        <p><strong>Solas&#39;s Murder -- What Sato Knows</strong>
+
+        Sato does not know who killed Solas, but knows the category of entity capable of it. The killing required
+        significantly superior capability or intimate familiarity -- someone Solas trusted. This points to either a very
+        powerful practitioner or someone inside the Orders themselves.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Hooks</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something
+        has happened near the sacred grove</li>
+
+        <li>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
+        concerned about whether Relc is being watched</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+folder: LEr9qD0Kx7HIyVz5
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    slug: st-koriwara
+    frontmatter:
+      name: Koriwara
+      type: settlement
+      settlement_type: village
+      island: hokori
+      province: pr-mizu

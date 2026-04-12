@@ -1,0 +1,111 @@
+_id: d1fY2hMfDH5AEG01
+_key: '!actors!d1fY2hMfDH5AEG01'
+name: Nagaji Bushi
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Bushi
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-bushi
+    category: nagaji
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>Nagaji bushi are elite warriors clad in enchanted chain mail, wielding katanas and longbows with lethal
+        precision. Their scales are thick and iridescent, a mark of superior breeding. Bushi serve as champions,
+        bodyguards to priests, and commanders of lesser nagaji forces.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Bushi are straightforward but devastating combatants — high AC from magical armor, strong multiattack with
+        katanas, and longbow capability at range. They anchor nagaji battle lines and are often the most dangerous
+        individual opponent in a nagaji warband.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Status</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Bushi hold honored positions in nagaji society, second only to the priestly caste. They are bred for strength
+        and resilience, and many bear ritual scarification marking their kills and achievements.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any Non-Good
+    cr: 4
+    type:
+      value: humanoid
+      subtype: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

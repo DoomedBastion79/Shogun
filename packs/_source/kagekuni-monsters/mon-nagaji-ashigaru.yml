@@ -1,0 +1,112 @@
+_id: 0U3ovqWCecMOrh9C
+_key: '!actors!0U3ovqWCecMOrh9C'
+name: Nagaji Ashigaru
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Ashigaru
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items: []
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-ashigaru
+    category: nagaji
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 10
+    dex:
+      value: 10
+    con:
+      value: 10
+    int:
+      value: 10
+    wis:
+      value: 10
+    cha:
+      value: 10
+  attributes:
+    ac:
+      flat: 10
+      calc: flat
+      formula: ''
+    hp:
+      value: 1
+      max: 1
+      temp: 0
+      tempmax: 0
+      formula: ''
+    movement:
+      walk: 30
+      burrow: 0
+      climb: 0
+      fly: 0
+      swim: 0
+      units: ft
+      hover: false
+  details:
+    biography:
+      value: >-
+        <p>The lowest rank of nagaji warrior, ashigaru are expendable foot soldiers bred in great numbers. They fight
+        with simple spears and shortbows, relying on overwhelming numbers rather than individual skill. Their serpentine
+        features are less pronounced than higher-caste nagaji — flatter faces, duller scales, smaller builds.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Ashigaru fight as minions — individually fragile but dangerous in groups. A single blow fells one, but a
+        dozen more fill the gap. They are disciplined enough to hold formation and follow orders from higher-ranked
+        nagaji.</p>
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Hierarchy</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Ashigaru are the product of selective breeding by nagaji priesthoods, optimized for obedience and numbers
+        over individual strength. They occupy the lowest rung of nagaji society, serving as expendable labor and cannon
+        fodder.</p>
+
+
+        </section>
+      public: ''
+    alignment: Any Non-Good
+    cr: 0.5
+    type:
+      value: humanoid
+      subtype: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  traits:
+    size: med
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

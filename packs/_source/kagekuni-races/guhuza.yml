@@ -1,6 +1,6 @@
-_id: xQAn2kIXMb2N1ca4
-_key: '!items!xQAn2kIXMb2N1ca4'
-name: Guhuza
+_id: 0o999qyTPfRDs38m
+_key: '!items!0o999qyTPfRDs38m'
+name: Guhuza (Kwita)
 type: race
 img: icons/environment/people/group.webp
 folder: null
@@ -10,39 +10,15 @@ ownership:
 flags:
   assistant:
     sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/races/guhuza.md
-    slug: guhuza
+    slug: guhuza-kwita
     category: race
-    frontmatter:
-      name: Guhuza
-      type: race
-      size: medium
-      speed: 30
-      darkvision: 60
-      ability_scores:
-        int: 2
-      subraces:
-        - kwita
-        - izina
-      languages:
-        - Common
-        - +2 of choice
-      homeland: seizan
-      tags:
-        - race
-        - simian
-        - seizan
-        - playable
-      source: https://www.dandwiki.com/wiki/Guhuza_(5e_Race)
-      license: CC BY-SA 3.0
-      related_npcs:
-        - elder-benkei
-      related_quests: []
+    subrace: kwita
   dnd5e:
     riders:
       activity: []
       effect: []
 system:
-  identifier: guhuza
+  identifier: guhuza-kwita
   source:
     book: Kagekuni Campaign
     page: ''
@@ -136,8 +112,8 @@ system:
       </section>
     chat: ''
   advancement:
-    l7XdaFxhGjc074cq:
-      _id: l7XdaFxhGjc074cq
+    isRlVBYB0bsMyVgk:
+      _id: isRlVBYB0bsMyVgk
       type: Size
       configuration:
         sizes:
@@ -149,8 +125,8 @@ system:
       icon: null
       classRestriction: ''
       flags: {}
-    EEXSxEPXdh1dR2xO:
-      _id: EEXSxEPXdh1dR2xO
+    5YEerzHjEJGE2XRu:
+      _id: 5YEerzHjEJGE2XRu
       type: Trait
       configuration:
         mode: default
@@ -170,19 +146,45 @@ system:
       icon: null
       classRestriction: ''
       flags: {}
-    sfwFONI3JenCdx1I:
-      _id: sfwFONI3JenCdx1I
+    jpouMlhEdzSLlLpP:
+      _id: jpouMlhEdzSLlLpP
       type: AbilityScoreImprovement
       configuration:
         points: 0
         fixed:
           int: 2
+          str: 1
         cap: 2
         locked: []
       value:
         type: asi
       level: 0
       title: ''
+      hint: ''
+      icon: null
+      classRestriction: ''
+      flags: {}
+    fCjYqqaNtoMnqoYh:
+      _id: fCjYqqaNtoMnqoYh
+      type: ItemGrant
+      configuration:
+        items:
+          - uuid: Compendium.assistant.kagekuni-racefeatures.5Clb948DdDgeXUxK
+            optional: false
+          - uuid: Compendium.assistant.kagekuni-racefeatures.Y7998TyY1RkOjKCg
+            optional: false
+          - uuid: Compendium.assistant.kagekuni-racefeatures.CJwvhzJ0RTZSlsYG
+            optional: false
+        optional: false
+        spell:
+          ability: []
+          preparation: ''
+          uses:
+            max: ''
+            per: ''
+      value: {}
+      level: 0
+      title: Traits
       hint: ''
       icon: null
       classRestriction: ''

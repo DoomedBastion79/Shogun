@@ -1,0 +1,67 @@
+_id: T6vpr67yYxjZxJX6
+_key: '!items!T6vpr67yYxjZxJX6'
+name: Smith's Tools
+type: tool
+img: icons/tools/instruments/lute-gold-brown.webp
+folder: 2aDy2uANsc4FNnTL
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-smiths-tools
+    category: tool
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: smiths-tools
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: Heavy metalworking implements.
+  quantity: 1
+  weight:
+    value: 8
+    units: lb
+  price:
+    value: 20
+    denomination: gp
+  rarity: common
+  identified: true
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  type:
+    value: art
+    baseItem: ''
+  ability: str
+  chatFlavor: ''
+  proficient: 0
+  bonus: ''
+  properties: []
+  description:
+    value: >
+      <p>Tongs, hammers of varying weight, a hand bellows, chisels, a file set, and a portable anvil plate. Sufficient
+      for field repairs and basic metalwork.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

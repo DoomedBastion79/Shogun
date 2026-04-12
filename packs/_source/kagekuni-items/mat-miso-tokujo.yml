@@ -1,0 +1,89 @@
+_id: NGbhY3pmW2gV2NU4
+_key: '!items!NGbhY3pmW2gV2NU4'
+name: Miso 味噌 (Fermented Bean Paste) (特上 Tokujō)
+type: loot
+img: icons/consumables/grains/grain-wheat-bundle.webp
+folder: 1XV63M5X1jtx2EVb
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: items/materials.json
+    slug: mat-miso
+    grade: tokujo
+    category: shushoku
+    materialName: Miso
+  mastercrafted:
+    tags:
+      - shushoku
+      - mat-miso
+      - mat-miso:tokujo
+      - cooking
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mat-miso-tokujo
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  description:
+    value: >-
+      <div class="fvtt advice">
+
+      <article>
+
+      <h4>Miso 味噌 (Fermented Bean Paste)</h4>
+
+      <p><strong>Category:</strong> Shushoku<br><strong>Rarity:</strong> Common<br><strong>Source:</strong>
+      harvesting<br><strong>Preservation:</strong> Indefinite in dry sealed container<br><strong>Tools:</strong>
+      None<br><strong>Grade:</strong> 特上 Tokujō (craft modifier: +2)</p>
+
+      </article>
+
+      </div>
+
+      <p>Fermented soybean paste, sold by weight in wooden tubs or wrapped in bamboo leaves for travel. The foundation
+      of soups, glazes, and braises, miso colour ranges from pale yellow (young, sweet) to deep red-brown (aged,
+      assertive). It keeps indefinitely in a dry container and forgives all manner of cooking sins. A small pot of miso
+      makes the difference between a sad camp meal and a proper one.</p>
+
+      <section class="secret">
+
+      <h4>DM Notes</h4>
+
+      <p>Camp meal transformer. Traveler essential.</p>
+
+      </section>
+    chat: ''
+  container: null
+  unidentified:
+    name: Unidentified Fermented Bean Paste
+    description: A wooden tub of dark, thick, deeply savory paste wrapped in bamboo leaf.
+  quantity: 1
+  weight:
+    value: 0.25
+    units: lb
+  price:
+    value: 0
+    denomination: cp
+  rarity: uncommon
+  identified: true
+  type:
+    value: resource
+    baseItem: ''
+  properties: []
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.0
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
