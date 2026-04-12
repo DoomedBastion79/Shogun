@@ -135,7 +135,7 @@ results:
 formula: 1d8
 replacement: true
 displayRoll: true
-folder: null
+folder: aI881YX5Lw91mL4z
 sort: 0
 ownership:
   default: 0
@@ -143,6 +143,7 @@ flags:
   assistant:
     slug: table-fumoto-foraging
     biome: fumoto-foraging
+    biomeSlug: fumoto
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

@@ -1,0 +1,11 @@
+_id: 7IsAITwNtSsCf3Hj
+_key: '!folders!7IsAITwNtSsCf3Hj'
+name: 採集 Saishu — Gathering
+type: Macro
+folder: null
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: macros/gathering

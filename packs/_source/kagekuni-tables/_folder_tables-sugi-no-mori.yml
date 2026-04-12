@@ -1,0 +1,11 @@
+_id: fpHOEu5nyKtXR6OB
+_key: '!folders!fpHOEu5nyKtXR6OB'
+name: 杉の森 Sugi no Mori — Deep Cedar Forest
+type: RollTable
+folder: null
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: tables/sugi-no-mori

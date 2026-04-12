@@ -87,7 +87,7 @@ results:
 formula: 1d5
 replacement: true
 displayRoll: true
-folder: null
+folder: 4b4bDsF20zjBBBXN
 sort: 0
 ownership:
   default: 0
@@ -95,6 +95,7 @@ flags:
   assistant:
     slug: table-satoyama-hunting
     biome: satoyama-hunting
+    biomeSlug: satoyama
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

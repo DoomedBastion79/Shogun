@@ -1,0 +1,11 @@
+_id: 4b4bDsF20zjBBBXN
+_key: '!folders!4b4bDsF20zjBBBXN'
+name: 里山 Satoyama — Village Forest
+type: RollTable
+folder: null
+sorting: m
+sort: 30
+color: null
+flags:
+  assistant:
+    folderPath: tables/satoyama

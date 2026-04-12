@@ -1,0 +1,11 @@
+_id: EWj71EnQIgaJcKIN
+_key: '!folders!EWj71EnQIgaJcKIN'
+name: 廃墟 Haikyo — Ruins
+type: RollTable
+folder: null
+sorting: m
+sort: 60
+color: null
+flags:
+  assistant:
+    folderPath: tables/haikyo

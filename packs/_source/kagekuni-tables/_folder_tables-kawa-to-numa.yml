@@ -1,0 +1,11 @@
+_id: qS0CtqOUVgTW4uqA
+_key: '!folders!qS0CtqOUVgTW4uqA'
+name: 川と沼 Kawa to Numa — Rivers & Marshes
+type: RollTable
+folder: null
+sorting: m
+sort: 40
+color: null
+flags:
+  assistant:
+    folderPath: tables/kawa-to-numa

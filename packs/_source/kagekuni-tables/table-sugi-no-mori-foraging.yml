@@ -375,7 +375,7 @@ results:
 formula: 1d23
 replacement: true
 displayRoll: true
-folder: null
+folder: fpHOEu5nyKtXR6OB
 sort: 0
 ownership:
   default: 0
@@ -383,6 +383,7 @@ flags:
   assistant:
     slug: table-sugi-no-mori-foraging
     biome: sugi-no-mori-foraging
+    biomeSlug: sugi-no-mori
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

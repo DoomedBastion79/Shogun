@@ -1,0 +1,11 @@
+_id: ffbyIAsIM7oS9hwP
+_key: '!folders!ffbyIAsIM7oS9hwP'
+name: Hi Province
+type: Actor
+folder: null
+sorting: m
+sort: 70
+color: null
+flags:
+  assistant:
+    folderPath: npc-actors/st-hi-province

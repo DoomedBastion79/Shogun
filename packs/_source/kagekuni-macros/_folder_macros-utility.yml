@@ -1,0 +1,11 @@
+_id: JKPIgLkjw6nSwAIN
+_key: '!folders!JKPIgLkjw6nSwAIN'
+name: 道具 Dougu — Utility
+type: Macro
+folder: null
+sorting: m
+sort: 30
+color: null
+flags:
+  assistant:
+    folderPath: macros/utility

@@ -1,0 +1,11 @@
+_id: dLZlMXEovqwHkdeT
+_key: '!folders!dLZlMXEovqwHkdeT'
+name: Heian
+type: Actor
+folder: null
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: npc-actors/st-heian

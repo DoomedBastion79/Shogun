@@ -1,0 +1,11 @@
+_id: 9ARgq6Cf14gyFFvQ
+_key: '!folders!9ARgq6Cf14gyFFvQ'
+name: Tenkuji Temple
+type: Actor
+folder: null
+sorting: m
+sort: 50
+color: null
+flags:
+  assistant:
+    folderPath: npc-actors/loc-tenkuji-temple

@@ -1,0 +1,11 @@
+_id: YDFKOpCJgH29ds9k
+_key: '!folders!YDFKOpCJgH29ds9k'
+name: 無所属 Mushozoku — Unaffiliated
+type: Actor
+folder: null
+sorting: m
+sort: 9999
+color: '#6b7280'
+flags:
+  assistant:
+    folderPath: npc-actors/unaffiliated

@@ -1,0 +1,11 @@
+_id: SLJ7ZwlGHqdo71Rg
+_key: '!folders!SLJ7ZwlGHqdo71Rg'
+name: 海岸 Kaigan — Coastline
+type: RollTable
+folder: null
+sorting: m
+sort: 50
+color: null
+flags:
+  assistant:
+    folderPath: tables/kaigan

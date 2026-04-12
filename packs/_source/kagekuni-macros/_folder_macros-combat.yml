@@ -1,0 +1,11 @@
+_id: oxt9fBOC4qFoiyPA
+_key: '!folders!oxt9fBOC4qFoiyPA'
+name: 戦闘 Sentou — Combat
+type: Macro
+folder: null
+sorting: m
+sort: 20
+color: null
+flags:
+  assistant:
+    folderPath: macros/combat

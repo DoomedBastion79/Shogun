@@ -1,0 +1,11 @@
+_id: BzOgdqFWutWuFiMV
+_key: '!folders!BzOgdqFWutWuFiMV'
+name: Kikyo
+type: Actor
+folder: null
+sorting: m
+sort: 20
+color: null
+flags:
+  assistant:
+    folderPath: npc-actors/st-kikyo
