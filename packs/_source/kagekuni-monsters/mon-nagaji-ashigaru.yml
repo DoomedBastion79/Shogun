@@ -15,7 +15,368 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
-items: []
+items:
+  - _id: hJGhEX1P5xntgMdX
+    _key: '!actors.items!hJGhEX1P5xntgMdX'
+    name: Minion
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: >-
+          If the ashigaru takes any damage from an attack or as the result of a failed saving throw, its hit points are
+          reduced to 0. If the ashigaru takes damage that fails to kill it from other effects, it takes no damage
+          instead.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: mxczM3QuA6nTwDpU
+    _key: '!actors.items!mxczM3QuA6nTwDpU'
+    name: Pack Tactics
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: >-
+          The ashigaru has advantage on an attack roll against a creature if at least one of the ashigaru's allies is
+          within 5 feet of the creature and the ally isn't incapacitated.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: eb1Iw9cNQwVqxtfP
+    _key: '!actors.items!eb1Iw9cNQwVqxtfP'
+    name: Yari (Spear)
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: yari-spear
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '1'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '3'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: ShsvAJ6slTRzZnAH
+    _key: '!actors.items!ShsvAJ6slTRzZnAH'
+    name: Hankyu (Shortbow)
+    type: weapon
+    img: icons/weapons/bows/longbow-recurve.webp
+    sort: 300
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: hankyu-shortbow
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialR
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '1'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 80
+        long: 320
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: dex
+            bonus: '3'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: ranged
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
 effects: []
 folder: null
 sort: 0
@@ -26,6 +387,7 @@ flags:
     sourcePath: canon/monsters.json
     slug: mon-nagaji-ashigaru
     category: nagaji
+    hasStatblock: true
   dnd5e:
     riders:
       activity: []
@@ -33,36 +395,49 @@ flags:
 system:
   abilities:
     str:
-      value: 10
+      value: 12
+      proficient: 0
     dex:
-      value: 10
+      value: 13
+      proficient: 0
     con:
-      value: 10
+      value: 11
+      proficient: 0
     int:
-      value: 10
+      value: 8
+      proficient: 0
     wis:
       value: 10
+      proficient: 0
     cha:
-      value: 10
+      value: 8
+      proficient: 0
   attributes:
     ac:
-      flat: 10
+      flat: 13
       calc: flat
-      formula: ''
+      formula: hide armor
     hp:
-      value: 1
-      max: 1
+      value: 9
+      max: 9
+      formula: 2d8
       temp: 0
       tempmax: 0
-      formula: ''
     movement:
       walk: 30
-      burrow: 0
-      climb: 0
       fly: 0
       swim: 0
+      climb: 0
+      burrow: 0
       units: ft
       hover: false
+    senses:
+      darkvision: 60
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
   details:
     biography:
       value: >-
@@ -92,15 +467,34 @@ system:
       public: ''
     alignment: Any Non-Good
     cr: 0.5
+    xp:
+      value: 0
     type:
       value: humanoid
       subtype: ''
+      swarm: ''
       custom: ''
     source:
       book: Kagekuni Campaign
       custom: ''
+  skills: {}
   traits:
     size: med
+    languages:
+      value: []
+      custom: Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

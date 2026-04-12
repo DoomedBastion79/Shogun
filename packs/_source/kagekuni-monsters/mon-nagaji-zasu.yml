@@ -15,7 +15,404 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
-items: []
+items:
+  - _id: ftvAPncoMV7ptObY
+    _key: '!actors.items!ftvAPncoMV7ptObY'
+    name: Magic Resistance
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The zasu has advantage on saving throws against spells and other magical effects.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: CRjcSVj74mOvAWpW
+    _key: '!actors.items!CRjcSVj74mOvAWpW'
+    name: Devil's Sight
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: Magical darkness doesn't impede the zasu's darkvision.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: fCCdifkgd0X4Xlgn
+    _key: '!actors.items!fCCdifkgd0X4Xlgn'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: The zasu makes three Bite attacks, or it uses Spectral Fangs twice.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: ljmC4eiqKzt0Iz9Z
+    _key: '!actors.items!ljmC4eiqKzt0Iz9Z'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: If the target is a creature, it must succeed on a DC 13 Constitution saving throw or take 2d6 poison damage.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '3'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '6'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: RdSuJbx0iKIvpGbW
+    _key: '!actors.items!RdSuJbx0iKIvpGbW'
+    name: Reikon no Kiba (Spectral Fangs)
+    type: weapon
+    img: icons/weapons/bows/longbow-recurve.webp
+    sort: 400
+    system:
+      description:
+        value: A spectral serpent head strikes at a creature within range.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: reikon-no-kiba-spectral-fangs
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialR
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '4'
+          types:
+            - psychic
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 60
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: dex
+            bonus: '7'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: ranged
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: Dww3XeipoOTPwc95
+    _key: '!actors.items!Dww3XeipoOTPwc95'
+    name: Merrshaulk's Slumber (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 500
+    system:
+      description:
+        value: >-
+          The zasu channels the torpor of its patron. Each creature of the zasu's choice within 30 feet must succeed on
+          a DC 15 Wisdom saving throw or fall unconscious for 1 minute. A sleeping target awakens if it takes damage or
+          if another creature uses an action to wake it. Undead and creatures immune to being charmed are unaffected.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
 effects: []
 folder: null
 sort: 0
@@ -26,6 +423,7 @@ flags:
     sourcePath: canon/monsters.json
     slug: mon-nagaji-zasu
     category: nagaji
+    hasStatblock: true
   dnd5e:
     riders:
       activity: []
@@ -33,36 +431,49 @@ flags:
 system:
   abilities:
     str:
-      value: 10
+      value: 16
+      proficient: 0
     dex:
-      value: 10
+      value: 14
+      proficient: 0
     con:
-      value: 10
+      value: 14
+      proficient: 1
     int:
-      value: 10
+      value: 14
+      proficient: 0
     wis:
-      value: 10
+      value: 13
+      proficient: 0
     cha:
-      value: 10
+      value: 18
+      proficient: 1
   attributes:
     ac:
-      flat: 10
+      flat: 15
       calc: flat
-      formula: ''
+      formula: natural armor
     hp:
-      value: 1
-      max: 1
+      value: 97
+      max: 97
+      formula: 15d8 + 30
       temp: 0
       tempmax: 0
-      formula: ''
     movement:
       walk: 30
-      burrow: 0
-      climb: 0
       fly: 0
-      swim: 0
+      swim: 30
+      climb: 0
+      burrow: 0
       units: ft
       hover: false
+    senses:
+      darkvision: 120
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
   details:
     biography:
       value: >-
@@ -109,15 +520,42 @@ system:
       public: ''
     alignment: Any Non-Good
     cr: 5
+    xp:
+      value: 1800
     type:
       value: monstrosity
       subtype: warlock
+      swarm: ''
       custom: ''
     source:
       book: Kagekuni Campaign
       custom: ''
+  skills:
+    deception:
+      value: 7
+    perception:
+      value: 4
+    arcana:
+      value: 5
   traits:
     size: med
+    languages:
+      value: []
+      custom: Common, Draconic, Abyssal
+    dr:
+      value: []
+      custom: ''
+    di:
+      value:
+        - poison
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value:
+        - poisoned
+      custom: ''
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

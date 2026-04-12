@@ -12,7 +12,7 @@ results:
       - 1
     name: Yama-usagi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: bsY9KPFDAr2soehZ
     _id: hMWBxmuXJvtRQgtI
     description: ''
@@ -28,7 +28,7 @@ results:
       - 2
     name: Uzura
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: kcrSRbUUoBLBDiJ9
     _id: dBlaphRdDXnsofmN
     description: ''
@@ -44,7 +44,7 @@ results:
       - 3
     name: Suzume
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: IDDHhOUzmZh0BlML
     _id: Eqir0s44Qh2v1SGd
     description: ''
@@ -60,7 +60,7 @@ results:
       - 4
     name: Shika
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: 8IVExk159sKcabdY
     _id: E3VJUe5wtpunqA4U
     description: ''
@@ -76,7 +76,7 @@ results:
       - 5
     name: Hato
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: Uwonrf5VJZVUeZkA
     _id: 3jrNomwJRIrnIFtJ
     description: ''

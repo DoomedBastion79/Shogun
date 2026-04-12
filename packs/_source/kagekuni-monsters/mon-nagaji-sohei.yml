@@ -15,7 +15,363 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
-items: []
+items:
+  - _id: 0CwcD8yD7IV9hguE
+    _key: '!actors.items!0CwcD8yD7IV9hguE'
+    name: Serpent Grace
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The sohei's movement doesn't provoke opportunity attacks.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: uTajnp32aOBrvi4E
+    _key: '!actors.items!uTajnp32aOBrvi4E'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: 'The sohei makes two attacks: one with its Yari and one Unarmed Strike, or two Unarmed Strikes.'
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: YAuhFNZcG3Y0gxj0
+    _key: '!actors.items!YAuhFNZcG3Y0gxj0'
+    name: Yari (Spear)
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: yari-spear
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '3'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: xG9Z265YkhtTWioG
+    _key: '!actors.items!xG9Z265YkhtTWioG'
+    name: Unarmed Strike
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: unarmed-strike
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '3'
+          types:
+            - bludgeoning
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
 effects: []
 folder: null
 sort: 0
@@ -26,6 +382,7 @@ flags:
     sourcePath: canon/monsters.json
     slug: mon-nagaji-sohei
     category: nagaji
+    hasStatblock: true
   dnd5e:
     riders:
       activity: []
@@ -33,36 +390,49 @@ flags:
 system:
   abilities:
     str:
-      value: 10
+      value: 14
+      proficient: 0
     dex:
-      value: 10
+      value: 16
+      proficient: 1
     con:
-      value: 10
+      value: 14
+      proficient: 0
     int:
       value: 10
+      proficient: 0
     wis:
-      value: 10
+      value: 15
+      proficient: 1
     cha:
-      value: 10
+      value: 11
+      proficient: 0
   attributes:
     ac:
-      flat: 10
+      flat: 14
       calc: flat
-      formula: ''
+      formula: natural armor
     hp:
-      value: 1
-      max: 1
+      value: 45
+      max: 45
+      formula: 7d8 + 14
       temp: 0
       tempmax: 0
-      formula: ''
     movement:
-      walk: 30
-      burrow: 0
-      climb: 0
+      walk: 40
       fly: 0
       swim: 0
+      climb: 0
+      burrow: 0
       units: ft
       hover: false
+    senses:
+      darkvision: 60
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
   details:
     biography:
       value: >-
@@ -94,15 +464,38 @@ system:
       public: ''
     alignment: Any Non-Good
     cr: 2
+    xp:
+      value: 450
     type:
       value: humanoid
       subtype: ''
+      swarm: ''
       custom: ''
     source:
       book: Kagekuni Campaign
       custom: ''
+  skills:
+    acrobatics:
+      value: 5
+    athletics:
+      value: 4
   traits:
     size: med
+    languages:
+      value: []
+      custom: Common, Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

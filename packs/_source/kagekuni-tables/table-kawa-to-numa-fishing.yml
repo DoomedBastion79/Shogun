@@ -12,7 +12,7 @@ results:
       - 1
     name: Kawa-gani
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: ybxYeEVZDaXnGAd3
     _id: lSMnANa8EoV2GfvE
     description: ''
@@ -28,7 +28,7 @@ results:
       - 2
     name: Ayu
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: dL8DduG2qy50QQPL
     _id: US7EWPEt4YQXzAF7
     description: ''
@@ -44,7 +44,7 @@ results:
       - 3
     name: Funa
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: vBGE9TrA6myMyRFu
     _id: ZXBw8yappr1vTHWk
     description: ''
@@ -60,7 +60,7 @@ results:
       - 4
     name: Kinuo
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: iu6YBa1HRmhpxr1r
     _id: 2X5vcUzoREalJig6
     description: ''
@@ -76,7 +76,7 @@ results:
       - 5
     name: Iwana
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: WoD41HfgkKWFSPy1
     _id: pYcGFAnLOgHazWZc
     description: ''
@@ -92,7 +92,7 @@ results:
       - 6
     name: Unagi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: UQkTVBWRlgqx7K9w
     _id: j0YWdPLqrdTelR38
     description: ''
@@ -108,7 +108,7 @@ results:
       - 7
     name: Kamo
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: KQ85LBp2ZlXo2wuN
     _id: 1RBJyAwkDceCIXsu
     description: ''
@@ -124,7 +124,7 @@ results:
       - 8
     name: Suppon
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: MoIQyOHZisja5hs0
     _id: pzJqsNv4WjstphZv
     description: ''
@@ -140,7 +140,7 @@ results:
       - 9
     name: Kinryūgoi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: 42IYZZ0MRjvIyeLn
     _id: KORUfbbAU6SpEcMw
     description: ''

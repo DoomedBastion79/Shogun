@@ -26,7 +26,7 @@ pages:
     category: null
     flags:
       gatherer:
-        table: Compendium.assistant.kagekuni-tables.RollTable.5Ucjh32hvZ77ZHCw
+        table: Compendium.kagekuni-assistant.kagekuni-tables.RollTable.5Ucjh32hvZ77ZHCw
         time: 10
         draws: 12
         quantity: ''

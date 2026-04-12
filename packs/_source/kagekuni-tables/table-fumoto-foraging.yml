@@ -12,7 +12,7 @@ results:
       - 1
     name: Yamashiso
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: HP047yyjzVBtbb1c
     _id: KThNNLFmUhZOsxMy
     description: ''
@@ -28,7 +28,7 @@ results:
       - 2
     name: Iwa-ninniku
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: THWZ2zri4FRi3uU3
     _id: R8ZUvbhVK5fPXrVi
     description: ''
@@ -44,7 +44,7 @@ results:
       - 3
     name: Kaminari-kusa
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: HuQGrmBtOR2J57Du
     _id: m8EHGbiXgbP97z8U
     description: ''
@@ -60,7 +60,7 @@ results:
       - 4
     name: Sugihiratake
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: zXCsOHRDmVFXMTF6
     _id: wtbWvLFxDdgkMU9f
     description: ''
@@ -76,7 +76,7 @@ results:
       - 5
     name: Kōtetsu-take
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: h96bdJKleUA6BExk
     _id: bw3BaD05IffTVUJe
     description: ''
@@ -92,7 +92,7 @@ results:
       - 6
     name: Wasabi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: 2EPvbWTqwMBfvEwj
     _id: g2N7jPreFOf0201a
     description: ''
@@ -108,7 +108,7 @@ results:
       - 7
     name: Sanshō
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: ZHDGGPJD0pKpO6By
     _id: bgbZ1L8J2bD2qius
     description: ''
@@ -124,7 +124,7 @@ results:
       - 8
     name: Yuzu
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: dqxvv7tr4Cf16Xbe
     _id: zNHc20Xv00eKonzU
     description: ''

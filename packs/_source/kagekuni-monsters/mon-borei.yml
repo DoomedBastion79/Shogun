@@ -15,7 +15,261 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
-items: []
+items:
+  - _id: 6hNtn4NwgTS1vWbB
+    _key: '!actors.items!6hNtn4NwgTS1vWbB'
+    name: Protective Magic
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The borei casts Counterspell or Shield as a reaction.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: oDUB0AevyYPZ4ixq
+    _key: '!actors.items!oDUB0AevyYPZ4ixq'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: The borei makes three Divine Burst attacks.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: vN9p52W74x1MFxyV
+    _key: '!actors.items!vN9p52W74x1MFxyV'
+    name: Divine Burst
+    type: weapon
+    img: icons/weapons/bows/longbow-recurve.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: divine-burst
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialR
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 10
+          bonus: '3'
+          types:
+            - force
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 120
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: dex
+            bonus: '6'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: ranged
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: KeuEpvNZeHl42rrM
+    _key: '!actors.items!KeuEpvNZeHl42rrM'
+    name: Counterspell
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: The borei casts Counterspell (3rd level, Intelligence-based, DC 13).
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: WeMFnXGZVJY8qNIC
+    _key: '!actors.items!WeMFnXGZVJY8qNIC'
+    name: Shield
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 400
+    system:
+      description:
+        value: The borei casts Shield, gaining +5 AC until the start of its next turn.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: wwwWQoQuyXtqmnk3
+    _key: '!actors.items!wwwWQoQuyXtqmnk3'
+    name: Misty Step
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 500
+    system:
+      description:
+        value: The borei casts Misty Step (2/day).
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: bonus
+        cost: 1
+    effects: []
+    flags: {}
 effects: []
 folder: null
 sort: 0
@@ -26,6 +280,7 @@ flags:
     sourcePath: canon/monsters.json
     slug: mon-borei
     category: undead
+    hasStatblock: true
   dnd5e:
     riders:
       activity: []
@@ -33,36 +288,49 @@ flags:
 system:
   abilities:
     str:
-      value: 10
+      value: 9
+      proficient: 0
     dex:
-      value: 10
+      value: 14
+      proficient: 0
     con:
-      value: 10
+      value: 11
+      proficient: 0
     int:
-      value: 10
+      value: 17
+      proficient: 1
     wis:
-      value: 10
+      value: 12
+      proficient: 1
     cha:
-      value: 10
+      value: 11
+      proficient: 0
   attributes:
     ac:
-      flat: 10
+      flat: 12
       calc: flat
-      formula: ''
+      formula: 15 with Mage Armor
     hp:
-      value: 1
-      max: 1
+      value: 81
+      max: 81
+      formula: 18d8
       temp: 0
       tempmax: 0
-      formula: ''
     movement:
       walk: 30
-      burrow: 0
-      climb: 0
       fly: 0
       swim: 0
+      climb: 0
+      burrow: 0
       units: ft
       hover: false
+    senses:
+      darkvision: 0
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
   details:
     biography:
       value: >-
@@ -96,17 +364,40 @@ system:
 
         </section>
       public: ''
-    alignment: Any
+    alignment: Neutral
     cr: 5
+    xp:
+      value: 1800
     type:
       value: humanoid
       subtype: wizard
+      swarm: ''
       custom: ''
     source:
       book: Kagekuni Campaign
       custom: ''
+  skills:
+    arcana:
+      value: 2
+    history:
+      value: 2
   traits:
     size: med
+    languages:
+      value: []
+      custom: Common, Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

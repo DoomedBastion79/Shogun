@@ -12,7 +12,7 @@ results:
       - 1
     name: Yama-usagi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: bsY9KPFDAr2soehZ
     _id: ZjK4MSVoXX05ay2e
     description: ''
@@ -28,7 +28,7 @@ results:
       - 2
     name: Yamadori
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: wk12V9lnFHZUb2lm
     _id: wHp28swArWKYXKXX
     description: ''
@@ -44,7 +44,7 @@ results:
       - 3
     name: Shika
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: 8IVExk159sKcabdY
     _id: LnKgrGhI3N5vUVKj
     description: ''
@@ -60,7 +60,7 @@ results:
       - 4
     name: Inoshishi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: PgQrGPDwz7dToHM6
     _id: OYv24NPKtk5PdyBx
     description: ''
@@ -76,7 +76,7 @@ results:
       - 5
     name: Yuki-kiji
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: jKk2ENgLcvqiA0qj
     _id: 5DOLXVzb9kRmVO5J
     description: ''
@@ -92,7 +92,7 @@ results:
       - 6
     name: Ryūjika
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: SlIoGguWQVfp8kAg
     _id: ZEJAIJp8OPLgjcxP
     description: ''

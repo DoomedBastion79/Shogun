@@ -15,7 +15,223 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
-items: []
+items:
+  - _id: DEcHJWRpYdkCzBJo
+    _key: '!actors.items!DEcHJWRpYdkCzBJo'
+    name: Devil's Sight
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: Magical darkness doesn't impede the kannushi's darkvision.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: Z3qP2Kky4RjrzvqJ
+    _key: '!actors.items!Z3qP2Kky4RjrzvqJ'
+    name: Sei Conduit
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: When the kannushi casts a spell that deals damage, it can change the damage type to necrotic.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: mZhTOqILokNtC7QG
+    _key: '!actors.items!mZhTOqILokNtC7QG'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: The kannushi makes two Shinsei no Dageki attacks.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: q3b8yjTCbHgwyP9C
+    _key: '!actors.items!q3b8yjTCbHgwyP9C'
+    name: Shinsei no Dageki (Divine Strike)
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: shinsei-no-dageki-divine-strike
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '4'
+          types:
+            - necrotic
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '7'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
 effects: []
 folder: null
 sort: 0
@@ -26,6 +242,7 @@ flags:
     sourcePath: canon/monsters.json
     slug: mon-nagaji-kannushi
     category: nagaji
+    hasStatblock: true
   dnd5e:
     riders:
       activity: []
@@ -33,36 +250,49 @@ flags:
 system:
   abilities:
     str:
-      value: 10
+      value: 12
+      proficient: 0
     dex:
       value: 10
+      proficient: 0
     con:
-      value: 10
+      value: 14
+      proficient: 0
     int:
-      value: 10
+      value: 13
+      proficient: 0
     wis:
-      value: 10
+      value: 18
+      proficient: 1
     cha:
-      value: 10
+      value: 14
+      proficient: 1
   attributes:
     ac:
-      flat: 10
+      flat: 14
       calc: flat
-      formula: ''
+      formula: scale mail
     hp:
-      value: 1
-      max: 1
+      value: 91
+      max: 91
+      formula: 14d8 + 28
       temp: 0
       tempmax: 0
-      formula: ''
     movement:
       walk: 30
-      burrow: 0
-      climb: 0
       fly: 0
       swim: 0
+      climb: 0
+      burrow: 0
       units: ft
       hover: false
+    senses:
+      darkvision: 120
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
   details:
     biography:
       value: >-
@@ -96,15 +326,41 @@ system:
       public: ''
     alignment: Any Non-Good
     cr: 5
+    xp:
+      value: 1800
     type:
       value: humanoid
       subtype: ''
+      swarm: ''
       custom: ''
     source:
       book: Kagekuni Campaign
       custom: ''
+  skills:
+    religion:
+      value: 4
+    insight:
+      value: 7
+    perception:
+      value: 7
   traits:
     size: med
+    languages:
+      value: []
+      custom: Common, Draconic, Abyssal
+    dr:
+      value:
+        - necrotic
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.0

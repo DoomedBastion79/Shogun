@@ -12,7 +12,7 @@ results:
       - 1
     name: Yamashiso
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: HP047yyjzVBtbb1c
     _id: Sjx4a5OQCFfj1PZ0
     description: ''
@@ -28,7 +28,7 @@ results:
       - 2
     name: Nobiru
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: ygrqyaJlsmZjsk7H
     _id: jvAb7U0NBCTKCkOT
     description: ''
@@ -44,7 +44,7 @@ results:
       - 3
     name: Yomogi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: nfgQnVvUNeYJ88QX
     _id: MZEp21lrM4y1cFgI
     description: ''
@@ -60,7 +60,7 @@ results:
       - 4
     name: Warabi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: lLHrmxWyfRTPGTGi
     _id: MSOtFlN15hhG58kC
     description: ''
@@ -76,7 +76,7 @@ results:
       - 5
     name: Mitsuba
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: Jwyq8I4iXHDbgm9A
     _id: 50bnrBp7Iz6Pmn0b
     description: ''
@@ -92,7 +92,7 @@ results:
       - 6
     name: Takenoko
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: II7QPTlE4hwVvLW7
     _id: VdwULF0IJKSIBATT
     description: ''
@@ -108,7 +108,7 @@ results:
       - 7
     name: Shungiku
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: bEYjIy4DI1D43ZQT
     _id: BpDBNdf1DI4dYJGb
     description: ''
@@ -124,7 +124,7 @@ results:
       - 8
     name: Karashi-na
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: fvwQh2gKpwm2PdtI
     _id: 0wiGRoP9uk7hcSVN
     description: ''
@@ -140,7 +140,7 @@ results:
       - 9
     name: Tsuchi-shōga
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: 5MbG84cRloEd3DIu
     _id: umxdA1wMEvYBOA0D
     description: ''
@@ -156,7 +156,7 @@ results:
       - 10
     name: Shiitake
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: i0AYdmUbl1UlVIyb
     _id: b3MmLf0nEh0mhsSA
     description: ''
@@ -172,7 +172,7 @@ results:
       - 11
     name: Shimeji
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: JzcxBhhLJrkUNqLF
     _id: kRak29QjqsutO6Gb
     description: ''
@@ -188,7 +188,7 @@ results:
       - 12
     name: Hiratake
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: HwbaI3Auo0boCh4d
     _id: AkzboerdKNFvnk96
     description: ''
@@ -204,7 +204,7 @@ results:
       - 13
     name: Matsutake
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: C5DuSoRZyZinKdiU
     _id: aqHkK2eaymJqowZ9
     description: ''
@@ -220,7 +220,7 @@ results:
       - 14
     name: Eringi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: wr78311ZTNWo8Mko
     _id: BK4E58Kj1V7Ily0z
     description: ''
@@ -236,7 +236,7 @@ results:
       - 15
     name: Maitake
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: HkFkO2a1cA6bd4UN
     _id: dJLWrGXvqrJOQAxV
     description: ''
@@ -252,7 +252,7 @@ results:
       - 16
     name: Tanuki-take
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: vtlNy4kD5D9ms0bv
     _id: 0MTqLuMypOQQSiJc
     description: ''
@@ -268,7 +268,7 @@ results:
       - 17
     name: Sanshō
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: ZHDGGPJD0pKpO6By
     _id: lzvX4K7fBqysSvrF
     description: ''
@@ -284,7 +284,7 @@ results:
       - 18
     name: Myōga
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: XlbnNXP5Potw0F0h
     _id: 6pFFhaHcnTZtUBfL
     description: ''
@@ -300,7 +300,7 @@ results:
       - 19
     name: Goma
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: m9xyoLGEyV5vtU1Y
     _id: L6ZCadMbC7vdrt4S
     description: ''
@@ -316,7 +316,7 @@ results:
       - 20
     name: Yuzu
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: dqxvv7tr4Cf16Xbe
     _id: syZ5O3Yu8QcduLhk
     description: ''
@@ -332,7 +332,7 @@ results:
       - 21
     name: Shiso-mi
     img: systems/dnd5e/icons/svg/items/loot.svg
-    documentCollection: assistant.kagekuni-items
+    documentCollection: kagekuni-assistant.kagekuni-items
     documentId: ZHy0TRpCgEBkEqQM
     _id: QhhKcOShcPJxJGxA
     description: ''
