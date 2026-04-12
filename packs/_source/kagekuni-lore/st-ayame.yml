@@ -15,9 +15,10 @@ pages:
       content: >
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} occupies the valley at the
         base of the Tenchusan Ren pass -- the primary land route between
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}&#39;s southern lowlands and the
-        northern provinces. Everything that travels overland between these regions passes through Ayame. This geographic
-        chokepoint function defines the town&#39;s character: it is less a community than a transit organism.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}&#39;s
+        southern lowlands and the northern provinces. Everything that travels overland between these regions passes
+        through Ayame. This geographic chokepoint function defines the town&#39;s character: it is less a community than
+        a transit organism.</p>
 
         <p>The town is organized around the pass road. The main thoroughfare runs straight through parallel to the
         Kinryugawa, broadening into a market square at the center. Secondary streets branch off at intervals --

@@ -24,10 +24,10 @@ pages:
         Yama is visible on clear days forty miles to the north and northwest.</p>
 
         <p>The Emperor&#39;s Highway extends from Heian in three directions -- north through Tenchusan Ren toward
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}, east along the coast, and west by
-        ferry connection to Sakurano and the interior. With no emperor, the city is a center without a purpose -- the
-        streets are still busy, the markets still active, but there is a quality to civic life: the posture of a city
-        holding itself together while waiting for resolution.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze},
+        east along the coast, and west by ferry connection to Sakurano and the interior. With no emperor, the city is a
+        center without a purpose -- the streets are still busy, the markets still active, but there is a quality to
+        civic life: the posture of a city holding itself together while waiting for resolution.</p>
       markdown: ''
     video:
       controls: true
@@ -54,8 +54,8 @@ pages:
 
         Libraries, academies, schools, and scholarly institutions. Low, wide buildings with sliding walls. The central
         library holds the largest collection in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}. Seimasters and scholars from
-        across the archipelago spend time here.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}.
+        Seimasters and scholars from across the archipelago spend time here.</p>
 
         <p><strong>Hinode-ku -- Eastern Residential Ward</strong>
 
@@ -72,8 +72,8 @@ pages:
         Temples, shrines, and spiritual institutions. Torii gates multiply inward from the boundary. A shrine to each of
         the seven dragon clans exists here.</p>
 
-        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}-sho -- Wind
-        District</strong>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}-sho
+        -- Wind District</strong>
 
         Open spaces, windmills, farming plots within the city boundary. The windmills power grain milling and workshop
         machinery.</p>
@@ -92,8 +92,8 @@ pages:
 
         The forge district. Smiths, armorers, weapons specialists. Runs hot year-round. Home to Taro&#39;s Forge.</p>
 
-        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}-gai -- Riverside
-        Ward</strong>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}-gai
+        -- Riverside Ward</strong>
 
         Along the water&#39;s edge. Water gardens, seafood restaurants, fish markets, fishing family residences. The
         morning catch market is a @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}

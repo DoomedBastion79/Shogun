@@ -105,16 +105,16 @@ pages:
 
         <li><strong>This temple</strong>: operational (steady gold pulse)</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province
-        site</strong>: acknowledged — a distress signal was received and answered, but help never came (slow
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        province site</strong>: acknowledged — a distress signal was received and answered, but help never came (slow
         double-beat)</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province
-        site</strong>: distress, unacknowledged — the signal has been running into silence since the fall of 13088
-        (rapid pulse)</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province site</strong>: distress, unacknowledged — the signal has been running into silence since the fall of
+        13088 (rapid pulse)</li>
 
-        <li><strong>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} border
-        site</strong>: offline — severed, not dormant (cold fabric, no signal)</li>
+        <li><strong>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        border site</strong>: offline — severed, not dormant (cold fabric, no signal)</li>
 
         </ul>
 
@@ -204,13 +204,15 @@ pages:
 
         <li>Any entity sensitive to the network (including the awakened Murasakiryū) may notice the signal change</li>
 
-        <li>The @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} site&#39;s distress signal
-        has been broadcasting into silence — restoring the hub makes the signal receivable, and the party can
-        acknowledge it</li>
+        <li>The
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        site&#39;s distress signal has been broadcasting into silence — restoring the hub makes the signal receivable,
+        and the party can acknowledge it</li>
 
-        <li>The Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} site&#39;s
-        offline/severed state suggests something happened there recently (the fabric retains residual warmth — days or
-        weeks, not centuries)</li>
+        <li>The
+        Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        site&#39;s offline/severed state suggests something happened there recently (the fabric retains residual warmth
+        — days or weeks, not centuries)</li>
 
         </ul>
 
@@ -274,7 +276,8 @@ pages:
         <li><strong>Future quest — Kaze sanctuary</strong>: The distress signal. The site in the Kaze highlands the
         party is already traveling toward for the Gekkō investigation. Two quests converge on one location.</li>
 
-        <li><strong>Future quest — @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora}
+        <li><strong>Future quest —
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
         sanctuary</strong>: The acknowledged signal. A promise made and not kept. Stone 3 of Relc&#39;s cipher is on the
         Hoshimori Plateau in Sora.</li>
 
@@ -327,9 +330,10 @@ pages:
 
         <p>Clan Gekko — one of Hokori&#39;s three politically independent clans and historically a stabilizing force in
         Kagekuni&#39;s balance of power — has gone silent. No communication. No trade. No diplomatic contact. Provincial
-        administration in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} has stopped
-        responding. The clan&#39;s last confirmed external communication was several months ago and contained nothing
-        unusual.</p>
+        administration in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        has stopped responding. The clan&#39;s last confirmed external communication was several months ago and
+        contained nothing unusual.</p>
 
         <p>In the current political environment — no emperor, no shogun, two major alliances in open conflict — an
         independent clan going silent is not merely a diplomatic problem. It is a potential flashpoint. If Clan Gekko
@@ -372,8 +376,9 @@ pages:
         multiple times in the Tenchusan Ren mountains. These creatures have been responsible for triggering the
         avalanche that endangered the party, operating what appeared to be an outpost in the mountain ruins, and
         guarding the approach to the gold doors. Their presence in the mountain pass between
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and Kaze province is not
-        coincidental. Their connection to the Clan Gekko investigation is not yet known to the party.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        and Kaze province is not coincidental. Their connection to the Clan Gekko investigation is not yet known to the
+        party.</p>
 
         <p><strong>The Gold Doors</strong> — The party stands at the entrance to what appears to be the Lost Temple of
         Kinryu. This location is within the Tenchusan Ren, at the boundary of Hana and Kaze provinces. Whatever lies
@@ -626,10 +631,10 @@ pages:
         are set aside.</p>
 
         <p>Ko&#39;jiri reported to Taisho Nakamura. The assignment: travel to the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} region and determine what has
-        happened to Daimyo Masota no Gekko of Clan Gekko. An independent clan&#39;s leadership has gone silent. The
-        political implications of that silence are significant. The party is the official — if unofficial —
-        investigative body.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        region and determine what has happened to Daimyo Masota no Gekko of Clan Gekko. An independent clan&#39;s
+        leadership has gone silent. The political implications of that silence are significant. The party is the
+        official — if unofficial — investigative body.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
 
@@ -675,8 +680,9 @@ pages:
 
         <p><strong>The Party&#39;s Current Position</strong> — The party is at the gold doors in Tenchusan Ren. The
         mountains form the boundary between
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and Kaze province. Completing the
-        temple may bring them out on the Kaze side — or provide information that directly advances this quest.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        and Kaze province. Completing the temple may bring them out on the Kaze side — or provide information that
+        directly advances this quest.</p>
 
         <p><strong>Known Complications</strong>:</p>
 
@@ -703,8 +709,8 @@ pages:
 
         <p>The Nagaji — the transformed Clan Gekko members the party has been fighting — are the answer to the
         assignment. Masota no Gekko is alive, transformed, somewhere in the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} highlands. The full truth is
-        available at the Monastery of the Black Lily above
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        highlands. The full truth is available at the Monastery of the Black Lily above
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}. The quest&#39;s nominal
         completion (report back what happened to the daimyo) is achievable. The deeper question — what do they do about
         it — is where the quest becomes something larger.</p>
@@ -948,8 +954,8 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</li>
 
         <li><strong>Forest of Spirits faction
-        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} province)</strong> — Know what
-        Stone 2 is, and accessing it will require a relationship with the faction.</li>
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
+        province)</strong> — Know what Stone 2 is, and accessing it will require a relationship with the faction.</li>
 
         </ul>
 
@@ -1000,10 +1006,11 @@ pages:
 
         <li>Complete the three-stone sequence: Stone 1
         (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}, Elder Sato), Stone 2 (Yousei
-        Mori, Forest of Spirits, @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}
+        Mori, Forest of Spirits,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
         province), Stone 3 (Hoshimori Plateau,
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province — near abandoned Golden
-        Age observatories, watched by something)</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        province — near abandoned Golden Age observatories, watched by something)</li>
 
         <li>Access the Warden&#39;s Wisdom — the dragon sanctuary locations</li>
 
@@ -1113,7 +1120,8 @@ pages:
         decision making when the party found her.</p>
 
         <p><strong>Sunsato</strong> — A settlement on the north side of the Tenchusan Ren, described as being near
-        Relc&#39;s home region of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}
+        Relc&#39;s home region of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
         province. The party offered this as a destination and it was accepted.</p>
 
         <p><strong>Current Status</strong> — The party entered the Tenchusan Ren mountain pass. Mai is currently
@@ -1129,10 +1137,11 @@ pages:
         <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
 
         <p>Mai is not simply a woman in difficult circumstances. She is the estranged daughter-in-law of a minor
-        merchant family in the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region —
-        estranged because she took the infant and left after becoming aware that her husband&#39;s family was involved
-        in illegal activity (specifically: participation in unlicensed Bronze Wood poaching, connected tangentially to
-        the merchant guild operating out of
+        merchant family in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        region — estranged because she took the infant and left after becoming aware that her husband&#39;s family was
+        involved in illegal activity (specifically: participation in unlicensed Bronze Wood poaching, connected
+        tangentially to the merchant guild operating out of
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}). She did not report this and has
         no intention of reporting it; she simply wants to disappear with her child.</p>
 
@@ -1196,7 +1205,8 @@ pages:
 
         <li><strong>Safe delivery to Sunsato</strong> closes this quest. Optional extension: the party introduces Mai to
         Elder Sato&#39;s community network, which earns them a favor with Sato and plants a contact in the north
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} foothills region.</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        foothills region.</li>
 
         <li><strong>If the quest is abandoned</strong> — Mai will eventually find her way there through other means. She
         is more capable than she appeared in crisis. She will survive. But she will remember whether the party kept
@@ -1332,8 +1342,11 @@ pages:
 
         <p><strong>Geographic candidates</strong>: The letter&#39;s language and style suggest origin in the central or
         northern Hokori region. The Tenchusan Ren and surrounding foothills contain all the described terrain types, but
-        so does the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province interior and
-        the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} lowland forests.</p>
+        so does the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province interior and the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
+        lowland forests.</p>
 
         <p><strong>The unknown language</strong>: What language was the letter written in? Identifying the script would
         narrow down who wrote it and potentially where the described location lies.</p>

@@ -239,9 +239,10 @@ pages:
         the same ultimate source.</p>
 
         <p>This structure allows for enormous local variation. A fishing village on the coast of
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} may venerate a storm-calming saint
-        unknown in the interior of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}. A
-        mountain monastery may honour a philosopher whose name has never been spoken in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.ijGHvVOlw9tFpBo8]{Nami}
+        may venerate a storm-calming saint unknown in the interior of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}.
+        A mountain monastery may honour a philosopher whose name has never been spoken in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The faith accommodates these
         differences without strain — local devotion and universal truth coexist.</p>
       markdown: ''
@@ -315,7 +316,7 @@ pages:
 
         <p>Every household of any standing maintains a <strong>butsudan</strong> — a family shrine where the names,
         images, and memorial tablets of the dead are kept. Daily offerings of rice, incense, water, and sometimes
-        @UUID[Compendium.kagekuni-assistant.items.Item.1PqdGF09UULiIMWB]{sake} are made to the ancestors, accompanied by
+        @UUID[Compendium.kagekuni-assistant.items.Item.aWfQyc0LZGZ3GPk6]{sake} are made to the ancestors, accompanied by
         prayers that range from formal invocations to quiet conversation. A samurai may inform his grandfather&#39;s
         tablet of a promotion. A merchant may ask a deceased parent&#39;s forgiveness for a poor decision. A child may
         simply say good morning.</p>
@@ -629,9 +630,9 @@ pages:
 
         <p>The <strong>Order of the Black Lily</strong>, based above
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province, is less a spiritual
-        order than a professional one — Kagekuni&#39;s premier infiltration specialists, operating from a monastery that
-        serves as both temple and training facility.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province, is less a spiritual order than a professional one — Kagekuni&#39;s premier infiltration specialists,
+        operating from a monastery that serves as both temple and training facility.</p>
 
         <p>The tension between worldly duty and spiritual withdrawal runs through all of these traditions. A monk who
         retreats from the world still lives in it. A monastery that claims neutrality still sits on land that someone

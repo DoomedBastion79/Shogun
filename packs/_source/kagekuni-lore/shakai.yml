@@ -544,11 +544,12 @@ pages:
 
         <td><strong>Genso</strong></td>
 
-        <td>Fuyugiri, Homoruyama, Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze},
+        <td>Fuyugiri, Homoruyama,
+        Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{kaze},
         Tsuchiura</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa},
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa},
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}</td>
 
         <td>At war</td>
 
@@ -560,8 +561,8 @@ pages:
 
         <td>Arashiyama, Hoshizora, Shirotsuru, Yūgure</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu},
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu},
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.ijGHvVOlw9tFpBo8]{Nami}</td>
 
         <td>At war</td>
 
@@ -573,7 +574,8 @@ pages:
 
         <td>Kaminari, Kurohana, Gekkō</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}, and others</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana},
+        and others</td>
 
         <td>Neutral — for now</td>
 
@@ -621,8 +623,8 @@ pages:
         no Kazuhiko} — <em lang="ja-Latn">The Storm-lord</em>
 
         <strong>Race:</strong> Human | <strong>Age:</strong> 47 | <strong>Province:</strong>
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} | <strong>Capital:</strong>
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        | <strong>Capital:</strong> @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</p>
 
         <p>Kazuhiko was not born into Clan Kaminari. He rose through martial prowess alone — a fact that earns him both
         grudging respect and quiet resentment among those who believe blood should determine rank. His hair is black
@@ -759,8 +761,8 @@ pages:
         <p><strong>Daimyō:</strong> Masota no Gekkō
 
         <strong>Race:</strong> Unknown | <strong>Age:</strong> Unknown | <strong>Province:</strong>
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} | <strong>Capital:</strong>
-        Tsukikage</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        | <strong>Capital:</strong> Tsukikage</p>
 
         <p>Daimyō Masota no Gekkō has not been seen publicly in some time. His clan&#39;s silence has drawn attention
         from both alliances and from the other independents. Trade through Kaze province has slowed. The provincial
@@ -825,11 +827,12 @@ pages:
       format: 1
       content: >
         <p>The Genso Alliance governs the provinces of
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}</strong> and
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}</strong> through four
-        member clans: <strong>Fuyugiri</strong>, <strong>Homoruyama</strong>,
-        <strong>Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}</strong>, and
-        <strong>Tsuchiura</strong>. Their strength lies in the agricultural heartland of Kusa — the most productive
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}</strong>
+        and
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}</strong>
+        through four member clans: <strong>Fuyugiri</strong>, <strong>Homoruyama</strong>,
+        <strong>Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{kaze}</strong>,
+        and <strong>Tsuchiura</strong>. Their strength lies in the agricultural heartland of Kusa — the most productive
         farmland on Hokori — and the mineral wealth of Tsuchi&#39;s mountains. The alliance&#39;s strategic depth means
         it can absorb territorial losses that would cripple a coastal faction.</p>
 
@@ -858,12 +861,13 @@ pages:
       format: 1
       content: >+
         <p>The Arashi Alliance controls
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}</strong> and
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}</strong> through four
-        member clans: <strong>Arashiyama</strong>, <strong>Hoshizora</strong>, <strong>Shirotsuru</strong>, and
-        <strong>Yūgure</strong>. Their power is naval. The two great ports of Hokori — <strong>Minato-jō</strong> in the
-        northwest and <strong>Namigashira</strong> in the northeast — both sit within Arashi territory. What moves by
-        sea moves through them.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}</strong>
+        and
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.ijGHvVOlw9tFpBo8]{Nami}</strong>
+        through four member clans: <strong>Arashiyama</strong>, <strong>Hoshizora</strong>, <strong>Shirotsuru</strong>,
+        and <strong>Yūgure</strong>. Their power is naval. The two great ports of Hokori — <strong>Minato-jō</strong> in
+        the northwest and <strong>Namigashira</strong> in the northeast — both sit within Arashi territory. What moves
+        by sea moves through them.</p>
 
         <p><strong>Clan Shirotsuru</strong> extends the Arashi Alliance&#39;s reach to Tatara, governing the
         <strong>Shugyoku</strong> region — the ancestral homeland of the Glimfyr.</p>
@@ -943,7 +947,8 @@ pages:
 
         <p>He also possesses ancient knowledge about the <strong>Seidōrin Mori</strong> (Bronze Wood Forest) and the
         nature of its metallic trees — knowledge that connects to deeper secrets about what lies beneath
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} province.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        province.</p>
 
 
         </section>
@@ -1046,7 +1051,8 @@ pages:
         somewhat irregular transfer of authority that suggests Solas anticipated his own death.
         <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato}</strong>, an
         elder of the order, resides in Kōriwara village in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        province.</p>
 
         <section class="secret kg-secret-sealed">
 
@@ -1092,9 +1098,9 @@ pages:
       content: >+
         <p>Kagekuni&#39;s premier infiltration specialists, based at the <strong>Monastery of the Black Lily</strong>
         above @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province. The monastery is a
-        secret training facility — austere dark stone construction, hidden from casual observation. The villagers of
-        Akatsuki know the order exists and tell outsiders nothing.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province. The monastery is a secret training facility — austere dark stone construction, hidden from casual
+        observation. The villagers of Akatsuki know the order exists and tell outsiders nothing.</p>
 
         <section class="secret kg-secret-sealed">
 
@@ -1255,8 +1261,9 @@ pages:
 
         <p>The <strong>Raimeiin</strong> (雷鳴院 — Institute of Thunder) and the tradition associated with the
         <strong>Forest of Spirits</strong> (Yōsei Mori) in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} were both revealed publicly during
-        the Plague Campaign of 16609–16616. Their methods and internal workings are not widely known.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
+        were both revealed publicly during the Plague Campaign of 16609–16616. Their methods and internal workings are
+        not widely known.</p>
 
         <section class="secret kg-secret-sealed">
 
@@ -1593,7 +1600,8 @@ pages:
 
         <li>Full truth to be revealed at Monastery of the Black Lily in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki},
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province</li>
 
         <li>The Nagaji the party has been encountering ARE Clan Gekkō members</li>
 

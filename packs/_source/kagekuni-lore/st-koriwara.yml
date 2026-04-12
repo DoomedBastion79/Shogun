@@ -14,10 +14,11 @@ pages:
       format: 1
       content: >
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} sits in the foothills where
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province&#39;s maritime lowlands
-        begin to rise toward Hokori&#39;s interior ranges. It is unremarkable by any visible standard -- small-scale
-        farming and herding, modest architecture, a self-contained community with little need for outside contact. A
-        traveler passing through would find nothing to distinguish it from dozens of similar villages.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        province&#39;s maritime lowlands begin to rise toward Hokori&#39;s interior ranges. It is unremarkable by any
+        visible standard -- small-scale farming and herding, modest architecture, a self-contained community with little
+        need for outside contact. A traveler passing through would find nothing to distinguish it from dozens of similar
+        villages.</p>
 
         <p>What distinguishes it cannot be seen from the road: the presence of Elder Sato Hideaki, whose decades of
         accumulated knowledge, his connection to the Order of the Sacred Grove, and his quiet role as a node in networks

@@ -470,13 +470,14 @@ pages:
         hunted. Many formed underground communities for survival.</p>
 
         <p>Notable Talents of this era included <strong>Mizuki no
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}</strong> of Clan Gekkō, who
-        manifested shadow magic, and <strong>Fujimoto no Aiko</strong> of Clan
-        Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}, who could manipulate wind. The
-        <strong>Seishin Enclave</strong> was founded on the island of Unmeijima as a place of study and refuge for
-        Talents — it eventually grew into the city of <strong>Seishin</strong>, the premier magical research institution
-        in Kagekuni. <strong>Hikari no Shizuku</strong>, a healing and light magic tradition, established itself within
-        the imperial capital of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}</strong>
+        of Clan Gekkō, who manifested shadow magic, and <strong>Fujimoto no Aiko</strong> of Clan
+        Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{kaze},
+        who could manipulate wind. The <strong>Seishin Enclave</strong> was founded on the island of Unmeijima as a
+        place of study and refuge for Talents — it eventually grew into the city of <strong>Seishin</strong>, the
+        premier magical research institution in Kagekuni. <strong>Hikari no Shizuku</strong>, a healing and light magic
+        tradition, established itself within the imperial capital of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</p>
       markdown: ''
     video:
       controls: true
@@ -504,7 +505,8 @@ pages:
 
         <p>The <strong>Hōjō Clan</strong> tore itself apart in civil war, and the survivors merged with the
         <strong>Minamoto Clan</strong> to form <strong>Clan Kaminari</strong> — named in honour of Raijin, the spirit of
-        thunder. <strong>Clan Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}</strong>
+        thunder. <strong>Clan
+        Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{kaze}</strong>
         absorbed smaller clans and became dominant in the northwest. The <strong>Yamamoto Clan</strong> splintered. The
         <strong>Ishikawa Clan</strong> dissolved entirely, and from its remnants the mercenary <strong>Clan
         Tetsujin</strong> emerged.</p>
@@ -940,9 +942,10 @@ pages:
         <li>Talents persecuted; formed underground communities</li>
 
         <li>Notable Talents: <strong>Mizuki no
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}</strong> (Gekkō Clan; shadow
-        magic), <strong>Fujimoto no Aiko</strong>
-        (Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze} Clan; wind manipulation)</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}</strong>
+        (Gekkō Clan; shadow magic), <strong>Fujimoto no Aiko</strong>
+        (Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{kaze}
+        Clan; wind manipulation)</li>
 
         <li><strong>Seishin Enclave</strong> founded on Unmeijima; grew into city of Seishin</li>
 

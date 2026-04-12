@@ -98,8 +98,8 @@ pages:
         <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
         Masahiro}</strong> — Official report noted the party by description (not by name at that point) and flagged them
         as &quot;travelers of apparent good character and law-abiding intent operating in the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} northern highway corridor.&quot;
-        This report is in the Teikoku Keisatsu&#39;s
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        northern highway corridor.&quot; This report is in the Teikoku Keisatsu&#39;s
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} file.</li>
 
         </ul>
@@ -148,7 +148,8 @@ pages:
         <li><strong>Chief Inspector @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
         Masahiro}</strong> — confirmed ally; his positive assessment of the party has practical value in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the broader
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        region</li>
 
         <li><strong>The enterprising thief</strong> — a loose thread who is gathering information about the party; could
         be a minor complication or a contact depending on future developments</li>
