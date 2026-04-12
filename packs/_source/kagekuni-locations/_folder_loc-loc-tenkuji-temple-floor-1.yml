@@ -1,0 +1,11 @@
+_id: m8831v9otVXLY6oI
+_key: '!folders!m8831v9otVXLY6oI'
+name: Floor 1
+type: JournalEntry
+folder: JdcKWe2FkakIv7vC
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: locations/gm-lore/loc-tenkuji-temple/floor-1
