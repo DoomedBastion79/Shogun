@@ -13,11 +13,11 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.7Th9c00d5oE1qbfi]{Nishihara} sits in the rolling hills west of
-        the Kinryugawa, in the gentle agricultural country between
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} and the Tenchusan Ren foothills. It is a
-        village that exists primarily to serve the farmers and herders of the surrounding area -- a focal point for
-        exchange, news, and social connection in a landscape of dispersed homesteads.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.7Th9c00d5oE1qbfi]{Nishihara} sits in the rolling hills
+        west of the Kinryugawa, in the gentle agricultural country between
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} and the Tenchusan Ren foothills.
+        It is a village that exists primarily to serve the farmers and herders of the surrounding area -- a focal point
+        for exchange, news, and social connection in a landscape of dispersed homesteads.</p>
 
         <p>The weekly market is Nishihara&#39;s defining feature. It draws traders from a surprising radius -- merchants
         from Heian, specialty vendors from neighboring villages, and itinerant traders whose routes include Nishihara.

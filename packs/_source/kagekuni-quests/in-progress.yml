@@ -105,14 +105,16 @@ pages:
 
         <li><strong>This temple</strong>: operational (steady gold pulse)</li>
 
-        <li><strong>@UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province site</strong>:
-        acknowledged — a distress signal was received and answered, but help never came (slow double-beat)</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province
+        site</strong>: acknowledged — a distress signal was received and answered, but help never came (slow
+        double-beat)</li>
 
-        <li><strong>@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province site</strong>:
-        distress, unacknowledged — the signal has been running into silence since the fall of 13088 (rapid pulse)</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province
+        site</strong>: distress, unacknowledged — the signal has been running into silence since the fall of 13088
+        (rapid pulse)</li>
 
-        <li><strong>Hi/@UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} border site</strong>:
-        offline — severed, not dormant (cold fabric, no signal)</li>
+        <li><strong>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} border
+        site</strong>: offline — severed, not dormant (cold fabric, no signal)</li>
 
         </ul>
 
@@ -148,9 +150,9 @@ pages:
         <li><strong>Ko&#39;jiri</strong>: His Golden Dragon Clan research gives him advantage throughout — the orrery
         validates everything he has studied. The operator&#39;s manual is readable at reduced DC for him.</li>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> (traveling, not
-        present): Would recognize the sanctuary network as connected to the Ancient Guard&#39;s mission. The sites
-        marked on Tapestry III overlap with the locations the Warden&#39;s Wisdom points toward.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong>
+        (traveling, not present): Would recognize the sanctuary network as connected to the Ancient Guard&#39;s mission.
+        The sites marked on Tapestry III overlap with the locations the Warden&#39;s Wisdom points toward.</li>
 
         </ul>
 
@@ -202,12 +204,13 @@ pages:
 
         <li>Any entity sensitive to the network (including the awakened Murasakiryū) may notice the signal change</li>
 
-        <li>The @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} site&#39;s distress signal has been
-        broadcasting into silence — restoring the hub makes the signal receivable, and the party can acknowledge it</li>
+        <li>The @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} site&#39;s distress signal
+        has been broadcasting into silence — restoring the hub makes the signal receivable, and the party can
+        acknowledge it</li>
 
-        <li>The Hi/@UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} site&#39;s offline/severed
-        state suggests something happened there recently (the fabric retains residual warmth — days or weeks, not
-        centuries)</li>
+        <li>The Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} site&#39;s
+        offline/severed state suggests something happened there recently (the fabric retains residual warmth — days or
+        weeks, not centuries)</li>
 
         </ul>
 
@@ -271,7 +274,7 @@ pages:
         <li><strong>Future quest — Kaze sanctuary</strong>: The distress signal. The site in the Kaze highlands the
         party is already traveling toward for the Gekkō investigation. Two quests converge on one location.</li>
 
-        <li><strong>Future quest — @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora}
+        <li><strong>Future quest — @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora}
         sanctuary</strong>: The acknowledged signal. A promise made and not kept. Stone 3 of Relc&#39;s cipher is on the
         Hoshimori Plateau in Sora.</li>
 
@@ -324,8 +327,9 @@ pages:
 
         <p>Clan Gekko — one of Hokori&#39;s three politically independent clans and historically a stabilizing force in
         Kagekuni&#39;s balance of power — has gone silent. No communication. No trade. No diplomatic contact. Provincial
-        administration in @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} has stopped responding.
-        The clan&#39;s last confirmed external communication was several months ago and contained nothing unusual.</p>
+        administration in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} has stopped
+        responding. The clan&#39;s last confirmed external communication was several months ago and contained nothing
+        unusual.</p>
 
         <p>In the current political environment — no emperor, no shogun, two major alliances in open conflict — an
         independent clan going silent is not merely a diplomatic problem. It is a potential flashpoint. If Clan Gekko
@@ -333,11 +337,11 @@ pages:
         outward. If they are being suppressed by an outside force, that force has made a significant move that demands
         response.</p>
 
-        <p>Taisho @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} of Clan
+        <p>Taisho @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} of Clan
         Kaminari&#39;s Special Operations division assigned the party to investigate — using Ko&#39;jiri&#39;s
         conditional pardon as the formal mechanism, with the party as the operational unit. The Imperial Seal issued by
-        Daimyo @UUID[Compendium.assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana} provides diplomatic
-        weight: it calls on all factions to cooperate with the investigation as a matter of archipelago-wide
+        Daimyo @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana} provides
+        diplomatic weight: it calls on all factions to cooperate with the investigation as a matter of archipelago-wide
         concern.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
@@ -347,7 +351,7 @@ pages:
         <li class="kg-task" data-done="false">Determine what has happened to Daimyo Masota no Gekko and Clan Gekko<ul>
 
         <li class="kg-task" data-done="false">Travel to Kaze Province and
-        @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</li>
 
         <li class="kg-task" data-done="false">Investigate the Monastery of the Black Lily and the Order of the Black
         Lily</li>
@@ -368,8 +372,8 @@ pages:
         multiple times in the Tenchusan Ren mountains. These creatures have been responsible for triggering the
         avalanche that endangered the party, operating what appeared to be an outpost in the mountain ruins, and
         guarding the approach to the gold doors. Their presence in the mountain pass between
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and Kaze province is not coincidental.
-        Their connection to the Clan Gekko investigation is not yet known to the party.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and Kaze province is not
+        coincidental. Their connection to the Clan Gekko investigation is not yet known to the party.</p>
 
         <p><strong>The Gold Doors</strong> — The party stands at the entrance to what appears to be the Lost Temple of
         Kinryu. This location is within the Tenchusan Ren, at the boundary of Hana and Kaze provinces. Whatever lies
@@ -472,15 +476,15 @@ pages:
         <ul>
 
         <li><strong>Order of the Black Lily</strong> — Knows the full truth about Gekko. Their stance when the party
-        arrives at @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} depends on how long they
-        have known, whether they tried to stop it, and whether they are protecting, containing, or observing the
+        arrives at @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} depends on how long
+        they have known, whether they tried to stop it, and whether they are protecting, containing, or observing the
         transformed members.</li>
 
         <li><strong>Masota no Gekko</strong> — Alive, transformed, retains fragmented awareness. He recognizes his
         mistake. Coherence degrades over time — the longer the party takes to reach him, the less of Masota is left to
         reach.</li>
 
-        <li><strong>The @UUID[Compendium.assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} in Tenkuji
+        <li><strong>The @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} in Tenkuji
         Temple</strong> — The chief seimaster of Clan Gekko, architect of the failed ritual. Fragments of the original
         person remain. Can potentially communicate if the party uses magic or patience.</li>
 
@@ -540,8 +544,8 @@ pages:
         </ol>
 
         <p>The quest formally closes when a report reaches
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. What happens after depends
-        on what that report says.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. What happens after
+        depends on what that report says.</p>
 
         <h3 id="kg-timing" data-section="timing">Timing</h3>
 
@@ -608,24 +612,24 @@ pages:
         <h3 id="kg-background" data-section="background">Background</h3>
 
         <p>Ko&#39;jiri&#39;s entrepreneurial approach to the provision of wisdom and guidance in the city of
-        @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} attracted the attention of local
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} attracted the attention of local
         authorities in a manner inconsistent with continued free operation. Specifically: a formal writ was served
         outlining offenses committed within Kikyo — fraud, unlawful coin gathering, false prophecies, and
         exploitation.</p>
 
         <p>Rather than simple prosecution, Shicho
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} identified an opportunity.
-        Ko&#39;jiri&#39;s particular skillset — persuasion, information gathering, and the ability to move through
-        situations without attracting official attention — was potentially useful for an assignment that required
-        someone deniable. A conditional pardon was offered: complete the tasks assigned by Taisho
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}, and all charges are set
-        aside.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} identified an
+        opportunity. Ko&#39;jiri&#39;s particular skillset — persuasion, information gathering, and the ability to move
+        through situations without attracting official attention — was potentially useful for an assignment that
+        required someone deniable. A conditional pardon was offered: complete the tasks assigned by Taisho
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}, and all charges
+        are set aside.</p>
 
         <p>Ko&#39;jiri reported to Taisho Nakamura. The assignment: travel to the
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} region and determine what has happened to
-        Daimyo Masota no Gekko of Clan Gekko. An independent clan&#39;s leadership has gone silent. The political
-        implications of that silence are significant. The party is the official — if unofficial — investigative
-        body.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} region and determine what has
+        happened to Daimyo Masota no Gekko of Clan Gekko. An independent clan&#39;s leadership has gone silent. The
+        political implications of that silence are significant. The party is the official — if unofficial —
+        investigative body.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
 
@@ -637,8 +641,8 @@ pages:
         <li class="kg-task" data-done="false">Report to Taisho Hideo Nakamura for assignment</li>
 
         <li class="kg-task" data-done="false">Taisho Nakamura has assigned Ko&#39;jiri to venture to
-        @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} and the Kaze region to determine what
-        has happened to the Daimyo of Clan Gekko</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} and the Kaze region to
+        determine what has happened to the Daimyo of Clan Gekko</li>
 
         </ul>
 
@@ -657,7 +661,7 @@ pages:
         <li>Clan Gekko, one of Hokori&#39;s three independent clans, has ceased communication with external parties</li>
 
         <li>Provincial administration in Kaze has stopped responding to
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} correspondence</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} correspondence</li>
 
         <li>The clan&#39;s last confirmed communication was several months ago — a routine dispatch that mentioned
         nothing unusual</li>
@@ -670,9 +674,9 @@ pages:
         </ul>
 
         <p><strong>The Party&#39;s Current Position</strong> — The party is at the gold doors in Tenchusan Ren. The
-        mountains form the boundary between @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and
-        Kaze province. Completing the temple may bring them out on the Kaze side — or provide information that directly
-        advances this quest.</p>
+        mountains form the boundary between
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and Kaze province. Completing the
+        temple may bring them out on the Kaze side — or provide information that directly advances this quest.</p>
 
         <p><strong>Known Complications</strong>:</p>
 
@@ -699,26 +703,27 @@ pages:
 
         <p>The Nagaji — the transformed Clan Gekko members the party has been fighting — are the answer to the
         assignment. Masota no Gekko is alive, transformed, somewhere in the
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} highlands. The full truth is available at
-        the Monastery of the Black Lily above @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}.
-        The quest&#39;s nominal completion (report back what happened to the daimyo) is achievable. The deeper question
-        — what do they do about it — is where the quest becomes something larger.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} highlands. The full truth is
+        available at the Monastery of the Black Lily above
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}. The quest&#39;s nominal
+        completion (report back what happened to the daimyo) is achievable. The deeper question — what do they do about
+        it — is where the quest becomes something larger.</p>
 
         <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
 
         <ul>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}</strong> —
-        Assigned this mission not only because the Gekko investigation is strategically important but because he wanted
-        a deniable party with no official Clan Kaminari affiliation. If things go wrong in Kaze, Clan Kaminari needs to
-        not be officially responsible. Ko&#39;jiri (and by extension the party) is that deniability. Hideo is pragmatic
-        about this. He will support the party within limits, but those limits are defined by what he can defend
-        politically.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo
+        Nakamura}</strong> — Assigned this mission not only because the Gekko investigation is strategically important
+        but because he wanted a deniable party with no official Clan Kaminari affiliation. If things go wrong in Kaze,
+        Clan Kaminari needs to not be officially responsible. Ko&#39;jiri (and by extension the party) is that
+        deniability. Hideo is pragmatic about this. He will support the party within limits, but those limits are
+        defined by what he can defend politically.</li>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}</strong> — Sent
-        the legitimate letter to @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} through official
-        channels; the administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s presented
-        version.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}</strong>
+        — Sent the legitimate letter to @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
+        through official channels; the administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s
+        presented version.</li>
 
         </ul>
 
@@ -731,9 +736,10 @@ pages:
         (Golden Dragon Clan) is active throughout</li>
 
         <li>A message from Heian reaches the party through
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} in
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the Inspector&#39;s
-        network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has started</li>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the
+        Inspector&#39;s network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has
+        started</li>
 
         <li>Hideo Nakamura sends a discreet secondary message: regardless of what the party finds, he needs a report
         before it goes anywhere else; he implies that certain information in the wrong hands at the wrong moment would
@@ -757,15 +763,15 @@ pages:
         door of the Golden Dragon Clan&#39;s lost sanctuary. Whatever happens inside will be real in ways his
         performances never were.</p>
 
-        <p>The forged letter timeline: @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren
+        <p>The forged letter timeline: @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren
         Nakamura}&#39;s legitimate letter arrived in
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s administrative processing queue
-        approximately when the party did, or shortly after. Heian&#39;s administrative function is slowed by the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s administrative processing
+        queue approximately when the party did, or shortly after. Heian&#39;s administrative function is slowed by the
         political vacuum — the legitimate letter has been logged but not yet actively cross-referenced against
         Ko&#39;jiri&#39;s presence in Heian. Estimate: 2-4 sessions before someone notices the discrepancy.
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s office would be the
-        first to catch it — creating a direct conflict between Ko&#39;jiri&#39;s handler and Ko&#39;jiri&#39;s legal
-        situation.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s office would
+        be the first to catch it — creating a direct conflict between Ko&#39;jiri&#39;s handler and Ko&#39;jiri&#39;s
+        legal situation.</p>
 
         <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
 
@@ -846,17 +852,18 @@ pages:
 
         <h3 id="kg-background" data-section="background">Background</h3>
 
-        <p>@UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}, Guardian of the Order
-        of the Sacred Grove, was found dead among the ancient trees he had sworn to protect. The death showed signs of a
-        struggle against something powerful and unknown. To most, it was a tragedy. To Relc — his devoted apprentice —
-        it was the beginning of an unwanted and necessary journey.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}, Guardian of
+        the Order of the Sacred Grove, was found dead among the ancient trees he had sworn to protect. The death showed
+        signs of a struggle against something powerful and unknown. To most, it was a tragedy. To Relc — his devoted
+        apprentice — it was the beginning of an unwanted and necessary journey.</p>
 
         <p>Solas appeared to Relc in fragmented visions following his death, guiding him toward
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The posthumous letter Solas had prepared
-        before his death, held by @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} of the
-        Order of the Tranquil Lotus, named Relc as the next Guardian of the Sacred Grove — a role Solas had prepared him
-        for, even if Relc did not know it. The letter contained not just the appointment but a cipher poem pointing
-        toward something Solas called the <em lang="ja-Latn">Warden&#39;s Wisdom</em>.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The posthumous letter Solas had
+        prepared before his death, held by
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} of the Order of the
+        Tranquil Lotus, named Relc as the next Guardian of the Sacred Grove — a role Solas had prepared him for, even if
+        Relc did not know it. The letter contained not just the appointment but a cipher poem pointing toward something
+        Solas called the <em lang="ja-Latn">Warden&#39;s Wisdom</em>.</p>
 
         <p>Solas knew danger was coming. He prepared for his death before it arrived. He did not tell Relc directly. He
         is still communicating — in the only way he can now.</p>
@@ -893,8 +900,8 @@ pages:
 
         <p><strong>The Three Stones</strong> — Three specific stones that must be located and oriented toward the rising
         sun. Their locations are not specified in the poem; finding them is part of the quest. One is believed to be
-        near @UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} (Relc&#39;s home village). The
-        others are unknown.</p>
+        near @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} (Relc&#39;s home
+        village). The others are unknown.</p>
 
         <p><strong>Phoenix Fern Glade</strong> — A specific location identifiable by the presence of phoenix fern — a
         rare plant associated with renewal and sacred grove sites. The final destination once the stones are
@@ -931,17 +938,18 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> — Knows more
-        than he has shared with Relc. He is aware of the Warden&#39;s Wisdom&#39;s existence and importance, though he
-        does not know its specific content. He is watching Relc&#39;s development carefully. If Relc demonstrates
-        readiness (accepting the weight of the Guardian role rather than simply carrying the title), Benkei will share
-        more.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> —
+        Knows more than he has shared with Relc. He is aware of the Warden&#39;s Wisdom&#39;s existence and importance,
+        though he does not know its specific content. He is watching Relc&#39;s development carefully. If Relc
+        demonstrates readiness (accepting the weight of the Guardian role rather than simply carrying the title), Benkei
+        will share more.</li>
 
         <li><strong>Elder Sato Hideaki</strong> — Knows the location of the first stone in the sacred grove above
-        @UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</li>
 
-        <li><strong>Forest of Spirits faction (@UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}
-        province)</strong> — Know what Stone 2 is, and accessing it will require a relationship with the faction.</li>
+        <li><strong>Forest of Spirits faction
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} province)</strong> — Know what
+        Stone 2 is, and accessing it will require a relationship with the faction.</li>
 
         </ul>
 
@@ -954,8 +962,8 @@ pages:
         after the temple</li>
 
         <li>Benkei sends a message to Relc: he needs to speak before they lose contact; he has something to say that
-        couldn&#39;t be said in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with other ears
-        present</li>
+        couldn&#39;t be said in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with
+        other ears present</li>
 
         <li>At the Temple of Kinryu, something inside recognizes Relc&#39;s role as Guardian — the Sacred Grove and the
         Golden Dragon Clan had a historical relationship that will be relevant within the temple</li>
@@ -991,10 +999,11 @@ pages:
         <ul>
 
         <li>Complete the three-stone sequence: Stone 1
-        (@UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}, Elder Sato), Stone 2 (Yousei Mori,
-        Forest of Spirits, @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} province), Stone 3
-        (Hoshimori Plateau, @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province — near
-        abandoned Golden Age observatories, watched by something)</li>
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}, Elder Sato), Stone 2 (Yousei
+        Mori, Forest of Spirits, @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}
+        province), Stone 3 (Hoshimori Plateau,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province — near abandoned Golden
+        Age observatories, watched by something)</li>
 
         <li>Access the Warden&#39;s Wisdom — the dragon sanctuary locations</li>
 
@@ -1009,9 +1018,9 @@ pages:
         <li>The next vision triggers at the gold doors or inside the temple — pointing Relc home to Koriwara and Stone
         1</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} is traveling toward
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}; the window to communicate with him is
-        closing</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} is traveling toward
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}; the window to communicate with
+        him is closing</li>
 
         <li>If the killer learns Solas had a designated successor, Relc inherits a target on his back</li>
 
@@ -1068,11 +1077,12 @@ pages:
 
         <h3 id="kg-background" data-section="background">Background</h3>
 
-        <p>On the first day of travel north from @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
-        toward @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, the party encountered a woman on
-        the highway — @UUID[Compendium.assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai} — out of breath
-        and visibly distressed. The conversation that followed was brief and somewhat chaotic. She claimed to be
-        carrying a precious package and asked the party to hold it for her.</p>
+        <p>On the first day of travel north from
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} toward
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, the party encountered a woman on
+        the highway — @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai} — out
+        of breath and visibly distressed. The conversation that followed was brief and somewhat chaotic. She claimed to
+        be carrying a precious package and asked the party to hold it for her.</p>
 
         <p>Within moments she spotted a group of figures running down the road toward her, tossed the package to the
         party, and bolted. The package was her infant child. The running figures turned out to be boys simply out for a
@@ -1103,8 +1113,8 @@ pages:
         decision making when the party found her.</p>
 
         <p><strong>Sunsato</strong> — A settlement on the north side of the Tenchusan Ren, described as being near
-        Relc&#39;s home region of @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province. The
-        party offered this as a destination and it was accepted.</p>
+        Relc&#39;s home region of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}
+        province. The party offered this as a destination and it was accepted.</p>
 
         <p><strong>Current Status</strong> — The party entered the Tenchusan Ren mountain pass. Mai is currently
         traveling with the party inside the temple — she is a civilian in a dungeon and cannot fight.</p>
@@ -1119,11 +1129,12 @@ pages:
         <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
 
         <p>Mai is not simply a woman in difficult circumstances. She is the estranged daughter-in-law of a minor
-        merchant family in the @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region — estranged
-        because she took the infant and left after becoming aware that her husband&#39;s family was involved in illegal
-        activity (specifically: participation in unlicensed Bronze Wood poaching, connected tangentially to the merchant
-        guild operating out of @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}). She did not
-        report this and has no intention of reporting it; she simply wants to disappear with her child.</p>
+        merchant family in the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region —
+        estranged because she took the infant and left after becoming aware that her husband&#39;s family was involved
+        in illegal activity (specifically: participation in unlicensed Bronze Wood poaching, connected tangentially to
+        the merchant guild operating out of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}). She did not report this and has
+        no intention of reporting it; she simply wants to disappear with her child.</p>
 
         <p>The &quot;group of men&quot; she feared on the highway were not those people. They were coincidental. But the
         people she is actually afraid of are real and have noticed she is gone. They are not currently actively
@@ -1133,14 +1144,14 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai}</strong> — Knows
-        her husband&#39;s family was involved in unlicensed Bronze Wood poaching. Does not realize she knows things she
-        doesn&#39;t know she knows — she lived in that household for three years and heard conversations she didn&#39;t
-        fully understand about the underground Bronze Wood sourcing beneath Seidorin Mori.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai}</strong>
+        — Knows her husband&#39;s family was involved in unlicensed Bronze Wood poaching. Does not realize she knows
+        things she doesn&#39;t know she knows — she lived in that household for three years and heard conversations she
+        didn&#39;t fully understand about the underground Bronze Wood sourcing beneath Seidorin Mori.</li>
 
         <li><strong>Elder Sato Hideaki
-        (@UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara})</strong> — Knows the community
-        network near Sunsato and could help establish Mai there, if the party makes that connection.</li>
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara})</strong> — Knows the
+        community network near Sunsato and could help establish Mai there, if the party makes that connection.</li>
 
         </ul>
 
@@ -1148,9 +1159,10 @@ pages:
 
         <ul>
 
-        <li>A merchant courier passing through @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or
-        Sunsato is asking discreet questions about a young woman with an infant who has gone missing from a family in
-        southern Hana — not aggressive, not official, just persistent</li>
+        <li>A merchant courier passing through
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or Sunsato is asking discreet
+        questions about a young woman with an infant who has gone missing from a family in southern Hana — not
+        aggressive, not official, just persistent</li>
 
         <li>Mai, once settled, sends a message to the party: she has remembered something from her former household that
         she thinks might matter to them</li>
@@ -1174,8 +1186,9 @@ pages:
         doesn&#39;t know she knows.</p>
 
         <p>Sunsato exists near Relc&#39;s home region and is a viable destination. It is small enough that a newcomer
-        will be noticed, but the community near @UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}
-        is historically accepting of people who arrive asking for honest work and quiet lives.</p>
+        will be noticed, but the community near
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} is historically accepting of
+        people who arrive asking for honest work and quiet lives.</p>
 
         <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
 
@@ -1183,7 +1196,7 @@ pages:
 
         <li><strong>Safe delivery to Sunsato</strong> closes this quest. Optional extension: the party introduces Mai to
         Elder Sato&#39;s community network, which earns them a favor with Sato and plants a contact in the north
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} foothills region.</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} foothills region.</li>
 
         <li><strong>If the quest is abandoned</strong> — Mai will eventually find her way there through other means. She
         is more capable than she appeared in crisis. She will survive. But she will remember whether the party kept
@@ -1210,7 +1223,7 @@ pages:
         northern contact</li>
 
         <li><strong>Bronze Wood poaching thread</strong> — long-term seed connecting to Seidorin Mori and the
-        @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} merchant guild</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} merchant guild</li>
 
         <li><strong>Relc&#39;s home region</strong> — delivering Mai to Sunsato takes the party near Koriwara, where
         Relc&#39;s personal quest (first stone) also points</li>
@@ -1251,9 +1264,9 @@ pages:
         <h3 id="kg-background" data-section="background">Background</h3>
 
         <p>The party was ambushed overnight by bandits on the Emperor&#39;s Highway north of
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The attack was repelled. During the
-        aftermath, a letter was found concealed on the body of the bandit leader — written in an unfamiliar language and
-        clearly of some significance, given the care taken to hide it.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The attack was repelled. During
+        the aftermath, a letter was found concealed on the body of the bandit leader — written in an unfamiliar language
+        and clearly of some significance, given the care taken to hide it.</p>
 
         <p>The letter was subsequently translated. Its contents are a set of directional instructions — a treasure
         location cipher, written in obscure but decipherable terms — pointing toward a hidden cache or discovery of
@@ -1319,8 +1332,8 @@ pages:
 
         <p><strong>Geographic candidates</strong>: The letter&#39;s language and style suggest origin in the central or
         northern Hokori region. The Tenchusan Ren and surrounding foothills contain all the described terrain types, but
-        so does the @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province interior and the
-        @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} lowland forests.</p>
+        so does the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province interior and
+        the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} lowland forests.</p>
 
         <p><strong>The unknown language</strong>: What language was the letter written in? Identifying the script would
         narrow down who wrote it and potentially where the described location lies.</p>
@@ -1353,9 +1366,9 @@ pages:
         approximately where the cache is. She is not hostile but is not forthcoming without reason — she can be a source
         of information or a complication depending on the party&#39;s approach.</li>
 
-        <li><strong>A linguist in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Hikari
-        Zon</strong> — recognizes the script when shown it and becomes very quiet; she asks where the party found it and
-        seems genuinely frightened by the answer.</li>
+        <li><strong>A linguist in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s
+        Hikari Zon</strong> — recognizes the script when shown it and becomes very quiet; she asks where the party found
+        it and seems genuinely frightened by the answer.</li>
 
         </ul>
 

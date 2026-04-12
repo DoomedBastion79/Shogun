@@ -37,7 +37,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.kagekuni-classfeatures.7S4cVWoVH8eKAEx5
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.7S4cVWoVH8eKAEx5
             optional: false
         optional: false
         spell:
@@ -58,7 +58,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.kagekuni-classfeatures.WGlBVecw9gjL87SN
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.WGlBVecw9gjL87SN
             optional: false
         optional: false
         spell:
@@ -79,7 +79,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.kagekuni-classfeatures.LACDxMq1QJZVmXwC
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.LACDxMq1QJZVmXwC
             optional: false
         optional: false
         spell:
@@ -100,7 +100,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.kagekuni-classfeatures.RWqDiX0tstYGiHTL
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.RWqDiX0tstYGiHTL
             optional: false
         optional: false
         spell:

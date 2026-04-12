@@ -13,10 +13,10 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura Mura} did not begin as a planned
-        settlement -- it accumulated around a single inn on the Emperor&#39;s Highway that proved well-positioned for a
-        rest stop. Over generations, the inn attracted other services, the services attracted residents, and the
-        residents built a community. The village retains its highway-dependent character.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura Mura} did not begin as a
+        planned settlement -- it accumulated around a single inn on the Emperor&#39;s Highway that proved
+        well-positioned for a rest stop. Over generations, the inn attracted other services, the services attracted
+        residents, and the residents built a community. The village retains its highway-dependent character.</p>
 
         <p>A river runs east-west through the village, spanned at the north end by Shadowfen Bridge -- a stone bridge
         leading into a stretch of marsh forest. A secondary road path continues north from the bridge&#39;s far

@@ -56,9 +56,10 @@ pages:
 
         <p><em>discoverable</em></p>
 
-        <p>Connected to @UUID[Compendium.assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato} (mid-rank
-        Sacred Grove member) and @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} (Ancient
-        Guard). His death has compromised the Ancient Guard.</p>
+        <p>Connected to @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato}
+        (mid-rank Sacred Grove member) and
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} (Ancient Guard). His death
+        has compromised the Ancient Guard.</p>
 
 
         </section>

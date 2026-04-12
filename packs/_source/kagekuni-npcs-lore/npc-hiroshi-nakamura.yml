@@ -21,9 +21,9 @@ pages:
         <h3>Public Role</h3>
 
         <p>Taisho (General) of Clan Kaminari and Shugo (Governor) of
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. As Shugo, he has near-total access to
-        Clan Kaminari&#39;s intelligence and administrative operations. He is the civilian administrative authority over
-        the imperial capital.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. As Shugo, he has near-total
+        access to Clan Kaminari&#39;s intelligence and administrative operations. He is the civilian administrative
+        authority over the imperial capital.</p>
 
 
         <h3>Personality</h3>
@@ -55,8 +55,8 @@ pages:
 
         <p><em>discoverable</em></p>
 
-        <p>Brother of Taisho @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. Their
-        sibling relationship gives him both access and cover.</p>
+        <p>Brother of Taisho @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo
+        Nakamura}. Their sibling relationship gives him both access and cover.</p>
 
 
         </section>

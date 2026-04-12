@@ -13,9 +13,9 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} is the oldest continuously inhabited
-        city in the archipelago and the seat of imperial authority for over eight thousand years. It stands on a
-        peninsula where the Nagisa Sea meets Lake Midoriko -- a position offering both a defensible landward approach
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} is the oldest continuously
+        inhabited city in the archipelago and the seat of imperial authority for over eight thousand years. It stands on
+        a peninsula where the Nagisa Sea meets Lake Midoriko -- a position offering both a defensible landward approach
         and open water access in two directions.</p>
 
         <p>The city is beautiful in the way that things shaped by deep time become beautiful -- through the accumulation
@@ -24,10 +24,10 @@ pages:
         Yama is visible on clear days forty miles to the north and northwest.</p>
 
         <p>The Emperor&#39;s Highway extends from Heian in three directions -- north through Tenchusan Ren toward
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}, east along the coast, and west by ferry
-        connection to Sakurano and the interior. With no emperor, the city is a center without a purpose -- the streets
-        are still busy, the markets still active, but there is a quality to civic life: the posture of a city holding
-        itself together while waiting for resolution.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}, east along the coast, and west by
+        ferry connection to Sakurano and the interior. With no emperor, the city is a center without a purpose -- the
+        streets are still busy, the markets still active, but there is a quality to civic life: the posture of a city
+        holding itself together while waiting for resolution.</p>
       markdown: ''
     video:
       controls: true
@@ -53,8 +53,9 @@ pages:
         <p><strong>Hikari Zon -- Knowledge District</strong>
 
         Libraries, academies, schools, and scholarly institutions. Low, wide buildings with sliding walls. The central
-        library holds the largest collection in @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}.
-        Seimasters and scholars from across the archipelago spend time here.</p>
+        library holds the largest collection in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}. Seimasters and scholars from
+        across the archipelago spend time here.</p>
 
         <p><strong>Hinode-ku -- Eastern Residential Ward</strong>
 
@@ -71,7 +72,8 @@ pages:
         Temples, shrines, and spiritual institutions. Torii gates multiply inward from the boundary. A shrine to each of
         the seven dragon clans exists here.</p>
 
-        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}-sho -- Wind District</strong>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}-sho -- Wind
+        District</strong>
 
         Open spaces, windmills, farming plots within the city boundary. The windmills power grain milling and workshop
         machinery.</p>
@@ -90,10 +92,12 @@ pages:
 
         The forge district. Smiths, armorers, weapons specialists. Runs hot year-round. Home to Taro&#39;s Forge.</p>
 
-        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}-gai -- Riverside Ward</strong>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}-gai -- Riverside
+        Ward</strong>
 
         Along the water&#39;s edge. Water gardens, seafood restaurants, fish markets, fishing family residences. The
-        morning catch market is a @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} institution.</p>
+        morning catch market is a @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
+        institution.</p>
 
         <p><strong>Ryu Jikuchiku -- Dragon Borough</strong>
 
@@ -117,8 +121,8 @@ pages:
         <p><strong>Tensho no Mon -- Military District</strong>
 
         Barracks, command infrastructure, training grounds. Home to Taisho
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s command headquarters.
-        Where the party received their mission briefing.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s command
+        headquarters. Where the party received their mission briefing.</p>
       markdown: ''
     video:
       controls: true
@@ -142,9 +146,9 @@ pages:
       format: 1
       content: >
         <p><strong>Taro&#39;s Forge (Kurogane-sho)</strong> -- Master blacksmith
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto}&#39;s workshop. Renowned for
-        quality and integrity. Produces exceptional weapons and armor. Taro teaches those who demonstrate genuine
-        commitment.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto}&#39;s workshop.
+        Renowned for quality and integrity. Produces exceptional weapons and armor. Taro teaches those who demonstrate
+        genuine commitment.</p>
 
         <p><strong>The Moonlit Garden (Ryu Jikuchiku)</strong> -- Teahouse in the Dragon Borough with a garden famous
         for nighttime aesthetics -- white stone, silver-leaved trees, reflecting pool. The party first convened here.
@@ -176,14 +180,15 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura} -- Shugo (Governor) of
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} -&gt; npcs/hiroshi-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura} -- Shugo
+        (Governor) of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} -&gt;
+        npcs/hiroshi-nakamura.md</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} -- Taisho (General);
-        military commander -&gt; npcs/hideo-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} -- Taisho
+        (General); military commander -&gt; npcs/hideo-nakamura.md</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto} -- Master blacksmith
-        -&gt; npcs/taro-fukomoto.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto} -- Master
+        blacksmith -&gt; npcs/taro-fukomoto.md</li>
 
         </ul>
 

@@ -20,9 +20,9 @@ pages:
 
         <h3>Public Role</h3>
 
-        <p>Leader of @UUID[Compendium.assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine}, a mining village of 97
-        people sitting in the shadow of Kinryūzan (Gold Dragon Mountain) at the head of the Star River. The small iron
-        mine sustains the village with modest yields. The community is close-knit in the way that difficult
+        <p>Leader of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine}, a mining village
+        of 97 people sitting in the shadow of Kinryūzan (Gold Dragon Mountain) at the head of the Star River. The small
+        iron mine sustains the village with modest yields. The community is close-knit in the way that difficult
         circumstances produce.</p>
 
 
@@ -42,9 +42,10 @@ pages:
         <p><em>discoverable</em></p>
 
         <p>Has quietly sent a sample of an unusual dark lustrous metal found in the deeper mine face to
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} for identification, but the political
-        vacuum has slowed the response. The material doesn&#39;t rust, is harder than anything the village smith has
-        worked with, and holds an exceptional edge. He is trying to get information before events overtake him.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} for identification, but the
+        political vacuum has slowed the response. The material doesn&#39;t rust, is harder than anything the village
+        smith has worked with, and holds an exceptional edge. He is trying to get information before events overtake
+        him.</p>
 
         <p>The village is too poor and too politically isolated to defend a valuable find. Kenji would respond warmly to
         trustworthy outsiders who could help him understand what his mine has found.</p>

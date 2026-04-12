@@ -21,8 +21,9 @@ pages:
         <h3>Public Role</h3>
 
         <p>Taisho (General) of Clan Kaminari and Commissioner of Special Operations. Commands from the Tensho no Mon
-        (Military District) in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Assigned the party
-        their current mission to investigate the Gekkō Clan&#39;s silence. The party reports directly to him.</p>
+        (Military District) in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Assigned
+        the party their current mission to investigate the Gekkō Clan&#39;s silence. The party reports directly to
+        him.</p>
 
 
         <h3>Personality</h3>
@@ -35,8 +36,8 @@ pages:
 
         <p>Direct handler. Assigned the party their mission at the Tensho no Mon district in Heian. Sun Wukong&#39;s
         mandate from the Tranquil Lotus specifically names Hideo as the reporting authority. The party met him alongside
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.KnUmtFed4RbaKO6k]{Arinori Senzai} during their mission
-        briefing.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KnUmtFed4RbaKO6k]{Arinori Senzai} during their
+        mission briefing.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -88,9 +89,9 @@ pages:
         <p><em>sealed</em></p>
 
         <p>The traitor Hideo is hunting is his own brother,
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura}, the Shugo of Heian. Hideo
-        does not yet know this. He will, in time, develop evidence pointing toward Hiroshi. The question is whether he
-        reaches that conclusion before Hiroshi learns how close Hideo is and takes action.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura}, the Shugo of
+        Heian. Hideo does not yet know this. He will, in time, develop evidence pointing toward Hiroshi. The question is
+        whether he reaches that conclusion before Hiroshi learns how close Hideo is and takes action.</p>
 
 
         </section>

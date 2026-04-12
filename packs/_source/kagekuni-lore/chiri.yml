@@ -76,11 +76,12 @@ pages:
 
         <p>Hokori is divided into <strong>eight provinces</strong>, each with its own geography, climate, political
         allegiance, and character. The imperial capital of
-        <strong>@UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</strong> sits in the eastern
-        province of @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}. The <strong>Emperor&#39;s
-        Highway</strong> extends from Heian in three directions, forming the primary overland transportation network.
-        River systems — particularly the Midori, Tsuchikawa, and Kinryūgawa — serve as major trade arteries, while
-        coastal shipping connects the port cities of Minato-jō in the west and Namigashira in the east.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</strong> sits in the
+        eastern province of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}. The
+        <strong>Emperor&#39;s Highway</strong> extends from Heian in three directions, forming the primary overland
+        transportation network. River systems — particularly the Midori, Tsuchikawa, and Kinryūgawa — serve as major
+        trade arteries, while coastal shipping connects the port cities of Minato-jō in the west and Namigashira in the
+        east.</p>
 
         <h2 id="kg-the-eight-provinces" data-section="the-eight-provinces">The Eight Provinces</h2>
 
@@ -134,11 +135,11 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze}</strong></td>
 
         <td>Eastern side of NE leg</td>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</td>
 
         <td>Independent</td>
 
@@ -148,7 +149,7 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}</strong></td>
 
         <td>Western side of NE leg</td>
 
@@ -162,7 +163,7 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}</strong></td>
 
         <td>Northwestern coast</td>
 
@@ -176,7 +177,7 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}</strong></td>
 
         <td>Northeastern tip</td>
 
@@ -190,7 +191,7 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora}</strong></td>
 
         <td>Central mountains</td>
 
@@ -204,7 +205,7 @@ pages:
 
         <tr>
 
-        <td><strong>@UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}</strong></td>
+        <td><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}</strong></td>
 
         <td>Southern highlands</td>
 
@@ -241,11 +242,12 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} occupies the eastern coast of Hokori and
-        is the seat of imperial history. It stretches along the island&#39;s eastern seaboard, bounded to the northwest
-        by the mountainous interior of @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province for
-        the majority of its inland border, with @UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}
-        and Hi to the west, and @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the north.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} occupies the eastern coast of
+        Hokori and is the seat of imperial history. It stretches along the island&#39;s eastern seaboard, bounded to the
+        northwest by the mountainous interior of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} province for the majority of its
+        inland border, with @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} and Hi to
+        the west, and @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the north.</p>
 
         <p>The province&#39;s defining feature is the Serenia-kai (Selenia Sea), a vast inland sea covering more than a
         thousand square miles, fed by twenty-five rivers and thirteen waterfalls cascading from the Tenchusan Ren and
@@ -285,9 +287,10 @@ pages:
         <li>Kodan no Jinja -- Ancient roadside shrine. Grants divine boons to supplicants for a period of days equal to
         three times the recipient&#39;s experience level (maximum sixty days). Only one boon at a time.</li>
 
-        <li>Shadowfen Bridge -- Stone bridge near @UUID[Compendium.assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura
-        Mura} crossing into marsh forest. Legend claims a river spirit demands one honest secret spoken aloud; liars
-        find the far bank leads somewhere unintended.</li>
+        <li>Shadowfen Bridge -- Stone bridge near
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura Mura} crossing into marsh forest.
+        Legend claims a river spirit demands one honest secret spoken aloud; liars find the far bank leads somewhere
+        unintended.</li>
 
         <li>Tenchusan Ren (Heavenly Pillar Mountains) -- The mountain range forming Hana&#39;s northwestern boundary.
         The pass is treacherous in autumn and impassable during winter storms. Significant ruins exist within the
@@ -317,7 +320,7 @@ pages:
 
         <tbody><tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</td>
 
         <td>City</td>
 
@@ -341,7 +344,7 @@ pages:
 
         <tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</td>
 
         <td>City</td>
 
@@ -353,7 +356,7 @@ pages:
 
         <tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}</td>
 
         <td>Town</td>
 
@@ -401,7 +404,7 @@ pages:
 
         <tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura}</td>
 
         <td>Village</td>
 
@@ -413,7 +416,7 @@ pages:
 
         <tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.7Th9c00d5oE1qbfi]{Nishihara}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.7Th9c00d5oE1qbfi]{Nishihara}</td>
 
         <td>Village</td>
 
@@ -449,7 +452,7 @@ pages:
 
         <tr>
 
-        <td>@UUID[Compendium.assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine}</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine}</td>
 
         <td>Village</td>
 
@@ -473,8 +476,8 @@ pages:
         system for harvesting creates significant corruption opportunities at every level of local administration.</p>
 
         <p>Fishing on the Serenia-kai and the Kinryugawa sustains much of the rural population. The Gold Dragon River
-        runs fat with a fish called @UUID[Compendium.assistant.items.Item.W11VxXyWegpY4JzH]{kinuo} (gold-tail) that is
-        considered a delicacy in Heian and commands premium prices at market.</p>
+        runs fat with a fish called @UUID[Compendium.kagekuni-assistant.items.Item.W11VxXyWegpY4JzH]{kinuo} (gold-tail)
+        that is considered a delicacy in Heian and commands premium prices at market.</p>
 
         <h3 id="kg-history" data-section="history">History</h3>
 
@@ -492,8 +495,8 @@ pages:
         resilient. The Emperor&#39;s Highway remains largely intact through Hana.</p>
 
         <p>Clan Kaminari has governed Hana for the past several centuries. The clan rose to prominence when
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no Kazuhiko} unified the province
-        under a single authority following a period of fractious minor-clan governance.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no Kazuhiko} unified the
+        province under a single authority following a period of fractious minor-clan governance.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -569,8 +572,8 @@ pages:
         <p>The Seidorin Mori grows over a second branch of the buried Kinkokyo canal system. The metallic quality of the
         trees is caused by trace mineral content in the groundwater -- water flowing through golden veins in the buried
         city&#39;s infrastructure for thousands of years.
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} (Shicho of Kikyo) knows this.
-        The merchant guild he is allied with wants to find the source and exploit it directly.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} (Shicho of Kikyo)
+        knows this. The merchant guild he is allied with wants to find the source and exploit it directly.</p>
 
 
         </section>
@@ -582,8 +585,8 @@ pages:
 
         <section class="secret kg-secret-sealed">
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura} -- Traitor in
-        Place</strong></p>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura} --
+        Traitor in Place</strong></p>
 
         <p><em lang="ja-Latn">sealed</em></p>
 
@@ -649,11 +652,11 @@ pages:
         <p>Hi is the most geologically violent province on Hokori -- a region of active volcanism, fumarole fields,
         obsidian plains, and mountains that periodically tear themselves apart. It encompasses the majority of the
         island&#39;s western side, surrounded by mountains and the sea.
-        @UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} borders it to the southeast,
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} shares a small stretch of its eastern
-        border, @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} encompasses its northern boundary,
-        and @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} sits along its western edge.
-        Earthquakes are ambient. Residents learn to read tremors the way sailors read wind.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} borders it to the southeast,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} shares a small stretch of its
+        eastern border, @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} encompasses its
+        northern boundary, and @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} sits along
+        its western edge. Earthquakes are ambient. Residents learn to read tremors the way sailors read wind.</p>
 
         <p>The province takes its name -- Hi, meaning fire -- from the volcanic peaks that define it. The largest,
         Enshiyama (Flame Peak Mountain), is the third highest peak on Hokori. It last erupted in full approximately two
@@ -794,8 +797,8 @@ pages:
         <ul>
 
         <li>The Crimson Shrine&#39;s keeper,
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki}, has served for sixty years and
-        communicates with something through the shrine&#39;s ember-bowl.</li>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki}, has served for sixty
+        years and communicates with something through the shrine&#39;s ember-bowl.</li>
 
         <li>The western territories of Hi are home to descendants of the Crimson Clan faction that refused unification,
         organized into loose tribal confederacies preserving forgotten traditions.</li>
@@ -932,16 +935,16 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} is a province of shadows and mist. It
-        occupies the eastern side of Hokori&#39;s northeastern leg -- the X-shape&#39;s upper-right arm.
-        @UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} sits to the north,
-        @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} to the west,
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} to the south, and
-        @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} shares a brief stretch of its southwestern
-        border. Sheltered from direct coastal weather by mountain ranges, it has a microclimate of cool, damp air that
-        never fully clears. The province averages fewer clear days per year than any other on the island. Its forests --
-        dense stands of dark cedar and ancient black pine -- grow so thickly that the canopy blocks most sunlight even
-        in summer. Locals navigate by landmark and feel rather than by sun or stars.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} is a province of shadows and
+        mist. It occupies the eastern side of Hokori&#39;s northeastern leg -- the X-shape&#39;s upper-right arm.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} sits to the north,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} to the west,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} to the south, and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} shares a brief stretch of its
+        southwestern border. Sheltered from direct coastal weather by mountain ranges, it has a microclimate of cool,
+        damp air that never fully clears. The province averages fewer clear days per year than any other on the island.
+        Its forests -- dense stands of dark cedar and ancient black pine -- grow so thickly that the canopy blocks most
+        sunlight even in summer. Locals navigate by landmark and feel rather than by sun or stars.</p>
 
         <p>The terrain is mountainous, cut by deep river valleys and narrow gorges. The Kazeyama Ren (Wind Mountain
         Range) runs along the province&#39;s southern border, channeling wind up the valleys in complex, disorienting
@@ -950,8 +953,8 @@ pages:
         <p>The Kagero River (Shimmer River) is the primary waterway -- named for the heat shimmer visible over its
         surface on rare warm days, caused by thermal differential between the water temperature and the cool air.</p>
 
-        <p>The town of @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} (Dawn) occupies a
-        peculiar position -- its name suggests emergence and new light, but it is one of the most shrouded settlements
+        <p>The town of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} (Dawn) occupies
+        a peculiar position -- its name suggests emergence and new light, but it is one of the most shrouded settlements
         in the archipelago. The name predates the current settlement.</p>
 
         <p>Points of Interest:</p>
@@ -1068,9 +1071,9 @@ pages:
 
         <p>Clan Gekko&#39;s recent disappearance has plunged the province into deep unease. Trade has slowed. The
         provincial administration has stopped communicating with
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Small communities have reported strange
-        encounters -- serpentine figures glimpsed on mountain trails, abandoned buildings showing signs of violent
-        disturbance, livestock found dead in unnatural ways.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Small communities have reported
+        strange encounters -- serpentine figures glimpsed on mountain trails, abandoned buildings showing signs of
+        violent disturbance, livestock found dead in unnatural ways.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -1241,15 +1244,15 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} is Hokori&#39;s verdant interior -- a
-        province of dense forests, wide river floodplains, and grasslands so deep and tall that travelers on foot are
-        hidden from view within a hundred paces. It occupies the western side of Hokori&#39;s northeastern leg, with
-        @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} encroaching on its southeastern border,
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} to the southwest,
-        @UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} to the north, and
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the east. Drainage from surrounding
-        mountain ranges converges here, creating a network of rivers, oxbow lakes, and seasonal wetlands that makes the
-        land extraordinarily fertile and difficult to traverse without knowing the paths.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} is Hokori&#39;s verdant
+        interior -- a province of dense forests, wide river floodplains, and grasslands so deep and tall that travelers
+        on foot are hidden from view within a hundred paces. It occupies the western side of Hokori&#39;s northeastern
+        leg, with @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} encroaching on its
+        southeastern border, @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} to the
+        southwest, @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} to the north, and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the east. Drainage from
+        surrounding mountain ranges converges here, creating a network of rivers, oxbow lakes, and seasonal wetlands
+        that makes the land extraordinarily fertile and difficult to traverse without knowing the paths.</p>
 
         <p>The forests are ancient and immense, dark-trunked hardwoods with canopies that diffuse light into a permanent
         green twilight. The forest floor grows in luminous violet and deep blue hues -- murasaki-gusa (purple grass) and
@@ -1489,14 +1492,14 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} is a province of water in all its forms
-        -- crashing coastal surf, wide navigable rivers, reed-choked estuaries, tidal flats that stretch for miles at
-        low compound tide, and interior lakes fed by reliable rainfall. It wraps around the northwestern string of
-        mountains on Hokori, with Hi to the southeast,
-        @UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} along its eastern and southern borders, and
-        @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} to the northeast. The Raijin no Fukai sea
-        drives against its western and northern coastline with consistent force. The Kōri-no-Mori forest occupies its
-        northern shores.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} is a province of water in all
+        its forms -- crashing coastal surf, wide navigable rivers, reed-choked estuaries, tidal flats that stretch for
+        miles at low compound tide, and interior lakes fed by reliable rainfall. It wraps around the northwestern string
+        of mountains on Hokori, with Hi to the southeast,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} along its eastern and southern
+        borders, and @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} to the northeast. The
+        Raijin no Fukai sea drives against its western and northern coastline with consistent force. The Kōri-no-Mori
+        forest occupies its northern shores.</p>
 
         <p>The coastline is irregular and complex -- carved into headlands, sheltered coves, sea-stacks, and natural
         harbors. The Shirakawa Estuary (White River Estuary) at the province&#39;s center is one of the largest
@@ -1508,8 +1511,8 @@ pages:
         of reliable rainfall, mineral-rich alluvial soil, and excellent river irrigation infrastructure makes the
         province&#39;s farming output disproportionately important to regional food security.</p>
 
-        <p>Relc&#39;s home village of @UUID[Compendium.assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} is
-        located in Mizu province&#39;s interior, in a foothills region where the climate shifts from maritime to
+        <p>Relc&#39;s home village of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}
+        is located in Mizu province&#39;s interior, in a foothills region where the climate shifts from maritime to
         montane.</p>
 
         <p>Points of Interest:</p>
@@ -1645,9 +1648,10 @@ pages:
         <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Elder Sato Hideaki is a mid-rank member of the Order of the Sacred Grove. He has interacted with Order of the
-        Ancient Guard agents, including @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
-        Evergreen} directly. He knows Solas was Ancient Guard (not just Sacred Grove). He has not told Relc because he
-        was following Solas&#39;s instruction to let Relc develop organically.</p>
+        Ancient Guard agents, including
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen} directly. He knows
+        Solas was Ancient Guard (not just Sacred Grove). He has not told Relc because he was following Solas&#39;s
+        instruction to let Relc develop organically.</p>
 
 
         </section>
@@ -1736,13 +1740,13 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} sits on the northeastern tip of Hokori
-        and faces the unabated ocean without shelter.
-        @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} lies to the southwest and
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the southeast. Its shores receive the
-        full force of oceanic weather systems -- storms that have built across open water for thousands of miles. The
-        province&#39;s coastal architecture reflects this: every structure is built low and heavy, walls thick, roofs
-        angled away from prevailing winds, shutters reinforced with iron.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} sits on the northeastern tip of
+        Hokori and faces the unabated ocean without shelter.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} lies to the southwest and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} to the southeast. Its shores
+        receive the full force of oceanic weather systems -- storms that have built across open water for thousands of
+        miles. The province&#39;s coastal architecture reflects this: every structure is built low and heavy, walls
+        thick, roofs angled away from prevailing winds, shutters reinforced with iron.</p>
 
         <p>The coastline is rugged and often spectacular -- dramatic sea cliffs dropping directly to churning water,
         narrow beaches of black volcanic sand between rocky headlands, sea arches and stacks in the offshore shallows.
@@ -1753,7 +1757,7 @@ pages:
         terrain is less hospitable than the island&#39;s interior -- thinner soil, more exposure, colder -- but fishing
         and maritime trade make the province economically significant.</p>
 
-        <p>Fujisato, one of @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} province&#39;s
+        <p>Fujisato, one of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} province&#39;s
         northeastern ports, sits at the provincial boundary -- a natural gateway between the two provinces&#39; maritime
         economies.</p>
 
@@ -1854,7 +1858,7 @@ pages:
         much older.</li>
 
         <li>Nami&#39;s Arashi-aligned governing clan is coordinating with
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}&#39;s Minato-jo for a joint naval
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu}&#39;s Minato-jo for a joint naval
         operation.</li>
 
         </ul>
@@ -1947,11 +1951,11 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} -- Sky -- is the highest-altitude
-        province in Hokori and encompasses the majority of the lightly populated mountainous interior at the
-        island&#39;s center. It is often the most dangerous region to traverse. Much of it sits above the cloud ceiling.
-        A traveler ascending from lower provinces will emerge through dense cloud into a world of startling clarity:
-        thin air, intense sunlight, vast visibility, and a profound silence broken only by wind.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Ahl88FcMK2MPXRxi]{Sora} -- Sky -- is the
+        highest-altitude province in Hokori and encompasses the majority of the lightly populated mountainous interior
+        at the island&#39;s center. It is often the most dangerous region to traverse. Much of it sits above the cloud
+        ceiling. A traveler ascending from lower provinces will emerge through dense cloud into a world of startling
+        clarity: thin air, intense sunlight, vast visibility, and a profound silence broken only by wind.</p>
 
         <p>The province occupies the central mountain ranges that form the connective barrier between most of
         Hokori&#39;s other provinces. It borders nearly every other province in some capacity -- a sprawling, thinly
@@ -1980,8 +1984,8 @@ pages:
         records.</li>
 
         <li>The Storm Road -- Mountain route through Sora connecting
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}/Hi to the northern coast. Impassable in
-        winter; deteriorating without central maintenance authority.</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}/Hi to the northern coast.
+        Impassable in winter; deteriorating without central maintenance authority.</li>
 
         </ul>
 
@@ -2060,8 +2064,8 @@ pages:
         significant -- the Ryushinki (Dragon Awakening).</li>
 
         <li>A seimaster from Hoshimori has been trying to reach
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with urgent information for three months
-        and has not arrived.</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with urgent information for three
+        months and has not arrived.</li>
 
         </ul>
 
@@ -2155,12 +2159,13 @@ pages:
       content: >+
         <h3 id="kg-geography-amp-terrain" data-section="geography-amp-terrain">Geography &amp; Terrain</h3>
 
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} occupies the southern portion of
-        Hokori -- a primarily mountainous province dominated by rugged terrain and the imposing bulk of Kurogane Yama,
-        the second highest peak on the island. @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}
-        borders it to the northeast and Hi to the northwest. The mountains here are old and weathered, less volcanically
-        active than Hi but no less formidable -- steep valleys, narrow passes, and ridgelines that catch storms rolling
-        in from the southern sea.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi} occupies the southern portion
+        of Hokori -- a primarily mountainous province dominated by rugged terrain and the imposing bulk of Kurogane
+        Yama, the second highest peak on the island.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} borders it to the northeast and Hi
+        to the northwest. The mountains here are old and weathered, less volcanically active than Hi but no less
+        formidable -- steep valleys, narrow passes, and ridgelines that catch storms rolling in from the southern
+        sea.</p>
 
         <p>The southern mountains are resource-rich -- mineral deposits, timber in the sheltered valleys, and stone
         quarried from exposed cliff faces. But the terrain resists large-scale settlement. Communities are small,
@@ -2309,9 +2314,9 @@ pages:
 
         <p>The ancient road leads eventually to a pre-imperial site associated with the Emerald Dragon Clan (Midoryu) --
         a &quot;green court&quot; predating any recorded human settlement. Traceable sections exist at intervals. The
-        site it leads to is in the @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} province border
-        region, beneath what is now part of the Whispering Flats. Midoryu is alive and maintains a particular connection
-        to this buried court.</p>
+        site it leads to is in the @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa}
+        province border region, beneath what is now part of the Whispering Flats. Midoryu is alive and maintains a
+        particular connection to this buried court.</p>
 
 
         </section>
@@ -2372,7 +2377,7 @@ pages:
         attuned to tidal calendars).</p>
 
         <p>Kawa lies to the east of Hokori, visible from the Stormwatch Cliffs in
-        @UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} province on clear days. The waters
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami} province on clear days. The waters
         surrounding it are navigable but treacherous — shifting sandbars and unpredictable currents created by the
         interaction of four lunar tidal patterns make piloting around Kawa a specialist skill.</p>
 
@@ -2511,8 +2516,8 @@ pages:
         <p><strong>Akaryū</strong> (Crimson Dragon) is associated with Fushichō — domain of fire and volcanic power. The
         dragon is alive and slumbering, likely within the volcanic highlands. The Crimson Shrine in Hi province on
         Hokori maintains a tenuous connection to Akaryū through keeper
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki} (Initiate, Order of the Ancient
-        Guard). Whether a parallel shrine or connection point exists on Fushichō itself is undeveloped.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki} (Initiate, Order of the
+        Ancient Guard). Whether a parallel shrine or connection point exists on Fushichō itself is undeveloped.</p>
       markdown: ''
     video:
       controls: true
@@ -2729,7 +2734,7 @@ pages:
 
         <p>The town of <strong>Kazehama</strong> also occupies the island, along with the monastery of the <strong>Order
         of the Tranquil Lotus</strong> — a nature-based monastic order led by Elder
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza of 198 years.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza of 198 years.</p>
 
         <h2 id="kg-fuukajima" data-section="fuukajima">Fuukajima</h2>
 

@@ -21,9 +21,9 @@ pages:
         <h3>Public Role</h3>
 
         <p>Daimyo and supreme leader of Clan Kaminari, the dominant clan governing the province of
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and the imperial capital of
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Commands one of the most powerful
-        military and political structures in Kagekuni.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and the imperial capital of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Commands one of the most
+        powerful military and political structures in Kagekuni.</p>
 
 
         <h3>Personality</h3>
@@ -34,9 +34,9 @@ pages:
         <h3>Relationship to Party</h3>
 
         <p>No direct contact. The party operates under the authority of his clan through Taisho
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. Dian Wei received sealed
-        orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan daimyo share the Kazuhiko name, which
-        can cause confusion.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. Dian Wei received
+        sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan daimyo share the Kazuhiko name,
+        which can cause confusion.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -59,8 +59,8 @@ pages:
 
         <p>Allied with elements in rival clans who share his doubts about the official narrative of the emperor&#39;s
         assassination. His parallel investigation with
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana} (Daimyo of Clan Kurohana)
-        suggests a level of cross-clan cooperation that is unusual and politically significant.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana} (Daimyo of Clan
+        Kurohana) suggests a level of cross-clan cooperation that is unusual and politically significant.</p>
 
 
         </section>

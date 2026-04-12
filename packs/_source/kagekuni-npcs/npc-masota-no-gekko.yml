@@ -91,7 +91,7 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.NK44ZJZdU0fnPKix]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.NK44ZJZdU0fnPKix]{View NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

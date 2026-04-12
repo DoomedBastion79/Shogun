@@ -34,11 +34,11 @@ pages:
         rest.</p>
 
         <p>The stolen goods were recovered and subsequently turned over to Chief Inspector
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} of the Teikoku Keisatsu in
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, who received them without excessive
-        questions and confirmed the party&#39;s good-faith engagement with legal authority. This interaction contributed
-        meaningfully to Oshiro&#39;s decision to confirm the party as trustworthy when the wagon impoundment situation
-        arose shortly thereafter.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} of the Teikoku
+        Keisatsu in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, who received them
+        without excessive questions and confirmed the party&#39;s good-faith engagement with legal authority. This
+        interaction contributed meaningfully to Oshiro&#39;s decision to confirm the party as trustworthy when the wagon
+        impoundment situation arose shortly thereafter.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
 
@@ -76,11 +76,12 @@ pages:
 
         <p>The goods were not random opportunistic theft. The thieves were part of a small, loosely organized network of
         independent contractors working for a merchant in
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba Chiku — a legitimate-seeming
-        trading operation that runs a side business in redirected goods. &quot;Redirected&quot; meaning: items that were
-        supposed to arrive at one destination are intercepted and sold to a different buyer who doesn&#39;t ask where
-        they came from. The daimyo&#39;s men reference meant a Clan Kaminari supply transport was expected on the road
-        by nightfall and the thieves were either planning to avoid it or had originally intended to intercept it.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba Chiku — a
+        legitimate-seeming trading operation that runs a side business in redirected goods. &quot;Redirected&quot;
+        meaning: items that were supposed to arrive at one destination are intercepted and sold to a different buyer who
+        doesn&#39;t ask where they came from. The daimyo&#39;s men reference meant a Clan Kaminari supply transport was
+        expected on the road by nightfall and the thieves were either planning to avoid it or had originally intended to
+        intercept it.</p>
 
         <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
 
@@ -94,12 +95,12 @@ pages:
         be useful to know, or whether there might be money in information about where they went. Not a significant
         threat but is a loose thread.</li>
 
-        <li><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro}</strong> —
-        Official report noted the party by description (not by name at that point) and flagged them as &quot;travelers
-        of apparent good character and law-abiding intent operating in the
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} northern highway corridor.&quot; This
-        report is in the Teikoku Keisatsu&#39;s @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}
-        file.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        Masahiro}</strong> — Official report noted the party by description (not by name at that point) and flagged them
+        as &quot;travelers of apparent good character and law-abiding intent operating in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} northern highway corridor.&quot;
+        This report is in the Teikoku Keisatsu&#39;s
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} file.</li>
 
         </ul>
 
@@ -125,10 +126,11 @@ pages:
 
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
-        <p>The merchant operation in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba
-        Chiku continues. The thieves were low-level contractors; losing them is a minor operational hiccup, not a
-        crisis. The &quot;daimyo&#39;s men&quot; reference points to a Clan Kaminari supply transport — suggesting the
-        network has enough intelligence on military logistics to plan around official movements.</p>
+        <p>The merchant operation in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba Chiku continues. The
+        thieves were low-level contractors; losing them is a minor operational hiccup, not a crisis. The
+        &quot;daimyo&#39;s men&quot; reference points to a Clan Kaminari supply transport — suggesting the network has
+        enough intelligence on military logistics to plan around official movements.</p>
 
         <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
 
@@ -143,10 +145,10 @@ pages:
 
         <ul>
 
-        <li><strong>Chief Inspector @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        <li><strong>Chief Inspector @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
         Masahiro}</strong> — confirmed ally; his positive assessment of the party has practical value in
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the broader
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the broader
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} region</li>
 
         <li><strong>The enterprising thief</strong> — a loose thread who is gathering information about the party; could
         be a minor complication or a contact depending on future developments</li>

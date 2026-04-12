@@ -13,10 +13,10 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} occupies the valley at the base of the
-        Tenchusan Ren pass -- the primary land route between
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}&#39;s southern lowlands and the northern
-        provinces. Everything that travels overland between these regions passes through Ayame. This geographic
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} occupies the valley at the
+        base of the Tenchusan Ren pass -- the primary land route between
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana}&#39;s southern lowlands and the
+        northern provinces. Everything that travels overland between these regions passes through Ayame. This geographic
         chokepoint function defines the town&#39;s character: it is less a community than a transit organism.</p>
 
         <p>The town is organized around the pass road. The main thoroughfare runs straight through parallel to the
@@ -90,7 +90,7 @@ pages:
 
         <p><strong>Kin no Chochin Ryokan (Golden Lantern Inn)</strong> -- Main waypoint inn on the central street. Busy,
         efficient, well-run. The party stayed here during their
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} transit.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} transit.</p>
 
         <p><strong>Ryu no Yasuragi Yado (Dragon&#39;s Rest Lodge)</strong> -- Secondary inn; the party stayed here after
         the wagon impoundment situation. Slightly more modest.</p>
@@ -121,11 +121,11 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.LOi5OMu6TzWjKKPM]{Takeda Yoshinobu} -- Town leader;
-        competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.LOi5OMu6TzWjKKPM]{Takeda Yoshinobu} -- Town
+        leader; competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
 
-        <li>Chief Inspector @UUID[Compendium.assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} --
-        Teikoku Keisatsu; confirmed party ally -&gt; npcs/oshiro-masahiro.md</li>
+        <li>Chief Inspector @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        Masahiro} -- Teikoku Keisatsu; confirmed party ally -&gt; npcs/oshiro-masahiro.md</li>
 
         </ul>
 

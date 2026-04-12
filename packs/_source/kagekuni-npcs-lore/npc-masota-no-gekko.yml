@@ -16,7 +16,7 @@ pages:
         <h3>Appearance</h3>
 
         <p>Unknown in current state. Formerly the Daimyo of Clan Gekkō, the third independent clan governing
-        @UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province from Hokori.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{Kaze} province from Hokori.</p>
 
 
         <h3>Public Role</h3>
@@ -67,7 +67,7 @@ pages:
 
         <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> The full
         reveal of Masota&#39;s fate is intended to occur at the Monastery of the Black Lily in
-        @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}.</div>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}.</div>
 
 
 
@@ -116,7 +116,7 @@ pages:
 
         <li>Order of the Black Lily at Akatsuki holds the full truth and will propose a partnership</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s ancient
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s ancient
         Dragonborn purification/restoration rite is directly applicable to the Nagaji situation if someone connects the
         dots</li>
 

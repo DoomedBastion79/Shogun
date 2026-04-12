@@ -13,10 +13,10 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} sits at the eastern edge of the
-        Seidorin Mori -- the Bronze Wood Forest -- organized entirely around harvesting and trading a resource it did
-        not create. The Bronze Wood is to Kikyo what a great mine is to a mining town, except the resource is renewable
-        (slowly), carefully managed, and far more politically complicated.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} sits at the eastern edge of
+        the Seidorin Mori -- the Bronze Wood Forest -- organized entirely around harvesting and trading a resource it
+        did not create. The Bronze Wood is to Kikyo what a great mine is to a mining town, except the resource is
+        renewable (slowly), carefully managed, and far more politically complicated.</p>
 
         <p>The city&#39;s architecture uses Bronze Wood extensively -- older buildings have developed a patina of aged
         copper giving streets a warm metallic glow at sunset. Newer construction uses it more sparingly due to licensing
@@ -24,8 +24,8 @@ pages:
 
         <p>Kikyo&#39;s economy runs on the licensing system. Every piece of Bronze Wood leaving the forest passes
         through a licensing transaction administered by
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s office. The paperwork is
-        meticulous; the opportunities for licensed abuse are significant.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s office. The
+        paperwork is meticulous; the opportunities for licensed abuse are significant.</p>
       markdown: ''
     video:
       controls: true
@@ -52,16 +52,16 @@ pages:
         exchange for Bronze Wood contracts. Ko&#39;jiri was caught performing here.</p>
 
         <p><strong>Administrative Quarter</strong> --
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offices and civic
-        administration. The licensing offices are among the most visited buildings in
-        @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offices and
+        civic administration. The licensing offices are among the most visited buildings in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</p>
 
         <p><strong>Residential Quarters</strong> -- Mixed; older areas near the forest edge contain original families;
         newer development pushed outward.</p>
 
         <p><strong>Kikyo Guard Compound</strong> --
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s base of operations.
-        Small but highly capable force focused on licensing enforcement and forest protection.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s base of
+        operations. Small but highly capable force focused on licensing enforcement and forest protection.</p>
       markdown: ''
     video:
       controls: true
@@ -110,11 +110,11 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} -- Shicho (Mayor) and
-        Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} -- Shicho (Mayor)
+        and Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige} -- Captain of the
-        Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige} -- Captain of
+        the Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
 
         </ul>
 

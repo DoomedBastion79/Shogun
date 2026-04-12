@@ -161,13 +161,13 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.kagekuni-racefeatures.5Clb948DdDgeXUxK
+          - uuid: Compendium.kagekuni-assistant.kagekuni-racefeatures.5Clb948DdDgeXUxK
             optional: false
-          - uuid: Compendium.assistant.kagekuni-racefeatures.cJb6GHKYj9lUTDsD
+          - uuid: Compendium.kagekuni-assistant.kagekuni-racefeatures.cJb6GHKYj9lUTDsD
             optional: false
-          - uuid: Compendium.assistant.kagekuni-racefeatures.E21tcHeQmGjaHvKO
+          - uuid: Compendium.kagekuni-assistant.kagekuni-racefeatures.E21tcHeQmGjaHvKO
             optional: false
-          - uuid: Compendium.assistant.kagekuni-racefeatures.FYMXcpzbHvMCfvpl
+          - uuid: Compendium.kagekuni-assistant.kagekuni-racefeatures.FYMXcpzbHvMCfvpl
             optional: false
         optional: false
         spell:

@@ -22,9 +22,10 @@ pages:
         <h3>Public Role</h3>
 
         <p>Owner and master smith of Taro&#39;s Forge in the Kurogane-sho (Steel Precinct) district of
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The district&#39;s most prestigious
-        establishment. Renowned for both quality and integrity. Produces weapons and armor of exceptional craftsmanship;
-        maintains a small stock for immediate sale and takes commissions that can take months to complete.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The district&#39;s most
+        prestigious establishment. Renowned for both quality and integrity. Produces weapons and armor of exceptional
+        craftsmanship; maintains a small stock for immediate sale and takes commissions that can take months to
+        complete.</p>
 
 
         <h3>Personality</h3>

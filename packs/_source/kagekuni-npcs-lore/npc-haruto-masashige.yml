@@ -20,9 +20,10 @@ pages:
 
         <h3>Public Role</h3>
 
-        <p>Captain of the Guard in @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}, operating from
-        the Kikyo Guard Compound. Maintains a small but highly capable force; primary duties are licensing enforcement
-        and forest protection for the Seidōrin Mori (Bronze Wood Forest). Building an informant network in Kikyo.</p>
+        <p>Captain of the Guard in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo},
+        operating from the Kikyo Guard Compound. Maintains a small but highly capable force; primary duties are
+        licensing enforcement and forest protection for the Seidōrin Mori (Bronze Wood Forest). Building an informant
+        network in Kikyo.</p>
 
 
         <h3>Personality</h3>
@@ -33,9 +34,9 @@ pages:
         <h3>Relationship to Party</h3>
 
         <p>Arrested Ko&#39;jiri in Kikyo before the situation was resolved by
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offer of the Summons and
-        Conditional Pardon. Their initial interaction was adversarial but professional. Can become a staunch ally to
-        those who prove their integrity.</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offer of the
+        Summons and Conditional Pardon. Their initial interaction was adversarial but professional. Can become a staunch
+        ally to those who prove their integrity.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -71,8 +72,9 @@ pages:
         <p><em>discoverable</em></p>
 
         <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Haruto
-        sends word to the party in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he has found
-        something in the licensing records that connects to their mission and needs outside help to pursue it.</div>
+        sends word to the party in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he
+        has found something in the licensing records that connects to their mission and needs outside help to pursue
+        it.</div>
 
 
 

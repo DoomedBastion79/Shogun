@@ -21,9 +21,9 @@ pages:
         <h3>Public Role</h3>
 
         <p>Chief Inspector of the Imperial Police stationed in
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, the mountain waypoint town at the base of
-        the Tenchūsan Ren pass. His authority and presence represent imperial law enforcement in this critical transit
-        chokepoint.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, the mountain waypoint town at
+        the base of the Tenchūsan Ren pass. His authority and presence represent imperial law enforcement in this
+        critical transit chokepoint.</p>
 
 
         <h3>Personality</h3>

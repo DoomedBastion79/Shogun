@@ -13,16 +13,16 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} is a small fishing village at the
-        point where the Star River empties into the Serenia-kai. The village has existed in essentially the same form
-        for centuries -- a cluster of wooden thatched houses on the riverbank, a small port with drying racks and
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} is a small fishing village
+        at the point where the Star River empties into the Serenia-kai. The village has existed in essentially the same
+        form for centuries -- a cluster of wooden thatched houses on the riverbank, a small port with drying racks and
         mooring posts. The Serenia-kai&#39;s tidal complexities make the approach navigable only during specific tidal
         windows; the village&#39;s fishermen know these windows intimately.</p>
 
-        <p>The @UUID[Compendium.assistant.items.Item.W11VxXyWegpY4JzH]{kinuo} (gold-tail fish) that commands premium
-        prices in @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} runs heaviest at the
-        Sutariba&#39;s mouth in late spring and early autumn. During these runs, Natsumura&#39;s population effectively
-        doubles with seasonal workers and traders.</p>
+        <p>The @UUID[Compendium.kagekuni-assistant.items.Item.W11VxXyWegpY4JzH]{kinuo} (gold-tail fish) that commands
+        premium prices in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} runs heaviest
+        at the Sutariba&#39;s mouth in late spring and early autumn. During these runs, Natsumura&#39;s population
+        effectively doubles with seasonal workers and traders.</p>
       markdown: ''
     video:
       controls: true
@@ -55,9 +55,9 @@ pages:
         <p><strong>Net Weaver&#39;s Workshop</strong> -- Produces and repairs fishing nets adapted to Serenia-kai
         conditions.</p>
 
-        <p><strong>@UUID[Compendium.assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} Shrine</strong> -- Small
-        riverside shrine dedicated to a water spirit associated with the Sutariba. Receives offerings before gold-tail
-        runs.</p>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} Shrine</strong> --
+        Small riverside shrine dedicated to a water spirit associated with the Sutariba. Receives offerings before
+        gold-tail runs.</p>
       markdown: ''
     video:
       controls: true

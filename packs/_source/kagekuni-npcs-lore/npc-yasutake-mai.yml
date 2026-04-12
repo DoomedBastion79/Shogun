@@ -22,8 +22,8 @@ pages:
         <h3>Public Role</h3>
 
         <p>A young mother fleeing with her infant child. Encountered on the Emperor&#39;s Highway on the first day of
-        travel north from @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} toward
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}. She was out of breath, visibly
+        travel north from @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} toward
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}. She was out of breath, visibly
         distressed, claimed to be carrying a precious package, and asked the party to hold it — the package was her
         infant child. She spotted figures running toward her, tossed the child to the party, and bolted. The figures
         turned out to be boys out for a run, not a threat. Relc caught and returned her.</p>
@@ -79,7 +79,7 @@ pages:
 
         <strong>[QUEST SEED]</strong> Optional extension: introduce Mai to Elder Sato&#39;s community network at
         Kōriwara, earning a favor with Sato and planting a contact in the north
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} foothills.</div>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} foothills.</div>
 
 
 

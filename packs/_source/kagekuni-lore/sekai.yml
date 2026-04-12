@@ -210,7 +210,7 @@ pages:
         Tsukuyomi entered their long retreat from the barycenter of the Miyosai trinary system, sei accessibility
         diminished gradually. The first secondary star crossed below naked-eye visibility around ~12806, marking the
         beginning of the dark ages. The Temple of
-        @UUID[Compendium.assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} fell in 13088 — a
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} fell in 13088 — a
         consequence of the drought, not its cause.</p>
 
         <p>The three stars of the Miyosai system orbit a common gravitational center (barycenter) on different orbital
@@ -276,7 +276,8 @@ pages:
 
         <td>Largest; four tectonic plates; X-shaped</td>
 
-        <td>Primary campaign island; capital @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</td>
+        <td>Primary campaign island; capital
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</td>
 
         </tr>
 
@@ -507,7 +508,7 @@ pages:
 
         <li>Began declining during the War of Fractured Banners era (~12605); first secondary star lost to visibility
         ~12806; effectively inaccessible by ~13088 (when the last major sei institution —
-        @UUID[Compendium.assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} — fell)</li>
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} — fell)</li>
 
         <li>Period without accessible sei lasted approximately 3,077 years (<del>12806–</del>15883)</li>
 
@@ -580,7 +581,7 @@ pages:
         <li><strong>Forest of Spirits</strong> — publicly declared during Plague Campaign</li>
 
         <li><strong>Hikari no Shizuku</strong> — healing/light magic; operates within
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</li>
 
         </ul>
       markdown: ''
@@ -1413,7 +1414,7 @@ pages:
         naturalistic sei traditions.</li>
 
         <li><strong>Hikari no Shizuku</strong> — A healing and light magic tradition operating within the capital city
-        of @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</li>
+        of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.</li>
 
         </ul>
 
@@ -2012,17 +2013,19 @@ pages:
 
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyo —
-        <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no Kazuhiko}</strong> (Clan
-        Kaminari) and <strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko
-        Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s
-        death. Neither has shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been
-        motivated by Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies
-        from consolidating power after his death.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no
+        Kazuhiko}</strong> (Clan Kaminari) and
+        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana}</strong>
+        (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s death. Neither has
+        shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been motivated by
+        Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies from
+        consolidating power after his death.</p>
 
-        <p><strong>@UUID[Compendium.assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura}</strong>, Shugo
-        (military governor) of @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in Kaminari
-        territory, is a <strong>traitor</strong> working with the Genso Alliance. He is using his position to feed
-        intelligence to Genso — likely connected to the larger political destabilisation.</p>
+        <p><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi
+        Nakamura}</strong>, Shugo (military governor) of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in Kaminari territory, is a
+        <strong>traitor</strong> working with the Genso Alliance. He is using his position to feed intelligence to Genso
+        — likely connected to the larger political destabilisation.</p>
 
         <h2 id="kg-war-between-the-alliances" data-section="war-between-the-alliances">War Between the Alliances</h2>
 
@@ -2030,14 +2033,14 @@ pages:
         into open conflict.</p>
 
         <p>The <strong>Genso Alliance</strong> — Clans Fuyugiri, Homoruyama,
-        Ryū@UUID[Compendium.assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}, and Tsuchiura — governs the provinces
-        of @UUID[Compendium.assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} and
-        @UUID[Compendium.assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}. The <strong>Arashi Alliance</strong> —
-        Clans Arashiyama, Hoshizora, Shirotsuru, and Yūgure — governs
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} and
-        @UUID[Compendium.assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}. Two years of escalating hostility have
-        produced no decisive outcome. Battles are fought, borders shift, villages burn, and the common people pay the
-        price.</p>
+        Ryū@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eCDVjJnQ9Qxm3xKJ]{kaze}, and Tsuchiura — governs the
+        provinces of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.LV93vjD1PGfbvh5e]{Kusa} and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.u8vod897Bj7SwTQc]{Tsuchi}. The <strong>Arashi
+        Alliance</strong> — Clans Arashiyama, Hoshizora, Shirotsuru, and Yūgure — governs
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.g7EcVR0mCiVEqVbM]{Nami}. Two years of escalating hostility
+        have produced no decisive outcome. Battles are fought, borders shift, villages burn, and the common people pay
+        the price.</p>
 
         <p>Three clans remain independent: <strong>Kaminari</strong>, <strong>Kurohana</strong>, and
         <strong>Gekkō</strong>. Their allegiance — or continued neutrality — could tip the war decisively. Every faction
@@ -2050,10 +2053,10 @@ pages:
 
         <p>Governed by <strong>Raijin no Kazuhiko</strong>, the Storm-lord — a human warrior of 47 years who was born
         outside the clan and rose through martial prowess alone. Kaminari controls the Province of
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and its capital, <strong>Heian</strong> —
-        the imperial capital, now without an emperor. Known for mastery of storm magic and fierce warriors, Kaminari
-        occupies the most politically sensitive position of any clan: they hold the seat of empire without the authority
-        to claim it.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and its capital,
+        <strong>Heian</strong> — the imperial capital, now without an emperor. Known for mastery of storm magic and
+        fierce warriors, Kaminari occupies the most politically sensitive position of any clan: they hold the seat of
+        empire without the authority to claim it.</p>
 
         <h3 id="kg-clan-kurohana-independent" data-section="clan-kurohana-independent">Clan Kurohana (Independent)</h3>
 
@@ -2077,9 +2080,9 @@ pages:
         reach.</p>
 
         <p>The <strong>Order of the Black Lily</strong> (Monastery of the Black Lily, above
-        @UUID[Compendium.assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in Kaze province) knows the
-        truth and has been monitoring the situation. The party has already encountered and <strong>killed several Nagaji
-        without knowing they were Gekkō clan members</strong>. The moral reckoning is pending.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in Kaze province)
+        knows the truth and has been monitoring the situation. The party has already encountered and <strong>killed
+        several Nagaji without knowing they were Gekkō clan members</strong>. The moral reckoning is pending.</p>
 
         <p>A reversal may be possible but requires rare materials, specific conditions, or Progenitor involvement. The
         details are TBD.</p>
@@ -2216,12 +2219,12 @@ pages:
         traditions.</li>
 
         <li><strong>Order of the Tranquil Lotus</strong> (Unmeijima) — A nature-based monastic order near the town of
-        Kazehama. Elder @UUID[Compendium.assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza of 198
-        years, leads the order.</li>
+        Kazehama. Elder @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza
+        of 198 years, leads the order.</li>
 
         <li><strong>Order of the Sacred Grove</strong> — A druidic tradition protective of specific sacred sites. Its
-        former Guardian, @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}, is
-        deceased. A new Guardian has been appointed.</li>
+        former Guardian, @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen},
+        is deceased. A new Guardian has been appointed.</li>
 
         </ul>
 

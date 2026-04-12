@@ -23,8 +23,8 @@ pages:
 
         <p>Elder Monk of the Order of the Tranquil Lotus. Currently traveling with Sun Wukong and a group of novices
         (Hiroshi, Kazuko, Riku, Sakura, Taro, Yumi) from Kazehama to
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Met Relc at The Moonlit Garden in Heian.
-        Revealed to Benkei a separate assignment from the one Sun Wukong carries.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Met Relc at The Moonlit Garden
+        in Heian. Revealed to Benkei a separate assignment from the one Sun Wukong carries.</p>
 
 
         <h3>Personality</h3>
@@ -72,7 +72,7 @@ pages:
         has information for Relc that he could not share with others present — this conversation is pending.
 
         <strong>[QUEST SEED]</strong> Benkei&#39;s message may reach the party via courier in
-        @UUID[Compendium.assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or via a note left at the gold
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or via a note left at the gold
         doors.</div>
 
 
@@ -87,9 +87,9 @@ pages:
 
         <p>Member of the Order of the Ancient Guard (rank TBD). The Ancient Guard is a secret order connected to the
         living dragons — the campaign&#39;s deepest thread. Benkei&#39;s membership connects him to
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen} (deceased, also Ancient
-        Guard) and @UUID[Compendium.assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki} (Crimson Shrine keeper,
-        Ancient Guard Initiate).</p>
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen} (deceased, also
+        Ancient Guard) and @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki}
+        (Crimson Shrine keeper, Ancient Guard Initiate).</p>
 
         <p>The Order of the Ancient Guard has been compromised by Solas&#39;s death. Benkei is an active member
         navigating a crisis within the order.</p>

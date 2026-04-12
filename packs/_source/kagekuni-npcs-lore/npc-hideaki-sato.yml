@@ -21,9 +21,9 @@ pages:
         <h3>Public Role</h3>
 
         <p>Village elder (chōrō) of Kōriwara, a small foothills village in
-        @UUID[Compendium.assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province. Relc&#39;s home village. Keeper
-        of the sacred grove on the hillside above the village — a small stand of ancient trees reached by a foot path,
-        unmarked and unfenced but respected by the community.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.tXbTnn4zOvBjtpJu]{Mizu} province. Relc&#39;s home village.
+        Keeper of the sacred grove on the hillside above the village — a small stand of ancient trees reached by a foot
+        path, unmarked and unfenced but respected by the community.</p>
 
 
         <h3>Personality</h3>
@@ -57,10 +57,11 @@ pages:
         <p><em>discoverable</em></p>
 
         <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
-        multiple occasions, including with @UUID[Compendium.assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
-        Evergreen} directly. His community network in the Mizu foothills region could help establish
-        @UUID[Compendium.assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai} in Sunsato if the party makes
-        the connection.</p>
+        multiple occasions, including with
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen} directly. His
+        community network in the Mizu foothills region could help establish
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai} in Sunsato if the
+        party makes the connection.</p>
 
 
         </section>
@@ -73,8 +74,8 @@ pages:
 
         <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Sato
         sends word through a traveling merchant heading toward
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he needs to speak with Relc; something
-        has happened near the sacred grove that he cannot explain and cannot address alone.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he needs to speak with Relc;
+        something has happened near the sacred grove that he cannot explain and cannot address alone.
 
         <strong>[QUEST SEED]</strong> A stranger arrived in Kōriwara asking questions about Relc and where they had
         gone; Sato gave nothing away but is concerned about whether Relc is being watched.

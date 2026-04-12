@@ -13,11 +13,11 @@ pages:
     text:
       format: 1
       content: >
-        <p>@UUID[Compendium.assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine} is a village of honest poverty. It
-        sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the head of the Star River, in a valley receiving less
-        direct sunlight due to the mountain&#39;s angle. The small iron mine that sustains the village produces modest
-        yields -- enough to keep the operation viable, not enough to generate real prosperity. Thin, rocky soil
-        supplements mining income through limited farming.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine} is a village of honest
+        poverty. It sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the head of the Star River, in a valley
+        receiving less direct sunlight due to the mountain&#39;s angle. The small iron mine that sustains the village
+        produces modest yields -- enough to keep the operation viable, not enough to generate real prosperity. Thin,
+        rocky soil supplements mining income through limited farming.</p>
 
         <p>The community is close-knit in the way that difficult circumstances produce -- people who depend on each
         other genuinely. Visitors are noticed. Help is offered and received as a matter of course. The village has a
@@ -78,8 +78,8 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.assistant.npcs-lore.JournalEntry.95nEBylil7xHUpjO]{Yamamoto Kenji} -- Village leader -&gt;
-        npcs/yamamoto-kenji.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.95nEBylil7xHUpjO]{Yamamoto Kenji} -- Village
+        leader -&gt; npcs/yamamoto-kenji.md</li>
 
         </ul>
 

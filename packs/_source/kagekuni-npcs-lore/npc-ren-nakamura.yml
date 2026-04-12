@@ -20,10 +20,11 @@ pages:
 
         <h3>Public Role</h3>
 
-        <p>Shicho (Mayor) of @UUID[Compendium.assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} and Daimyo of Clan
-        Minato. Kikyo is a subject city of Clan Kaminari, but Ren Nakamura&#39;s dual role as both civic administrator
-        and minor clan daimyo gives him unusual autonomy. He administers the Bronze Wood licensing system — every piece
-        of Bronze Wood that leaves the Seidōrin Mori passes through a licensing transaction managed by his office.</p>
+        <p>Shicho (Mayor) of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} and Daimyo
+        of Clan Minato. Kikyo is a subject city of Clan Kaminari, but Ren Nakamura&#39;s dual role as both civic
+        administrator and minor clan daimyo gives him unusual autonomy. He administers the Bronze Wood licensing system
+        — every piece of Bronze Wood that leaves the Seidōrin Mori passes through a licensing transaction managed by his
+        office.</p>
 
 
         <h3>Personality</h3>
@@ -35,8 +36,8 @@ pages:
         <h3>Relationship to Party</h3>
 
         <p>Issued the Summons and Conditional Pardon to Ko&#39;jiri. Sent Ko&#39;jiri as envoy to
-        @UUID[Compendium.assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status depends on
-        completing the mission assigned through Ren Nakamura&#39;s authority.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status
+        depends on completing the mission assigned through Ren Nakamura&#39;s authority.</p>
 
         <section class="secret kg-secret-discoverable">
 
@@ -59,8 +60,9 @@ pages:
         <p><em>discoverable</em></p>
 
         <p>The merchant guild he works with is not a Kikyo entity — it is based in Heian with operations across
-        @UUID[Compendium.assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and beyond. The alliance was struck in
-        exchange for financial support for Clan Minato&#39;s elevation ambitions and exclusive export contracts.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.0PBRectAa16xVvjt]{Hana} and beyond. The alliance was
+        struck in exchange for financial support for Clan Minato&#39;s elevation ambitions and exclusive export
+        contracts.</p>
 
 
         </section>
@@ -120,8 +122,8 @@ pages:
 
         <li>Merchant guild exploitation of Seidōrin Mori</li>
 
-        <li>Connection to @UUID[Compendium.assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s
-        licensing investigation</li>
+        <li>Connection to @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto
+        Masashige}&#39;s licensing investigation</li>
 
         </ul>
 
