@@ -320,7 +320,7 @@ pages:
         data-field="type">main</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
         data-field="quest-giver">npc-hideo-nakamura</dd></div><div class="kg-info__row"><dt>Location</dt><dd
-        data-field="location">st-kaze-province</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
+        data-field="location">pr-kaze</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
         data-field="pc-focus">pc-kojiri, pc-dian-wei, pc-relc, pc-sun-wukong</dd></div></dl>
 
         <h3 id="kg-background" data-section="background">Background</h3>
@@ -606,7 +606,7 @@ pages:
         data-field="type">personal</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
         data-field="quest-giver">npc-ren-nakamura</dd></div><div class="kg-info__row"><dt>Location</dt><dd
-        data-field="location">st-akatsuki-kaze-province</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
+        data-field="location">st-akatsuki</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
         data-field="pc-focus">pc-kojiri</dd></div></dl>
 
         <h3 id="kg-background" data-section="background">Background</h3>
@@ -1258,7 +1258,7 @@ pages:
         data-field="type">side</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
         data-field="quest-giver">discovered</dd></div><div class="kg-info__row"><dt>Location</dt><dd
-        data-field="location">st-tenchusan-ren</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
+        data-field="location">loc-tenkuji-temple</dd></div><div class="kg-info__row"><dt>PC Focus</dt><dd
         data-field="pc-focus">pc-kojiri, pc-dian-wei, pc-relc, pc-sun-wukong</dd></div></dl>
 
         <h3 id="kg-background" data-section="background">Background</h3>

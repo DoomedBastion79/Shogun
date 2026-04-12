@@ -36,7 +36,7 @@ flags:
       role: Captain of the Guard, Kikyo
       location: st-kikyo
       affiliations:
-        - clan-kaminari
+        - kaminari
         - kikyo-guard
       tags:
         - captain

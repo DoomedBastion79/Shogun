@@ -36,8 +36,8 @@ flags:
       role: Samurai, Clan Hoshino (vassal of Kurohana)
       location: unknown
       affiliations:
-        - clan-kurohana
-        - clan-hoshino
+        - kurohana
+        - hoshino
       tags:
         - samurai
         - vassal-clan

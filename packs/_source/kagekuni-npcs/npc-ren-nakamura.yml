@@ -36,8 +36,8 @@ flags:
       role: Shicho (Mayor) of Kikyo; Daimyo of Clan Minato
       location: st-kikyo
       affiliations:
-        - clan-minato
-        - clan-kaminari
+        - minato
+        - kaminari
         - merchant-guild
       tags:
         - political-leader

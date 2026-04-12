@@ -141,7 +141,7 @@ flags:
       role: Daimyo of Clan Kurohana
       location: st-utsuroi
       affiliations:
-        - clan-kurohana
+        - kurohana
       tags:
         - daimyo
         - political-leader

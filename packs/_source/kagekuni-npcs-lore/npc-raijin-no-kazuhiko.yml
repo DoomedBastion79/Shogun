@@ -142,7 +142,7 @@ flags:
       role: Daimyo of Clan Kaminari
       location: st-heian
       affiliations:
-        - clan-kaminari
+        - kaminari
       tags:
         - daimyo
         - political-leader
