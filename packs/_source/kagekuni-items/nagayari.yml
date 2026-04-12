@@ -9,30 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/nagayari.md
-    slug: nagayari
+    sourcePath: canon/items.json
+    slug: item-nagayari
     category: weapon
-    frontmatter:
-      name: Nagayari
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 18
-      price:
-        value: 5
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - heavy
-        - reach
-        - ashigaru
-        - formation
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -185,16 +164,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>An extremely long spear — sometimes exceeding twenty feet — the nagayari is a formation weapon, not an
       individual one. Rows of ashigaru brace nagayari in dense hedgehog formations that no cavalry can penetrate.
       Individually the weapon is cumbersome and nearly useless in close quarters, but in disciplined ranks it creates an
       impenetrable wall of steel points. Entire battles have been won by the side with longer spears.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

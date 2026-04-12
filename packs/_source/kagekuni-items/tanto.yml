@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/tanto.md
-    slug: tanto
+    sourcePath: canon/items.json
+    slug: item-tanto
     category: weapon
-    frontmatter:
-      name: Tanto
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 1
-      price:
-        value: 2
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - utility
-        - ritual
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +164,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A short, single-edged blade between six and twelve inches long, the tanto serves as utility knife, sidearm, and
       ritual instrument across all castes of Kagekuni. Samurai carry ornate tanto as part of formal dress; fishermen gut
       their catch with plain ones. Its compact size makes it easy to conceal, and in desperate hands it is as deadly as
       any sword.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

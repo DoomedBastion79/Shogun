@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/wakizashi.md
-    slug: wakizashi
+    sourcePath: canon/items.json
+    slug: item-wakizashi
     category: weapon
-    frontmatter:
-      name: Wakizashi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - finesse
-        - daisho
-        - samurai
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,17 +163,12 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>The shorter companion blade of the daisho pair, the wakizashi is carried alongside the katana by samurai as a
       mark of status. It serves as a close-quarters backup weapon, an indoor sidearm where drawing a full katana would
       be impractical, and — in the most solemn tradition — the instrument of ritual suicide. Commoners are legally
       permitted to carry a wakizashi where a katana is forbidden, making it the blade of merchants and artisans who need
       protection on the road.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

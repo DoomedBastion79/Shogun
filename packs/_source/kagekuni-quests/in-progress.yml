@@ -1458,7 +1458,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/quests.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/quests.json
     slug: in-progress
     frontmatter:
       name: In Progress

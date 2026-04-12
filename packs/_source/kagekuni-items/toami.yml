@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/toami.md
-    slug: toami
+    sourcePath: canon/items.json
+    slug: item-toami
     category: weapon
-    frontmatter:
-      name: Toami
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 3
-      price:
-        value: 1
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - special
-        - thrown
-        - fisherman
-        - bounty-hunter
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -182,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A weighted casting net adapted from fishing equipment, the toami is thrown over targets to entangle and
       restrain them. Coastal villages train their militia with toami for capturing pirates alive, and bounty hunters use
       them to immobilize fugitives without risking a killing blow. The weighted edges spread in flight, and once wrapped
       around a target the net is surprisingly difficult to escape without cutting free.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

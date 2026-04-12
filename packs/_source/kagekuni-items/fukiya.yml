@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/fukiya.md
-    slug: fukiya
+    sourcePath: canon/items.json
+    slug: item-fukiya
     category: weapon
-    frontmatter:
-      name: Fukiya
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 1
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - ranged
-        - assassin
-        - silent
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A slender bamboo tube roughly three feet long, the fukiya launches tiny darts with a sharp breath. Nearly
       silent and easily disguised as a flute or walking stick, it is the preferred weapon for delivering poison at range
       without alerting guards. Hunters use them for small game; agents of the Order of the Black Lily use them for
       targets that must not know they are being attacked until the poison takes hold.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

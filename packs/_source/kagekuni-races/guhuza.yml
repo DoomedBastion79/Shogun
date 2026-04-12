@@ -9,7 +9,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/races/guhuza.md
+    sourcePath: canon/races.json
     slug: guhuza-kwita
     category: race
     subrace: kwita
@@ -28,14 +28,6 @@ system:
     revision: 1
   description:
     value: >-
-      <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-      class="kg-info__row"><dt>Type</dt><dd data-field="type">race</dd></div></dl><p><em lang="ja-Latn">Simian people of
-      Seizan — see <code>core/races.md</code> for the canonical Kagekuni entry and
-
-      <code>npcs/elder-benkei.md</code> for the exemplar elder.</em></p>
-
-      </section>
-
       <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
       data-section="description">Description</h3>
 

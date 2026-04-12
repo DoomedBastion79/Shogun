@@ -2,7 +2,7 @@ _id: 3rv0qzXdR9XkEvIM
 _key: '!items!3rv0qzXdR9XkEvIM'
 name: Iwatake 岩茸 (Rock Mushroom) (上 Jō)
 type: loot
-img: icons/consumables/plants/mushroom-red-brown.webp
+img: modules/assistant/assets/items/iwatake-1.webp
 folder: rrZkKqMRyzbugSKN
 sort: 0
 ownership:

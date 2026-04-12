@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/hankyu.md
-    slug: hankyu
+    sourcePath: canon/items.json
+    slug: item-hankyu
     category: weapon
-    frontmatter:
-      name: Hankyu
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 25
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - ranged
-        - scout
-        - ronin
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A short asymmetric bow, smaller than its battlefield cousin the yumi, the hankyu is favored by scouts, mounted
       skirmishers, and ronin who need a compact ranged weapon for travel. Its reduced draw weight limits range and
       penetration, but its portability makes it invaluable for those who cannot carry a full-sized bow. Many are
       lacquered and wrapped in rattan for weather resistance.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

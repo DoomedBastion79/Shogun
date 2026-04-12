@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/ishinage.md
-    slug: ishinage
+    sourcePath: canon/items.json
+    slug: item-ishinage
     category: weapon
-    frontmatter:
-      name: Ishinage
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 0
-      price:
-        value: 0.1
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - bludgeoning
-        - ranged
-        - peasant
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A braided cord sling for hurling stones, the ishinage is the weapon of shepherds, mountain villagers, and
       anyone too poor for a bow. Ammunition is as close as the nearest riverbed. Skilled slingers can crack bone at
       impressive range, and in the highlands of Kaze province, ishinage tournaments are a village tradition. It weighs
       nothing, costs nothing, and has been killing since before steel was forged.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/chigiriki.md
-    slug: chigiriki
+    sourcePath: canon/items.json
+    slug: item-chigiriki
     category: weapon
-    frontmatter:
-      name: Chigiriki
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - bludgeoning
-        - anti-armor
-        - sohei
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -180,16 +161,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A short staff or handle with a weighted iron ball or chain attached to one end, the chigiriki is an anti-armor
       weapon that wraps around shields and strikes over guards. Sohei warriors train with it to defeat armored opponents
       where blades would glance off. The swinging weight builds tremendous momentum, though the weapon demands skill to
       avoid striking oneself.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

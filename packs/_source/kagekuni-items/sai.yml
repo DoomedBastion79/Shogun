@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/sai.md
-    slug: sai
+    sourcePath: canon/items.json
+    slug: item-sai
     category: weapon
-    frontmatter:
-      name: Sai
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 4
-      price:
-        value: 5
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - parry
-        - martial-arts
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -182,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A three-pronged metal weapon with a central spike flanked by two curved guards, the sai excels at trapping and
       breaking enemy blades. Martial artists and doshin police favor it for its ability to disarm opponents without
       killing. Typically wielded in pairs, a skilled sai fighter can catch a katana between the prongs and twist it from
       the wielder&#39;s grip. The pointed tip also serves as a thrusting weapon in its own right.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

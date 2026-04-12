@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/otsuchi.md
-    slug: otsuchi
+    sourcePath: canon/items.json
+    slug: item-otsuchi
     category: weapon
-    frontmatter:
-      name: Otsuchi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 15
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - bludgeoning
-        - zirak
-        - armorsmith
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A heavy war hammer with a flat striking face on one side and a spiked peen on the other, the otsuchi is the
       signature weapon of Zirak warriors who forge their own arms. The flat face crushes and dents; the spike punches
       through. Armorsmiths who spend their days shaping metal at the anvil develop the precise, powerful swings that
       make the otsuchi lethal in battle — same motion, different intent.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

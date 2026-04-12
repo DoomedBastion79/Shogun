@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/konsaibo.md
-    slug: konsaibo
+    sourcePath: canon/items.json
+    slug: item-konsaibo
     category: weapon
-    frontmatter:
-      name: Konsaibo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 0.1
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - bludgeoning
-        - peasant
-        - police
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A short wooden club reinforced with iron studs or wrapped in cord for a better grip. Konsaibo are carried by
       doshin — low-ranking police officers — to subdue criminals without killing, and by peasants who cannot afford
       forged steel. Cheap, effective, and requiring no training to swing, they are the most common weapon in
       Kagekuni&#39;s lower castes.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

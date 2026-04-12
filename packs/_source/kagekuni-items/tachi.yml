@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/tachi.md
-    slug: tachi
+    sourcePath: canon/items.json
+    slug: item-tachi
     category: weapon
-    frontmatter:
-      name: Tachi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 3
-      price:
-        value: 25
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - slashing
-        - finesse
-        - cavalry
-        - traditional
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>An older style of curved sword predating the katana, the tachi is worn edge-down suspended from the belt — a
       carry style suited to drawing while mounted. Its deeper curve generates sweeping cuts ideal for slashing down from
       horseback. Traditionalist samurai families still carry tachi as a mark of ancient lineage, and the weapon remains
       popular among cavalry officers who value its draw-and-cut fluidity.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

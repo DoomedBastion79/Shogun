@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/tetsubo.md
-    slug: tetsubo
+    sourcePath: canon/items.json
+    slug: item-tetsubo
     category: weapon
-    frontmatter:
-      name: Tetsubo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 10
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - bludgeoning
-        - heavy
-        - guhuza
-        - brute
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A massive iron-shod war club — or in some cases a solid bar of iron — the tetsubo is the heaviest melee weapon
       commonly carried on Kagekuni&#39;s battlefields. Guhuza warriors wield them with terrifying ease, pulverizing
       shields and caving in helmets with each swing. The weapon requires immense strength; lesser warriors who attempt
       it quickly exhaust themselves. When a tetsubo connects, nothing is left standing.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

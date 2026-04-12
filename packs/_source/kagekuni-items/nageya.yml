@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/nageya.md
-    slug: nageya
+    sourcePath: canon/items.json
+    slug: item-nageya
     category: weapon
-    frontmatter:
-      name: Nageya
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 0.5
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - thrown
-        - ashigaru
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,15 +162,10 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A light throwing spear with a narrow leaf-shaped head, the nageya is issued to ashigaru infantry for volley
       fire before melee engagement. Cheaper than arrows and requiring less training than a bow, bundles of nageya are
       stockpiled in every garrison. Hunters also use them for bringing down game at medium range.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

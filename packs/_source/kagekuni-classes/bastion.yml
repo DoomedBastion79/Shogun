@@ -9,7 +9,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    sourcePath: canon/classes.json
     slug: bastion
     category: class
     frontmatter:
@@ -70,18 +70,6 @@ system:
     revision: 1
   description:
     value: >-
-      <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
-      class="kg-info__row"><dt>Type</dt><dd data-field="type">class</dd></div></dl><p><em lang="ja-Latn">Homebrew caster
-      class from GM Binder. The Bastion is an innate sei-manipulator
-
-      who can absorb and redirect magical energy. Uses the Cleric spell list with
-
-      Charisma-based known spellcasting (not prepared). d6 hit die, no armor, and a
-
-      unique Overload Pool mechanic that rewards absorbing enemy spells at physical cost.</em></p>
-
-      </section>
-
       <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
       data-section="description">Description</h3>
 
@@ -1095,9 +1083,9 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.igj965Vzan00txge
+          - uuid: Compendium.assistant.kagekuni-classfeatures.igj965Vzan00txge
             optional: false
-          - uuid: Compendium.assistant.classfeatures.jjxE28rNQ71Q721K
+          - uuid: Compendium.assistant.kagekuni-classfeatures.jjxE28rNQ71Q721K
             optional: false
         optional: false
         spell:
@@ -1118,7 +1106,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.XVhqNqmKJUxw0iMH
+          - uuid: Compendium.assistant.kagekuni-classfeatures.XVhqNqmKJUxw0iMH
             optional: false
         optional: false
         spell:
@@ -1139,7 +1127,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.cSpT6WQt5JtRK6RO
+          - uuid: Compendium.assistant.kagekuni-classfeatures.cSpT6WQt5JtRK6RO
             optional: false
         optional: false
         spell:
@@ -1160,7 +1148,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.o27IEGYia5pAOyG7
+          - uuid: Compendium.assistant.kagekuni-classfeatures.o27IEGYia5pAOyG7
             optional: false
         optional: false
         spell:
@@ -1181,7 +1169,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.E1A4IToMRDGbO25h
+          - uuid: Compendium.assistant.kagekuni-classfeatures.E1A4IToMRDGbO25h
             optional: false
         optional: false
         spell:
@@ -1202,7 +1190,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.9apcyJrn2K8wVoVB
+          - uuid: Compendium.assistant.kagekuni-classfeatures.9apcyJrn2K8wVoVB
             optional: false
         optional: false
         spell:
@@ -1223,7 +1211,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.mdloBJLKqkXlZrzI
+          - uuid: Compendium.assistant.kagekuni-classfeatures.mdloBJLKqkXlZrzI
             optional: false
         optional: false
         spell:
@@ -1244,7 +1232,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.rDg2WHdNKxpaDMM5
+          - uuid: Compendium.assistant.kagekuni-classfeatures.rDg2WHdNKxpaDMM5
             optional: false
         optional: false
         spell:
@@ -1265,7 +1253,7 @@ system:
       type: ItemGrant
       configuration:
         items:
-          - uuid: Compendium.assistant.classfeatures.OxoSK0gRlM4pEudY
+          - uuid: Compendium.assistant.kagekuni-classfeatures.OxoSK0gRlM4pEudY
             optional: false
         optional: false
         spell:

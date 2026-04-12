@@ -9,30 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/odeppo.md
-    slug: odeppo
+    sourcePath: canon/items.json
+    slug: item-odeppo
     category: weapon
-    frontmatter:
-      name: Odeppo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 18
-      price:
-        value: 50
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - ranged
-        - gunpowder
-        - heavy
-        - siege
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -186,16 +165,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A heavy matchlock musket with a long barrel and a forked rest for stability, the odeppo delivers devastating
       firepower at extended range. Too heavy and slow-loading for mobile warfare, it is deployed from castle walls,
       behind fortifications, and in prepared ambush positions. Zirak engineers developed the design for penetrating
       heavy armor at siege distances; a single ball can punch through a wooden shield and the warrior behind it.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/yari.md
-    slug: yari
+    sourcePath: canon/items.json
+    slug: item-yari
     category: weapon
-    frontmatter:
-      name: Yari
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 3
-      price:
-        value: 1
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - ashigaru
-        - infantry
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -182,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>The straight-bladed spear of Kagekuni&#39;s infantry, the yari is the weapon that wins wars. While samurai duel
       with katanas, it is the massed yari of ashigaru formations that hold battle lines and break cavalry charges. A
       simple cross-shaped blade on a wooden shaft, the yari requires minimal training and can be thrown in desperation
       or braced against a charge.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

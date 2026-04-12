@@ -687,7 +687,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: shinwa
     frontmatter:
       name: Shinwa

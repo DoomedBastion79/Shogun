@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/masakari.md
-    slug: masakari
+    sourcePath: canon/items.json
+    slug: item-masakari
     category: weapon
-    frontmatter:
-      name: Masakari
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 4
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - slashing
-        - mountain
-        - sohei
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A broad-bladed war axe with a crescent cutting edge and a stout wooden haft, the masakari is the weapon of
       mountain warriors and militant sohei orders. Heavier and more deliberate than the woodsman&#39;s ono, it is
       designed to split armor and shields. Wielded in one hand with a shield or in two for devastating overhead chops,
       the masakari rewards strength over finesse.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

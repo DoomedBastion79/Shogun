@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/umayari.md
-    slug: umayari
+    sourcePath: canon/items.json
+    slug: item-umayari
     category: weapon
-    frontmatter:
-      name: Umayari
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 6
-      price:
-        value: 10
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - mounted
-        - cavalry
-        - samurai
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A heavy cavalry lance with a reinforced shaft and a long steel point, the umayari is the weapon of mounted
       samurai charging into battle. Couched under the arm at a gallop, it delivers the full momentum of horse and rider
       into a single devastating thrust. Dismounted, the weapon is unwieldy — it requires the speed of a mount to be used
       effectively, and at close quarters a samurai will discard it for their katana.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

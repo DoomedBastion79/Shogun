@@ -9,7 +9,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/buddhist-monk.md
+    sourcePath: canon/classes.json
     slug: intoxicated-frenzy
     className: buddhist-monk
     subclass: drunken-master

@@ -9,27 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/togekanabo.md
-    slug: togekanabo
+    sourcePath: canon/items.json
+    slug: item-togekanabo
     category: weapon
-    frontmatter:
-      name: Togekanabo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 4
-      price:
-        value: 15
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - anti-armor
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -179,16 +161,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A spiked iron club — the togekanabo takes the basic kanabo design and adds protruding steel spikes that punch
       through armor on impact. Where a smooth club bruises and breaks, the spiked variant pierces and tears. Anti-armor
       specialists carry them to counter heavily armored samurai and foreign plate-wearers, trading the broad crushing
       surface for concentrated penetrating force.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

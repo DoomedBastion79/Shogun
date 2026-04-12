@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/tsuruhashi.md
-    slug: tsuruhashi
+    sourcePath: canon/items.json
+    slug: item-tsuruhashi
     category: weapon
-    frontmatter:
-      name: Tsuruhashi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 5
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - siege
-        - zirak
-        - engineer
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -182,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A heavy pick with a curved spike designed to punch through stone and armor alike, the tsuruhashi — literally
       &quot;crane&#39;s beak&quot; — is a siege engineer&#39;s tool adapted for war. Zirak sappers and castle-breakers
       carry them for undermining walls, but the concentrated force of the spike makes it devastatingly effective against
       armored opponents. A single well-placed strike can pierce plate that would deflect a sword.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

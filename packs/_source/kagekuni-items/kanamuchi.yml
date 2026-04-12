@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/kanamuchi.md
-    slug: kanamuchi
+    sourcePath: canon/items.json
+    slug: item-kanamuchi
     category: weapon
-    frontmatter:
-      name: Kanamuchi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 4
-      price:
-        value: 5
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - bludgeoning
-        - sohei
-        - monk
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -180,16 +161,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>An iron-headed mace with a flanged or faceted striking surface, carried primarily by sohei warrior-monks who
       consider edged weapons spiritually impure for their order. The kanamuchi channels blunt force through a short
       haft, crumpling armor without drawing blood. Temple guardians and traveling monks favor it as a weapon that
       incapacitates rather than kills.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

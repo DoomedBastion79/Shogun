@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/uchine.md
-    slug: uchine
+    sourcePath: canon/items.json
+    slug: item-uchine
     category: weapon
-    frontmatter:
-      name: Uchine
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 0.25
-      price:
-        value: 0.05
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - thrown
-        - infiltrator
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -182,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A small weighted throwing spike, shorter and heavier than an arrow, the uchine is flicked from the hand with a
       snap of the wrist. Infiltrators and agents of the Order of the Black Lily carry bundles of them concealed in
       sleeves or sashes. They lack the killing power of a proper weapon but can be thrown in rapid succession and are
       virtually silent.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

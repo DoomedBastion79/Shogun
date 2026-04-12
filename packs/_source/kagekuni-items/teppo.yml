@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/teppo.md
-    slug: teppo
+    sourcePath: canon/items.json
+    slug: item-teppo
     category: weapon
-    frontmatter:
-      name: Teppo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 5
-      price:
-        value: 25
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - piercing
-        - ranged
-        - gunpowder
-        - ashigaru
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -184,16 +164,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A matchlock firearm with a smooth bore and a smoldering slow-match ignition system, the teppo arrived in
       Kagekuni through foreign trade and was swiftly adopted by ashigaru regiments. The weapon is loud, smoky, and slow
       to reload, but it punches through armor that would turn an arrow. The Teppo Bugyo regulates their manufacture and
       distribution; unauthorized possession carries severe penalties.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

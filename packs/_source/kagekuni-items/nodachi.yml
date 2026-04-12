@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/nodachi.md
-    slug: nodachi
+    sourcePath: canon/items.json
+    slug: item-nodachi
     category: weapon
-    frontmatter:
-      name: Nodachi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 6
-      price:
-        value: 50
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - slashing
-        - heavy
-        - elite
-        - infantry
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>An oversized katana with a blade exceeding three feet, the nodachi is a battlefield weapon designed for
       sweeping cuts against cavalry and massed infantry. Too long to draw from a hip scabbard, it is carried slung
       across the back or held ready in both hands. Elite foot soldiers who wield it stride ahead of formations, using
       the blade&#39;s enormous reach to break enemy lines before the yari walls close.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

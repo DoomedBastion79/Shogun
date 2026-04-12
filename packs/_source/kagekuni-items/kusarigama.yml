@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/kusarigama.md
-    slug: kusarigama
+    sourcePath: canon/items.json
+    slug: item-kusarigama
     category: weapon
-    frontmatter:
-      name: Kusarigama
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 3
-      price:
-        value: 2
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - slashing
-        - reach
-        - peasant
-        - ninja
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A kama sickle attached to a weighted chain, the kusarigama is a weapon born from peasant ingenuity. The wielder
       swings the weighted end to entangle weapons or limbs, then closes with the sickle blade. Its reach and
       unpredictable attack angles make it surprisingly effective against swordsmen, and it can be disguised as ordinary
       farming equipment. Rebel groups and covert operatives favor it for this reason.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

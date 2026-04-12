@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/kama.md
-    slug: kama
+    sourcePath: canon/items.json
+    slug: item-kama
     category: weapon
-    frontmatter:
-      name: Kama
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 1
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - slashing
-        - peasant
-        - farming
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A short-handled sickle with a curved blade originally designed for harvesting rice, the kama became a weapon of
       necessity for farmers forbidden to carry swords. Paired kama in trained hands can hook weapons, catch limbs, and
       deliver quick slashing cuts. Burakumin communities have developed their own fighting traditions around this humble
       tool.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

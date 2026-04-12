@@ -9,28 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/kanabo.md
-    slug: kanabo
+    sourcePath: canon/items.json
+    slug: item-kanabo
     category: weapon
-    frontmatter:
-      name: Kanabo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 10
-      price:
-        value: 0.2
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - bludgeoning
-        - brute
-        - oni
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -181,16 +162,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A massive club of iron-studded hardwood — or solid iron in the hands of the strongest warriors — the kanabo is
       a weapon of raw, crushing power. Folk tales associate it with oni, the ogre-demons who wield tree-trunk versions,
       and warriors who carry one earn wary respect. Guhuza and other large-framed fighters favor it for breaking shield
       walls and splintering armor.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

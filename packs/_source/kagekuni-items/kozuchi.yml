@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/kozuchi.md
-    slug: kozuchi
+    sourcePath: canon/items.json
+    slug: item-kozuchi
     category: weapon
-    frontmatter:
-      name: Kozuchi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 2
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - simple
-        - bludgeoning
-        - tool
-        - craftsman
-        - zirak
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A small hammer with a compact iron head and a short wooden handle, the kozuchi is the universal tool of
       Kagekuni&#39;s smiths, carpenters, and stonemasons. Zirak artisans on Tatara carry finely balanced versions that
       serve equally well for riveting armor plates or caving in a skull. The name literally means &quot;small
       hammer,&quot; and many a craftsman has defended their workshop with one.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

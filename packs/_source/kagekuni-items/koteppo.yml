@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/koteppo.md
-    slug: koteppo
+    sourcePath: canon/items.json
+    slug: item-koteppo
     category: weapon
-    frontmatter:
-      name: Koteppo
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 3
-      price:
-        value: 75
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - ranged
-        - gunpowder
-        - compact
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -184,16 +164,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A compact matchlock pistol small enough to fire with one hand, the koteppo sacrifices range and stopping power
       for concealability. Developed by Glimfyr gunsmiths on Tatara and smuggled into the mainland despite Teppo Bugyo
       regulations, it is prized by bodyguards, spies, and anyone who needs a hidden weapon that ends arguments instantly
       at close range. The thunderclap of its discharge makes stealth impossible afterward.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

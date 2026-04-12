@@ -9,7 +9,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/classes/bastion.md
+    sourcePath: canon/classes.json
     slug: spellcasting
     className: bastion
   dnd5e:

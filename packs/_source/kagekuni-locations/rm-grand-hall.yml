@@ -274,7 +274,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
     slug: rm-grand-hall
     frontmatter:
       name: The Grand Hall — Hiroba

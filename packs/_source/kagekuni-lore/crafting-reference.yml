@@ -840,7 +840,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/materials.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/materials.json
     slug: crafting-reference
     frontmatter:
       name: Crafting Reference

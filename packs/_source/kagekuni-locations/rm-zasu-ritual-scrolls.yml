@@ -297,7 +297,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
     slug: rm-zasu-ritual-scrolls
     frontmatter:
       name: The Zasu's Ritual Scrolls — Hebi no Hensen

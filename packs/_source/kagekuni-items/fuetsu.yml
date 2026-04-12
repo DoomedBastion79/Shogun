@@ -9,29 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/fuetsu.md
-    slug: fuetsu
+    sourcePath: canon/items.json
+    slug: item-fuetsu
     category: weapon
-    frontmatter:
-      name: Fuetsu
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 7
-      price:
-        value: 30
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - slashing
-        - heavy
-        - zirak
-        - barbarian
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -183,16 +163,11 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>A massive double-bitted or broad-headed war axe requiring two hands and considerable strength to wield, the
       fuetsu is favored by Zirak berserkers and the northern mountain clans. The name carries ceremonial weight — fuetsu
       were once used in ritual executions, and the weapon retains an air of grim authority. Each swing carries enough
       force to cleave through shield and arm together.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:

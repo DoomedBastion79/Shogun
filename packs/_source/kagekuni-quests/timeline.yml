@@ -423,7 +423,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/canon/timeline.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/timeline.json
     slug: timeline
     frontmatter:
       name: Timeline

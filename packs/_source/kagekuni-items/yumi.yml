@@ -9,30 +9,9 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: C:/Users/andy/OneDrive - Sleepy Hollow Consulting/Gemini Games/Shogun/Claude/items/weapons/yumi.md
-    slug: yumi
+    sourcePath: canon/items.json
+    slug: item-yumi
     category: weapon
-    frontmatter:
-      name: Yumi
-      type: item
-      item_type: weapon
-      rarity: common
-      weight: 2
-      price:
-        value: 50
-        denomination: gp
-      quantity: 1
-      identified: true
-      attunement: false
-      tags:
-        - martial
-        - piercing
-        - ranged
-        - ashigaru
-        - samurai
-        - cavalry
-      related_npcs: []
-      related_quests: []
   dnd5e:
     riders:
       activity: []
@@ -185,17 +164,12 @@ system:
   crew:
     value: []
   description:
-    value: >-
-      <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-description"
-      data-section="description">Description</h3>
-
+    value: >
       <p>The great asymmetric longbow of Kagekuni, the yumi stands taller than most warriors and is gripped below its
       center — a design that allows it to be drawn from horseback without catching on the saddle. Bamboo and hardwood
       laminated together under tension give it tremendous power and range. Yumi ashigaru form the ranged backbone of
       every army, and a skilled mounted archer can loose arrows at a full gallop. Mastery of the yumi is considered both
       a martial skill and a spiritual discipline.</p>
-
-      </section>
     chat: ''
 effects: []
 _stats:
