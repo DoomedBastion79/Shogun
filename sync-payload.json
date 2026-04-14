@@ -1,7 +1,7 @@
 {
   "moduleId": "kagekuni-assistant",
-  "version": "0.6.1",
-  "generated": "2026-04-13T01:20:15.067Z",
+  "version": "0.6.2",
+  "generated": "2026-04-13T05:32:11.364Z",
   "packs": {
     "classes": [
       {
@@ -2328,7 +2328,7 @@
         "_id": "BQZnqxhk4ZnOGW5B",
         "name": "Bo",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/bo.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -2549,7 +2549,7 @@
         "_id": "c9sxxXn0etgh1Sgw",
         "name": "Calligrapher's Supplies",
         "type": "tool",
-        "img": "icons/tools/instruments/lute-gold-brown.webp",
+        "img": "modules/assistant/assets/items/calligraphers-supplies.webp",
         "folder": "2aDy2uANsc4FNnTL",
         "sort": 0,
         "ownership": {
@@ -2629,7 +2629,7 @@
         "_id": "t5OO2afpTB7RHjBO",
         "name": "Chigiriki",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/chigiriki.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -3012,7 +3012,7 @@
         "_id": "jM9216Lys4JfyliX",
         "name": "Fisher's Tackle",
         "type": "tool",
-        "img": "icons/tools/instruments/lute-gold-brown.webp",
+        "img": "modules/assistant/assets/items/fishers-tackle.webp",
         "folder": "2aDy2uANsc4FNnTL",
         "sort": 0,
         "ownership": {
@@ -3092,7 +3092,7 @@
         "_id": "kTvfYVXiltnu5Mng",
         "name": "Fuetsu",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/fuetsu.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -3314,7 +3314,7 @@
         "_id": "Bp2ybQ8En7RFScxE",
         "name": "Fukiya",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/fukiya.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -3536,7 +3536,7 @@
         "_id": "z822PX2irVsSoH4Y",
         "name": "Hankyu",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/hankyu.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -3758,7 +3758,7 @@
         "_id": "QUOpXWGvEEP42ToQ",
         "name": "Herbalism Kit",
         "type": "tool",
-        "img": "icons/tools/instruments/lute-gold-brown.webp",
+        "img": "modules/assistant/assets/items/herbalism-kit.webp",
         "folder": "2aDy2uANsc4FNnTL",
         "sort": 0,
         "ownership": {
@@ -4059,7 +4059,7 @@
         "_id": "sg7kMwPGX4EFIU9r",
         "name": "Kama",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/kama.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -4501,7 +4501,7 @@
         "_id": "Hr8MypjPhJOZEHGP",
         "name": "Kanamuchi",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/kanamuchi.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -4804,7 +4804,7 @@
         "_id": "gjfUx1BMl03bM1se",
         "name": "Katana",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/katana-1.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -5411,7 +5411,7 @@
         "_id": "VHrL1ZcT2sKdjwYS",
         "name": "Konsaibo",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/konsaibo.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -5632,7 +5632,7 @@
         "_id": "VlEvw8TRhmakVUJk",
         "name": "Kote",
         "type": "equipment",
-        "img": "icons/equipment/chest/breastplate-leather-brown.webp",
+        "img": "modules/assistant/assets/items/kote.webp",
         "folder": "kSFnY4o71ub2pQrU",
         "sort": 0,
         "ownership": {
@@ -5939,7 +5939,7 @@
         "_id": "gSudFrg2J3hN1naX",
         "name": "Kozuchi",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/kozuchi.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -6245,7 +6245,7 @@
         "_id": "oyuh63rycmjGOOZU",
         "name": "Kusarigama",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/kusarigama.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -6467,7 +6467,7 @@
         "_id": "YTXMudbs3F8v57p4",
         "name": "Masakari",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/masakari.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -9026,7 +9026,7 @@
         "_id": "gH0kcGOznO0ndFyQ",
         "name": "Enokidake 榎茸 (Golden Thread Mushroom) (極上 Gokujō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/enokidake-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/enokidake.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -9108,7 +9108,7 @@
         "_id": "mViV9S9NAeHUl7qU",
         "name": "Enokidake 榎茸 (Golden Thread Mushroom) (上 Jō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/enokidake-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/enokidake.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -9190,7 +9190,7 @@
         "_id": "sXFCprdJvMwcvshQ",
         "name": "Enokidake 榎茸 (Golden Thread Mushroom) (並 Nami)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/enokidake-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/enokidake.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -9272,7 +9272,7 @@
         "_id": "EnUqEAG99QOK1LOs",
         "name": "Enokidake 榎茸 (Golden Thread Mushroom) (特上 Tokujō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/enokidake-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/enokidake.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -14850,7 +14850,7 @@
         "_id": "yfJweDDdwQjFRBsf",
         "name": "Hoshiyo-jio 星夜塩 (Starlit Salt) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/grains/grain-wheat-bundle.webp",
+        "img": "modules/kagekuni-assistant/assets/items/hoshiyo-jio.webp",
         "folder": "1XV63M5X1jtx2EVb",
         "sort": 0,
         "ownership": {
@@ -14930,7 +14930,7 @@
         "_id": "qM9QsGBveANaUdZJ",
         "name": "Hoshiyo-jio 星夜塩 (Starlit Salt) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/grains/grain-wheat-bundle.webp",
+        "img": "modules/kagekuni-assistant/assets/items/hoshiyo-jio.webp",
         "folder": "1XV63M5X1jtx2EVb",
         "sort": 0,
         "ownership": {
@@ -15010,7 +15010,7 @@
         "_id": "WHvGow5wNXMNY6Lr",
         "name": "Hoshiyo-jio 星夜塩 (Starlit Salt) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/grains/grain-wheat-bundle.webp",
+        "img": "modules/kagekuni-assistant/assets/items/hoshiyo-jio.webp",
         "folder": "1XV63M5X1jtx2EVb",
         "sort": 0,
         "ownership": {
@@ -15090,7 +15090,7 @@
         "_id": "hcfDCKJk9hg4rzdE",
         "name": "Hoshiyo-jio 星夜塩 (Starlit Salt) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/grains/grain-wheat-bundle.webp",
+        "img": "modules/kagekuni-assistant/assets/items/hoshiyo-jio.webp",
         "folder": "1XV63M5X1jtx2EVb",
         "sort": 0,
         "ownership": {
@@ -15818,7 +15818,7 @@
         "_id": "GLIQZ0YLtjaZAYcE",
         "name": "Iwa-ninniku 岩大蒜 (Cliff Garlic) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/plants/leaf-herb-green.webp",
+        "img": "modules/kagekuni-assistant/assets/items/iwa-ninniku.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -15900,7 +15900,7 @@
         "_id": "3WLkatDhT4V1W7wh",
         "name": "Iwa-ninniku 岩大蒜 (Cliff Garlic) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/plants/leaf-herb-green.webp",
+        "img": "modules/kagekuni-assistant/assets/items/iwa-ninniku.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -15982,7 +15982,7 @@
         "_id": "SdIxfncUyyufiS5a",
         "name": "Iwa-ninniku 岩大蒜 (Cliff Garlic) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/plants/leaf-herb-green.webp",
+        "img": "modules/kagekuni-assistant/assets/items/iwa-ninniku.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -16064,7 +16064,7 @@
         "_id": "5q0RR16JnI7Vd7El",
         "name": "Iwa-ninniku 岩大蒜 (Cliff Garlic) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/plants/leaf-herb-green.webp",
+        "img": "modules/kagekuni-assistant/assets/items/iwa-ninniku.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -25186,7 +25186,7 @@
         "_id": "j575JftmQhDqpROh",
         "name": "Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumo-no-su-koji.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -25267,7 +25267,7 @@
         "_id": "af7RgjBHCCGJfSEv",
         "name": "Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumo-no-su-koji.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -25348,7 +25348,7 @@
         "_id": "MSRhmCBH7aI1exsv",
         "name": "Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumo-no-su-koji.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -25429,7 +25429,7 @@
         "_id": "8CWt1RruB8udc83M",
         "name": "Kumo-no-Su Kōji 雲の巣麹 (Cloud Nest Mold) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumo-no-su-koji.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -25510,7 +25510,7 @@
         "_id": "CDRvVYgnsHlIIN5j",
         "name": "Kumokiji 雲雉 (Cloud Pheasant) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumokiji.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -25591,7 +25591,7 @@
         "_id": "AJtgOuzUagPj7rIE",
         "name": "Kumokiji 雲雉 (Cloud Pheasant) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumokiji.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -25672,7 +25672,7 @@
         "_id": "K2FzYgSUff1b9ZX8",
         "name": "Kumokiji 雲雉 (Cloud Pheasant) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumokiji.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -25753,7 +25753,7 @@
         "_id": "NadoQYpUYNGdJemX",
         "name": "Kumokiji 雲雉 (Cloud Pheasant) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/meat/steak-plain-brown-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kumokiji.webp",
         "folder": "oW56WfbIg5gD6jHK",
         "sort": 0,
         "ownership": {
@@ -26162,7 +26162,7 @@
         "_id": "ytEnbkwY4I1fl0TO",
         "name": "Kuro-koshō 黒胡椒 (Black Mountain Pepper) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kuro-kosho.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -26243,7 +26243,7 @@
         "_id": "auZUEuGMNb8s8Hbq",
         "name": "Kuro-koshō 黒胡椒 (Black Mountain Pepper) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kuro-kosho.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -26324,7 +26324,7 @@
         "_id": "ZLj5ufK7rq9JzGXu",
         "name": "Kuro-koshō 黒胡椒 (Black Mountain Pepper) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kuro-kosho.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -26405,7 +26405,7 @@
         "_id": "luqoTzDPOBncFEqa",
         "name": "Kuro-koshō 黒胡椒 (Black Mountain Pepper) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/kuro-kosho.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -29714,7 +29714,7 @@
         "_id": "XQ08ngal8tjX4vnj",
         "name": "Myōga 茗荷 (Wild Ginger Bud) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/myoga.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -29794,7 +29794,7 @@
         "_id": "UpCF5jm79wd1NK1K",
         "name": "Myōga 茗荷 (Wild Ginger Bud) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/myoga.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -29874,7 +29874,7 @@
         "_id": "pjtG5gtO91pXi28i",
         "name": "Myōga 茗荷 (Wild Ginger Bud) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/myoga.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -29954,7 +29954,7 @@
         "_id": "JzBO9jgvXJBKDNc8",
         "name": "Myōga 茗荷 (Wild Ginger Bud) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/myoga.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -30034,7 +30034,7 @@
         "_id": "rF4gbNXGVXrIAR6V",
         "name": "Nameko 滑子 (Amber Cap) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/plants/mushroom-red-brown.webp",
+        "img": "modules/kagekuni-assistant/assets/items/nameko.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -30115,7 +30115,7 @@
         "_id": "9w7fRgkeKJxmskhg",
         "name": "Nameko 滑子 (Amber Cap) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/plants/mushroom-red-brown.webp",
+        "img": "modules/kagekuni-assistant/assets/items/nameko.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -30196,7 +30196,7 @@
         "_id": "kXLs9ptBvRBFF3fP",
         "name": "Nameko 滑子 (Amber Cap) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/plants/mushroom-red-brown.webp",
+        "img": "modules/kagekuni-assistant/assets/items/nameko.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -30277,7 +30277,7 @@
         "_id": "vbEeJgOA3rLIEJcq",
         "name": "Nameko 滑子 (Amber Cap) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/plants/mushroom-red-brown.webp",
+        "img": "modules/kagekuni-assistant/assets/items/nameko.webp",
         "folder": "rrZkKqMRyzbugSKN",
         "sort": 0,
         "ownership": {
@@ -31404,7 +31404,7 @@
         "_id": "9YlIAXG2GJHFOujx",
         "name": "Ōkami no Abura 狼の脂 (Mountain God's Rendered Fat)",
         "type": "loot",
-        "img": "icons/consumables/grains/grain-wheat-bundle.webp",
+        "img": "modules/kagekuni-assistant/assets/items/okami-no-abura.webp",
         "folder": "1XV63M5X1jtx2EVb",
         "sort": 0,
         "ownership": {
@@ -32220,7 +32220,7 @@
         "_id": "mrdS3RDZCvziiJaK",
         "name": "Rei-en 霊塩 (Spirit Salt) (極上 Gokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/rei-en.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -32301,7 +32301,7 @@
         "_id": "ELJ8OZIl0or0Ca1U",
         "name": "Rei-en 霊塩 (Spirit Salt) (上 Jō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/rei-en.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -32382,7 +32382,7 @@
         "_id": "tKZveXKc3V6hd6AS",
         "name": "Rei-en 霊塩 (Spirit Salt) (並 Nami)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/rei-en.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -32463,7 +32463,7 @@
         "_id": "WQ9L26Ts9XbjuDnm",
         "name": "Rei-en 霊塩 (Spirit Salt) (特上 Tokujō)",
         "type": "loot",
-        "img": "icons/consumables/food/bowl-liquid-soup-white.webp",
+        "img": "modules/kagekuni-assistant/assets/items/rei-en.webp",
         "folder": "XxINXNOKM6waGcYz",
         "sort": 0,
         "ownership": {
@@ -52502,7 +52502,7 @@
         "_id": "ZZsiEdd5T0FCJWOV",
         "name": "Zenmai 薇 (Royal Fern) (極上 Gokujō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/zenmai-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/zenmai.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -52583,7 +52583,7 @@
         "_id": "XC3s9r4oqL6xc4G4",
         "name": "Zenmai 薇 (Royal Fern) (上 Jō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/zenmai-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/zenmai.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -52664,7 +52664,7 @@
         "_id": "6v3aUGLgt93Yr5tB",
         "name": "Zenmai 薇 (Royal Fern) (並 Nami)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/zenmai-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/zenmai.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -52745,7 +52745,7 @@
         "_id": "MQ4H5sNeyuN0snBI",
         "name": "Zenmai 薇 (Royal Fern) (特上 Tokujō)",
         "type": "loot",
-        "img": "modules/kagekuni-assistant/assets/items/zenmai-1.webp",
+        "img": "modules/kagekuni-assistant/assets/items/zenmai.webp",
         "folder": "s0C8x7l7f1BXaWFT",
         "sort": 0,
         "ownership": {
@@ -52826,7 +52826,7 @@
         "_id": "pXSHGw1LOFJParjR",
         "name": "Menpo",
         "type": "equipment",
-        "img": "icons/equipment/chest/breastplate-leather-brown.webp",
+        "img": "modules/assistant/assets/items/menpo.webp",
         "folder": "kSFnY4o71ub2pQrU",
         "sort": 0,
         "ownership": {
@@ -52992,7 +52992,7 @@
         "_id": "1Ph3VMCDjdEH0Sax",
         "name": "Nagamaki",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/nagamaki.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -53659,7 +53659,7 @@
         "_id": "W68x1V4SNE23WQaV",
         "name": "Naginata",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/naginata.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -53882,7 +53882,7 @@
         "_id": "IoDdRjXPp6EH3sq7",
         "name": "Nodachi",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/nodachi.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -54104,7 +54104,7 @@
         "_id": "blOX0ByEpM2JAX4R",
         "name": "O-Yoroi",
         "type": "equipment",
-        "img": "icons/equipment/chest/breastplate-leather-brown.webp",
+        "img": "modules/assistant/assets/items/o-yoroi.webp",
         "folder": "kSFnY4o71ub2pQrU",
         "sort": 0,
         "ownership": {
@@ -54412,7 +54412,7 @@
         "_id": "dkb6cB1000EjBJwJ",
         "name": "Ono",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/ono.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -54855,7 +54855,7 @@
         "_id": "xR1VWRQxETIiZFSK",
         "name": "Sai",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/sai.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -55323,7 +55323,7 @@
         "_id": "T6vpr67yYxjZxJX6",
         "name": "Smith's Tools",
         "type": "tool",
-        "img": "icons/tools/instruments/lute-gold-brown.webp",
+        "img": "modules/assistant/assets/items/smiths-tools.webp",
         "folder": "2aDy2uANsc4FNnTL",
         "sort": 0,
         "ownership": {
@@ -55403,7 +55403,7 @@
         "_id": "22FneaZLO9oCEbtX",
         "name": "Tachi",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/tachi.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -55625,7 +55625,7 @@
         "_id": "lU32QFuOJAz7piyM",
         "name": "Tanto",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/tanto.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -56155,7 +56155,7 @@
         "_id": "396lybNslxgE2INM",
         "name": "Tetsubo",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/tetsubo.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -56377,7 +56377,7 @@
         "_id": "WLKFnqOGr5kqiwgN",
         "name": "Tinker's Tools",
         "type": "tool",
-        "img": "icons/tools/instruments/lute-gold-brown.webp",
+        "img": "modules/assistant/assets/items/tinkers-tools.webp",
         "folder": "2aDy2uANsc4FNnTL",
         "sort": 0,
         "ownership": {
@@ -56457,7 +56457,7 @@
         "_id": "CNzlyd0mYbwn4mlW",
         "name": "Toami",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/toami.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -56677,7 +56677,7 @@
         "_id": "34CpSW0V1QPFZ7cA",
         "name": "Togekanabo",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/togekanabo.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -57197,7 +57197,7 @@
         "_id": "t61mEcYxZTpjVQGi",
         "name": "Uchine",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/uchine.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -57419,7 +57419,7 @@
         "_id": "QA0aFP5484QG7T4W",
         "name": "Umayari",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/umayari.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -57641,7 +57641,7 @@
         "_id": "sBEDzQKR8WrsRNGg",
         "name": "Wakizashi",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/wakizashi.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
@@ -57863,7 +57863,7 @@
         "_id": "asoqYmPHI6qa17ON",
         "name": "Yari",
         "type": "weapon",
-        "img": "icons/weapons/swords/sword-katana.webp",
+        "img": "modules/assistant/assets/items/yari.webp",
         "folder": "ZxriAGgmoRDfCImz",
         "sort": 0,
         "ownership": {
