@@ -13,6 +13,14 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="village"><div class="kg-stl-badges"><span
+        class="kg-badge kg-badge--type kg-badge--village">Village</span> <span class="kg-badge kg-badge--province">Hana
+        Province</span> <span class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop:
+        Small</span></div><div class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong>
+        Kaminari</span><span class="kg-stl-detail"><strong>Climate:</strong> Temperate; forested surroundings; along
+        Emperor's Highway</span><span class="kg-stl-detail kg-stl-subtitle"><em>"It grew because travelers needed a
+        reason to stop. Now they stop because it grew."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura Mura} did not begin as a
         planned settlement -- it accumulated around a single inn on the Emperor&#39;s Highway that proved
         well-positioned for a rest stop. Over generations, the inn attracted other services, the services attracted

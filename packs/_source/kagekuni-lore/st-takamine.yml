@@ -13,6 +13,14 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="village"><div class="kg-stl-badges"><span
+        class="kg-badge kg-badge--type kg-badge--village">Village</span> <span class="kg-badge kg-badge--province">Hana
+        Province</span> <span class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop:
+        Tiny</span></div><div class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong>
+        Kaminari</span><span class="kg-stl-detail"><strong>Climate:</strong> Mountain shadow; less direct sunlight; thin
+        rocky soil</span><span class="kg-stl-detail kg-stl-subtitle"><em>"The mountain owes us nothing. We dig
+        anyway."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine} is a village of honest
         poverty. It sits in the shadow of Kinryuzan (Gold Dragon Mountain) at the head of the Star River, in a valley
         receiving less direct sunlight due to the mountain&#39;s angle. The small iron mine that sustains the village

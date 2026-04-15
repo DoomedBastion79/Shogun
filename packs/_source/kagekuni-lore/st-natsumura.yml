@@ -13,6 +13,14 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="village"><div class="kg-stl-badges"><span
+        class="kg-badge kg-badge--type kg-badge--village">Village</span> <span class="kg-badge kg-badge--province">Hana
+        Province</span> <span class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop:
+        Small</span></div><div class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong>
+        Kaminari</span><span class="kg-stl-detail"><strong>Climate:</strong> Coastal; influenced by Serenia-kai tidal
+        patterns</span><span class="kg-stl-detail kg-stl-subtitle"><em>"The sea gives and the sea takes. We have learned
+        not to keep count."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.DGvk4sQTQAwvHUzg]{Natsumura} is a small fishing village
         at the point where the Star River empties into the Serenia-kai. The village has existed in essentially the same
         form for centuries -- a cluster of wooden thatched houses on the riverbank, a small port with drying racks and

@@ -1,0 +1,92 @@
+_id: JQJ6tpvcYIcSLPr4
+_key: '!macros!JQJ6tpvcYIcSLPr4'
+name: 運 Spend Luck
+type: script
+author: XpREWoanxMMNbVJq
+img: icons/svg/d20-grey.svg
+scope: global
+folder: JKPIgLkjw6nSwAIN
+sort: 10
+command: |-
+  const speaker = ChatMessage.getSpeaker();
+  const actor = game.actors.get(speaker.actor);
+
+  if (!actor) {
+    ui.notifications.warn("Select a token or assign a default character.");
+    return;
+  }
+
+  const res = actor.system.resources?.secondary;
+  if (!res) {
+    ui.notifications.error("This actor has no secondary resource slot.");
+    return;
+  }
+
+  const current = res.value ?? 0;
+  if (current <= 0) {
+    ui.notifications.warn(`${actor.name} has no luck points to spend.`);
+    return;
+  }
+
+  // Prompt for how many points to spend
+  const formContent = `
+    <form>
+      <div class="form-group">
+        <label>Points to spend (available: <strong>${current}</strong>)</label>
+        <input type="number" name="points" value="1" min="1" max="${current}"
+               autofocus />
+      </div>
+    </form>`;
+
+  new Dialog({
+    title: "Spend Luck",
+    content: formContent,
+    buttons: {
+      spend: {
+        icon: '<i class="fas fa-dice-d20"></i>',
+        label: "Spend",
+        callback: async (html) => {
+          const points = Math.clamped(
+            parseInt(html.find('[name="points"]').val()) || 0,
+            0,
+            current
+          );
+          if (points <= 0) return;
+
+          const newVal = current - points;
+          await actor.update({
+            "system.resources.secondary.value": newVal,
+          });
+
+          await ChatMessage.create({
+            speaker,
+            content: `
+              <div class="dnd5e chat-card">
+                <header class="card-header flexrow">
+                  <img src="icons/svg/d20-grey.svg" width="36" height="36"/>
+                  <h3>Luck Spent</h3>
+                </header>
+                <div class="card-content">
+                  <p><strong>${actor.name}</strong> spends
+                     <strong>${points}</strong> luck point${points > 1 ? "s" : ""}
+                     (+${points} to a roll).</p>
+                  <p style="opacity:0.8">Pool: ${current} → ${newVal}</p>
+                </div>
+              </div>`,
+            rollMode: game.settings.get("core", "rollMode"),
+          });
+        },
+      },
+      cancel: {
+        icon: '<i class="fas fa-times"></i>',
+        label: "Cancel",
+      },
+    },
+    default: "spend",
+  }).render(true);
+flags:
+  assistant:
+    folderPath: macros/utility
+ownership:
+  default: 0
+  XpREWoanxMMNbVJq: 3

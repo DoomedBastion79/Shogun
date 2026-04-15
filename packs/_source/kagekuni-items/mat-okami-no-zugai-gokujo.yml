@@ -63,7 +63,7 @@ system:
       <h4>DM Notes</h4>
 
       <p>**One-time harvest.** Single-grade-locked at 極上 Gokujō. Party currently holds the intact skull (tracked in
-      `dm/campaign-state.md`).
+      `Obsidian/dm/campaign-state.md`).
 
 
       **Skill-Check Reveals** — one check per skill; nat-20 reveals all three.
@@ -110,7 +110,7 @@ system:
 effects: []
 _stats:
   systemId: dnd5e
-  systemVersion: 5.3.0
+  systemVersion: 5.3.1
   coreVersion: '14.359'
   createdTime: null
   modifiedTime: null

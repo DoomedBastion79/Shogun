@@ -13,6 +13,14 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="village"><div class="kg-stl-badges"><span
+        class="kg-badge kg-badge--type kg-badge--village">Village</span> <span class="kg-badge kg-badge--province">Kaze
+        Province</span> <span class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop:
+        Small</span></div><div class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong>
+        Gekko</span><span class="kg-stl-detail"><strong>Climate:</strong> Cold; perpetual shadow from peaks; mist rarely
+        lifts</span><span class="kg-stl-detail kg-stl-subtitle"><em>"The village that keeps secrets the way stone keeps
+        cold -- completely and without effort."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} -- Dawn -- is a village
         whose name contradicts its character. It sits in perpetual shadow from the peaks above it, reached by a winding
         stone path gaining significant altitude. The air is cold even in summer. Mist collects in the surrounding

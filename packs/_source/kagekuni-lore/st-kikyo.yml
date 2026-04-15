@@ -13,6 +13,14 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="city"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--type kg-badge--city">City</span> <span class="kg-badge kg-badge--province">Hana Province</span> <span
+        class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop: Large</span></div><div
+        class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong> Kaminari</span><span
+        class="kg-stl-detail"><strong>Climate:</strong> Temperate; influenced by Seidorin Mori microclimate; slightly
+        warmer and drier than coastal Hana</span><span class="kg-stl-detail kg-stl-subtitle"><em>"The city that built
+        its fortune on something older than itself."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} sits at the eastern edge of
         the Seidorin Mori -- the Bronze Wood Forest -- organized entirely around harvesting and trading a resource it
         did not create. The Bronze Wood is to Kikyo what a great mine is to a mining town, except the resource is

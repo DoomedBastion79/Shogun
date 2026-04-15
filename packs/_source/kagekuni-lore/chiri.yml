@@ -140,7 +140,7 @@ pages:
 
         <td>Eastern side of NE leg</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</td>
+        <td>Kuraihana</td>
 
         <td>Independent</td>
 
@@ -182,7 +182,7 @@ pages:
 
         <td>Northeastern tip</td>
 
-        <td>Namigashira</td>
+        <td>Kogarashi</td>
 
         <td>Arashi</td>
 
@@ -196,7 +196,7 @@ pages:
 
         <td>Central mountains</td>
 
-        <td>Kumo-no-Ue</td>
+        <td>Sakurano</td>
 
         <td>Independent</td>
 
@@ -210,7 +210,7 @@ pages:
 
         <td>Southern highlands</td>
 
-        <td>Tsuchimoto</td>
+        <td>Twagakure</td>
 
         <td>Genso</td>
 
@@ -1815,11 +1815,21 @@ pages:
 
         <tbody><tr>
 
+        <td>Kogarashi</td>
+
+        <td>City</td>
+
+        <td>Provincial capital; fortress-port; commands the northern strait</td>
+
+        </tr>
+
+        <tr>
+
         <td>Namigashira</td>
 
         <td>City</td>
 
-        <td>Provincial capital; major eastern port; fortified against storm and invasion</td>
+        <td>Major eastern port; fortified against storm and invasion</td>
 
         </tr>
 
@@ -2234,11 +2244,21 @@ pages:
 
         <tbody><tr>
 
+        <td>Twagakure</td>
+
+        <td>City</td>
+
+        <td>Provincial capital; hidden mountain stronghold</td>
+
+        </tr>
+
+        <tr>
+
         <td>Tsuchimoto</td>
 
         <td>City</td>
 
-        <td>Agricultural capital; granary city; market center; Genso-aligned</td>
+        <td>Agricultural center; granary city; market center; Genso-aligned</td>
 
         </tr>
 

@@ -123,3 +123,75 @@
   text-decoration-color: rgba(0, 0, 0, 0.3);
   cursor: help;
 }
+
+/* ---- Settlement header ------------------------------------------------ */
+.kg-settlement-header {
+  margin: 0 0 1rem 0;
+  padding: 0.6rem 0.75rem;
+  background: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+
+.kg-stl-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  align-items: center;
+}
+
+.kg-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.06);
+  color: #4b5563;
+  white-space: nowrap;
+}
+
+/* Type badges — color coded */
+.kg-badge--type {
+  color: white;
+  letter-spacing: 0.03em;
+}
+.kg-badge--village  { background: #5b7553; }
+.kg-badge--town     { background: #6b6042; }
+.kg-badge--city     { background: #7c3aed; }
+.kg-badge--castle   { background: #991b1b; }
+.kg-badge--outpost  { background: #6b7280; }
+.kg-badge--port     { background: #1a5276; }
+
+/* Province badge */
+.kg-badge--province {
+  background: rgba(37, 99, 235, 0.1);
+  color: #1e40af;
+}
+
+/* Population badge */
+.kg-badge--pop {
+  background: rgba(107, 114, 128, 0.1);
+  color: #374151;
+}
+
+/* Detail rows */
+.kg-stl-details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  margin-top: 0.5rem;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  font-size: 0.82rem;
+  color: #4b5563;
+}
+
+.kg-stl-detail strong {
+  color: #374151;
+}
+
+.kg-stl-subtitle {
+  color: #6b7280;
+  font-style: italic;
+}

@@ -13,6 +13,13 @@ pages:
     text:
       format: 1
       content: >
+        <div class="kg-settlement-header" data-settlement-type="village"><div class="kg-stl-badges"><span
+        class="kg-badge kg-badge--type kg-badge--village">Village</span> <span class="kg-badge kg-badge--province">Mizu
+        Province</span> <span class="kg-badge kg-badge--island">Hokori</span> <span class="kg-badge kg-badge--pop">Pop:
+        Small</span></div><div class="kg-stl-details"><span class="kg-stl-detail"><strong>Clan:</strong> Tbd</span><span
+        class="kg-stl-detail"><strong>Climate:</strong> Foothills; transitional maritime to montane</span><span
+        class="kg-stl-detail kg-stl-subtitle"><em>"Not every important place announces itself."</em></span></div></div>
+
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} sits in the foothills where
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
         province&#39;s maritime lowlands begin to rise toward Hokori&#39;s interior ranges. It is unremarkable by any

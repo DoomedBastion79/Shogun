@@ -60,9 +60,9 @@ system:
 
       <h4>DM Notes</h4>
 
-      <p>See `dm/campaign-state.md` for current inventory tracking. Meat retains the cold touch of the beast&#39;s
-      high-altitude life for the first day after butchering. Makes for an exceptional base to any Refined or Masterwork
-      preparation.</p>
+      <p>See `Obsidian/dm/campaign-state.md` for current inventory tracking. Meat retains the cold touch of the
+      beast&#39;s high-altitude life for the first day after butchering. Makes for an exceptional base to any Refined or
+      Masterwork preparation.</p>
 
       </section>
     chat: ''
@@ -88,7 +88,7 @@ system:
 effects: []
 _stats:
   systemId: dnd5e
-  systemVersion: 5.3.0
+  systemVersion: 5.3.1
   coreVersion: '14.359'
   createdTime: null
   modifiedTime: null

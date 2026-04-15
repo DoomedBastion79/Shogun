@@ -1,0 +1,56 @@
+_id: WxSTaIvfF8rRKNth
+_key: '!macros!WxSTaIvfF8rRKNth'
+name: 運 Roll Luck
+type: script
+author: XpREWoanxMMNbVJq
+img: icons/svg/d20-grey.svg
+scope: global
+folder: JKPIgLkjw6nSwAIN
+sort: 0
+command: |-
+  const speaker = ChatMessage.getSpeaker();
+  const actor = game.actors.get(speaker.actor);
+
+  if (!actor) {
+    ui.notifications.warn("Select a token or assign a default character.");
+    return;
+  }
+
+  const res = actor.system.resources?.secondary;
+  if (!res) {
+    ui.notifications.error("This actor has no secondary resource slot.");
+    return;
+  }
+
+  // Roll 1d4+1
+  const roll = await new Roll("1d4+1").evaluate();
+
+  // Update the pool
+  const oldVal = res.value ?? 0;
+  const newVal = oldVal + roll.total;
+  await actor.update({ "system.resources.secondary.value": newVal });
+
+  // Post to chat with the roll
+  const content = `
+    <div class="dnd5e chat-card">
+      <header class="card-header flexrow">
+        <img src="icons/svg/d20-grey.svg" width="36" height="36"/>
+        <h3>Luck Roll</h3>
+      </header>
+      <div class="card-content">
+        <p><strong>${actor.name}</strong> gains <strong>${roll.total}</strong> luck!</p>
+        <p style="opacity:0.8">Pool: ${oldVal} → ${newVal}</p>
+      </div>
+    </div>`;
+
+  await roll.toMessage({
+    speaker,
+    flavor: content,
+    rollMode: game.settings.get("core", "rollMode"),
+  });
+flags:
+  assistant:
+    folderPath: macros/utility
+ownership:
+  default: 0
+  XpREWoanxMMNbVJq: 3
