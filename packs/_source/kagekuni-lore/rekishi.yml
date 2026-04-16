@@ -1,6 +1,6 @@
 _id: JBrSdiECB8Mb9qgI
 _key: '!journal!JBrSdiECB8Mb9qgI'
-name: Rekishi
+name: 歴史 Rekishi — History
 pages:
   - _id: a2LjDu5GOhtcLgof
     _key: '!journal.pages!JBrSdiECB8Mb9qgI.a2LjDu5GOhtcLgof'
@@ -1049,5 +1049,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: rekishi
     frontmatter:
-      name: Rekishi
+      name: 歴史 Rekishi — History
       type: core

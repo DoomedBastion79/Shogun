@@ -1,6 +1,6 @@
 _id: FAOlL8D3kPY1rEAc
 _key: '!journal!FAOlL8D3kPY1rEAc'
-name: Shinwa
+name: 神話 Shinwa — Myth & Faith
 pages:
   - _id: 6ysIjnN3cSsCf7GG
     _key: '!journal.pages!FAOlL8D3kPY1rEAc.6ysIjnN3cSsCf7GG'
@@ -691,5 +691,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: shinwa
     frontmatter:
-      name: Shinwa
+      name: 神話 Shinwa — Myth & Faith
       type: core

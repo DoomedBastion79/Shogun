@@ -1,6 +1,6 @@
 _id: upvXcfbSR2TcUoKm
 _key: '!journal!upvXcfbSR2TcUoKm'
-name: Sekai
+name: 世界 Sekai — The World
 pages:
   - _id: r0TOxf8u9NxIA8xG
     _key: '!journal.pages!upvXcfbSR2TcUoKm.r0TOxf8u9NxIA8xG'
@@ -2281,5 +2281,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: sekai
     frontmatter:
-      name: Sekai
+      name: 世界 Sekai — The World
       type: core

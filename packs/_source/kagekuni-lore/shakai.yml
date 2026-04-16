@@ -1,6 +1,6 @@
 _id: P63d5AJsqtwbZDmT
 _key: '!journal!P63d5AJsqtwbZDmT'
-name: Shakai
+name: 社会 Shakai — Society
 pages:
   - _id: 7OVEgy3QUmdSh685
     _key: '!journal.pages!P63d5AJsqtwbZDmT.7OVEgy3QUmdSh685'
@@ -1719,5 +1719,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: shakai
     frontmatter:
-      name: Shakai
+      name: 社会 Shakai — Society
       type: core

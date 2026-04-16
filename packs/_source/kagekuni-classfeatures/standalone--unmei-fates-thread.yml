@@ -30,8 +30,9 @@ system:
           1d4+1 points to your pool (up to the maximum).</li>
         <li><strong>Spend Luck</strong> — use the 運 Spend Luck macro to
           burn points for a bonus on any d20 roll.</li>
-        <li><strong>Recovery</strong> — the pool refreshes on a long rest
-          at the GM's discretion.</li>
+        <li><strong>Recovery</strong> — Luck does not refresh on rest.
+          Points accumulate only through the Roll Luck macro, a GM
+          ruling, or narrative milestones.</li>
       </ul>
       <p>The GM may raise, lower, or reset your thread as the story
       demands; what the fates give, they may take back.</p>
@@ -69,7 +70,11 @@ effects:
         priority: null
       - key: system.resources.secondary.lr
         mode: 5
-        value: 'true'
+        value: 'false'
+        priority: null
+      - key: system.resources.secondary.sr
+        mode: 5
+        value: 'false'
         priority: null
     disabled: false
     transfer: true

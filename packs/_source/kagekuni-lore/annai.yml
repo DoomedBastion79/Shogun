@@ -1,6 +1,6 @@
 _id: soirx29w4i5BszX9
 _key: '!journal!soirx29w4i5BszX9'
-name: Annai
+name: 案内 Annai — Welcome
 pages:
   - _id: PxD6ZD5jqtGf6UMl
     _key: '!journal.pages!soirx29w4i5BszX9.PxD6ZD5jqtGf6UMl'
@@ -50,5 +50,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: annai
     frontmatter:
-      name: Annai
+      name: 案内 Annai — Welcome
       type: core

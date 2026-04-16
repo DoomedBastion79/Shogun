@@ -1,6 +1,6 @@
 _id: IxWbWZoFox1yoTDs
 _key: '!journal!IxWbWZoFox1yoTDs'
-name: Chiri
+name: 地理 Chiri — Geography
 pages:
   - _id: 42N9wB3rs99LFae5
     _key: '!journal.pages!IxWbWZoFox1yoTDs.42N9wB3rs99LFae5'
@@ -2834,5 +2834,5 @@ flags:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: chiri
     frontmatter:
-      name: Chiri
+      name: 地理 Chiri — Geography
       type: core
