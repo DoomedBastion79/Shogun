@@ -309,7 +309,7 @@ system:
     ac:
       flat: 12
       calc: flat
-      formula: 15 with Mage Armor
+      formula: ''
     hp:
       value: 81
       max: 81

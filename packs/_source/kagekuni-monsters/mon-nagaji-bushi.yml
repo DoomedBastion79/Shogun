@@ -475,7 +475,7 @@ system:
     ac:
       flat: 17
       calc: flat
-      formula: enchanted chain mail, shield
+      formula: ''
     hp:
       value: 75
       max: 75

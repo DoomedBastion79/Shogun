@@ -416,7 +416,7 @@ system:
     ac:
       flat: 13
       calc: flat
-      formula: hide armor
+      formula: ''
     hp:
       value: 9
       max: 9

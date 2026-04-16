@@ -271,7 +271,7 @@ system:
     ac:
       flat: 14
       calc: flat
-      formula: scale mail
+      formula: ''
     hp:
       value: 91
       max: 91

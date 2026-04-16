@@ -411,7 +411,7 @@ system:
     ac:
       flat: 14
       calc: flat
-      formula: natural armor
+      formula: ''
     hp:
       value: 45
       max: 45
