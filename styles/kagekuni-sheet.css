@@ -3,26 +3,28 @@
 
 .kagekuni-character .kagekuni-resources {
   margin: 0.5rem 0.25rem 0.75rem;
-  padding: 0.45rem 0.5rem 0.55rem;
-  background: var(--dnd5e-color-card, rgba(0, 0, 0, 0.05));
-  border: 1px solid var(--dnd5e-color-gold, #9e7c3f);
+  padding: 0.5rem 0.55rem 0.6rem;
+  background: #f7f1e1; /* solid cream — legible over the dark sidebar */
+  border: 1px solid #6b4a1f;
   border-radius: 4px;
   font-size: var(--font-size-13, 13px);
+  color: #1f1a12;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
 }
 
 .kagekuni-character .kagekuni-resources__title {
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  margin: 0 0 0.35rem;
+  margin: 0 0 0.4rem;
   font-family: var(--dnd5e-font-roboto-slab, "Roboto Slab", serif);
-  font-weight: 600;
+  font-weight: 700;
   font-size: var(--font-size-12, 12px);
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--dnd5e-color-gold, #9e7c3f);
-  border-bottom: 1px solid var(--dnd5e-color-gold, #9e7c3f);
-  padding-bottom: 0.2rem;
+  color: #6b4a1f;
+  border-bottom: 1px solid #6b4a1f;
+  padding-bottom: 0.25rem;
 }
 
 .kagekuni-character .kagekuni-resources__title i {
@@ -32,7 +34,7 @@
 .kagekuni-character .kagekuni-resources__empty {
   margin: 0.25rem 0 0;
   font-size: var(--font-size-11, 11px);
-  color: var(--color-text-dark-secondary, #666);
+  color: #5a4a2e;
 }
 
 .kagekuni-character .kagekuni-resources__group + .kagekuni-resources__group {
@@ -40,14 +42,15 @@
 }
 
 .kagekuni-character .kagekuni-resources__group-label {
-  margin: 0.25rem 0 0.15rem;
+  margin: 0.3rem 0 0.2rem;
   font-family: var(--dnd5e-font-roboto, "Roboto", sans-serif);
-  font-weight: 600;
+  font-weight: 700;
   font-size: var(--font-size-11, 11px);
-  letter-spacing: 0.02em;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: var(--color-text-dark-secondary, #555);
-  border-bottom: 0;
+  color: #4a3518;
+  border-bottom: 1px dotted rgba(107, 74, 31, 0.5);
+  padding-bottom: 0.15rem;
 }
 
 .kagekuni-character .kagekuni-resources__list {
@@ -70,7 +73,7 @@
 }
 
 .kagekuni-character .kagekuni-resources__entry:hover {
-  background: rgba(0, 0, 0, 0.05);
+  background: rgba(107, 74, 31, 0.12);
 }
 
 .kagekuni-character .kagekuni-resources__icon {
@@ -99,7 +102,8 @@
 }
 
 .kagekuni-character .kagekuni-resources__label {
-  font-weight: 500;
+  font-weight: 600;
+  color: #1f1a12;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -107,9 +111,10 @@
 
 .kagekuni-character .kagekuni-resources__recover {
   font-size: var(--font-size-10, 10px);
-  color: var(--color-text-dark-secondary, #777);
+  color: #6b4a1f;
   text-transform: uppercase;
   letter-spacing: 0.04em;
+  font-weight: 600;
 }
 
 .kagekuni-character .kagekuni-resources__counts {
@@ -124,14 +129,19 @@
   text-align: center;
 }
 
+.kagekuni-character .kagekuni-resources__value {
+  color: #1f1a12;
+}
+
 .kagekuni-character .kagekuni-resources__value strong {
   font-size: var(--font-size-14, 14px);
-  color: var(--color-text-dark-primary, #222);
+  color: #1f1a12;
 }
 
 .kagekuni-character .kagekuni-resources__sep {
   margin: 0 0.12rem;
-  opacity: 0.5;
+  color: #6b4a1f;
+  opacity: 0.7;
 }
 
 .kagekuni-character .kagekuni-resources__btn {
@@ -139,9 +149,10 @@
   height: 18px;
   line-height: 14px;
   padding: 0;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  border: 1px solid #6b4a1f;
   border-radius: 50%;
-  background: rgba(255, 255, 255, 0.6);
+  background: #fffaec;
+  color: #1f1a12;
   font-size: var(--font-size-13, 13px);
   font-weight: 700;
   cursor: pointer;
@@ -151,7 +162,7 @@
 }
 
 .kagekuni-character .kagekuni-resources__btn:hover {
-  background: var(--dnd5e-color-gold, #9e7c3f);
-  color: #fff;
-  border-color: var(--dnd5e-color-gold, #9e7c3f);
+  background: #6b4a1f;
+  color: #fffaec;
+  border-color: #6b4a1f;
 }

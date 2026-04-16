@@ -1,12 +1,14 @@
 /**
  * Kagekuni Character Sheet — extends the dnd5e 5.3.x default character sheet
- * and injects a consolidated Resources panel into the left-rail sidebar.
+ * and injects a consolidated Resources panel into the sidebar, positioned
+ * below the favorites block.
  *
  * The panel surfaces (auto-detected, no favorites required):
  *   - Legacy resources:  system.resources.{primary, secondary, tertiary}
- *                        (the Luck Pool is the secondary resource by convention)
+ *                        (Luck Points live in the secondary resource by
+ *                        convention; shown whenever max > 0, even if no label
+ *                        is set)
  *   - Class features:    Items of type "feat" whose system.uses.max > 0
- *   - Item uses:         Non-feat items whose system.uses.max > 0
  *
  * Registered as a selectable sheet — users opt in per actor via
  * Actor → "Sheet" header button. The dnd5e default sheet remains unchanged.
@@ -62,14 +64,21 @@ export function defineCharacterSheet() {
     _prepareKagekuniResources() {
       const groups = [];
 
-      // 1. Legacy resources — only those with a label AND a nonzero max.
+      // 1. Legacy resources — show any slot with max > 0. Label is resolved
+      //    with sensible fallbacks so conventional pools (Luck Pool =
+      //    secondary) surface even when the actor hasn't set an explicit label.
+      const LEGACY_FALLBACK_LABELS = {
+        primary: "Primary",
+        secondary: "Luck Points",
+        tertiary: "Tertiary"
+      };
       const legacy = [];
       const resources = this.actor.system.resources ?? {};
       for (const [key, r] of Object.entries(resources)) {
-        if (!r?.label || !(r.max > 0)) continue;
+        if (!r || !(r.max > 0)) continue;
         legacy.push({
           id: `resources.${key}`,
-          label: r.label,
+          label: r.label || LEGACY_FALLBACK_LABELS[key] || key,
           value: Number(r.value) || 0,
           max: Number(r.max) || 0,
           recover: [r.sr ? "SR" : null, r.lr ? "LR" : null].filter(Boolean).join(" / "),
@@ -82,14 +91,16 @@ export function defineCharacterSheet() {
         groups.push({ key: "legacy", label: "Pools", items: legacy });
       }
 
-      // 2 + 3. Items with limited uses — split feats (class features) from the rest.
+      // 2. Class features with limited uses. Mundane item uses are intentionally
+      //    excluded — the dnd5e sheet already surfaces them via favorites and
+      //    the inventory tab, and duplicating them here just adds noise.
       const classFeats = [];
-      const itemUses = [];
       for (const item of this.actor.items) {
+        if (item.type !== "feat") continue;
         const uses = item.system?.uses;
         const max = Number(uses?.max) || 0;
         if (!max) continue;
-        const entry = {
+        classFeats.push({
           id: item.id,
           label: item.name,
           img: item.img,
@@ -100,17 +111,12 @@ export function defineCharacterSheet() {
             .filter(Boolean)
             .join(" / "),
           path: null, // items use their own spend/restore flow, not direct edits
-          kind: item.type === "feat" ? "feat" : "item",
+          kind: "feat",
           itemUuid: item.uuid
-        };
-        if (item.type === "feat") classFeats.push(entry);
-        else itemUses.push(entry);
+        });
       }
       if (classFeats.length) {
         groups.push({ key: "class", label: "Class Features", items: classFeats });
-      }
-      if (itemUses.length) {
-        groups.push({ key: "items", label: "Item Uses", items: itemUses });
       }
 
       return groups;
@@ -144,12 +150,15 @@ export function defineCharacterSheet() {
       if (existing) {
         existing.outerHTML = html;
       } else {
-        // Insert after the portrait block if present, else prepend.
-        const portrait = sidebar.querySelector(".portrait");
-        if (portrait?.parentElement === sidebar) {
-          portrait.insertAdjacentHTML("afterend", html);
+        // Anchor the panel below favorites. Fall back to appending to the
+        // sidebar if the favorites block isn't present on this sheet layout.
+        const favorites =
+          sidebar.querySelector('[data-tab="favorites"]') ??
+          sidebar.querySelector(".favorites");
+        if (favorites) {
+          favorites.insertAdjacentHTML("afterend", html);
         } else {
-          sidebar.insertAdjacentHTML("afterbegin", html);
+          sidebar.insertAdjacentHTML("beforeend", html);
         }
       }
 
