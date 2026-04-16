@@ -1,0 +1,90 @@
+_id: AJJ7cv2mMKdg0Z6i
+_key: '!items!AJJ7cv2mMKdg0Z6i'
+name: 運命 Unmei — Fate's Thread
+type: feat
+img: icons/magic/time/clock-analog-gray.webp
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/unmei-fates-thread.yml
+    slug: unmei-fates-thread
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: unmei-fates-thread
+  description:
+    value: |
+      <p><em>Every mortal is born with a length of thread woven by the
+      Progenitor of Chance. How long it runs, none may say — but while it
+      holds, fate may yet be bent.</em></p>
+      <p>You gain a <strong>Luck Pool</strong> tracked in the secondary
+      resource slot, with a maximum of <strong>100 Luck Points</strong>.</p>
+      <ul>
+        <li><strong>Roll Luck</strong> — use the 運 Roll Luck macro to add
+          1d4+1 points to your pool (up to the maximum).</li>
+        <li><strong>Spend Luck</strong> — use the 運 Spend Luck macro to
+          burn points for a bonus on any d20 roll.</li>
+        <li><strong>Recovery</strong> — the pool refreshes on a long rest
+          at the GM's discretion.</li>
+      </ul>
+      <p>The GM may raise, lower, or reset your thread as the story
+      demands; what the fates give, they may take back.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: dQpg9nF1zedwllIq
+    _key: '!items.effects!AJJ7cv2mMKdg0Z6i.dQpg9nF1zedwllIq'
+    name: 運命 Unmei — Fate's Thread
+    img: icons/magic/time/clock-analog-gray.webp
+    type: base
+    changes:
+      - key: system.resources.secondary.max
+        mode: 5
+        value: '100'
+        priority: null
+      - key: system.resources.secondary.label
+        mode: 5
+        value: Luck Points
+        priority: null
+      - key: system.resources.secondary.lr
+        mode: 5
+        value: 'true'
+        priority: null
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

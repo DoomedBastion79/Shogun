@@ -141,9 +141,8 @@ export function defineCharacterSheet() {
 
     /**
      * Render the resources banner and insert it into the Details tab, right
-     * above the skills / saves / background grid (the `.col-2` block in the
-     * dnd5e 5.3.x details tab template). Replaces any previous instance so
-     * repeated renders don't stack.
+     * above the skills / saves / background grid. Replaces any previous
+     * instance so repeated renders don't stack.
      */
     async #injectResourcesPanel(context) {
       const root = this.element;
@@ -157,7 +156,7 @@ export function defineCharacterSheet() {
       // empty banner taking vertical space above skills.
       const groups = context.kagekuni?.resourceGroups ?? [];
       if (!groups.length) {
-        root.querySelector(".kagekuni-resources")?.remove();
+        root.querySelectorAll(".kagekuni-resources").forEach((el) => el.remove());
         return;
       }
 
@@ -170,12 +169,25 @@ export function defineCharacterSheet() {
       // where a prior version put the panel in the sidebar).
       root.querySelectorAll(".kagekuni-resources").forEach((el) => el.remove());
 
-      // Primary anchor: the `.col-2` grid that holds skills + saves +
-      // background. Insert the banner directly before it. Fall back to the
-      // top of the details section if the grid class isn't present.
-      const col2 = details.querySelector(".col-2");
-      if (col2) {
-        col2.insertAdjacentHTML("beforebegin", html);
+      // The details part's template emits:
+      //   <section class="tab" data-tab="details">
+      //     {{ability scores}}
+      //     <div class="col-2"><div class="left"/> <div class="right"/></div>
+      //   </section>
+      // The ability-scores partial also contains `.col-2` descendants, so a
+      // naive `details.querySelector(".col-2")` lands inside the ability
+      // block and the banner ends up stuffed into one of its columns. Anchor
+      // specifically to the grid that's a *direct child* of the tab section.
+      const tabSection = details.querySelector('section[data-tab="details"]')
+        ?? details.querySelector("section.tab");
+      const anchor = tabSection?.querySelector(":scope > .col-2");
+
+      if (anchor) {
+        anchor.insertAdjacentHTML("beforebegin", html);
+      } else if (tabSection) {
+        // No grid found — drop it at the top of the tab content so it still
+        // spans full width rather than getting nested in an inner cell.
+        tabSection.insertAdjacentHTML("afterbegin", html);
       } else {
         details.insertAdjacentHTML("afterbegin", html);
       }
