@@ -1,13 +1,14 @@
 /**
  * Kagekuni Character Sheet — extends the dnd5e 5.3.x default character sheet
- * and injects a consolidated Resources panel into the sidebar, positioned
- * below the favorites block.
+ * and injects a consolidated Resources banner into the Details tab, above the
+ * skills / saving-throws / background section.
  *
  * The panel surfaces (auto-detected, no favorites required):
  *   - Legacy resources:  system.resources.{primary, secondary, tertiary}
  *                        (Luck Points live in the secondary resource by
- *                        convention; shown whenever max > 0, even if no label
- *                        is set)
+ *                        convention; shown whenever the slot has *any* data
+ *                        — max > 0, value > 0, or a custom label — which is
+ *                        more permissive than dnd5e's own favorites block)
  *   - Class features:    Items of type "feat" whose system.uses.max > 0
  *
  * Registered as a selectable sheet — users opt in per actor via
@@ -64,9 +65,11 @@ export function defineCharacterSheet() {
     _prepareKagekuniResources() {
       const groups = [];
 
-      // 1. Legacy resources — show any slot with max > 0. Label is resolved
-      //    with sensible fallbacks so conventional pools (Luck Pool =
-      //    secondary) surface even when the actor hasn't set an explicit label.
+      // 1. Legacy resources — show any slot that has *any* data set: a max,
+      //    a current value, or a custom label. This is more permissive than
+      //    dnd5e's own favorites block (which requires both label AND max),
+      //    so a Luck Pool the player has labeled but not yet set a max on
+      //    still surfaces here.
       const LEGACY_FALLBACK_LABELS = {
         primary: "Primary",
         secondary: "Luck Points",
@@ -75,12 +78,16 @@ export function defineCharacterSheet() {
       const legacy = [];
       const resources = this.actor.system.resources ?? {};
       for (const [key, r] of Object.entries(resources)) {
-        if (!r || !(r.max > 0)) continue;
+        if (!r) continue;
+        const max = Number(r.max) || 0;
+        const value = Number(r.value) || 0;
+        const label = typeof r.label === "string" ? r.label.trim() : "";
+        if (!max && !value && !label) continue;
         legacy.push({
           id: `resources.${key}`,
-          label: r.label || LEGACY_FALLBACK_LABELS[key] || key,
-          value: Number(r.value) || 0,
-          max: Number(r.max) || 0,
+          label: label || LEGACY_FALLBACK_LABELS[key] || key,
+          value,
+          max,
           recover: [r.sr ? "SR" : null, r.lr ? "LR" : null].filter(Boolean).join(" / "),
           path: `system.resources.${key}.value`,
           kind: "legacy",
@@ -133,43 +140,54 @@ export function defineCharacterSheet() {
     }
 
     /**
-     * Render the resources panel and insert it into the sidebar part. Replaces
-     * any previous instance so repeated renders don't stack.
+     * Render the resources banner and insert it into the Details tab, right
+     * above the skills / saves / background grid (the `.col-2` block in the
+     * dnd5e 5.3.x details tab template). Replaces any previous instance so
+     * repeated renders don't stack.
      */
     async #injectResourcesPanel(context) {
-      const sidebar = this.element.querySelector('[data-application-part="sidebar"]');
-      if (!sidebar) return;
+      const root = this.element;
 
+      // Bail if the details tab hasn't rendered yet (e.g. another tab is
+      // active and details is lazily rendered). Try again on next render.
+      const details = root.querySelector('[data-application-part="details"]');
+      if (!details) return;
+
+      // Skip entirely when there's nothing to show — no point rendering an
+      // empty banner taking vertical space above skills.
       const groups = context.kagekuni?.resourceGroups ?? [];
-      const html = await foundry.applications.handlebars.renderTemplate(
-        RESOURCES_TEMPLATE,
-        { groups, empty: groups.length === 0 }
-      );
-
-      const existing = sidebar.querySelector(".kagekuni-resources");
-      if (existing) {
-        existing.outerHTML = html;
-      } else {
-        // Anchor the panel below favorites. Fall back to appending to the
-        // sidebar if the favorites block isn't present on this sheet layout.
-        const favorites =
-          sidebar.querySelector('[data-tab="favorites"]') ??
-          sidebar.querySelector(".favorites");
-        if (favorites) {
-          favorites.insertAdjacentHTML("afterend", html);
-        } else {
-          sidebar.insertAdjacentHTML("beforeend", html);
-        }
+      if (!groups.length) {
+        root.querySelector(".kagekuni-resources")?.remove();
+        return;
       }
 
-      this.#activatePanelListeners(sidebar);
+      const html = await foundry.applications.handlebars.renderTemplate(
+        RESOURCES_TEMPLATE,
+        { groups, empty: false }
+      );
+
+      // Remove any stale instance anywhere in the sheet (handles the case
+      // where a prior version put the panel in the sidebar).
+      root.querySelectorAll(".kagekuni-resources").forEach((el) => el.remove());
+
+      // Primary anchor: the `.col-2` grid that holds skills + saves +
+      // background. Insert the banner directly before it. Fall back to the
+      // top of the details section if the grid class isn't present.
+      const col2 = details.querySelector(".col-2");
+      if (col2) {
+        col2.insertAdjacentHTML("beforebegin", html);
+      } else {
+        details.insertAdjacentHTML("afterbegin", html);
+      }
+
+      this.#activatePanelListeners(root);
     }
 
     /**
      * Wire click handlers on the injected panel for spending/restoring uses.
      */
-    #activatePanelListeners(sidebar) {
-      const panel = sidebar.querySelector(".kagekuni-resources");
+    #activatePanelListeners(root) {
+      const panel = root.querySelector(".kagekuni-resources");
       if (!panel) return;
 
       panel.addEventListener("click", async (event) => {
