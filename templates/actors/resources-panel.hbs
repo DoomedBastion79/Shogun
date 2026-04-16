@@ -1,0 +1,63 @@
+{{!--
+  Kagekuni Resources Panel — injected into the dnd5e character sheet sidebar.
+  Consumes { groups: [{ key, label, items: [...] }], empty }.
+--}}
+<section class="kagekuni-resources" aria-label="Kagekuni Resources">
+  <header class="kagekuni-resources__title">
+    <i class="fas fa-coins"></i>
+    <span>Resources</span>
+  </header>
+
+  {{#if empty}}
+    <p class="kagekuni-resources__empty">
+      <em>No tracked resources. Label a resource, or add features/items with limited uses.</em>
+    </p>
+  {{else}}
+    {{#each groups as |group|}}
+      <div class="kagekuni-resources__group" data-group="{{group.key}}">
+        <h4 class="kagekuni-resources__group-label">{{group.label}}</h4>
+        <ul class="kagekuni-resources__list">
+          {{#each group.items as |item|}}
+            <li
+              class="kagekuni-resources__entry"
+              data-kind="{{item.kind}}"
+              {{#if item.path}}data-path="{{item.path}}"{{/if}}
+              {{#if item.itemUuid}}data-item-uuid="{{item.itemUuid}}"{{/if}}
+            >
+              {{#if item.img}}
+                <img src="{{item.img}}" alt="" class="kagekuni-resources__icon" />
+              {{else}}
+                <span class="kagekuni-resources__icon kagekuni-resources__icon--placeholder" aria-hidden="true"></span>
+              {{/if}}
+              <div class="kagekuni-resources__meta">
+                <span class="kagekuni-resources__label" title="{{item.label}}">{{item.label}}</span>
+                {{#if item.recover}}
+                  <span class="kagekuni-resources__recover">{{item.recover}}</span>
+                {{/if}}
+              </div>
+              <div class="kagekuni-resources__counts">
+                <button
+                  type="button"
+                  class="kagekuni-resources__btn"
+                  data-kagekuni-action="decrement"
+                  data-tooltip="Spend 1"
+                  aria-label="Spend 1 {{item.label}}"
+                >−</button>
+                <span class="kagekuni-resources__value">
+                  <strong>{{item.value}}</strong><span class="kagekuni-resources__sep">/</span>{{item.max}}
+                </span>
+                <button
+                  type="button"
+                  class="kagekuni-resources__btn"
+                  data-kagekuni-action="increment"
+                  data-tooltip="Restore 1"
+                  aria-label="Restore 1 {{item.label}}"
+                >+</button>
+              </div>
+            </li>
+          {{/each}}
+        </ul>
+      </div>
+    {{/each}}
+  {{/if}}
+</section>

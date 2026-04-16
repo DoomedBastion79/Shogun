@@ -138,7 +138,7 @@ pages:
 
         </table>
 
-        <h3>One-Time Harvest</h3>
+        <h3>一期一会 Ichigo Ichi-e — One Encounter, One Chance</h3>
 
         <table>
 
@@ -150,20 +150,20 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.c6wj80WlxFqTtU0h]{Ōkami-niku}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.mkNMmBMr1Hs693Ii]{Ōkami-niku}</td><td><span
         style="color: #1a8a1a; font-weight: 600;">Uncommon</span></td><td>N/A (unrepeatable)</td><td>N/A</td><td>3
         gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.zvaoGJgeRaU2bh7N]{Yama no Kimo}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.UoQvFtEdB0ZwiUGi]{Yama no Kimo}</td><td><span
         style="color: #2563eb; font-weight: 600;">Rare</span></td><td>N/A</td><td>N/A</td><td>15 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.veAUU4BsXv9z1Qcb]{Shirokiba no Zui}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.hSXkEma7malHTSaY]{Shirokiba no Zui}</td><td><span
         style="color: #2563eb; font-weight: 600;">Rare</span></td><td>N/A</td><td>N/A</td><td>8 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.bprAbxVurWVfWy5Y]{Arashi-suji}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.kbyxMFNCH57dFd4R]{Arashi-suji}</td><td><span
         style="color: #2563eb; font-weight: 600;">Rare</span></td><td>N/A</td><td>N/A</td><td>12 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.tHOsW0WdHel6MIHQ]{Reikokoro}</td><td><span style="color:
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.Ng6L4vwyBGKHIKb4]{Reikokoro}</td><td><span style="color:
         #d97706; font-weight: 600;">Legendary</span></td><td>N/A</td><td>N/A</td><td>0 cp</td></tr></tbody>
 
         </table>
@@ -733,7 +733,7 @@ pages:
 
         </table>
 
-        <h3>One-Time Harvest</h3>
+        <h3>一期一会 Ichigo Ichi-e — One Encounter, One Chance</h3>
 
         <table>
 
@@ -745,7 +745,7 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.SjadWCTyoUQcCaM3]{Ōkami no Abura}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.9YlIAXG2GJHFOujx]{Ōkami no Abura}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>Takane (Tenchūsan Ren —
         historical)</td><td>N/A (one-time event)</td><td>2 gp</td></tr></tbody>
 
@@ -773,7 +773,7 @@ pages:
       format: 1
       content: >-
 
-        <h3>One-Time Harvest</h3>
+        <h3>一期一会 Ichigo Ichi-e — One Encounter, One Chance</h3>
 
         <table>
 
@@ -785,7 +785,7 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.INW6mFVDdDzC0XeA]{Ōkami no Kegawa}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.90rx0Ypw3TFrUOLG]{Ōkami no Kegawa}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>400
         gp</td></tr></tbody>
@@ -814,7 +814,7 @@ pages:
       format: 1
       content: >-
 
-        <h3>One-Time Harvest</h3>
+        <h3>一期一会 Ichigo Ichi-e — One Encounter, One Chance</h3>
 
         <table>
 
@@ -826,19 +826,19 @@ pages:
 
         </tr></thead>
 
-        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.4oZlfZaYolZovh8I]{Ōkami no Hone}</td><td><span
+        <tbody><tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.tTMNaVjL132BAIM1]{Ōkami no Hone}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>5 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.hkvsXvsjyJFOoh7K]{Ōkami no Zugai}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.P9Czlt0RnzPOoaSZ]{Ōkami no Zugai}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>600 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.dKMk6BYG9YY5YBSZ]{Ōkami no Kiba}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.D1s3CMnaHbK3H8G4]{Ōkami no Kiba}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>40 gp</td></tr>
 
-        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.xNEcX5HfyGL285tu]{Ōkami no Tenohira}</td><td><span
+        <tr><td>@UUID[Compendium.kagekuni-assistant.items.Item.v7EjrtuF1qGJFHmi]{Ōkami no Tenohira}</td><td><span
         style="color: #7c3aed; font-weight: 600;">Very Rare</span></td><td>N/A (harvested from the Yama-no-Ōkami during
         the Fushichō ashfall, Tenchūsan Ren mountain pass)</td><td>N/A (one-time harvest)</td><td>80
         gp</td></tr></tbody>

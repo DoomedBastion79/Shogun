@@ -9,8 +9,10 @@ import { KagekuniSettings } from "./settings.mjs";
 import { JournalContext } from "./journal-context.mjs";
 import { ChatHandler } from "./chat-handler.mjs";
 import { ProxyClient } from "./proxy-client.mjs";
+import { defineCharacterSheet } from "./sheets/character-sheet-kagekuni.mjs";
 
 const MODULE_ID = "kagekuni-assistant";
+const RESOURCES_TEMPLATE = `modules/${MODULE_ID}/templates/actors/resources-panel.hbs`;
 
 /* ------------------------------------------------------------------ */
 /*  Initialization                                                     */
@@ -19,6 +21,35 @@ const MODULE_ID = "kagekuni-assistant";
 Hooks.once("init", () => {
   console.log(`${MODULE_ID} | Initializing Kagekuni Assistant`);
   KagekuniSettings.register();
+});
+
+/* ------------------------------------------------------------------ */
+/*  Sheet registration                                                 */
+/*                                                                     */
+/*  dnd5e exposes CharacterActorSheet only after its own init runs, so */
+/*  we register on the "setup" hook (fires after all systems/modules   */
+/*  have completed init but before "ready").                           */
+/* ------------------------------------------------------------------ */
+
+Hooks.once("setup", async () => {
+  if (game.system.id !== "dnd5e") {
+    console.warn(`${MODULE_ID} | Not running under dnd5e; skipping sheet registration.`);
+    return;
+  }
+
+  try {
+    const CharacterSheetKagekuni = defineCharacterSheet();
+    foundry.documents.collections.Actors.registerSheet("dnd5e", CharacterSheetKagekuni, {
+      types: ["character"],
+      label: "Kagekuni Character Sheet",
+      makeDefault: false
+    });
+
+    await foundry.applications.handlebars.loadTemplates([RESOURCES_TEMPLATE]);
+    console.log(`${MODULE_ID} | Registered Kagekuni Character Sheet`);
+  } catch (err) {
+    console.error(`${MODULE_ID} | Failed to register character sheet:`, err);
+  }
 });
 
 Hooks.once("ready", () => {

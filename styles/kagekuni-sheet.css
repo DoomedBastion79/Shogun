@@ -1,0 +1,157 @@
+/* Kagekuni Character Sheet — resources panel injected into the dnd5e sidebar.
+   Styled to visually mesh with the dnd5e 5.3.x sheet palette. */
+
+.kagekuni-character .kagekuni-resources {
+  margin: 0.5rem 0.25rem 0.75rem;
+  padding: 0.45rem 0.5rem 0.55rem;
+  background: var(--dnd5e-color-card, rgba(0, 0, 0, 0.05));
+  border: 1px solid var(--dnd5e-color-gold, #9e7c3f);
+  border-radius: 4px;
+  font-size: var(--font-size-13, 13px);
+}
+
+.kagekuni-character .kagekuni-resources__title {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin: 0 0 0.35rem;
+  font-family: var(--dnd5e-font-roboto-slab, "Roboto Slab", serif);
+  font-weight: 600;
+  font-size: var(--font-size-12, 12px);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--dnd5e-color-gold, #9e7c3f);
+  border-bottom: 1px solid var(--dnd5e-color-gold, #9e7c3f);
+  padding-bottom: 0.2rem;
+}
+
+.kagekuni-character .kagekuni-resources__title i {
+  font-size: 0.85em;
+}
+
+.kagekuni-character .kagekuni-resources__empty {
+  margin: 0.25rem 0 0;
+  font-size: var(--font-size-11, 11px);
+  color: var(--color-text-dark-secondary, #666);
+}
+
+.kagekuni-character .kagekuni-resources__group + .kagekuni-resources__group {
+  margin-top: 0.5rem;
+}
+
+.kagekuni-character .kagekuni-resources__group-label {
+  margin: 0.25rem 0 0.15rem;
+  font-family: var(--dnd5e-font-roboto, "Roboto", sans-serif);
+  font-weight: 600;
+  font-size: var(--font-size-11, 11px);
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--color-text-dark-secondary, #555);
+  border-bottom: 0;
+}
+
+.kagekuni-character .kagekuni-resources__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.kagekuni-character .kagekuni-resources__entry {
+  display: grid;
+  grid-template-columns: 20px 1fr auto;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.2rem 0.25rem;
+  border-radius: 3px;
+  transition: background-color 120ms ease;
+}
+
+.kagekuni-character .kagekuni-resources__entry:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.kagekuni-character .kagekuni-resources__icon {
+  width: 20px;
+  height: 20px;
+  border-radius: 3px;
+  object-fit: cover;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.kagekuni-character .kagekuni-resources__icon--placeholder {
+  background: repeating-linear-gradient(
+    45deg,
+    rgba(158, 124, 63, 0.15),
+    rgba(158, 124, 63, 0.15) 3px,
+    rgba(158, 124, 63, 0.05) 3px,
+    rgba(158, 124, 63, 0.05) 6px
+  );
+}
+
+.kagekuni-character .kagekuni-resources__meta {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+  min-width: 0;
+}
+
+.kagekuni-character .kagekuni-resources__label {
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.kagekuni-character .kagekuni-resources__recover {
+  font-size: var(--font-size-10, 10px);
+  color: var(--color-text-dark-secondary, #777);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.kagekuni-character .kagekuni-resources__counts {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.kagekuni-character .kagekuni-resources__value {
+  min-width: 2.5rem;
+  text-align: center;
+}
+
+.kagekuni-character .kagekuni-resources__value strong {
+  font-size: var(--font-size-14, 14px);
+  color: var(--color-text-dark-primary, #222);
+}
+
+.kagekuni-character .kagekuni-resources__sep {
+  margin: 0 0.12rem;
+  opacity: 0.5;
+}
+
+.kagekuni-character .kagekuni-resources__btn {
+  width: 18px;
+  height: 18px;
+  line-height: 14px;
+  padding: 0;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.6);
+  font-size: var(--font-size-13, 13px);
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.kagekuni-character .kagekuni-resources__btn:hover {
+  background: var(--dnd5e-color-gold, #9e7c3f);
+  color: #fff;
+  border-color: var(--dnd5e-color-gold, #9e7c3f);
+}
