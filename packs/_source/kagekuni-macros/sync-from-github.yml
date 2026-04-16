@@ -1,0 +1,147 @@
+_id: HVUZWBwQPSMNkyZr
+_key: '!macros!HVUZWBwQPSMNkyZr'
+name: 同 Sync from GitHub
+type: script
+author: XpREWoanxMMNbVJq
+img: icons/svg/book.svg
+scope: global
+folder: JKPIgLkjw6nSwAIN
+sort: 100
+command: |-
+  const SYNC_URL =
+    "https://raw.githubusercontent.com/DoomedBastion79/Shogun/main/sync-payload.json";
+  const MODULE_ID = "kagekuni-assistant";
+
+  if (!game.user.isGM) {
+    ui.notifications.warn("Only the GM can run Kagekuni Sync.");
+    return;
+  }
+
+  ui.notifications.info("Kagekuni Sync: Fetching latest payload...");
+  let payload;
+  try {
+    const resp = await fetch(SYNC_URL);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}: ${resp.statusText}`);
+    payload = await resp.json();
+  } catch (err) {
+    ui.notifications.error(`Sync failed: could not fetch payload. ${err.message}`);
+    console.error("Kagekuni Sync fetch error:", err);
+    return;
+  }
+
+  console.log(
+    `Kagekuni Sync: payload v${payload.version} (${payload.generated})`
+  );
+
+  const results = [];
+  const packEntries = Object.entries(payload.packs || {});
+
+  for (const [packName, docs] of packEntries) {
+    const packId = `${MODULE_ID}.${packName}`;
+    const pack = game.packs.get(packId);
+    if (!pack) {
+      console.warn(`Kagekuni Sync: pack "${packId}" not found, skipping`);
+      results.push({ pack: packName, status: "not found" });
+      continue;
+    }
+
+    try {
+      const wasLocked = pack.locked;
+      if (wasLocked) await pack.configure({ locked: false });
+
+      // Folder YAML entries carry `color` + `sorting`; split them out so we
+      // recreate folders first, then documents that reference them.
+      const folders = docs.filter((d) => "color" in d && "sorting" in d);
+      const documents = docs.filter((d) => !("color" in d && "sorting" in d));
+
+      const existingFolders = pack.folders.map((f) => f.id);
+      if (existingFolders.length > 0) {
+        await Folder.deleteDocuments(existingFolders, { pack: packId });
+      }
+
+      const existingDocs = pack.index.map((idx) => idx._id);
+      const deleted = existingDocs.length + existingFolders.length;
+      if (existingDocs.length > 0) {
+        const cls = pack.documentClass;
+        await cls.deleteDocuments(existingDocs, { pack: packId });
+      }
+
+      let created = 0;
+      if (folders.length > 0) {
+        await Folder.createDocuments(folders, {
+          pack: packId,
+          keepId: true,
+        });
+        created += folders.length;
+      }
+
+      if (documents.length > 0) {
+        const cls = pack.documentClass;
+        for (let i = 0; i < documents.length; i += 50) {
+          const batch = documents.slice(i, i + 50);
+          await cls.createDocuments(batch, {
+            pack: packId,
+            keepId: true,
+            keepEmbeddedIds: true,
+          });
+          created += batch.length;
+        }
+      }
+
+      if (wasLocked) await pack.configure({ locked: true });
+
+      results.push({ pack: packName, deleted, created, status: "ok" });
+      console.log(
+        `Kagekuni Sync: ${packName} — deleted ${deleted}, created ${created}`
+      );
+    } catch (err) {
+      results.push({ pack: packName, status: `error: ${err.message}` });
+      console.error(`Kagekuni Sync: ${packName} failed:`, err);
+    }
+  }
+
+  const totalCreated = results.reduce((s, r) => s + (r.created || 0), 0);
+  const totalDeleted = results.reduce((s, r) => s + (r.deleted || 0), 0);
+  const errors = results.filter((r) => r.status !== "ok" && r.status !== "not found");
+
+  const rows = results
+    .map((r) => {
+      const icon = r.status === "ok" ? "✅" : r.status === "not found" ? "⚠️" : "❌";
+      return `<tr>
+        <td>${icon}</td>
+        <td>${r.pack}</td>
+        <td>${r.deleted ?? "-"}</td>
+        <td>${r.created ?? "-"}</td>
+      </tr>`;
+    })
+    .join("");
+
+  const html = `
+    <h3>Kagekuni Sync Complete — v${payload.version}</h3>
+    <table style="width:100%; font-size:12px; border-collapse:collapse;">
+      <thead>
+        <tr style="border-bottom:1px solid #999;">
+          <th></th>
+          <th style="text-align:left;">Pack</th>
+          <th style="text-align:left;">Del</th>
+          <th style="text-align:left;">Add</th>
+        </tr>
+      </thead>
+      <tbody>${rows}</tbody>
+    </table>
+    <p style="font-size:11px; margin-top:8px;">
+      ${totalDeleted} removed, ${totalCreated} created.
+      ${errors.length ? `<strong>${errors.length} error(s)</strong>` : "No errors."}
+    </p>
+  `;
+
+  ChatMessage.create({ content: html, whisper: [game.user.id] });
+  ui.notifications.info(
+    `Kagekuni Sync: ${totalCreated} documents synced across ${results.filter((r) => r.status === "ok").length} packs.`
+  );
+flags:
+  assistant:
+    folderPath: macros/utility
+ownership:
+  default: 0
+  XpREWoanxMMNbVJq: 3
