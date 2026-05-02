@@ -1,0 +1,82 @@
+_id: JVUHHy4wsAbORlWZ
+_key: '!items!JVUHHy4wsAbORlWZ'
+name: Sun-Coin
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-sun-coin
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sun-coin
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A coin of warm gold that catches even faint light and amplifies it, casting a softly radiant glow.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: very-rare
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A coin of warm dawn-gold — the visible token of a Hatchling Mark from the Golden Brood (Kinkkō). Even in
+      darkness, the coin glows with the soft warmth of early sunrise.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Golden Brood
+
+      <strong>Attunement:</strong> Yes
+
+      <strong>Activation (1/long rest):</strong> As an action, hold the coin overhead. It sheds bright light in a 30-ft
+      radius and dim light for an additional 30 ft for 10 minutes. While within the bright light, undead and aberrations
+      have disadvantage on attack rolls against you and your allies. The light cannot be dispelled by darkness magic of
+      4th level or lower.
+
+      <strong>Loss:</strong> As Ember-Tear. The Golden Brood does not lightly replace lost Sun-Coins; the bearer may
+      have to demonstrate continued worthiness.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

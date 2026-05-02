@@ -1,0 +1,801 @@
+_id: aR3RR47e64S5Vaxt
+_key: '!actors!aR3RR47e64S5Vaxt'
+name: Midokkō Adult
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Midokkō Adult
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 3
+  height: 3
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: NSCDIv1hkeSJWx5q
+    _key: '!actors.items!NSCDIv1hkeSJWx5q'
+    name: Legendary Resistance (3/Day)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: If the dragon fails a saving throw, it can choose to succeed instead.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: b3p1Sy1Fq34HOGdZ
+    _key: '!actors.items!b3p1Sy1Fq34HOGdZ'
+    name: Damage Immunities
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: Immune to poison damage and the poisoned condition. Vulnerable to fire.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: CHjWNknYKl8uXUp7
+    _key: '!actors.items!CHjWNknYKl8uXUp7'
+    name: Speak with Plants
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: The dragon can communicate with plants at will as the spell.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: ZYWZnhu3RBTadZkd
+    _key: '!actors.items!ZYWZnhu3RBTadZkd'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: 'The dragon makes three attacks: one bite, one antler-gore, and one tail lash.'
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: rSP71jfNgn5ut4R6
+    _key: '!actors.items!rSP71jfNgn5ut4R6'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 400
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - poison
+          custom:
+            enabled: true
+            formula: 2d10 + 6 piercing plus 7 (2d6)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 10
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: 4ijMO0PS8naTKE7d
+    _key: '!actors.items!4ijMO0PS8naTKE7d'
+    name: Antler-Gore
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 500
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: antler-gore
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '6'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 10
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: 16ahHF7p0MXlrMbT
+    _key: '!actors.items!16ahHF7p0MXlrMbT'
+    name: Tail Lash
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 600
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: tail-lash
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '6'
+          types:
+            - bludgeoning
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 15
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: m3WmpULr82WTwpym
+    _key: '!actors.items!m3WmpULr82WTwpym'
+    name: Spore Cloud (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 700
+    system:
+      description:
+        value: >-
+          The dragon exhales rotting spores in a 60-ft cone. Each creature in the area makes a DC 18 Constitution save,
+          taking 56 (16d6) poison damage on a failure or half on a success. Plant creatures and undead are unaffected.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: JlEW8NSlo7IfWYRn
+    _key: '!actors.items!JlEW8NSlo7IfWYRn'
+    name: Detect
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 800
+    system:
+      description:
+        value: The dragon makes a Wisdom (Perception) check.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: OLL5zU2FmBglxRMq
+    _key: '!actors.items!OLL5zU2FmBglxRMq'
+    name: Antler-Gore (Legendary)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 900
+    system:
+      description:
+        value: The dragon makes an antler-gore attack.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: dhzcEHjFTCCzolzi
+    _key: '!actors.items!dhzcEHjFTCCzolzi'
+    name: Renew (Costs 2 Actions)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1000
+    system:
+      description:
+        value: The dragon or one ally within 60 ft regains 14 (4d6) hit points.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-midokko-adult
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 22
+      proficient: 0
+    dex:
+      value: 12
+      proficient: 1
+    con:
+      value: 21
+      proficient: 1
+    int:
+      value: 14
+      proficient: 0
+    wis:
+      value: 19
+      proficient: 1
+    cha:
+      value: 17
+      proficient: 1
+  attributes:
+    ac:
+      flat: 19
+      calc: flat
+      formula: ''
+    hp:
+      value: 207
+      max: 207
+      formula: 18d12 + 90
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 50
+      fly: 60
+      swim: 0
+      climb: 40
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 120
+      blindsight: 60
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>An adult of the Emerald Brood — twenty feet of stocky, four-legged dragon with a magnificent antler crown
+        that branches like ancient oak. Moss and lichen grow visibly along the back; small mushrooms sprout in the
+        joints between scales. The dragon trails wildflowers in its footprints.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Midokkō adults are reluctant combatants. They use entangling magic and Spore Cloud to hold attackers at bay,
+        healing themselves and allies between rounds. They prefer to drive intruders away rather than kill them — but
+        they will kill those who burn living things, and those they kill they do not mourn.</p>
+
+        <h3>Lair Actions</h3>
+
+        <p>On initiative count 20 (losing ties):</p>
+
+        <ul>
+
+        <li><strong>Verdant Snare.</strong> Roots and vines erupt in a 20-ft cube within 120 ft. Each creature in the
+        cube makes a DC 15 Strength save or is restrained until the start of the dragon&#39;s next turn.</li>
+
+        <li><strong>Renewing Bloom.</strong> The dragon and one ally within 60 ft regain 22 (4d10) hit points.</li>
+
+        <li><strong>Mushroom Spore Burst.</strong> A 10-ft-radius sphere of poisonous spores blooms at a point within
+        120 ft. Each creature in the area makes a DC 15 Constitution save, taking 18 (4d8) poison damage on a failure or
+        half on a success.</li>
+
+        </ul>
+
+        <h3>Regional Effects</h3>
+
+        <p>Within 3 miles of a Midokkō lair:</p>
+
+        <ul>
+
+        <li>Plants grow at twice their natural rate.</li>
+
+        <li>Injured beasts within 1 mile heal twice as fast.</li>
+
+        <li>Felling a living tree within 1 mile alerts the dragon as surely as a struck bell.</li>
+
+        </ul>
+      public: ''
+    alignment: Neutral
+    cr: 13
+    xp:
+      value: 10000
+    type:
+      value: dragon
+      subtype: midokko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    medicine:
+      value: 9
+    nature:
+      value: 7
+    perception:
+      value: 14
+    stealth:
+      value: 5
+  traits:
+    size: huge
+    languages:
+      value: []
+      custom: Draconic, Sylvan, Common
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

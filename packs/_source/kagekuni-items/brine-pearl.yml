@@ -1,0 +1,83 @@
+_id: Romz803e1itZffBj
+_key: '!items!Romz803e1itZffBj'
+name: Brine-Pearl
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-brine-pearl
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: brine-pearl
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A pearl that always shows a single drop of seawater on its surface, no matter how often it is wiped dry.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A pearl that always weeps a single drop of seawater — the visible token of a Hatchling Mark from the Azure
+      Brood (Aokkō). The pearl&#39;s iridescence shifts with the tides even far inland.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Azure Brood
+
+      <strong>Attunement:</strong> Yes
+
+      <strong>Passive (while attuned):</strong> You gain a swimming speed equal to your walking speed and can breathe
+      underwater.
+
+      <strong>Activation (1/long rest):</strong> As an action, summon a 5-ft cube of churning saltwater anywhere within
+      60 ft. The cube fills the chosen space, treats the area as difficult terrain, and heavily obscures it until the
+      end of your next turn.
+
+      <strong>Loss:</strong> As Ember-Tear — Mark persists, active effects gated on relic recovery.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

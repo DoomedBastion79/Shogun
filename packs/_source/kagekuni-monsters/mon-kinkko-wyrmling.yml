@@ -1,0 +1,520 @@
+_id: AlpQsscUaIZ7pGjy
+_key: '!actors!AlpQsscUaIZ7pGjy'
+name: Kinkkō Wyrmling
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Kinkkō Wyrmling
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: 8MiWbMkItYC0dA6d
+    _key: '!actors.items!8MiWbMkItYC0dA6d'
+    name: Damage Immunities and Resistances
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: Immune to radiant damage. Resistant to force. Vulnerable to necrotic.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: puGU7AR21wxYJeVc
+    _key: '!actors.items!puGU7AR21wxYJeVc'
+    name: Honor's Witness
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: The wyrmling has advantage on saves vs. illusions and cannot be charmed.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: 9p73qn1lg0dgr5cs
+    _key: '!actors.items!9p73qn1lg0dgr5cs'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - radiant
+          custom:
+            enabled: true
+            formula: 1d10 + 3 piercing plus 4 (1d8)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '6'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: jGQTTweZeEzRm5VS
+    _key: '!actors.items!jGQTTweZeEzRm5VS'
+    name: Claw
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: claw
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '3'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '6'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: QpUAxffYP84UBCQK
+    _key: '!actors.items!QpUAxffYP84UBCQK'
+    name: Sunbreath (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 400
+    system:
+      description:
+        value: >-
+          The wyrmling exhales a 20-ft cone of golden light. Each creature in the area makes a DC 13 Constitution save,
+          taking 27 (6d8) radiant damage on a failed save, or half on a successful one. Undead and aberrations have
+          disadvantage on this save.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-kinkko-wyrmling
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 17
+      proficient: 0
+    dex:
+      value: 13
+      proficient: 1
+    con:
+      value: 17
+      proficient: 1
+    int:
+      value: 14
+      proficient: 0
+    wis:
+      value: 16
+      proficient: 1
+    cha:
+      value: 17
+      proficient: 1
+  attributes:
+    ac:
+      flat: 17
+      calc: flat
+      formula: ''
+    hp:
+      value: 75
+      max: 75
+      formula: 10d8 + 30
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 30
+      fly: 60
+      swim: 0
+      climb: 30
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 60
+      blindsight: 10
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>A young Golden Brood dragon — already classically draconic in shape, four legs, broad wings, a sweeping tail.
+        The wyrmling&#39;s scales are warm gold, the color of dawn light rather than coin-metal. Eyes the color of
+        polished amber. Even at this age, the wyrmling carries itself with deliberate dignity.</p>
+
+        <h3>Behavior</h3>
+
+        <p>Just, careful, slow to commit. Kinkkō wyrmlings refuse instructions they consider dishonorable and are not
+        impressed by displays of power that lack purpose. They will leave a bonded PC who orders the murder of a
+        non-combatant.</p>
+
+        <h3>As a Bonded Companion</h3>
+
+        <p>When granted as a Wyrmling Bond, use the Warrior sidekick template (Tasha&#39;s). Kinkkō wyrmlings are
+        observably brighter than ordinary creatures and cannot be hidden indefinitely.</p>
+      public: ''
+    alignment: Lawful Good
+    cr: 4
+    xp:
+      value: 1100
+    type:
+      value: dragon
+      subtype: kinkko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    insight:
+      value: 5
+    perception:
+      value: 5
+    persuasion:
+      value: 5
+  traits:
+    size: med
+    languages:
+      value: []
+      custom: Draconic, Celestial
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

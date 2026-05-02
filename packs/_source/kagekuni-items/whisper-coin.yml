@@ -1,0 +1,83 @@
+_id: p3ekVzjXXts7CCMD
+_key: '!items!p3ekVzjXXts7CCMD'
+name: Whisper-Coin
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-whisper-coin
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: whisper-coin
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A coin of black iron with no markings on either face. It feels heavier than it should.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A coin of black iron — the visible token of a Hatchling Mark from the Onyx Brood (Kurokkō). Both faces are
+      featureless. The coin is always slightly cooler than its surroundings.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Onyx Brood
+
+      <strong>Attunement:</strong> Yes
+
+      <strong>Activation (1/short rest):</strong> As an action, hold the coin and ask a single yes/no question about a
+      creature within 60 ft you have met before. The DM answers truthfully — the coin warms (yes) or cools (no).
+
+      <strong>Cost:</strong> Every fifth question, the brood asks one in return that the bearer must answer truthfully
+      aloud. If the bearer refuses or lies, the coin goes inert until restored by service to the brood.
+
+      <strong>Loss:</strong> As Ember-Tear — but Onyx Marks linger even after relic loss; the brood may still call in
+      the bearer&#39;s debts.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

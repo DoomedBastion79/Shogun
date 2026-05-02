@@ -1,0 +1,846 @@
+_id: 0EXXplMpIWrERLQq
+_key: '!actors!0EXXplMpIWrERLQq'
+name: Ginkkō Adult
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Ginkkō Adult
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 3
+  height: 3
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: UBOPCgJ9AUnoWbLt
+    _key: '!actors.items!UBOPCgJ9AUnoWbLt'
+    name: Legendary Resistance (3/Day)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: If the dragon fails a saving throw, it can choose to succeed instead.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: ssDev1upTcW8CwOc
+    _key: '!actors.items!ssDev1upTcW8CwOc'
+    name: Damage Immunities and Resistances
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: Immune to cold. Resistant to radiant. Vulnerable to fire (takes additional damage).
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: xmDN5e6vpAZj6QDh
+    _key: '!actors.items!xmDN5e6vpAZj6QDh'
+    name: No Shadow
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: The dragon casts no shadow under any natural or magical light.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: Y5VWINdhNCLTZYEC
+    _key: '!actors.items!Y5VWINdhNCLTZYEC'
+    name: Pattern-Sight
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: The dragon knows when any creature within 1 mile is acting in a way it has never acted before.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: 71PiCfZYRzKHlqiJ
+    _key: '!actors.items!71PiCfZYRzKHlqiJ'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 400
+    system:
+      description:
+        value: 'The dragon makes three attacks: one bite and two claws.'
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: GQJBLzRpBJv0XrYc
+    _key: '!actors.items!GQJBLzRpBJv0XrYc'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 500
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - cold
+          custom:
+            enabled: true
+            formula: 2d10 + 6 piercing plus 9 (2d8)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 10
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: jztbq9kQft9olL10
+    _key: '!actors.items!jztbq9kQft9olL10'
+    name: Claw
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 600
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: claw
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 6
+          bonus: '6'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: D7AgHWyxRhsAcfK7
+    _key: '!actors.items!D7AgHWyxRhsAcfK7'
+    name: Tail Lash
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 700
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: tail-lash
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '6'
+          types:
+            - bludgeoning
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 15
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '11'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: 4K741xXjn1a03Unb
+    _key: '!actors.items!4K741xXjn1a03Unb'
+    name: Starbreath (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 800
+    system:
+      description:
+        value: >-
+          The dragon exhales a 60-ft cone of bitter starlight. Each creature in the area makes a DC 18 Constitution
+          save, taking 36 (8d8) cold damage and 27 (6d8) radiant damage on a failure, or half on a success.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: lGhzpamK2KS3FCou
+    _key: '!actors.items!lGhzpamK2KS3FCou'
+    name: Constellation Echo
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 900
+    system:
+      description:
+        value: >-
+          When the dragon is hit by an attack, it may teleport up to 30 ft to a moonlit or starlit space, taking the
+          damage in its new position. If the attack was ranged, the attacker must reroll against the dragon's new AC.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: OI6AE5BWbX2eJzt4
+    _key: '!actors.items!OI6AE5BWbX2eJzt4'
+    name: Detect
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1000
+    system:
+      description:
+        value: The dragon makes a Wisdom (Perception) check.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: Ggjhvd2R9GT1pigK
+    _key: '!actors.items!Ggjhvd2R9GT1pigK'
+    name: Tail Lash (Legendary)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1100
+    system:
+      description:
+        value: The dragon makes a tail lash attack.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: 8j8bRkjVndWIMbaA
+    _key: '!actors.items!8j8bRkjVndWIMbaA'
+    name: Star-Mark (Costs 2 Actions)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1200
+    system:
+      description:
+        value: >-
+          The dragon designates one creature within 120 ft. Until the start of the dragon's next turn, attacks against
+          the marked creature are made at advantage and the marked creature glows with cold starlight, granting no
+          benefit from being invisible.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-ginkko-adult
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 22
+      proficient: 0
+    dex:
+      value: 14
+      proficient: 1
+    con:
+      value: 21
+      proficient: 1
+    int:
+      value: 19
+      proficient: 0
+    wis:
+      value: 20
+      proficient: 1
+    cha:
+      value: 17
+      proficient: 1
+  attributes:
+    ac:
+      flat: 19
+      calc: flat
+      formula: ''
+    hp:
+      value: 248
+      max: 248
+      formula: 21d12 + 105
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 40
+      fly: 80
+      swim: 0
+      climb: 40
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 120
+      blindsight: 60
+      tremorsense: 0
+      truesight: 30
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>An adult of the Silver Brood — thirty feet long, slender, double-winged. Liquid silver scales reflect
+        constellations that do not match the sky overhead; sometimes the reflection is the sky as it was a thousand
+        years ago, sometimes the sky as it will be a thousand years hence. Eyes like the seas of the moon.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Ginkkō adults rarely engage on their own initiative. When they do, they treat the encounter as a study; they
+        will retreat to consider any combatant who proves interesting and return on their own schedule. They prefer cold
+        and freezing tactics to outright kills, and they teleport between moonlit and starlit spaces to keep
+        distance.</p>
+
+        <h3>Lair Actions</h3>
+
+        <p>On initiative count 20 (losing ties):</p>
+
+        <ul>
+
+        <li><strong>Constellation Step.</strong> The dragon teleports up to 120 ft to any moonlit or starlit space it
+        can see. If a creature attacks the dragon during this round, the dragon&#39;s space at the start of its turn is
+        illusory; the attack resolves against the empty space.</li>
+
+        <li><strong>Sky-Pull.</strong> The dragon designates a 20-ft cube within 120 ft. Each creature in the cube makes
+        a DC 16 Strength save or is pulled 30 ft toward the dragon and restrained until the start of the dragon&#39;s
+        next turn (frozen midair in cold light).</li>
+
+        <li><strong>Moonshard.</strong> A shard of crystallized moonlight strikes a point within 120 ft. Each creature
+        within 10 ft makes a DC 16 Dexterity save, taking 22 (4d10) cold damage on a failure or half on a success.</li>
+
+        </ul>
+
+        <h3>Regional Effects</h3>
+
+        <p>Within 6 miles of a Ginkkō lair:</p>
+
+        <ul>
+
+        <li>Nights are clearer and stars brighter than the latitude should allow.</li>
+
+        <li>Compasses point to the lair rather than to magnetic north.</li>
+
+        <li>Time passes a fraction more slowly than elsewhere; a long rest within 1 mile lasts 9 hours of subjective
+        time but ends at the same dawn as the rest of the world.</li>
+
+        </ul>
+      public: ''
+    alignment: Neutral
+    cr: 15
+    xp:
+      value: 13000
+    type:
+      value: dragon
+      subtype: ginkko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    arcana:
+      value: 9
+    insight:
+      value: 10
+    perception:
+      value: 15
+  traits:
+    size: huge
+    languages:
+      value: []
+      custom: Draconic, Celestial, Common
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

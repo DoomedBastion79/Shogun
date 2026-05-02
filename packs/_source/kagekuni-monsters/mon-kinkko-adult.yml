@@ -1,0 +1,872 @@
+_id: CJnIhBQGb6n6AiTt
+_key: '!actors!CJnIhBQGb6n6AiTt'
+name: Kinkkō Adult
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Kinkkō Adult
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 3
+  height: 3
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: 22EMfDOyiPGLiX1z
+    _key: '!actors.items!22EMfDOyiPGLiX1z'
+    name: Legendary Resistance (3/Day)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: If the dragon fails a saving throw, it can choose to succeed instead.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: NHzMQP7MCL3Y2MVD
+    _key: '!actors.items!NHzMQP7MCL3Y2MVD'
+    name: Damage Immunities and Resistances
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: Immune to radiant. Resistant to force. Vulnerable to necrotic (takes additional damage).
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: pOD1Tqpf7aooaMQW
+    _key: '!actors.items!pOD1Tqpf7aooaMQW'
+    name: Honor's Witness
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: >-
+          The dragon has advantage on saves vs. illusions, cannot be charmed, and cannot be deceived by mundane lies —
+          it knows when a creature is speaking falsely.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: bJEoRLCD2IKu2dqK
+    _key: '!actors.items!bJEoRLCD2IKu2dqK'
+    name: Radiant Aura
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: Each enemy that starts its turn within 10 ft of the dragon takes 11 (2d10) radiant damage.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: 19L6CG0LHlUllvJf
+    _key: '!actors.items!19L6CG0LHlUllvJf'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 400
+    system:
+      description:
+        value: 'The dragon makes three attacks: one bite and two claws.'
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: 8gxgWoRvJ1o7Szjl
+    _key: '!actors.items!8gxgWoRvJ1o7Szjl'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 500
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - radiant
+          custom:
+            enabled: true
+            formula: 2d10 + 7 piercing plus 11 (2d10)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 10
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '13'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: z7hUA1nv3ESH57Jh
+    _key: '!actors.items!z7hUA1nv3ESH57Jh'
+    name: Claw
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 600
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: claw
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 6
+          bonus: '7'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '13'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: DTMPVbgRR1R5w4Ut
+    _key: '!actors.items!DTMPVbgRR1R5w4Ut'
+    name: Tail Lash
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 700
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: tail-lash
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '7'
+          types:
+            - bludgeoning
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 15
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '13'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: HM7bt4xyX0FMYsj9
+    _key: '!actors.items!HM7bt4xyX0FMYsj9'
+    name: Sunbreath (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 800
+    system:
+      description:
+        value: >-
+          The dragon exhales brilliant gold light in a 60-ft cone. Each creature in the area makes a DC 21 Constitution
+          save, taking 71 (13d10) radiant damage on a failure or half on a success. Undead and aberrations have
+          disadvantage on this save.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: 5Vw7T2EvvsJ2mMhn
+    _key: '!actors.items!5Vw7T2EvvsJ2mMhn'
+    name: Sovereign Aegis
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 900
+    system:
+      description:
+        value: >-
+          When an ally within 30 ft is hit by an attack the dragon judges to be unjust, the dragon may negate the attack
+          — the effect simply does not occur. Once per round.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: 8VrhcbHWLYgAcXil
+    _key: '!actors.items!8VrhcbHWLYgAcXil'
+    name: Detect
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1000
+    system:
+      description:
+        value: The dragon makes a Wisdom (Perception) check.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: ovWMaHJ9uvEDeEdZ
+    _key: '!actors.items!ovWMaHJ9uvEDeEdZ'
+    name: Tail Lash (Legendary)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1100
+    system:
+      description:
+        value: The dragon makes a tail lash attack.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: hdKb3owJwN14IuiZ
+    _key: '!actors.items!hdKb3owJwN14IuiZ'
+    name: Word of Authority (Costs 2 Actions)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1200
+    system:
+      description:
+        value: >-
+          The dragon speaks a single word. One creature within 60 ft makes a DC 21 Wisdom save or is incapacitated until
+          the end of its next turn.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: hoPrcONIr10TxHOo
+    _key: '!actors.items!hoPrcONIr10TxHOo'
+    name: Sunburst (Costs 3 Actions)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1300
+    system:
+      description:
+        value: >-
+          Brilliant gold light flashes around the dragon. Each enemy within 30 ft makes a DC 21 Constitution save,
+          taking 27 (6d8) radiant damage and being blinded until the end of its next turn on a failure, or half damage
+          and no blinding on a success.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-kinkko-adult
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 25
+      proficient: 0
+    dex:
+      value: 14
+      proficient: 1
+    con:
+      value: 25
+      proficient: 1
+    int:
+      value: 18
+      proficient: 0
+    wis:
+      value: 19
+      proficient: 1
+    cha:
+      value: 22
+      proficient: 1
+  attributes:
+    ac:
+      flat: 20
+      calc: flat
+      formula: ''
+    hp:
+      value: 310
+      max: 310
+      formula: 23d12 + 161
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 40
+      fly: 80
+      swim: 0
+      climb: 40
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 120
+      blindsight: 60
+      tremorsense: 0
+      truesight: 30
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>An adult of the Golden Brood — thirty-five feet of magnificent dragon, mane-crested with fine gold filament
+        that catches every breeze. Scales the warm gold of dawn light. Breath that smells of incense and clean rain. The
+        dragon does not radiate power so much as inhabit it; standing in its presence feels like standing in a courtroom
+        that has somehow extended to the horizon.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Kinkkō adults do not strike first. They will speak, sometimes at length, before initiative is rolled — and
+        the conversation is not stalling but evaluation. When they fight, they fight precisely and lethally, but they
+        accept surrender at any point and will protect allies who have surrendered. They do not retreat. They do not
+        need to.</p>
+
+        <h3>Lair Actions</h3>
+
+        <p>On initiative count 20 (losing ties):</p>
+
+        <ul>
+
+        <li><strong>Pillar of Light.</strong> A pillar of brilliant gold light, 10 ft radius and 60 ft tall, descends at
+        a point within 120 ft. Each creature in the pillar makes a DC 18 Constitution save, taking 33 (6d10) radiant
+        damage on a failure or half on a success. Undead and aberrations have disadvantage.</li>
+
+        <li><strong>Sovereign Word.</strong> The dragon speaks a word of authority. Each hostile creature within 60 ft
+        makes a DC 18 Wisdom save or is restrained until the start of the dragon&#39;s next turn.</li>
+
+        <li><strong>Reflect Injustice.</strong> The next time a hostile creature within 60 ft makes an attack against an
+        ally of the dragon (including a petitioner the dragon has accepted), the attacker takes 22 (4d10) radiant
+        damage.</li>
+
+        </ul>
+
+        <h3>Regional Effects</h3>
+
+        <p>Within 6 miles of a Kinkkō lair:</p>
+
+        <ul>
+
+        <li>Sunlight is brighter and reaches further; deception magic of 5th level or lower fails within 1 mile.</li>
+
+        <li>Sleeping within sight of the lair grants prophetic dreams to any creature with a true intention to act
+        justly.</li>
+
+        <li>Honest creatures know the way to the lair without map or guide; dishonest creatures find themselves walking
+        in circles.</li>
+
+        </ul>
+      public: ''
+    alignment: Lawful Good
+    cr: 17
+    xp:
+      value: 18000
+    type:
+      value: dragon
+      subtype: kinkko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    insight:
+      value: 10
+    perception:
+      value: 16
+    persuasion:
+      value: 12
+  traits:
+    size: huge
+    languages:
+      value: []
+      custom: Draconic, Celestial, Common
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

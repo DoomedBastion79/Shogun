@@ -1,0 +1,81 @@
+_id: f3uT29T1ejJKerZa
+_key: '!items!f3uT29T1ejJKerZa'
+name: Ember-Tear
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-ember-tear
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: ember-tear
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A solidified droplet of dark glassy substance, faintly warm to the touch.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: uncommon
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A solidified droplet of dragon-fire — the visible token of a Hatchling Mark from the Crimson Brood (Akakkō).
+      Warm to the touch but never burning the bearer. The Ember-Tear pulses faintly in time with the bearer&#39;s
+      heartbeat.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Crimson Brood
+
+      <strong>Attunement:</strong> Yes — bonded to a single bearer at the moment of granting
+
+      <strong>Activation (1/long rest):</strong> As an action, hurl the tear up to 30 ft. It explodes in a 10-ft sphere,
+      dealing 2d6 fire damage (Dex DC 13, half on save). The tear reforms in your hand at the next dawn.
+
+      <strong>Loss:</strong> If the tear is lost, the bearer retains the Mark, but the active effect cannot be channeled
+      until the relic is recovered or replaced. Replacement is at the brood&#39;s discretion.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

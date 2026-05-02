@@ -1,0 +1,358 @@
+_id: frZAuhC9WiVyi8EH
+_key: '!actors!frZAuhC9WiVyi8EH'
+name: Aokkō Wyrmling
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Aokkō Wyrmling
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: 9uaVVzUautzKpyrA
+    _key: '!actors.items!9uaVVzUautzKpyrA'
+    name: Amphibious
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The dragon can breathe air and water.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: WX0W5hF9MIoJNLwl
+    _key: '!actors.items!WX0W5hF9MIoJNLwl'
+    name: Damage Immunities
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: Immune to cold and lightning. Vulnerable to fire.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: cp9xAnNkzWbT4IhP
+    _key: '!actors.items!cp9xAnNkzWbT4IhP'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - cold
+          custom:
+            enabled: true
+            formula: 1d10 + 2 piercing plus 3 (1d6)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '4'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: LWJZM81JRgytuRMU
+    _key: '!actors.items!LWJZM81JRgytuRMU'
+    name: Stormsurge (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: >-
+          The wyrmling exhales a line of churning sea-storm 30 ft long and 5 ft wide. Each creature in the line makes a
+          DC 12 Dexterity save, taking 13 (3d8) cold damage and 9 (2d8) lightning damage on a failed save, or half on a
+          successful one.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-aokko-wyrmling
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 14
+      proficient: 0
+    dex:
+      value: 15
+      proficient: 1
+    con:
+      value: 14
+      proficient: 1
+    int:
+      value: 12
+      proficient: 0
+    wis:
+      value: 13
+      proficient: 1
+    cha:
+      value: 12
+      proficient: 1
+  attributes:
+    ac:
+      flat: 16
+      calc: flat
+      formula: ''
+    hp:
+      value: 52
+      max: 52
+      formula: 8d8 + 16
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 20
+      fly: 40
+      swim: 60
+      climb: 0
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 60
+      blindsight: 10
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>A young Azure Brood dragon — eel-like, sail-finned, the length of a tall man head to tail. Scales the color
+        of dawn over a calm sea, fading to mother-of-pearl on the belly. The wyrmling drips constantly when out of
+        water, leaving small puddles that smell of salt.</p>
+
+        <h3>Behavior</h3>
+
+        <p>Watchful, distant, slow to acknowledge a stranger. Aokkō wyrmlings observe long before they engage, and they
+        remember every kindness and every cruelty.</p>
+
+        <h3>As a Bonded Companion</h3>
+
+        <p>When granted as a Wyrmling Bond, use the Expert sidekick template (Tasha&#39;s). Aokkō companions excel at
+        scouting, perception, and oceanic navigation.</p>
+      public: ''
+    alignment: Lawful Neutral
+    cr: 3
+    xp:
+      value: 700
+    type:
+      value: dragon
+      subtype: aokko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    perception:
+      value: 5
+    stealth:
+      value: 4
+  traits:
+    size: med
+    languages:
+      value: []
+      custom: Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1,0 +1,359 @@
+_id: Kg896xKPYngqiavd
+_key: '!actors!Kg896xKPYngqiavd'
+name: Ginkkō Wyrmling
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Ginkkō Wyrmling
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: ix6B6211zXAx13Yu
+    _key: '!actors.items!ix6B6211zXAx13Yu'
+    name: Damage Immunities and Resistances
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: Immune to cold. Resistant to radiant. Vulnerable to fire.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: BmA0PluhjJlzkLRF
+    _key: '!actors.items!BmA0PluhjJlzkLRF'
+    name: No Shadow
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: The wyrmling casts no shadow under any natural or magical light.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: lh7N4ePtCn3vjrNB
+    _key: '!actors.items!lh7N4ePtCn3vjrNB'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - cold
+          custom:
+            enabled: true
+            formula: 1d10 + 2 piercing plus 3 (1d6)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '4'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: MTw4QUNcyaYrwKnw
+    _key: '!actors.items!MTw4QUNcyaYrwKnw'
+    name: Starbreath (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: >-
+          The wyrmling exhales a 15-ft cone of bitter starlight. Each creature in the area makes a DC 12 Constitution
+          save, taking 13 (3d8) cold damage and 9 (2d8) radiant damage on a failed save, or half on a successful one.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-ginkko-wyrmling
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 14
+      proficient: 0
+    dex:
+      value: 14
+      proficient: 1
+    con:
+      value: 14
+      proficient: 1
+    int:
+      value: 15
+      proficient: 0
+    wis:
+      value: 17
+      proficient: 1
+    cha:
+      value: 13
+      proficient: 1
+  attributes:
+    ac:
+      flat: 16
+      calc: flat
+      formula: ''
+    hp:
+      value: 56
+      max: 56
+      formula: 9d8 + 18
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 30
+      fly: 70
+      swim: 0
+      climb: 30
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 60
+      blindsight: 10
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>A young Silver Brood dragon — slender, long-tailed, with a second smaller pair of wings trailing like
+        ribbons. Scales liquid silver that already shows pinpoint reflections of constellations no longer visible from
+        the present sky. Eyes the color of the moon&#39;s seas. The wyrmling leaves no footprints on snow.</p>
+
+        <h3>Behavior</h3>
+
+        <p>Distant. Contemplative. Genuinely uninterested in mortal politics. Ginkkō wyrmlings observe far more than
+        they engage and tend to speak only when asked direct questions.</p>
+
+        <h3>As a Bonded Companion</h3>
+
+        <p>When granted as a Wyrmling Bond, use the Spellcaster sidekick template (Tasha&#39;s). Ginkkō companions favor
+        divinatory and cold magic. They speak rarely and never about themselves.</p>
+      public: ''
+    alignment: Neutral
+    cr: 3
+    xp:
+      value: 700
+    type:
+      value: dragon
+      subtype: ginkko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    arcana:
+      value: 4
+    insight:
+      value: 5
+    perception:
+      value: 5
+  traits:
+    size: med
+    languages:
+      value: []
+      custom: Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

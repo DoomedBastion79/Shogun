@@ -1,0 +1,82 @@
+_id: xCX0IAPpr3nVtClc
+_key: '!items!xCX0IAPpr3nVtClc'
+name: Moon-Tear
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-moon-tear
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: moon-tear
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A teardrop of frozen silver light, cool to the touch, that holds a single point of starlight at its core.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A teardrop of frozen silver light — the visible token of a Hatchling Mark from the Silver Brood (Ginkkō). At
+      its core, a single fixed point of starlight that does not match the constellations of the present sky.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Silver Brood
+
+      <strong>Attunement:</strong> Yes
+
+      <strong>Passive (while carried):</strong> You do not need to sleep — meditate 4 hours instead for the full benefit
+      of a long rest. You cannot be magically aged or have your lifespan reduced.
+
+      <strong>Activation (1/long rest):</strong> As an action, freeze a 10-ft cube of liquid solid for 1 minute. The
+      frozen volume can be shattered by heavy damage or sustained heat.
+
+      <strong>Loss:</strong> As Ember-Tear.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

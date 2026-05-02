@@ -1,0 +1,80 @@
+_id: 8IscNfYcUFSkjtk9
+_key: '!items!8IscNfYcUFSkjtk9'
+name: Mossheart Seed
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-mossheart-seed
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: mossheart-seed
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A seed the size of a chestnut, warm in the palm and faintly green at its core.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: true
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A seed that always feels warm — the visible token of a Hatchling Mark from the Emerald Brood (Midokkō). The
+      seed&#39;s surface bears the faint impression of moss and the smell of fresh-turned soil.</p>
+
+      <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Emerald Brood
+
+      <strong>Attunement:</strong> Yes
+
+      <strong>Activation (1/long rest):</strong> As an action, plant the seed in any natural soil. It grows instantly
+      into a 10-ft-radius healing grove that lasts 1 hour. Allies who finish a short rest in the grove regain hit points
+      equal to one of their Hit Dice without spending it. The seed reforms in your pack at the next dawn.
+
+      <strong>Loss:</strong> As Ember-Tear.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

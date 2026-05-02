@@ -1,0 +1,825 @@
+_id: 8CtgGkp1zwjFch5F
+_key: '!actors!8CtgGkp1zwjFch5F'
+name: Aokkō Adult
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Aokkō Adult
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 3
+  height: 3
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: hvXO7vzGW5OjfC4x
+    _key: '!actors.items!hvXO7vzGW5OjfC4x'
+    name: Amphibious
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The dragon can breathe air and water.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: u1sA3Ddvx5aAU7nx
+    _key: '!actors.items!u1sA3Ddvx5aAU7nx'
+    name: Legendary Resistance (3/Day)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: If the dragon fails a saving throw, it can choose to succeed instead.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: myz6MMYnQKSp20jX
+    _key: '!actors.items!myz6MMYnQKSp20jX'
+    name: Damage Immunities
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: Immune to cold and lightning. Vulnerable to fire (takes additional damage).
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: Wz3uUlCvHeZCTf1Q
+    _key: '!actors.items!Wz3uUlCvHeZCTf1Q'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 300
+    system:
+      description:
+        value: 'The dragon makes three attacks: one with its bite and two with its claws.'
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: Yio5cifCKN4ZdfLA
+    _key: '!actors.items!Yio5cifCKN4ZdfLA'
+    name: Bite
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 400
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: bite
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: null
+          denomination: null
+          bonus: ''
+          types:
+            - cold
+          custom:
+            enabled: true
+            formula: 2d10 + 5 piercing plus 7 (2d6)
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 10
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '10'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: jP9ZfvUveb1LE8sS
+    _key: '!actors.items!jP9ZfvUveb1LE8sS'
+    name: Claw
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 500
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: claw
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 6
+          bonus: '5'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '10'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: qXQY1vVOtsqFVPZi
+    _key: '!actors.items!qXQY1vVOtsqFVPZi'
+    name: Tail Lash
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 600
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: tail-lash
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 8
+          bonus: '5'
+          types:
+            - bludgeoning
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 15
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '10'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: 46m6FdPwUhVKHoOH
+    _key: '!actors.items!46m6FdPwUhVKHoOH'
+    name: Stormsurge (Recharge 5-6)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 700
+    system:
+      description:
+        value: >-
+          The dragon exhales a 60-ft line of cold sea and lightning, 5 ft wide. Each creature in the line makes a DC 18
+          Dexterity save, taking 33 (6d10) cold damage and 22 (4d10) lightning damage on a failure, or half on a
+          success.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: qDMmhErQdzT0sTxj
+    _key: '!actors.items!qDMmhErQdzT0sTxj'
+    name: Sea-Reading
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 800
+    system:
+      description:
+        value: >-
+          When the dragon is hit by an attack while in or adjacent to a body of water at least 5 ft deep, it may reduce
+          the damage by 4d8.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: feLSNPHlBZX8gr8C
+    _key: '!actors.items!feLSNPHlBZX8gr8C'
+    name: Detect
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 900
+    system:
+      description:
+        value: The dragon makes a Wisdom (Perception) check.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: Le6rXGK78SkbERJH
+    _key: '!actors.items!Le6rXGK78SkbERJH'
+    name: Tail Lash (Legendary)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1000
+    system:
+      description:
+        value: The dragon makes a tail lash attack.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: vPKCLXzsKeGl52Se
+    _key: '!actors.items!vPKCLXzsKeGl52Se'
+    name: Far-Sight Pulse (Costs 2 Actions)
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 1100
+    system:
+      description:
+        value: >-
+          The dragon glimpses a moment in the immediate future. The next attack roll made against it before the start of
+          its next turn is made at disadvantage.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: legendary
+      activation:
+        type: legendary
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-aokko-adult
+    category: dragon
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 21
+      proficient: 0
+    dex:
+      value: 14
+      proficient: 1
+    con:
+      value: 21
+      proficient: 1
+    int:
+      value: 16
+      proficient: 0
+    wis:
+      value: 17
+      proficient: 1
+    cha:
+      value: 18
+      proficient: 1
+  attributes:
+    ac:
+      flat: 19
+      calc: flat
+      formula: ''
+    hp:
+      value: 230
+      max: 230
+      formula: 20d12 + 100
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 30
+      fly: 80
+      swim: 80
+      climb: 0
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 120
+      blindsight: 60
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+  details:
+    biography:
+      value: >
+        <p>An adult of the Azure Brood — twenty-five feet of eel-bodied serpent with broad sail-fins running from head
+        to tail, capable of swimming faster than any sailing vessel and gliding above the waves on storm-winds. Long
+        whiskers like a carp; eyes like banked lightning.</p>
+
+        <h3>Tactics</h3>
+
+        <p>Aokkō adults prefer to engage from range, calling lightning from above while submerged out of reach. They use
+        the Sea-Reading reaction to redirect attacks into water, where they take half damage. They retreat into deep
+        water when bloodied and rarely fight to the death — long memory makes them patient.</p>
+
+        <h3>Lair Actions</h3>
+
+        <p>On initiative count 20 (losing ties), the dragon takes a lair action.</p>
+
+        <ul>
+
+        <li><strong>Drowning Surge.</strong> A 20-ft cube of seawater erupts at a point within 120 ft. Each creature in
+        the cube makes a DC 15 Strength save or is restrained and unable to breathe air until the start of the
+        dragon&#39;s next turn.</li>
+
+        <li><strong>Storm-Call.</strong> Lightning strikes a point within 120 ft. Each creature within 5 ft makes a DC
+        15 Dexterity save, taking 22 (4d10) lightning damage on a failure or half on a success.</li>
+
+        <li><strong>Tide Pull.</strong> Each creature within 60 ft of the dragon must make a DC 14 Strength save or be
+        pulled 20 ft toward the dragon.</li>
+
+        </ul>
+
+        <h3>Regional Effects</h3>
+
+        <p>Within 6 miles of an Aokkō lair:</p>
+
+        <ul>
+
+        <li>Fog rolls in unbidden during the dragon&#39;s waking hours, regardless of weather.</li>
+
+        <li>Tides run an hour off the lunar pattern.</li>
+
+        <li>Drowning creatures within 1 mile die slower than they should — a small mercy or a deliberate cruelty,
+        depending on the dragon&#39;s mood.</li>
+
+        </ul>
+      public: ''
+    alignment: Lawful Neutral
+    cr: 14
+    xp:
+      value: 11500
+    type:
+      value: dragon
+      subtype: aokko
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    insight:
+      value: 8
+    perception:
+      value: 13
+    stealth:
+      value: 7
+  traits:
+    size: huge
+    languages:
+      value: []
+      custom: Draconic, Aquan, Common
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
