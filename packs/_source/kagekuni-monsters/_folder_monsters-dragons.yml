@@ -1,0 +1,11 @@
+_id: 8IdaCW1hEcL4VrxA
+_key: '!folders!8IdaCW1hEcL4VrxA'
+name: 龍 Ryū — Dragons
+type: Actor
+folder: null
+sorting: m
+sort: 40
+color: '#a83232'
+flags:
+  assistant:
+    folderPath: monsters/dragons

@@ -2,7 +2,7 @@ _id: CJnIhBQGb6n6AiTt
 _key: '!actors!CJnIhBQGb6n6AiTt'
 name: Kinkkō Adult
 type: npc
-img: icons/svg/mystery-man.svg
+img: modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp
 prototypeToken:
   name: Kinkkō Adult
   displayName: 20
@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp
 items:
   - _id: 22EMfDOyiPGLiX1z
     _key: '!actors.items!22EMfDOyiPGLiX1z'
@@ -715,7 +717,7 @@ items:
     effects: []
     flags: {}
 effects: []
-folder: null
+folder: 8IdaCW1hEcL4VrxA
 sort: 0
 ownership:
   default: 0

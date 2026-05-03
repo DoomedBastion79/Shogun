@@ -2,7 +2,7 @@ _id: AlpQsscUaIZ7pGjy
 _key: '!actors!AlpQsscUaIZ7pGjy'
 name: Kinkkō Wyrmling
 type: npc
-img: icons/svg/mystery-man.svg
+img: modules/kagekuni-assistant/assets/monsters/kinkko-wyrmling.webp
 prototypeToken:
   name: Kinkkō Wyrmling
   displayName: 20
@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/monsters/kinkko-wyrmling.webp
 items:
   - _id: 8MiWbMkItYC0dA6d
     _key: '!actors.items!8MiWbMkItYC0dA6d'
@@ -395,7 +397,7 @@ items:
     effects: []
     flags: {}
 effects: []
-folder: null
+folder: 8IdaCW1hEcL4VrxA
 sort: 0
 ownership:
   default: 0

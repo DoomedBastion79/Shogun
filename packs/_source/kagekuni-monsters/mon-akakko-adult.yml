@@ -2,7 +2,7 @@ _id: BRvW0Z6xFX1z25Ol
 _key: '!actors!BRvW0Z6xFX1z25Ol'
 name: Akakkō Adult
 type: npc
-img: icons/svg/mystery-man.svg
+img: modules/kagekuni-assistant/assets/monsters/akakko-adult.webp
 prototypeToken:
   name: Akakkō Adult
   displayName: 20
@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/monsters/akakko-adult.webp
 items:
   - _id: YUagp5up20l2kEVO
     _key: '!actors.items!YUagp5up20l2kEVO'
@@ -674,7 +676,7 @@ items:
     effects: []
     flags: {}
 effects: []
-folder: null
+folder: 8IdaCW1hEcL4VrxA
 sort: 0
 ownership:
   default: 0
