@@ -1,0 +1,115 @@
+_id: z2zZEjAJTEVDiwB1
+_key: '!actors!z2zZEjAJTEVDiwB1'
+name: Hoshimori Aya
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Hoshimori Aya
+  displayName: 20
+  actorLink: true
+  width: 1
+  height: 1
+  disposition: 0
+  displayBars: 0
+  bar1:
+    attribute: attributes.hp
+items: []
+effects: []
+folder: 9ARgq6Cf14gyFFvQ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
+    slug: npc-hoshimori-aya
+    linkedJournalId: Ju83bDEgK20YNiHp
+    frontmatter:
+      name: Hoshimori Aya
+      type: npc
+      detail: major
+      status: active
+      race: Dragonborn
+      sex: F
+      clan: golden-dragon-clan
+      caste: kugai
+      role: Brood Guardian, Ōryūzan Tenkū-ji upper floor
+      location: loc-tenkuji-temple
+      affiliations:
+        - golden-dragon-clan
+        - kinryu-order
+      tags:
+        - guardian
+        - kinryu
+        - architecture-bound
+        - ancient
+        - dragonborn
+        - brood-sanctum
+      aliases:
+        - Aya of the long watch
+        - the one who placed the child
+      related_npcs: []
+      related_quests: []
+      height: 5'9\"
+      weight: 165
+      images:
+        portrait: null
+        token: null
+        variants: null
+    hasStatblock: false
+system:
+  details:
+    race: Dragonborn
+    biography:
+      value: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><dl class="kg-infobox" data-kind="infobox"><div
+        class="kg-info__row"><dt>Type</dt><dd data-field="type">npc</dd></div><div
+        class="kg-info__row"><dt>Detail</dt><dd data-field="detail">major</dd></div><div
+        class="kg-info__row"><dt>Status</dt><dd data-field="status">active</dd></div><div
+        class="kg-info__row"><dt>Race</dt><dd data-field="race">Dragonborn</dd></div><div
+        class="kg-info__row"><dt>Clan</dt><dd data-field="clan">golden-dragon-clan</dd></div><div
+        class="kg-info__row"><dt>Caste</dt><dd data-field="caste">kugai</dd></div><div
+        class="kg-info__row"><dt>Role</dt><dd data-field="role">Brood Guardian, Ōryūzan Tenkū-ji upper
+        floor</dd></div><div class="kg-info__row"><dt>Location</dt><dd
+        data-field="location">loc-tenkuji-temple</dd></div></dl><p><em lang="ja-Latn">The Brood Guardian —
+        Architecture-bound watcher of the Brood Sanctum</em></p>
+
+        </section>
+
+        <section class="kg-tier kg-tier-known" data-tier="known"><h3 id="kg-appearance"
+        data-section="appearance">Appearance</h3>
+
+        <p>A Dragonborn woman of the Golden Clan, scales the color of dulled old gold — paler than a young
+        Kinryū-blooded Dragonborn, weathered in the way of bronze that has stood a long time in still air. Tall but not
+        heavy. She wears lacquered half-plate over a black temple robe, the chestpiece engraved with Kinryū&#39;s sigil
+        — a stylized golden dragon coiled around itself in the old style. A naginata stands at her side or rests across
+        her lap. Her eyes are quiet and watchful; her expression does not move when the door opens.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Sole guardian of the upper-floor hallway leading to the Brood Sanctum within Ōryūzan Tenkū-ji. She does not
+        patrol; she does not leave her post. She speaks only to those who step fully into the hallway, and only after
+        the temple&#39;s architecture has measured them.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Procedural. Not warm, not hostile by default — a judge with a specific mandate. Her tone shifts among three
+        states (Hostile / Neutral / Welcoming) determined by the party&#39;s record of conduct in the temple. She is
+        courteous within each state, unyielding across states. She does not bargain. She does not threaten beyond what
+        duty requires.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>First contact is at the second-floor landing of Tenkū-ji. The party finds a pile of arranged Nagaji bodies
+        outside an unlocked, well-kept door. Beyond is a pristine hallway and the guardian at its far end. Her response
+        — challenge, denial, or passage — depends on whether the party has plundered, ignored, or honored the
+        temple&#39;s lower floors. She gates access to the Brood Sanctum and its trial.</p>
+
+        </section>
+
+        <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
+        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Ju83bDEgK20YNiHp]{View NPC Lore}</em></p>
+      public: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''

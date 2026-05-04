@@ -1,0 +1,501 @@
+_id: 0FMgMbEzIIErpAIT
+_key: '!journal!0FMgMbEzIIErpAIT'
+name: Tenkairō — The Celestial Ring
+pages:
+  - _id: wNBfXwkgqre3kHAQ
+    _key: '!journal.pages!0FMgMbEzIIErpAIT.wNBfXwkgqre3kHAQ'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <p><em lang="ja-Latn">&quot;The Celestial Ring&quot; — the ring corridor that surrounds the great aperture above
+        Hiroba.</em></p>
+
+        <hr>
+
+        <p><strong>Physical Description:</strong></p>
+
+        <p>The stairs from the first floor — both west and east — emerge onto a broad ring corridor 20 ft wide that
+        surrounds a circular aperture roughly 80 ft across, open to the Grand Hall below. The aperture is unrailed at
+        the inner edge except for a low stone parapet, waist-high, set back two feet from the lip. The parapet is the
+        offering wall.</p>
+
+        <p><strong>Through the aperture:</strong> Kinryū rises. The statue&#39;s coiled body fills the lower half of the
+        opening; the great head and forelimbs lift through the upper half into the space of the second floor itself, the
+        inlaid amber eyes now level with whoever stands at the parapet. Looking <em lang="ja-Latn">up</em> at the statue
+        from Hiroba is one experience. Standing eye-to-eye with it is another. The warmth that radiates within thirty
+        feet of the statue on the first floor reaches here too — stronger, more present, the way standing near a hearth
+        differs from standing near its smoke.</p>
+
+        <p><strong>The Offering Plates — Seven Around the Ring:</strong></p>
+
+        <p>Set into the parapet at seven positions around the ring are shallow stone offering plates, each roughly the
+        size of a soup bowl, recessed into the stone so the plate lip sits flush with the parapet&#39;s upper surface.
+        Six of the seven are equidistant — spaced 51.4° apart around the ring. The seventh, at true north, is anchored
+        to the cardinal point and is <strong>distinct</strong>: larger, raised slightly above the parapet line, framed
+        in a halo of inlaid gold leaf. The other six are bronze, plain, mounted at the cardinal and intercardinal points
+        around the remaining ring.</p>
+
+        <p>Each plate corresponds to one of the seven Progenitor dragons. Going clockwise from north:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Position</th>
+
+        <th>Progenitor</th>
+
+        <th>Plate condition</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td><strong>N (anchor)</strong></td>
+
+        <td><strong>Kinryū</strong> (Golden)</td>
+
+        <td>Raised, gold-leaf halo intact, polished — the only plate the dust does not seem to settle on</td>
+
+        </tr>
+
+        <tr>
+
+        <td>NE</td>
+
+        <td>Akaryū (Crimson)</td>
+
+        <td>Bronze; soot-blackened, edges scorched; appears to have been struck by fire long ago — but <strong>untouched
+        by chisel or hammer</strong></td>
+
+        </tr>
+
+        <tr>
+
+        <td>E</td>
+
+        <td>Aoryū (Azure)</td>
+
+        <td>Bronze; verdigris-green, salt-pitted; faint blue patina blooms outward across the parapet stone</td>
+
+        </tr>
+
+        <tr>
+
+        <td>SE</td>
+
+        <td>Midoryū (Emerald)</td>
+
+        <td>Bronze; rim overgrown with dry moss; thin root tendrils have crept up the parapet from somewhere below</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>SW</strong></td>
+
+        <td><strong>Kokuryū (Onyx)</strong></td>
+
+        <td>Bronze; <strong>pristine</strong> — no soot, no decay, no vandalism; the metal is dark but bright, as though
+        recently cleaned</td>
+
+        </tr>
+
+        <tr>
+
+        <td>W</td>
+
+        <td>Ginryū (Silver)</td>
+
+        <td>Bronze; tarnished but mirror-bright in spots; pinprick star-patterns etched into the rim catch
+        torchlight</td>
+
+        </tr>
+
+        <tr>
+
+        <td><strong>NW</strong></td>
+
+        <td><strong>Murasakiryū (Amethyst)</strong></td>
+
+        <td>Bronze; <strong>defaced</strong> — the dragon&#39;s name and any identifying glyphs have been chiseled out,
+        the surrounding stone gouged. Not battle damage. Methodical, single-purpose work, done with patience. The chisel
+        marks are not the same age as the rest of the temple&#39;s deliberate desecrations.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>The Shrine — South Wall:</strong></p>
+
+        <p>Directly opposite the Kinryū plate, set into the south wall of the ring corridor at the inner edge, is a
+        small shrine — a recessed alcove, three feet wide, four feet deep, six feet high. Inside: a single carved
+        kneeling stone before a low altar of dark lacquered wood. Above the altar, a relief carving of Kinryū descending
+        — head lowered, forelimbs extended, the same posture as the great statue. No incense burner. No offering
+        vessels. The shrine is for prayer, not for objects. The altar itself is unblemished.</p>
+
+        <p><strong>The South Wall — Portal Frame:</strong></p>
+
+        <p>Flanking the shrine on the south wall is an arched opening sealed by a flat plane of polished stone — no
+        door, no seam, no hinge. The arch frame is inlaid with a band of gold script in old liturgical Draconic, running
+        unbroken around the perimeter. The script is dim. The stone within the frame is solid — testing it confirms it
+        is not a door but a wall. (When activated, the plane becomes a portal.)</p>
+
+        <p><strong>The North Wall — Scorch Marks:</strong></p>
+
+        <p>The entire north wall of the ring corridor — fifty feet of stone — is blackened with scorch patterns.
+        Concentric blast rings, dozens of them, overlapping. The damage is old; the stone has not crumbled. Something
+        held the wall together against blasts that should have demolished it. The scorch marks are external — they
+        happened <em lang="ja-Latn">to</em> the wall, not from it. A character standing close can still smell, faintly,
+        the burned-air scent of long-spent fire magic. Beyond this wall: the Hidden Archives. The wall does not yield.
+        It has not yielded for thousands of years.</p>
+
+        <p><strong>The Northeast Doorway — Orrery:</strong></p>
+
+        <p>A single tall doorway in the NE quadrant of the ring opens into a circular domed chamber — the <em
+        lang="ja-Latn">Hoshikagami no Ma</em>, the Chamber of the Star Mirror. The doorway has no door; it is open. The
+        dome is visible from the threshold.</p>
+
+        <p><strong>The Northwest Doorway — Brood Sanctum:</strong></p>
+
+        <p>In the NW quadrant, a heavy wooden door — bronze-banded, closed, intact. Old. Whatever is behind it has been
+        kept behind it. The door is not locked but it is not loose; opening it requires deliberate effort.</p>
+
+        <p><strong>Lighting:</strong></p>
+
+        <p>Gold sconces ring the corridor at the same seven-foot spacing as the South Entrance. Most still burn — the
+        cold blue-white of the temple&#39;s foundational enchantment. Light falls clearly across the parapet and the
+        offering plates. The aperture is bright. The shadows are at the corners of the ring corridor, where the sconces
+        cannot reach.</p>
+
+        <hr>
+
+        <h2 id="kg-discoverable" data-section="discoverable">[DISCOVERABLE]</h2>
+
+        <h3 id="kg-discoveries" data-section="discoveries">Discoveries</h3>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"><strong>The Aperture and the Statue</strong> (passive — automatic)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Offering Plates — Pattern of Damage</strong> (DC 12
+        Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Two Untouched Plates</strong> (DC 14 History or Religion; DC
+        11 for Ko&#39;jiri)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Defaced Amethyst Plate</strong> (DC 15 History or
+        Investigation)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Shrine — Function</strong> (DC 13 Religion)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Sealed Portal Frame</strong> (DC 14 Arcana)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Activation Ritual</strong> (multiple paths — see below)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Scorch-Marked North Wall</strong> (DC 12 Arcana for damage
+        age; DC 15 Arcana for the wall&#39;s resistance)</li>
+
+        <li class="kg-task" data-done="false"><strong>The Anti-Teleport Wards</strong> (DC 16 Arcana)</li>
+
+        </ul>
+
+        <p><strong>The Aperture</strong>: Looking down through the opening, the party stands eye-to-eye with the
+        statue&#39;s head. Anyone with a connection to the statue (Ko&#39;jiri, primarily) feels the connection more
+        strongly here than they did in the Hiroba — closer, more present, the way meeting someone&#39;s eyes differs
+        from seeing them across a room. Ko&#39;jiri may experience an involuntary moment of recognition. The amber eyes
+        have been waiting at exactly this height for a very long time.</p>
+
+        <p><strong>The Offering Plates — Pattern of Damage</strong>: A character who examines the plates around the ring
+        (DC 12 Investigation) registers that the damage is not uniform — most plates show wear, decay, or deliberate
+        harm consistent with the rest of the temple, but two plates (NE Crimson, SW Onyx) show <em
+        lang="ja-Latn">no</em> sign of vandalism. Crimson is fire-damaged but the damage is environmental, not directed.
+        Onyx is essentially untouched. This is anomalous. Other plates (Murasakiryū particularly, but also others) bear
+        chisel marks and gouges that the Crimson and Onyx plates do not.</p>
+
+        <p><strong>The Two Untouched Plates — DC 14 History (DC 11 for Ko&#39;jiri):</strong> A character with knowledge
+        of the Golden Dragon order&#39;s fall recognizes what the absence implies. The temple was infiltrated by agents
+        of two specific Progenitor lines: the Akaryū (Crimson) and Kokuryū (Onyx) clans. Those agents would not have
+        desecrated the offering plates of their own patrons. The pattern of damage on this ring is a record of who did
+        the damage, not who was damaged. The party now knows, with reasonable certainty, that the temple&#39;s fall was
+        an inside job carried out by Crimson and Onyx infiltrators. (This is information the temple&#39;s first-floor
+        canon supports through the tapestries and head priest&#39;s records — the offering ring confirms it
+        spatially.)</p>
+
+        <p><strong>The Defaced Amethyst Plate — DC 15 History or Investigation:</strong> The vandalism on
+        Murasakiryū&#39;s plate is <em lang="ja-Latn">different</em> from the temple&#39;s other deliberate
+        desecrations. The temple&#39;s general defacement (pillar carvings, head-priest tapestry face) is consistent in
+        tool, technique, and approximate age — done during or shortly after the fall, ~13088. The chisel marks on the
+        Amethyst plate are <em lang="ja-Latn">newer</em>. The cuts are sharper, the edges of the gouges less weathered.
+        Someone returned to this temple, possibly long after the fall, specifically to erase Murasakiryū&#39;s name. The
+        work was careful and singular — only the Amethyst plate was touched. A character who notices the age discrepancy
+        may ask who, and when, and why. The temple does not answer. <em lang="ja-Latn">(DM: see DM Notes for sealed
+        context.)</em></p>
+
+        <p><strong>The Shrine — Function</strong>: DC 13 Religion identifies the shrine as a personal-prayer alcove
+        dedicated to Kinryū — the kind of recessed shrine common to Golden Dragon temples for direct supplication. The
+        absence of incense burners or offering vessels is intentional: this shrine accepts the prayer itself, not
+        material offerings. The relief above the altar mirrors the great statue&#39;s posture — the supplicant kneels
+        and offers their prayer to the same form they can see, alive in stone, through the aperture behind them. The
+        architecture is a single integrated devotional act.</p>
+
+        <p><strong>The Sealed Portal Frame</strong>: DC 14 Arcana on the gold-script arch reveals it as a teleportation
+        gate frame, currently inert. The script is in old liturgical Draconic and reads, approximately: <em
+        lang="ja-Latn">&quot;By honor offered to the seven, by prayer offered to the one, the path opens.&quot;</em> The
+        Arcana check confirms the gate is keyed — it requires a specific activation sequence, not raw magical force.
+        Brute-force attempts (Dispel Magic, Knock, etc.) on the seal do nothing visible.</p>
+
+        <p><strong>The Activation Ritual</strong>: The full sequence is discoverable through several paths:</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Path</th>
+
+        <th>Method</th>
+
+        <th>DC</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>Direct interpretation</td>
+
+        <td>Read the gold-script inscription</td>
+
+        <td>DC 16 History (DC 13 with Comprehend Languages)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Religious knowledge</td>
+
+        <td>Recognize the Golden Dragon&#39;s &quot;sevenfold tribute&quot; rite</td>
+
+        <td>DC 16 Religion (DC 13 for Ko&#39;jiri)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Trial and experimentation</td>
+
+        <td>Place a coin in any plate; observe response</td>
+
+        <td>Automatic (see below)</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Hidden archive (after entry)</td>
+
+        <td>The rite is documented in full</td>
+
+        <td>Automatic — but circular: the archive is what the gate leads to</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>The activation sequence</strong>:</p>
+
+        <ol>
+
+        <li>A <strong>gold coin</strong> (1 gp value or higher; the metal matters, not the denomination) must be placed
+        in each of the seven offering plates. The order does not matter. Each coin placed produces a faint warm hum from
+        the plate that receives it; partial completion (one through six plates) does nothing further.</li>
+
+        <li>Once all seven plates hold gold, a <strong>prayer must be offered at the south shrine</strong> — kneeling on
+        the prayer stone, hands together, prayer offered aloud to Kinryū. The prayer&#39;s content does not matter; the
+        act of supplication does. The shrine recognizes sincerity, not script.</li>
+
+        <li>On completion of the prayer, the gold-script around the south arch warms to bright gold, the stone within
+        the arch becomes translucent, and the portal opens. The portal is a one-way teleport: stepping through
+        transports the supplicant into the <strong>hallway leading to the Hidden Archives</strong> (see
+        <code>rm-hidden-archives</code>). Multiple supplicants can pass through in sequence; the portal remains open for
+        ten minutes after activation, then seals again. The gold coins remain in the plates and are <em
+        lang="ja-Latn">not</em> consumed — they may be retrieved after the ritual completes, but doing so closes the
+        portal immediately.</li>
+
+        </ol>
+
+        <p><strong>The Scorch-Marked North Wall — Damage Age</strong>: DC 12 Arcana confirms the blasts were
+        fireball-class evocation, multiple casters, sustained over time. The carbon scoring carries trace sei residue
+        old enough that it predates everything the party has seen elsewhere — fall-period damage, ~13088. The attackers
+        did not breach.</p>
+
+        <p><strong>The Wall&#39;s Resistance — DC 15 Arcana</strong>: The wall is not merely thick. A skilled arcanist
+        registers that the wall <em lang="ja-Latn">consumed</em> the magical energy of the blasts — absorbed them rather
+        than resisted them. The damage on the surface is residual heat and physical scoring; the magical force was
+        diverted, drained, or dissipated by the wall&#39;s own enchantment before it could do structural harm. This is
+        foundational magic, not battle warding — the same construction-level enchantment that powers the sconces and
+        preserves the great statue. The temple&#39;s builders anticipated that someone would try this. They built the
+        archives wall to last forever.</p>
+
+        <p><strong>The Anti-Teleport Wards — DC 16 Arcana</strong>: A character who probes the wall, or who attempts
+        teleportation magic anywhere on this floor, registers a layered warding field that extends through the floor,
+        ceiling, and outer walls of the second floor&#39;s northern half. The field nullifies inbound and outbound
+        magical teleportation specifically targeting the archives or its approach hallway. <em lang="ja-Latn">Misty
+        step</em>, <em lang="ja-Latn">dimension door</em>, <em lang="ja-Latn">teleport</em>, <em lang="ja-Latn">plane
+        shift</em> — all fail with no visible effect except a faint chime in the spellcaster&#39;s ears. The south-wall
+        portal is the singular exception: it is woven <em lang="ja-Latn">into</em> the warding rather than penetrating
+        it, an authorized exit built by the same hands that built the wards. There is no other way in.</p>
+
+        <hr>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-encounters" data-section="encounters">Encounters</h3>
+
+        <p><em lang="ja-Latn">(No combat encounters in this room under normal circumstances. The Nagaji have not reached
+        the second floor — the western and eastern stairs are undisturbed, per <code>rm-central-hallway</code>. Should
+        the Nagaji track the party up, this is an open arena with deadly fall hazard: an unwitting enemy pushed over the
+        parapet drops ~30 ft to the Grand Hall floor, taking 3d6 falling damage and likely landing among the offering
+        debris near the statue&#39;s base.)</em></p>
+
+        <p><strong>Tactical features if combat occurs:</strong></p>
+
+        <ul>
+
+        <li><strong>The aperture</strong> is a falling hazard for anyone within 5 ft of the parapet. Shove (Athletics
+        contest) or forced movement effects can push targets into the void. Falling onto the statue itself (within the
+        30 ft warmth radius on the way down) does not heal but does reduce cold damage by 1d4 per the statue&#39;s
+        passive effect.</li>
+
+        <li><strong>The ring corridor</strong> is 20 ft wide — wide enough for melee but narrow enough that ranged
+        combatants cannot easily flank.</li>
+
+        <li><strong>The two unactivated doorways</strong> (NE to orrery, NW to Brood Sanctum) provide cover and retreat
+        options. The NW door is heavy and slows passage; the NE doorway has no door at all.</li>
+
+        <li><strong>The shrine alcove</strong> is a tight defensive position (3 ft wide × 4 ft deep) — one defender at
+        the threshold, no flanking possible. A combatant who occupies it is hard to dislodge.</li>
+
+        </ul>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-dm-notes" data-section="dm-notes">DM Notes</h3>
+
+        <p><strong>The Two Untouched Plates — Confirming The Inside Job</strong>: This is the spatial confirmation of
+        what the tapestries and head priest&#39;s journal already imply. Crimson and Onyx infiltrators desecrated
+        everything they could reach but spared their own progenitors&#39; plates. A party that picks up on the pattern
+        (DC 12 Investigation, then DC 14 History) gains certainty that the temple&#39;s fall was a Crimson+Onyx joint
+        operation. This dovetails with [Tapestry II — Rite of the Golden Flame] (which catches an infiltrator in the
+        image) and the operational ledger from [Jushoku no Ma] (which records the order&#39;s inability to identify all
+        the traitors before the end).</p>
+
+        <p><strong>The Defaced Amethyst Plate — The Sealed Layer</strong>: This is the campaign&#39;s most subtle
+        Murasakiryū breadcrumb. The defacement is <em lang="ja-Latn">not</em> contemporary with the temple&#39;s fall.
+        Someone returned, much later, specifically to erase Murasakiryū&#39;s name from this ring. Two readings, both
+        true, both sealed:</p>
+
+        <ol>
+
+        <li><p><strong>The Order of the Ancient Guard</strong> has been working — across centuries — to suppress public
+        memory of Murasakiryū as a Progenitor. The Amethyst defacement is one of many small acts of erasure across
+        Kagekuni. The Guard&#39;s working theory (still unproven to themselves) is that Murasakiryū&#39;s awareness can
+        be partially insulated by removing focal points of devotion. Whether this works at all is unknown; they continue
+        regardless.</p>
+
+        </li>
+
+        <li><p><strong>The deeper, more dangerous reading</strong>: Murasakiryū herself, working through cultists or
+        compromised individuals, has been quietly <em lang="ja-Latn">removing references to her existence as a
+        Progenitor</em> — because being acknowledged as Murasakiryū interferes with her ongoing masquerade as Kokuryū.
+        If the world remembers there is a seventh dragon, the world might start asking which one it actually has.</p>
+
+        </li>
+
+        </ol>
+
+        <p>The party will not resolve this here. The defacement is a quiet question they carry forward. If they later
+        encounter similar defacements at other shrines, the pattern may resolve.</p>
+
+        <p><strong>Pristine Onyx Plate — The Layered Trap</strong>: The Kokuryū plate&#39;s pristine condition reads to
+        the party as evidence that Onyx infiltrators spared their patron. That reading is correct — and incomplete. What
+        the party does not know is that <em lang="ja-Latn">honoring</em> the Kokuryū plate (by placing a gold coin
+        during the ritual) channels supplication through the Onyx position to the dragon currently <em
+        lang="ja-Latn">occupying</em> that domain in mortal awareness — Murasakiryū. The activation ritual, performed in
+        good faith by the party, briefly registers their honor in Murasakiryū&#39;s awareness. This does not harm them
+        and produces no immediate visible effect. It is a flag the dragon has noticed. Whether and how this matters in
+        the campaign is a long-game thread — file under &quot;Murasakiryū has now seen them&quot; rather than under
+        &quot;trap.&quot;</p>
+
+        <p><strong>Activation Without All Seven Plates</strong>: A creative party may attempt to skip a plate (e.g.,
+        refuse to honor Kokuryū). The ritual does not activate with six. The frame remains inert. There is no penalty
+        for trying — the system simply does not engage. This is a choice the party can make; it costs them access to the
+        archives. They may find another way (none currently exists; the wards are absolute), or they may choose to honor
+        all seven and accept the cost. The honest framing for the table: &quot;the rite is the rite, and the rite asks
+        for all seven.&quot;</p>
+
+        <p><strong>The Scorch Marks — Whose Fireballs</strong>: The fireballs that did not breach were cast by <em
+        lang="ja-Latn">the infiltrators</em>, after they had killed or transformed most of the surviving order. They
+        knew what was in the archives and they tried to take it by force. The wards held. The infiltrators left. The
+        archives still hold what they were trying to take. (What they were trying to take is the <strong>Vigil-Oath
+        dismissal rite for Akiyo</strong> and the <strong>full Gekkō-reversal documentation</strong> — the same
+        documents that would, in modern hands, allow the party to release Akiyo and reverse the Nagaji transformation.
+        The infiltrators were trying to permanently sever both lifelines.)</p>
+
+        <p><strong>Pacing</strong>: This room is the second floor&#39;s hub. Most floor-2 activity returns here — to
+        enter the orrery, to enter Brood Sanctum, to attempt the archives. Treat it as a recurring waypoint, not a
+        destination. The first-time entry should land the dragon&#39;s eye-level moment (Ko&#39;jiri especially), the
+        parapet&#39;s ring of plates, and the silence of the scorch-marked wall. Subsequent visits should feel different
+        in tone — the party knows where it is going.</p>
+
+        <p><strong>Connected entries</strong>: <code>rm-orrery-chamber</code> (NE),
+        <code>rm-brood-sanctum-approach</code> (NW), <code>rm-hidden-archives</code> (N, accessed via south portal),
+        <code>rm-central-hallway</code> (stairs down), <code>rm-grand-hall</code> (visible through aperture).</p>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: Uv1Jfd1tXLr4L1v7
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    slug: rm-tenkairo
+    frontmatter:
+      name: Tenkairō — The Celestial Ring
+      tags:
+        - temple
+        - kinryu
+        - second-floor
+        - balcony
+        - ritual
+        - progenitors
+      parent: loc-tenkuji-temple/floor-2
+      floor: '2'
+      roomNumber: '7'

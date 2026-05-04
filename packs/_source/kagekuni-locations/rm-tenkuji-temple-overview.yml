@@ -195,8 +195,11 @@ pages:
 
         <li>Floor 1 — Tapestries: <code>supplements/tapestry.md</code></li>
 
-        <li>Floor 2 — Observatory &amp; Scriptorium: <code>supplements/mechanical-arcane-orrery.md</code> (repair
-        design), room descriptions pending</li>
+        <li>Floor 2 — Tenkairō, Orrery, Vigil Hall, Hidden Archives: <code>floor-2/</code> room files
+        (canon/locations.json § floors[1])</li>
+
+        <li>Floor 1 — Scriptorium: <code>floor-1/scriptorium.md</code> (placement: south side of E-W corridor between
+        South Entrance and southern dormitories; holds lunar armature set #8 and operator&#39;s manual #9)</li>
 
         <li>The Buried City of Kinkokyou: pending</li>
 

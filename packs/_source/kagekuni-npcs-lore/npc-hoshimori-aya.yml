@@ -1,0 +1,235 @@
+_id: Ju83bDEgK20YNiHp
+_key: '!journal!Ju83bDEgK20YNiHp'
+name: Hoshimori Aya
+pages:
+  - _id: BGRq14WaWjdymYPH
+    _key: '!journal.pages!Ju83bDEgK20YNiHp.BGRq14WaWjdymYPH'
+    name: Hoshimori Aya
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <h3>Appearance</h3>
+
+        <p>A Dragonborn woman of the Golden Clan, scales the color of dulled old gold — paler than a young
+        Kinryū-blooded Dragonborn, weathered in the way of bronze that has stood a long time in still air. Tall but not
+        heavy. She wears lacquered half-plate over a black temple robe, the chestpiece engraved with Kinryū&#39;s sigil
+        — a stylized golden dragon coiled around itself in the old style. A naginata stands at her side or rests across
+        her lap. Her eyes are quiet and watchful; her expression does not move when the door opens.</p>
+
+
+        <h3>Public Role</h3>
+
+        <p>Sole guardian of the upper-floor hallway leading to the Brood Sanctum within Ōryūzan Tenkū-ji. She does not
+        patrol; she does not leave her post. She speaks only to those who step fully into the hallway, and only after
+        the temple&#39;s architecture has measured them.</p>
+
+
+        <h3>Personality</h3>
+
+        <p>Procedural. Not warm, not hostile by default — a judge with a specific mandate. Her tone shifts among three
+        states (Hostile / Neutral / Welcoming) determined by the party&#39;s record of conduct in the temple. She is
+        courteous within each state, unyielding across states. She does not bargain. She does not threaten beyond what
+        duty requires.</p>
+
+
+        <h3>Relationship to Party</h3>
+
+        <p>First contact is at the second-floor landing of Tenkū-ji. The party finds a pile of arranged Nagaji bodies
+        outside an unlocked, well-kept door. Beyond is a pristine hallway and the guardian at its far end. Her response
+        — challenge, denial, or passage — depends on whether the party has plundered, ignored, or honored the
+        temple&#39;s lower floors. She gates access to the Brood Sanctum and its trial.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Records & References</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <p>Several scattered references in temple archives and Golden Dragon Clan oral tradition gesture at the
+        guardian&#39;s identity without confirming it. A party that asks her name receives the connection cleanly; a
+        party that does not may piece it together but never close the loop.</p>
+
+        <ul>
+
+        <li><strong>Reliquary inventory, lower archives (Investigation DC 14)</strong>: a list of binding rites
+        references a <em lang="ja-Latn">Hoshimori-class oath</em> — a ritual class specific to Brood Sanctum guardians,
+        named for the <em lang="ja-Latn">star-keeper</em> surname taken upon entry. Indicates the role exists; does not
+        name an individual.</li>
+
+        <li><strong>Devotional poem, Star Shrine archives (Religion DC 14)</strong>: a fragmentary verse mentions <em
+        lang="ja-Latn">&quot;Aya, who refused the door.&quot;</em> Context is ambiguous. The poem could be metaphor —
+        could be biography.</li>
+
+        <li><strong>Temple genealogy, Dormitories (History DC 16)</strong>: a roster of priestesses present at the
+        temple&#39;s last hour lists <em lang="ja-Latn">Hoshimori Aya</em> among them. The entry is struck through; a
+        note in a different hand reads, <em lang="ja-Latn">see also: the long watch.</em></li>
+
+        <li><strong>Golden Dragon Clan oral tradition (Ko&#39;jiri&#39;s research advantage)</strong>: surviving family
+        stories reference <em lang="ja-Latn">&quot;she who placed the inheritor&quot;</em> — gendered, never named,
+        treated as half-mythical.</li>
+
+        <li><strong>Plinth inscription, Brood Sanctum</strong>: the temple&#39;s last faithful speak in a collective <em
+        lang="ja-Latn">&quot;we entrust to this place our greatest treasure.&quot;</em> The <em
+        lang="ja-Latn">&quot;we&quot;</em> includes a person who did not leave.</li>
+
+        </ul>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em>discoverable</em></p>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Asking
+        the guardian her name is the gate to unsealing her identity. If she is asked at any point during the
+        chamber&#39;s events, she gives her name and a single self-defining truth at her watch&#39;s end. If she is not
+        asked, her name is lost — the party may collect breadcrumbs but never confirm the connection. The asking is the
+        closure.</div>
+
+
+
+
+
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> <em
+        lang="ja-Latn">Hoshimori-class oaths</em> (per the lower-archive inventory) imply other Brood Sanctum sites —
+        other guardians, other charges. None are confirmed to exist. If the campaign develops the Progenitor /
+        dragon-bloodline arc further, additional Hoshimori-bound guardians could surface as long-dormant allies or
+        cautionary mirrors.</div>
+
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p>Aya is the priestess who placed the wyrmling&#39;s egg in the Brood Sanctum at the temple&#39;s last hour.
+        When the Kinryū order fell during the War of Fractured Banners (~13088), she carried the egg into the chamber,
+        sealed the door behind her, and bound herself to the temple&#39;s foundational architecture rather than abandon
+        her charge. The architecture took her self-memory in exchange for letting her hold the post for as long as it
+        would take a worthy claimant to arrive. She has stood in the hallway ever since — present without being awake,
+        watching without seeing, waiting without remembering why.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <p><strong>Her awareness model.</strong> She does not actively perceive what passes in the temple. The
+        architecture relays positive or negative <em lang="ja-Latn">impressions</em> to her based on how those it
+        watches treat the place; she acts on those impressions, not on knowledge. Time has not collected in her — she
+        does not remember faces, conversations, or events. In State C she is openly apologetic about this; in State B
+        she does not feel the gap.</p>
+
+        <p><strong>The egg-placer reveal.</strong> Her role as the woman who placed the egg is the chamber&#39;s deepest
+        narrative truth and is gated entirely behind the party asking her name. If asked, she names herself at the
+        watch&#39;s end and acknowledges placing the child. The architecture&#39;s hold on her memory releases in the
+        same breath; she remembers, briefly, who she was — and tells the party one defining detail of her life before
+        the watch (DM picks: a teacher&#39;s name, a vow she swore, a clan affiliation). She does not survive the
+        telling.</p>
+
+        <p><strong>The four gifts.</strong> When the wyrmling bonds and the watch ends, she gives one personalized
+        offering to each of the three non-bonded party members. The bonded character receives the wyrmling. The gifts
+        are her release; their giving is what lets her fade. Full offering structure documented in the chamber writeup
+        (<a href="../Obsidian/dm/brood-sanctum-redesign.md">Obsidian/dm/brood-sanctum-redesign.md</a>).</p>
+
+        <p><strong>On failure.</strong> If the trial fails, she remains. She does not depart. She bears witness without
+        bitterness and waits for the next attempt. She does not offer gifts on failure — the gifts are tied to the
+        wyrmling&#39;s bow, which only happens on success.</p>
+
+        <p><strong>Combat, last resort.</strong> If the party crosses into State A and persists in destructive behavior,
+        she fights. Stat block TBD — calibrated at session-time to the party&#39;s level when the chamber comes into
+        play. She will not pursue beyond the hallway; she does not leave her post.</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em>sealed</em></p>
+
+        <ul>
+
+        <li>The Brood Sanctum trial — gated by her</li>
+
+        <li>The wyrmling bond and the eighth virtue (<em lang="ja-Latn">chūgi</em>) — initiated through her</li>
+
+        <li>The Hoshimori-class oath — implies other guardians at other Progenitor-related sites; campaign-thread
+        potential</li>
+
+        <li>Her departure — terminal; once she fades, the chamber&#39;s gating role passes to the temple&#39;s
+        foundational architecture alone, and the upper floor becomes freely accessible to any future party</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: 37seyHXHrB2Sr1Yy
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
+    slug: npc-hoshimori-aya
+    frontmatter:
+      name: Hoshimori Aya
+      type: npc
+      detail: major
+      status: active
+      race: Dragonborn
+      sex: F
+      clan: golden-dragon-clan
+      caste: kugai
+      role: Brood Guardian, Ōryūzan Tenkū-ji upper floor
+      location: loc-tenkuji-temple
+      affiliations:
+        - golden-dragon-clan
+        - kinryu-order
+      tags:
+        - guardian
+        - kinryu
+        - architecture-bound
+        - ancient
+        - dragonborn
+        - brood-sanctum
+      aliases:
+        - Aya of the long watch
+        - the one who placed the child
+      related_npcs: []
+      related_quests: []
+      height: 5'9\"
+      weight: 165
+      images:
+        portrait: null
+        token: null
+        variants: null

@@ -42,7 +42,7 @@ pages:
 
         <li class="kg-task" data-done="false">Assess the observatory and identify what repairs are needed</li>
 
-        <li class="kg-task" data-done="false">Locate the 5 first-floor components<ul>
+        <li class="kg-task" data-done="false">Locate the 7 first-floor components<ul>
 
         <li class="kg-task" data-done="false">Susanoo projection lens (Grand Hall)</li>
 
@@ -54,19 +54,19 @@ pages:
 
         <li class="kg-task" data-done="false">Sei conduit filament (Inner Sanctum)</li>
 
+        <li class="kg-task" data-done="false">Lunar armature set (Scriptorium)</li>
+
+        <li class="kg-task" data-done="false">Operator&#39;s manual (Scriptorium)</li>
+
         </ul>
 
         </li>
 
-        <li class="kg-task" data-done="false">Locate the 4 second-floor components<ul>
+        <li class="kg-task" data-done="false">Complete the 2 in-place repairs on floor 2<ul>
 
-        <li class="kg-task" data-done="false">Repair the cracked Amaterasu projection lens (Observatory)</li>
+        <li class="kg-task" data-done="false">Repair the cracked Amaterasu projection lens (Orrery)</li>
 
-        <li class="kg-task" data-done="false">Free the seized stellar drive mechanism (Observatory)</li>
-
-        <li class="kg-task" data-done="false">Find the lunar armature set (Scriptorium)</li>
-
-        <li class="kg-task" data-done="false">Find the operator&#39;s manual (Scriptorium)</li>
+        <li class="kg-task" data-done="false">Free the seized stellar drive mechanism (Orrery)</li>
 
         </ul>
 

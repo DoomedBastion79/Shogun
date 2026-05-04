@@ -56,6 +56,9 @@ pages:
         <li class="kg-task" data-done="false"><a href="floor-1/central-hallway.md">Central Hallway Cross —
         Watariro</a></li>
 
+        <li class="kg-task" data-done="false">[Scriptorium] (south side of E-W corridor, between South Entrance and
+        southern dormitories — holds lunar armature set #8 and operator&#39;s manual #9; full room file pending)</li>
+
         </ul>
 
         <hr>
@@ -301,7 +304,7 @@ pages:
 
         <td>Inner Sanctum</td>
 
-        <td>800gp antique; pointer to upper-floor scriptorium; contains sei conduit filament</td>
+        <td>800gp antique; pointer to the Scriptorium on this floor; contains sei conduit filament</td>
 
         </tr>
 
@@ -405,6 +408,27 @@ pages:
 
         </tr>
 
+        <tr>
+
+        <td>Lunar armature set</td>
+
+        <td>Scriptorium (sealed cabinet)</td>
+
+        <td>Observatory component #8; four delicate arms; DC 14 Investigation in scriptorium area</td>
+
+        </tr>
+
+        <tr>
+
+        <td>Operator&#39;s manual</td>
+
+        <td>Scriptorium (preserved texts)</td>
+
+        <td>Observatory component #9; sei-lacquered instructional scroll; DC 13 Investigation (DC 10 for
+        Ko&#39;jiri)</td>
+
+        </tr>
+
         </tbody></table>
 
         <hr>
@@ -436,24 +460,28 @@ pages:
         going wrong. They cannot fully articulate what they know, but a character who succeeds on a DC 15 Insight check
         during any interaction realizes: <em lang="ja-Latn">this thing is trying to tell them something.</em> A DC 18
         Persuasion check (with appropriate magical translation) can open a halting exchange. The abomination knows the
-        temple&#39;s layout, including the scriptorium above. They cannot reverse what happened to themselves. But they
-        might help someone else try.</p>
+        temple&#39;s layout, including the scriptorium just down the corridor. They cannot reverse what happened to
+        themselves. But they might help someone else try.</p>
 
-        <p><strong>Connecting to the Floors Above</strong>
+        <p><strong>The Scriptorium Thread</strong>
 
-        The scriptorium — where the Gekko reversal documentation lives — is on an upper floor. The first floor exists to
-        prepare the party for that discovery: the sei-lacquer pointer from the surviving scroll, the celestial-timing
-        insight from the star shrine, the bronze disc as a key, the Kinryu no Chikara mandate as a credential.
-        Everything here is a tool for what comes next.</p>
+        The Scriptorium — where the lunar armature set and operator&#39;s manual live — is on this same floor, off the
+        south side of the E-W corridor. The Gekko reversal <em lang="ja-Latn">documentation</em> lives in the Hidden
+        Archives on floor 2, behind the warded portal at the south wall of the Tenkairō (the seven-Progenitor offering
+        ritual). The first floor exists to prepare the party for both discoveries: the sei-lacquer pointer from the
+        surviving scroll, the celestial-timing insight from the star shrine, the bronze disc as a key, the Kinryu no
+        Chikara mandate as a credential. Everything here is a tool for what comes next.</p>
 
-        <p><strong>The Observatory Thread</strong>: Five observatory components are distributed across the first floor
-        (Susanoo lens in the Grand Hall, planetary gear assembly in the dormitories, calibration disc on the bronze
-        order seal, Tsukuyomi lens in the Star Shrine relic collection, sei conduit filament in the sanctum scroll).
-        Additional components exist on the second floor. A party that explores thoroughly will accumulate components
-        without necessarily understanding what they&#39;re for — the observatory itself, when they reach it, provides
-        the context. The first component a player identifies (likely the planetary gear assembly, lowest Investigation
-        DC) should prompt a &quot;what is this part of?&quot; question. Do not answer it directly. Let them carry the
-        mystery upward. The orrery, when they find it, is the answer.</p>
+        <p><strong>The Observatory Thread</strong>: Seven observatory components are distributed across the first floor
+        — five in rooms the party visits during regular exploration (Susanoo lens in the Grand Hall, planetary gear
+        assembly in the dormitories, calibration disc on the bronze order seal, Tsukuyomi lens in the Star Shrine relic
+        collection, sei conduit filament in the sanctum scroll) and two in the Scriptorium (lunar armature set,
+        operator&#39;s manual). Two more components remain in place on the second floor: the cracked Amaterasu lens and
+        the seized stellar drive, both inside the orrery itself. A party that explores thoroughly will accumulate
+        components without necessarily understanding what they&#39;re for — the observatory itself, when they reach it,
+        provides the context. The first component a player identifies (likely the planetary gear assembly, lowest
+        Investigation DC) should prompt a &quot;what is this part of?&quot; question. Do not answer it directly. Let
+        them carry the mystery upward. The orrery, when they find it, is the answer.</p>
 
         <p><strong>The Pools — Spending Wisely</strong>
 
@@ -934,9 +962,9 @@ pages:
 
         <td>E-W hallway, 45 ft west of center</td>
 
-        <td>Floor 2 — Observatory &amp; Scriptorium</td>
+        <td>Floor 2 — Tenkairō (balcony ring)</td>
 
-        <td>Open access; standard stairs</td>
+        <td>Open access; standard stairs; lands at the W quadrant of the ring</td>
 
         </tr>
 
@@ -946,9 +974,9 @@ pages:
 
         <td>E-W hallway, 45 ft east of center</td>
 
-        <td>Floor 2 — Observatory &amp; Scriptorium</td>
+        <td>Floor 2 — Tenkairō (balcony ring)</td>
 
-        <td>Open access; standard stairs</td>
+        <td>Open access; standard stairs; lands at the E quadrant of the ring</td>
 
         </tr>
 

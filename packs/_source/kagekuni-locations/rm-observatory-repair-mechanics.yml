@@ -151,13 +151,14 @@ pages:
 
         <h3 id="kg-component-system" data-section="component-system">Component System</h3>
 
-        <p>The observatory requires <strong>9 components</strong> to reach full operation. Five are found on the first
-        floor; four are on the second floor (in the observatory itself or in adjacent second-floor rooms). Components
-        fall into four repair categories.</p>
+        <p>The observatory requires <strong>9 components</strong> to reach full operation. <strong>Seven are found on
+        the first floor</strong> (five in the rooms the party visits during regular exploration, two in the
+        Scriptorium); <strong>two remain on the second floor</strong>, both in the orrery itself (Amaterasu lens still
+        mounted, stellar drive still in place). Components fall into four repair categories.</p>
 
         <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
-        <h3 id="kg-first-floor-components-5" data-section="first-floor-components-5">First Floor Components (5)</h3>
+        <h3 id="kg-first-floor-components-7" data-section="first-floor-components-7">First Floor Components (7)</h3>
 
         <table>
 
@@ -261,11 +262,45 @@ pages:
 
         </tr>
 
+        <tr>
+
+        <td>8</td>
+
+        <td><strong>Lunar armature set</strong></td>
+
+        <td>Mechanical</td>
+
+        <td>Scriptorium — sealed cabinet</td>
+
+        <td>DC 14 Investigation in the scriptorium area</td>
+
+        <td>Four delicate arms removed by the order for maintenance or safekeeping before the fall; stored in a sealed
+        cabinet with other precision instruments</td>
+
+        </tr>
+
+        <tr>
+
+        <td>9</td>
+
+        <td><strong>Operator&#39;s manual</strong></td>
+
+        <td>Calibration</td>
+
+        <td>Scriptorium — among preserved texts</td>
+
+        <td>DC 13 Investigation (DC 10 for Ko&#39;jiri)</td>
+
+        <td>A sei-lacquered instructional scroll detailing calibration and operation procedures; written in Old Imperial
+        with technical diagrams</td>
+
+        </tr>
+
         </tbody></table>
 
         <h2 id="kg-known" data-section="known">[KNOWN]</h2>
 
-        <h3 id="kg-second-floor-components-4" data-section="second-floor-components-4">Second Floor Components (4)</h3>
+        <h3 id="kg-second-floor-components-2" data-section="second-floor-components-2">Second Floor Components (2)</h3>
 
         <table>
 
@@ -297,7 +332,7 @@ pages:
 
         <td>Arcane</td>
 
-        <td>Observatory — still mounted, cracked</td>
+        <td>Orrery — still mounted, cracked</td>
 
         <td>Visible on inspection</td>
 
@@ -314,7 +349,7 @@ pages:
 
         <td>Mechanical</td>
 
-        <td>Observatory — seized in place</td>
+        <td>Orrery — seized in place</td>
 
         <td>Visible on inspection</td>
 
@@ -324,41 +359,12 @@ pages:
 
         </tr>
 
-        <tr>
-
-        <td>8</td>
-
-        <td><strong>Lunar armature set</strong></td>
-
-        <td>Mechanical</td>
-
-        <td>Scriptorium / adjacent room — removed and stored</td>
-
-        <td>DC 14 Investigation in the scriptorium area</td>
-
-        <td>Four delicate arms removed by the order for maintenance or safekeeping before the fall; stored in a sealed
-        cabinet with other precision instruments</td>
-
-        </tr>
-
-        <tr>
-
-        <td>9</td>
-
-        <td><strong>Operator&#39;s manual</strong></td>
-
-        <td>Calibration</td>
-
-        <td>Scriptorium — among preserved texts</td>
-
-        <td>DC 13 Investigation (DC 10 for Ko&#39;jiri)</td>
-
-        <td>A sei-lacquered instructional scroll detailing calibration and operation procedures; written in Old Imperial
-        with technical diagrams</td>
-
-        </tr>
-
         </tbody></table>
+
+        <p><em lang="ja-Latn">Both remaining components stay in the orrery itself — there is no component-hunt on floor
+        2. The party reaches floor 2 with seven of nine components already in hand and finishes the repair in place.
+        Lunar arms #8 and operator&#39;s manual #9 are first-floor finds; see the Scriptorium row in the table
+        above.</em></p>
 
         <hr>
 
@@ -709,29 +715,35 @@ pages:
 
         <h3 id="kg-pacing-across-sessions" data-section="pacing-across-sessions">Pacing Across Sessions</h3>
 
-        <p>The observatory repair is designed to span the second floor exploration, not dominate it. The party returns
-        to the observatory between other second-floor activities.</p>
+        <p>The observatory repair is designed to be <em lang="ja-Latn">prepared for</em> on floor 1 (where seven of the
+        nine components live, including the Scriptorium-stored lunar armatures and operator&#39;s manual) and <em
+        lang="ja-Latn">executed</em> on floor 2 (where the remaining two components stay in place inside the orrery
+        itself). The repair work itself is concentrated in the orrery chamber; floor 2&#39;s other rooms — Tenkairō,
+        Vigil Hall, Hidden Archives — carry the floor&#39;s exploration weight independently.</p>
 
         <p><strong>Suggested flow</strong>:</p>
 
         <ol>
 
-        <li><strong>Discovery</strong>: Party reaches second floor, finds the observatory. Assessment checks.
-        &quot;Aha&quot; moment if they have first-floor components.</li>
+        <li><strong>First-floor preparation</strong>: Party gathers components across regular floor-1 exploration (Grand
+        Hall, Star Shrine, Mess Hall, Dormitories, Inner Sanctum) and the Scriptorium. By the time they reach the stairs
+        up, they may hold up to seven components without yet understanding what they are for.</li>
 
-        <li><strong>First repair session</strong>: Mechanical restoration (Stage 2). The mechanism moves. Brief,
-        satisfying.</li>
+        <li><strong>Discovery</strong>: Party reaches the Tenkairō, then the Orrery. Assessment checks. &quot;Aha&quot;
+        moment lands hard if they have most of the components — the puzzle resolves.</li>
 
-        <li><strong>Exploration break</strong>: Party explores scriptorium and other second-floor rooms. Finds lunar
-        armatures, operator&#39;s manual, other second-floor content.</li>
+        <li><strong>Other floor-2 exploration</strong>: The seven-plate ritual at the Tenkairō, Akiyo in the Vigil Hall,
+        the warded north wall and its archives. The party can engage these in any order.</li>
 
-        <li><strong>Second repair session</strong>: Arcane restoration (Stage 3). First lens installed. Light fills the
-        dome. Major atmospheric moment.</li>
+        <li><strong>First repair session</strong>: Mechanical restoration (Stage 2) — free the seized stellar drive,
+        install planetary gear assembly. The mechanism moves. Brief, satisfying.</li>
 
-        <li><strong>More exploration</strong>: Continue second-floor content. Maybe encounter. Return with remaining
-        components.</li>
+        <li><strong>Second repair session</strong>: Arcane restoration (Stage 3). Repair the cracked Amaterasu lens in
+        place; install the Susanoo and Tsukuyomi lenses; thread the sei conduit filament. Light fills the dome. Major
+        atmospheric moment.</li>
 
-        <li><strong>Final repair session</strong>: Lunar arms (Stage 4), calibration (Stage 5). Full activation.</li>
+        <li><strong>Final repair session</strong>: Lunar arms (Stage 4), calibration (Stage 5) using the operator&#39;s
+        manual and calibration disc. Full activation.</li>
 
         <li><strong>The descent</strong>: After full restoration, the party goes back downstairs to the South Entrance —
         the very first room they entered. They have been here before. They know these walls. Describe the South Entrance

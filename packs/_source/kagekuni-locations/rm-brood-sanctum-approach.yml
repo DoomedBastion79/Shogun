@@ -1,0 +1,362 @@
+_id: HNeMmAcVJM5HPECy
+_key: '!journal!HNeMmAcVJM5HPECy'
+name: The Approach — Hallway and Brood Guardian
+pages:
+  - _id: vJFR3MnbmJMmC2nd
+    _key: '!journal.pages!HNeMmAcVJM5HPECy.vJFR3MnbmJMmC2nd'
+    name: Overview
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="kg-tier kg-tier-intro" data-tier="intro"><h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-what-the-players-see" data-section="what-the-players-see">What the Players See</h3>
+
+        <p>The players reach the second-floor landing and find:</p>
+
+        <ul>
+
+        <li>A <strong>pile of Nagaji bodies</strong> stacked outside a closed door. Not strewn from combat — <em
+        lang="ja-Latn">arranged</em>, deliberate, intentional. (Insight or Investigation DC 12 to recognize the
+        placement is deliberate; DC 16 to read it as a warning marker rather than a trophy display.)</li>
+
+        <li>The <strong>door is closed but in surprisingly good condition</strong> — clean, unsplintered, the wood
+        bright against the temple&#39;s general decay. <strong>Unlocked.</strong></li>
+
+        <li>Beyond the door, a <strong>pristine hallway</strong>. No blood, no scuffs, no signs of struggle. The
+        contrast with the bodies outside is sharp.</li>
+
+        </ul>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-the-brood-guardian" data-section="the-brood-guardian">The Brood Guardian</h3>
+
+        <p>A guardian of the Kinryū order stands at the far end of the hallway. She does not react to the door being
+        opened. She does not turn her head, does not challenge, does not move. She is <strong>not</strong> inert — she
+        is waiting.</p>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-nagaji-bodies-dm-note" data-section="nagaji-bodies-dm-note">Nagaji Bodies (DM Note)</h3>
+
+        <p><strong>The Nagaji bodies were arranged by the guardian herself.</strong> When Nagaji intruders push into the
+        temple and reach this floor, she dispatches them inside the hallway, then carries the bodies out and arranges
+        them at the threshold. The arrangement serves two purposes: it keeps her hallway clean (a sacred space, kept
+        sacred), and it serves as a warning to whatever comes next.</p>
+
+        <p>The bodies are recent. The chamber&#39;s stasis distorts time slightly in the hallway — bodies decay slowly.
+        To the party, the dead look killed within the last day or two. They were not.</p>
+
+        <p>Players may piece this together by Insight or by asking the guardian directly once she speaks. She will not
+        lie about it.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-the-guardian39s-response-three-states" data-section="the-guardian39s-response-three-states">The
+        Guardian&#39;s Response — Three States</h3>
+
+        <p>The moment any character steps fully into the hallway, the guardian addresses them. <strong>Her response is
+        determined by the party&#39;s prior conduct in the temple.</strong> The DM chooses the state based on what the
+        party has actually done on the lower floors.</p>
+
+        <p>The state is determined by the party&#39;s record in the temple, communicated to the guardian through the
+        temple&#39;s architecture (see <em lang="ja-Latn">Her Awareness</em>, below).</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-state-a-hostile" data-section="state-a-hostile">State A — Hostile</h3>
+
+        <h4 id="kg-state-a-hostile-the-party-has-been-actively-dama"
+        data-section="state-a-hostile-the-party-has-been-actively-dama">State A — Hostile (the party has been actively
+        damaging the temple)</h4>
+
+        <p>Triggered by: looting sacred objects, defacing inscriptions, breaking architecture, attacking temple
+        animations or wildlife without provocation, treating the site as a dungeon to plunder.</p>
+
+        <blockquote>
+
+        <p><em lang="ja-Latn">&quot;A flame that feeds on shattered lacquer burns bright but not long. You have burned
+        bright in this place. I am the wind that decides whether it continues. I am the hand Kinryū-sama set against
+        those who would harm her house. Withdraw, atone, or be answered. Choose your next step carefully — I will not
+        warn twice.&quot;</em></p>
+
+        </blockquote>
+
+        <p>Her tone is stark and hostile. She does not draw a weapon — yet — but the air around her sharpens. The party
+        should feel they are one wrong step from a fight they will not enjoy.</p>
+
+        <p>If the party persists in destructive behavior after this warning, she attacks. Her stat block is built when
+        the chamber comes into play (TBD). <strong>She does not pursue beyond the hallway</strong> — she will not cross
+        the threshold of the door, and she will not leave her post. A party that flees combat with her can escape
+        unharmed once they pass the door.</p>
+
+        <p><strong>The portal does not open for those who have fled her.</strong> The chamber&#39;s threshold at the far
+        end of the hallway is sealed; only her permission opens it (see <em lang="ja-Latn">The Portal</em>, below). A
+        party that engages her and runs has barred itself from the chamber until they have re-earned passage. Recovery
+        is the same path as below.</p>
+
+        <p><strong>Recovery from State A</strong>: Possible but not easy. The party must visibly <em
+        lang="ja-Latn">un</em>-do the damage they have done — restore what they broke, return what they took, perform a
+        meaningful act of atonement at one of the temple&#39;s lower-floor altars. The temple watches; her mood shifts
+        when the architecture&#39;s feeling shifts. The bar should be high but not unreachable.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-state-b-neutral" data-section="state-b-neutral">State B — Neutral</h3>
+
+        <h4 id="kg-state-b-neutral-the-default" data-section="state-b-neutral-the-default">State B — Neutral (the
+        default)</h4>
+
+        <p>Triggered by: the party has been respectful or indifferent to the temple — neither plundering nor restoring.
+        Most parties will land here on their first arrival.</p>
+
+        <blockquote>
+
+        <p><em lang="ja-Latn">&quot;The hand that would lift a sleeping child must first be steady. You have not yet
+        shown me a steady hand. Many have stood where you stand. Few have walked beyond. The chamber I guard does not
+        measure strength. By oath sworn to the Golden Progenitor and to those who fell defending this house, I am set
+        against any who would pass unproven. Go, learn what this place has lost. Return when you
+        understand.&quot;</em></p>
+
+        </blockquote>
+
+        <p>Her tone is procedural. Not hostile, not welcoming. She is a judge with a specific mandate.</p>
+
+        <p>She does not specify what &quot;proving yourself worthy&quot; requires — she does not, in fact, <em
+        lang="ja-Latn">know</em> what would qualify in any specific sense. The temple decides; she relays.</p>
+
+        <p><strong>The party must leave and engage with the temple&#39;s restoration before she will pass them
+        through.</strong> The orrery is the canonical example — a damaged or dormant device on the lower floors that,
+        when repaired, signals to the foundational architecture that someone here cares. The DM may seed other
+        restoration acts in the lower floors if the party engages elsewhere.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-state-c-welcoming" data-section="state-c-welcoming">State C — Welcoming</h3>
+
+        <h4 id="kg-state-c-welcoming-the-party-has-performed-meanin"
+        data-section="state-c-welcoming-the-party-has-performed-meanin">State C — Welcoming (the party has performed
+        meaningful restoration)</h4>
+
+        <p>Triggered by: the party has visibly restored or honored the temple — repaired the orrery, completed a similar
+        restoration act, or performed a deeply respectful ritual gesture.</p>
+
+        <blockquote>
+
+        <p><em lang="ja-Latn">&quot;A garden tended by sincere hands knows them when they return. You have tended. I
+        bear witness: you have honored this house, and by that witness you may pass. Go forward. All may walk in; only
+        one may kneel. Beyond this hall, step lightly, step sincerely — the chamber answers no falsehood, and She
+        remembers all. What you do matters less than why. She measures no skill — She measures the heart you bring to
+        it. Mean what you do. She will know the difference.&quot;</em></p>
+
+        </blockquote>
+
+        <p>Her tone shifts — not warm, but no longer guarded. She steps aside.</p>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-state-c-dm-notes" data-section="state-c-dm-notes">State C — DM Notes</h3>
+
+        <p><strong>&quot;She will know the difference&quot;</strong> is a reference to Kinryū. The guardian knows whose
+        chamber this is. The players will not know yet — but the moment when the candidate hears Kinryū&#39;s voice in
+        the chamber and the moment they recall the guardian&#39;s <em lang="ja-Latn">&quot;She&quot;</em> should land
+        together.</p>
+
+        <p><strong>&quot;Only one may kneel&quot;</strong> establishes the bond&#39;s exclusivity up front. The party
+        should understand they are choosing a candidate before anyone settles onto the pad. The chamber will enforce
+        this regardless, but advance notice gives the party a roleplay moment to choose deliberately.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-her-awareness" data-section="her-awareness">Her Awareness</h3>
+
+        <p>The guardian has stood at this post for thousands of years. She is <strong>not</strong>, however, an active
+        observer. She does not see what passes in the temple. She does not hear what is said three rooms away. She does
+        not remember the faces of those who came before. She is bound to the temple&#39;s foundational architecture, and
+        the temple speaks to her through impressions — a <em lang="ja-Latn">positive</em> feeling when those it watches
+        honor the place; a <em lang="ja-Latn">negative</em> feeling when they violate it. She acts on those feelings,
+        not on knowledge.</p>
+
+        <p>What she remembers, she remembers as feeling. What she does not feel, she does not know. Time has passed but
+        has not collected in her — she has been present without being awake.</p>
+
+        <p>This shapes every conversation the party tries to have with her. Each state has its own response to
+        questions:</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-qampa-state-a" data-section="qampa-state-a">Q&amp;A — State A</h3>
+
+        <h4 id="kg-state-a-she-does-not-speak" data-section="state-a-she-does-not-speak">State A — She does not
+        speak</h4>
+
+        <p>She has issued her warning. She will not issue another. If addressed, <strong>she rises (if seated), draws
+        her Naginata, and stares at the party in silence.</strong> Continued attempts to engage her — questions, pleas,
+        demands — are met with the blade. The conversation is over. The party&#39;s only remaining input is action:
+        leave, atone, or fight.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-qampa-state-b" data-section="qampa-state-b">Q&amp;A — State B</h3>
+
+        <h4 id="kg-state-b-direct-rebuke" data-section="state-b-direct-rebuke">State B — Direct rebuke</h4>
+
+        <p>She answers questions, but only one way: she does not. Her role is to protect these chambers, not to counsel
+        travelers. Sample lines (vary the phrasing to taste):</p>
+
+        <blockquote>
+
+        <p><em lang="ja-Latn">&quot;I am not here to answer. I am here to bar.&quot;</em>
+
+        <em lang="ja-Latn">&quot;My voice is set against the unproven, not in service to them. Walk on.&quot;</em>
+
+        <em lang="ja-Latn">&quot;You ask me what the temple wants. The temple does not whisper to me, and I do not
+        whisper to you.&quot;</em>
+
+        <em lang="ja-Latn">&quot;This is a threshold, not a council. Cross it when you may.&quot;</em>
+
+        <em lang="ja-Latn">&quot;Save your questions for the place that has answers. I am not it.&quot;</em></p>
+
+        </blockquote>
+
+        <p>She is not unkind. She is simply unyielding on this point. She will not be moved by clever framing or
+        persistent pressure. The party gets the same answer in different words for as long as they ask.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-qampa-state-c" data-section="qampa-state-c">Q&amp;A — State C</h3>
+
+        <h4 id="kg-state-c-apologetic-denial" data-section="state-c-apologetic-denial">State C — Apologetic denial</h4>
+
+        <p>The shift in her demeanor extends to her conversation. She is willing to engage, but quickly reveals the
+        shape of her limits — she remembers nothing in detail. Time has passed, she knows; what filled it does not
+        return to her.</p>
+
+        <blockquote>
+
+        <p><em lang="ja-Latn">&quot;I would tell you, if I knew. The years have moved through me, but they have not
+        stayed. I am sorry.&quot;</em>
+
+        <em lang="ja-Latn">&quot;There were others, before you. I am certain of it. Their faces — no. The temple kept
+        them. I did not.&quot;</em>
+
+        <em lang="ja-Latn">&quot;You ask of the fall of this house. I felt the shape of it. I cannot tell you the
+        words.&quot;</em>
+
+        <em lang="ja-Latn">&quot;What I knew, I knew once. The place keeps its memory in stone and in star, not in me.
+        Forgive me.&quot;</em>
+
+        <em lang="ja-Latn">&quot;My oath is sharper than my recollection. Both have held a long time.&quot;</em></p>
+
+        </blockquote>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-qampa-state-c-dm-slips" data-section="qampa-state-c-dm-slips">Q&amp;A — State C DM Slips</h3>
+
+        <p>The fuzziness is not a memory bug — it is a feature of how the temple bound her. <strong>She was made to
+        outlast her own memory.</strong> A guardian who remembers the order&#39;s fall in detail would carry grief
+        incompatible with her duty; a guardian who remembers the egg&#39;s placement would speak its location to anyone
+        who asked. The architecture protects her, and through her, the chamber.</p>
+
+        <p>What she <em lang="ja-Latn">can</em> do, in State C, is point. If pressed about what lies beyond the chamber,
+        she may say something like, <em lang="ja-Latn">&quot;There is a child. I know that without knowing how I
+        know.&quot;</em> If pressed about Kinryū, she may say, <em lang="ja-Latn">&quot;She sleeps. She has always
+        slept. I have always known where, though I could not tell you if I tried.&quot;</em> These are sealed-tier slips
+        that should land as awe, not exposition.</p>
+
+        <p>She will never knowingly lie. If she does not know, she says so.</p>
+
+        <h2 id="kg-known" data-section="known">[KNOWN]</h2>
+
+        <h3 id="kg-the-portal" data-section="the-portal">The Portal</h3>
+
+        <h3 id="kg-the-portal" data-section="the-portal">The Portal</h3>
+
+        <p>At the far end of the hallway, behind the guardian, is the threshold to the Brood Sanctum proper. It does not
+        look like a door. It is an arched recess in the stone, smooth and unmarked, the back wall faintly shimmering — a
+        <em lang="ja-Latn">portal</em>, not a barrier. <strong>The portal is sealed by default. It opens only when the
+        guardian permits passage.</strong></p>
+
+        <p>When she steps aside (State C, on first arrival; or after recovery from A or B), the shimmer softens and the
+        recess clears. Anyone may walk through. While she stands her post — in any state — the recess is solid stone to
+        anyone who tests it.</p>
+
+        <h2 id="kg-sealed" data-section="sealed">[SEALED]</h2>
+
+        <h3 id="kg-portal-mechanics-dm" data-section="portal-mechanics-dm">Portal Mechanics (DM)</h3>
+
+        <p><strong>The portal is part of the chamber&#39;s foundational architecture, not a separate device.</strong>
+        Her permission is the architecture&#39;s permission, channeled through her. She is not a key — she is the <em
+        lang="ja-Latn">judgment</em>; the architecture is what acts on her judgment.</p>
+
+        <p><strong>Implications</strong>:</p>
+
+        <ul>
+
+        <li><strong>The party cannot bypass her.</strong> No spell, no skill, no force of arms opens the portal
+        directly. The architecture&#39;s seal on the recess is at the same tier as the chamber&#39;s own protections
+        (see <em lang="ja-Latn">Chamber Protections</em>) — Arcana 18+ &quot;magic as architecture,&quot; meaning
+        mundane and most magical solutions simply do not engage with it. <em lang="ja-Latn">Dispel Magic</em>, <em
+        lang="ja-Latn">Disintegrate</em>, <em lang="ja-Latn">Wish</em>, etc. fail without producing useful
+        information.</li>
+
+        <li><strong>A party that flees combat with her cannot return through the portal</strong> until they have
+        recovered her permission. The hallway remains accessible — the guardian cannot bar the <em
+        lang="ja-Latn">door</em> into her hall, only the portal at its end. A penitent party may enter, kneel, atone in
+        her presence; she will measure them again as the architecture relays.</li>
+
+        <li><strong>If she dies in combat (State A escalation gone fully wrong)</strong>, the portal remains sealed. Her
+        death does not unlock it — she is the judgment, not the key. The chamber may, after a long span (DM call: weeks,
+        months), assign a new judgment-bearer through the architecture&#39;s own logic, or it may remain dormant until
+        the campaign returns to it through other means. Player-killed guardians is a campaign-level setback, not a
+        shortcut.</li>
+
+        <li><strong>When she eventually fades (post-success)</strong>, the portal stays open thereafter. The
+        chamber&#39;s purpose is fulfilled; the threshold becomes a normal recess, freely passable. This is documented
+        in her departure (see <em lang="ja-Latn">Aya&#39;s Final Address</em>).</li>
+
+        </ul>
+
+        <hr>
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+folder: Uv1Jfd1tXLr4L1v7
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    slug: rm-brood-sanctum-approach
+    frontmatter:
+      name: The Approach — Hallway and Brood Guardian
+      tags:
+        - temple
+        - kinryu
+        - second-floor
+        - kinkko
+        - guardian
+        - portal
+        - approach
+        - brood-sanctum
+      parent: loc-tenkuji-temple/floor-2
+      floor: '2'
+      roomNumber: '9'
