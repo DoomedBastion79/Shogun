@@ -1,7 +1,7 @@
 {
   "moduleId": "kagekuni-assistant",
-  "version": "0.7.9",
-  "generated": "2026-05-03T00:50:14.587Z",
+  "version": "0.7.10",
+  "generated": "2026-05-03T02:25:20.054Z",
   "packs": {
     "classes": [
       {
@@ -63808,6 +63808,20 @@
         }
       },
       {
+        "_id": "8IdaCW1hEcL4VrxA",
+        "name": "龍 Ryū — Dragons",
+        "type": "Actor",
+        "folder": null,
+        "sorting": "m",
+        "sort": 40,
+        "color": "#a83232",
+        "flags": {
+          "assistant": {
+            "folderPath": "monsters/dragons"
+          }
+        }
+      },
+      {
         "_id": "vpQj8SzmaX00b9VK",
         "name": "ナガジ Nagaji",
         "type": "Actor",
@@ -63839,7 +63853,7 @@
         "_id": "BRvW0Z6xFX1z25Ol",
         "name": "Akakkō Adult",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/akakko-adult.webp",
         "prototypeToken": {
           "name": "Akakkō Adult",
           "displayName": 20,
@@ -63853,6 +63867,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/akakko-adult.webp"
           }
         },
         "items": [
@@ -64695,7 +64712,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -64843,7 +64860,7 @@
         "_id": "o63dYhqlbKpG3Zoh",
         "name": "Akakkō Wyrmling",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/akakko-wyrmling.webp",
         "prototypeToken": {
           "name": "Akakkō Wyrmling",
           "displayName": 20,
@@ -64857,6 +64874,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/akakko-wyrmling.webp"
           }
         },
         "items": [
@@ -65115,7 +65135,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -66116,7 +66136,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -66264,7 +66284,7 @@
         "_id": "frZAuhC9WiVyi8EH",
         "name": "Aokkō Wyrmling",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/aokko-wyrmling.webp",
         "prototypeToken": {
           "name": "Aokkō Wyrmling",
           "displayName": 20,
@@ -66278,6 +66298,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/aokko-wyrmling.webp"
           }
         },
         "items": [
@@ -66562,7 +66585,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -67057,7 +67080,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "WC25A6jd8MjG6DJw",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -68084,7 +68107,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -68232,7 +68255,7 @@
         "_id": "Kg896xKPYngqiavd",
         "name": "Ginkkō Wyrmling",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/ginkko-wyrmling.webp",
         "prototypeToken": {
           "name": "Ginkkō Wyrmling",
           "displayName": 20,
@@ -68246,6 +68269,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/ginkko-wyrmling.webp"
           }
         },
         "items": [
@@ -68530,7 +68556,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -69177,7 +69203,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "WC25A6jd8MjG6DJw",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -69315,7 +69341,7 @@
         "_id": "CJnIhBQGb6n6AiTt",
         "name": "Kinkkō Adult",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp",
         "prototypeToken": {
           "name": "Kinkkō Adult",
           "displayName": 20,
@@ -69329,6 +69355,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp"
           }
         },
         "items": [
@@ -70223,7 +70252,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -70371,7 +70400,7 @@
         "_id": "AlpQsscUaIZ7pGjy",
         "name": "Kinkkō Wyrmling",
         "type": "npc",
-        "img": "icons/svg/mystery-man.svg",
+        "img": "modules/kagekuni-assistant/assets/monsters/kinkko-wyrmling.webp",
         "prototypeToken": {
           "name": "Kinkkō Wyrmling",
           "displayName": 20,
@@ -70385,6 +70414,9 @@
           },
           "bar2": {
             "attribute": null
+          },
+          "texture": {
+            "src": "modules/kagekuni-assistant/assets/monsters/kinkko-wyrmling.webp"
           }
         },
         "items": [
@@ -70870,7 +70902,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -71900,7 +71932,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -72349,7 +72381,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -73330,7 +73362,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -73779,7 +73811,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "8IdaCW1hEcL4VrxA",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -74400,7 +74432,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -75089,7 +75121,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -75710,7 +75742,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -76150,7 +76182,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -76773,7 +76805,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -77443,7 +77475,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "vpQj8SzmaX00b9VK",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -77893,7 +77925,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "7Q4mvZMwTni9PkWk",
         "sort": 0,
         "ownership": {
           "default": 0
@@ -78316,7 +78348,7 @@
           }
         ],
         "effects": [],
-        "folder": null,
+        "folder": "WC25A6jd8MjG6DJw",
         "sort": 0,
         "ownership": {
           "default": 0
