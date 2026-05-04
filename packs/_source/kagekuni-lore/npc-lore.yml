@@ -1,0 +1,2699 @@
+_id: bNLqG19qg46YyZzF
+_key: '!journal!bNLqG19qg46YyZzF'
+name: 名簿 Meibo — NPC Lore
+pages:
+  - _id: nKNKNY1OExtA3Hhh
+    _key: '!journal.pages!bNLqG19qg46YyZzF.nKNKNY1OExtA3Hhh'
+    name: Akihiko Kurohana
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Dragonborn
+        (Black)</span> <span class="kg-badge kg-badge--clan">Clan Kurohana</span> <span class="kg-badge
+        kg-badge--role">Daimyo of Clan Kurohana</span> <span class="kg-badge
+        kg-badge--province">st-utsuroi</span></div></div>
+
+        <p><em lang="ja-Latn">Daimyo of Clan Kurohana</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Black scales with a glossy sheen; glowing red eyes; intricate dragon tattoos on his back.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo and supreme leader of Clan Kurohana, one of the three independent clans. Commands significant military
+        resources and political influence. Issued the Imperial Seal of the Kurohana Clan calling upon the independent
+        Kaminari Clan to investigate the Gekkō Clan&#39;s unexplained silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, commanding; values loyalty and discipline; enjoys battle and strategy; unforgiving of betrayal.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Indirect. The party carries the Imperial Seal of the Kurohana Clan, issued by Lord Kurohana Tatsuya on behalf
+        of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans
+        (Kurohana and Kaminari) are invested in the Gekkō situation — Gekkō is the third independent clan.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Doubts the accusations against Dian&#39;s father regarding the emperor&#39;s assassination. Actively
+        investigating the true culprits behind the emperor&#39;s death. Has allies in rival clans who are sympathetic to
+        his cause.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Allied with sympathetic elements across clan boundaries in pursuit of the truth behind the emperor&#39;s
+        assassination. His investigation parallels that of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
+        no Kazuhiko} (Daimyo of Kaminari).</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> May send the party to gather evidence exonerating Dian&#39;s father; can
+        provide strategic resources and insights for the investigation.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The convergence of both independent clan daimyo independently doubting the official assassination narrative
+        is politically explosive. If this alignment became public, it would fundamentally shift the political
+        landscape.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Emperor&#39;s assassination investigation — active; truth unknown</li>
+
+        <li>Connection to Dian Wei&#39;s personal arc</li>
+
+        <li>Gekkō investigation — initiated the cross-clan seal requesting cooperation</li>
+
+        <li>Succession crisis implications</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: AJq3fWYMt9FizypU
+    _key: '!journal.pages!bNLqG19qg46YyZzF.AJq3fWYMt9FizypU'
+    name: Arinori Senzai
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Elf</span>
+        <span class="kg-badge kg-badge--clan">Clan Kaminari</span> <span class="kg-badge kg-badge--role">Hyōrō Bugyō
+        (Provisions Commissioner)</span> <span class="kg-badge kg-badge--province">Heian</span></div></div>
+
+        <p><em lang="ja-Latn">Hyōrō Bugyō (Provisions Commissioner) — Clan Kaminari</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Long silver hair; piercing green eyes; kimono with leaf and vine patterns.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Hyōrō Bugyō (Provisions Commissioner) of Clan Kaminari. Responsible for logistics, supply chains, and
+        resource management across the clan&#39;s operations. Present alongside
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura} when the party received their mission briefing at the Tensho no Mon district.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Exceptionally intelligent, organized, calm, authoritative; values order and efficiency; compassionate beneath
+        stern exterior; integrity and fairness renowned.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Present at mission briefing in Tensho no Mon. Met the party alongside Taisho Hideo Nakamura.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Member of the Elven Council. Suspects some council members are corrupt and misusing resources. Quietly
+        investigating on his own.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Member of the Elven Council — a body with significant but largely unseen influence. Has merchant guild
+        connections through his role as Provisions Commissioner. Skilled mediator with access to maps and logistical
+        support.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Needs discreet help investigating Elven Council corruption; has merchant guild
+        connections; can provide maps and logistical support; skilled mediator who could be a valuable ally.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The Elven Council corruption investigation is a thread that could connect to broader political machinations.
+        The specifics of the corruption — what resources are being misused and by whom — are undeveloped.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Elven Council corruption — parallel investigation thread</li>
+
+        <li>Logistical support — as Provisions Commissioner, he controls supply access that could be critical</li>
+
+        <li>Connection to the party through the mission briefing — he knows what they were sent to do</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 5uySp1O85TJzLFmF
+    _key: '!journal.pages!bNLqG19qg46YyZzF.5uySp1O85TJzLFmF'
+    name: Benkei
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Guhuza</span>
+        <span class="kg-badge kg-badge--role">Elder Monk, Order of the Tranquil Lotus</span> <span class="kg-badge
+        kg-badge--province">traveling</span></div></div>
+
+        <p><em lang="ja-Latn">Elder Monk — Order of the Tranquil Lotus</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Silvered blue fur (once deep black); warm amber eyes with gold flecks; broad flat nose; well-kept grey beard;
+        prayer beads; calloused bare feet; moves with surprising grace for his size.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Elder Monk of the Order of the Tranquil Lotus. Currently traveling with Sun Wukong and a group of novices
+        (Hiroshi, Kazuko, Riku, Sakura, Taro, Yumi) from Kazehama to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Met Relc at The Moonlit Garden
+        in Heian. Revealed to Benkei a separate assignment from the one Sun Wukong carries.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Deep wisdom; contemplative; serene; booming voice carrying weight of experience.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Met the party at The Moonlit Garden in Heian. Sun Wukong traveled with Benkei from Kazehama before receiving
+        his own assignment. Benkei has things to say to Relc that couldn&#39;t be said with other ears around.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>His decades of pilgrimages and contemplative life mask a deeper purpose connected to the Order of the Ancient
+        Guard.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Joined the Tranquil Lotus at age 16; trained under Master Daizen; decades of pilgrimages; appointed Elder
+        Monk. His separate assignment from Sun Wukong&#39;s delegation suggests responsibilities beyond the monastic
+        order.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Benkei has information for Relc that he could not share with others present —
+        this conversation is pending.
+
+        <strong>[QUEST SEED]</strong> Benkei&#39;s message may reach the party via courier in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or via a note left at the gold
+        doors.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Member of the Order of the Ancient Guard (rank TBD). The Ancient Guard is a secret order connected to the
+        living dragons — the campaign&#39;s deepest thread. Benkei&#39;s membership connects him to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen} (deceased, also Ancient Guard) and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki}
+        (Crimson Shrine keeper, Ancient Guard Initiate).</p>
+
+        <p>The Order of the Ancient Guard has been compromised by Solas&#39;s death. Benkei is an active member
+        navigating a crisis within the order.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Order of the Ancient Guard — active member; order compromised by Solas&#39;s death</li>
+
+        <li>Connection to Relc through Solas Evergreen&#39;s legacy</li>
+
+        <li>Living dragons secret — the campaign&#39;s deepest thread</li>
+
+        <li>Information for Relc that requires a private conversation</li>
+
+        <li>Traveling to Heian — may cross the party&#39;s path again</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: C0SQFHlMQvn2iEHh
+    _key: '!journal.pages!bNLqG19qg46YyZzF.C0SQFHlMQvn2iEHh'
+    name: Commander Nokumora
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Unknown</span> <span class="kg-badge kg-badge--role">Commander (incompetent)</span></div></div>
+
+        <p><em lang="ja-Latn">Commander — Affiliation Undetermined</em></p>
+
+        <p><em lang="ja-Latn">Commander (incompetent)</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 42aqdLe3xEuuPScf
+    _key: '!journal.pages!bNLqG19qg46YyZzF.42aqdLe3xEuuPScf'
+    name: Haruto Masashige
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Dragonborn
+        (Gold)</span> <span class="kg-badge kg-badge--clan">Clan Kaminari</span> <span class="kg-badge
+        kg-badge--role">Captain of the Guard, Kikyo</span> <span class="kg-badge
+        kg-badge--province">Kikyo</span></div></div>
+
+        <p><em lang="ja-Latn">Captain of the Guard —
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Gold scales; bright blue eyes.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Captain of the Guard in Kikyo, operating from the Kikyo Guard Compound. Maintains a small but highly capable
+        force; primary duties are licensing enforcement and forest protection for the Seidōrin Mori (Bronze Wood
+        Forest). Building an informant network in Kikyo.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stoic, disciplined; fierce loyalty; strong sense of justice.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Arrested Ko&#39;jiri in Kikyo before the situation was resolved by
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s offer of the Summons and Conditional Pardon. Their initial interaction was adversarial but
+        professional. Can become a staunch ally to those who prove their integrity.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Building his informant network not simply for Kikyo&#39;s local security but because he suspects something
+        significant is happening with the Bronze Wood licensing system. He has noticed irregularities in the licensing
+        records — specific harvesting zones consistently licensed to a single merchant entity, with documentation that
+        is technically correct but structured to obscure the pattern. He is three to four months away from having enough
+        evidence to bring forward as a coherent accusation.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Knows ancient Dragonborn rituals potentially crucial to certain quests. His family&#39;s oral tradition
+        preserves knowledge from the Golden Dragon Clan&#39;s Dragonborn lineages.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Haruto sends word to the party in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he has found something in the
+        licensing records that connects to their mission and needs outside help to pursue it.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Haruto Masashige&#39;s knowledge of ancient Dragonborn rituals is not merely historical curiosity. It
+        includes a purification and restoration rite that the Golden Dragon Clan&#39;s Dragonborn lineages preserved — a
+        rite that is part of the process for reversing certain magical transformations. He doesn&#39;t know its current
+        relevance, but the ritual exists in his family&#39;s oral tradition and would be directly applicable to the
+        Nagaji situation if someone connected the dots.</p>
+
+        <p>His licensing investigation is on a collision course with Ren Nakamura&#39;s secret alliance with the
+        merchant guild. When these threads converge, Haruto will be in danger.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Bronze Wood licensing investigation — will eventually expose Ren Nakamura&#39;s merchant guild alliance</li>
+
+        <li>Ancient Dragonborn restoration rite — directly applicable to reversing the Nagaji transformation</li>
+
+        <li>Ko&#39;jiri connection — their adversarial first meeting could become a significant alliance</li>
+
+        <li>Potential danger when his investigation threatens the merchant guild&#39;s interests</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 1sPbOXGo42Ff4Wtc
+    _key: '!journal.pages!bNLqG19qg46YyZzF.1sPbOXGo42Ff4Wtc'
+    name: Hideaki Sato
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Chōrō (Village Elder) of Kōriwara; Order of the Sacred Grove</span> <span
+        class="kg-badge kg-badge--province">Koriwara</span></div></div>
+
+        <p><em lang="ja-Latn">Chōrō (Village Elder) of Kōriwara — Order of the Sacred Grove</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Gray hair tied back; weathered skin; sharp contemplative brown eyes; long flowing beard.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Village elder (chōrō) of Kōriwara, a small foothills village in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        province. Relc&#39;s home village. Keeper of the sacred grove on the hillside above the village — a small stand
+        of ancient trees reached by a foot path, unmarked and unfenced but respected by the community.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Deep wisdom; duty-driven; slightly skeptical of outsiders until familiarity is established; profound
+        knowledge of ancient traditions.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
+        before departing. He has not told Relc everything he knows.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>More than a simple village elder. His decades of accumulated knowledge, his connection to the Order of the
+        Sacred Grove, and his quiet role as a node in networks that extend far beyond a mountain foothills village give
+        Kōriwara significance entirely disproportionate to its size.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
+        multiple occasions, including with
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen} directly. His community network in the Mizu foothills region could help establish
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} in Sunsato if the party makes the connection.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Sato sends word through a traveling merchant heading toward
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he needs to speak with Relc;
+        something has happened near the sacred grove that he cannot explain and cannot address alone.
+
+        <strong>[QUEST SEED]</strong> A stranger arrived in Kōriwara asking questions about Relc and where they had
+        gone; Sato gave nothing away but is concerned about whether Relc is being watched.
+
+        <strong>[QUEST SEED]</strong> If the party introduces Yasutake Mai to Sato&#39;s community network, they earn a
+        favor with Sato and plant a contact in the north Mizu foothills.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Sato knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and, broadly,
+        what it protects. He has not told Relc because he was following Solas&#39;s instruction to let Relc develop
+        organically — and because he judged Relc was not yet ready for the weight of the full picture.</p>
+
+        <p>One of the three stones referenced in Solas&#39;s cipher poem is in Kōriwara — specifically, in the sacred
+        grove above the village. It is a naturally occurring stone with unusual surface striations that, when viewed
+        from a specific angle at dawn, produce a visual pattern. Sato knows this stone. He knows what the Warden&#39;s
+        Wisdom is — not its specific content, but its general nature: protected knowledge about the living dragons held
+        by the Order of the Sacred Grove for safekeeping.</p>
+
+        <p>Sato does not know who killed Solas, but he knows the category of entity capable of it. Solas was skilled,
+        cautious, and not easily surprised. The killing required either significantly superior capability or intimate
+        familiarity — someone Solas trusted and did not guard against. This points to either a very powerful
+        practitioner or someone inside the Order of the Sacred Grove or the Ancient Guard itself.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Relc&#39;s personal quest — the cipher poem&#39;s first stone is in Kōriwara&#39;s sacred grove</li>
+
+        <li>Solas&#39;s murder — knows the category of killer but not the identity</li>
+
+        <li>Order of the Ancient Guard knowledge — has not yet shared with Relc</li>
+
+        <li>Sacred grove disturbance — something has happened he cannot explain</li>
+
+        <li>Stranger asking about Relc — someone is tracking the party&#39;s druid</li>
+
+        <li>Yasutake Mai connection — can help establish her in the Sunsato/Kōriwara community</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Iul8ZsyqNrfhL4XZ
+    _key: '!journal.pages!bNLqG19qg46YyZzF.Iul8ZsyqNrfhL4XZ'
+    name: Hideo Nakamura
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--clan">Clan Kaminari</span> <span class="kg-badge kg-badge--role">Taisho;
+        Tokubetsu Sakusen Bōei Bugyō (Commissioner of Special Operations)</span> <span class="kg-badge
+        kg-badge--province">Heian</span></div></div>
+
+        <p><em lang="ja-Latn">Taisho — Tokubetsu Sakusen Bōei Bugyō (Commissioner of Special Operations)</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Dark hair streaked with gray in topknot; tanned; deep brown eyes.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Taisho (General) of Clan Kaminari and Commissioner of Special Operations. Commands from the Tensho no Mon
+        (Military District) in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Assigned
+        the party their current mission to investigate the Gekkō Clan&#39;s silence. The party reports directly to
+        him.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Exceptionally intelligent, strategic; values order and discipline; stern but fair; appreciates historical
+        battles and traditional music.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Direct handler. Assigned the party their mission at the Tensho no Mon district in Heian. Sun Wukong&#39;s
+        mandate from the Tranquil Lotus specifically names Hideo as the reporting authority. The party met him alongside
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
+        Senzai} during their mission briefing.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Investigating a traitor within his own ranks. He has narrowed the leak to a small circle of senior staff. He
+        may ask the party to carry out intelligence work he cannot assign to his own staff — the request would be framed
+        neutrally but suggests he suspects someone close.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Commands the special operations apparatus of Clan Kaminari. His intelligence resources are significant but
+        compromised by the presence of the traitor he is hunting.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Hideo asks the party to carry out intelligence work he cannot assign to his own
+        staff — the request is framed neutrally but suggests he suspects someone close.
+
+        <strong>[QUEST SEED]</strong> The political debriefing when the party reports back is a significant social
+        encounter with real stakes — Hideo needs deniability; the party has information that could destabilize three
+        clans.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The traitor Hideo is hunting is his own brother,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
+        Nakamura}, the Shugo of Heian. Hideo does not yet know this. He will, in time, develop evidence pointing toward
+        Hiroshi. The question is whether he reaches that conclusion before Hiroshi learns how close Hideo is and takes
+        action.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Traitor investigation — active; Hideo is unaware the traitor is Hiroshi</li>
+
+        <li>Party mission handler — debriefing scenes carry significant political weight</li>
+
+        <li>Brother relationship with Hiroshi — the eventual revelation will be devastating</li>
+
+        <li>Connection to the broader succession crisis and Genso Alliance through Hiroshi&#39;s conspiracy</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+  - _id: JLGqqI474AH04SDL
+    _key: '!journal.pages!bNLqG19qg46YyZzF.JLGqqI474AH04SDL'
+    name: Hiroshi Nakamura
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--clan">Clan Kaminari</span> <span class="kg-badge kg-badge--role">Taisho; Shugo
+        (Governor) of Heian</span> <span class="kg-badge kg-badge--province">Heian</span></div></div>
+
+        <p><em lang="ja-Latn">Taisho — Shugo (Governor) of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Dark hair tied back; tanned; deep brown eyes; warm approachable expression.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Taisho (General) of Clan Kaminari and Shugo (Governor) of Heian. As Shugo, he has near-total access to Clan
+        Kaminari&#39;s intelligence and administrative operations. He is the civilian administrative authority over the
+        imperial capital.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Calm, peace-loving, nature-appreciating, wise mediator. His warmth makes him trusted by nearly everyone —
+        including his brother Hideo.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
+        interact with.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>His public persona — calm, peace-loving, wise — is a deliberate mask of exceptional consistency. His warmth
+        is his most effective weapon.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Brother of Taisho
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}. Their sibling relationship gives him both access and cover.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Hiroshi&#39;s true nature, once discovered, represents a massive intelligence
+        find — the Shugo of the imperial capital is a traitor.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Hiroshi Nakamura is an active traitor conspiring against Clan Kaminari. His primary driver is personal
+        ambition — Nakamura family elevation. He is working with the Genso Alliance as his vehicle — Genso is the more
+        overtly antagonist alliance in the broader story. His warmth and mediator persona is a deliberate mask over a
+        calculated power play.</p>
+
+        <p>He is using his Shugo position to feed intelligence to enemies. He has been doing this for at least three
+        years. He is aware that Hideo is investigating a traitor and is actively monitoring that investigation to stay
+        ahead of it.</p>
+
+        <p>Who he is specifically working with within the Genso Alliance — his specific contact — is undeveloped and to
+        be determined.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Traitor within Kaminari — Hideo is hunting him without knowing it</li>
+
+        <li>Genso Alliance connection — his betrayal ties into the broader war</li>
+
+        <li>Nakamura family ambition — the driving motive</li>
+
+        <li>The eventual brother confrontation — devastating narrative moment</li>
+
+        <li>Succession crisis implications — the Shugo of the capital working against his own clan</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Imperial Assassination — Sealed Reveal</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Hiroshi was the <em lang="ja-Latn">second blade</em> in the Imperial assassination. Dian Wei&#39;s father
+        took the emperor&#39;s place in the moment of the first attack and died in the emperor&#39;s robes; the real
+        emperor escaped that room — and was killed shortly after, by Hiroshi, in another room of the imperial residence.
+        <strong>The chamber&#39;s vision identifies the hand. It does not identify the reason.</strong></p>
+
+        <p><strong>Reveal vector</strong>: The Brood Sanctum chamber, via Dian Wei&#39;s <em lang="ja-Latn">Who</em>
+        knowledge gift (per Aya&#39;s offering choices). Dian sees Hiroshi&#39;s face mid-strike in a vision;
+        recognition is instant because Dian has seen Hiroshi at civic functions in Heian. The vision is true but
+        unprovable in any court — Dian cannot accuse the Shugo of the imperial capital without evidence the chamber
+        cannot supply.</p>
+
+        <p><strong>Campaign implications</strong>: Once revealed, Dian carries dangerous knowledge. Public accusation is
+        suicide; private investigation is the only safe path forward. This intersects with Daimyo Kazuhiko&#39;s
+        existing assassination probe — Dian and Kazuhiko may eventually share notes, with Kazuhiko providing the
+        political cover and Dian providing the eyewitness vision. Hideo&#39;s parallel investigation of his own brother
+        as a traitor may converge on the same target through different evidence.</p>
+
+        <p><strong>Open question — Hiroshi&#39;s motive</strong>: Why he struck the emperor in the second room is not
+        yet established. His existing campaign-secrets (Genso Alliance affiliation, Nakamura family elevation as
+        personal driver) gesture at possibilities, but the chamber does not name them, and Dian&#39;s investigation will
+        need to surface the <em lang="ja-Latn">why</em> through other means.</p>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 2
+    flags: {}
+  - _id: wkCIDKv2qgFgD7Y6
+    _key: '!journal.pages!bNLqG19qg46YyZzF.wkCIDKv2qgFgD7Y6'
+    name: Hoshimori Aya
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Dragonborn</span> <span class="kg-badge kg-badge--clan">Clan Golden-dragon-clan</span> <span
+        class="kg-badge kg-badge--role">Brood Guardian, Ōryūzan Tenkū-ji upper floor</span> <span class="kg-badge
+        kg-badge--province">loc-tenkuji-temple</span></div></div>
+
+        <p><em lang="ja-Latn">The Brood Guardian — Architecture-bound watcher of the Brood Sanctum</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>A Dragonborn woman of the Golden Clan, scales the color of dulled old gold — paler than a young
+        Kinryū-blooded Dragonborn, weathered in the way of bronze that has stood a long time in still air. Tall but not
+        heavy. She wears lacquered half-plate over a black temple robe, the chestpiece engraved with Kinryū&#39;s sigil
+        — a stylized golden dragon coiled around itself in the old style. A naginata stands at her side or rests across
+        her lap. Her eyes are quiet and watchful; her expression does not move when the door opens.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Sole guardian of the upper-floor hallway leading to the Brood Sanctum within Ōryūzan Tenkū-ji. She does not
+        patrol; she does not leave her post. She speaks only to those who step fully into the hallway, and only after
+        the temple&#39;s architecture has measured them.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Procedural. Not warm, not hostile by default — a judge with a specific mandate. Her tone shifts among three
+        states (Hostile / Neutral / Welcoming) determined by the party&#39;s record of conduct in the temple. She is
+        courteous within each state, unyielding across states. She does not bargain. She does not threaten beyond what
+        duty requires.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>First contact is at the second-floor landing of Tenkū-ji. The party finds a pile of arranged Nagaji bodies
+        outside an unlocked, well-kept door. Beyond is a pristine hallway and the guardian at its far end. Her response
+        — challenge, denial, or passage — depends on whether the party has plundered, ignored, or honored the
+        temple&#39;s lower floors. She gates access to the Brood Sanctum and its trial.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Records &amp; References</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Several scattered references in temple archives and Golden Dragon Clan oral tradition gesture at the
+        guardian&#39;s identity without confirming it. A party that asks her name receives the connection cleanly; a
+        party that does not may piece it together but never close the loop.</p>
+
+        <ul>
+
+        <li><strong>Reliquary inventory, lower archives (Investigation DC 14)</strong>: a list of binding rites
+        references a <em lang="ja-Latn">Hoshimori-class oath</em> — a ritual class specific to Brood Sanctum guardians,
+        named for the <em lang="ja-Latn">star-keeper</em> surname taken upon entry. Indicates the role exists; does not
+        name an individual.</li>
+
+        <li><strong>Devotional poem, Star Shrine archives (Religion DC 14)</strong>: a fragmentary verse mentions <em
+        lang="ja-Latn">&quot;Aya, who refused the door.&quot;</em> Context is ambiguous. The poem could be metaphor —
+        could be biography.</li>
+
+        <li><strong>Temple genealogy, Dormitories (History DC 16)</strong>: a roster of priestesses present at the
+        temple&#39;s last hour lists <em lang="ja-Latn">Hoshimori Aya</em> among them. The entry is struck through; a
+        note in a different hand reads, <em lang="ja-Latn">see also: the long watch.</em></li>
+
+        <li><strong>Golden Dragon Clan oral tradition (Ko&#39;jiri&#39;s research advantage)</strong>: surviving family
+        stories reference <em lang="ja-Latn">&quot;she who placed the inheritor&quot;</em> — gendered, never named,
+        treated as half-mythical.</li>
+
+        <li><strong>Plinth inscription, Brood Sanctum</strong>: the temple&#39;s last faithful speak in a collective <em
+        lang="ja-Latn">&quot;we entrust to this place our greatest treasure.&quot;</em> The <em
+        lang="ja-Latn">&quot;we&quot;</em> includes a person who did not leave.</li>
+
+        </ul>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Asking the guardian her name is the gate to unsealing her identity. If she is
+        asked at any point during the chamber&#39;s events, she gives her name and a single self-defining truth at her
+        watch&#39;s end. If she is not asked, her name is lost — the party may collect breadcrumbs but never confirm the
+        connection. The asking is the closure.</p>
+
+        <p><strong>[QUEST SEED]</strong> <em lang="ja-Latn">Hoshimori-class oaths</em> (per the lower-archive inventory)
+        imply other Brood Sanctum sites — other guardians, other charges. None are confirmed to exist. If the campaign
+        develops the Progenitor / dragon-bloodline arc further, additional Hoshimori-bound guardians could surface as
+        long-dormant allies or cautionary mirrors.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Aya is the priestess who placed the wyrmling&#39;s egg in the Brood Sanctum at the temple&#39;s last hour.
+        When the Kinryū order fell during the War of Fractured Banners (~13088), she carried the egg into the chamber,
+        sealed the door behind her, and bound herself to the temple&#39;s foundational architecture rather than abandon
+        her charge. The architecture took her self-memory in exchange for letting her hold the post for as long as it
+        would take a worthy claimant to arrive. She has stood in the hallway ever since — present without being awake,
+        watching without seeing, waiting without remembering why.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p><strong>Her awareness model.</strong> She does not actively perceive what passes in the temple. The
+        architecture relays positive or negative <em lang="ja-Latn">impressions</em> to her based on how those it
+        watches treat the place; she acts on those impressions, not on knowledge. Time has not collected in her — she
+        does not remember faces, conversations, or events. In State C she is openly apologetic about this; in State B
+        she does not feel the gap.</p>
+
+        <p><strong>The egg-placer reveal.</strong> Her role as the woman who placed the egg is the chamber&#39;s deepest
+        narrative truth and is gated entirely behind the party asking her name. If asked, she names herself at the
+        watch&#39;s end and acknowledges placing the child. The architecture&#39;s hold on her memory releases in the
+        same breath; she remembers, briefly, who she was — and tells the party one defining detail of her life before
+        the watch (DM picks: a teacher&#39;s name, a vow she swore, a clan affiliation). She does not survive the
+        telling.</p>
+
+        <p><strong>The four gifts.</strong> When the wyrmling bonds and the watch ends, she gives one personalized
+        offering to each of the three non-bonded party members. The bonded character receives the wyrmling. The gifts
+        are her release; their giving is what lets her fade. Full offering structure documented in the chamber writeup
+        (<a href="../Obsidian/dm/brood-sanctum-redesign.md">Obsidian/dm/brood-sanctum-redesign.md</a>).</p>
+
+        <p><strong>On failure.</strong> If the trial fails, she remains. She does not depart. She bears witness without
+        bitterness and waits for the next attempt. She does not offer gifts on failure — the gifts are tied to the
+        wyrmling&#39;s bow, which only happens on success.</p>
+
+        <p><strong>Combat, last resort.</strong> If the party crosses into State A and persists in destructive behavior,
+        she fights. Stat block TBD — calibrated at session-time to the party&#39;s level when the chamber comes into
+        play. She will not pursue beyond the hallway; she does not leave her post.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>The Brood Sanctum trial — gated by her</li>
+
+        <li>The wyrmling bond and the eighth virtue (<em lang="ja-Latn">chūgi</em>) — initiated through her</li>
+
+        <li>The Hoshimori-class oath — implies other guardians at other Progenitor-related sites; campaign-thread
+        potential</li>
+
+        <li>Her departure — terminal; once she fades, the chamber&#39;s gating role passes to the temple&#39;s
+        foundational architecture alone, and the upper floor becomes freely accessible to any future party</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 2
+    flags: {}
+  - _id: AhRkyrCxXyF4riJc
+    _key: '!journal.pages!bNLqG19qg46YyZzF.AhRkyrCxXyF4riJc'
+    name: Kenshin Arakawa
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Unknown</span> <span class="kg-badge kg-badge--clan">Clan Kurohana</span> <span class="kg-badge
+        kg-badge--role">Taisho, Utsuroi (Tatara)</span> <span class="kg-badge
+        kg-badge--province">st-utsuroi</span></div></div>
+
+        <p><em lang="ja-Latn">Taisho — Clan Kurohana, Utsuroi (Tatara)</em></p>
+
+        <p><em lang="ja-Latn">Taisho, Utsuroi (Tatara)</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 100
+    ownership:
+      default: 2
+    flags: {}
+  - _id: MS6IzANPTK3RTO60
+    _key: '!journal.pages!bNLqG19qg46YyZzF.MS6IzANPTK3RTO60'
+    name: Kenta Yamada
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Merchant; Owner of the Sakura Blossom Inn</span></div></div>
+
+        <p><em lang="ja-Latn">Merchant — Owner of the Sakura Blossom Inn</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Short dark hair; sharp focused eyes; lithe and agile build; lightly tanned.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Owns and manages the Sakura Blossom Inn. Member of the Yamada Family and associated with the Merchant Guild.
+        Jovial and welcoming innkeeper.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Sharp, quick-thinking, resourceful; enjoys market hustle; dislikes dishonesty.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Building a case against a corrupt rival merchant; gathering evidence of dishonest practices. The specifics of
+        this investigation are undeveloped.</p>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 110
+    ownership:
+      default: 2
+    flags: {}
+  - _id: q2apyPLBVo1D5kSN
+    _key: '!journal.pages!bNLqG19qg46YyZzF.q2apyPLBVo1D5kSN'
+    name: Masota no Gekkō
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human
+        (transformed to Nagaji)</span> <span class="kg-badge kg-badge--clan">Clan Gekko</span> <span class="kg-badge
+        kg-badge--role">Daimyo of Clan Gekkō</span></div></div>
+
+        <p><em lang="ja-Latn">Daimyo of Clan Gekkō — Transformed</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Unknown in current state. Formerly the Daimyo of Clan Gekkō, the third independent clan governing
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province from Hokori.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo of Clan Gekkō. His disappearance and the silence of the entire Gekkō Clan is the central mystery
+        driving the party&#39;s primary mission.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Unknown in current state.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Missing. The entire Gekkō Clan has gone silent. The party&#39;s primary mission is to investigate this
+        disappearance.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Clan Gekkō had a long and close relationship with the Order of the Black Lily, who provided intelligence and
+        covert capability in exchange for cover and protection. The clan&#39;s disappearance has severed the Order&#39;s
+        primary institutional support structure.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> The full reveal of Masota&#39;s fate is intended to occur at the Monastery of
+        the Black Lily in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Masota no Gekkō has been transformed into a Nagaji by a dark ritual gone wrong. He underwent the ritual in a
+        final attempt to maintain leadership of his people after many clan members were transformed. His current state
+        of mind is fragmented awareness — he retains a broken understanding of what happened and recognizes his mistake.
+        Coherence degrades over time; the longer the party takes to reach him, the less of Masota is left to reach. This
+        creates urgency without hard deadlines.</p>
+
+        <p>The Order of the Black Lily knows the full truth: what ritual was used, who performed it first, approximately
+        how many Gekkō clan members were transformed, and that Masota himself underwent the ritual. They have been
+        unable to locate him — the transformed Gekkō move in patterns that even their surveillance cannot consistently
+        track.</p>
+
+        <p>A reversal exists — theoretical, not practical. It requires three elements: the original ritual documentation
+        (which exists in Kinkōkyo, in the Golden Dragon Clan&#39;s records addressing Kokuryū&#39;s historical
+        experimentation with transformation); a specific sei configuration present only during a particular celestial
+        alignment (upcoming — within the next few sessions); and a practitioner capable of performing sei-based
+        restoration at significant scale.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Central mystery of the current campaign arc</li>
+
+        <li>Nagaji transformation — the party has killed multiple Nagaji without knowing they were transformed Gekkō
+        clan members; moral weight of this revelation is pending</li>
+
+        <li>Temple of Kinryū may contain the reversal documentation</li>
+
+        <li>Order of the Black Lily at Akatsuki holds the full truth and will propose a partnership</li>
+
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
+        Masashige}&#39;s ancient Dragonborn purification/restoration rite is directly applicable to the Nagaji situation
+        if someone connects the dots</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 0ujb5b4Erz8sot9W
+    _key: '!journal.pages!bNLqG19qg46YyZzF.0ujb5b4Erz8sot9W'
+    name: Noboru Takeda
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Halfling</span> <span class="kg-badge kg-badge--clan">Clan Kurohana</span> <span class="kg-badge
+        kg-badge--role">Mid-level Commander</span></div></div>
+
+        <p><em lang="ja-Latn">Mid-level Commander — Clan Kurohana</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Unkempt brown hair; pale skin; dark brown eyes showing arrogance and apathy.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Mid-level military commander under Clan Kurohana. His commission was bought by family wealth — the Takeda
+        family is one of the wealthiest in the region. His subordinates know he is incompetent.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Arrogant, apathetic; believes family wealth entitles him to respect; incompetent; dislikes hard work. Known
+        by the alias &quot;The Disgraceful.&quot;</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact established.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Mly4i17grlghx2a2
+    _key: '!journal.pages!bNLqG19qg46YyZzF.Mly4i17grlghx2a2'
+    name: Oshiro Masahiro
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Unknown</span> <span class="kg-badge kg-badge--role">Junsa-chō (Chief Inspector), Teikoku
+        Keisatsu (Imperial Police)</span> <span class="kg-badge kg-badge--province">Ayame</span></div></div>
+
+        <p><em lang="ja-Latn">Junsa-chō (Chief Inspector) — Teikoku Keisatsu (Imperial Police),
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Chief Inspector of the Imperial Police stationed in Ayame, the mountain waypoint town at the base of the
+        Tenchūsan Ren pass. His authority and presence represent imperial law enforcement in this critical transit
+        chokepoint.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, meticulous, exudes authority.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Confirmed party ally. Returned the impounded wagon, horses, and treasures after assessing the situation.
+        Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are
+        potentially useful going forward.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>His decision to assist the party was not simply a judgment about their innocence. He had received information
+        from his intelligence network suggesting the party&#39;s mission was legitimate and the impoundment was creating
+        an obstacle to something he wanted to see succeed. He knows more about the Gekkō situation than he has shared
+        and has been watching for trustworthy parties to pass through.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Maintains an informant network in Ayame and the surrounding region. Has informants at both the waypoint inn
+        (Kin no Chōchin Ryokan) and the outfitter district who log significant travelers and goods movements. This
+        network detected the party&#39;s arrival and departure. It also detected other parties moving through the pass —
+        including a group with no identifiable clan affiliation, moving fast and carrying unusual cargo, approximately
+        three weeks before the party&#39;s transit.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Oshiro sends a discrete message to the party: he has information relevant to
+        their mission that he couldn&#39;t share safely in Ayame; he proposes a meeting at the next Michibata up the
+        pass.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Oshiro is a potential ongoing intelligence ally — someone who knows which questions to ask and where to find
+        answers, even with the Teikoku Keisatsu operating at reduced capacity in the current political vacuum. His
+        knowledge of the Gekkō situation extends beyond what he has shared.</p>
+
+        <p>The unidentified group that passed through the pass three weeks before the party — fast-moving, no clan
+        affiliation, unusual cargo — is an unresolved intelligence thread.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Intelligence ally for future information needs</li>
+
+        <li>Knowledge of the Gekkō situation he has not yet shared</li>
+
+        <li>Unidentified group in the pass — potential connection to Nagaji activity, Eikyū Yami, or other threats</li>
+
+        <li>Operating in a political vacuum — the Teikoku Keisatsu&#39;s reduced capacity affects what he can do
+        officially</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 1J9hy9Hs6EVuYjyz
+    _key: '!journal.pages!bNLqG19qg46YyZzF.1J9hy9Hs6EVuYjyz'
+    name: Raijin no Kazuhiko
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--clan">Clan Kaminari</span> <span class="kg-badge kg-badge--role">Daimyo of Clan
+        Kaminari</span> <span class="kg-badge kg-badge--province">Heian</span></div></div>
+
+        <p><em lang="ja-Latn">Daimyo of Clan Kaminari — The Storm-lord</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Black hair with silver streaks.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Daimyo and supreme leader of Clan Kaminari, the dominant clan governing the province of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        and the imperial capital of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}.
+        Commands one of the most powerful military and political structures in Kagekuni.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern, commanding; values loyalty; enjoys battle, thunder, and strategy; strict code of honor.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact. The party operates under the authority of his clan through Taisho
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}. Dian Wei received sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan
+        daimyo share the Kazuhiko name, which can cause confusion.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Doubts the accusations against Dian&#39;s father regarding the emperor&#39;s assassination. Actively
+        investigating the true culprits behind the emperor&#39;s death. Has allies within rival clans who are
+        sympathetic to his cause.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Allied with elements in rival clans who share his doubts about the official narrative of the emperor&#39;s
+        assassination. His parallel investigation with
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
+        Kurohana} (Daimyo of Clan Kurohana) suggests a level of cross-clan cooperation that is unusual and politically
+        significant.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> May send the party to gather evidence exonerating Dian&#39;s father; possesses
+        strategic resources and insights that could advance the assassination investigation.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Both Daimyo Kazuhiko (Kaminari) and Daimyo Akihiko (Kurohana) are independently investigating the
+        emperor&#39;s assassination — the fact that two of the three independent clans doubt the official narrative is a
+        significant political fact that has not been surfaced.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Emperor&#39;s assassination investigation — active; truth unknown</li>
+
+        <li>Connection to Dian Wei&#39;s personal arc through his father&#39;s accusation</li>
+
+        <li>Succession crisis — as Daimyo of the clan holding the capital, his position on the succession question
+        carries enormous weight</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 2
+    flags: {}
+  - _id: YSPRToQNBVq5NJFZ
+    _key: '!journal.pages!bNLqG19qg46YyZzF.YSPRToQNBVq5NJFZ'
+    name: Ren Nakamura
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--clan">Clan Minato</span> <span class="kg-badge kg-badge--role">Shicho (Mayor) of
+        Kikyo; Daimyo of Clan Minato</span> <span class="kg-badge kg-badge--province">Kikyo</span></div></div>
+
+        <p><em lang="ja-Latn">Shicho (Mayor) of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} — Daimyo of Clan Minato</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Long black hair in topknot; fair skin; dark brown eyes; Clan Kaminari emblem tattoo on upper arm.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Shicho (Mayor) of Kikyo and Daimyo of Clan Minato. Kikyo is a subject city of Clan Kaminari, but Ren
+        Nakamura&#39;s dual role as both civic administrator and minor clan daimyo gives him unusual autonomy. He
+        administers the Bronze Wood licensing system — every piece of Bronze Wood that leaves the Seidōrin Mori passes
+        through a licensing transaction managed by his office.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Stern but fair; values loyalty; enjoys strategy (Go) and tea ceremonies; despises dishonesty — an irony,
+        given his own secret alliances.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Issued the Summons and Conditional Pardon to Ko&#39;jiri. Sent Ko&#39;jiri as envoy to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status
+        depends on completing the mission assigned through Ren Nakamura&#39;s authority.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Subtly working to elevate Clan Minato to equal standing with major clans. Has a secret alliance with a
+        powerful merchant guild — exclusive Kikyo trading rights in exchange for financial and political support for
+        Clan Minato&#39;s ambitions. Possesses ancient knowledge about Seidōrin Mori and Bronze Wood that he has not
+        shared publicly.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The merchant guild he works with is not a Kikyo entity — it is based in Heian with operations across
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        and beyond. The alliance was struck in exchange for financial support for Clan Minato&#39;s elevation ambitions
+        and exclusive export contracts.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Ren Nakamura may contact Ko&#39;jiri separately from the group with an
+        additional, unwritten request — something the formal letter couldn&#39;t contain.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Nakamura is not villainous by nature — he genuinely believes Clan Minato deserves greater standing — but he
+        has made compromises that are beginning to require further compromises to sustain.</p>
+
+        <p>The Bronze Wood secret: the Seidōrin Mori grows over an underground branch of Kinkōkyo&#39;s ancient canal
+        system. The metallic quality of the trees is caused by trace gold and copper content in the groundwater — water
+        flowing through the buried city&#39;s infrastructure for thousands of years has mineralized the soil and is
+        absorbed by the trees. Ren Nakamura has discovered this. The merchant guild he is allied with wants to locate
+        and exploit the source directly, bypassing the tree-harvesting process entirely. This would require excavating
+        the forest floor — destroying the grove to access what lies beneath.</p>
+
+        <p>Ko&#39;jiri&#39;s forged letter ticking clock: Ko&#39;jiri carries both a legitimate letter from Ren Nakamura
+        and a forged version requesting additional materials. The real letter has already been sent to Heian through
+        official channels — it will arrive before or very shortly after the party does. When the discrepancy is
+        discovered, Ko&#39;jiri&#39;s Conditional Pardon will be immediately at risk. Estimated timeline: 2-4 sessions
+        from party arrival in Heian.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Ko&#39;jiri&#39;s legal jeopardy through the forged letter</li>
+
+        <li>Bronze Wood / Kinkōkyo underground connection</li>
+
+        <li>Clan Minato&#39;s elevation ambitions</li>
+
+        <li>Merchant guild exploitation of Seidōrin Mori</li>
+
+        <li>Connection to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
+        Masashige}&#39;s licensing investigation</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Tpou815uKS3CU4HS
+    _key: '!journal.pages!bNLqG19qg46YyZzF.Tpou815uKS3CU4HS'
+    name: Solas Evergreen
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Elf</span>
+        <span class="kg-badge kg-badge--role">Guardian, Order of the Sacred Grove</span></div></div>
+
+        <p><em lang="ja-Latn">Guardian — Order of the Sacred Grove (Deceased)</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Long flowing silver hair; pale skin; emerald green eyes; intricate nature motif tattoos on arms.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Former Guardian of the Order of the Sacred Grove. Dead under mysterious circumstances. Appears to Relc as a
+        spirit — guiding visions that direct Relc&#39;s journey.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Unknown in life beyond what Relc and Sato Hideaki remember — a mentor, a protector, someone who prepared
+        carefully for his own death.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Relc&#39;s mentor and predecessor as Guardian. Appointed Relc as next Guardian via a posthumous letter. Left
+        a cipher poem pointing to hidden knowledge (Warden&#39;s Wisdom). His spirit appears to Relc at key moments —
+        the next expected vision is at the gold doors or shortly after entering the Temple of Kinryū (Solas in the grove
+        above Kōriwara, hand on a specific stone, dawn light from the east).</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>His death was not natural or accidental. He was killed by someone with either significantly superior
+        capability or intimate familiarity — someone he trusted and did not guard against. This points to either a very
+        powerful practitioner or someone inside the Order of the Sacred Grove or the Ancient Guard itself.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Connected to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1sPbOXGo42Ff4Wtc]{Hideaki
+        Sato} (mid-rank Sacred Grove member) and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}
+        (Ancient Guard). His death has compromised the Ancient Guard.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> The cipher poem (three stones, still water, rising sun, phoenix fern glade)
+        leads to the Warden&#39;s Wisdom — protected knowledge about the living dragons. One of the three stones is in
+        Kōriwara&#39;s sacred grove.
+
+        <strong>[QUEST SEED]</strong> Investigating Solas&#39;s killer — the killer was motivated by hunting the
+        locations of the Progenitors (the living founding dragons); they knew Solas was connected to protected knowledge
+        about the dragons and targeted him for it.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Member of the Order of the Ancient Guard. The Ancient Guard protects knowledge about the living dragons — the
+        campaign&#39;s deepest secret.</p>
+
+        <p>Solas&#39;s killer was motivated by hunting the locations of the Progenitors (the living founding dragons).
+        The killer knew Solas was connected to protected knowledge about the dragons and targeted him for it. Further
+        identity and method TBD, but the motive is locked.</p>
+
+        <p>The Warden&#39;s Wisdom — the destination of the cipher poem — is protected knowledge about the living
+        dragons held by the Order of the Sacred Grove for safekeeping. Its specific content and the destination location
+        are yet to be determined but connect to the Ancient Guard or living dragons arc.</p>
+
+        <p>Sato Hideaki knows Solas was Ancient Guard (not just Sacred Grove). He knows the category of entity capable
+        of killing Solas but not the specific identity.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>Relc&#39;s personal quest — the cipher poem and Warden&#39;s Wisdom</li>
+
+        <li>Solas&#39;s murder investigation — connected to the living dragons secret</li>
+
+        <li>Order of the Ancient Guard — his death has compromised the order</li>
+
+        <li>Spirit visions — ongoing guidance for Relc</li>
+
+        <li>The Progenitor hunt — whoever killed Solas is still looking for dragon locations</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 2
+    flags: {}
+  - _id: icm5k8ve4junatqN
+    _key: '!journal.pages!bNLqG19qg46YyZzF.icm5k8ve4junatqN'
+    name: Takeda Yoshinobu
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Town Leader, Ayame</span> <span class="kg-badge
+        kg-badge--province">Ayame</span></div></div>
+
+        <p><em lang="ja-Latn">Town Leader —
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Town leader of Ayame under the military overseer structure. Competent administrator, pragmatic in approach.
+        Ayame is the valley town at the base of the Tenchūsan Ren pass — the primary land route between
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}&#39;s
+        southern lowlands and the northern provinces. Population 638.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Pragmatic; not deeply allied with any major faction; protects Ayame&#39;s neutrality because it is
+        economically important.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established. The party passed through Ayame during their transit to the mountains.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Has been receiving reports from mountain guide services about unusual activity in the upper pass — disrupted
+        trail markers, signs of large encampment at non-standard locations, and two guides who came back from an
+        upper-route job early, shaken and unwilling to specify what they saw. He has not reported upward through
+        official channels because he has no official channels to report to that he trusts in the current political
+        vacuum.</p>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 180
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 2Mal6Uf7jgW1kLPg
+    _key: '!journal.pages!bNLqG19qg46YyZzF.2Mal6Uf7jgW1kLPg'
+    name: Taro Fukomoto
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Master Blacksmith, Heian</span> <span class="kg-badge
+        kg-badge--province">Heian</span></div></div>
+
+        <p><em lang="ja-Latn">Master Blacksmith — Taro&#39;s Forge, Kurogane-sho District,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Over 6 feet tall; broad shoulders; muscular; tanned weathered skin; thick black beard flecked with silver;
+        dark intense eyes; leather apron; flame and mythical creature tattoos on arms.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Owner and master smith of Taro&#39;s Forge in the Kurogane-sho (Steel Precinct) district of Heian. The
+        district&#39;s most prestigious establishment. Renowned for both quality and integrity. Produces weapons and
+        armor of exceptional craftsmanship; maintains a small stock for immediate sale and takes commissions that can
+        take months to complete.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Renowned for skill AND integrity; approachable; booming laugh; willing to share knowledge with apprentices;
+        balances strength with artistry.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No direct contact established. His forge is the most notable establishment in the Kurogane-sho district that
+        the party has access to in Heian.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 190
+    ownership:
+      default: 2
+    flags: {}
+  - _id: zygarCVfOdE2ArD0
+    _key: '!journal.pages!bNLqG19qg46YyZzF.zygarCVfOdE2ArD0'
+    name: Tatsuya Hoshino
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--clan">Clan Kurohana</span> <span class="kg-badge kg-badge--role">Samurai, Clan
+        Hoshino (vassal of Kurohana)</span></div></div>
+
+        <p><em lang="ja-Latn">Samurai — Clan Hoshino (Vassal of Kurohana)</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Black hair; tanned; brown eyes; dragon tattoo winding around left arm.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Samurai of Clan Hoshino, a respected vassal family of Clan Kurohana known for martial excellence and loyalty.
+        Issued the Imperial Seal of the Kurohana Clan on behalf of the clan, calling upon Clan Kaminari to investigate
+        the Gekkō silence.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Calm, disciplined, authoritative; values honor and duty; little patience for treachery.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>The party carries the Imperial Seal he issued on behalf of Clan Kurohana.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Investigating potential threats and internal corruption within his clan. The specifics of this investigation
+        are undeveloped.</p>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 200
+    ownership:
+      default: 2
+    flags: {}
+  - _id: Nmd6zHjjGeLnoXHR
+    _key: '!journal.pages!bNLqG19qg46YyZzF.Nmd6zHjjGeLnoXHR'
+    name: Tranquil Lotus Novices
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge
+        kg-badge--race">Various</span> <span class="kg-badge kg-badge--role">Novice monks, Order of the Tranquil
+        Lotus</span> <span class="kg-badge kg-badge--province">traveling</span></div></div>
+
+        <p><em lang="ja-Latn">Six novice monks traveling with
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}
+        from Kazehama to @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</em></p>
+
+        <p><em lang="ja-Latn">Novice monks, Order of the Tranquil Lotus</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 210
+    ownership:
+      default: 2
+    flags: {}
+  - _id: oACSZZYBMIV9sr54
+    _key: '!journal.pages!bNLqG19qg46YyZzF.oACSZZYBMIV9sr54'
+    name: Tsubaki
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Keeper of the Crimson Shrine; Order of the Ancient Guard (Initiate)</span>
+        <span class="kg-badge kg-badge--province">st-hi-province</span></div></div>
+
+        <p><em lang="ja-Latn">Keeper of the Crimson Shrine — Order of the Ancient Guard (Initiate)</em></p>
+
+        <p><em lang="ja-Latn">Keeper of the Crimson Shrine; Order of the Ancient Guard (Initiate)</em></p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 220
+    ownership:
+      default: 2
+    flags: {}
+  - _id: sEqN73oesS19N5Xj
+    _key: '!journal.pages!bNLqG19qg46YyZzF.sEqN73oesS19N5Xj'
+    name: Yamamoto Kenji
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Village Leader, Takamine</span> <span class="kg-badge
+        kg-badge--province">Takamine</span></div></div>
+
+        <p><em lang="ja-Latn">Village Leader —
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Beldp2EHfpNljWTc]{Takamine} Mining Village</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>Not described in detail.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>Leader of Takamine, a mining village of 97 people sitting in the shadow of Kinryūzan (Gold Dragon Mountain)
+        at the head of the Star River. The small iron mine sustains the village with modest yields. The community is
+        close-knit in the way that difficult circumstances produce.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Not described in detail beyond pragmatic leadership of a poor but proud community.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>No contact established.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Has quietly sent a sample of an unusual dark lustrous metal found in the deeper mine face to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} for identification, but the
+        political vacuum has slowed the response. The material doesn&#39;t rust, is harder than anything the village
+        smith has worked with, and holds an exceptional edge. He is trying to get information before events overtake
+        him.</p>
+
+        <p>The village is too poor and too politically isolated to defend a valuable find. Kenji would respond warmly to
+        trustworthy outsiders who could help him understand what his mine has found.</p>
+
+        <p>The material is a trace deposit of an alloy associated with Onyx Dragon Clan presence — sei-conductive,
+        uniquely suited for tools and weapons. The vein is small but its properties are significant. Volcanic subsurface
+        mineral migrations carried it far from its origin point.</p>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 230
+    ownership:
+      default: 2
+    flags: {}
+  - _id: zlOMnoUeA7gPFEl1
+    _key: '!journal.pages!bNLqG19qg46YyZzF.zlOMnoUeA7gPFEl1'
+    name: Yasutake Mai
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >+
+        <div class="kg-settlement-header"><div class="kg-stl-badges"><span class="kg-badge kg-badge--race">Human</span>
+        <span class="kg-badge kg-badge--role">Civilian traveling with the party</span> <span class="kg-badge
+        kg-badge--province">loc-tenkuji-temple</span></div></div>
+
+        <p><em lang="ja-Latn">Civilian — Traveling with the Party</em></p>
+
+        <h3 id="kg-appearance" data-section="appearance">Appearance</h3>
+
+        <p>A young woman. No detailed physical description established beyond visible distress at the time of
+        encounter.</p>
+
+        <h3 id="kg-public-role" data-section="public-role">Public Role</h3>
+
+        <p>A young mother fleeing with her infant child. Encountered on the Emperor&#39;s Highway on the first day of
+        travel north from @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} toward
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}. She was out of breath, visibly
+        distressed, claimed to be carrying a precious package, and asked the party to hold it — the package was her
+        infant child. She spotted figures running toward her, tossed the child to the party, and bolted. The figures
+        turned out to be boys out for a run, not a threat. Relc caught and returned her.</p>
+
+        <h3 id="kg-personality" data-section="personality">Personality</h3>
+
+        <p>Capable of managing independently under normal conditions but was operating in a state of fear-driven poor
+        decision making when the party found her. Behavior under stress and useful skills are undeveloped — flagged for
+        development in the DM Notebook.</p>
+
+        <h3 id="kg-relationship-to-party" data-section="relationship-to-party">Relationship to Party</h3>
+
+        <p>Traveling with the party. The party offered to take her north through the Tenchūsan Ren to Sunsato on the far
+        side, where she might find safety and a new beginning near Relc&#39;s home region. She is currently inside the
+        Temple of Kinryū with the party — a civilian in a dungeon. She cannot fight. She needs protection or a
+        defensible position during encounters. Her presence affects the party&#39;s tactical decisions and roleplay.</p>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>True Nature</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>She has not fully explained her circumstances or what she was fleeing. Her fear on the highway was genuine —
+        she is running from something real, even though the specific group she feared at that moment turned out to be
+        harmless.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Connections</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The people she is actually afraid of are real and have noticed she is gone. They are not currently actively
+        searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p><strong>[QUEST SEED]</strong> Safely transport Yasutake Mai and her infant to Sunsato — quest objective
+        active.
+
+        <strong>[QUEST SEED]</strong> Optional extension: introduce Mai to Elder Sato&#39;s community network at
+        Kōriwara, earning a favor with Sato and planting a contact in the north
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        foothills.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Campaign Secrets</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The merchant family she left was involved in Bronze Wood sourcing. She lived in that household for three
+        years and heard conversations she didn&#39;t fully understand at the time. If the underground canal source
+        beneath Seidōrin Mori ever becomes a significant plot point, Mai knows things she doesn&#39;t know she knows — a
+        long-term seed, not immediately relevant.</p>
+
+        <p>The infant is a healthy baby boy with no apparent significance beyond being a mother&#39;s reason to
+        flee.</p>
+
+        <p>Sunsato exists near Relc&#39;s home region and is a viable destination. The community near Kōriwara is
+        historically accepting of people who arrive asking for honest work and quiet lives. Elder Sato Hideaki at
+        Kōriwara knows the community network and could help establish her there.</p>
+
+        <p>If the quest is abandoned, Mai will eventually find her way to safety through other means — she is more
+        capable than she appeared in crisis. She will survive. But she will remember whether the party kept their
+        word.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Plot Threads</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <ul>
+
+        <li>A Mother&#39;s Redemption quest — active; transport to Sunsato</li>
+
+        <li>Bronze Wood connection — she unknowingly carries information relevant to the Seidōrin Mori underground
+        source</li>
+
+        <li>Civilian in a dungeon — her presence in the Temple of Kinryū creates tactical and roleplay
+        considerations</li>
+
+        <li>Connection to Kōriwara/Sato community network</li>
+
+        <li>The people she fled — merchant family connected to Bronze Wood sourcing; watching for her to surface</li>
+
+        </ul>
+
+
+        </section>
+
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 240
+    ownership:
+      default: 2
+    flags: {}
+folder: KQ1E6vMeEYo9NJNH
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
+    slug: npc-lore
+    frontmatter:
+      name: 名簿 Meibo — NPC Lore
+      type: core

@@ -34,11 +34,12 @@ pages:
         rest.</p>
 
         <p>The stolen goods were recovered and subsequently turned over to Chief Inspector
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} of the Teikoku
-        Keisatsu in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, who received them
-        without excessive questions and confirmed the party&#39;s good-faith engagement with legal authority. This
-        interaction contributed meaningfully to Oshiro&#39;s decision to confirm the party as trustworthy when the wagon
-        impoundment situation arose shortly thereafter.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
+        Masahiro} of the Teikoku Keisatsu in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, who received them without
+        excessive questions and confirmed the party&#39;s good-faith engagement with legal authority. This interaction
+        contributed meaningfully to Oshiro&#39;s decision to confirm the party as trustworthy when the wagon impoundment
+        situation arose shortly thereafter.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
 
@@ -95,7 +96,7 @@ pages:
         be useful to know, or whether there might be money in information about where they went. Not a significant
         threat but is a loose thread.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
         Masahiro}</strong> — Official report noted the party by description (not by name at that point) and flagged them
         as &quot;travelers of apparent good character and law-abiding intent operating in the
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
@@ -145,7 +146,8 @@ pages:
 
         <ul>
 
-        <li><strong>Chief Inspector @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        <li><strong>Chief Inspector
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
         Masahiro}</strong> — confirmed ally; his positive assessment of the party has practical value in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the broader
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}

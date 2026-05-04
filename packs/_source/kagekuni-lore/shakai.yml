@@ -619,7 +619,8 @@ pages:
     text:
       format: 1
       content: >+
-        <p><strong>Daimyō:</strong> @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin
+        <p><strong>Daimyō:</strong>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
         no Kazuhiko} — <em lang="ja-Latn">The Storm-lord</em>
 
         <strong>Race:</strong> Human | <strong>Age:</strong> 47 | <strong>Province:</strong>
@@ -653,18 +654,18 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
         Nakamura}</strong> — Taishō; runs special operations for the clan. Loyal and competent.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
         Nakamura}</strong> — Taishō; Shugo (military governor) of Heian. Hideo&#39;s brother. <strong>TRAITOR</strong> —
         feeding intelligence to the Genso Alliance. Hideo does not suspect.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KnUmtFed4RbaKO6k]{Arinori
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
         Senzai}</strong> — Hyōrō Bugyō (provisions commissioner). Secret member of the Elven Council; quietly
         investigating corruption within it.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
         Masashige}</strong> — Captain of the Guard at
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</li>
 
@@ -695,7 +696,8 @@ pages:
     text:
       format: 1
       content: >+
-        <p><strong>Daimyō:</strong> @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko
+        <p><strong>Daimyō:</strong>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
         Kurohana}
 
         <strong>Race:</strong> Black Dragonborn | <strong>Age:</strong> 54 | <strong>Province:</strong> Varies |
@@ -725,10 +727,10 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KdE6GHLRjMmr1u3v]{Noboru Takeda}</strong>
-        — Mid-level commander. Notable primarily for incompetence.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.0ujb5b4Erz8sot9W]{Noboru
+        Takeda}</strong> — Mid-level commander. Notable primarily for incompetence.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gcNcsYdeA0dLpu7E]{Tatsuya
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zygarCVfOdE2ArD0]{Tatsuya
         Hoshino}</strong> — Loyal samurai in Akihiko&#39;s service.</li>
 
         </ul>
@@ -930,7 +932,8 @@ pages:
     text:
       format: 1
       content: >+
-        <p><strong>Daimyō:</strong> @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren
+        <p><strong>Daimyō:</strong>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura} | <strong>Race:</strong> Human | <strong>Age:</strong> 52</p>
 
         <p>Also known as <strong>Clan Minato</strong> by their lesser title. Ren Nakamura serves as Shichō of
@@ -1001,8 +1004,8 @@ pages:
       content: >+
         <p>A nature-focused monastic order based on <strong>Unmeijima</strong>, near the town of Kazehama. The order
         emphasises contemplation, physical discipline, and harmony with the natural world. Their elder,
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> — a Guhuza
-        of 198 years — is among the oldest known living individuals in the archipelago.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
+        — a Guhuza of 198 years — is among the oldest known living individuals in the archipelago.</p>
 
         <p>The order occasionally dispatches members as delegates or advisors to the clans. <strong>Sun Wukong</strong>,
         a novice, currently serves as delegate to Clan Kaminari.</p>
@@ -1046,11 +1049,11 @@ pages:
         are few, scattered, and deeply committed to sites they may tend for decades.</p>
 
         <p>Their former guardian,
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}</strong>,
-        is deceased. His successor, <strong>Relc</strong>, was appointed through a posthumous letter — an unusual and
-        somewhat irregular transfer of authority that suggests Solas anticipated his own death.
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato}</strong>, an
-        elder of the order, resides in Kōriwara village in
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen}</strong>, is deceased. His successor, <strong>Relc</strong>, was appointed through a posthumous
+        letter — an unusual and somewhat irregular transfer of authority that suggests Solas anticipated his own death.
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1sPbOXGo42Ff4Wtc]{Hideaki
+        Sato}</strong>, an elder of the order, resides in Kōriwara village in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
         province.</p>
 
@@ -1139,10 +1142,11 @@ pages:
       content: >-
         <p>The merchant class occupies the lowest rung of the Zokumin caste, but their economic influence far exceeds
         their social standing. Merchant guilds operate across clan borders, moving goods, capital, and — inevitably —
-        information. <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.hJ0k4bboy6fyQWKM]{Kenta
+        information.
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{Kenta
         Yamada}</strong> is an active guild member.
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}</strong> of
-        Clan Seishin maintains a secret alliance with a powerful guild branch in
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}</strong> of Clan Seishin maintains a secret alliance with a powerful guild branch in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</p>
 
         <p>The tension between merchant wealth and merchant status is one of Kagekuni&#39;s chronic fault lines. Guilds
@@ -1157,11 +1161,11 @@ pages:
 
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.hJ0k4bboy6fyQWKM]{Kenta Yamada} is an active
-        member</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{Kenta
+        Yamada} is an active member</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} has secret
-        alliance with a powerful Shōnin-za branch in
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura} has secret alliance with a powerful Shōnin-za branch in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</li>
 
         </ul>
@@ -1191,8 +1195,8 @@ pages:
       format: 1
       content: >-
         <p>A shadowy body whose full membership and purpose are not widely known.
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KnUmtFed4RbaKO6k]{Arinori Senzai}</strong> is
-        a secret member.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
+        Senzai}</strong> is a secret member.</p>
 
         <section class="secret kg-secret-sealed">
 
@@ -1216,8 +1220,8 @@ pages:
 
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KnUmtFed4RbaKO6k]{Arinori Senzai} is a secret
-        member</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
+        Senzai} is a secret member</li>
 
         <li><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</li>
 
@@ -1360,16 +1364,16 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> —
-        Elder of the Order of the Tranquil Lotus; rank within the Ancient Guard TBD</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
+        — Elder of the Order of the Tranquil Lotus; rank within the Ancient Guard TBD</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
         Evergreen}</strong> — Former Guardian of the Order of the Sacred Grove; DECEASED; rank likely Protector or
         higher</li>
 
         <li><strong>Keeper
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{Tsubaki}</strong> — Initiate, ~60
-        years of service; stationed at the Crimson Shrine in Hi province</li>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki}</strong>
+        — Initiate, ~60 years of service; stationed at the Crimson Shrine in Hi province</li>
 
         </ul>
 
@@ -1473,7 +1477,9 @@ pages:
         <td><strong>Guhuza</strong></td>
 
         <td>Distinct race of Seizan; powerful build; fur ranging black to silvered with age; simian features; capable of
-        great age (@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} is 198)</td>
+        great age
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}
+        is 198)</td>
 
         </tr>
 
@@ -1494,7 +1500,8 @@ pages:
         <td>Halflings</td>
 
         <td>Present; lower social status
-        (@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KdE6GHLRjMmr1u3v]{Noboru Takeda} example)</td>
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.0ujb5b4Erz8sot9W]{Noboru
+        Takeda} example)</td>
 
         </tr>
 
@@ -1568,7 +1575,8 @@ pages:
 
         <ul>
 
-        <li>Daimyo: <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren
+        <li>Daimyo:
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura}</strong> (Shicho of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo};
         human; 52)</li>
 
@@ -1639,7 +1647,8 @@ pages:
 
         <li>Monastery on Unmeijima near Kazehama</li>
 
-        <li>Elder: <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong>
+        <li>Elder:
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
         (Guhuza; 198 years old)</li>
 
         <li>Sun Wukong is a novice; assigned as delegate to Clan Kaminari</li>
@@ -1673,14 +1682,15 @@ pages:
 
         <li>Protective of specific sacred sites</li>
 
-        <li>Guardian: <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
+        <li>Guardian:
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
         Evergreen}</strong> (deceased)</li>
 
         <li>Initiate/new Guardian: <strong>Relc</strong> (appointed by Solas&#39;s posthumous letter)</li>
 
         <li>Elder connection:
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{Hideaki Sato}</strong>
-        (Kōriwara village)</li>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1sPbOXGo42Ff4Wtc]{Hideaki
+        Sato}</strong> (Kōriwara village)</li>
 
         </ul>
 

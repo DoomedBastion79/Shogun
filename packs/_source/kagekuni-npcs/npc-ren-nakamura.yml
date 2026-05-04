@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-ren-nakamura
-    linkedJournalId: gzeHJBD2MSIEL1L6
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Ren Nakamura
       type: npc
@@ -104,7 +104,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

@@ -209,9 +209,8 @@ pages:
         <p>The sei drought began with the stellar decline of the War of Fractured Banners era (~12605). As Susanoo and
         Tsukuyomi entered their long retreat from the barycenter of the Miyosai trinary system, sei accessibility
         diminished gradually. The first secondary star crossed below naked-eye visibility around ~12806, marking the
-        beginning of the dark ages. The Temple of
-        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} fell in 13088 — a
-        consequence of the drought, not its cause.</p>
+        beginning of the dark ages. The Temple of Ōryūzan Tenkū-ji fell in 13088 — a consequence of the drought, not its
+        cause.</p>
 
         <p>The three stars of the Miyosai system orbit a common gravitational center (barycenter) on different orbital
         inclinations. Planets orbit Amaterasu and travel with it; moons orbit Seizan directly. Neither participated in
@@ -508,8 +507,7 @@ pages:
         <li>Present throughout Seizan; expressed through celestial alignment and natural forces</li>
 
         <li>Began declining during the War of Fractured Banners era (~12605); first secondary star lost to visibility
-        ~12806; effectively inaccessible by ~13088 (when the last major sei institution —
-        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.vZLsLmgXvICqVHZp]{Oryuzan Tenku-ji} — fell)</li>
+        ~12806; effectively inaccessible by ~13088 (when the last major sei institution — Ōryūzan Tenkū-ji — fell)</li>
 
         <li>Period without accessible sei lasted approximately 3,077 years (<del>12806–</del>15883)</li>
 
@@ -2010,15 +2008,15 @@ pages:
 
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyo —
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no
-        Kazuhiko}</strong> (Clan Kaminari) and
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana}</strong>
-        (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s death. Neither has
-        shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been motivated by
-        Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies from
-        consolidating power after his death.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
+        no Kazuhiko}</strong> (Clan Kaminari) and
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
+        Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s
+        death. Neither has shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been
+        motivated by Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies
+        from consolidating power after his death.</p>
 
-        <p><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
         Nakamura}</strong>, Shugo (military governor) of
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in Kaminari territory, is a
         <strong>traitor</strong> working with the Genso Alliance. He is using his position to feed intelligence to Genso
@@ -2213,12 +2211,14 @@ pages:
         traditions.</li>
 
         <li><strong>Order of the Tranquil Lotus</strong> (Unmeijima) — A nature-based monastic order near the town of
-        Kazehama. Elder @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}, a Guhuza
-        of 198 years, leads the order.</li>
+        Kazehama. Elder
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei},
+        a Guhuza of 198 years, leads the order.</li>
 
         <li><strong>Order of the Sacred Grove</strong> — A druidic tradition protective of specific sacred sites. Its
-        former Guardian, @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen},
-        is deceased. A new Guardian has been appointed.</li>
+        former Guardian,
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen}, is deceased. A new Guardian has been appointed.</li>
 
         </ul>
 

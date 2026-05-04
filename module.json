@@ -2,7 +2,7 @@
   "id": "kagekuni-assistant",
   "title": "Kagekuni Assistant",
   "description": "An AI-powered assistant DM for the Kagekuni campaign. Reads journal entries for lore context and responds to chat commands via the Claude API. Ships compendium packs compiled from the Kagekuni markdown canon.",
-  "version": "0.7.11",
+  "version": "0.7.12",
   "authors": [
     {
       "name": "Andy Rowland"
@@ -47,7 +47,7 @@
       "type": "JournalEntry",
       "system": "dnd5e",
       "ownership": {
-        "PLAYER": "OBSERVER",
+        "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
     },
@@ -55,17 +55,6 @@
       "name": "quests",
       "label": "Quests",
       "path": "packs/kagekuni-quests",
-      "type": "JournalEntry",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "npcs-lore",
-      "label": "NPC Lore",
-      "path": "packs/kagekuni-npcs-lore",
       "type": "JournalEntry",
       "system": "dnd5e",
       "ownership": {
@@ -177,7 +166,7 @@
       "path": "packs/kagekuni-macros",
       "type": "Macro",
       "ownership": {
-        "PLAYER": "NONE",
+        "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
     },
@@ -203,7 +192,6 @@
         "locations",
         "quests",
         "npcs",
-        "npcs-lore",
         "items",
         "races",
         "racefeatures",

@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-hideaki-sato
-    linkedJournalId: MlaoQipCtsaqiedH
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Hideaki Sato
       type: npc
@@ -99,7 +99,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.MlaoQipCtsaqiedH]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1sPbOXGo42Ff4Wtc]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

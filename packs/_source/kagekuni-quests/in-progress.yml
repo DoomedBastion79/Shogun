@@ -150,7 +150,7 @@ pages:
         <li><strong>Ko&#39;jiri</strong>: His Golden Dragon Clan research gives him advantage throughout — the orrery
         validates everything he has studied. The operator&#39;s manual is readable at reduced DC for him.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
         (traveling, not present): Would recognize the sanctuary network as connected to the Ancient Guard&#39;s mission.
         The sites marked on Tapestry III overlap with the locations the Warden&#39;s Wisdom points toward.</li>
 
@@ -341,12 +341,14 @@ pages:
         outward. If they are being suppressed by an outside force, that force has made a significant move that demands
         response.</p>
 
-        <p>Taisho @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} of Clan
-        Kaminari&#39;s Special Operations division assigned the party to investigate — using Ko&#39;jiri&#39;s
-        conditional pardon as the formal mechanism, with the party as the operational unit. The Imperial Seal issued by
-        Daimyo @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana} provides
-        diplomatic weight: it calls on all factions to cooperate with the investigation as a matter of archipelago-wide
-        concern.</p>
+        <p>Taisho
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura} of Clan Kaminari&#39;s Special Operations division assigned the party to investigate — using
+        Ko&#39;jiri&#39;s conditional pardon as the formal mechanism, with the party as the operational unit. The
+        Imperial Seal issued by Daimyo
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
+        Kurohana} provides diplomatic weight: it calls on all factions to cooperate with the investigation as a matter
+        of archipelago-wide concern.</p>
 
         <h3 id="kg-objectives" data-section="objectives">Objectives</h3>
 
@@ -549,8 +551,8 @@ pages:
         </ol>
 
         <p>The quest formally closes when a report reaches
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}. What happens after
-        depends on what that report says.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}. What happens after depends on what that report says.</p>
 
         <h3 id="kg-timing" data-section="timing">Timing</h3>
 
@@ -623,12 +625,13 @@ pages:
         exploitation.</p>
 
         <p>Rather than simple prosecution, Shicho
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} identified an
-        opportunity. Ko&#39;jiri&#39;s particular skillset — persuasion, information gathering, and the ability to move
-        through situations without attracting official attention — was potentially useful for an assignment that
-        required someone deniable. A conditional pardon was offered: complete the tasks assigned by Taisho
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}, and all charges
-        are set aside.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura} identified an opportunity. Ko&#39;jiri&#39;s particular skillset — persuasion, information gathering,
+        and the ability to move through situations without attracting official attention — was potentially useful for an
+        assignment that required someone deniable. A conditional pardon was offered: complete the tasks assigned by
+        Taisho
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}, and all charges are set aside.</p>
 
         <p>Ko&#39;jiri reported to Taisho Nakamura. The assignment: travel to the
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
@@ -719,17 +722,17 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
         Nakamura}</strong> — Assigned this mission not only because the Gekko investigation is strategically important
         but because he wanted a deniable party with no official Clan Kaminari affiliation. If things go wrong in Kaze,
         Clan Kaminari needs to not be officially responsible. Ko&#39;jiri (and by extension the party) is that
         deniability. Hideo is pragmatic about this. He will support the party within limits, but those limits are
         defined by what he can defend politically.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}</strong>
-        — Sent the legitimate letter to @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
-        through official channels; the administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s
-        presented version.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}</strong> — Sent the legitimate letter to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} through official channels; the
+        administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s presented version.</li>
 
         </ul>
 
@@ -742,8 +745,8 @@ pages:
         (Golden Dragon Clan) is active throughout</li>
 
         <li>A message from Heian reaches the party through
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro Masahiro} in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
+        Masahiro} in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the
         Inspector&#39;s network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has
         started</li>
 
@@ -769,15 +772,16 @@ pages:
         door of the Golden Dragon Clan&#39;s lost sanctuary. Whatever happens inside will be real in ways his
         performances never were.</p>
 
-        <p>The forged letter timeline: @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren
+        <p>The forged letter timeline:
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura}&#39;s legitimate letter arrived in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s administrative processing
         queue approximately when the party did, or shortly after. Heian&#39;s administrative function is slowed by the
         political vacuum — the legitimate letter has been logged but not yet actively cross-referenced against
         Ko&#39;jiri&#39;s presence in Heian. Estimate: 2-4 sessions before someone notices the discrepancy.
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s office would
-        be the first to catch it — creating a direct conflict between Ko&#39;jiri&#39;s handler and Ko&#39;jiri&#39;s
-        legal situation.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}&#39;s office would be the first to catch it — creating a direct conflict between Ko&#39;jiri&#39;s
+        handler and Ko&#39;jiri&#39;s legal situation.</p>
 
         <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
 
@@ -858,18 +862,18 @@ pages:
 
         <h3 id="kg-background" data-section="background">Background</h3>
 
-        <p>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas Evergreen}, Guardian of
-        the Order of the Sacred Grove, was found dead among the ancient trees he had sworn to protect. The death showed
-        signs of a struggle against something powerful and unknown. To most, it was a tragedy. To Relc — his devoted
-        apprentice — it was the beginning of an unwanted and necessary journey.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen}, Guardian of the Order of the Sacred Grove, was found dead among the ancient trees he had sworn to
+        protect. The death showed signs of a struggle against something powerful and unknown. To most, it was a tragedy.
+        To Relc — his devoted apprentice — it was the beginning of an unwanted and necessary journey.</p>
 
         <p>Solas appeared to Relc in fragmented visions following his death, guiding him toward
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The posthumous letter Solas had
         prepared before his death, held by
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} of the Order of the
-        Tranquil Lotus, named Relc as the next Guardian of the Sacred Grove — a role Solas had prepared him for, even if
-        Relc did not know it. The letter contained not just the appointment but a cipher poem pointing toward something
-        Solas called the <em lang="ja-Latn">Warden&#39;s Wisdom</em>.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}
+        of the Order of the Tranquil Lotus, named Relc as the next Guardian of the Sacred Grove — a role Solas had
+        prepared him for, even if Relc did not know it. The letter contained not just the appointment but a cipher poem
+        pointing toward something Solas called the <em lang="ja-Latn">Warden&#39;s Wisdom</em>.</p>
 
         <p>Solas knew danger was coming. He prepared for his death before it arrived. He did not tell Relc directly. He
         is still communicating — in the only way he can now.</p>
@@ -944,11 +948,11 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei}</strong> —
-        Knows more than he has shared with Relc. He is aware of the Warden&#39;s Wisdom&#39;s existence and importance,
-        though he does not know its specific content. He is watching Relc&#39;s development carefully. If Relc
-        demonstrates readiness (accepting the weight of the Guardian role rather than simply carrying the title), Benkei
-        will share more.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
+        — Knows more than he has shared with Relc. He is aware of the Warden&#39;s Wisdom&#39;s existence and
+        importance, though he does not know its specific content. He is watching Relc&#39;s development carefully. If
+        Relc demonstrates readiness (accepting the weight of the Guardian role rather than simply carrying the title),
+        Benkei will share more.</li>
 
         <li><strong>Elder Sato Hideaki</strong> — Knows the location of the first stone in the sacred grove above
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</li>
@@ -1025,9 +1029,9 @@ pages:
         <li>The next vision triggers at the gold doors or inside the temple — pointing Relc home to Koriwara and Stone
         1</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.9nQv7OQNP70y8Lc1]{Benkei} is traveling toward
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}; the window to communicate with
-        him is closing</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}
+        is traveling toward @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}; the window
+        to communicate with him is closing</li>
 
         <li>If the killer learns Solas had a designated successor, Relc inherits a target on his back</li>
 
@@ -1087,9 +1091,10 @@ pages:
         <p>On the first day of travel north from
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} toward
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}, the party encountered a woman on
-        the highway — @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai} — out
-        of breath and visibly distressed. The conversation that followed was brief and somewhat chaotic. She claimed to
-        be carrying a precious package and asked the party to hold it for her.</p>
+        the highway —
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} — out of breath and visibly distressed. The conversation that followed was brief and somewhat chaotic. She
+        claimed to be carrying a precious package and asked the party to hold it for her.</p>
 
         <p>Within moments she spotted a group of figures running down the road toward her, tossed the package to the
         party, and bolted. The package was her infant child. The running figures turned out to be boys simply out for a
@@ -1153,10 +1158,11 @@ pages:
 
         <ul>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{Yasutake Mai}</strong>
-        — Knows her husband&#39;s family was involved in unlicensed Bronze Wood poaching. Does not realize she knows
-        things she doesn&#39;t know she knows — she lived in that household for three years and heard conversations she
-        didn&#39;t fully understand about the underground Bronze Wood sourcing beneath Seidorin Mori.</li>
+        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai}</strong> — Knows her husband&#39;s family was involved in unlicensed Bronze Wood poaching. Does not realize
+        she knows things she doesn&#39;t know she knows — she lived in that household for three years and heard
+        conversations she didn&#39;t fully understand about the underground Bronze Wood sourcing beneath Seidorin
+        Mori.</li>
 
         <li><strong>Elder Sato Hideaki
         (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara})</strong> — Knows the

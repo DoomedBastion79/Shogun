@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-tsubaki
-    linkedJournalId: eBDxeG8Ot80eeBvJ
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Tsubaki
       type: npc
@@ -77,7 +77,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.eBDxeG8Ot80eeBvJ]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

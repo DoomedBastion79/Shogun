@@ -32,8 +32,8 @@ pages:
 
         <p>Kikyo&#39;s economy runs on the licensing system. Every piece of Bronze Wood leaving the forest passes
         through a licensing transaction administered by
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s office. The
-        paperwork is meticulous; the opportunities for licensed abuse are significant.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s office. The paperwork is meticulous; the opportunities for licensed abuse are significant.</p>
       markdown: ''
     video:
       controls: true
@@ -60,16 +60,17 @@ pages:
         exchange for Bronze Wood contracts. Ko&#39;jiri was caught performing here.</p>
 
         <p><strong>Administrative Quarter</strong> --
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura}&#39;s offices and
-        civic administration. The licensing offices are among the most visited buildings in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s offices and civic administration. The licensing offices are among the most visited buildings in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}.</p>
 
         <p><strong>Residential Quarters</strong> -- Mixed; older areas near the forest edge contain original families;
         newer development pushed outward.</p>
 
         <p><strong>Kikyo Guard Compound</strong> --
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige}&#39;s base of
-        operations. Small but highly capable force focused on licensing enforcement and forest protection.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
+        Masashige}&#39;s base of operations. Small but highly capable force focused on licensing enforcement and forest
+        protection.</p>
       markdown: ''
     video:
       controls: true
@@ -118,11 +119,11 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.gzeHJBD2MSIEL1L6]{Ren Nakamura} -- Shicho (Mayor)
-        and Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura} -- Shicho (Mayor) and Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.udwRiTyeMAQlEg5h]{Haruto Masashige} -- Captain of
-        the Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
+        Masashige} -- Captain of the Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
 
         </ul>
 

@@ -129,8 +129,8 @@ pages:
         <p><strong>Tensho no Mon -- Military District</strong>
 
         Barracks, command infrastructure, training grounds. Home to Taisho
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura}&#39;s command
-        headquarters. Where the party received their mission briefing.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura}&#39;s command headquarters. Where the party received their mission briefing.</p>
       markdown: ''
     video:
       controls: true
@@ -154,9 +154,9 @@ pages:
       format: 1
       content: >
         <p><strong>Taro&#39;s Forge (Kurogane-sho)</strong> -- Master blacksmith
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto}&#39;s workshop.
-        Renowned for quality and integrity. Produces exceptional weapons and armor. Taro teaches those who demonstrate
-        genuine commitment.</p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.2Mal6Uf7jgW1kLPg]{Taro
+        Fukomoto}&#39;s workshop. Renowned for quality and integrity. Produces exceptional weapons and armor. Taro
+        teaches those who demonstrate genuine commitment.</p>
 
         <p><strong>The Moonlit Garden (Ryu Jikuchiku)</strong> -- Teahouse in the Dragon Borough with a garden famous
         for nighttime aesthetics -- white stone, silver-leaved trees, reflecting pool. The party first convened here.
@@ -188,15 +188,15 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.BIHGIXqUS0FLQg7C]{Hiroshi Nakamura} -- Shugo
-        (Governor) of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} -&gt;
-        npcs/hiroshi-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
+        Nakamura} -- Shugo (Governor) of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
+        -&gt; npcs/hiroshi-nakamura.md</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.l41icMnxACSIzz72]{Hideo Nakamura} -- Taisho
-        (General); military commander -&gt; npcs/hideo-nakamura.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
+        Nakamura} -- Taisho (General); military commander -&gt; npcs/hideo-nakamura.md</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{Taro Fukomoto} -- Master
-        blacksmith -&gt; npcs/taro-fukomoto.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.2Mal6Uf7jgW1kLPg]{Taro
+        Fukomoto} -- Master blacksmith -&gt; npcs/taro-fukomoto.md</li>
 
         </ul>
 

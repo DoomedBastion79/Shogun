@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-masota-no-gekko
-    linkedJournalId: NK44ZJZdU0fnPKix
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Masota no Gekkō
       type: npc
@@ -91,7 +91,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.NK44ZJZdU0fnPKix]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.q2apyPLBVo1D5kSN]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

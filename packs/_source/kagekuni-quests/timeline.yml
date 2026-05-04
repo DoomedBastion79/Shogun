@@ -159,9 +159,9 @@ pages:
     ownership:
       default: 2
     flags: {}
-  - _id: u3QRJ3lcDc8UIKR9
-    _key: '!journal.pages!ep2zWPFA0cFCnPxu.u3QRJ3lcDc8UIKR9'
-    name: The Dark Ages Begin — Oryuzan Tenkū-ji Falls
+  - _id: 6F9lGnCE0fa36J6X
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.6F9lGnCE0fa36J6X'
+    name: The Dark Ages Begin — Ōryūzan Tenkū-ji Falls
     type: text
     title:
       show: true
@@ -170,7 +170,7 @@ pages:
     text:
       format: 1
       content: >
-        <p><strong>13088</strong></p><p>The war breaks the empire. The Temple of Oryuzan Tenkū-ji falls during this
+        <p><strong>13088</strong></p><p>The war breaks the empire. The Temple of Ōryūzan Tenkū-ji falls during this
         period. Magic fades as the stars separate. Civilisation contracts.</p>
       markdown: ''
     video:
@@ -404,7 +404,7 @@ pages:
     text:
       format: 1
       content: >
-        <p><strong>Nagatsuki 1, 16744</strong></p><p>The party stands before the gold doors of Oryuzan Tenkū-ji Temple,
+        <p><strong>Nagatsuki 1, 16744</strong></p><p>The party stands before the gold doors of Ōryūzan Tenkū-ji Temple,
         first floor. Nagaji highway discovered beyond.</p>
       markdown: ''
     video:

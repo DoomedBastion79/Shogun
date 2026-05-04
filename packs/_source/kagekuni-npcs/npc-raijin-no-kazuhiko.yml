@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-raijin-no-kazuhiko
-    linkedJournalId: ckxUlw8oW1BCfkai
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Raijin no Kazuhiko
       type: npc
@@ -99,7 +99,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

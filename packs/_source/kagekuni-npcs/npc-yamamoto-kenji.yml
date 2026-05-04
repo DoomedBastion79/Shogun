@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-yamamoto-kenji
-    linkedJournalId: 95nEBylil7xHUpjO
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Yamamoto Kenji
       type: npc
@@ -87,7 +87,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.95nEBylil7xHUpjO]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.sEqN73oesS19N5Xj]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

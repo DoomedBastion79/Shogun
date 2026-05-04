@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-takeda-yoshinobu
-    linkedJournalId: LOi5OMu6TzWjKKPM
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Takeda Yoshinobu
       type: npc
@@ -89,7 +89,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.LOi5OMu6TzWjKKPM]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.icm5k8ve4junatqN]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

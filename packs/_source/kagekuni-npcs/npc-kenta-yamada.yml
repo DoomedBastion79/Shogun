@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-kenta-yamada
-    linkedJournalId: hJ0k4bboy6fyQWKM
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Kenta Yamada
       type: npc
@@ -90,7 +90,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.hJ0k4bboy6fyQWKM]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

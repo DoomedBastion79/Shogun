@@ -130,10 +130,11 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.LOi5OMu6TzWjKKPM]{Takeda Yoshinobu} -- Town
-        leader; competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.icm5k8ve4junatqN]{Takeda
+        Yoshinobu} -- Town leader; competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
 
-        <li>Chief Inspector @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.5oWqdsETsABGqJXF]{Oshiro
+        <li>Chief Inspector
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
         Masahiro} -- Teikoku Keisatsu; confirmed party ally -&gt; npcs/oshiro-masahiro.md</li>
 
         </ul>

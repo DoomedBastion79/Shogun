@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-commander-nokumora
-    linkedJournalId: V72SDFwd5QOWaABv
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Commander Nokumora
       type: npc
@@ -72,7 +72,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.V72SDFwd5QOWaABv]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.C0SQFHlMQvn2iEHh]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-solas-evergreen
-    linkedJournalId: Yk0fOJkKYfbgC0jU
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Solas Evergreen
       type: npc
@@ -98,7 +98,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-noboru-takeda
-    linkedJournalId: KdE6GHLRjMmr1u3v
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Noboru Takeda
       type: npc
@@ -93,7 +93,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.KdE6GHLRjMmr1u3v]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.0ujb5b4Erz8sot9W]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

@@ -86,8 +86,8 @@ pages:
       content: >+
         <ul>
 
-        <li>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.95nEBylil7xHUpjO]{Yamamoto Kenji} -- Village
-        leader -&gt; npcs/yamamoto-kenji.md</li>
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.sEqN73oesS19N5Xj]{Yamamoto
+        Kenji} -- Village leader -&gt; npcs/yamamoto-kenji.md</li>
 
         </ul>
 

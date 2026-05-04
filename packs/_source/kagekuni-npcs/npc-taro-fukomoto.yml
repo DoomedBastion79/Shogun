@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-taro-fukomoto
-    linkedJournalId: 7WLPowuQH1pnrccg
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Taro Fukomoto
       type: npc
@@ -92,7 +92,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.7WLPowuQH1pnrccg]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.2Mal6Uf7jgW1kLPg]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

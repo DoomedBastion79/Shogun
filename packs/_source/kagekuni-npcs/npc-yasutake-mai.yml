@@ -23,7 +23,7 @@ flags:
   assistant:
     sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
     slug: npc-yasutake-mai
-    linkedJournalId: 0Ql21G1PfsxPClls
+    linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:
       name: Yasutake Mai
       type: npc
@@ -99,7 +99,8 @@ system:
         </section>
 
         <p><em>Full lore (Discoverable + Sealed) lives in the linked journal:
-        @UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.0Ql21G1PfsxPClls]{View NPC Lore}</em></p>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{View
+        NPC Lore}</em></p>
       public: ''
     source:
       book: Kagekuni Campaign

@@ -637,7 +637,8 @@ pages:
         unknown to the world at large.</p>
 
         <p><strong>Kinryū</strong> (the Golden Dragon) would serve as the natural counterbalance to Murasakiryū. The
-        assassination of <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.Yk0fOJkKYfbgC0jU]{Solas
+        assassination of
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
         Evergreen}</strong> — a member of the Order of the Ancient Guard — was a deliberate act to prevent Kinryū&#39;s
         awakening. The cipher leading to methods for waking the Golden Dragon now rests with <strong>Relc</strong>, who
         may not fully understand what he carries.</p>
@@ -698,11 +699,11 @@ pages:
 
         <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
         suspected</strong>. Two independent daimyō —
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.ckxUlw8oW1BCfkai]{Raijin no
-        Kazuhiko}</strong> (Clan Kaminari) and
-        <strong>@UUID[Compendium.kagekuni-assistant.npcs-lore.JournalEntry.PvAlkONFgMVdtZW9]{Akihiko Kurohana}</strong>
-        (Clan Kurohana) — are both quietly investigating the circumstances. Neither has shared their suspicions
-        publicly.</p>
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
+        no Kazuhiko}</strong> (Clan Kaminari) and
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
+        Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances. Neither has shared their
+        suspicions publicly.</p>
 
         <p>The 16732 reform that froze the Shogunate may have been motivated by Ryūjin&#39;s awareness of threats
         against the imperial line — a last attempt to prevent his enemies from consolidating power after his death.</p>
