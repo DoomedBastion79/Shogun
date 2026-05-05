@@ -120,10 +120,10 @@ pages:
         <ul>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
-        Nakamura} -- Shicho (Mayor) and Daimyo of Clan Minato -&gt; npcs/ren-nakamura.md</li>
+        Nakamura} -- Shicho (Mayor) and Daimyo of Clan Minato</li>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
-        Masashige} -- Captain of the Guard; Gold Dragonborn -&gt; npcs/haruto-masashige.md</li>
+        Masashige} -- Captain of the Guard; Gold Dragonborn</li>
 
         </ul>
 
@@ -134,17 +134,37 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Ren Nakamura has discovered the true source of the Bronze Wood&#39;s metallic quality and is working with a
+        merchant guild to exploit it.</p>
 
-        <li>Ren Nakamura has discovered the true source of the Bronze Wood&#39;s metallic quality and is working with a
-        merchant guild to exploit it.</li>
 
-        <li>Haruto Masashige is building an informant network and has noticed irregularities in the licensing
-        records.</li>
+        </section>
 
-        <li>Ko&#39;jiri carries both a legitimate letter from Ren Nakamura and a forged version -- a ticking clock.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Haruto Masashige is building an informant network and has noticed irregularities in the licensing
+        records.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Ko&#39;jiri carries both a legitimate letter from Ren Nakamura and a forged version -- a ticking clock.</p>
 
 
         </section>
@@ -202,17 +222,37 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Haruto sends word to the party in Heian: he has found something in the licensing records connecting to their
+        mission</p>
 
-        <li>Haruto sends word to the party in Heian: he has found something in the licensing records connecting to their
-        mission</li>
 
-        <li>A merchant guild representative in Kikyo attempts to discourage the party from returning there with unusual
-        vehemence</li>
+        </section>
 
-        <li>Ren Nakamura contacts Ko&#39;jiri separately with an additional, unwritten request</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A merchant guild representative in Kikyo attempts to discourage the party from returning there with unusual
+        vehemence</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Ren Nakamura contacts Ko&#39;jiri separately with an additional, unwritten request</p>
 
 
         </section>

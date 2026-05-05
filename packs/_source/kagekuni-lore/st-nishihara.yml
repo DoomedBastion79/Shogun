@@ -82,7 +82,7 @@ pages:
       content: >+
         <ul>
 
-        <li>Yukari -- Village leader -&gt; npcs/yukari.md</li>
+        <li>Yukari -- Village leader</li>
 
         </ul>
 
@@ -93,15 +93,23 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Yukari has an unusually clear picture of broader regional events because she makes it her business to listen
+        to the traveling traders.</p>
 
-        <li>Yukari has an unusually clear picture of broader regional events because she makes it her business to listen
-        to the traveling traders.</li>
 
-        <li>The Temple of the Ancestors maintains records going back several centuries with documentation of unusual
-        historical events.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Temple of the Ancestors maintains records going back several centuries with documentation of unusual
+        historical events.</p>
 
 
         </section>
@@ -142,13 +150,21 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Yukari can provide regional context and rumors if approached with good questions</p>
 
-        <li>Yukari can provide regional context and rumors if approached with good questions</li>
 
-        <li>The temple records could be relevant to understanding historical sei phenomena in the region</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The temple records could be relevant to understanding historical sei phenomena in the region</p>
 
 
         </section>

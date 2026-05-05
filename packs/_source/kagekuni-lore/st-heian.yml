@@ -189,14 +189,14 @@ pages:
         <ul>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
-        Nakamura} -- Shugo (Governor) of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}
-        -&gt; npcs/hiroshi-nakamura.md</li>
+        Nakamura} -- Shugo (Governor) of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</li>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
-        Nakamura} -- Taisho (General); military commander -&gt; npcs/hideo-nakamura.md</li>
+        Nakamura} -- Taisho (General); military commander</li>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.2Mal6Uf7jgW1kLPg]{Taro
-        Fukomoto} -- Master blacksmith -&gt; npcs/taro-fukomoto.md</li>
+        Fukomoto} -- Master blacksmith</li>
 
         </ul>
 
@@ -207,17 +207,37 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Imperial Palace&#39;s sealed sections contain something found after the Emperor&#39;s death that the
+        Kokushi Kyokai does not know how to handle.</p>
 
-        <li>The Imperial Palace&#39;s sealed sections contain something found after the Emperor&#39;s death that the
-        Kokushi Kyokai does not know how to handle.</li>
 
-        <li>The Moonlit Garden teahouse serves a deeper function as a neutral meeting ground for intelligence
-        exchanges.</li>
+        </section>
 
-        <li>Multiple individuals have arrived in Heian with claims to imperial succession.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Moonlit Garden teahouse serves a deeper function as a neutral meeting ground for intelligence
+        exchanges.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Multiple individuals have arrived in Heian with claims to imperial succession.</p>
 
 
         </section>
@@ -275,18 +295,38 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Hideo Nakamura asks the party to carry out intelligence work he cannot assign to his own staff -- suggests he
+        suspects someone close</p>
 
-        <li>Hideo Nakamura asks the party to carry out intelligence work he cannot assign to his own staff -- suggests
-        he suspects someone close</li>
 
-        <li>An unusual request arrives from the sealed section of the Imperial Palace: someone inside has sent a note
-        requesting outside contact; the Kokushi Kyokai doesn&#39;t know how this happened</li>
+        </section>
 
-        <li>A succession claimant approaches the party specifically, wanting independent witnesses to a document
-        verification</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>An unusual request arrives from the sealed section of the Imperial Palace: someone inside has sent a note
+        requesting outside contact; the Kokushi Kyokai doesn&#39;t know how this happened</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A succession claimant approaches the party specifically, wanting independent witnesses to a document
+        verification</p>
 
 
         </section>

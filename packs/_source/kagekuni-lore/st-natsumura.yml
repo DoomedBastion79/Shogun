@@ -90,7 +90,7 @@ pages:
       content: >+
         <ul>
 
-        <li>Takeda Haruto -- Village leader -&gt; npcs/takeda-haruto.md</li>
+        <li>Takeda Haruto -- Village leader</li>
 
         </ul>
 
@@ -101,14 +101,22 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Star River has recently shown anomalies -- unusual turbidity, temperature changes, and dead fish with
+        injuries inconsistent with normal predation.</p>
 
-        <li>The Star River has recently shown anomalies -- unusual turbidity, temperature changes, and dead fish with
-        injuries inconsistent with normal predation.</li>
 
-        <li>A figure has been observed watching the village from the far riverbank at night.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>A figure has been observed watching the village from the far riverbank at night.</p>
 
 
         </section>
@@ -147,13 +155,21 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Investigation of the river anomalies could lead to discovery of Nagaji presence in the mountains above</p>
 
-        <li>Investigation of the river anomalies could lead to discovery of Nagaji presence in the mountains above</li>
 
-        <li>The figure watching from across the river -- Nagaji scout, or something else?</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The figure watching from across the river -- Nagaji scout, or something else?</p>
 
 
         </section>

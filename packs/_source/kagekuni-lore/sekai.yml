@@ -12,7 +12,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>The world of <strong>Seizan</strong> exists within the <strong>Miyosai system</strong> — a trinary stellar
         system governed by three stars, orbited by seven planets, and watched over by four moons. It is a world where
         magic energy called <strong>sei</strong> flows through all living things, shaped and amplified by the celestial
@@ -37,8 +37,11 @@ pages:
         understanding of magic and the natural world — all of it is rooted in the dance of light above them. What
         follows is what is known of that dance.</p>
 
-        <h2 id="kg-dm-note-the-great-aphelion" data-section="dm-note-the-great-aphelion">DM Note — The Great
-        Aphelion</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Great Aphelion</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The Miyosai system&#39;s three stars orbit a common barycenter on independent orbital inclinations. Once in
         recorded history, all three reached maximum mutual distance simultaneously — the <strong>Great Aphelion</strong>
@@ -46,6 +49,10 @@ pages:
         stellar position and sei availability is the campaign&#39;s deepest cosmological secret. No living scholar has
         assembled the complete picture. See the individual section entries for details on how this manifests in each
         celestial body&#39;s behavior.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -347,17 +354,34 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>Medieval Japan as cultural and historical backbone — not generic fantasy</p>
 
-        <li>Medieval Japan as cultural and historical backbone — not generic fantasy</li>
 
-        <li>High fantasy layered over authentic historical touchstones</li>
+        </section>
 
-        <li>Shifts fluidly: quiet beauty ↔ political intrigue ↔ brutal conflict</li>
+        <section class="secret kg-secret-sealed">
 
-        <li>Honor, shame, duty, tension between order and chaos are recurring themes</li>
+        <p><em>sealed</em></p>
 
-        </ul>
+        <p>High fantasy layered over authentic historical touchstones</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Shifts fluidly: quiet beauty ↔ political intrigue ↔ brutal conflict</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Honor, shame, duty, tension between order and chaos are recurring themes</p>
 
 
         </section>
@@ -397,20 +421,43 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>Feudal structure: Emperor, Shogun, Daimyo, Samurai, Peasantry — titles and land rights carry real weight</p>
 
-        <li>Feudal structure: Emperor, Shogun, Daimyo, Samurai, Peasantry — titles and land rights carry real
-        weight</li>
 
-        <li>Bushido and social codes: honor, duty, sacrifice, and shame govern behavior</li>
+        </section>
 
-        <li>Religion and spirituality: Shinto animism, Buddhist philosophy, ancestor veneration</li>
+        <section class="secret kg-secret-sealed">
 
-        <li>Arts and architecture: tatami, shoji, castle towns, torii gates, tea ceremony, noh theatre</li>
+        <p><em>sealed</em></p>
 
-        <li>Conflict and politics: clan rivalries, succession disputes, ronin, peasant uprisings</li>
+        <p>Bushido and social codes: honor, duty, sacrifice, and shame govern behavior</p>
 
-        </ul>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Religion and spirituality: Shinto animism, Buddhist philosophy, ancestor veneration</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Arts and architecture: tatami, shoji, castle towns, torii gates, tea ceremony, noh theatre</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Conflict and politics: clan rivalries, succession disputes, ronin, peasant uprisings</p>
 
 
         </section>
@@ -421,18 +468,35 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>All mechanical content grounded in 5e rules</p>
 
-        <li>All mechanical content grounded in 5e rules</li>
 
-        <li>Homebrew clearly labeled</li>
+        </section>
 
-        <li>Seimasters map to wizards, sorcerers, monks</li>
+        <section class="secret kg-secret-sealed">
 
-        <li>Honor mechanic: Dragonborn receive +2 on Honor ability checks; marginalized races receive -2 on Honor
-        ability checks in social situations</li>
+        <p><em>sealed</em></p>
 
-        </ul>
+        <p>Homebrew clearly labeled</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Seimasters map to wizards, sorcerers, monks</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Honor mechanic: Dragonborn receive +2 on Honor ability checks; marginalized races receive -2 on Honor ability
+        checks in social situations</p>
 
 
         </section>
@@ -443,19 +507,43 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>Secret blocks used within journal entries for DM-only content</p>
 
-        <li>Secret blocks used within journal entries for DM-only content</li>
 
-        <li>Player handouts prefixed with character name for easy sorting</li>
+        </section>
 
-        <li>Location journals pinned to maps</li>
+        <section class="secret kg-secret-sealed">
 
-        <li>Active Objectives journal maintained as living document</li>
+        <p><em>sealed</em></p>
 
-        <li>One entry per subject; use journal links for wiki-style navigation</li>
+        <p>Player handouts prefixed with character name for easy sorting</p>
 
-        </ul>
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Location journals pinned to maps</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Active Objectives journal maintained as living document</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>One entry per subject; use journal links for wiki-style navigation</p>
 
 
         </section>
@@ -466,15 +554,25 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>Not everything needs to be explained</p>
 
-        <li>Not everything needs to be explained</li>
 
-        <li>Leave room for improvisation and surprise</li>
+        </section>
 
-        <li>The living dragons secret is the campaign&#39;s deepest thread — never surface prematurely</li>
+        <section class="secret kg-secret-sealed">
 
-        </ul>
+        <p><em>sealed</em></p>
+
+        <p>Leave room for improvisation and surprise</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>The living dragons secret is the campaign&#39;s deepest thread — never surface prematurely</p>
 
 
         </section>
@@ -684,13 +782,13 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>The Miyosai system is governed by three stars that orbit a common gravitational center. Their movements drive
         the great astrological events of Seizan, shaping weather, tides, and the flow of sei across the world. These are
         purely celestial phenomena — named after older divine concepts but not worshipped directly.</p>
 
-        <h2 id="kg-amaterasu-the-golden-anchor" data-section="amaterasu-the-golden-anchor">Amaterasu — The Golden
-        Anchor</h2>
+        <h3 id="kg-amaterasu-the-golden-anchor" data-section="amaterasu-the-golden-anchor">Amaterasu — The Golden
+        Anchor</h3>
 
         <p><strong>Type:</strong> Primary star, golden-yellow
 
@@ -701,7 +799,7 @@ pages:
         <strong>Magical Influence:</strong> Core life energy; baseline sei. The foundation upon which all other magical
         expression rests.</p>
 
-        <h2 id="kg-susanoo-the-blue-storm" data-section="susanoo-the-blue-storm">Susanoo — The Blue Storm</h2>
+        <h3 id="kg-susanoo-the-blue-storm" data-section="susanoo-the-blue-storm">Susanoo — The Blue Storm</h3>
 
         <p><strong>Type:</strong> Smaller blue-white dwarf
 
@@ -713,7 +811,7 @@ pages:
         <strong>Magical Influence:</strong> Water magic, healing, and purification. Susanoo&#39;s proximity intensifies
         all water-aspected sei. Coastal communities, healers, and maritime practitioners track its position closely.</p>
 
-        <h2 id="kg-tsukuyomi-the-red-shadow" data-section="tsukuyomi-the-red-shadow">Tsukuyomi — The Red Shadow</h2>
+        <h3 id="kg-tsukuyomi-the-red-shadow" data-section="tsukuyomi-the-red-shadow">Tsukuyomi — The Red Shadow</h3>
 
         <p><strong>Type:</strong> Larger deep-red dwarf
 
@@ -727,7 +825,7 @@ pages:
         shapeshifting, transmutation, and raw sei channelling reach their peak. When it retreats, these disciplines
         falter.</p>
 
-        <h2 id="kg-solar-astrological-events" data-section="solar-astrological-events">Solar Astrological Events</h2>
+        <h3 id="kg-solar-astrological-events" data-section="solar-astrological-events">Solar Astrological Events</h3>
 
         <table>
 
@@ -783,9 +881,11 @@ pages:
         <p>Additional solar events exist but are less commonly named or studied. Seimasters at Seishin maintain
         observational records of celestial alignments and their correlations to sei fluctuation.</p>
 
-        <h2 id="kg-dm-note-the-three-stars-and-the-great-aphelion"
-        data-section="dm-note-the-three-stars-and-the-great-aphelion">DM Note — The Three Stars and the Great
-        Aphelion</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Three Stars and the Great Aphelion</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The three stars orbit a common <strong>barycenter</strong> on independent orbital inclinations, producing a
         three-dimensional dance rather than a flat orbital disc. The named astrological events (Nagorikaze, Long Shadow)
@@ -796,23 +896,56 @@ pages:
         peak simultaneously. The probability is the product of three separate low-probability alignments, and the
         distance compounds geometrically.</p>
 
-        <h4 id="kg-amaterasu-during-the-drought" data-section="amaterasu-during-the-drought">Amaterasu During the
-        Drought</h4>
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Amaterasu During the Drought</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Amaterasu never went dark. Its baseline sei sustained life throughout the dark ages. The world retained
         normal day/night cycles. What was lost was the complex magical expression that depended on the full trinary
         system.</p>
 
-        <h4 id="kg-tsukuyomi-first-to-fade-last-to-return"
-        data-section="tsukuyomi-first-to-fade-last-to-return">Tsukuyomi — First to Fade, Last to Return</h4>
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Tsukuyomi — First to Fade, Last to Return</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Tsukuyomi&#39;s deep red began bleeding approximately 150–170 years before the nadir (<del>14174–14194). Its
         elongated orbit meant early decline would have appeared as an unusually extended Long Shadow before the deeper
         pattern was recognized. Transformation magic became unreliable first. Tsukuyomi was the last star to return —
         its deep red crossing into reliable visibility defined the <strong>Great Awakening</strong> (</del>16693).</p>
 
-        <h4 id="kg-susanoo-second-to-fade-first-to-return" data-section="susanoo-second-to-fade-first-to-return">Susanoo
-        — Second to Fade, First to Return</h4>
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>Susanoo — Second to Fade, First to Return</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Susanoo dimmed approximately 50–80 years before nadir (<del>14264–14294). The order watched Tsukuyomi
         declining for nearly a century before Susanoo followed. Susanoo&#39;s failure was the loss that reached the
@@ -820,6 +953,10 @@ pages:
         decline was a practitioner problem; Susanoo&#39;s was a human one. Susanoo was also first to return — the first
         Talents (</del>15962) correlate with its partial recovery, consistent with healing and purification being among
         the earliest accessible sei expressions.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -841,7 +978,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>Four moons orbit Seizan directly, each with its own character, orbit, and influence on the world below.
         Together they are called <strong>The Sisters&#39; Tears</strong> — a name whose origin has been lost to time,
         though folk tales offer a dozen contradictory explanations. Their combined gravitational pull creates complex
@@ -849,7 +986,7 @@ pages:
         Beyond the physical, the moons carry a subtler influence — secondary sei signatures that interact with the
         stellar field in ways that seimasters study but do not fully understand.</p>
 
-        <h2 id="kg-aokiba-the-blue-fang" data-section="aokiba-the-blue-fang">Aokiba — The Blue Fang</h2>
+        <h3 id="kg-aokiba-the-blue-fang" data-section="aokiba-the-blue-fang">Aokiba — The Blue Fang</h3>
 
         <p><strong>Translation:</strong> Blue Fang
 
@@ -865,7 +1002,7 @@ pages:
         same urgency that mountain villages track avalanche seasons. Sailors consider its close approach a navigation
         hazard; harbormasters adjust schedules around it.</p>
 
-        <h2 id="kg-kagetsu-the-shadow-moon" data-section="kagetsu-the-shadow-moon">Kagetsu — The Shadow Moon</h2>
+        <h3 id="kg-kagetsu-the-shadow-moon" data-section="kagetsu-the-shadow-moon">Kagetsu — The Shadow Moon</h3>
 
         <p><strong>Translation:</strong> Shadow Moon
 
@@ -882,7 +1019,7 @@ pages:
         cycle. Common folk avoid sleeping in direct moonlight when Kagetsu is full — not from superstition, but from the
         unsettling vividness of the dreams that follow.</p>
 
-        <h2 id="kg-nagikumo-the-gentle-cloud" data-section="nagikumo-the-gentle-cloud">Nagikumo — The Gentle Cloud</h2>
+        <h3 id="kg-nagikumo-the-gentle-cloud" data-section="nagikumo-the-gentle-cloud">Nagikumo — The Gentle Cloud</h3>
 
         <p><strong>Translation:</strong> Gentle Cloud
 
@@ -898,7 +1035,7 @@ pages:
         weather, settled seas, and restful sleep. Healers note that patients recover more steadily during its visible
         phases. Whether this is sei influence or cultural expectation is a matter of ongoing scholarly argument.</p>
 
-        <h2 id="kg-rygetsu-the-dragon-moon" data-section="rygetsu-the-dragon-moon">Ryūgetsu — The Dragon Moon</h2>
+        <h3 id="kg-rygetsu-the-dragon-moon" data-section="rygetsu-the-dragon-moon">Ryūgetsu — The Dragon Moon</h3>
 
         <p><strong>Translation:</strong> Dragon Moon
 
@@ -917,7 +1054,7 @@ pages:
         <strong>Hikarishō</strong>, Ryūgetsu&#39;s full phase alignment produces celestial auroras — curtains of light
         that ripple across the sky in colours that echo the dragon&#39;s own shifting surface.</p>
 
-        <h2 id="kg-lunar-astrological-events" data-section="lunar-astrological-events">Lunar Astrological Events</h2>
+        <h3 id="kg-lunar-astrological-events" data-section="lunar-astrological-events">Lunar Astrological Events</h3>
 
         <table>
 
@@ -959,7 +1096,7 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-orbital-periods-summary" data-section="orbital-periods-summary">Orbital Periods Summary</h2>
+        <h3 id="kg-orbital-periods-summary" data-section="orbital-periods-summary">Orbital Periods Summary</h3>
 
         <table>
 
@@ -1019,14 +1156,14 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-conjunction-frequencies" data-section="conjunction-frequencies">Conjunction Frequencies</h2>
+        <h3 id="kg-conjunction-frequencies" data-section="conjunction-frequencies">Conjunction Frequencies</h3>
 
         <p>The moons&#39; differing periods produce conjunctions — moments when two or more moons share the same phase
         position in the sky. These are tracked by astronomers at Seishin and by coastal harbormasters for practical
         tidal calculation.</p>
 
-        <h2 id="kg-pairwise-conjunctions-two-moons" data-section="pairwise-conjunctions-two-moons">Pairwise Conjunctions
-        (Two Moons)</h2>
+        <h3 id="kg-pairwise-conjunctions-two-moons" data-section="pairwise-conjunctions-two-moons">Pairwise Conjunctions
+        (Two Moons)</h3>
 
         <table>
 
@@ -1111,8 +1248,8 @@ pages:
         violence tempered by the Cloud&#39;s calm), while Kagetsu–Ryūgetsu conjunctions are deeply ominous (shadow and
         dragon, stillness and complexity).</p>
 
-        <h2 id="kg-triple-conjunctions-three-moons" data-section="triple-conjunctions-three-moons">Triple Conjunctions
-        (Three Moons)</h2>
+        <h3 id="kg-triple-conjunctions-three-moons" data-section="triple-conjunctions-three-moons">Triple Conjunctions
+        (Three Moons)</h3>
 
         <table>
 
@@ -1176,8 +1313,8 @@ pages:
         without Aokiba — occurs roughly once every 85 years. Entire generations of astronomers may dedicate their
         careers to predicting and documenting a single triple conjunction.</p>
 
-        <h2 id="kg-full-conjunction-tatsunami" data-section="full-conjunction-tatsunami">Full Conjunction —
-        Tatsunami</h2>
+        <h3 id="kg-full-conjunction-tatsunami" data-section="full-conjunction-tatsunami">Full Conjunction —
+        Tatsunami</h3>
 
         <p><strong>All four moons align every 529,023 days — approximately once every 1,448 years.</strong></p>
 
@@ -1187,19 +1324,7 @@ pages:
         reverential terms — the ocean withdrew beyond the horizon before returning as a wall of luminescent water, and
         sei-sensitive individuals reported hearing the world itself vibrate like a struck bell.</p>
 
-        <h2 id="kg-dm-note-tatsunami-frequency-and-campaign-history"
-        data-section="dm-note-tatsunami-frequency-and-campaign-history">DM Note — Tatsunami Frequency and Campaign
-        History</h2>
-
-        <p>At ~1,448 years between full alignments, there have been roughly 11 true Tatsunami events since the founding
-        year (year 0 of the Kagekuni calendar, ~16,744 years ago). The most recent would have fallen approximately
-        300–400 years before the current campaign year, placing it within recorded history but beyond living memory. The
-        term &quot;Tatsunami&quot; is used colloquially for any severe multi-moon tidal event (particularly when three
-        moons are in near-alignment), which is why coastal communities treat it as a recurring threat rather than a
-        once-in-a-millennium catastrophe. The true four-moon convergence is something most scholars debate rather than
-        fear.</p>
-
-        <h2 id="kg-lunar-sei-influence" data-section="lunar-sei-influence">Lunar Sei Influence</h2>
+        <h3 id="kg-lunar-sei-influence" data-section="lunar-sei-influence">Lunar Sei Influence</h3>
 
         <p>The moons carry secondary sei signatures — subtler than the stars but meaningful in combination. Scholars at
         Seishin track three distinct channels of lunar influence:</p>
@@ -1218,8 +1343,33 @@ pages:
         alone. A Nagorikaze event during a Tatsunami convergence, for instance, produces tidal and magical conditions
         that exceed what either event generates independently.</p>
 
-        <h2 id="kg-dm-note-moons-and-the-great-aphelion" data-section="dm-note-moons-and-the-great-aphelion">DM Note —
-        Moons and the Great Aphelion</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Tatsunami Frequency and Campaign History</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>At ~1,448 years between full alignments, there have been roughly 11 true Tatsunami events since the founding
+        year (year 0 of the Kagekuni calendar, ~16,744 years ago). The most recent would have fallen approximately
+        300–400 years before the current campaign year, placing it within recorded history but beyond living memory. The
+        term &quot;Tatsunami&quot; is used colloquially for any severe multi-moon tidal event (particularly when three
+        moons are in near-alignment), which is why coastal communities treat it as a recurring threat rather than a
+        once-in-a-millennium catastrophe. The true four-moon convergence is something most scholars debate rather than
+        fear.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Moons and the Great Aphelion</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The four moons orbit Seizan directly and were <strong>not affected by the Great Aphelion</strong>. Their
         physical tidal influence continued normally throughout the dark ages. However, with two of the three stellar sei
@@ -1227,6 +1377,10 @@ pages:
         channel was effectively inert for ~3,077 years. The return of stellar sei has reactivated lunar resonance, but
         whether the current lunar sei signatures match their pre-Aphelion intensity is unknown. Seishin&#39;s records do
         not extend that far back.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -1248,14 +1402,14 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>Seven planets orbit Amaterasu, travelling with the primary star as it traces its own path through the Miyosai
         system. Their positions relative to Seizan shift in predictable patterns — the movements of siblings sharing a
         common parent rather than independent wanderers. Astronomers at Seishin track their orbits with precision, and
         the agricultural, maritime, and spiritual calendars of Kagekuni all reference planetary positions for timing and
         omen-reading.</p>
 
-        <h2 id="kg-akahoshi" data-section="akahoshi">Akahoshi</h2>
+        <h3 id="kg-akahoshi" data-section="akahoshi">Akahoshi</h3>
 
         <p><strong>Translation:</strong> —
 
@@ -1266,7 +1420,7 @@ pages:
         Astrologers consider it a marker of urgency and immediacy. Its transits across Amaterasu&#39;s face are tracked
         as timing indicators for short-term decisions.</p>
 
-        <h2 id="kg-akasa-red-sand" data-section="akasa-red-sand">Akasa — Red Sand</h2>
+        <h3 id="kg-akasa-red-sand" data-section="akasa-red-sand">Akasa — Red Sand</h3>
 
         <p><strong>Translation:</strong> Red Sand
 
@@ -1277,7 +1431,7 @@ pages:
         weather patterns that amplify or dampen the tidal convergence. Whether this is gravitational, sei-related, or
         coincidental remains debated at Seishin.</p>
 
-        <h2 id="kg-asahikawa-river-of-dawn" data-section="asahikawa-river-of-dawn">Asahikawa — River of Dawn</h2>
+        <h3 id="kg-asahikawa-river-of-dawn" data-section="asahikawa-river-of-dawn">Asahikawa — River of Dawn</h3>
 
         <p><strong>Translation:</strong> River of Dawn
 
@@ -1288,7 +1442,7 @@ pages:
         because its position relative to the three stars often signals upcoming astrological shifts before they become
         apparent in weather or sei. Navigators and astronomers prize it as a reference point.</p>
 
-        <h2 id="kg-seizan-the-balance-point" data-section="seizan-the-balance-point">Seizan — The Balance Point</h2>
+        <h3 id="kg-seizan-the-balance-point" data-section="seizan-the-balance-point">Seizan — The Balance Point</h3>
 
         <p><strong>Position:</strong> Fourth from Amaterasu</p>
 
@@ -1296,7 +1450,7 @@ pages:
         far enough for temperance. Its four moons, its complex tidal patterns, and its position within the trinary
         stellar system give it the most elaborate celestial environment of any world in the Miyosai system.</p>
 
-        <h2 id="kg-shizukanami-silent-wave" data-section="shizukanami-silent-wave">Shizukanami — Silent Wave</h2>
+        <h3 id="kg-shizukanami-silent-wave" data-section="shizukanami-silent-wave">Shizukanami — Silent Wave</h3>
 
         <p><strong>Translation:</strong> Silent Wave
 
@@ -1307,7 +1461,7 @@ pages:
         each other&#39;s orbital behaviour in ways that make both difficult to predict independently. Under
         Susanoo&#39;s blue-white light, Shizukanami takes on an eerie blue glow visible to the naked eye.</p>
 
-        <h2 id="kg-krigami-god-of-ice" data-section="krigami-god-of-ice">Kōrigami — God of Ice</h2>
+        <h3 id="kg-krigami-god-of-ice" data-section="krigami-god-of-ice">Kōrigami — God of Ice</h3>
 
         <p><strong>Translation:</strong> God of Ice
 
@@ -1318,7 +1472,7 @@ pages:
         winter severity across Kagekuni intensifies. The luminescent mists that settle over the islands during Shinmyōji
         are attributed to Kōrigami&#39;s presence, though the mechanism is not understood.</p>
 
-        <h2 id="kg-yamiyo-eternal-night" data-section="yamiyo-eternal-night">Yamiyo — Eternal Night</h2>
+        <h3 id="kg-yamiyo-eternal-night" data-section="yamiyo-eternal-night">Yamiyo — Eternal Night</h3>
 
         <p><strong>Translation:</strong> Eternal Night
 
@@ -1330,14 +1484,21 @@ pages:
         Tsukuyomi, a phenomenon called <strong>Shadow Resonance</strong> occurs, during which shadow magic reaches its
         absolute peak and the boundary between the material and spirit worlds thins perceptibly.</p>
 
-        <h2 id="kg-dm-note-planets-and-the-great-aphelion" data-section="dm-note-planets-and-the-great-aphelion">DM Note
-        — Planets and the Great Aphelion</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Planets and the Great Aphelion</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Because the planets orbit Amaterasu and travel with it, <strong>the seven planets did not participate in the
         Great Aphelion</strong>. Their positions relative to Seizan shifted only in their normal orbital patterns
         throughout the entire drought period. In the Tenkū-ji orrery, this is visible and striking: the planetary
         armatures continue their normal motion while the two secondary stellar arms go dark. The machine keeps working,
         the planets keep moving — two of the three stars are simply not where they should be.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -1359,13 +1520,13 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p><strong>Sei</strong> is the magic energy that flows through all living things on Seizan. It is not an
         external force to be harnessed or a resource to be mined — it is present in the blood, the breath, the roots of
         trees, and the currents of rivers. Sei is woven into the fabric of the world, expressed through celestial
         alignment and natural forces, amplified or diminished by the positions of stars and moons overhead.</p>
 
-        <h2 id="kg-the-nature-of-sei" data-section="the-nature-of-sei">The Nature of Sei</h2>
+        <h3 id="kg-the-nature-of-sei" data-section="the-nature-of-sei">The Nature of Sei</h3>
 
         <p>Sei responds to the Miyosai system&#39;s celestial bodies. The three stars provide its primary signatures —
         Amaterasu sustains the baseline, Susanoo governs water magic, healing, and purification, and Tsukuyomi shapes
@@ -1379,7 +1540,7 @@ pages:
         the water. Those with the talent to sense and shape sei are rare, and rarer still are those with the discipline
         to master it.</p>
 
-        <h2 id="kg-seimasters" data-section="seimasters">Seimasters</h2>
+        <h3 id="kg-seimasters" data-section="seimasters">Seimasters</h3>
 
         <p><strong>Seimasters</strong> are arcane scholars and researchers — though not necessarily practitioners. The
         title connotes scholarship over raw power. A seimaster studies sei as a discipline: mapping its flows,
@@ -1392,7 +1553,7 @@ pages:
         occurs in mountaintop monasteries, removed from the noise of lowland life where the celestial influences can be
         observed more clearly.</p>
 
-        <h2 id="kg-magical-factions" data-section="magical-factions">Magical Factions</h2>
+        <h3 id="kg-magical-factions" data-section="magical-factions">Magical Factions</h3>
 
         <p>Several institutions study, practice, or govern the use of sei across Kagekuni:</p>
 
@@ -1413,7 +1574,7 @@ pages:
 
         </ul>
 
-        <h2 id="kg-the-sei-drought" data-section="the-sei-drought">The Sei Drought</h2>
+        <h3 id="kg-the-sei-drought" data-section="the-sei-drought">The Sei Drought</h3>
 
         <p>Sei began declining during the era of the War of Fractured Banners (~12605). The decline was gradual — the
         first secondary star was lost to naked-eye visibility around ~12806, marking the beginning of what scholars now
@@ -1434,8 +1595,8 @@ pages:
         <p>The drought&#39;s cause is officially unknown. Scholars debate whether it was a consequence of the War of
         Fractured Banners itself, a natural celestial cycle, or something else entirely. No consensus exists.</p>
 
-        <h2 id="kg-kuroyami-no-akuma-and-the-plague-campaign"
-        data-section="kuroyami-no-akuma-and-the-plague-campaign">Kuroyami no Akuma and the Plague Campaign</h2>
+        <h3 id="kg-kuroyami-no-akuma-and-the-plague-campaign"
+        data-section="kuroyami-no-akuma-and-the-plague-campaign">Kuroyami no Akuma and the Plague Campaign</h3>
 
         <p>Not all who shape sei do so in service of the living. <strong>Kuroyami no Akuma</strong> — formerly Takeda
         Arata — discovered a necromantic tome within Kuroshi Temple on the haunted island of Yurei. The knowledge within
@@ -1446,8 +1607,11 @@ pages:
         remain unknown. His followers, the <strong>Eikyū Yami Clan</strong>, persist — a reminder that sei is a tool,
         and tools serve the hand that holds them.</p>
 
-        <h2 id="kg-dm-note-the-true-cause-of-the-sei-drought"
-        data-section="dm-note-the-true-cause-of-the-sei-drought">DM Note — The True Cause of the Sei Drought</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The True Cause of the Sei Drought</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The sei drought was caused by the <strong>Great Aphelion</strong> — the simultaneous maximum separation of
         all three stars of the Miyosai system. The causal chain (aphelion → Progenitor slumber → drought, or aphelion →
@@ -1462,13 +1626,28 @@ pages:
         constructed — the mechanical-arcane orrery capable of projecting celestial positions across millennia. It has
         not been operational since the temple fell in 13088.</p>
 
-        <h2 id="kg-dm-note-murasakiry39s-sei-awareness" data-section="dm-note-murasakiry39s-sei-awareness">DM Note —
-        Murasakiryū&#39;s Sei Awareness</h2>
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Murasakiryū&#39;s Sei Awareness</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Every sei use in Kagekuni passes through the awakened Progenitor <strong>Murasakiryū&#39;s</strong>
         awareness. Every spell the party casts, every druidic invocation, every monk ability — all of it is potentially
         observed. Whether Murasakiryū actively monitors individual sei users or maintains passive background awareness
         is unresolved. Whether the party registers as notable is unknown.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -1496,7 +1675,7 @@ pages:
         Kagekuni. Overlaying these are the astrological events driven by the Miyosai trinary system — celestial
         phenomena that alter weather, tides, the flow of sei, and the behaviour of the natural and spirit worlds.</p>
 
-        <h2 id="kg-the-four-seasons" data-section="the-four-seasons">The Four Seasons</h2>
+        <h3 id="kg-the-four-seasons" data-section="the-four-seasons">The Four Seasons</h3>
 
         <table>
 
@@ -1575,14 +1754,14 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-astrological-overlays" data-section="astrological-overlays">Astrological Overlays</h2>
+        <h3 id="kg-astrological-overlays" data-section="astrological-overlays">Astrological Overlays</h3>
 
         <p>The astrological events of the Miyosai system are not seasons in their own right — they are recurring
         celestial phenomena that overlay the standard four seasons, sometimes reinforcing their character and sometimes
         disrupting it. A Nagorikaze event during summer intensifies the monsoons; the same event during winter creates
         eerie blue-white frost patterns and unseasonal coastal surges.</p>
 
-        <h2 id="kg-solar-events" data-section="solar-events">Solar Events</h2>
+        <h3 id="kg-solar-events" data-section="solar-events">Solar Events</h3>
 
         <table>
 
@@ -1637,7 +1816,7 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-lunar-events" data-section="lunar-events">Lunar Events</h2>
+        <h3 id="kg-lunar-events" data-section="lunar-events">Lunar Events</h3>
 
         <table>
 
@@ -1707,7 +1886,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>Kagekuni follows a traditional twelve-month calendar rooted in the agricultural and spiritual rhythms of the
         land. Each month carries a name that reflects the character of its days — what grows, what changes, what is
         demanded of the people who live through it. The names are ancient, predating the dark ages, and their meanings
@@ -1716,7 +1895,7 @@ pages:
         <p>The current year is <strong>16744</strong>. The current date is <strong>Nagatsuki 1</strong> — the first day
         of the ninth month, the opening of Aki (autumn).</p>
 
-        <h2 id="kg-the-twelve-months" data-section="the-twelve-months">The Twelve Months</h2>
+        <h3 id="kg-the-twelve-months" data-section="the-twelve-months">The Twelve Months</h3>
 
         <table>
 
@@ -1908,7 +2087,7 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-notes-on-the-calendar" data-section="notes-on-the-calendar">Notes on the Calendar</h2>
+        <h3 id="kg-notes-on-the-calendar" data-section="notes-on-the-calendar">Notes on the Calendar</h3>
 
         <p><strong>Mutsuki</strong> opens the year with the Month of Affection — a time for rekindling bonds, settling
         debts carried over from the old year, and renewing oaths of loyalty. Despite winter&#39;s grip, it is a month of
@@ -1938,8 +2117,11 @@ pages:
         are said to be running during the twelfth month — settling accounts, performing final rites, and preparing
         shrines for the new year. It is the busiest month for temples and the most frantic for merchants.</p>
 
-        <h2 id="kg-dm-note-kannazuki39s-true-origin" data-section="dm-note-kannazuki39s-true-origin">DM Note —
-        Kannazuki&#39;s True Origin</h2>
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Kannazuki&#39;s True Origin</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The name <strong>Kannazuki</strong> is a historical fossil from the earliest age when the seven
         <strong>Progenitor dragons</strong> did physically gather during the tenth month. The tradition outlived the
@@ -1949,6 +2131,10 @@ pages:
 
         <p><strong>Discovery path:</strong> Research in the Great Library of Kawa; conversations with Ancient Guard
         members; study of pre-Reckoning texts.</p>
+
+
+        </section>
+
       markdown: ''
     video:
       controls: true
@@ -1970,7 +2156,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >
+      content: >+
         <p>It has been fifty-one years since the Great Awakening. Within living memory, magic returned to a world that
         had forgotten it existed. The energy called sei — once woven through every living thing on Seizan — went silent
         for over three thousand years. When it returned, it returned to a world that had changed. Institutions built on
@@ -1985,8 +2171,8 @@ pages:
         again, the daimyo of Kagekuni were already competing to recruit mages into their service. Magic had returned.
         The question of who would control it had only just begun.</p>
 
-        <h2 id="kg-an-empire-without-an-emperor" data-section="an-empire-without-an-emperor">An Empire Without an
-        Emperor</h2>
+        <h3 id="kg-an-empire-without-an-emperor" data-section="an-empire-without-an-emperor">An Empire Without an
+        Emperor</h3>
 
         <p>Emperor <strong>Ryūjin no Mikado</strong> — the eighteenth emperor, the last of the near-immortal elven line
         stretching back to the founding — died in <strong>16739</strong>. The official cause was old age. He was the
@@ -2003,26 +2189,7 @@ pages:
         authority that has historically held the empire together during periods of crisis — is legally frozen. There is
         no emperor to approve a Shogun, and no Shogun to impose order.</p>
 
-        <h2 id="kg-dm-note-the-emperor39s-death" data-section="dm-note-the-emperor39s-death">DM Note — The Emperor&#39;s
-        Death</h2>
-
-        <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
-        suspected</strong>. Two independent daimyo —
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
-        no Kazuhiko}</strong> (Clan Kaminari) and
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
-        Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances of the emperor&#39;s
-        death. Neither has shared their suspicions publicly. The 16732 reform that froze the Shogunate may have been
-        motivated by Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent his enemies
-        from consolidating power after his death.</p>
-
-        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
-        Nakamura}</strong>, Shugo (military governor) of
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} in Kaminari territory, is a
-        <strong>traitor</strong> working with the Genso Alliance. He is using his position to feed intelligence to Genso
-        — likely connected to the larger political destabilisation.</p>
-
-        <h2 id="kg-war-between-the-alliances" data-section="war-between-the-alliances">War Between the Alliances</h2>
+        <h3 id="kg-war-between-the-alliances" data-section="war-between-the-alliances">War Between the Alliances</h3>
 
         <p>Into this vacuum, war has come. In <strong>16742</strong>, tensions between two major clan alliances erupted
         into open conflict.</p>
@@ -2045,45 +2212,35 @@ pages:
         knows this. The independents are courted, threatened, and watched. They are the fulcrum on which the future of
         Kagekuni may turn.</p>
 
-        <h2 id="kg-clan-kaminari-independent" data-section="clan-kaminari-independent">Clan Kaminari (Independent)</h2>
+        <h3 id="kg-clan-kaminari-independent" data-section="clan-kaminari-independent">Clan Kaminari (Independent)</h3>
 
-        <p>Governed by <strong>Raijin no Kazuhiko</strong>, the Storm-lord — a human warrior of 47 years who was born
-        outside the clan and rose through martial prowess alone. Kaminari controls the Province of
+        <p>Governed by
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
+        no Kazuhiko}</strong>, the Storm-lord — a human warrior of 47 years who was born outside the clan and rose
+        through martial prowess alone. Kaminari controls the Province of
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
-        and its capital, <strong>Heian</strong> — the imperial capital, now without an emperor. Known for mastery of
-        storm magic and fierce warriors, Kaminari occupies the most politically sensitive position of any clan: they
-        hold the seat of empire without the authority to claim it.</p>
+        and its capital, <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}</strong>
+        — the imperial capital, now without an emperor. Known for mastery of storm magic and fierce warriors, Kaminari
+        occupies the most politically sensitive position of any clan: they hold the seat of empire without the authority
+        to claim it.</p>
 
-        <h2 id="kg-clan-kurohana-independent" data-section="clan-kurohana-independent">Clan Kurohana (Independent)</h2>
+        <h3 id="kg-clan-kurohana-independent" data-section="clan-kurohana-independent">Clan Kurohana (Independent)</h3>
 
-        <p>Led by <strong>Akihiko Kurohana</strong> — a black dragonborn of 54 years, tall and imposing, with scales
-        like polished obsidian and eyes that glow faintly red. Kurohana maintains independence through strength and
-        reputation. Their daimyo&#39;s intentions are difficult to read, which is precisely as he prefers it.</p>
+        <p>Led by
+        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
+        Kurohana}</strong> — a black dragonborn of 54 years, tall and imposing, with scales like polished obsidian and
+        eyes that glow faintly red. Kurohana maintains independence through strength and reputation. Their daimyo&#39;s
+        intentions are difficult to read, which is precisely as he prefers it.</p>
 
-        <h2 id="kg-clan-gekk-independent-status-uncertain" data-section="clan-gekk-independent-status-uncertain">Clan
-        Gekkō (Independent — Status Uncertain)</h2>
+        <h3 id="kg-clan-gekk-independent-status-uncertain" data-section="clan-gekk-independent-status-uncertain">Clan
+        Gekkō (Independent — Status Uncertain)</h3>
 
         <p>Daimyo <strong>Masota no Gekkō</strong> has not been seen publicly in some time. His clan&#39;s silence has
         drawn attention from both alliances and from the other independents. Rumours vary — illness, a power struggle
         within the clan, or something worse. The truth of Clan Gekkō&#39;s situation is one of the most pressing
         questions in Kagekuni&#39;s current politics.</p>
 
-        <h2 id="kg-dm-note-clan-gekk" data-section="dm-note-clan-gekk">DM Note — Clan Gekkō</h2>
-
-        <p>Clan Gekkō attempted a dark ritual with catastrophic consequences. The entire clan — including Daimyo Masota
-        no Gekkō — was <strong>transformed into Nagaji</strong> (serpent folk). Masota retains fragmented awareness, but
-        his mental coherence is degrading over time. The longer the situation persists, the less of him remains to
-        reach.</p>
-
-        <p>The <strong>Order of the Black Lily</strong> (Monastery of the Black Lily, above
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in Kaze province)
-        knows the truth and has been monitoring the situation. The party has already encountered and <strong>killed
-        several Nagaji without knowing they were Gekkō clan members</strong>. The moral reckoning is pending.</p>
-
-        <p>A reversal may be possible but requires rare materials, specific conditions, or Progenitor involvement. The
-        details are TBD.</p>
-
-        <h2 id="kg-the-alliances-at-a-glance" data-section="the-alliances-at-a-glance">The Alliances at a Glance</h2>
+        <h3 id="kg-the-alliances-at-a-glance" data-section="the-alliances-at-a-glance">The Alliances at a Glance</h3>
 
         <table>
 
@@ -2133,7 +2290,7 @@ pages:
 
         </tbody></table>
 
-        <h2 id="kg-the-caste-system" data-section="the-caste-system">The Caste System</h2>
+        <h3 id="kg-the-caste-system" data-section="the-caste-system">The Caste System</h3>
 
         <p>Kagekuni&#39;s social order is rigid, ancient, and under strain. Three castes define a person&#39;s place in
         the world:</p>
@@ -2150,7 +2307,7 @@ pages:
         through society with relative ease. Others do not. Characters who are not of the dominant race in a given
         territory find doors closed, prices raised, and suspicion constant.</p>
 
-        <h2 id="kg-the-ronin-surge" data-section="the-ronin-surge">The Ronin Surge</h2>
+        <h3 id="kg-the-ronin-surge" data-section="the-ronin-surge">The Ronin Surge</h3>
 
         <p>With the political vacuum, the frozen Shogunate, and open war between the alliances, the number of masterless
         samurai — <strong>ronin</strong> — has reached an all-time high. Former retainers of dead lords, warriors whose
@@ -2159,15 +2316,15 @@ pages:
         seek honourable service. Others have abandoned honour entirely. The roads of Kagekuni have never been less
         safe.</p>
 
-        <h2 id="kg-the-eruption-of-akaho-sanmyaku" data-section="the-eruption-of-akaho-sanmyaku">The Eruption of Akaho
-        Sanmyaku</h2>
+        <h3 id="kg-the-eruption-of-akaho-sanmyaku" data-section="the-eruption-of-akaho-sanmyaku">The Eruption of Akaho
+        Sanmyaku</h3>
 
         <p>On <strong>Hachigatsu 29, 16744</strong> — just days ago — the volcanic range of <strong>Akaho
         Sanmyaku</strong> on the northern island of Fushichō erupted. Ash is visible from as far as the Tenchūsan Ren
         mountains on Hokori. The eruption is ongoing. Fushichō has always been a land of fire and ancient secrets; what
         this eruption means for the settlements and peoples of that island remains to be seen.</p>
 
-        <h2 id="kg-tatara-the-eternal-feud" data-section="tatara-the-eternal-feud">Tatara — The Eternal Feud</h2>
+        <h3 id="kg-tatara-the-eternal-feud" data-section="tatara-the-eternal-feud">Tatara — The Eternal Feud</h3>
 
         <p>On the southern island of Tatara, the ancient feud between the <strong>Zirak</strong> (dwarves) and the
         <strong>Glimfyr</strong> (gnomes) has escalated again. The conflict — which predates the War of Fractured
@@ -2175,8 +2332,8 @@ pages:
         hatreds have resurfaced. Recent reports suggest the gnomes deliberately sabotaged a dwarven relic site, an act
         of provocation that the Zirak are unlikely to answer with diplomacy.</p>
 
-        <h2 id="kg-the-shadow-of-the-plague-campaign" data-section="the-shadow-of-the-plague-campaign">The Shadow of the
-        Plague Campaign</h2>
+        <h3 id="kg-the-shadow-of-the-plague-campaign" data-section="the-shadow-of-the-plague-campaign">The Shadow of the
+        Plague Campaign</h3>
 
         <p>The Plague Campaign of <strong>16609–16616</strong> remains the defining trauma of the post-Awakening era.
         <strong>Kuroyami no Akuma</strong> — once Takeda Arata, before he found a necromantic tome in the cursed Kuroshi
@@ -2188,7 +2345,7 @@ pages:
         Clan</strong>, persists in some form. The question of where Kuroyami is — and what he has been doing for the
         last 128 years — is one that very few people ask aloud.</p>
 
-        <h2 id="kg-the-magical-landscape" data-section="the-magical-landscape">The Magical Landscape</h2>
+        <h3 id="kg-the-magical-landscape" data-section="the-magical-landscape">The Magical Landscape</h3>
 
         <p>Magic is new. Not new to the world — new to the people living in it. Sei sustained civilisation for millennia
         before the dark ages, but the dark ages lasted long enough to erase nearly all institutional memory of how magic
@@ -2222,8 +2379,75 @@ pages:
 
         </ul>
 
-        <h2 id="kg-dm-note-the-order-of-the-ancient-guard" data-section="dm-note-the-order-of-the-ancient-guard">DM Note
-        — The Order of the Ancient Guard</h2>
+        <h3 id="kg-the-season" data-section="the-season">The Season</h3>
+
+        <p>It is <strong>Nagatsuki 1, 16744</strong> — the first day of the Month of Long Nights, the opening of
+        <strong>Aki</strong>. Autumn has arrived. The harvest is underway across the lowlands. Violet grasses are
+        darkening toward black on the hillsides. Crystal-barked trees have begun to chime in the cooling mountain winds.
+        The goldtail fish runs have started in the rivers.</p>
+
+        <p>Above, all three stars of the Miyosai system burn in the sky — Amaterasu&#39;s gold, Susanoo&#39;s
+        blue-white, and Tsukuyomi&#39;s deep red. Fifty-one years ago, that was not the case. The eldest among you
+        remember a sky with only one star. The world is brighter now. Whether it is safer remains to be seen.</p>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Emperor&#39;s Death</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
+        suspected</strong>. Two independent daimyo — <strong>Raijin no Kazuhiko</strong> (Clan Kaminari) and
+        <strong>Akihiko Kurohana</strong> (Clan Kurohana) — are both quietly investigating the circumstances of the
+        emperor&#39;s death. Neither has shared their suspicions publicly. The 16732 reform that froze the Shogunate may
+        have been motivated by Ryūjin&#39;s awareness of threats against the imperial line — a last attempt to prevent
+        his enemies from consolidating power after his death.</p>
+
+        <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
+        Nakamura}</strong>, Shugo (military governor) of Heian in Kaminari territory, is a <strong>traitor</strong>
+        working with the Genso Alliance. He is using his position to feed intelligence to Genso — likely connected to
+        the larger political destabilisation.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — Clan Gekkō</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Clan Gekkō attempted a dark ritual with catastrophic consequences. The entire clan — including Daimyo Masota
+        no Gekkō — was <strong>transformed into Nagaji</strong> (serpent folk). Masota retains fragmented awareness, but
+        his mental coherence is degrading over time. The longer the situation persists, the less of him remains to
+        reach.</p>
+
+        <p>The <strong>Order of the Black Lily</strong> (Monastery of the Black Lily, above
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} village in Kaze province)
+        knows the truth and has been monitoring the situation. The party has already encountered and <strong>killed
+        several Nagaji without knowing they were Gekkō clan members</strong>. The moral reckoning is pending.</p>
+
+        <p>A reversal may be possible but requires rare materials, specific conditions, or Progenitor involvement. The
+        details are TBD.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Order of the Ancient Guard</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Behind the known orders lies the most secret organisation in Kagekuni: the <strong>Order of the Ancient
         Guard</strong>. Their purpose is the silent protection of the living founding dragons — the seven Progenitors
@@ -2235,8 +2459,19 @@ pages:
         (rank likely Protector or higher). Solas&#39;s murder means someone killed a member of the order protecting the
         dragons. The scope of the threat is unknown.</p>
 
-        <h2 id="kg-dm-note-the-progenitor-dragons" data-section="dm-note-the-progenitor-dragons">DM Note — The
-        Progenitor Dragons</h2>
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><strong>DM Note — The Progenitor Dragons</strong></p>
+
+        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>All <strong>seven founding dragons are alive</strong>, hidden in deep slumber across the archipelago. Their
         dormancy coincided with the Great Aphelion and the sei drought. Whether one caused the other, or both share a
@@ -2252,16 +2487,9 @@ pages:
         honour and justice) — the natural counter-balance. Relc now holds Solas&#39;s mission: the Warden&#39;s Wisdom
         cipher that leads to methods for waking Kinryū.</p>
 
-        <h2 id="kg-the-season" data-section="the-season">The Season</h2>
 
-        <p>It is <strong>Nagatsuki 1, 16744</strong> — the first day of the Month of Long Nights, the opening of
-        <strong>Aki</strong>. Autumn has arrived. The harvest is underway across the lowlands. Violet grasses are
-        darkening toward black on the hillsides. Crystal-barked trees have begun to chime in the cooling mountain winds.
-        The goldtail fish runs have started in the rivers.</p>
+        </section>
 
-        <p>Above, all three stars of the Miyosai system burn in the sky — Amaterasu&#39;s gold, Susanoo&#39;s
-        blue-white, and Tsukuyomi&#39;s deep red. Fifty-one years ago, that was not the case. The eldest among you
-        remember a sky with only one star. The world is brighter now. Whether it is safer remains to be seen.</p>
       markdown: ''
     video:
       controls: true

@@ -131,11 +131,11 @@ pages:
         <ul>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.icm5k8ve4junatqN]{Takeda
-        Yoshinobu} -- Town leader; competent administrator -&gt; npcs/takeda-yoshinobu.md</li>
+        Yoshinobu} -- Town leader; competent administrator</li>
 
         <li>Chief Inspector
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
-        Masahiro} -- Teikoku Keisatsu; confirmed party ally -&gt; npcs/oshiro-masahiro.md</li>
+        Masahiro} -- Teikoku Keisatsu; confirmed party ally</li>
 
         </ul>
 
@@ -146,16 +146,35 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Oshiro Masahiro&#39;s intelligence network extends far beyond what his official position suggests.</p>
 
-        <li>Oshiro Masahiro&#39;s intelligence network extends far beyond what his official position suggests.</li>
 
-        <li>The Tenchusan Ren pass approach is under more surveillance than it appears.</li>
+        </section>
 
-        <li>Mountain guides have been returning from upper-route jobs shaken and unwilling to specify what they
-        saw.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Tenchusan Ren pass approach is under more surveillance than it appears.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Mountain guides have been returning from upper-route jobs shaken and unwilling to specify what they saw.</p>
 
 
         </section>
@@ -202,15 +221,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Oshiro sends a discrete message: he has information relevant to the party&#39;s mission that he couldn&#39;t
+        share safely in Ayame; proposes a meeting at the next Michibata up the pass</p>
 
-        <li>Oshiro sends a discrete message: he has information relevant to the party&#39;s mission that he couldn&#39;t
-        share safely in Ayame; proposes a meeting at the next Michibata up the pass</li>
 
-        <li>One of the mountain guides who returned early is drinking heavily at the Dragon&#39;s Rest and muttering
-        fragments of what they saw</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>One of the mountain guides who returned early is drinking heavily at the Dragon&#39;s Rest and muttering
+        fragments of what they saw</p>
 
 
         </section>

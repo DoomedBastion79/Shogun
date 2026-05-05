@@ -60,7 +60,7 @@ pages:
       content: >+
         <ul>
 
-        <li>Sato Hideaki -- Choro (Village Elder); 78 years old -&gt; npcs/sato-hideaki.md</li>
+        <li>Sato Hideaki -- Choro (Village Elder); 78 years old</li>
 
         </ul>
 
@@ -71,16 +71,36 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
+        Ancient Guard, and Solas Evergreen.</p>
 
-        <li>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
-        Ancient Guard, and Solas Evergreen.</li>
 
-        <li>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</li>
+        </section>
 
-        <li>A stranger recently arrived in Koriwara asking questions about Relc.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>A stranger recently arrived in Koriwara asking questions about Relc.</p>
 
 
         </section>
@@ -127,15 +147,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something has
+        happened near the sacred grove</p>
 
-        <li>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something
-        has happened near the sacred grove</li>
 
-        <li>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
-        concerned about whether Relc is being watched</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
+        concerned about whether Relc is being watched</p>
 
 
         </section>

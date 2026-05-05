@@ -92,14 +92,22 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Shadowfen Bridge exhibits a genuine sei phenomenon -- a low-level resonance that produces mild
+        disorientation in those who speak falsehoods while crossing.</p>
 
-        <li>The Shadowfen Bridge exhibits a genuine sei phenomenon -- a low-level resonance that produces mild
-        disorientation in those who speak falsehoods while crossing.</li>
 
-        <li>The marsh forest north of the bridge contains remnants of an ancient, consumed structure.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The marsh forest north of the bridge contains remnants of an ancient, consumed structure.</p>
 
 
         </section>
@@ -140,15 +148,22 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Investigation of the Shadowfen Bridge sei phenomenon could reveal the ancient structure beneath the marsh</p>
 
-        <li>Investigation of the Shadowfen Bridge sei phenomenon could reveal the ancient structure beneath the
-        marsh</li>
 
-        <li>Local hunters&#39; avoidance of the &quot;wrong-feeling&quot; area could lead to discovery of pre-imperial
-        ruins</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Local hunters&#39; avoidance of the &quot;wrong-feeling&quot; area could lead to discovery of pre-imperial
+        ruins</p>
 
 
         </section>

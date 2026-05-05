@@ -96,14 +96,22 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
+        demonstrate they are positioned to act.</p>
 
-        <li>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
-        demonstrate they are positioned to act.</li>
 
-        <li>The village is not simply a bystander community -- it functions as a support system for the monastery.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The village is not simply a bystander community -- it functions as a support system for the monastery.</p>
 
 
         </section>
@@ -156,18 +164,38 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>A message from the Order reaches the party: &quot;Come to Akatsuki. Complete information will be provided.
+        Bring nothing official.&quot;</p>
 
-        <li>A message from the Order reaches the party: &quot;Come to Akatsuki. Complete information will be provided.
-        Bring nothing official.&quot;</li>
 
-        <li>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
-        gold doors</li>
+        </section>
 
-        <li>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
-        intercepting before triggering political consequences</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
+        gold doors</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
+        intercepting before triggering political consequences</p>
 
 
         </section>

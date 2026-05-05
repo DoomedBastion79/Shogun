@@ -163,7 +163,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -193,7 +193,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -228,7 +228,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 3
     image: {}
     text:
       format: 1
@@ -1159,16 +1159,19 @@ pages:
 
         <p><em>discoverable</em></p>
 
-        <ul>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{Kenta
+        Yamada} is an active member</p>
 
-        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{Kenta
-        Yamada} is an active member</li>
 
-        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em>discoverable</em></p>
+
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura} has secret alliance with a powerful Shōnin-za branch in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</li>
-
-        </ul>
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</p>
 
 
         </section>
@@ -1218,16 +1221,26 @@ pages:
 
         <p><em>discoverable</em></p>
 
-        <ul>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
+        Senzai} is a secret member</p>
 
-        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
-        Senzai} is a secret member</li>
 
-        <li><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</li>
+        </section>
 
-        <li>To be developed further</li>
+        <section class="secret kg-secret-discoverable">
 
-        </ul>
+        <p><em>discoverable</em></p>
+
+        <p><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em>discoverable</em></p>
+
+        <p>To be developed further</p>
 
 
         </section>
@@ -1301,7 +1314,7 @@ pages:
     type: text
     title:
       show: true
-      level: 2
+      level: 1
     image: {}
     text:
       format: 1
@@ -1523,7 +1536,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 2
     image: {}
     text:
       format: 1
@@ -1551,7 +1564,7 @@ pages:
     type: text
     title:
       show: true
-      level: 3
+      level: 1
     image: {}
     text:
       format: 1
@@ -1573,20 +1586,37 @@ pages:
 
         <p><em>discoverable</em></p>
 
-        <ul>
-
-        <li>Daimyo:
+        <p>Daimyo:
         <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura}</strong> (Shicho of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo};
-        human; 52)</li>
+        human; 52)</p>
 
-        <li>Also known as <strong>Clan Minato</strong> for his lesser clan title</li>
 
-        <li><strong>Secret</strong>: Working to elevate Clan Seishin/Minato; secret alliance with merchant guild</li>
+        </section>
 
-        <li>Possesses ancient knowledge about Seidōrin Mori and Bronze Wood</li>
+        <section class="secret kg-secret-discoverable">
 
-        </ul>
+        <p><em>discoverable</em></p>
+
+        <p>Also known as <strong>Clan Minato</strong> for his lesser clan title</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em>discoverable</em></p>
+
+        <p><strong>Secret</strong>: Working to elevate Clan Seishin/Minato; secret alliance with merchant guild</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em>discoverable</em></p>
+
+        <p>Possesses ancient knowledge about Seidōrin Mori and Bronze Wood</p>
 
 
         </section>
@@ -1597,25 +1627,56 @@ pages:
 
         <p><em>sealed</em></p>
 
-        <ul>
+        <p>Daimyo: <strong>Masota no Gekkō</strong> — missing; transformed by dark ritual</p>
 
-        <li>Daimyo: <strong>Masota no Gekkō</strong> — missing; transformed by dark ritual</li>
 
-        <li><strong>CRITICAL SECRET</strong>: Clan Gekkō attempted a dark ritual with catastrophic consequences — clan
-        members transformed into <strong>Nagaji</strong> (serpent folk)</li>
+        </section>
 
-        <li>Masota no Gekkō was also transformed</li>
+        <section class="secret kg-secret-sealed">
 
-        <li>Full truth to be revealed at Monastery of the Black Lily in
+        <p><em>sealed</em></p>
+
+        <p><strong>CRITICAL SECRET</strong>: Clan Gekkō attempted a dark ritual with catastrophic consequences — clan
+        members transformed into <strong>Nagaji</strong> (serpent folk)</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Masota no Gekkō was also transformed</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>Full truth to be revealed at Monastery of the Black Lily in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki},
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
-        province</li>
+        province</p>
 
-        <li>The Nagaji the party has been encountering ARE Clan Gekkō members</li>
 
-        <li><strong>Party has killed several without knowing they were people</strong> — moral weight pending</li>
+        </section>
 
-        </ul>
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p>The Nagaji the party has been encountering ARE Clan Gekkō members</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p><strong>Party has killed several without knowing they were people</strong> — moral weight pending</p>
 
 
         </section>

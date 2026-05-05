@@ -87,7 +87,7 @@ pages:
         <ul>
 
         <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.sEqN73oesS19N5Xj]{Yamamoto
-        Kenji} -- Village leader -&gt; npcs/yamamoto-kenji.md</li>
+        Kenji} -- Village leader</li>
 
         </ul>
 
@@ -98,14 +98,22 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not gold,
+        but something with remarkable properties.</p>
 
-        <li>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not
-        gold, but something with remarkable properties.</li>
 
-        <li>Yamamoto Kenji has quietly sent a sample to Heian for identification.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Yamamoto Kenji has quietly sent a sample to Heian for identification.</p>
 
 
         </section>
@@ -148,13 +156,21 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>The mysterious metal could draw unwanted attention from merchant guilds or military factions</p>
 
-        <li>The mysterious metal could draw unwanted attention from merchant guilds or military factions</li>
 
-        <li>Kenji needs help identifying the material and deciding how to protect his village&#39;s interests</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Kenji needs help identifying the material and deciding how to protect his village&#39;s interests</p>
 
 
         </section>

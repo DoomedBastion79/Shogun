@@ -167,14 +167,32 @@ pages:
         <section class="secret kg-secret-sealed">
         <p><strong>Dragons Today — CRITICAL SECRET (DM Only)</strong></p>
         <p><em>sealed</em></p>
-        <ul>
-        <li><strong>All seven founding dragons are still alive</strong> — hidden, withdrawn</li>
-        <li>World considers them purely historical and mythological</li>
-        <li>Dragons are extremely rare in current era — occasional individuals exist</li>
-        <li>Dragon eggs believed to be fossils — viability unknown to world at large</li>
-        <li>Dragon eggs are highly collectible</li>
-        <li><strong>The Order of the Ancient Guard exists specifically to protect the living dragons</strong></li>
-        </ul>
+        <p><strong>All seven founding dragons are still alive</strong> — hidden, withdrawn</p>
+
+        </section>
+        <section class="secret kg-secret-sealed">
+        <p><em>sealed</em></p>
+        <p>World considers them purely historical and mythological</p>
+
+        </section>
+        <section class="secret kg-secret-sealed">
+        <p><em>sealed</em></p>
+        <p>Dragons are extremely rare in current era — occasional individuals exist</p>
+
+        </section>
+        <section class="secret kg-secret-sealed">
+        <p><em>sealed</em></p>
+        <p>Dragon eggs believed to be fossils — viability unknown to world at large</p>
+
+        </section>
+        <section class="secret kg-secret-sealed">
+        <p><em>sealed</em></p>
+        <p>Dragon eggs are highly collectible</p>
+
+        </section>
+        <section class="secret kg-secret-sealed">
+        <p><em>sealed</em></p>
+        <p><strong>The Order of the Ancient Guard exists specifically to protect the living dragons</strong></p>
 
         </section>
       markdown: ''

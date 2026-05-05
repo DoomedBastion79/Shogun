@@ -509,18 +509,38 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Bronze Wood Forest&#39;s metallic quality has a deeper origin than simple mineral runoff -- connected to
+        the buried city of Kinkokyo beneath the Tenchusan Ren.</p>
 
-        <li>The Bronze Wood Forest&#39;s metallic quality has a deeper origin than simple mineral runoff -- connected to
-        the buried city of Kinkokyo beneath the Tenchusan Ren.</li>
 
-        <li>The Shadowfen Bridge exhibits genuine sei resonance that produces mild disorientation in those who speak
-        falsehoods while crossing.</li>
+        </section>
 
-        <li>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
-        nothing in the records.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Shadowfen Bridge exhibits genuine sei resonance that produces mild disorientation in those who speak
+        falsehoods while crossing.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
+        nothing in the records.</p>
 
 
         </section>
@@ -615,18 +635,38 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Unlicensed Bronze Wood poaching tied to a merchant guild front operation in Kikyo -- Ren Nakamura&#39;s
+        faction or a rival?</p>
 
-        <li>Unlicensed Bronze Wood poaching tied to a merchant guild front operation in Kikyo -- Ren Nakamura&#39;s
-        faction or a rival?</li>
 
-        <li>Strange behavior reported in Shadowfen Bridge area -- a traveler arrived at the wrong destination and has no
-        memory of the crossing</li>
+        </section>
 
-        <li>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
-        nothing in the records</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Strange behavior reported in Shadowfen Bridge area -- a traveler arrived at the wrong destination and has no
+        memory of the crossing</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
+        nothing in the records</p>
 
 
         </section>
@@ -804,18 +844,38 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
-
-        <li>The Crimson Shrine&#39;s keeper,
+        <p>The Crimson Shrine&#39;s keeper,
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki},
-        has served for sixty years and communicates with something through the shrine&#39;s ember-bowl.</li>
+        has served for sixty years and communicates with something through the shrine&#39;s ember-bowl.</p>
 
-        <li>The western territories of Hi are home to descendants of the Crimson Clan faction that refused unification,
-        organized into loose tribal confederacies preserving forgotten traditions.</li>
 
-        <li>Seimasters debate whether Enshiyama&#39;s current activity signals a major eruption building.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The western territories of Hi are home to descendants of the Crimson Clan faction that refused unification,
+        organized into loose tribal confederacies preserving forgotten traditions.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Seimasters debate whether Enshiyama&#39;s current activity signals a major eruption building.</p>
 
 
         </section>
@@ -905,18 +965,38 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>A volcano-guide from Kazan Mura has seen something in the upper reaches of Enshiyama -- something that moved
+        against the wind -- and is too frightened to go back alone</p>
 
-        <li>A volcano-guide from Kazan Mura has seen something in the upper reaches of Enshiyama -- something that moved
-        against the wind -- and is too frightened to go back alone</li>
 
-        <li>The Crimson Shrine&#39;s ember-bowl responded to an offering in a way it never has before; Tsubaki needs
-        discreet help interpreting what it means</li>
+        </section>
 
-        <li>A seimaster studying the eruption precursors has disappeared; her notes suggest she found something in the
-        obsidian fields that was not geological</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The Crimson Shrine&#39;s ember-bowl responded to an offering in a way it never has before; Tsubaki needs
+        discreet help interpreting what it means</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A seimaster studying the eruption precursors has disappeared; her notes suggest she found something in the
+        obsidian fields that was not geological</p>
 
 
         </section>
@@ -1096,20 +1176,52 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Clan Gekko&#39;s disappearance was not caused by an outside force -- the senior seimasters attempted
+        something that went catastrophically wrong.</p>
 
-        <li>Clan Gekko&#39;s disappearance was not caused by an outside force -- the senior seimasters attempted
-        something that went catastrophically wrong.</li>
 
-        <li>The Order of the Black Lily knows the truth about what happened and has made a calculated decision about
-        when to reveal it.</li>
+        </section>
 
-        <li>The Hollow Peaks were structures of the Onyx Dragon Clan -- hollow mountains used as nesting and storage
-        spaces.</li>
 
-        <li>The gorge carvings depict something connected to the transformation that befell Clan Gekko.</li>
 
-        </ul>
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Order of the Black Lily knows the truth about what happened and has made a calculated decision about when
+        to reveal it.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Hollow Peaks were structures of the Onyx Dragon Clan -- hollow mountains used as nesting and storage
+        spaces.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The gorge carvings depict something connected to the transformation that befell Clan Gekko.</p>
 
 
         </section>
@@ -1219,18 +1331,38 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>The Order of the Black Lily sends a message via an intermediary: &quot;Come to Akatsuki. Come alone. Come
+        before the moon is full.&quot;</p>
 
-        <li>The Order of the Black Lily sends a message via an intermediary: &quot;Come to Akatsuki. Come alone. Come
-        before the moon is full.&quot;</li>
 
-        <li>Masota no Gekko leaves something behind at a ransacked site -- something a transformed being could not have
-        done deliberately unless part of him was still trying to communicate</li>
+        </section>
 
-        <li>A scholar in Mikazuki has been studying the gorge carvings for years and has just realized what they
-        depict</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Masota no Gekko leaves something behind at a ransacked site -- something a transformed being could not have
+        done deliberately unless part of him was still trying to communicate</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A scholar in Mikazuki has been studying the gorge carvings for years and has just realized what they
+        depict</p>
 
 
         </section>
@@ -1396,16 +1528,24 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
-
-        <li>The Forest of Spirits faction holds research and findings from the Dark Ages that they have not shared
+        <p>The Forest of Spirits faction holds research and findings from the Dark Ages that they have not shared
         publicly -- discoveries about sei behavior during the magic-absent era that would upend current seimaster
-        orthodoxy.</li>
+        orthodoxy.</p>
 
-        <li>The Whispering Flats produce sounds that are not random and not the dead -- they are sei resonance from a
-        buried structure beneath.</li>
 
-        </ul>
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Whispering Flats produce sounds that are not random and not the dead -- they are sei resonance from a
+        buried structure beneath.</p>
 
 
         </section>
@@ -1475,15 +1615,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>The Forest of Spirits has a problem they cannot handle internally -- related to something their research
+        during the Dark Ages disturbed that has recently become active again</p>
 
-        <li>The Forest of Spirits has a problem they cannot handle internally -- related to something their research
-        during the Dark Ages disturbed that has recently become active again</li>
 
-        <li>Someone in Midoriko is passing military intelligence to the Arashi Alliance; the Genso governing clan needs
-        quiet investigation</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>Someone in Midoriko is passing military intelligence to the Arashi Alliance; the Genso governing clan needs
+        quiet investigation</p>
 
 
         </section>
@@ -1642,17 +1790,37 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>Elder Sato Hideaki in Koriwara is more than a village elder with nature connections -- he has deep ties to
+        the Order of the Sacred Grove.</p>
 
-        <li>Elder Sato Hideaki in Koriwara is more than a village elder with nature connections -- he has deep ties to
-        the Order of the Sacred Grove.</li>
 
-        <li>One of the three stones referenced in Solas&#39;s cipher poem is near Koriwara.</li>
+        </section>
 
-        <li>The Tidal Caves of Umigakure have started showing light from deep within during night compound tides -- a
-        new phenomenon.</li>
 
-        </ul>
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>One of the three stones referenced in Solas&#39;s cipher poem is near Koriwara.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Tidal Caves of Umigakure have started showing light from deep within during night compound tides -- a new
+        phenomenon.</p>
 
 
         </section>
@@ -1724,15 +1892,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>Sato Hideaki has sent word through a traveling merchant -- he needs to speak with Relc urgently; something
+        happened near the sacred grove he tends</p>
 
-        <li>Sato Hideaki has sent word through a traveling merchant -- he needs to speak with Relc urgently; something
-        happened near the sacred grove he tends</li>
 
-        <li>The Tidal Caves of Umigakure have started showing light from deep within during night compound tides -- a
-        phenomenon not present three months ago</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The Tidal Caves of Umigakure have started showing light from deep within during night compound tides -- a
+        phenomenon not present three months ago</p>
 
 
         </section>
@@ -1885,16 +2061,24 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The oldest lighthouse foundation at Takaiso was not originally a lighthouse -- it was built atop something
+        much older.</p>
 
-        <li>The oldest lighthouse foundation at Takaiso was not originally a lighthouse -- it was built atop something
-        much older.</li>
 
-        <li>Nami&#39;s Arashi-aligned governing clan is coordinating with
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>Nami&#39;s Arashi-aligned governing clan is coordinating with
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}&#39;s
-        Minato-jo for a joint naval operation.</li>
-
-        </ul>
+        Minato-jo for a joint naval operation.</p>
 
 
         </section>
@@ -1947,15 +2131,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>A vessel arrived at Namigashira from the open ocean with no crew -- cargo intact, navigation logs ending
+        mid-sentence, cook fire still warm</p>
 
-        <li>A vessel arrived at Namigashira from the open ocean with no crew -- cargo intact, navigation logs ending
-        mid-sentence, cook fire still warm</li>
 
-        <li>The lighthouse at Takaiso went dark for three consecutive nights; the keeper is missing; locals won&#39;t go
-        near it</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The lighthouse at Takaiso went dark for three consecutive nights; the keeper is missing; locals won&#39;t go
+        near it</p>
 
 
         </section>
@@ -2092,16 +2284,24 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The functional observatories are producing readings that match a pattern the ancient seimasters considered
+        significant -- the Ryushinki (Dragon Awakening).</p>
 
-        <li>The functional observatories are producing readings that match a pattern the ancient seimasters considered
-        significant -- the Ryushinki (Dragon Awakening).</li>
 
-        <li>A seimaster from Hoshimori has been trying to reach
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>A seimaster from Hoshimori has been trying to reach
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with urgent information for three
-        months and has not arrived.</li>
-
-        </ul>
+        months and has not arrived.</p>
 
 
         </section>
@@ -2156,15 +2356,23 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
+        <p>One of the functional observatories has started producing readings matching the Ryushinki pattern ahead of
+        schedule -- something is wrong with the calculation, or something is accelerating</p>
 
-        <li>One of the functional observatories has started producing readings matching the Ryushinki pattern ahead of
-        schedule -- something is wrong with the calculation, or something is accelerating</li>
 
-        <li>A seimaster from Hoshimori sent a letter ahead that references &quot;something moving in the clouds that is
-        not a cloud&quot;</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>A seimaster from Hoshimori sent a letter ahead that references &quot;something moving in the clouds that is
+        not a cloud&quot;</p>
 
 
         </section>
@@ -2315,14 +2523,22 @@ pages:
 
         <p><em lang="ja-Latn">discoverable</em></p>
 
-        <ul>
+        <p>The Buried Road leads somewhere significant -- it is far older than any known human construction in the
+        region.</p>
 
-        <li>The Buried Road leads somewhere significant -- it is far older than any known human construction in the
-        region.</li>
 
-        <li>The Great Granaries&#39; contents are being used as an economic weapon in the current conflict.</li>
+        </section>
 
-        </ul>
+
+
+
+
+
+        <section class="secret kg-secret-discoverable">
+
+        <p><em lang="ja-Latn">discoverable</em></p>
+
+        <p>The Great Granaries&#39; contents are being used as an economic weapon in the current conflict.</p>
 
 
         </section>
@@ -2377,16 +2593,24 @@ pages:
 
         <p><em lang="ja-Latn">sealed</em></p>
 
-        <ul>
-
-        <li>A farmer plowing a new field in eastern Tsuchi has found an intact structure beneath the buried road -- a
+        <p>A farmer plowing a new field in eastern Tsuchi has found an intact structure beneath the buried road -- a
         sealed room -- and reported it to local authorities; those authorities are now not responding to outside
-        inquiries</li>
+        inquiries</p>
 
-        <li>The granary administrator in Tsuchimoto is receiving death threats; she has information about grain supply
-        restrictions that she wants to share with someone she trusts -- which is no one, currently</li>
 
-        </ul>
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em lang="ja-Latn">sealed</em></p>
+
+        <p>The granary administrator in Tsuchimoto is receiving death threats; she has information about grain supply
+        restrictions that she wants to share with someone she trusts -- which is no one, currently</p>
 
 
         </section>
