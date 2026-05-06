@@ -86,7 +86,7 @@ pages:
         <p>None specifically documented.</p>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -101,12 +101,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The marsh forest north of the bridge contains remnants of an ancient, consumed structure.</p>
 
 
         </section>
+
+
+
 
 
 

@@ -201,7 +201,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -216,7 +216,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Moonlit Garden teahouse serves a deeper function as a neutral meeting ground for intelligence
         exchanges.</p>
@@ -229,12 +229,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Multiple individuals have arrived in Heian with claims to imperial succession.</p>
 
 
         </section>
+
+
+
 
 
 

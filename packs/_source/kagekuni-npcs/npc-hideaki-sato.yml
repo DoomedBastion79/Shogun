@@ -96,6 +96,33 @@ system:
         <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
         before departing. He has not told Relc everything he knows.</p>
 
+        <h3 id="kg-true-nature" data-section="true-nature">True Nature</h3>
+
+        <p>More than a simple village elder. His decades of accumulated knowledge, his connection to the Order of the
+        Sacred Grove, and his quiet role as a node in networks that extend far beyond a mountain foothills village give
+        Kōriwara significance entirely disproportionate to its size.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
+        multiple occasions, including with Solas Evergreen directly. His community network in the Mizu foothills region
+        could help establish Yasutake Mai in Sunsato if the party makes the connection.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Sato
+        sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something has
+        happened near the sacred grove that he cannot explain and cannot address alone.
+
+        <strong>[QUEST SEED]</strong> A stranger arrived in Kōriwara asking questions about Relc and where they had
+        gone; Sato gave nothing away but is concerned about whether Relc is being watched.
+
+        <strong>[QUEST SEED]</strong> If the party introduces Yasutake Mai to Sato&#39;s community network, they earn a
+        favor with Sato and plant a contact in the north Mizu foothills.</div>
+
+
+
+
         <h3 id="kg-campaign-secrets" data-section="campaign-secrets">Campaign Secrets</h3>
 
         <p>Sato knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and, broadly,

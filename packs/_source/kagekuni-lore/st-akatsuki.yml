@@ -90,7 +90,7 @@ pages:
         <p>None publicly documented. The village maintains deliberate anonymity.</p>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -105,12 +105,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The village is not simply a bystander community -- it functions as a support system for the monastery.</p>
 
 
         </section>
+
+
+
 
 
 

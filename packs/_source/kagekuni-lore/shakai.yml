@@ -981,11 +981,11 @@ pages:
         cannot openly challenge the social order, but their money flows where swords cannot reach.</p>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
         <p><strong>Shōnin-za (商人座 — Merchant Guild)</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.MS6IzANPTK3RTO60]{Kenta
         Yamada} is an active member</p>
@@ -993,13 +993,22 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
         Nakamura} has secret alliance with a powerful Shōnin-za branch in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}</p>
+
+
+        </section>
+
+        <section class="secret kg-secret-sealed">
+
+        <p><em>sealed</em></p>
+
+        <p><strong>This is where the truth about Clan Gekkō/Nagaji will be revealed</strong></p>
 
 
         </section>
@@ -1030,11 +1039,11 @@ pages:
         Senzai}</strong> is a secret member.</p>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
         <p><strong>Seiju Hyōgikai (星樹評議会 — The Starwood Council)</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
         Senzai} is a secret member</p>
@@ -1042,18 +1051,18 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p><strong>DM Note</strong>: Some members suspected corrupt; Senzai quietly investigating</p>
 
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>To be developed further</p>
 
@@ -1379,11 +1388,11 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
         <p><strong>Clan Seishin (Minor — Subject of Kaminari)</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>Daimyo:
         <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
@@ -1393,27 +1402,27 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>Also known as <strong>Clan Minato</strong> for his lesser clan title</p>
 
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p><strong>Secret</strong>: Working to elevate Clan Seishin/Minato; secret alliance with merchant guild</p>
 
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
-        <p><em>discoverable</em></p>
+        <p><em>sealed</em></p>
 
         <p>Possesses ancient knowledge about Seidōrin Mori and Bronze Wood</p>
 
@@ -1535,7 +1544,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <ul>
 
         <li>Nature/druidic tradition</li>
@@ -1553,22 +1562,6 @@ pages:
         Sato}</strong> (Kōriwara village)</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-sealed">
-
-        <p><strong>Details</strong></p>
-
-        <p><em>sealed</em></p>
-
-        <ul>
-
-        <li><strong>This is where the truth about Clan Gekkō/Nagaji will be revealed</strong></li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true

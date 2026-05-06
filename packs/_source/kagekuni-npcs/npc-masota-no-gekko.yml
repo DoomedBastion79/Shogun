@@ -88,6 +88,25 @@ system:
 
         <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
 
+        <h3 id="kg-true-nature" data-section="true-nature">True Nature</h3>
+
+        <p>Missing. The entire Gekkō Clan has gone silent. The party&#39;s primary mission is to investigate this
+        disappearance.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Clan Gekkō had a long and close relationship with the Order of the Black Lily, who provided intelligence and
+        covert capability in exchange for cover and protection. The clan&#39;s disappearance has severed the Order&#39;s
+        primary institutional support structure.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> The full
+        reveal of Masota&#39;s fate is intended to occur at the Monastery of the Black Lily in Akatsuki.</div>
+
+
+
+
         <h3 id="kg-campaign-secrets" data-section="campaign-secrets">Campaign Secrets</h3>
 
         <p>Masota no Gekkō has been transformed into a Nagaji by a dark ritual gone wrong. He underwent the ritual in a

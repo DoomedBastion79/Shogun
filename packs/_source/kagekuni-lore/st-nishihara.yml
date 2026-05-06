@@ -87,7 +87,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -102,13 +102,16 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Temple of the Ancestors maintains records going back several centuries with documentation of unusual
         historical events.</p>
 
 
         </section>
+
+
+
 
 
 

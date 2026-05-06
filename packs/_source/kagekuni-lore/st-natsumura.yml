@@ -95,7 +95,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -110,12 +110,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A figure has been observed watching the village from the far riverbank at night.</p>
 
 
         </section>
+
+
+
 
 
 

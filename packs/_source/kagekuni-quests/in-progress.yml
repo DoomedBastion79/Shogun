@@ -12,7 +12,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">main</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">staged</dd></div><div class="kg-info__row"><dt>Location</dt><dd
@@ -84,118 +84,6 @@ pages:
 
         <p><em lang="ja-Latn">Populated as the party discovers components and makes checks. Initially empty — the quest
         begins with assessment.</em></p>
-
-        <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
-
-        <p>The sanctuary network is an Ancient Guard infrastructure. The four sites on Tapestry III are not random
-        temples — they are guardianship sites positioned near Progenitor resting locations. This temple is the hub. The
-        orrery is not just an astronomical tool; its sei resonance is what keeps the network alive.</p>
-
-        <p>The party, by restoring the orrery, has done something with consequences beyond this temple:</p>
-
-        <ul>
-
-        <li>The hub is online for the first time in three millennia</li>
-
-        <li>Any entity sensitive to the network (including the awakened Murasakiryū) may notice the signal change</li>
-
-        <li>The
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
-        site&#39;s distress signal has been broadcasting into silence — restoring the hub makes the signal receivable,
-        and the party can acknowledge it</li>
-
-        <li>The
-        Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
-        site&#39;s offline/severed state suggests something happened there recently (the fabric retains residual warmth
-        — days or weeks, not centuries)</li>
-
-        </ul>
-
-        <p>The orrery&#39;s visualization of the Great Aphelion — watching two stars go dark while the mechanism keeps
-        running — is the sei drought made visible. A party that understands what they are seeing has the first concrete
-        evidence that the return of magic was not a natural restoration but the waking of a single source.</p>
-
-        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
-
-        <ol>
-
-        <li><p><strong>Full restoration + tapestry study</strong>: The party takes time to repair the orrery completely,
-        studies all four tapestries, and leaves the temple with geographic leads on three sanctuary sites, knowledge of
-        the network protocol, and the understanding that this temple is a functioning hub. This is the richest outcome
-        and feeds directly into future quests at each sanctuary site.</p>
-
-        </li>
-
-        <li><p><strong>Partial restoration</strong>: The party repairs the orrery enough for partial projection
-        (impressive but no tapestry activation) and moves on. They miss the sanctuary network revelation but may return
-        later. The components they found but couldn&#39;t use remain available.</p>
-
-        </li>
-
-        <li><p><strong>Full restoration, limited study</strong>: The party activates the tapestries but doesn&#39;t
-        invest time in deep examination. They get the dramatic moment but miss discoverable content. Available on return
-        visits.</p>
-
-        </li>
-
-        </ol>
-
-        <h3 id="kg-timing" data-section="timing">Timing</h3>
-
-        <ul>
-
-        <li>No hard deadline. The orrery repair is designed to span the second-floor exploration, interleaved with other
-        activities.</li>
-
-        <li>Each repair stage: 15-30 minutes of table time</li>
-
-        <li>Tapestry activation scene: budget 45-60 minutes for the full experience</li>
-
-        <li>The tapestries remain active as long as the orrery runs — the party can return</li>
-
-        </ul>
-
-        <h3 id="kg-connections" data-section="connections">Connections</h3>
-
-        <ul>
-
-        <li><strong>main-gekko-investigation</strong>: The temple contains reversal documentation for the Nagaji
-        transformation. The orrery quest and the Gekkō quest share a location but have separate payoffs — one reveals
-        the sanctuary network and the world&#39;s deeper history; the other provides the means to undo the Gekkō
-        disaster.</li>
-
-        <li><strong>personal-relc-sacred-grove</strong>: Tapestry III&#39;s sanctuary sites overlap with the
-        Warden&#39;s Wisdom locations. Solas&#39;s presence at one of those sites gives Relc a personal, urgent reason
-        to pursue them. The orrery restoration is the mechanism that surfaces this connection.</li>
-
-        <li><strong>Future quest — Kaze sanctuary</strong>: The distress signal. The site in the Kaze highlands the
-        party is already traveling toward for the Gekkō investigation. Two quests converge on one location.</li>
-
-        <li><strong>Future quest —
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
-        sanctuary</strong>: The acknowledged signal. A promise made and not kept. Stone 3 of Relc&#39;s cipher is on the
-        Hoshimori Plateau in Sora.</li>
-
-        <li><strong>Future quest — Hi/Tsuchi site</strong>: The severed node. Recent activity. The Akaho Sanmyaku
-        eruption is ongoing in Hi province. Something happened at this site recently.</li>
-
-        <li><strong>Murasakiryū thread</strong>: The orrery&#39;s Great Aphelion visualization is the first evidence the
-        party can encounter that magic&#39;s return was not natural. The Kokuryu-aspected sei signature in Tapestry
-        II&#39;s fabric (and on the Inner Sanctum ward anchors) is the same fingerprint — a trail that eventually leads
-        to the masquerade.</li>
-
-        <li><strong>Ko&#39;jiri&#39;s arc</strong>: The orrery is the first time Ko&#39;jiri&#39;s performed scholarship
-        proves to be genuine expertise. The observatory does not judge him. It just needs someone who knows what it
-        is.</li>
-
-        </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Light of the Star Mirror — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
 
         <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
 
@@ -286,8 +174,104 @@ pages:
 
         </ul>
 
+        <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
-        </section>
+        <p>The sanctuary network is an Ancient Guard infrastructure. The four sites on Tapestry III are not random
+        temples — they are guardianship sites positioned near Progenitor resting locations. This temple is the hub. The
+        orrery is not just an astronomical tool; its sei resonance is what keeps the network alive.</p>
+
+        <p>The party, by restoring the orrery, has done something with consequences beyond this temple:</p>
+
+        <ul>
+
+        <li>The hub is online for the first time in three millennia</li>
+
+        <li>Any entity sensitive to the network (including the awakened Murasakiryū) may notice the signal change</li>
+
+        <li>The Kaze site&#39;s distress signal has been broadcasting into silence — restoring the hub makes the signal
+        receivable, and the party can acknowledge it</li>
+
+        <li>The Hi/Tsuchi site&#39;s offline/severed state suggests something happened there recently (the fabric
+        retains residual warmth — days or weeks, not centuries)</li>
+
+        </ul>
+
+        <p>The orrery&#39;s visualization of the Great Aphelion — watching two stars go dark while the mechanism keeps
+        running — is the sei drought made visible. A party that understands what they are seeing has the first concrete
+        evidence that the return of magic was not a natural restoration but the waking of a single source.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <ol>
+
+        <li><p><strong>Full restoration + tapestry study</strong>: The party takes time to repair the orrery completely,
+        studies all four tapestries, and leaves the temple with geographic leads on three sanctuary sites, knowledge of
+        the network protocol, and the understanding that this temple is a functioning hub. This is the richest outcome
+        and feeds directly into future quests at each sanctuary site.</p>
+
+        </li>
+
+        <li><p><strong>Partial restoration</strong>: The party repairs the orrery enough for partial projection
+        (impressive but no tapestry activation) and moves on. They miss the sanctuary network revelation but may return
+        later. The components they found but couldn&#39;t use remain available.</p>
+
+        </li>
+
+        <li><p><strong>Full restoration, limited study</strong>: The party activates the tapestries but doesn&#39;t
+        invest time in deep examination. They get the dramatic moment but miss discoverable content. Available on return
+        visits.</p>
+
+        </li>
+
+        </ol>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <ul>
+
+        <li>No hard deadline. The orrery repair is designed to span the second-floor exploration, interleaved with other
+        activities.</li>
+
+        <li>Each repair stage: 15-30 minutes of table time</li>
+
+        <li>Tapestry activation scene: budget 45-60 minutes for the full experience</li>
+
+        <li>The tapestries remain active as long as the orrery runs — the party can return</li>
+
+        </ul>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>main-gekko-investigation</strong>: The temple contains reversal documentation for the Nagaji
+        transformation. The orrery quest and the Gekkō quest share a location but have separate payoffs — one reveals
+        the sanctuary network and the world&#39;s deeper history; the other provides the means to undo the Gekkō
+        disaster.</li>
+
+        <li><strong>personal-relc-sacred-grove</strong>: Tapestry III&#39;s sanctuary sites overlap with the
+        Warden&#39;s Wisdom locations. Solas&#39;s presence at one of those sites gives Relc a personal, urgent reason
+        to pursue them. The orrery restoration is the mechanism that surfaces this connection.</li>
+
+        <li><strong>Future quest — Kaze sanctuary</strong>: The distress signal. The site in the Kaze highlands the
+        party is already traveling toward for the Gekkō investigation. Two quests converge on one location.</li>
+
+        <li><strong>Future quest — Sora sanctuary</strong>: The acknowledged signal. A promise made and not kept. Stone
+        3 of Relc&#39;s cipher is on the Hoshimori Plateau in Sora.</li>
+
+        <li><strong>Future quest — Hi/Tsuchi site</strong>: The severed node. Recent activity. The Akaho Sanmyaku
+        eruption is ongoing in Hi province. Something happened at this site recently.</li>
+
+        <li><strong>Murasakiryū thread</strong>: The orrery&#39;s Great Aphelion visualization is the first evidence the
+        party can encounter that magic&#39;s return was not natural. The Kokuryu-aspected sei signature in Tapestry
+        II&#39;s fabric (and on the Inner Sanctum ward anchors) is the same fingerprint — a trail that eventually leads
+        to the masquerade.</li>
+
+        <li><strong>Ko&#39;jiri&#39;s arc</strong>: The orrery is the first time Ko&#39;jiri&#39;s performed scholarship
+        proves to be genuine expertise. The observatory does not judge him. It just needs someone who knows what it
+        is.</li>
+
+        </ul>
       markdown: ''
     video:
       controls: true
@@ -309,7 +293,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">main</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -453,6 +437,48 @@ pages:
 
         </tbody></table>
 
+        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>Clan Gekko&#39;s senior seimasters discovered fragmentary texts describing a transformation ritual tied to
+        the Onyx Dragon Clan (Kokuryu). The ritual was meant to grant shadow-shifting capability. It transformed those
+        who underwent it into Nagaji — serpentine humanoids — irreversibly and catastrophically. The transformation
+        spread. Masota no Gekko himself performed the ritual last, in a final attempt to lead and protect his people in
+        their transformed state. He is now Nagaji as well. The Nagaji the party has been fighting in the mountains are
+        former Clan Gekko members.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Order of the Black Lily</strong> — Knows the full truth about Gekko. Their stance when the party
+        arrives at Akatsuki depends on how long they have known, whether they tried to stop it, and whether they are
+        protecting, containing, or observing the transformed members.</li>
+
+        <li><strong>Masota no Gekko</strong> — Alive, transformed, retains fragmented awareness. He recognizes his
+        mistake. Coherence degrades over time — the longer the party takes to reach him, the less of Masota is left to
+        reach.</li>
+
+        <li><strong>The @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} in Tenkuji
+        Temple</strong> — The chief seimaster of Clan Gekko, architect of the failed ritual. Fragments of the original
+        person remain. Can potentially communicate if the party uses magic or patience.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A transformed Gekko member (Nagaji) who retains more of their original personality approaches the party
+        non-aggressively — the first indication that these are people, not simply monsters</li>
+
+        <li>Inside the temple, Golden Dragon Clan records explicitly reference a &quot;serpent corruption&quot; and a
+        &quot;restoration of form&quot; — the connection between the temple and their mission becomes undeniable</li>
+
+        <li>The Order of the Black Lily makes contact through Akatsuki and proposes a partnership contingent on the
+        party having retrieved something from the Temple of Kinryu first</li>
+
+        </ul>
+
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
         <p>The party has already killed people. The Nagaji slain in the mountain pass were transformed Gekko clan
@@ -515,59 +541,6 @@ pages:
         destroyed; the alliance balance shifts; every faction responds differently</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>The Clan Gekko Investigation — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
-
-        <p>Clan Gekko&#39;s senior seimasters discovered fragmentary texts describing a transformation ritual tied to
-        the Onyx Dragon Clan (Kokuryu). The ritual was meant to grant shadow-shifting capability. It transformed those
-        who underwent it into Nagaji — serpentine humanoids — irreversibly and catastrophically. The transformation
-        spread. Masota no Gekko himself performed the ritual last, in a final attempt to lead and protect his people in
-        their transformed state. He is now Nagaji as well. The Nagaji the party has been fighting in the mountains are
-        former Clan Gekko members.</p>
-
-        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
-
-        <ul>
-
-        <li><strong>Order of the Black Lily</strong> — Knows the full truth about Gekko. Their stance when the party
-        arrives at @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} depends on how long
-        they have known, whether they tried to stop it, and whether they are protecting, containing, or observing the
-        transformed members.</li>
-
-        <li><strong>Masota no Gekko</strong> — Alive, transformed, retains fragmented awareness. He recognizes his
-        mistake. Coherence degrades over time — the longer the party takes to reach him, the less of Masota is left to
-        reach.</li>
-
-        <li><strong>The @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} in Tenkuji
-        Temple</strong> — The chief seimaster of Clan Gekko, architect of the failed ritual. Fragments of the original
-        person remain. Can potentially communicate if the party uses magic or patience.</li>
-
-        </ul>
-
-        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
-
-        <ul>
-
-        <li>A transformed Gekko member (Nagaji) who retains more of their original personality approaches the party
-        non-aggressively — the first indication that these are people, not simply monsters</li>
-
-        <li>Inside the temple, Golden Dragon Clan records explicitly reference a &quot;serpent corruption&quot; and a
-        &quot;restoration of form&quot; — the connection between the temple and their mission becomes undeniable</li>
-
-        <li>The Order of the Black Lily makes contact through Akatsuki and proposes a partnership contingent on the
-        party having retrieved something from the Temple of Kinryu first</li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -589,7 +562,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">personal</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -682,6 +655,49 @@ pages:
 
         </ul>
 
+        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The Nagaji — the transformed Clan Gekko members the party has been fighting — are the answer to the
+        assignment. Masota no Gekko is alive, transformed, somewhere in the Kaze highlands. The full truth is available
+        at the Monastery of the Black Lily above Akatsuki. The quest&#39;s nominal completion (report back what happened
+        to the daimyo) is achievable. The deeper question — what do they do about it — is where the quest becomes
+        something larger.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Hideo Nakamura</strong> — Assigned this mission not only because the Gekko investigation is
+        strategically important but because he wanted a deniable party with no official Clan Kaminari affiliation. If
+        things go wrong in Kaze, Clan Kaminari needs to not be officially responsible. Ko&#39;jiri (and by extension the
+        party) is that deniability. Hideo is pragmatic about this. He will support the party within limits, but those
+        limits are defined by what he can defend politically.</li>
+
+        <li><strong>Ren Nakamura</strong> — Sent the legitimate letter to Heian through official channels; the
+        administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s presented version.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>Inside the temple, Ko&#39;jiri&#39;s research notes become directly useful — his documented knowledge of
+        Kinkokyou&#39;s layout gives the party an edge navigating the buried sections; his advantage on History checks
+        (Golden Dragon Clan) is active throughout</li>
+
+        <li>A message from Heian reaches the party through
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
+        Masahiro} in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the
+        Inspector&#39;s network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has
+        started</li>
+
+        <li>Hideo Nakamura sends a discreet secondary message: regardless of what the party finds, he needs a report
+        before it goes anywhere else; he implies that certain information in the wrong hands at the wrong moment would
+        be catastrophic</li>
+
+        </ul>
+
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
         <p>Ko&#39;jiri is about to walk into the temple that is the subject of years of his own research. The narrative
@@ -741,64 +757,6 @@ pages:
         discrepancy surfaces</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Misunderstood Ventures: The Side Effects of Wisdom — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
-
-        <p>The Nagaji — the transformed Clan Gekko members the party has been fighting — are the answer to the
-        assignment. Masota no Gekko is alive, transformed, somewhere in the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
-        highlands. The full truth is available at the Monastery of the Black Lily above
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}. The quest&#39;s nominal
-        completion (report back what happened to the daimyo) is achievable. The deeper question — what do they do about
-        it — is where the quest becomes something larger.</p>
-
-        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
-
-        <ul>
-
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
-        Nakamura}</strong> — Assigned this mission not only because the Gekko investigation is strategically important
-        but because he wanted a deniable party with no official Clan Kaminari affiliation. If things go wrong in Kaze,
-        Clan Kaminari needs to not be officially responsible. Ko&#39;jiri (and by extension the party) is that
-        deniability. Hideo is pragmatic about this. He will support the party within limits, but those limits are
-        defined by what he can defend politically.</li>
-
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
-        Nakamura}</strong> — Sent the legitimate letter to
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} through official channels; the
-        administrative queue will eventually cross-reference it against Ko&#39;jiri&#39;s presented version.</li>
-
-        </ul>
-
-        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
-
-        <ul>
-
-        <li>Inside the temple, Ko&#39;jiri&#39;s research notes become directly useful — his documented knowledge of
-        Kinkokyou&#39;s layout gives the party an edge navigating the buried sections; his advantage on History checks
-        (Golden Dragon Clan) is active throughout</li>
-
-        <li>A message from Heian reaches the party through
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
-        Masahiro} in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} (routed through the
-        Inspector&#39;s network): there is an administrative query about Ko&#39;jiri&#39;s letters; the clock has
-        started</li>
-
-        <li>Hideo Nakamura sends a discreet secondary message: regardless of what the party finds, he needs a report
-        before it goes anywhere else; he implies that certain information in the wrong hands at the wrong moment would
-        be catastrophic</li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -820,7 +778,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">personal</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -896,6 +854,49 @@ pages:
         directional rather than explanatory — pointing toward Heian, toward Benkei. The next vision is expected when
         Relc reaches a point where direction is needed again.</p>
 
+        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The Warden&#39;s Wisdom is protected knowledge held by the Order of the Sacred Grove on behalf of the Order
+        of the Ancient Guard. Specifically: it is a set of location coordinates — described in symbolic rather than
+        literal geographic terms — pointing toward the hidden sanctuaries of three of the seven founding dragons. The
+        Sacred Grove Order was entrusted with this knowledge as a failsafe: if the Ancient Guard was ever compromised,
+        someone outside the order would know where to find the dragons without depending on Ancient Guard
+        infrastructure. Solas was the primary keeper of this information. Relc is now.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Benkei</strong> — Knows more than he has shared with Relc. He is aware of the Warden&#39;s
+        Wisdom&#39;s existence and importance, though he does not know its specific content. He is watching Relc&#39;s
+        development carefully. If Relc demonstrates readiness (accepting the weight of the Guardian role rather than
+        simply carrying the title), Benkei will share more.</li>
+
+        <li><strong>Elder Sato Hideaki</strong> — Knows the location of the first stone in the sacred grove above
+        Koriwara.</li>
+
+        <li><strong>Forest of Spirits faction
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
+        province)</strong> — Know what Stone 2 is, and accessing it will require a relationship with the faction.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>The next vision arrives at the gold doors or shortly after entering the temple: Solas in the grove above
+        Koriwara, hand resting on a specific stone, dawn light hitting it from the east — points Relc toward going home
+        after the temple</li>
+
+        <li>Benkei sends a message to Relc: he needs to speak before they lose contact; he has something to say that
+        couldn&#39;t be said in Heian with other ears present</li>
+
+        <li>At the Temple of Kinryu, something inside recognizes Relc&#39;s role as Guardian — the Sacred Grove and the
+        Golden Dragon Clan had a historical relationship that will be relevant within the temple</li>
+
+        </ul>
+
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
         <p>Solas was killed because someone was hunting the Warden&#39;s Wisdom — the locations of the Progenitors. They
@@ -916,8 +917,7 @@ pages:
         <ul>
 
         <li>Complete the three-stone sequence: Stone 1 (Koriwara, Elder Sato), Stone 2 (Yousei Mori, Forest of Spirits,
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
-        province), Stone 3 (Hoshimori Plateau,
+        Kusa province), Stone 3 (Hoshimori Plateau,
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
         province — near abandoned Golden Age observatories, watched by something)</li>
 
@@ -957,61 +957,6 @@ pages:
         passes through its awareness; Solas was killed to prevent Kinryu from being woken as a counterbalance</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Shadows of the Sacred Grove — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
-
-        <p>The Warden&#39;s Wisdom is protected knowledge held by the Order of the Sacred Grove on behalf of the Order
-        of the Ancient Guard. Specifically: it is a set of location coordinates — described in symbolic rather than
-        literal geographic terms — pointing toward the hidden sanctuaries of three of the seven founding dragons. The
-        Sacred Grove Order was entrusted with this knowledge as a failsafe: if the Ancient Guard was ever compromised,
-        someone outside the order would know where to find the dragons without depending on Ancient Guard
-        infrastructure. Solas was the primary keeper of this information. Relc is now.</p>
-
-        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
-
-        <ul>
-
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei}</strong>
-        — Knows more than he has shared with Relc. He is aware of the Warden&#39;s Wisdom&#39;s existence and
-        importance, though he does not know its specific content. He is watching Relc&#39;s development carefully. If
-        Relc demonstrates readiness (accepting the weight of the Guardian role rather than simply carrying the title),
-        Benkei will share more.</li>
-
-        <li><strong>Elder Sato Hideaki</strong> — Knows the location of the first stone in the sacred grove above
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</li>
-
-        <li><strong>Forest of Spirits faction
-        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.EPAWGqYCrUzYfngV]{Kusa}
-        province)</strong> — Know what Stone 2 is, and accessing it will require a relationship with the faction.</li>
-
-        </ul>
-
-        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
-
-        <ul>
-
-        <li>The next vision arrives at the gold doors or shortly after entering the temple: Solas in the grove above
-        Koriwara, hand resting on a specific stone, dawn light hitting it from the east — points Relc toward going home
-        after the temple</li>
-
-        <li>Benkei sends a message to Relc: he needs to speak before they lose contact; he has something to say that
-        couldn&#39;t be said in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with
-        other ears present</li>
-
-        <li>At the Temple of Kinryu, something inside recognizes Relc&#39;s role as Guardian — the Sacred Grove and the
-        Golden Dragon Clan had a historical relationship that will be relevant within the temple</li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -1033,7 +978,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">side</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -1087,6 +1032,48 @@ pages:
         <p><strong>Current Status</strong> — The party entered the Tenchusan Ren mountain pass. Mai is currently
         traveling with the party inside the temple — she is a civilian in a dungeon and cannot fight.</p>
 
+        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>Mai is not simply a woman in difficult circumstances. She is the estranged daughter-in-law of a minor
+        merchant family in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        region — estranged because she took the infant and left after becoming aware that her husband&#39;s family was
+        involved in illegal activity (specifically: participation in unlicensed Bronze Wood poaching, connected
+        tangentially to the merchant guild operating out of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}). She did not report this and has
+        no intention of reporting it; she simply wants to disappear with her child.</p>
+
+        <p>The &quot;group of men&quot; she feared on the highway were not those people. They were coincidental. But the
+        people she is actually afraid of are real and have noticed she is gone. They are not currently actively
+        searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>Yasutake Mai</strong> — Knows her husband&#39;s family was involved in unlicensed Bronze Wood
+        poaching. Does not realize she knows things she doesn&#39;t know she knows — she lived in that household for
+        three years and heard conversations she didn&#39;t fully understand about the underground Bronze Wood sourcing
+        beneath Seidorin Mori.</li>
+
+        <li><strong>Elder Sato Hideaki
+        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara})</strong> — Knows the
+        community network near Sunsato and could help establish Mai there, if the party makes that connection.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A merchant courier passing through Ayame or Sunsato is asking discreet questions about a young woman with an
+        infant who has gone missing from a family in southern Hana — not aggressive, not official, just persistent</li>
+
+        <li>Mai, once settled, sends a message to the party: she has remembered something from her former household that
+        she thinks might matter to them</li>
+
+        </ul>
+
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
         <p>The infant is a healthy baby boy with no apparent significance beyond being a mother&#39;s reason to flee.
@@ -1095,9 +1082,8 @@ pages:
         doesn&#39;t know she knows.</p>
 
         <p>Sunsato exists near Relc&#39;s home region and is a viable destination. It is small enough that a newcomer
-        will be noticed, but the community near
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} is historically accepting of
-        people who arrive asking for honest work and quiet lives.</p>
+        will be noticed, but the community near Koriwara is historically accepting of people who arrive asking for
+        honest work and quiet lives.</p>
 
         <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
 
@@ -1131,68 +1117,13 @@ pages:
         <li><strong>Elder Sato Hideaki</strong> — introducing Mai to his network earns a favor and plants a useful
         northern contact</li>
 
-        <li><strong>Bronze Wood poaching thread</strong> — long-term seed connecting to Seidorin Mori and the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} merchant guild</li>
+        <li><strong>Bronze Wood poaching thread</strong> — long-term seed connecting to Seidorin Mori and the Kikyo
+        merchant guild</li>
 
         <li><strong>Relc&#39;s home region</strong> — delivering Mai to Sunsato takes the party near Koriwara, where
         Relc&#39;s personal quest (first stone) also points</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>A Mother&#39;s Redemption: Journey to New Beginnings — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
-
-        <p>Mai is not simply a woman in difficult circumstances. She is the estranged daughter-in-law of a minor
-        merchant family in the
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
-        region — estranged because she took the infant and left after becoming aware that her husband&#39;s family was
-        involved in illegal activity (specifically: participation in unlicensed Bronze Wood poaching, connected
-        tangentially to the merchant guild operating out of
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}). She did not report this and has
-        no intention of reporting it; she simply wants to disappear with her child.</p>
-
-        <p>The &quot;group of men&quot; she feared on the highway were not those people. They were coincidental. But the
-        people she is actually afraid of are real and have noticed she is gone. They are not currently actively
-        searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
-
-        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
-
-        <ul>
-
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
-        Mai}</strong> — Knows her husband&#39;s family was involved in unlicensed Bronze Wood poaching. Does not realize
-        she knows things she doesn&#39;t know she knows — she lived in that household for three years and heard
-        conversations she didn&#39;t fully understand about the underground Bronze Wood sourcing beneath Seidorin
-        Mori.</li>
-
-        <li><strong>Elder Sato Hideaki
-        (@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara})</strong> — Knows the
-        community network near Sunsato and could help establish Mai there, if the party makes that connection.</li>
-
-        </ul>
-
-        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
-
-        <ul>
-
-        <li>A merchant courier passing through
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} or Sunsato is asking discreet
-        questions about a young woman with an infant who has gone missing from a family in southern Hana — not
-        aggressive, not official, just persistent</li>
-
-        <li>Mai, once settled, sends a message to the party: she has remembered something from her former household that
-        she thinks might matter to them</li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -1214,7 +1145,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">side</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">active</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -1302,6 +1233,47 @@ pages:
         <p><strong>The unknown language</strong>: What language was the letter written in? Identifying the script would
         narrow down who wrote it and potentially where the described location lies.</p>
 
+        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
+
+        <p>The bandits were not independent treasure hunters. They were hired. The employer is a mid-level operative
+        working for a splinter cell of the Eikyu Yami Clan — Kuroyami no Akuma&#39;s organization, which persists in
+        fragmentary form following the Plague Campaign. The cache is not gold. It is magical in nature.</p>
+
+        <p>The letter was written in an old variant of the Eikyu Yami Clan&#39;s internal cipher language — a
+        constructed language used for operational communication. A scholar of ancient languages or a practitioner
+        familiar with Dark Ages-era arcane traditions would recognize it as related to certain pre-Reformation shadow
+        magic writings.</p>
+
+        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
+
+        <ul>
+
+        <li><strong>The Kitsune at the fox&#39;s den</strong> — An actual fox spirit who has occupied a particular
+        burrow system at a trail junction in the Tenchusan Ren foothills for approximately two hundred years. She knows
+        the junction is used as a landmark in certain documents and finds this mildly amusing. She also knows
+        approximately where the cache is. She is not hostile but is not forthcoming without reason — she can be a source
+        of information or a complication depending on the party&#39;s approach.</li>
+
+        <li><strong>A linguist in Heian&#39;s Hikari Zon</strong> — recognizes the script when shown it and becomes very
+        quiet; she asks where the party found it and seems genuinely frightened by the answer.</li>
+
+        </ul>
+
+        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
+
+        <ul>
+
+        <li>A linguist in Heian recognizes the script and provides context about the Eikyu Yami Clan&#39;s cipher
+        language</li>
+
+        <li>The kitsune at the fox&#39;s den has been waiting for someone worth talking to; she has information
+        she&#39;s been holding for some time</li>
+
+        <li>A second group is following the same letter&#39;s directions — they are further behind the party but moving
+        with purpose and professional competence</li>
+
+        </ul>
+
         <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
         <p>The cache is a sealed container — a lacquered iron box, buried and warded — holding a fragmentary copy of the
@@ -1357,58 +1329,6 @@ pages:
         was arranged by the Amethyst Progenitor</li>
 
         </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Nightfall Ambush: An Unknown Journey — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
-        <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
-
-        <p>The bandits were not independent treasure hunters. They were hired. The employer is a mid-level operative
-        working for a splinter cell of the Eikyu Yami Clan — Kuroyami no Akuma&#39;s organization, which persists in
-        fragmentary form following the Plague Campaign. The cache is not gold. It is magical in nature.</p>
-
-        <p>The letter was written in an old variant of the Eikyu Yami Clan&#39;s internal cipher language — a
-        constructed language used for operational communication. A scholar of ancient languages or a practitioner
-        familiar with Dark Ages-era arcane traditions would recognize it as related to certain pre-Reformation shadow
-        magic writings.</p>
-
-        <h3 id="kg-npc-knowledge" data-section="npc-knowledge">NPC Knowledge</h3>
-
-        <ul>
-
-        <li><strong>The Kitsune at the fox&#39;s den</strong> — An actual fox spirit who has occupied a particular
-        burrow system at a trail junction in the Tenchusan Ren foothills for approximately two hundred years. She knows
-        the junction is used as a landmark in certain documents and finds this mildly amusing. She also knows
-        approximately where the cache is. She is not hostile but is not forthcoming without reason — she can be a source
-        of information or a complication depending on the party&#39;s approach.</li>
-
-        <li><strong>A linguist in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s
-        Hikari Zon</strong> — recognizes the script when shown it and becomes very quiet; she asks where the party found
-        it and seems genuinely frightened by the answer.</li>
-
-        </ul>
-
-        <h3 id="kg-discovery-paths" data-section="discovery-paths">Discovery Paths</h3>
-
-        <ul>
-
-        <li>A linguist in Heian recognizes the script and provides context about the Eikyu Yami Clan&#39;s cipher
-        language</li>
-
-        <li>The kitsune at the fox&#39;s den has been waiting for someone worth talking to; she has information
-        she&#39;s been holding for some time</li>
-
-        <li>A second group is following the same letter&#39;s directions — they are further behind the party but moving
-        with purpose and professional competence</li>
-
-        </ul>
-
-
-        </section>
       markdown: ''
     video:
       controls: true

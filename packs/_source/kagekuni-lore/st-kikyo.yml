@@ -128,7 +128,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -143,7 +143,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Haruto Masashige is building an informant network and has noticed irregularities in the licensing
         records.</p>
@@ -156,12 +156,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Ko&#39;jiri carries both a legitimate letter from Ren Nakamura and a forged version -- a ticking clock.</p>
 
 
         </section>
+
+
+
 
 
 

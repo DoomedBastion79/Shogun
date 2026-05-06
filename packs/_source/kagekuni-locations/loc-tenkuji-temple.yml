@@ -4134,9 +4134,8 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Investigation &amp; Identification</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="Investigation &amp;
+        Identification">
 
         <ul>
 
@@ -4174,9 +4173,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Check Results</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Check Results">
 
         <p><strong>The Scroll Case — DC 12 Investigation:</strong>
 
@@ -4485,9 +4482,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>The Darkness</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="The Darkness">
 
         <p><strong>Source Identification:</strong></p>
 
@@ -4560,9 +4555,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>How It Works (Star Map)</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="How It Works (Star
+        Map)">
 
         <p>The shaft in the outer northwest wall is angled precisely to admit moonlight at specific lunar positions.
         Under Kagetsu (the largest moon), the full star map renders on the floor. Under Ryugetsu, certain star positions
@@ -4576,9 +4570,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>The Dais Impression</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="The Dais
+        Impression">
 
         <p>The circular coiled impression in the dust was left by the Nagaji Kannushi who inhabits this space. It was
         not meditating in the conventional sense — it was drawn here, instinctively, by something in the stone that
@@ -4590,9 +4583,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Relic Collection (DC 14 Investigation — once darkness lifts)</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Relic Collection
+        (DC 14 Investigation — once darkness lifts)">
 
         <p>The Kannushi gathered and preserved these objects from elsewhere in the temple:</p>
 
@@ -4618,9 +4610,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Star Map — Activates When Darkness Lifts</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Star Map —
+        Activates When Darkness Lifts">
 
         <p>The full ceiling becomes visible and active once darkness ends. Silver and gemstone inlay responds to current
         celestial date. DC 14 Arcana or Nature (10 minutes study) reveals current celestial alignment and sei
@@ -4630,9 +4621,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Mechanical Benefit — Meditation</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Mechanical Benefit
+        — Meditation">
 
         <p>A character who spends a short rest seated on the dais (during a moonlit period, darkness lifted) receives
         the benefits of the <em lang="ja-Latn">Calm Emotions</em> spell upon completing the rest, and has advantage on
@@ -5190,9 +5180,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Cell 3 — Starburst Damage</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Cell 3 — Starburst
+        Damage">
 
         <ul>
 
@@ -5208,9 +5197,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Cell 5 — Swept Clean</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Cell 5 — Swept
+        Clean">
 
         <p>Someone tidied this cell after the fall — older than the Nagaji&#39;s arrival. Platform moved deliberately,
         replaced; nothing beneath it now. Intentionally unresolved — possible connection to Tomohiro.</p>
@@ -5219,9 +5207,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Cell 6 — Nagaji-Searched / Planetary Gear Assembly</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Cell 6 —
+        Nagaji-Searched / Planetary Gear Assembly">
 
         <p>DC 13 Investigation locates the <strong>planetary gear assembly</strong> — seven interlocking bronze rings of
         graduated size, partially disassembled, discarded in debris under overturned platform. The rings are nested
@@ -5236,9 +5223,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>The Sealed Room — Senior Priests&#39; Quarters</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="The Sealed Room —
+        Senior Priests&#39; Quarters">
 
         <p>The priests who sealed themselves in were not hiding — they were staying. They had made their peace and chose
         not to participate in the violence. Four sleeping platforms, each occupied by skeletal remains — hands folded,
@@ -5272,9 +5258,8 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Evidence of the Nagaji</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="Evidence of the
+        Nagaji">
 
         <p>Two of the individual cells (including Cell 6) show recent disturbance — the dust displaced, a pallet dragged
         aside to reveal the floor. The Nagaji have been searching these rooms. What they were looking for is unclear,
@@ -6567,9 +6552,8 @@ pages:
 
         </blockquote>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Plinth Inscription</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="Plinth
+        Inscription">
 
         <h2 id="kg-the-inscription" data-section="the-inscription">THE INSCRIPTION</h2>
 
@@ -8173,9 +8157,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Pre-Chamber Hints</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="Pre-Chamber Hints">
 
         <h3 id="kg-layered-discovery-pre-chamber-hints" data-section="layered-discovery-pre-chamber-hints">Layered
         Discovery — Pre-Chamber Hints</h3>
@@ -8414,9 +8396,8 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Key Documents Held Here</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Key Documents Held
+        Here">
 
         <p><strong>This list is the framework — specific scroll-by-scroll detail is intentionally TBD and will be
         expanded as the campaign requires. The categories below are canon; the precise wording, count, and arrangement

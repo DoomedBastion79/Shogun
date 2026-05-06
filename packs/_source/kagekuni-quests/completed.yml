@@ -12,7 +12,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
+      content: >
         <dl class="kg-infobox" data-kind="infobox"><div class="kg-info__row"><dt>Type</dt><dd
         data-field="type">side</dd></div><div class="kg-info__row"><dt>Status</dt><dd
         data-field="status">resolved</dd></div><div class="kg-info__row"><dt>Quest Giver</dt><dd
@@ -66,47 +66,6 @@ pages:
         over revenge, but the fragment of conversation about &quot;the daimyo&#39;s men&quot; suggests they may have
         been operating under someone else&#39;s direction.</p>
 
-        <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
-
-        <p>The merchant operation in
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}&#39;s Ichiba Chiku continues. The
-        thieves were low-level contractors; losing them is a minor operational hiccup, not a crisis. The
-        &quot;daimyo&#39;s men&quot; reference points to a Clan Kaminari supply transport — suggesting the network has
-        enough intelligence on military logistics to plan around official movements.</p>
-
-        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
-
-        <p>Quest is resolved. The goods were returned. Oshiro is an ally. The remaining loose threads (the surviving
-        thieves, the Heian merchant operation) are background elements available for future use.</p>
-
-        <h3 id="kg-timing" data-section="timing">Timing</h3>
-
-        <p>No active timing pressures. The enterprising thief&#39;s inquiries are ongoing but low-priority.</p>
-
-        <h3 id="kg-connections" data-section="connections">Connections</h3>
-
-        <ul>
-
-        <li><strong>Chief Inspector Oshiro Masahiro</strong> — confirmed ally; his positive assessment of the party has
-        practical value in Ayame and the broader
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
-        region</li>
-
-        <li><strong>The enterprising thief</strong> — a loose thread who is gathering information about the party; could
-        be a minor complication or a contact depending on future developments</li>
-
-        <li><strong>Heian&#39;s Ichiba Chiku merchant network</strong> — background criminal operation that could
-        resurface if the party returns to Heian</li>
-
-        </ul>
-
-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Spoils of Justice: The Thieves&#39; Hoard — Hidden Details</strong></p>
-
-        <p><em>discoverable</em></p>
-
         <h3 id="kg-hidden-truth" data-section="hidden-truth">Hidden Truth</h3>
 
         <p>The goods were not random opportunistic theft. The thieves were part of a small, loosely organized network of
@@ -130,12 +89,10 @@ pages:
         be useful to know, or whether there might be money in information about where they went. Not a significant
         threat but is a loose thread.</li>
 
-        <li><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Mly4i17grlghx2a2]{Oshiro
-        Masahiro}</strong> — Official report noted the party by description (not by name at that point) and flagged them
-        as &quot;travelers of apparent good character and law-abiding intent operating in the
+        <li><strong>Oshiro Masahiro</strong> — Official report noted the party by description (not by name at that
+        point) and flagged them as &quot;travelers of apparent good character and law-abiding intent operating in the
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
-        northern highway corridor.&quot; This report is in the Teikoku Keisatsu&#39;s
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} file.</li>
+        northern highway corridor.&quot; This report is in the Teikoku Keisatsu&#39;s Ayame file.</li>
 
         </ul>
 
@@ -150,8 +107,36 @@ pages:
 
         </ul>
 
+        <h3 id="kg-full-truth" data-section="full-truth">Full Truth</h3>
 
-        </section>
+        <p>The merchant operation in Heian&#39;s Ichiba Chiku continues. The thieves were low-level contractors; losing
+        them is a minor operational hiccup, not a crisis. The &quot;daimyo&#39;s men&quot; reference points to a Clan
+        Kaminari supply transport — suggesting the network has enough intelligence on military logistics to plan around
+        official movements.</p>
+
+        <h3 id="kg-resolution-options" data-section="resolution-options">Resolution Options</h3>
+
+        <p>Quest is resolved. The goods were returned. Oshiro is an ally. The remaining loose threads (the surviving
+        thieves, the Heian merchant operation) are background elements available for future use.</p>
+
+        <h3 id="kg-timing" data-section="timing">Timing</h3>
+
+        <p>No active timing pressures. The enterprising thief&#39;s inquiries are ongoing but low-priority.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <ul>
+
+        <li><strong>Chief Inspector Oshiro Masahiro</strong> — confirmed ally; his positive assessment of the party has
+        practical value in Ayame and the broader Hana region</li>
+
+        <li><strong>The enterprising thief</strong> — a loose thread who is gathering information about the party; could
+        be a minor complication or a contact depending on future developments</li>
+
+        <li><strong>Heian&#39;s Ichiba Chiku merchant network</strong> — background criminal operation that could
+        resurface if the party returns to Heian</li>
+
+        </ul>
       markdown: ''
     video:
       controls: true

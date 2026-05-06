@@ -492,7 +492,7 @@ pages:
         no Kazuhiko} unified the province under a single authority following a period of fractious minor-clan
         governance.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -507,7 +507,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Shadowfen Bridge exhibits genuine sei resonance that produces mild disorientation in those who speak
         falsehoods while crossing.</p>
@@ -520,7 +520,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A seimaster from Hoshino To has gone missing after reporting an unusual celestial alignment that matches
         nothing in the records.</p>
@@ -807,7 +807,7 @@ pages:
         opening engagements of the Arashi-Genso war, and neither alliance has installed a replacement. Several smaller
         clans are vying for the position.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -823,7 +823,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The western territories of Hi are home to descendants of the Crimson Clan faction that refused unification,
         organized into loose tribal confederacies preserving forgotten traditions.</p>
@@ -836,7 +836,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Seimasters debate whether Enshiyama&#39;s current activity signals a major eruption building.</p>
 
@@ -1119,7 +1119,7 @@ pages:
         strange encounters -- serpentine figures glimpsed on mountain trails, abandoned buildings showing signs of
         violent disturbance, livestock found dead in unnatural ways.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -1134,7 +1134,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Order of the Black Lily knows the truth about what happened and has made a calculated decision about when
         to reveal it.</p>
@@ -1147,7 +1147,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Hollow Peaks were structures of the Onyx Dragon Clan -- hollow mountains used as nesting and storage
         spaces.</p>
@@ -1160,7 +1160,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The gorge carvings depict something connected to the transformation that befell Clan Gekko.</p>
 
@@ -1447,7 +1447,7 @@ pages:
         magic was absent everywhere else, drew survivors. The communities formed there eventually became the Forest of
         Spirits magical faction that publicly revealed itself during the Plague Campaign.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -1463,7 +1463,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Whispering Flats produce sounds that are not random and not the dead -- they are sei resonance from a
         buried structure beneath.</p>
@@ -1695,7 +1695,7 @@ pages:
         and natural harbors. The province&#39;s current alignment with the Arashi Alliance reflects its maritime
         orientation and the naval capabilities centered at Minato-jo.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -1710,7 +1710,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>One of the three stones referenced in Solas&#39;s cipher poem is near Koriwara.</p>
 
@@ -1722,7 +1722,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Tidal Caves of Umigakure have started showing light from deep within during night compound tides -- a new
         phenomenon.</p>
@@ -1950,7 +1950,7 @@ pages:
         trade routes across the open ocean. The province&#39;s current alignment with the Arashi Alliance reflects its
         strategic naval importance.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -1965,7 +1965,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Nami&#39;s Arashi-aligned governing clan is coordinating with
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}&#39;s
@@ -2161,7 +2161,7 @@ pages:
         constructed on the Hoshimori Plateau. The Dark Ages saw these installations abandoned. The province&#39;s
         strategic importance lies in controlling the mountain routes connecting northern and central Hokori.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -2176,7 +2176,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A seimaster from Hoshimori has been trying to reach
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with urgent information for three
@@ -2388,7 +2388,7 @@ pages:
         conflict. The province&#39;s current Genso Alliance alignment gives the alliance control over a significant
         portion of Hokori&#39;s food supply -- a fact with profound implications for the current political crisis.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -2403,7 +2403,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Great Granaries&#39; contents are being used as an economic weapon in the current conflict.</p>
 

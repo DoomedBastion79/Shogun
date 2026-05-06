@@ -642,6 +642,35 @@ system:
 
       </ol>
 
+      <h3 id="kg-campaign-integration-notes" data-section="campaign-integration-notes">Campaign Integration Notes</h3>
+
+      <ul>
+
+      <li>The <strong>Order of the Tranquil Lotus</strong> on Seizan is the canonical home of this class
+
+      in Kagekuni. Elder Benkei is the most prominent practitioner; Sun Wukong is a
+
+      novice delegate.</li>
+
+      <li>The class&#39;s doubled ki pool and &quot;Unlocked Ki&quot; options line up thematically with
+
+      the Tranquil Lotus&#39;s deep meditation practices. The d10 hit die can be justified
+
+      in-setting as the rigorous monastic body conditioning.</li>
+
+      <li><strong>Ways used by established NPCs:</strong> Benkei&#39;s affinities suggest he may be a <em
+      lang="ja-Latn">Ki
+
+      Manipulator</em> or <em lang="ja-Latn">Astral Self</em> practitioner. Final decision TBD by DM.</li>
+
+      <li>The Seizan Guhuza connection (see <code>races/guhuza.md</code>) means many canonical monks
+
+      of the order are Guhuza by race — the species&#39; Int +2, darkvision, and longevity
+
+      dovetail with the class&#39;s scholarly, ki-focused design.</li>
+
+      </ul>
+
       </section>
     chat: ''
   advancement:

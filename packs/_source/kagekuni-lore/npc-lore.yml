@@ -40,7 +40,7 @@ pages:
         of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans
         (Kurohana and Kaminari) are invested in the Gekkō situation — Gekkō is the third independent clan.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -56,7 +56,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -73,7 +73,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -197,7 +197,7 @@ pages:
 
         <p>Present at mission briefing in Tensho no Mon. Met the party alongside Taisho Hideo Nakamura.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -212,7 +212,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -228,7 +228,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -340,7 +340,7 @@ pages:
         <p>Met the party at The Moonlit Garden in Heian. Sun Wukong traveled with Benkei from Kazehama before receiving
         his own assignment. Benkei has things to say to Relc that couldn&#39;t be said with other ears around.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -355,7 +355,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -371,7 +371,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -548,7 +548,7 @@ pages:
         Nakamura}&#39;s offer of the Summons and Conditional Pardon. Their initial interaction was adversarial but
         professional. Can become a staunch ally to those who prove their integrity.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -566,7 +566,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -581,7 +581,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -712,7 +712,7 @@ pages:
         <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
         before departing. He has not told Relc everything he knows.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -728,7 +728,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -747,7 +747,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -917,7 +917,7 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
         Senzai} during their mission briefing.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -933,7 +933,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -948,7 +948,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -1079,7 +1079,7 @@ pages:
         <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
         interact with.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -1094,7 +1094,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -1110,7 +1110,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -1299,6 +1299,28 @@ pages:
 
         <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
+        <p><strong>Quest Seeds</strong></p>
+
+        <p><strong>[QUEST SEED]</strong> Asking the guardian her name is the gate to unsealing her identity. If she is
+        asked at any point during the chamber&#39;s events, she gives her name and a single self-defining truth at her
+        watch&#39;s end. If she is not asked, her name is lost — the party may collect breadcrumbs but never confirm the
+        connection. The asking is the closure.</p>
+
+        <p><strong>[QUEST SEED]</strong> <em lang="ja-Latn">Hoshimori-class oaths</em> (per the lower-archive inventory)
+        imply other Brood Sanctum sites — other guardians, other charges. None are confirmed to exist. If the campaign
+        develops the Progenitor / dragon-bloodline arc further, additional Hoshimori-bound guardians could surface as
+        long-dormant allies or cautionary mirrors.</p>
+
+
+        </section>
+
+
+
+
+
+
+        <section class="secret kg-secret-sealed" data-kind="sealed">
+
         <p><strong>Records &amp; References</strong></p>
 
         <p>Several scattered references in temple archives and Golden Dragon Clan oral tradition gesture at the
@@ -1329,28 +1351,6 @@ pages:
         lang="ja-Latn">&quot;we&quot;</em> includes a person who did not leave.</li>
 
         </ul>
-
-
-        </section>
-
-
-
-
-
-
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Quest Seeds</strong></p>
-
-        <p><strong>[QUEST SEED]</strong> Asking the guardian her name is the gate to unsealing her identity. If she is
-        asked at any point during the chamber&#39;s events, she gives her name and a single self-defining truth at her
-        watch&#39;s end. If she is not asked, her name is lost — the party may collect breadcrumbs but never confirm the
-        connection. The asking is the closure.</p>
-
-        <p><strong>[QUEST SEED]</strong> <em lang="ja-Latn">Hoshimori-class oaths</em> (per the lower-archive inventory)
-        imply other Brood Sanctum sites — other guardians, other charges. None are confirmed to exist. If the campaign
-        develops the Progenitor / dragon-bloodline arc further, additional Hoshimori-bound guardians could surface as
-        long-dormant allies or cautionary mirrors.</p>
 
 
         </section>
@@ -1540,7 +1540,7 @@ pages:
 
         <p>No contact established.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -1597,7 +1597,7 @@ pages:
 
         <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -1612,7 +1612,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -1628,7 +1628,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -1826,7 +1826,7 @@ pages:
         Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are
         potentially useful going forward.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -1843,7 +1843,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -1861,7 +1861,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -1992,7 +1992,7 @@ pages:
         Nakamura}. Dian Wei received sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan
         daimyo share the Kazuhiko name, which can cause confusion.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2008,7 +2008,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -2026,7 +2026,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -2142,7 +2142,7 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status
         depends on completing the mission assigned through Ren Nakamura&#39;s authority.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2159,7 +2159,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -2176,7 +2176,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -2326,7 +2326,7 @@ pages:
         the next expected vision is at the gold doors or shortly after entering the Temple of Kinryū (Solas in the grove
         above Kōriwara, hand on a specific stone, dawn light from the east).</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2342,7 +2342,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -2360,7 +2360,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 
@@ -2512,7 +2512,7 @@ pages:
 
         <p>No direct contact established. The party passed through Ayame during their transit to the mountains.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2621,7 +2621,7 @@ pages:
 
         <p>The party carries the Imperial Seal he issued on behalf of Clan Kurohana.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2738,7 +2738,7 @@ pages:
 
         <p>No contact established.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2813,7 +2813,7 @@ pages:
         Temple of Kinryū with the party — a civilian in a dungeon. She cannot fight. She needs protection or a
         defensible position during encounters. Her presence affects the party&#39;s tactical decisions and roleplay.</p>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
 
@@ -2829,7 +2829,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
 
@@ -2844,7 +2844,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Quest Seeds</strong></p>
 

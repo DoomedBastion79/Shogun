@@ -94,6 +94,26 @@ system:
 
         <p>Present at mission briefing in Tensho no Mon. Met the party alongside Taisho Hideo Nakamura.</p>
 
+        <h3 id="kg-true-nature" data-section="true-nature">True Nature</h3>
+
+        <p>Member of the Elven Council. Suspects some council members are corrupt and misusing resources. Quietly
+        investigating on his own.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Member of the Elven Council — a body with significant but largely unseen influence. Has merchant guild
+        connections through his role as Provisions Commissioner. Skilled mediator with access to maps and logistical
+        support.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span> Needs
+        discreet help investigating Elven Council corruption; has merchant guild connections; can provide maps and
+        logistical support; skilled mediator who could be a valuable ally.</div>
+
+
+
+
         <h3 id="kg-campaign-secrets" data-section="campaign-secrets">Campaign Secrets</h3>
 
         <p>The Elven Council corruption investigation is a thread that could connect to broader political machinations.

@@ -493,11 +493,11 @@ system:
         <p>Animal Friendship (snakes only), Guidance, Mage Hand, Message, Suggestion, Hold Person, Invisibility</p>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
         <p><strong>Nature</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em>undefined</em></p>
 
         <p>A zasu is classified as a monstrosity rather than a humanoid — its pact magic has physically transformed it,
         granting darkvision out to 120 feet and immunity to poison. It has more in common with a yuan-ti abomination
@@ -506,11 +506,11 @@ system:
 
         </section>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-sealed">
 
         <p><strong>Merrshaulk</strong></p>
 
-        <p><em>discoverable</em></p>
+        <p><em>undefined</em></p>
 
         <p>The name &#39;Merrshaulk&#39;s Slumber&#39; references an entity of serpentine power. Whether this is the
         same being as the yuan-ti god or a distinct Kagekuni entity remains unclear.</p>

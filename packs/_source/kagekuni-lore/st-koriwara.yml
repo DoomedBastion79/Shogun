@@ -65,7 +65,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -80,7 +80,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</p>
 
@@ -92,12 +92,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A stranger recently arrived in Koriwara asking questions about Relc.</p>
 
 
         </section>
+
+
+
 
 
 

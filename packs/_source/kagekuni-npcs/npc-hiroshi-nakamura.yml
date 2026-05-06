@@ -95,6 +95,24 @@ system:
         <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
         interact with.</p>
 
+        <h3 id="kg-true-nature" data-section="true-nature">True Nature</h3>
+
+        <p>His public persona — calm, peace-loving, wise — is a deliberate mask of exceptional consistency. His warmth
+        is his most effective weapon.</p>
+
+        <h3 id="kg-connections" data-section="connections">Connections</h3>
+
+        <p>Brother of Taisho Hideo Nakamura. Their sibling relationship gives him both access and cover.</p>
+
+        <h3 id="kg-quest-seeds" data-section="quest-seeds">Quest Seeds</h3>
+
+        <div class="kg-quest-seed" data-kind="quest-seed"><span class="kg-quest-seed__label">QUEST SEED</span>
+        Hiroshi&#39;s true nature, once discovered, represents a massive intelligence find — the Shugo of the imperial
+        capital is a traitor.</div>
+
+
+
+
         <h3 id="kg-campaign-secrets" data-section="campaign-secrets">Campaign Secrets</h3>
 
         <p>Hiroshi Nakamura is an active traitor conspiring against Clan Kaminari. His primary driver is personal

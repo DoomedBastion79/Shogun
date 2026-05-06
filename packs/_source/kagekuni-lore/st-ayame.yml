@@ -140,7 +140,7 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Details</strong></p>
 
@@ -154,7 +154,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Tenchusan Ren pass approach is under more surveillance than it appears.</p>
 
@@ -166,12 +166,15 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Mountain guides have been returning from upper-route jobs shaken and unwilling to specify what they saw.</p>
 
 
         </section>
+
+
+
 
 
 
