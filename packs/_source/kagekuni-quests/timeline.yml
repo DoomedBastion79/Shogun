@@ -112,18 +112,9 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Stellar Decline Begins</strong></p>
-
-        <p><em>discoverable</em></p>
-
+      content: >
         <p><strong>~12605</strong></p><p>The three-star system begins its long separation. Sei output diminishes
         gradually. Scholars record unusual celestial phenomena but do not yet understand the pattern.</p>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -193,18 +184,9 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>The Great Aphelion — Nadir</strong></p>
-
-        <p><em>discoverable</em></p>
-
+      content: >
         <p><strong>~14344</strong></p><p>All three stars reach maximum distance simultaneously. The nadir of the dark
         ages. Sei is at its lowest point. Population has fallen by nearly half.</p>
-
-
-        </section>
       markdown: ''
     video:
       controls: true
@@ -250,18 +232,9 @@ pages:
     image: {}
     text:
       format: 1
-      content: >-
-        <section class="secret kg-secret-discoverable">
-
-        <p><strong>Dawn — First Star Returns</strong></p>
-
-        <p><em>discoverable</em></p>
-
+      content: >
         <p><strong>~15883</strong></p><p>Susanoo returns to reliable visibility. The dark ages formally end. Water magic
         and healing begin to strengthen.</p>
-
-
-        </section>
       markdown: ''
     video:
       controls: true

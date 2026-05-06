@@ -1847,9 +1847,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -2846,9 +2844,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -3836,9 +3832,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -4452,9 +4446,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -4812,9 +4804,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -5152,9 +5142,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -5574,9 +5562,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
@@ -5950,9 +5936,7 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <p>Refer to <code>rm-observatory-repair-mechanics</code> § Stage 1 — Assessment for the entry-point checks (DC
         12 Investigation/Arcana, DC 14 History, DC 14 Tinker&#39;s/Smith&#39;s Tools).</p>
@@ -8460,9 +8444,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable" data-kind="discoverable">
-
-        <p><strong>Discoveries</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="Discoveries">
 
         <ul>
 
