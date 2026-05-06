@@ -259,6 +259,25 @@
   margin-top: 0.5rem;
 }
 
+/* GM-side "Tier N" badge — multi-tier discoveries only. Lives on the DM
+   title <p> so the GM can see the rung at a glance; intentionally NOT on
+   the player section, since the player side must not leak how many tiers
+   of information exist beyond what they already know. */
+.kg-discovery__dm-title[data-tier-count]:not([data-tier-count="1"])::before {
+  content: "Tier " attr(data-tier-index);
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #e08e8e;
+  background: rgba(193, 74, 74, 0.16);
+  border: 1px solid rgba(193, 74, 74, 0.45);
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
 /* Activation line (skill-check / passive / interaction / ...) — readable
    on dark themes (was too dark previously). */
 .kg-discovery__activation {
@@ -329,23 +348,6 @@
   color: #9be09a;
 }
 
-/* GM-side "Tier N" badge — rendered next to the player block when this is
-   a multi-tier discovery, so the GM can tell at a glance which rung this is.
-   Single-tier discoveries (data-tier-count="1") get no badge. */
-.kg-discovery-player[data-tier-count]:not([data-tier-count="1"])::before {
-  content: "Tier " attr(data-tier-index);
-  display: inline-block;
-  padding: 0.05rem 0.45rem;
-  margin-right: 0.5rem;
-  font-size: 0.65rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #d4a64a;
-  background: rgba(212, 166, 74, 0.16);
-  border: 1px solid rgba(212, 166, 74, 0.45);
-  border-radius: 3px;
-  vertical-align: middle;
-}
 
 /* ---------------------------------------------------------------------------
    Sealed-kind variants (see assistant/tools/discovery-spec.md §9)

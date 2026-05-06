@@ -3150,8 +3150,8 @@ pages:
 
         </ul>
 
-        <p class="kg-discovery__dm-title"><strong>DM · Shimmer on the Surface · Shimmer Cue — Charge
-        Readiness</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Shimmer on the Surface ·
+        Shimmer Cue — Charge Readiness</strong></p>
 
         <p class="kg-discovery__activation">Passive Perception 12</p>
 
@@ -3171,8 +3171,8 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title"><strong>DM · How the Magic Runs · Recharge Cadence &amp; Charge
-        Estimation</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>How the Magic Runs · Recharge
+        Cadence &amp; Charge Estimation</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Arcana DC 13</p>
 
@@ -3188,10 +3188,10 @@ pages:
 
         <p><strong>How the Pools Run</strong></p>
 
-        <p>The east pool and the west pool are independent magical reservoirs. Each can give a finite number of times
-        before it goes still — and the giving is paced: a pool&#39;s shimmer dies after a draw, and takes a span of
-        perhaps a minute to return. Two pools means the party can stage themselves to draw from one while the other
-        readies.</p>
+        <p>Watching the pools while drawing from them, you notice the rhythm. After a draw the surface stills for a span
+        — perhaps a minute — before the shimmer returns and the water is willing again. The east pool and the west pool
+        keep their own time; they do not share a reserve. Two pools means the party can stage themselves to draw from
+        one while the other readies.</p>
 
         <p><strong>Healing is automatic.</strong> A creature standing in or touching a charged pool when it gives is the
         recipient — no action, no ritual, no prayer required. Submerging a hand or stepping in is enough. Entry into a
@@ -3220,7 +3220,8 @@ pages:
 
         </table>
 
-        <p class="kg-discovery__dm-title"><strong>DM · The Rituals · Tier 1 · Ritual Tradition Recognized</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="2"><strong>The Rituals · Tier 1 · Ritual
+        Tradition Recognized</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Religion DC 14</p>
 
@@ -3232,7 +3233,7 @@ pages:
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-rituals" data-tier-key="rituals-exist" data-tier-index="1" data-tier-count="2">
 
-        <p><strong>A Tradition of Rites · Tier 1</strong></p>
+        <p><strong>A Tradition of Rites</strong></p>
 
         <p>These pools are familiar in form. Holy pools of this tradition were used for more than open healing — there
         were rituals associated with them, with specific invocations, that did more than what the water gives freely.
@@ -3241,7 +3242,8 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title"><strong>DM · The Rituals · Tier 2 · Full Ritual Specifications</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="2"><strong>The Rituals · Tier 2 · Full
+        Ritual Specifications</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Religion DC 18</p>
 
@@ -3258,7 +3260,7 @@ pages:
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-rituals" data-tier-key="ritual-specifics" data-tier-index="2" data-tier-count="2">
 
-        <p><strong>The Two Rituals · Tier 2</strong></p>
+        <p><strong>The Two Rituals</strong></p>
 
         <p><strong>Ritual 1 — Condition Removal.</strong> A formal invocation, spoken at the pool&#39;s edge with hands
         resting on the water. The water can lift the burden of poison, blindness, deafness, or paralysis from a willing
@@ -3322,9 +3324,11 @@ pages:
 
         <p class="kg-discovery__activation">Skill Check: Investigation DC 15</p>
 
-        <p>Three coins (50 gp each as antiques to a collector — face value 1 gp), one ceramic vessel (no immediate value
-        but ties to whichever clan sigil the DM plants), one silk fragment which is a handout opportunity. The
-        silk&#39;s text is open — bridge to whatever Old Imperial thread is currently active.</p>
+        <p>Three bronze coins (50 gp each as antiques to a collector — face value 1 gp; the coins date to the First
+        Golden Age, recoverable on a History check or appraisal). One ceramic vessel — no immediate value, but ties to
+        whichever clan sigil the DM plants. One silk fragment, which is a handout opportunity. The silk&#39;s text is
+        open — bridge to whatever Old Imperial thread is currently active. The translation of the silk fragment should
+        be its own discovery (Linguistics or Religion check, or carried back to a scholar).</p>
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fallen-offerings"
@@ -3332,9 +3336,9 @@ pages:
 
         <p><strong>The Fallen Offerings</strong></p>
 
-        <p>Among the debris of collapsed offering tables you find, half-buried: three bronze coins minted during the
-        First Golden Age (worth 50 gp each as antiques to a collector); a ceramic incense vessel cracked but intact,
-        bearing a faded clan sigil; and a fragment of silk embroidered with Old Imperial text.</p>
+        <p>Among the debris of collapsed offering tables you find, half-buried: three bronze coins, a ceramic incense
+        vessel cracked but intact and bearing a faded clan sigil, and a fragment of silk embroidered with characters in
+        an old form of writing.</p>
 
 
         </section>
@@ -3354,8 +3358,8 @@ pages:
 
         </ul>
 
-        <p class="kg-discovery__dm-title"><strong>DM · Spotted at the Bottom of the West Pool · Crystal Visible Through
-        Clear Water</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Spotted at the Bottom of the
+        West Pool · Crystal Visible Through Clear Water</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Investigation DC 14</p>
 
@@ -3377,8 +3381,8 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title"><strong>DM · Recognising the Crystal as a Lens · Susanoo Projection Lens
-        (Observatory Component #1)</strong></p>
+        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Recognising the Crystal as a
+        Lens · Susanoo Projection Lens (Observatory Component #1)</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Arcana DC 13</p>
 
@@ -3432,8 +3436,7 @@ pages:
         dramatically — no glowing, no sound, no proclamation. They simply orient. The carved irises move in their
         settings to face him directly. (Other characters who happen to be watching at the right angle may catch the
         movement.) If Ko&#39;jiri speaks aloud in the statue&#39;s presence, a single sound returns — not words, not
-        language, but a low resonant hum from the stone itself, felt more in the chest than heard with the ears. It is
-        acknowledgment.</p>
+        language, but a low resonant hum from the stone itself, felt more in the chest than heard with the ears.</p>
 
 
         </section>
