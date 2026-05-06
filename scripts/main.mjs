@@ -10,6 +10,7 @@ import { JournalContext } from "./journal-context.mjs";
 import { ChatHandler } from "./chat-handler.mjs";
 import { ProxyClient } from "./proxy-client.mjs";
 import { defineCharacterSheet } from "./sheets/character-sheet-kagekuni.mjs";
+import "./task-checkboxes.mjs";
 
 const MODULE_ID = "kagekuni-assistant";
 const RESOURCES_TEMPLATE = `modules/${MODULE_ID}/templates/actors/resources-panel.hbs`;

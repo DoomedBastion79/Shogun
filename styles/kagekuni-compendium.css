@@ -83,6 +83,8 @@
 }
 .kg-task[data-done="true"]::before { content: "☑"; color: #16a34a; }
 .kg-task[data-done="true"]         { color: #6b7280; text-decoration: line-through; }
+.kg-task[data-task-key]            { cursor: pointer; user-select: none; }
+.kg-task[data-task-key]:hover::before { color: #b45309; }
 
 /* ---- DM secrets blockquote (legacy) ----------------------------------- */
 .kg-dm-secrets {
