@@ -195,3 +195,278 @@
   color: #6b7280;
   font-style: italic;
 }
+
+/* ---------------------------------------------------------------------------
+   Discovery containers (see assistant/tools/discovery-spec.md)
+   --------------------------------------------------------------------------- */
+
+/* Both halves get the secret machinery for free; we just paint visual
+   grouping for the GM. Player clients never see un-revealed blocks. */
+.journal-entry-page :is(.kg-discovery-dm, .kg-discovery-player) {
+  position: relative;
+  border-left: 3px solid;
+  padding: 0.5rem 0.75rem;
+  margin: 0.35rem 0;
+}
+
+/* DM half — red (sealed) accent */
+.kg-discovery-dm {
+  border-left-color: #b13a3a;
+  background: rgba(177, 58, 58, 0.06);
+}
+.kg-discovery-dm > p:first-child strong {
+  color: #7a1f1f;
+  letter-spacing: 0.04em;
+}
+
+/* Player half — amber (un-revealed) accent */
+.kg-discovery-player {
+  border-left-color: #d49a2c;
+  background: rgba(212, 154, 44, 0.08);
+}
+.kg-discovery-player > p:first-child strong {
+  color: #6e4a08;
+  letter-spacing: 0.04em;
+}
+
+/* Once Foundry strips the .secret class on reveal, shift to "shared" green */
+.kg-discovery-player:not(.secret) {
+  border-left-color: #2f6d3a;
+  background: rgba(47, 109, 58, 0.07);
+}
+.kg-discovery-player:not(.secret) > p:first-child strong {
+  color: #1f4a26;
+}
+
+/* Activation line (skill-check / passive / interaction / ...) */
+.kg-discovery__activation {
+  margin: 0.15rem 0 0.5rem 0;
+  font-size: 0.92rem;
+  font-style: italic;
+  color: #4a3a18;
+}
+
+/* GM-side "Tier N" badge — only renders for discoveries with 2+ tiers.
+   Single-tier discoveries (data-tier-count="1") get no badge. */
+.kg-discovery-dm[data-tier-count]:not([data-tier-count="1"])::before {
+  content: "Tier " attr(data-tier-index);
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #7a1f1f;
+  background: rgba(177, 58, 58, 0.12);
+  border: 1px solid rgba(177, 58, 58, 0.35);
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
+/* Discovery index — GM-only sealed list of every discovery in the container */
+.kg-discovery-index {
+  border: 1px dashed #c9b885;
+  background: rgba(201, 184, 133, 0.08);
+  padding: 0.5rem 0.75rem;
+  margin: 0.5rem 0 1rem 0;
+}
+.kg-discovery-index > p:first-child strong {
+  font-size: 0.95rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #6e4a08;
+}
+.kg-discovery-index ul {
+  margin: 0.35rem 0 0 0;
+  padding-left: 1.25rem;
+}
+.kg-discovery-index li {
+  margin: 0.15rem 0;
+  font-size: 0.9rem;
+}
+
+/* Per-discovery summary table — GM-only, multi-tier only.
+   Concise tier ladder (Check / DC / Result) shown above the tier blocks. */
+.kg-discovery-summary {
+  border: 1px solid rgba(122, 31, 31, 0.35);
+  background: rgba(177, 58, 58, 0.04);
+  padding: 0.5rem 0.75rem;
+  margin: 0.5rem 0 0.75rem 0;
+  border-radius: 3px;
+}
+.kg-discovery-summary > p:first-child strong {
+  font-size: 0.92rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #7a1f1f;
+}
+.kg-discovery-summary table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.35rem 0 0 0;
+  font-size: 0.88rem;
+}
+.kg-discovery-summary th,
+.kg-discovery-summary td {
+  padding: 0.3rem 0.5rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  text-align: left;
+  vertical-align: top;
+}
+.kg-discovery-summary th {
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #6e4a08;
+  background: rgba(201, 184, 133, 0.1);
+  border-bottom-color: rgba(122, 31, 31, 0.25);
+}
+.kg-discovery-summary tbody tr:last-child th,
+.kg-discovery-summary tbody tr:last-child td {
+  border-bottom: none;
+}
+
+/* ---------------------------------------------------------------------------
+   Sealed-kind variants (see assistant/tools/discovery-spec.md §9)
+
+   Each `kind:` value renders to a `<section class="secret kg-sealed-<kind>">`.
+   All share base padding/margin/typography; per-kind classes add a left
+   border accent, a tinted background, and a small uppercase category badge
+   so the GM can tell them apart at a glance.
+   --------------------------------------------------------------------------- */
+
+.journal-entry-page [class*="kg-sealed-"] {
+  position: relative;
+  border-left: 3px solid;
+  padding: 0.5rem 0.75rem 0.5rem 0.85rem;
+  margin: 0.5rem 0;
+  border-radius: 2px;
+}
+
+.journal-entry-page [class*="kg-sealed-"] > p:first-child strong {
+  display: inline-block;
+  letter-spacing: 0.04em;
+}
+
+/* GM-side category badge — text taken from data-kind, uppercased */
+.journal-entry-page [class*="kg-sealed-"][data-kind]::before {
+  content: attr(data-kind);
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid;
+  border-radius: 3px;
+  vertical-align: middle;
+  font-weight: 600;
+}
+
+/* 1. Encounter — red (combat) */
+.kg-sealed-encounter {
+  border-left-color: #b13a3a;
+  background: rgba(177, 58, 58, 0.06);
+}
+.kg-sealed-encounter > p:first-child strong { color: #7a1f1f; }
+.kg-sealed-encounter[data-kind]::before {
+  color: #7a1f1f;
+  background: rgba(177, 58, 58, 0.12);
+  border-color: rgba(177, 58, 58, 0.35);
+}
+
+/* 2. Spatial — steel blue (reference) */
+.kg-sealed-spatial {
+  border-left-color: #3a6db1;
+  background: rgba(58, 109, 177, 0.06);
+}
+.kg-sealed-spatial > p:first-child strong { color: #1f3a7a; }
+.kg-sealed-spatial[data-kind]::before {
+  color: #1f3a7a;
+  background: rgba(58, 109, 177, 0.12);
+  border-color: rgba(58, 109, 177, 0.35);
+}
+
+/* 3. VTT Checklist — orange (action items) */
+.kg-sealed-vtt-checklist {
+  border-left-color: #d47a2c;
+  background: rgba(212, 122, 44, 0.07);
+}
+.kg-sealed-vtt-checklist > p:first-child strong { color: #6e3a08; }
+.kg-sealed-vtt-checklist[data-kind]::before {
+  color: #6e3a08;
+  background: rgba(212, 122, 44, 0.12);
+  border-color: rgba(212, 122, 44, 0.35);
+}
+
+/* 4. DM Notes — slate (neutral staging) */
+.kg-sealed-dm-notes {
+  border-left-color: #5a6470;
+  background: rgba(90, 100, 112, 0.07);
+}
+.kg-sealed-dm-notes > p:first-child strong { color: #2e3540; }
+.kg-sealed-dm-notes[data-kind]::before {
+  color: #2e3540;
+  background: rgba(90, 100, 112, 0.12);
+  border-color: rgba(90, 100, 112, 0.35);
+}
+
+/* 5. Scene — purple (theatrical) */
+.kg-sealed-scene {
+  border-left-color: #7a3ab1;
+  background: rgba(122, 58, 177, 0.06);
+}
+.kg-sealed-scene > p:first-child strong { color: #4a1f7a; }
+.kg-sealed-scene[data-kind]::before {
+  color: #4a1f7a;
+  background: rgba(122, 58, 177, 0.12);
+  border-color: rgba(122, 58, 177, 0.35);
+}
+
+/* 6. Campaign — deep navy (sealed plot) */
+.kg-sealed-campaign {
+  border-left-color: #1f2a5a;
+  background: rgba(31, 42, 90, 0.07);
+}
+.kg-sealed-campaign > p:first-child strong { color: #0f1638; }
+.kg-sealed-campaign[data-kind]::before {
+  color: #0f1638;
+  background: rgba(31, 42, 90, 0.12);
+  border-color: rgba(31, 42, 90, 0.35);
+}
+
+/* 7. Pacing — teal (timing/flow) */
+.kg-sealed-pacing {
+  border-left-color: #2c8a8a;
+  background: rgba(44, 138, 138, 0.06);
+}
+.kg-sealed-pacing > p:first-child strong { color: #134c4c; }
+.kg-sealed-pacing[data-kind]::before {
+  color: #134c4c;
+  background: rgba(44, 138, 138, 0.12);
+  border-color: rgba(44, 138, 138, 0.35);
+}
+
+/* 8. Open Items — yellow (incomplete / TBD) */
+.kg-sealed-open-items {
+  border-left-color: #c9a92c;
+  background: rgba(201, 169, 44, 0.08);
+}
+.kg-sealed-open-items > p:first-child strong { color: #6e5a08; }
+.kg-sealed-open-items[data-kind]::before {
+  color: #6e5a08;
+  background: rgba(201, 169, 44, 0.14);
+  border-color: rgba(201, 169, 44, 0.4);
+}
+
+/* 9. Connections — green (links/cross-refs) */
+.kg-sealed-connections {
+  border-left-color: #2f8a3a;
+  background: rgba(47, 138, 58, 0.07);
+}
+.kg-sealed-connections > p:first-child strong { color: #154c1f; }
+.kg-sealed-connections[data-kind]::before {
+  color: #154c1f;
+  background: rgba(47, 138, 58, 0.12);
+  border-color: rgba(47, 138, 58, 0.35);
+}

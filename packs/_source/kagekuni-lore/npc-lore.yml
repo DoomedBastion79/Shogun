@@ -1529,9 +1529,11 @@ pages:
         are her release; their giving is what lets her fade. Full offering structure documented in the chamber writeup
         (<a href="../Obsidian/dm/brood-sanctum-redesign.md">Obsidian/dm/brood-sanctum-redesign.md</a>).</p>
 
-        <p><strong>On failure.</strong> If the trial fails, she remains. She does not depart. She bears witness without
-        bitterness and waits for the next attempt. She does not offer gifts on failure — the gifts are tied to the
-        wyrmling&#39;s bow, which only happens on success.</p>
+        <p><strong>On failure.</strong> If
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.3zJVvOaJgg0w8leo]{the
+        trial} fails, she remains. She does not depart. She bears witness without bitterness and waits for the next
+        attempt. She does not offer gifts on failure — the gifts are tied to the wyrmling&#39;s bow, which only happens
+        on success.</p>
 
         <p><strong>Combat, last resort.</strong> If the party crosses into State A and persists in destructive behavior,
         she fights. Stat block TBD — calibrated at session-time to the party&#39;s level when the chamber comes into
