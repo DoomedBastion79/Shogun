@@ -95,11 +95,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The Star River has recently shown anomalies -- unusual turbidity, temperature changes, and dead fish with
         injuries inconsistent with normal predation.</p>
@@ -112,9 +110,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>A figure has been observed watching the village from the far riverbank at night.</p>
 
@@ -123,11 +119,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Sutariba&#39;s Upper Reach</strong>
 
@@ -149,11 +143,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Investigation of the river anomalies could lead to discovery of Nagaji presence in the mountains above</p>
 
@@ -165,9 +157,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The figure watching from across the river -- Nagaji scout, or something else?</p>
 

@@ -65,11 +65,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Elder Sato knows far more than he has shared with Relc about the Order of the Sacred Grove, the Order of the
         Ancient Guard, and Solas Evergreen.</p>
@@ -82,9 +80,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>One of the three stones referenced in Solas&#39;s cipher poem is in the sacred grove above the village.</p>
 
@@ -96,9 +92,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>A stranger recently arrived in Koriwara asking questions about Relc.</p>
 
@@ -107,11 +101,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Sato&#39;s Full Knowledge</strong>
 
@@ -141,11 +133,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Sato sends word through a traveling merchant heading toward Heian: he needs to speak with Relc; something has
         happened near the sacred grove</p>
@@ -158,9 +148,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A stranger arrived asking questions about Relc and where they had gone; Sato gave nothing away but is
         concerned about whether Relc is being watched</p>

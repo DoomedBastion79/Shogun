@@ -86,11 +86,9 @@ pages:
         <p>None specifically documented.</p>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The Shadowfen Bridge exhibits a genuine sei phenomenon -- a low-level resonance that produces mild
         disorientation in those who speak falsehoods while crossing.</p>
@@ -103,9 +101,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>The marsh forest north of the bridge contains remnants of an ancient, consumed structure.</p>
 
@@ -114,11 +110,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Shadowfen Bridge</strong>
 
@@ -142,11 +136,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Investigation of the Shadowfen Bridge sei phenomenon could reveal the ancient structure beneath the marsh</p>
 
@@ -158,9 +150,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Local hunters&#39; avoidance of the &quot;wrong-feeling&quot; area could lead to discovery of pre-imperial
         ruins</p>

@@ -119,6 +119,45 @@
   margin: 0.75em 0;
 }
 
+/* ---- Generic category-tag badge ---------------------------------------
+   Every secret block carries a `data-kind` attribute. CSS renders the kind
+   as an uppercased badge prefixed to the block, replacing the redundant
+   "<strong>{label}</strong>" header line. Per-category color overrides
+   live below — this rule provides the shape only.
+
+   Hyphenated kinds (dm-notes, vtt-checklist, open-items) render as
+   "DM-NOTES", "VTT-CHECKLIST", "OPEN-ITEMS". The `text-transform: uppercase`
+   takes care of casing — author content keeps lowercase. */
+.journal-entry-page section.secret[data-kind] {
+  position: relative;
+}
+.journal-entry-page section.secret[data-kind]::before {
+  content: attr(data-kind);
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  border: 1px solid;
+  border-radius: 3px;
+  vertical-align: middle;
+  font-weight: 600;
+}
+
+/* Default (legacy) tier badge colors — apply when there's no kind-specific
+   override below. Sealed → red; discoverable → amber. */
+.kg-secret-sealed[data-kind="sealed"]::before {
+  color: #e08e8e;
+  background: rgba(177, 58, 58, 0.16);
+  border-color: rgba(177, 58, 58, 0.45);
+}
+.kg-secret-discoverable[data-kind="discoverable"]::before {
+  color: #e8a868;
+  background: rgba(217, 119, 6, 0.16);
+  border-color: rgba(217, 119, 6, 0.45);
+}
+
 /* ---- Japanese glossary hover annotations ------------------------------ */
 .kg-jp {
   text-decoration: underline dotted;
@@ -229,6 +268,12 @@
   text-transform: uppercase;
   color: #d4a64a;
 }
+/* Category badge — amber, matches the dashed-border identity */
+.kg-discovery-index[data-kind]::before {
+  color: #d4a64a;
+  background: rgba(201, 168, 87, 0.18);
+  border-color: rgba(201, 168, 87, 0.5);
+}
 .kg-discovery-index ul {
   margin: 0.35rem 0 0.5rem 0;
   padding-left: 1.25rem;
@@ -338,6 +383,13 @@
   color: #e8c878;
   letter-spacing: 0.04em;
 }
+/* Category badge — amber pre-reveal, swaps to green once Foundry strips
+   the .secret class on share. */
+.kg-discovery-player[data-kind]::before {
+  color: #e8c878;
+  background: rgba(212, 166, 74, 0.18);
+  border-color: rgba(212, 166, 74, 0.5);
+}
 
 /* Once Foundry strips the .secret class on reveal, shift to "shared" green. */
 .kg-discovery-player:not(.secret) {
@@ -346,6 +398,11 @@
 }
 .kg-discovery-player:not(.secret) > p:first-child strong {
   color: #9be09a;
+}
+.kg-discovery-player:not(.secret)[data-kind]::before {
+  color: #9be09a;
+  background: rgba(109, 186, 106, 0.18);
+  border-color: rgba(109, 186, 106, 0.5);
 }
 
 
@@ -366,25 +423,9 @@
   border-radius: 2px;
 }
 
-.journal-entry-page [class*="kg-sealed-"] > p:first-child strong {
-  display: inline-block;
-  letter-spacing: 0.04em;
-}
-
-/* GM-side category badge — text taken from data-kind, uppercased */
-.journal-entry-page [class*="kg-sealed-"][data-kind]::before {
-  content: attr(data-kind);
-  display: inline-block;
-  padding: 0.05rem 0.45rem;
-  margin-right: 0.5rem;
-  font-size: 0.65rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  border: 1px solid;
-  border-radius: 3px;
-  vertical-align: middle;
-  font-weight: 600;
-}
+/* Per-kind color overrides for the generic .secret[data-kind]::before badge
+   live in the kind-specific blocks below. The badge shape rule lives once
+   in the "Generic category-tag badge" section earlier in this file. */
 
 /* Color tokens are tuned to read on BOTH the parchment-light theme and the
    default dark Foundry theme. Strong-tag colors land in the L*60-65 range

@@ -40,11 +40,9 @@ pages:
         of the clan. The seal requests assistance investigating Gekkō Clan&#39;s silence. Both independent clans
         (Kurohana and Kaminari) are invested in the Gekkō situation — Gekkō is the third independent clan.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Doubts the accusations against Dian&#39;s father regarding the emperor&#39;s assassination. Actively
         investigating the true culprits behind the emperor&#39;s death. Has allies in rival clans who are sympathetic to
@@ -58,11 +56,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Allied with sympathetic elements across clan boundaries in pursuit of the truth behind the emperor&#39;s
         assassination. His investigation parallels that of
@@ -77,11 +73,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> May send the party to gather evidence exonerating Dian&#39;s father; can
         provide strategic resources and insights for the investigation.</p>
@@ -94,11 +88,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The convergence of both independent clan daimyo independently doubting the official assassination narrative
         is politically explosive. If this alignment became public, it would fundamentally shift the political
@@ -112,11 +104,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Emperor&#39;s assassination investigation — active; truth unknown</p>
 
@@ -128,9 +118,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to Dian Wei&#39;s personal arc</p>
 
@@ -142,9 +130,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Gekkō investigation — initiated the cross-clan seal requesting cooperation</p>
 
@@ -156,9 +142,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Succession crisis implications</p>
 
@@ -213,11 +197,9 @@ pages:
 
         <p>Present at mission briefing in Tensho no Mon. Met the party alongside Taisho Hideo Nakamura.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Member of the Elven Council. Suspects some council members are corrupt and misusing resources. Quietly
         investigating on his own.</p>
@@ -230,11 +212,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Member of the Elven Council — a body with significant but largely unseen influence. Has merchant guild
         connections through his role as Provisions Commissioner. Skilled mediator with access to maps and logistical
@@ -248,11 +228,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Needs discreet help investigating Elven Council corruption; has merchant guild
         connections; can provide maps and logistical support; skilled mediator who could be a valuable ally.</p>
@@ -265,11 +243,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The Elven Council corruption investigation is a thread that could connect to broader political machinations.
         The specifics of the corruption — what resources are being misused and by whom — are undeveloped.</p>
@@ -282,11 +258,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Elven Council corruption — parallel investigation thread</p>
 
@@ -298,9 +272,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Logistical support — as Provisions Commissioner, he controls supply access that could be critical</p>
 
@@ -312,9 +284,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to the party through the mission briefing — he knows what they were sent to do</p>
 
@@ -370,11 +340,9 @@ pages:
         <p>Met the party at The Moonlit Garden in Heian. Sun Wukong traveled with Benkei from Kazehama before receiving
         his own assignment. Benkei has things to say to Relc that couldn&#39;t be said with other ears around.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>His decades of pilgrimages and contemplative life mask a deeper purpose connected to the Order of the Ancient
         Guard.</p>
@@ -387,11 +355,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Joined the Tranquil Lotus at age 16; trained under Master Daizen; decades of pilgrimages; appointed Elder
         Monk. His separate assignment from Sun Wukong&#39;s delegation suggests responsibilities beyond the monastic
@@ -405,11 +371,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Benkei has information for Relc that he could not share with others present —
         this conversation is pending.
@@ -426,11 +390,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Member of the Order of the Ancient Guard (rank TBD). The Ancient Guard is a secret order connected to the
         living dragons — the campaign&#39;s deepest thread. Benkei&#39;s membership connects him to
@@ -450,11 +412,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Order of the Ancient Guard — active member; order compromised by Solas&#39;s death</p>
 
@@ -466,9 +426,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to Relc through Solas Evergreen&#39;s legacy</p>
 
@@ -480,9 +438,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Living dragons secret — the campaign&#39;s deepest thread</p>
 
@@ -494,9 +450,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Information for Relc that requires a private conversation</p>
 
@@ -508,9 +462,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Traveling to Heian — may cross the party&#39;s path again</p>
 
@@ -596,11 +548,9 @@ pages:
         Nakamura}&#39;s offer of the Summons and Conditional Pardon. Their initial interaction was adversarial but
         professional. Can become a staunch ally to those who prove their integrity.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Building his informant network not simply for Kikyo&#39;s local security but because he suspects something
         significant is happening with the Bronze Wood licensing system. He has noticed irregularities in the licensing
@@ -616,11 +566,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Knows ancient Dragonborn rituals potentially crucial to certain quests. His family&#39;s oral tradition
         preserves knowledge from the Golden Dragon Clan&#39;s Dragonborn lineages.</p>
@@ -633,11 +581,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Haruto sends word to the party in
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he has found something in the
@@ -651,11 +597,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Haruto Masashige&#39;s knowledge of ancient Dragonborn rituals is not merely historical curiosity. It
         includes a purification and restoration rite that the Golden Dragon Clan&#39;s Dragonborn lineages preserved — a
@@ -674,11 +618,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Bronze Wood licensing investigation — will eventually expose Ren Nakamura&#39;s merchant guild alliance</p>
 
@@ -690,9 +632,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Ancient Dragonborn restoration rite — directly applicable to reversing the Nagaji transformation</p>
 
@@ -704,9 +644,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Ko&#39;jiri connection — their adversarial first meeting could become a significant alliance</p>
 
@@ -718,9 +656,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Potential danger when his investigation threatens the merchant guild&#39;s interests</p>
 
@@ -776,11 +712,9 @@ pages:
         <p>Advised Relc to leave Kōriwara and journey outward. Blessed Relc&#39;s departure. Relc visited Elder Sato
         before departing. He has not told Relc everything he knows.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>More than a simple village elder. His decades of accumulated knowledge, his connection to the Order of the
         Sacred Grove, and his quiet role as a node in networks that extend far beyond a mountain foothills village give
@@ -794,11 +728,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
         multiple occasions, including with
@@ -815,11 +747,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Sato sends word through a traveling merchant heading toward
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}: he needs to speak with Relc;
@@ -839,11 +769,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Sato knows Solas was Ancient Guard (not just Sacred Grove). He knows what the Ancient Guard is and, broadly,
         what it protects. He has not told Relc because he was following Solas&#39;s instruction to let Relc develop
@@ -868,11 +796,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Relc&#39;s personal quest — the cipher poem&#39;s first stone is in Kōriwara&#39;s sacred grove</p>
 
@@ -884,9 +810,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Solas&#39;s murder — knows the category of killer but not the identity</p>
 
@@ -898,9 +822,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Order of the Ancient Guard knowledge — has not yet shared with Relc</p>
 
@@ -912,9 +834,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Sacred grove disturbance — something has happened he cannot explain</p>
 
@@ -926,9 +846,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Stranger asking about Relc — someone is tracking the party&#39;s druid</p>
 
@@ -940,9 +858,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Yasutake Mai connection — can help establish her in the Sunsato/Kōriwara community</p>
 
@@ -1001,11 +917,9 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
         Senzai} during their mission briefing.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Investigating a traitor within his own ranks. He has narrowed the leak to a small circle of senior staff. He
         may ask the party to carry out intelligence work he cannot assign to his own staff — the request would be framed
@@ -1019,11 +933,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Commands the special operations apparatus of Clan Kaminari. His intelligence resources are significant but
         compromised by the presence of the traitor he is hunting.</p>
@@ -1036,11 +948,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Hideo asks the party to carry out intelligence work he cannot assign to his own
         staff — the request is framed neutrally but suggests he suspects someone close.
@@ -1057,11 +967,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The traitor Hideo is hunting is his own brother,
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
@@ -1077,11 +985,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Traitor investigation — active; Hideo is unaware the traitor is Hiroshi</p>
 
@@ -1093,9 +999,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Party mission handler — debriefing scenes carry significant political weight</p>
 
@@ -1107,9 +1011,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Brother relationship with Hiroshi — the eventual revelation will be devastating</p>
 
@@ -1121,9 +1023,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to the broader succession crisis and Genso Alliance through Hiroshi&#39;s conspiracy</p>
 
@@ -1179,11 +1079,9 @@ pages:
         <p>No direct contact established yet, but as Shugo of Heian he is a significant authority figure the party may
         interact with.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>His public persona — calm, peace-loving, wise — is a deliberate mask of exceptional consistency. His warmth
         is his most effective weapon.</p>
@@ -1196,11 +1094,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Brother of Taisho
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Iul8ZsyqNrfhL4XZ]{Hideo
@@ -1214,11 +1110,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Hiroshi&#39;s true nature, once discovered, represents a massive intelligence
         find — the Shugo of the imperial capital is a traitor.</p>
@@ -1231,11 +1125,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Hiroshi Nakamura is an active traitor conspiring against Clan Kaminari. His primary driver is personal
         ambition — Nakamura family elevation. He is working with the Genso Alliance as his vehicle — Genso is the more
@@ -1257,11 +1149,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Traitor within Kaminari — Hideo is hunting him without knowing it</p>
 
@@ -1273,9 +1163,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Genso Alliance connection — his betrayal ties into the broader war</p>
 
@@ -1287,9 +1175,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Nakamura family ambition — the driving motive</p>
 
@@ -1301,9 +1187,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The eventual brother confrontation — devastating narrative moment</p>
 
@@ -1315,9 +1199,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Succession crisis implications — the Shugo of the capital working against his own clan</p>
 
@@ -1329,11 +1211,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Imperial Assassination — Sealed Reveal</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Hiroshi was the <em lang="ja-Latn">second blade</em> in the Imperial assassination. Dian Wei&#39;s father
         took the emperor&#39;s place in the moment of the first attack and died in the emperor&#39;s robes; the real
@@ -1417,11 +1297,9 @@ pages:
         — challenge, denial, or passage — depends on whether the party has plundered, ignored, or honored the
         temple&#39;s lower floors. She gates access to the Brood Sanctum and its trial.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Records &amp; References</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Several scattered references in temple archives and Golden Dragon Clan oral tradition gesture at the
         guardian&#39;s identity without confirming it. A party that asks her name receives the connection cleanly; a
@@ -1460,11 +1338,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Asking the guardian her name is the gate to unsealing her identity. If she is
         asked at any point during the chamber&#39;s events, she gives her name and a single self-defining truth at her
@@ -1484,11 +1360,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Aya is the priestess who placed the wyrmling&#39;s egg in the Brood Sanctum at the temple&#39;s last hour.
         When the Kinryū order fell during the War of Fractured Banners (~13088), she carried the egg into the chamber,
@@ -1505,11 +1379,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Her awareness model.</strong> She does not actively perceive what passes in the temple. The
         architecture relays positive or negative <em lang="ja-Latn">impressions</em> to her based on how those it
@@ -1547,11 +1419,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The Brood Sanctum trial — gated by her</p>
 
@@ -1563,9 +1433,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The wyrmling bond and the eighth virtue (<em lang="ja-Latn">chūgi</em>) — initiated through her</p>
 
@@ -1577,9 +1445,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Hoshimori-class oath — implies other guardians at other Progenitor-related sites; campaign-thread
         potential</p>
@@ -1592,9 +1458,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Her departure — terminal; once she fades, the chamber&#39;s gating role passes to the temple&#39;s
         foundational architecture alone, and the upper floor becomes freely accessible to any future party</p>
@@ -1676,11 +1540,9 @@ pages:
 
         <p>No contact established.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Building a case against a corrupt rival merchant; gathering evidence of dishonest practices. The specifics of
         this investigation are undeveloped.</p>
@@ -1735,11 +1597,9 @@ pages:
 
         <p>No contact. The party has been assigned to investigate his disappearance and the silence of Clan Gekkō.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Missing. The entire Gekkō Clan has gone silent. The party&#39;s primary mission is to investigate this
         disappearance.</p>
@@ -1752,11 +1612,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Clan Gekkō had a long and close relationship with the Order of the Black Lily, who provided intelligence and
         covert capability in exchange for cover and protection. The clan&#39;s disappearance has severed the Order&#39;s
@@ -1770,11 +1628,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> The full reveal of Masota&#39;s fate is intended to occur at the Monastery of
         the Black Lily in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}.</p>
@@ -1787,11 +1643,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Masota no Gekkō has been transformed into a Nagaji by a dark ritual gone wrong. He underwent the ritual in a
         final attempt to maintain leadership of his people after many clan members were transformed. His current state
@@ -1818,11 +1672,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Central mystery of the current campaign arc</p>
 
@@ -1834,9 +1686,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Nagaji transformation — the party has killed multiple Nagaji without knowing they were transformed Gekkō clan
         members; moral weight of this revelation is pending</p>
@@ -1849,9 +1699,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Temple of Kinryū may contain the reversal documentation</p>
 
@@ -1863,9 +1711,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Order of the Black Lily at Akatsuki holds the full truth and will propose a partnership</p>
 
@@ -1877,9 +1723,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
         Masashige}&#39;s ancient Dragonborn purification/restoration rite is directly applicable to the Nagaji situation
@@ -1982,11 +1826,9 @@ pages:
         Provided a reward. Believed in the party&#39;s innocence or usefulness. His intelligence contacts are
         potentially useful going forward.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>His decision to assist the party was not simply a judgment about their innocence. He had received information
         from his intelligence network suggesting the party&#39;s mission was legitimate and the impoundment was creating
@@ -2001,11 +1843,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Maintains an informant network in Ayame and the surrounding region. Has informants at both the waypoint inn
         (Kin no Chōchin Ryokan) and the outfitter district who log significant travelers and goods movements. This
@@ -2021,11 +1861,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Oshiro sends a discrete message to the party: he has information relevant to
         their mission that he couldn&#39;t share safely in Ayame; he proposes a meeting at the next Michibata up the
@@ -2039,11 +1877,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Oshiro is a potential ongoing intelligence ally — someone who knows which questions to ask and where to find
         answers, even with the Teikoku Keisatsu operating at reduced capacity in the current political vacuum. His
@@ -2060,11 +1896,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Intelligence ally for future information needs</p>
 
@@ -2076,9 +1910,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Knowledge of the Gekkō situation he has not yet shared</p>
 
@@ -2090,9 +1922,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Unidentified group in the pass — potential connection to Nagaji activity, Eikyū Yami, or other threats</p>
 
@@ -2104,9 +1934,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Operating in a political vacuum — the Teikoku Keisatsu&#39;s reduced capacity affects what he can do
         officially</p>
@@ -2164,11 +1992,9 @@ pages:
         Nakamura}. Dian Wei received sealed orders from Daimyo Kazuhiko (Kurohana) — note that both independent clan
         daimyo share the Kazuhiko name, which can cause confusion.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Doubts the accusations against Dian&#39;s father regarding the emperor&#39;s assassination. Actively
         investigating the true culprits behind the emperor&#39;s death. Has allies within rival clans who are
@@ -2182,11 +2008,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Allied with elements in rival clans who share his doubts about the official narrative of the emperor&#39;s
         assassination. His parallel investigation with
@@ -2202,11 +2026,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> May send the party to gather evidence exonerating Dian&#39;s father; possesses
         strategic resources and insights that could advance the assassination investigation.</p>
@@ -2219,11 +2041,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Both Daimyo Kazuhiko (Kaminari) and Daimyo Akihiko (Kurohana) are independently investigating the
         emperor&#39;s assassination — the fact that two of the three independent clans doubt the official narrative is a
@@ -2237,11 +2057,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Emperor&#39;s assassination investigation — active; truth unknown</p>
 
@@ -2253,9 +2071,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to Dian Wei&#39;s personal arc through his father&#39;s accusation</p>
 
@@ -2267,9 +2083,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Succession crisis — as Daimyo of the clan holding the capital, his position on the succession question
         carries enormous weight</p>
@@ -2328,11 +2142,9 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Ko&#39;jiri&#39;s legal status
         depends on completing the mission assigned through Ren Nakamura&#39;s authority.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Subtly working to elevate Clan Minato to equal standing with major clans. Has a secret alliance with a
         powerful merchant guild — exclusive Kikyo trading rights in exchange for financial and political support for
@@ -2347,11 +2159,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The merchant guild he works with is not a Kikyo entity — it is based in Heian with operations across
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
@@ -2366,11 +2176,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Ren Nakamura may contact Ko&#39;jiri separately from the group with an
         additional, unwritten request — something the formal letter couldn&#39;t contain.</p>
@@ -2383,11 +2191,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Nakamura is not villainous by nature — he genuinely believes Clan Minato deserves greater standing — but he
         has made compromises that are beginning to require further compromises to sustain.</p>
@@ -2413,11 +2219,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Ko&#39;jiri&#39;s legal jeopardy through the forged letter</p>
 
@@ -2429,9 +2233,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Bronze Wood / Kinkōkyo underground connection</p>
 
@@ -2443,9 +2245,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Clan Minato&#39;s elevation ambitions</p>
 
@@ -2457,9 +2257,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Merchant guild exploitation of Seidōrin Mori</p>
 
@@ -2471,9 +2269,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.42aqdLe3xEuuPScf]{Haruto
@@ -2530,11 +2326,9 @@ pages:
         the next expected vision is at the gold doors or shortly after entering the Temple of Kinryū (Solas in the grove
         above Kōriwara, hand on a specific stone, dawn light from the east).</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>His death was not natural or accidental. He was killed by someone with either significantly superior
         capability or intimate familiarity — someone he trusted and did not guard against. This points to either a very
@@ -2548,11 +2342,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Connected to
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1sPbOXGo42Ff4Wtc]{Hideaki
@@ -2568,11 +2360,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> The cipher poem (three stones, still water, rising sun, phoenix fern glade)
         leads to the Warden&#39;s Wisdom — protected knowledge about the living dragons. One of the three stones is in
@@ -2590,11 +2380,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Member of the Order of the Ancient Guard. The Ancient Guard protects knowledge about the living dragons — the
         campaign&#39;s deepest secret.</p>
@@ -2618,11 +2406,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Relc&#39;s personal quest — the cipher poem and Warden&#39;s Wisdom</p>
 
@@ -2634,9 +2420,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Solas&#39;s murder investigation — connected to the living dragons secret</p>
 
@@ -2648,9 +2432,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Order of the Ancient Guard — his death has compromised the order</p>
 
@@ -2662,9 +2444,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Spirit visions — ongoing guidance for Relc</p>
 
@@ -2676,9 +2456,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Progenitor hunt — whoever killed Solas is still looking for dragon locations</p>
 
@@ -2734,11 +2512,9 @@ pages:
 
         <p>No direct contact established. The party passed through Ayame during their transit to the mountains.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Has been receiving reports from mountain guide services about unusual activity in the upper pass — disrupted
         trail markers, signs of large encampment at non-standard locations, and two guides who came back from an
@@ -2845,11 +2621,9 @@ pages:
 
         <p>The party carries the Imperial Seal he issued on behalf of Clan Kurohana.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Investigating potential threats and internal corruption within his clan. The specifics of this investigation
         are undeveloped.</p>
@@ -2964,11 +2738,9 @@ pages:
 
         <p>No contact established.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Has quietly sent a sample of an unusual dark lustrous metal found in the deeper mine face to
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} for identification, but the
@@ -3041,11 +2813,9 @@ pages:
         Temple of Kinryū with the party — a civilian in a dungeon. She cannot fight. She needs protection or a
         defensible position during encounters. Her presence affects the party&#39;s tactical decisions and roleplay.</p>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>True Nature</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>She has not fully explained her circumstances or what she was fleeing. Her fear on the highway was genuine —
         she is running from something real, even though the specific group she feared at that moment turned out to be
@@ -3059,11 +2829,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The people she is actually afraid of are real and have noticed she is gone. They are not currently actively
         searching — they are waiting to see if she surfaces somewhere that matters to their operations.</p>
@@ -3076,11 +2844,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Quest Seeds</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>[QUEST SEED]</strong> Safely transport Yasutake Mai and her infant to Sunsato — quest objective
         active.
@@ -3098,11 +2864,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Campaign Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The merchant family she left was involved in Bronze Wood sourcing. She lived in that household for three
         years and heard conversations she didn&#39;t fully understand at the time. If the underground canal source
@@ -3128,11 +2892,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Threads</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>A Mother&#39;s Redemption quest — active; transport to Sunsato</p>
 
@@ -3144,9 +2906,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Bronze Wood connection — she unknowingly carries information relevant to the Seidōrin Mori underground
         source</p>
@@ -3159,9 +2919,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Civilian in a dungeon — her presence in the Temple of Kinryū creates tactical and roleplay considerations</p>
 
@@ -3173,9 +2931,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Connection to Kōriwara/Sato community network</p>
 
@@ -3187,9 +2943,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The people she fled — merchant family connected to Bronze Wood sourcing; watching for her to surface</p>
 

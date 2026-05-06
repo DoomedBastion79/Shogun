@@ -92,11 +92,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The mine has recently started encountering an unusual material in the deeper work face -- not iron, not gold,
         but something with remarkable properties.</p>
@@ -109,9 +107,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>Yamamoto Kenji has quietly sent a sample to Heian for identification.</p>
 
@@ -120,11 +116,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>What the Mine Actually Contains</strong>
 
@@ -150,11 +144,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The mysterious metal could draw unwanted attention from merchant guilds or military factions</p>
 
@@ -166,9 +158,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Kenji needs help identifying the material and deciding how to protect his village&#39;s interests</p>
 

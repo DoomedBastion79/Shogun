@@ -201,11 +201,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The Imperial Palace&#39;s sealed sections contain something found after the Emperor&#39;s death that the
         Kokushi Kyokai does not know how to handle.</p>
@@ -218,9 +216,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>The Moonlit Garden teahouse serves a deeper function as a neutral meeting ground for intelligence
         exchanges.</p>
@@ -233,9 +229,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>Multiple individuals have arrived in Heian with claims to imperial succession.</p>
 
@@ -244,11 +238,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Hiroshi Nakamura -- Traitor in Place</strong>
 
@@ -289,11 +281,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Hideo Nakamura asks the party to carry out intelligence work he cannot assign to his own staff -- suggests he
         suspects someone close</p>
@@ -306,9 +296,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>An unusual request arrives from the sealed section of the Imperial Palace: someone inside has sent a note
         requesting outside contact; the Kokushi Kyokai doesn&#39;t know how this happened</p>
@@ -321,9 +309,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A succession claimant approaches the party specifically, wanting independent witnesses to a document
         verification</p>

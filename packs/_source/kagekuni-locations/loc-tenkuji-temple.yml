@@ -644,11 +644,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Architecture Notes — First Floor</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Temple&#39;s Two States</strong>
 
@@ -715,11 +713,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>ASCII Map</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <pre><code>                                         N
                                                  ↑
@@ -815,11 +811,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Nodes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><em lang="ja-Latn">Detailed room descriptions are in the individual room files under <code>floor-1/</code>.
         Node data here provides spatial and tactical reference.</em></p>
@@ -1109,11 +1103,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Connections</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1156,11 +1148,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Vertical Connections</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <table>
 
@@ -1247,11 +1237,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Chokepoints</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1297,11 +1285,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Sight Lines</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <table>
 
@@ -1455,11 +1441,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Structural / Architecture</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1528,11 +1512,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Vertical Connections</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1554,11 +1536,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Lighting &amp; Atmosphere</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1586,11 +1566,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Interactive Objects &amp; Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1714,11 +1692,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Creature Placement / Tokens</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1749,11 +1725,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Tactical / Environmental Features</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -1891,11 +1865,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -1962,11 +1934,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><em lang="ja-Latn">(No combat encounters in this room under normal circumstances.)</em></p>
 
@@ -1974,11 +1944,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Shadow Corridors</strong>: The space between the freestanding pillars and the tapestried walls
         was architecturally intentional — a processional center path with lateral side-aisles. With the sconces throwing
@@ -2785,11 +2753,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM NOTES — Tapestry Supplement</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Running Two Tracks Naturally</strong>: Do not present this as a skill-check menu. Let players declare
         their approach — &quot;I try to read the thread texture closely&quot; is Arcana on Tapestry II; &quot;I try to
@@ -2903,11 +2869,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -2946,11 +2910,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -2980,11 +2942,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Tactical Significance</strong>: The center intersection is the single most important control point on
         the first floor. A party that holds the intersection controls access to every wing. Conversely, enemies at the
@@ -3103,9 +3063,10 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="statue-warmth">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="statue-warmth"
+        data-kind="discovery">
 
-        <p><strong>The Statue&#39;s Warmth — Discoveries</strong></p>
+        <p><strong>The Statue&#39;s Warmth</strong></p>
 
         <ul>
 
@@ -3122,7 +3083,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="statue-warmth"
-        data-discovery="warmth-presence" data-tier-key="warmth-passive" data-tier-index="1" data-tier-count="1">
+        data-discovery="warmth-presence" data-tier-key="warmth-passive" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>The Statue&#39;s Warmth</strong></p>
 
@@ -3136,9 +3098,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="the-pools">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="the-pools" data-kind="discovery">
 
-        <p><strong>The Pools — Discoveries</strong></p>
+        <p><strong>The Pools</strong></p>
 
         <ul>
 
@@ -3161,7 +3123,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
-        data-discovery="pools-shimmer" data-tier-key="shimmer" data-tier-index="1" data-tier-count="1">
+        data-discovery="pools-shimmer" data-tier-key="shimmer" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>A Shimmer on the Surface</strong></p>
 
@@ -3184,7 +3147,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
-        data-discovery="pools-cadence" data-tier-key="cadence" data-tier-index="1" data-tier-count="1">
+        data-discovery="pools-cadence" data-tier-key="cadence" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>How the Pools Run</strong></p>
 
@@ -3231,7 +3195,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
-        data-discovery="pools-rituals" data-tier-key="rituals-exist" data-tier-index="1" data-tier-count="2">
+        data-discovery="pools-rituals" data-tier-key="rituals-exist" data-tier-index="1" data-tier-count="2"
+        data-kind="player">
 
         <p><strong>A Tradition of Rites</strong></p>
 
@@ -3258,7 +3223,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
-        data-discovery="pools-rituals" data-tier-key="ritual-specifics" data-tier-index="2" data-tier-count="2">
+        data-discovery="pools-rituals" data-tier-key="ritual-specifics" data-tier-index="2" data-tier-count="2"
+        data-kind="player">
 
         <p><strong>The Two Rituals</strong></p>
 
@@ -3277,9 +3243,10 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="fresher-corpses">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="fresher-corpses"
+        data-kind="discovery">
 
-        <p><strong>The Fresher Nagaji Corpses — Discoveries</strong></p>
+        <p><strong>The Fresher Nagaji Corpses</strong></p>
 
         <ul>
 
@@ -3295,7 +3262,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fresher-corpses"
-        data-discovery="defacement-tools" data-tier-key="tools" data-tier-index="1" data-tier-count="1">
+        data-discovery="defacement-tools" data-tier-key="tools" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>The Fresher Nagaji Corpses</strong></p>
 
@@ -3312,9 +3280,10 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="fallen-offerings">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="fallen-offerings"
+        data-kind="discovery">
 
-        <p><strong>The Fallen Offerings — Discoveries</strong></p>
+        <p><strong>The Fallen Offerings</strong></p>
 
         <ul>
 
@@ -3332,7 +3301,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fallen-offerings"
-        data-discovery="offering-cache" data-tier-key="finds" data-tier-index="1" data-tier-count="1">
+        data-discovery="offering-cache" data-tier-key="finds" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>The Fallen Offerings</strong></p>
 
@@ -3346,9 +3316,10 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="blue-white-crystal">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="blue-white-crystal"
+        data-kind="discovery">
 
-        <p><strong>The Blue-White Crystal — Susanoo Projection Lens — Discoveries</strong></p>
+        <p><strong>The Blue-White Crystal — Susanoo Projection Lens</strong></p>
 
         <ul>
 
@@ -3369,7 +3340,7 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="blue-white-crystal"
-        data-discovery="crystal-spot" data-tier-key="spot" data-tier-index="1" data-tier-count="1">
+        data-discovery="crystal-spot" data-tier-key="spot" data-tier-index="1" data-tier-count="1" data-kind="player">
 
         <p><strong>Something at the Bottom of the West Pool</strong></p>
 
@@ -3394,7 +3365,8 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="blue-white-crystal"
-        data-discovery="crystal-identify" data-tier-key="identify" data-tier-index="1" data-tier-count="1">
+        data-discovery="crystal-identify" data-tier-key="identify" data-tier-index="1" data-tier-count="1"
+        data-kind="player">
 
         <p><strong>The Crystal — A Projection Lens</strong></p>
 
@@ -3409,9 +3381,10 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="kojiri-recognition">
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="kojiri-recognition"
+        data-kind="discovery">
 
-        <p><strong>The Statue Recognises Ko&#39;jiri — Discoveries</strong></p>
+        <p><strong>The Statue Recognises Ko&#39;jiri</strong></p>
 
         <ul>
 
@@ -3428,7 +3401,7 @@ pages:
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="kojiri-recognition"
-        data-discovery="eyes-orient" data-tier-key="orient" data-tier-index="1" data-tier-count="1">
+        data-discovery="eyes-orient" data-tier-key="orient" data-tier-index="1" data-tier-count="1" data-kind="player">
 
         <p><strong>The Statue&#39;s Gaze</strong></p>
 
@@ -3444,9 +3417,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-sealed-encounter" data-kind="encounter">
-
-        <p><strong>Encounters</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-encounter" data-kind="encounter" data-label="Encounters">
 
         <ul>
 
@@ -3481,9 +3452,7 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes">
-
-        <p><strong>DM Notes</strong></p>
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="DM Notes">
 
         <p><strong>Scale of the Space</strong>: Emphasize the disorientation of the scale. The ceiling is not visible.
         The far walls require a light source or darkvision to confirm. The statue at the center is the only fixed
@@ -3894,11 +3863,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -4043,11 +4010,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -4065,11 +4030,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Kinjiro&#39;s Spirit</strong>: The head priest did not move on after death. His spirit persists in
         this chamber as a protector — bound not by curse or unfinished personal business, but by the weight of
@@ -4202,11 +4165,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Investigation &amp; Identification</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -4244,11 +4205,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Check Results</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>The Scroll Case — DC 12 Investigation:</strong>
 
@@ -4354,11 +4313,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Why the Zasu carries these:</strong> The chief seimaster gathered these documents before performing
         the ritual on himself — the last to undergo it, trying to maintain enough awareness to lead his transformed
@@ -4531,11 +4488,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -4563,11 +4518,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>The Darkness</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>Source Identification:</strong></p>
 
@@ -4640,11 +4593,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>How It Works (Star Map)</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The shaft in the outer northwest wall is angled precisely to admit moonlight at specific lunar positions.
         Under Kagetsu (the largest moon), the full star map renders on the floor. Under Ryugetsu, certain star positions
@@ -4658,11 +4609,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>The Dais Impression</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The circular coiled impression in the dust was left by the Nagaji Kannushi who inhabits this space. It was
         not meditating in the conventional sense — it was drawn here, instinctively, by something in the stone that
@@ -4674,11 +4623,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Relic Collection (DC 14 Investigation — once darkness lifts)</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The Kannushi gathered and preserved these objects from elsewhere in the temple:</p>
 
@@ -4704,11 +4651,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Star Map — Activates When Darkness Lifts</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The full ceiling becomes visible and active once darkness ends. Silver and gemstone inlay responds to current
         celestial date. DC 14 Arcana or Nature (10 minutes study) reveals current celestial alignment and sei
@@ -4718,11 +4663,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Mechanical Benefit — Meditation</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>A character who spends a short rest seated on the dais (during a moonlit period, darkness lifted) receives
         the benefits of the <em lang="ja-Latn">Calm Emotions</em> spell upon completing the rest, and has advantage on
@@ -4735,11 +4678,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -4752,11 +4693,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>The Kannushi — Tactical Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -4782,11 +4721,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>The Cursed Urn</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The Kannushi cursed the urn deliberately as a guardian measure — her intent is protective. She created the
         darkness to shield the space she has claimed. This is a ward, not corruption.</p>
@@ -4795,11 +4732,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Relc&#39;s Vision</strong>: When the darkness lifts and the star map activates, green luminescence
         briefly appears in one constellation matching Solas&#39;s letter sigil — visible to Relc only, for a moment
@@ -4927,11 +4862,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -4967,11 +4900,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -4984,11 +4915,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Yaminezumi (闇鼠 — Darkness Rats)</strong>: Four Swarms of Rats (MM p.339) that have lived in the dark
         corruption of the temple long enough to have changed. They have nested in the collapsed section of the west
@@ -5277,11 +5206,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -5307,11 +5234,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Cell 3 — Starburst Damage</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -5327,11 +5252,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Cell 5 — Swept Clean</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Someone tidied this cell after the fall — older than the Nagaji&#39;s arrival. Platform moved deliberately,
         replaced; nothing beneath it now. Intentionally unresolved — possible connection to Tomohiro.</p>
@@ -5340,11 +5263,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Cell 6 — Nagaji-Searched / Planetary Gear Assembly</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>DC 13 Investigation locates the <strong>planetary gear assembly</strong> — seven interlocking bronze rings of
         graduated size, partially disassembled, discarded in debris under overturned platform. The rings are nested
@@ -5359,11 +5280,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>The Sealed Room — Senior Priests&#39; Quarters</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The priests who sealed themselves in were not hiding — they were staying. They had made their peace and chose
         not to participate in the violence. Four sleeping platforms, each occupied by skeletal remains — hands folded,
@@ -5397,11 +5316,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Evidence of the Nagaji</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Two of the individual cells (including Cell 6) show recent disturbance — the dust displaced, a pallet dragged
         aside to reveal the floor. The Nagaji have been searching these rooms. What they were looking for is unclear,
@@ -5414,11 +5331,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -5431,11 +5346,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Uragiri no Onryō — Trigger and Escalation</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Corrupted priests who were the infiltrating force that destroyed the order from within. Named to reflect the
         specific sin that defines them — not just evil, but betrayers of the order they swore to serve. Each haunts a
@@ -5464,11 +5377,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Atmosphere</strong>: The dormitory wing is colder than the Grand Hall. The cold is not mountain cold
         — it is the specific cold of places where violence has accumulated. Even mundane characters should feel uneasy
@@ -5478,11 +5389,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>The South Dormitory</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Entrance deliberately collapsed by the priests during the fall — and the seal <em
         lang="ja-Latn">protected</em> what lay behind it. The south wing is <strong>relatively pristine</strong>: no
@@ -5502,11 +5411,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Open Items</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <ul>
 
@@ -5734,11 +5641,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -5921,11 +5826,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><em lang="ja-Latn">(No combat encounters in this room under normal circumstances. The Nagaji have not reached
         the second floor — the western and eastern stairs are undisturbed, per <code>rm-central-hallway</code>. Should
@@ -5957,11 +5860,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Two Untouched Plates — Confirming The Inside Job</strong>: This is the spatial confirmation of
         what the tapestries and head priest&#39;s journal already imply. Crimson and Onyx infiltrators desecrated
@@ -6120,11 +6021,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Refer to <code>rm-observatory-repair-mechanics</code> § Stage 1 — Assessment for the entry-point checks (DC
         12 Investigation/Arcana, DC 14 History, DC 14 Tinker&#39;s/Smith&#39;s Tools).</p>
@@ -6169,11 +6068,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><em lang="ja-Latn">(No combat encounters. The chamber&#39;s acoustic isolation makes it a safe-haven for
         short rests, provided the party has secured the Tenkairō behind them. The orrery itself, if disturbed clumsily,
@@ -6184,11 +6081,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Flow with the supplement</strong>: This room&#39;s content is intentionally light because the heavy
         lifting — repair stages, projection sequences, tapestry activation, character moments (Ko&#39;jiri, Relc, Sun
@@ -6258,11 +6153,9 @@ pages:
         opened. She does not turn her head, does not challenge, does not move. She is <strong>not</strong> inert — she
         is waiting.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Nagaji Bodies (DM Note)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Nagaji bodies were arranged by the guardian herself.</strong> When Nagaji intruders push into the
         temple and reach this floor, she dispatches them inside the hallway, then carries the bodies out and arranges
@@ -6374,11 +6267,9 @@ pages:
 
         <p>Her tone shifts — not warm, but no longer guarded. She steps aside.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>State C — DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>&quot;She will know the difference&quot;</strong> is a reference to Kinryū. The guardian knows whose
         chamber this is. The players will not know yet — but the moment when the candidate hears Kinryū&#39;s voice in
@@ -6469,11 +6360,9 @@ pages:
 
         </blockquote>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Q&amp;A — State C DM Slips</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The fuzziness is not a memory bug — it is a feature of how the temple bound her. <strong>She was made to
         outlast her own memory.</strong> A guardian who remembers the order&#39;s fall in detail would carry grief
@@ -6505,11 +6394,9 @@ pages:
         recess clears. Anyone may walk through. While she stands her post — in any state — the recess is solid stone to
         anyone who tests it.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Portal Mechanics (DM)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The portal is part of the chamber&#39;s foundational architecture, not a separate device.</strong>
         Her permission is the architecture&#39;s permission, channeled through her. She is not a key — she is the <em
@@ -6642,11 +6529,9 @@ pages:
         is unmistakable. To the casual eye, it is simply a place to sit. The architecture does not advertise its
         function.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Cherry Trees (DM)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The cherry trees are <em lang="ja-Latn">intentional</em>. They are not aesthetic — they are mnemonic. <em
         lang="ja-Latn">Sakura</em> in Kagekuni&#39;s cultural framework carries the full weight of <em
@@ -6748,11 +6633,9 @@ pages:
 
         </blockquote>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Plinth Inscription</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <h2 id="kg-the-inscription" data-section="the-inscription">THE INSCRIPTION</h2>
 
@@ -6775,11 +6658,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Inscription DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The inscription does three things:</p>
 
@@ -6890,11 +6771,9 @@ pages:
 
         </blockquote>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Kinryū&#39;s Voice (DM)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The voice is <strong>Kinryū herself</strong>, speaking through the chamber&#39;s architecture from her place
         of slumber. The candidate does not yet know whose voice it is. The chamber does not name her. The realization
@@ -6941,11 +6820,9 @@ pages:
         pedestal (gold / black / white per the Flame Feedback rules below). The architecture is patient; let players
         take the time they need.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 1 — 義 Gi: The Easy Lie</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 1 — 義 <em lang="ja-Latn">Gi</em>: <strong>The Easy Lie</strong></h4>
 
@@ -7001,11 +6878,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 2 — 勇 Yū: The Bridge in Flames</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 2 — 勇 <em lang="ja-Latn">Yū</em>: <strong>The Bridge in Flames</strong></h4>
 
@@ -7059,11 +6934,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 3 — 仁 Jin: The Tyrant&#39;s Child</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 3 — 仁 <em lang="ja-Latn">Jin</em>: <strong>The Tyrant&#39;s Child</strong></h4>
 
@@ -7124,11 +6997,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 4 — 礼 Rei: The Funeral of an Enemy</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 4 — 礼 <em lang="ja-Latn">Rei</em>: <strong>The Funeral of an Enemy</strong></h4>
 
@@ -7182,11 +7053,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 5 — 誠 Makoto: The Comforting Lie</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 5 — 誠 <em lang="ja-Latn">Makoto</em>: <strong>The Comforting Lie</strong></h4>
 
@@ -7239,11 +7108,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Scene 6 — 自制 Jisei: The Open Door (Sun Wukong personalization TBD)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Scene 6 — 自制 <em lang="ja-Latn">Jisei</em>: <strong>The Open Door</strong></h4>
 
@@ -7300,11 +7167,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Alternate Scenes (retry)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-alternate-scenes-for-retry-attempts" data-section="alternate-scenes-for-retry-attempts">Alternate
         Scenes for Retry Attempts</h3>
@@ -7762,11 +7627,9 @@ pages:
 
         </blockquote>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Mutual Bow Ritual (DM)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The mutual bow is intentional symmetry.</strong> The wyrmling&#39;s bow-and-wait + nuzzle here echoes
         the moment Aya will receive at her own departure (the wyrmling will cross to her in the hallway, bow, nuzzle her
@@ -7861,11 +7724,9 @@ pages:
         not collapses, not vanishes; she simply <em lang="ja-Latn">thins</em>, as if the temple that has held her in
         place is finally letting go. The hallway holds her shape for a moment after she is gone, then closes.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Her Name — Conditional Reveal</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-her-name-hoshimori-aya" data-section="her-name-hoshimori-aya">Her Name —
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.wkCIDKv2qgFgD7Y6]{Hoshimori
@@ -7910,11 +7771,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>The Four Gifts (frame)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-the-four-gifts" data-section="the-four-gifts">The Four Gifts</h3>
 
@@ -7936,11 +7795,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Relc — Roots Forward / Roots Back</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Relc — <em lang="ja-Latn">Roots Forward, or Roots Back</em></h4>
 
@@ -7996,11 +7853,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Ko&#39;jiri — Knowing / Her Hand</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Ko&#39;jiri — <em lang="ja-Latn">Knowing, or Her Hand</em></h4>
 
@@ -8068,11 +7923,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Sun Wukong — Inward / Outward</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Sun Wukong — <em lang="ja-Latn">Inward, or Outward</em></h4>
 
@@ -8116,11 +7969,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Dian Wei — Knowledge / Present</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h4>Dian Wei — <em lang="ja-Latn">Knowledge, or the Present</em></h4>
 
@@ -8299,11 +8150,9 @@ pages:
         trial} because <strong>the bond itself is the test of it.</strong> <em lang="ja-Latn">Chūgi</em> cannot be
         measured in a single moment. It is measured across the rest of a life.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Chūgi Mechanics (DM)</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The bonded character carries the wyrmling&#39;s life as a continuing trust. The chamber&#39;s judgment passed
         them through; the world&#39;s judgment is ongoing. <em lang="ja-Latn">Chūgi</em> is owed in three
@@ -8381,11 +8230,9 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Why the Wyrmling Is Here</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-why-the-wyrmling-is-here" data-section="why-the-wyrmling-is-here">Why the Wyrmling Is Here</h3>
 
@@ -8410,11 +8257,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Pre-Chamber Hints</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <h3 id="kg-layered-discovery-pre-chamber-hints" data-section="layered-discovery-pre-chamber-hints">Layered
         Discovery — Pre-Chamber Hints</h3>
@@ -8445,11 +8290,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>When to Run This Chamber</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-when-to-run-this-chamber" data-section="when-to-run-this-chamber">When to Run This Chamber</h3>
 
@@ -8464,11 +8307,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Aftermath — Ripples</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-aftermath-ripples" data-section="aftermath-ripples">Aftermath — Ripples</h3>
 
@@ -8506,11 +8347,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Loose Ends to Track</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <h3 id="kg-loose-ends-to-track" data-section="loose-ends-to-track">Loose Ends to Track</h3>
 
@@ -8548,11 +8387,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Wyrmling — Naming, Stat Block (TBD), Campaign Secret</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Name</strong>: The wyrmling does not yet have a name. The bonded character will name it. Encourage a
         Japanese name for thematic consistency; suggestions if the player needs prompting — <em
@@ -8665,11 +8502,9 @@ pages:
 
         <hr>
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Key Documents Held Here</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p><strong>This list is the framework — specific scroll-by-scroll detail is intentionally TBD and will be
         expanded as the campaign requires. The categories below are canon; the precise wording, count, and arrangement
@@ -8732,11 +8567,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Discoveries</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <ul>
 
@@ -8793,11 +8626,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Encounters</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><em lang="ja-Latn">(No combat encounters. The archive is undisturbed and uninhabited. The wards have held
         everything — including the absence of intruders — for thousands of years.)</em></p>
@@ -8812,11 +8643,9 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Notes</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Pacing — when to open this room</strong>: The archive is the second floor&#39;s reward. It is also,
         deliberately, an exposition dump risk — there is more material here than any single session should surface. Pace

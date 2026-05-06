@@ -641,11 +641,9 @@ pages:
         fight in conditions that would break lesser forces. The clan&#39;s connection to storm magic is not merely a
         reputation — it shapes their tactics, their training, and the way their enemies plan against them.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Kaminari Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Kazuhiko doubts the official accusations against Dian&#39;s father and is quietly investigating the
         circumstances of Emperor Ryūjin&#39;s death. He has shared this with no one outside his closest circle.</p>
@@ -712,11 +710,9 @@ pages:
         deliberate opacity is both a shield and a provocation — every faction wonders what Kurohana will do, and Akihiko
         ensures they keep wondering.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Kurohana Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Akihiko also doubts the accusations against Dian&#39;s father and is independently investigating the
         emperor&#39;s assassination — unknown to Kaminari, who are pursuing the same line of inquiry.</p>
@@ -776,11 +772,9 @@ pages:
         sudden silence is one of the most pressing questions in Kagekuni&#39;s current politics, and both Kaminari and
         Kurohana have taken notice.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Clan Gekkō</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Clan Gekkō&#39;s senior seimasters discovered fragmentary texts describing an Onyx Dragon ritual — a
         transformation rite tied to Kokuryū. Those who underwent it became <strong>Nagaji</strong> (serpent folk). The
@@ -874,11 +868,9 @@ pages:
         <p><strong>Clan Shirotsuru</strong> extends the Arashi Alliance&#39;s reach to Tatara, governing the
         <strong>Shugyoku</strong> region — the ancestral homeland of the Glimfyr.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Arashi Naval Build-up</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Minato-jō is building naval capacity beyond what defensive requirements would justify. An offensive operation
         involving the western sea is being planned. The details remain opaque to outsiders.</p>
@@ -939,11 +931,9 @@ pages:
         <p>Also known as <strong>Clan Minato</strong> by their lesser title. Ren Nakamura serves as Shichō of
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} within Kaminari territory.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Clan Seishin</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Ren Nakamura is quietly working to elevate Clan Seishin&#39;s status. He has formed a secret alliance with a
         powerful merchant guild — leveraging economic influence where political standing is insufficient.</p>
@@ -1010,11 +1000,9 @@ pages:
         <p>The order occasionally dispatches members as delegates or advisors to the clans. <strong>Sun Wukong</strong>,
         a novice, currently serves as delegate to Clan Kaminari.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Benkei</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Elder Benkei is a member of the <strong>Order of the Ancient Guard</strong> — the secret organisation
         dedicated to protecting the sleeping founding dragons. His rank within the Ancient Guard is TBD, but his
@@ -1057,11 +1045,9 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
         province.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Order of the Sacred Grove</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Solas Evergreen was a member of the <strong>Order of the Ancient Guard</strong> — likely ranked Protector or
         higher. His murder was not random violence but a deliberate assassination intended to prevent the awakening of
@@ -1105,11 +1091,9 @@ pages:
         province. The monastery is a secret training facility — austere dark stone construction, hidden from casual
         observation. The villagers of Akatsuki know the order exists and tell outsiders nothing.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — Order of the Black Lily</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The Black Lily holds the complete truth about Clan Gekkō&#39;s transformation into Nagaji. They have decided
         the information is too dangerous to release without a viable reversal plan. Parties who reach the monastery will
@@ -1201,11 +1185,9 @@ pages:
         <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.AJq3fWYMt9FizypU]{Arinori
         Senzai}</strong> is a secret member.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — The Elven Council</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Some members of the council are suspected of corruption. Senzai is quietly investigating from within. The
         council&#39;s full scope, membership, and influence are to be developed further.</p>
@@ -1282,11 +1264,9 @@ pages:
         were both revealed publicly during the Plague Campaign of 16609–16616. Their methods and internal workings are
         not widely known.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — The Forest of Spirits</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>During the Dark Ages, a faction survived within the Yōsei Mori and continued to study sei behavior during the
         magic-absent era. They hold records that would upend current seimaster orthodoxy — evidence that sei never truly

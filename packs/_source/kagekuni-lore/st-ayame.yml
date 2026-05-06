@@ -140,11 +140,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Oshiro Masahiro&#39;s intelligence network extends far beyond what his official position suggests.</p>
 
@@ -156,9 +154,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>The Tenchusan Ren pass approach is under more surveillance than it appears.</p>
 
@@ -170,9 +166,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>Mountain guides have been returning from upper-route jobs shaken and unwilling to specify what they saw.</p>
 
@@ -181,11 +175,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>Oshiro Masahiro -- Intelligence Asset</strong>
 
@@ -215,11 +207,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Oshiro sends a discrete message: he has information relevant to the party&#39;s mission that he couldn&#39;t
         share safely in Ayame; proposes a meeting at the next Michibata up the pass</p>
@@ -232,9 +222,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>One of the mountain guides who returned early is drinking heavily at the Dragon&#39;s Rest and muttering
         fragments of what they saw</p>

@@ -128,11 +128,9 @@ pages:
         </ul>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>Ren Nakamura has discovered the true source of the Bronze Wood&#39;s metallic quality and is working with a
         merchant guild to exploit it.</p>
@@ -145,9 +143,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>Haruto Masashige is building an informant network and has noticed irregularities in the licensing
         records.</p>
@@ -160,9 +156,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>Ko&#39;jiri carries both a legitimate letter from Ren Nakamura and a forged version -- a ticking clock.</p>
 
@@ -171,11 +165,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Bronze Wood Secret</strong>
 
@@ -216,11 +208,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>Haruto sends word to the party in Heian: he has found something in the licensing records connecting to their
         mission</p>
@@ -233,9 +223,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>A merchant guild representative in Kikyo attempts to discourage the party from returning there with unusual
         vehemence</p>
@@ -248,9 +236,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>Ren Nakamura contacts Ko&#39;jiri separately with an additional, unwritten request</p>
 

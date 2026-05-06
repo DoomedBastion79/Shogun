@@ -90,11 +90,9 @@ pages:
         <p>None publicly documented. The village maintains deliberate anonymity.</p>
 
 
-        <section class="secret kg-secret-discoverable">
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p><strong>Details</strong></p>
-
-        <p><em lang="ja-Latn">discoverable</em></p>
 
         <p>The Order of the Black Lily knows what happened to Clan Gekko and will share the truth with those who can
         demonstrate they are positioned to act.</p>
@@ -107,9 +105,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-discoverable">
-
-        <p><em lang="ja-Latn">discoverable</em></p>
+        <section class="secret kg-secret-discoverable" data-kind="discoverable">
 
         <p>The village is not simply a bystander community -- it functions as a support system for the monastery.</p>
 
@@ -118,11 +114,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Secrets</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p><strong>The Order&#39;s Full Knowledge</strong>
 
@@ -158,11 +152,9 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>Plot Hooks</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>A message from the Order reaches the party: &quot;Come to Akatsuki. Complete information will be provided.
         Bring nothing official.&quot;</p>
@@ -175,9 +167,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>The Order has been watching the party since the mountain pass and wants to know what was found beyond the
         gold doors</p>
@@ -190,9 +180,7 @@ pages:
 
 
 
-        <section class="secret kg-secret-sealed">
-
-        <p><em lang="ja-Latn">sealed</em></p>
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p>An Order initiate has broken protocol and is heading toward Heian with partial information -- needs
         intercepting before triggering political consequences</p>

@@ -497,11 +497,9 @@ pages:
         bedrock of noble authority in many clans. Whether the genealogies are genuine or constructed, the social power
         they convey is real.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — The Dragons Live</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>All seven founding dragons are still alive. They are not dead, not ascended, and not mythological. They are
         hidden — withdrawn into deep slumber across the archipelago, their locations known only to the <strong>Order of
@@ -593,11 +591,9 @@ pages:
         <p>The name is ancient — far older than the current empire — and its origin has been debated by scholars and
         priests for millennia without resolution.</p>
 
-        <section class="secret kg-secret-sealed">
+        <section class="secret kg-secret-sealed" data-kind="sealed">
 
         <p><strong>DM Note — The True Origin of Kannazuki</strong></p>
-
-        <p><em lang="ja-Latn">sealed</em></p>
 
         <p>The name is a historical fossil from the earliest age when the seven Progenitor dragons did physically gather
         during the tenth month. The tradition outlived the practice by millennia. The Ancient Guard recognises the irony
