@@ -369,7 +369,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >+
+      content: >
         <p>The founding dragons occupy a unique position in Kagekuni&#39;s spiritual landscape — elevated above saints,
         distinct from kami, revered as something closer to demigods. They are the seven Progenitors who ruled the
         archipelago before the first human emperor rose to power, and whose bloodlines, according to tradition, flow
@@ -496,29 +496,6 @@ pages:
         <p>Dragonborn within the Kugai elite claim direct descent from the founding dragons, and this claim forms the
         bedrock of noble authority in many clans. Whether the genealogies are genuine or constructed, the social power
         they convey is real.</p>
-
-        <section class="secret kg-secret-sealed" data-kind="sealed">
-
-        <p><strong>DM Note — The Dragons Live</strong></p>
-
-        <p>All seven founding dragons are still alive. They are not dead, not ascended, and not mythological. They are
-        hidden — withdrawn into deep slumber across the archipelago, their locations known only to the <strong>Order of
-        the Ancient Guard</strong>, the secret organisation dedicated to their protection.</p>
-
-        <p>The world considers the Progenitors purely historical. The Ancient Guard works to maintain this belief,
-        understanding that the revelation of living dragons would destabilise every political, religious, and military
-        institution in Kagekuni simultaneously.</p>
-
-        <p>Dragon eggs are not fossils. Their viability is unknown to the world at large, but the Ancient Guard treats
-        them as potentially living.</p>
-
-        <p>The implications for religious life are profound: the saints and demigods that the faithful venerate are not
-        distant memories but sleeping beings, physically present somewhere beneath the mountains, the forests, or the
-        sea. The shrines built in their honour sometimes sit directly above the sites where they rest.</p>
-
-
-        </section>
-
       markdown: ''
     video:
       controls: true
@@ -581,7 +558,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >+
+      content: >
         <p>The tenth month of the calendar is called <strong>Kannazuki</strong> — the Month of No Gods. Tradition holds
         that during this month, the kami leave their shrines and territories to gather at a great convocation, leaving
         the mortal world temporarily unattended. Shrines see reduced attendance. Certain rituals are suspended. The
@@ -590,20 +567,6 @@ pages:
 
         <p>The name is ancient — far older than the current empire — and its origin has been debated by scholars and
         priests for millennia without resolution.</p>
-
-        <section class="secret kg-secret-sealed" data-kind="sealed">
-
-        <p><strong>DM Note — The True Origin of Kannazuki</strong></p>
-
-        <p>The name is a historical fossil from the earliest age when the seven Progenitor dragons did physically gather
-        during the tenth month. The tradition outlived the practice by millennia. The Ancient Guard recognises the irony
-        — the &quot;Month of No Gods&quot; was originally the month when <em lang="ja-Latn">all</em> the gods were
-        present in one place. Now, with the Progenitors slumbering, the name is accidentally accurate again for entirely
-        different reasons.</p>
-
-
-        </section>
-
       markdown: ''
     video:
       controls: true

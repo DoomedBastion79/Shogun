@@ -302,7 +302,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >+
+      content: >
         <p>The disappearance of sei was not a sudden event but a slow bleeding that scholars only recognised in
         retrospect. By the time the war ended and the empire looked up from its wounds, the bleeding was
         catastrophic.</p>
@@ -327,36 +327,6 @@ pages:
         abandoned to silence and weather. The knowledge of sei, the scholarly traditions, the institutional memory of
         how magic worked and what it meant — all of it was lost. The world that emerged on the other side was not the
         same world that had entered the darkness.</p>
-
-        <section class="secret kg-secret-sealed" data-kind="sealed">
-
-        <p><strong>DM Note — The Great Aphelion</strong></p>
-
-        <p>The sei drought was not caused by the war or by any mortal action. It was a cosmological event.</p>
-
-        <p>The three stars of the Miyosai trinary system orbit a common gravitational centre on independent orbital
-        inclinations. Once in recorded history, all three reached maximum mutual distance simultaneously — the
-        <strong>Great Aphelion</strong>, approximately 14344. Amaterasu, carrying Seizan with it, swung to one extreme
-        of its barycentric arc while Susanoo and Tsukuyomi retreated to opposing extremes on their own inclined planes.
-        The distances compounded geometrically.</p>
-
-        <p>Amaterasu never went dark — its baseline sei sustained life throughout. But the complex magical expressions
-        that depended on the full trinary system became inaccessible. The dark ages were cultural and intellectual
-        collapse, not extinction.</p>
-
-        <p>The Progenitor dragons entered their slumber during this same period. Whether the aphelion caused the
-        slumber, the slumber caused the sei drought, or both share a common cause remains unknown — even to the Order of
-        the Ancient Guard.</p>
-
-        <p>No living scholar has assembled the complete picture. The data exists in fragmentary astronomical records
-        across multiple institutions, but no one has connected the dots. The Golden Dragon Clan&#39;s observatory at
-        Ōryūzan Tenkū-ji contained the most complete model of the Miyosai system ever constructed — a mechanical and
-        arcane orrery capable of projecting celestial positions across millennia. It has not been operational since the
-        temple fell.</p>
-
-
-        </section>
-
       markdown: ''
     video:
       controls: true
@@ -601,7 +571,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >+
+      content: >
         <p>Magic officially returned to the world around the year 16687, though the process had been building for
         decades. The Great Awakening was not a single moment but a threshold — the point at which sei became reliably
         accessible to trained practitioners rather than appearing only in rare Talents born with innate ability.</p>
@@ -615,33 +585,6 @@ pages:
         scholarly traditions of the Golden Age were gone. The current generation of practitioners is rebuilding from
         fragments — studying sei with the tools of a civilisation that lost three thousand years of progress. They are
         learning fast, but they are learning without teachers, and the gaps in their understanding are significant.</p>
-
-        <section class="secret kg-secret-sealed" data-kind="sealed">
-
-        <p><strong>DM Note — The True Cause of the Great Awakening</strong></p>
-
-        <p>The Great Awakening was not a natural restoration of cosmic balance. It was the consequence of waking a
-        single malevolent Progenitor.</p>
-
-        <p><strong>Murasakiryū</strong> — the Amethyst Dragon — was awakened by dark mortals who believed they were
-        performing a ritual to rouse <strong>Kokuryū</strong> (the Onyx Dragon). They were wrong about which dragon they
-        found. Murasakiryū woke, and the dragon is now <strong>actively masquerading as Kokuryū</strong> — pretending to
-        be the Onyx Dragon while pursuing its own agenda.</p>
-
-        <p>The moment of Murasakiryū&#39;s waking corresponds to the Great Awakening. Every sei user in Kagekuni draws
-        power through the Amethyst Dragon&#39;s waking awareness. The implications of this are staggering and entirely
-        unknown to the world at large.</p>
-
-        <p><strong>Kinryū</strong> (the Golden Dragon) would serve as the natural counterbalance to Murasakiryū. The
-        assassination of
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
-        Evergreen}</strong> — a member of the Order of the Ancient Guard — was a deliberate act to prevent Kinryū&#39;s
-        awakening. The cipher leading to methods for waking the Golden Dragon now rests with <strong>Relc</strong>, who
-        may not fully understand what he carries.</p>
-
-
-        </section>
-
       markdown: ''
     video:
       controls: true
@@ -663,7 +606,7 @@ pages:
     image: {}
     text:
       format: 1
-      content: >+
+      content: >
         <p>The current crisis did not begin with war. It began with a reform.</p>
 
         <p>In <strong>16732</strong>, Emperor <strong>Ryūjin no Mikado</strong> — the eighteenth emperor, the last of
@@ -686,25 +629,6 @@ pages:
         <p>The year is <strong>16744</strong>. The throne sits empty. The war grinds on. Magic has returned to a world
         that does not fully understand it. And somewhere in the archipelago, things that slumbered during the long dark
         have begun to stir.</p>
-
-        <section class="secret kg-secret-sealed" data-kind="sealed">
-
-        <p><strong>DM Note — The Emperor&#39;s Death</strong></p>
-
-        <p>Ryūjin&#39;s death is not what it appears. The official story is old age, but <strong>foul play is
-        suspected</strong>. Two independent daimyō —
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.1J9hy9Hs6EVuYjyz]{Raijin
-        no Kazuhiko}</strong> (Clan Kaminari) and
-        <strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.nKNKNY1OExtA3Hhh]{Akihiko
-        Kurohana}</strong> (Clan Kurohana) — are both quietly investigating the circumstances. Neither has shared their
-        suspicions publicly.</p>
-
-        <p>The 16732 reform that froze the Shogunate may have been motivated by Ryūjin&#39;s awareness of threats
-        against the imperial line — a last attempt to prevent his enemies from consolidating power after his death.</p>
-
-
-        </section>
-
       markdown: ''
     video:
       controls: true

@@ -33,17 +33,6 @@ pages:
         travellers encounter the world as it actually is: the weather, the terrain, the people moving between places
         with purposes of their own. A three-day journey through the mountains is three days of the world revealing
         itself — not a gap to be skipped.</p>
-
-        <h2 id="kg-dm-note-geography-and-progenitor-domains" data-section="dm-note-geography-and-progenitor-domains">DM
-        Note — Geography and Progenitor Domains</h2>
-
-        <p>Each of the five major islands is connected to one or more of the seven Progenitor dragons. Their slumbering
-        places are woven into the geography — hidden beneath mountains, within volcanic hearts, beneath lakes, or deep
-        in forests that have grown undisturbed for millennia. The geography section entries do not reveal these
-        connections, but the physical character of each island is shaped in part by the dragon that sleeps within it.
-        When describing terrain, weather, and the feel of a place, the Progenitor&#39;s domain bleeds through:
-        Fushichō&#39;s volcanic fury reflects Akaryū (Crimson); Kawa&#39;s waters reflect Aoryū (Azure). These are not
-        coincidences — they are consequences.</p>
       markdown: ''
     video:
       controls: true
@@ -2578,15 +2567,6 @@ pages:
         <p>Kawa is the agricultural heartland of the archipelago — its seasonal floodplains produce yields that dwarf
         anything achievable on permanently dry land. The island&#39;s economy revolves around the winter growing season
         and the export of grain, rice, and preserved produce to the other islands.</p>
-
-        <h2 id="kg-dm-note-kawa-and-the-azure-dragon" data-section="dm-note-kawa-and-the-azure-dragon">DM Note — Kawa
-        and the Azure Dragon</h2>
-
-        <p><strong>Aoryū</strong> (Azure Dragon) is associated with Kawa — domain of water, storms, and coastal
-        protection. The dragon is alive and slumbering. Seirei Mizuumi&#39;s reputation as a connection to the
-        underworld may be a folk-memory distortion of the dragon&#39;s presence beneath or within the lake. The Great
-        Library&#39;s proximity to the lake is not coincidental — the library was built there because the site&#39;s sei
-        concentration was the strongest on the island, a consequence of the dragon&#39;s presence.</p>
       markdown: ''
     video:
       controls: true
@@ -2645,16 +2625,6 @@ pages:
 
         <p>The island&#39;s primary exports are volcanic minerals, obsidian, and geothermal resources. Its people share
         the laconic practicality of Hi province on Hokori — unsurprising, given the shared geological character.</p>
-
-        <h2 id="kg-dm-note-fushich-and-the-crimson-dragon" data-section="dm-note-fushich-and-the-crimson-dragon">DM Note
-        — Fushichō and the Crimson Dragon</h2>
-
-        <p><strong>Akaryū</strong> (Crimson Dragon) is associated with Fushichō — domain of fire and volcanic power. The
-        dragon is alive and slumbering, likely within the volcanic highlands. The Crimson Shrine in Hi province on
-        Hokori maintains a tenuous connection to Akaryū through keeper
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki}
-        (Initiate, Order of the Ancient Guard). Whether a parallel shrine or connection point exists on Fushichō itself
-        is undeveloped.</p>
       markdown: ''
     video:
       controls: true
@@ -2704,15 +2674,6 @@ pages:
         <p>There is no trade with Yurei. There is no culture on Yurei — not anymore. The island serves as a cautionary
         reference in the folklore of every other island in the archipelago. &quot;Yurei&#39;s shore&quot; is a common
         idiom for a place of no return.</p>
-
-        <h2 id="kg-dm-note-yurei-secrets" data-section="dm-note-yurei-secrets">DM Note — Yurei Secrets</h2>
-
-        <p>The nature of Yurei&#39;s curse and its connection to the Progenitor dragons is undeveloped. Possible
-        connections include Murasakiryū (Amethyst Dragon) influence, given the necromantic character of the curse and
-        Kuroyami&#39;s discovery of the tome there. Whether the curse predates or postdates the Great Aphelion is an
-        open question with significant implications for the campaign&#39;s cosmological timeline.</p>
-
-        <p>**</p>
       markdown: ''
     video:
       controls: true
@@ -2819,16 +2780,6 @@ pages:
         <p>The recent escalation — gnomes deliberately sabotaging a dwarven relic site — represents a dangerous
         provocation. Without imperial authority to impose restraint, the conflict is intensifying in ways that may
         eventually draw in outside powers.</p>
-
-        <h2 id="kg-dm-note-tatara-and-the-onyx-dragon" data-section="dm-note-tatara-and-the-onyx-dragon">DM Note —
-        Tatara and the Onyx Dragon</h2>
-
-        <p><strong>Kokuryū</strong> (Onyx Dragon) is associated with Tatara — domain of shadow, darkness, and cunning.
-        The dragon is alive and slumbering, but its location is unknown. Kokuryū is currently being <strong>impersonated
-        by Murasakiryū</strong> — the Amethyst Dragon masquerades as Kokuryū to conceal its own awakening. The dark
-        mortals who woke Murasakiryū believed they were waking Kokuryū. The Onyx Rebellion&#39;s legacy — four hundred
-        years of guerrilla warfare against imperial authority — leaves a cultural imprint on Tatara that the real
-        Kokuryū would recognise.</p>
       markdown: ''
     video:
       controls: true
@@ -2870,24 +2821,11 @@ pages:
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.5uySp1O85TJzLFmF]{Benkei},
         a Guhuza of 198 years.</p>
 
-        <h2 id="kg-dm-note" data-section="dm-note">DM Note</h2>
-
-        <p>Fuukajima is home to <strong>Ginryū</strong> (Silver Dragon) — domain of grace, ice, moon, and stars. The
-        dragon is alive and slumbering on or within the island.</p>
-
         <h2 id="kg-shizukajima" data-section="shizukajima">Shizukajima</h2>
 
         <p>A quiet island, rarely visited, with little to recommend it to traders or settlers. Its name means
         &quot;quiet island,&quot; and those who have been there report that the name is accurate — an unusual stillness
         that is not quite peaceful and not quite unsettling.</p>
-
-        <h2 id="kg-dm-note-critical" data-section="dm-note-critical">DM Note — CRITICAL</h2>
-
-        <p>Shizukajima is the home of <strong>Murasakiryū</strong> (Amethyst Dragon) — the campaign&#39;s deepest
-        secret. Murasakiryū is <strong>AWAKE</strong>, deliberately woken by dark mortals who believed they were
-        awakening Kokuryū. The dragon actively masquerades as Kokuryū to conceal its identity. The Great Awakening
-        (~16687) was the consequence of Murasakiryū&#39;s waking — every sei user in Kagekuni draws power through its
-        awareness. The island&#39;s unusual stillness is a side effect of the dragon&#39;s waking presence.</p>
 
         <h2 id="kg-other-minor-islands" data-section="other-minor-islands">Other Minor Islands</h2>
 
