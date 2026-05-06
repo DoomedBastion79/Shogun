@@ -3113,13 +3113,6 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="statue-warmth"
-        data-discovery="warmth-presence" data-tier-key="warmth-passive" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Warmth Within Thirty Feet · Passive Cold Mitigation</strong></p>
-
         <p class="kg-discovery__activation">Passive · within 30 ft of the statue</p>
 
         <p>Within 30 ft of the statue, all cold-damage rolls against a character are reduced by 1d4 (no daily limit).
@@ -3127,8 +3120,6 @@ pages:
         the @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} will not extinguish: it is
         part of the statue&#39;s protection, not corruption to be cleared.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="statue-warmth"
         data-discovery="warmth-presence" data-tier-key="warmth-passive" data-tier-index="1" data-tier-count="1">
@@ -3139,6 +3130,8 @@ pages:
         reach here. The chill of the stone underfoot fades. Even active cold — a winter spell, a frost-touched weapon —
         feels less able to settle into the body.</p>
 
+
+        </section>
 
         </section>
 
@@ -3157,12 +3150,8 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="the-pools"
-        data-discovery="pools-shimmer" data-tier-key="shimmer" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Shimmer on the Surface · Shimmer Cue — Charge Readiness</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · Shimmer on the Surface · Shimmer Cue — Charge
+        Readiness</strong></p>
 
         <p class="kg-discovery__activation">Passive Perception 12</p>
 
@@ -3170,8 +3159,6 @@ pages:
         shimmer fades for ~60 seconds before returning. When the pool is empty, the shimmer is gone permanently. Use the
         shimmer at the table to telegraph readiness without quoting numbers.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-shimmer" data-tier-key="shimmer" data-tier-index="1" data-tier-count="1">
@@ -3184,10 +3171,8 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="the-pools"
-        data-discovery="pools-cadence" data-tier-key="cadence" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · How the Magic Runs · Recharge Cadence &amp; Charge Estimation</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · How the Magic Runs · Recharge Cadence &amp; Charge
+        Estimation</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Arcana DC 13</p>
 
@@ -3197,8 +3182,6 @@ pages:
         remaining charges from shimmer intensity. The party can stage themselves to draw from both pools in
         alternation.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-cadence" data-tier-key="cadence" data-tier-index="1" data-tier-count="1">
@@ -3219,12 +3202,9 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-sealed kg-discovery-summary" data-container="the-pools"
-        data-discovery="pools-rituals">
+        <p class="kg-discovery__summary-title"><strong>The Rituals — Tier Ladder</strong></p>
 
-        <p><strong>The Rituals — Tier Ladder</strong></p>
-
-        <table>
+        <table class="kg-discovery__summary-table">
 
         <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
 
@@ -3240,12 +3220,7 @@ pages:
 
         </table>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="the-pools"
-        data-discovery="pools-rituals" data-tier-key="rituals-exist" data-tier-index="1" data-tier-count="2">
-
-        <p><strong>DM · The Rituals · Tier 1 · Ritual Tradition Recognized</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · The Rituals · Tier 1 · Ritual Tradition Recognized</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Religion DC 14</p>
 
@@ -3253,8 +3228,6 @@ pages:
         tier; the DC 18 reveal carries the actual content. Alternative path to specifics: the Hidden Archives on floor
         2.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-rituals" data-tier-key="rituals-exist" data-tier-index="1" data-tier-count="2">
@@ -3268,10 +3241,7 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="the-pools"
-        data-discovery="pools-rituals" data-tier-key="ritual-specifics" data-tier-index="2" data-tier-count="2">
-
-        <p><strong>DM · The Rituals · Tier 2 · Full Ritual Specifications</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · The Rituals · Tier 2 · Full Ritual Specifications</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Religion DC 18</p>
 
@@ -3284,8 +3254,6 @@ pages:
 
         <p>The Hidden Archives on floor 2 contain a written form of the same knowledge.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="the-pools"
         data-discovery="pools-rituals" data-tier-key="ritual-specifics" data-tier-index="2" data-tier-count="2">
@@ -3304,6 +3272,8 @@ pages:
 
         </section>
 
+        </section>
+
 
         <section class="secret kg-secret-sealed kg-discovery-index" data-container="fresher-corpses">
 
@@ -3315,21 +3285,12 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="fresher-corpses"
-        data-discovery="defacement-tools" data-tier-key="tools" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Defacement Tools in Hand · Defacement Attempt — Kageban Foreshadow</strong></p>
-
         <p class="kg-discovery__activation">Skill Check: Investigation DC 12</p>
 
         <p>First concrete signal that something defends the statue. The bodies bear no marks — Kageban (Shadow) damage
         leaves no wound. Players will likely only piece this together after meeting the Kageban. If the party also picks
         up the <em lang="ja-Latn">Why the Nagaji avoid this room</em> note (DM Notes), the picture clicks.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fresher-corpses"
         data-discovery="defacement-tools" data-tier-key="tools" data-tier-index="1" data-tier-count="1">
@@ -3346,6 +3307,8 @@ pages:
 
         </section>
 
+        </section>
+
 
         <section class="secret kg-secret-sealed kg-discovery-index" data-container="fallen-offerings">
 
@@ -3357,21 +3320,12 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="fallen-offerings"
-        data-discovery="offering-cache" data-tier-key="finds" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Antique Cache Among the Debris · Coins, Vessel, Silk Fragment</strong></p>
-
         <p class="kg-discovery__activation">Skill Check: Investigation DC 15</p>
 
         <p>Three coins (50 gp each as antiques to a collector — face value 1 gp), one ceramic vessel (no immediate value
         but ties to whichever clan sigil the DM plants), one silk fragment which is a handout opportunity. The
         silk&#39;s text is open — bridge to whatever Old Imperial thread is currently active.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fallen-offerings"
         data-discovery="offering-cache" data-tier-key="finds" data-tier-index="1" data-tier-count="1">
@@ -3382,6 +3336,8 @@ pages:
         First Golden Age (worth 50 gp each as antiques to a collector); a ceramic incense vessel cracked but intact,
         bearing a faded clan sigil; and a fragment of silk embroidered with Old Imperial text.</p>
 
+
+        </section>
 
         </section>
 
@@ -3398,12 +3354,8 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="blue-white-crystal"
-        data-discovery="crystal-spot" data-tier-key="spot" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Spotted at the Bottom of the West Pool · Crystal Visible Through Clear Water</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · Spotted at the Bottom of the West Pool · Crystal Visible Through
+        Clear Water</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Investigation DC 14</p>
 
@@ -3411,8 +3363,6 @@ pages:
         cleanly without disturbing the water. On a fail, the crystal still comes up but the water &#39;flinches&#39; —
         the shimmer fades early, costing ~60 s before the next charge readies. Soft cost, not hard.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="blue-white-crystal"
         data-discovery="crystal-spot" data-tier-key="spot" data-tier-index="1" data-tier-count="1">
@@ -3427,11 +3377,8 @@ pages:
 
         </section>
 
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="blue-white-crystal"
-        data-discovery="crystal-identify" data-tier-key="identify" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · Recognising the Crystal as a Lens · Susanoo Projection Lens (Observatory Component
-        #1)</strong></p>
+        <p class="kg-discovery__dm-title"><strong>DM · Recognising the Crystal as a Lens · Susanoo Projection Lens
+        (Observatory Component #1)</strong></p>
 
         <p class="kg-discovery__activation">Skill Check: Arcana DC 13</p>
 
@@ -3441,8 +3388,6 @@ pages:
         they will not approach the pools. Requires the party to actually have the crystal in hand (i.e. discovery
         <code>crystal-spot</code> resolved) before the Arcana analysis applies.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="blue-white-crystal"
         data-discovery="crystal-identify" data-tier-key="identify" data-tier-index="1" data-tier-count="1">
@@ -3457,6 +3402,8 @@ pages:
 
         </section>
 
+        </section>
+
 
         <section class="secret kg-secret-sealed kg-discovery-index" data-container="kojiri-recognition">
 
@@ -3468,13 +3415,6 @@ pages:
 
         </ul>
 
-        </section>
-
-        <section class="secret kg-secret-sealed kg-discovery-dm" data-container="kojiri-recognition"
-        data-discovery="eyes-orient" data-tier-key="orient" data-tier-index="1" data-tier-count="1">
-
-        <p><strong>DM · The Amber Eyes Orient · Reveal Beat for Ko&#39;jiri</strong></p>
-
         <p class="kg-discovery__activation">Interaction: Ko&#39;jiri approaches within 15 ft of the statue</p>
 
         <p>Run this even if Ko&#39;jiri walks past without stopping. Anyone watching catches the eye movement on a DC 14
@@ -3482,8 +3422,6 @@ pages:
         the thing itself. Pass a private note to the player. Do not narrate the reckoning — that is for Ko&#39;jiri to
         do.</p>
 
-
-        </section>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="kojiri-recognition"
         data-discovery="eyes-orient" data-tier-key="orient" data-tier-index="1" data-tier-count="1">
@@ -3497,6 +3435,8 @@ pages:
         language, but a low resonant hum from the stone itself, felt more in the chest than heard with the ears. It is
         acknowledgment.</p>
 
+
+        </section>
 
         </section>
 

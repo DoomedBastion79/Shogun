@@ -10,10 +10,10 @@
   border-left: 4px solid transparent;
   border-radius: 0 4px 4px 0;
 }
-.kg-tier-intro        { border-left-color: #6b7280; background: rgba(107,114,128,.06); }
-.kg-tier-known        { border-left-color: #2563eb; background: rgba(37,99,235,.06); }
-.kg-tier-discoverable { border-left-color: #d97706; background: rgba(217,119,6,.08); }
-.kg-tier-sealed       { border-left-color: #991b1b; background: rgba(153,27,27,.08); }
+.kg-tier-intro        { border-left-color: #9ca3af; background: rgba(156,163,175,.08); }
+.kg-tier-known        { border-left-color: #60a5fa; background: rgba(96,165,250,.08); }
+.kg-tier-discoverable { border-left-color: #d97706; background: rgba(217,119,6,.10); }
+.kg-tier-sealed       { border-left-color: #b13a3a; background: rgba(177,58,58,.10); }
 
 .kg-tier-sealed::before {
   content: "⚠ GM ONLY";
@@ -21,7 +21,7 @@
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.08em;
-  color: #991b1b;
+  color: #e08e8e;
   margin-bottom: 0.4rem;
 }
 
@@ -101,17 +101,19 @@
   border-radius: 4px;
 }
 
-/* ---- Inline secret blocks (new topic-page model) ---------------------- */
+/* ---- Inline secret blocks (new topic-page model) ----------------------
+   Background tints bumped from 5% → 10% so the wash is visible on dark
+   Foundry themes without overpowering the parchment theme. */
 .kg-secret-discoverable {
   border-left: 4px solid #d97706;
-  background: rgba(217, 119, 6, 0.05);
+  background: rgba(217, 119, 6, 0.10);
   padding: 0.5em 1em;
   border-radius: 0 4px 4px 0;
   margin: 0.75em 0;
 }
 .kg-secret-sealed {
-  border-left: 4px solid #991b1b;
-  background: rgba(153, 27, 27, 0.05);
+  border-left: 4px solid #b13a3a;
+  background: rgba(177, 58, 58, 0.10);
   padding: 0.5em 1em;
   border-radius: 0 4px 4px 0;
   margin: 0.75em 0;
@@ -198,86 +200,37 @@
 
 /* ---------------------------------------------------------------------------
    Discovery containers (see assistant/tools/discovery-spec.md)
+
+   Output model is a single outer GM-only sealed <section.kg-discovery-index>
+   that holds:
+     – the container header strong + index <ul>
+     – per discovery, per tier:
+         · optional inline DM title strong (.kg-discovery__dm-title)
+         · activation line (.kg-discovery__activation)
+         · DM body paragraphs
+         · NESTED <section.kg-discovery-player> with the player block
+   Foundry hides every .secret block from non-GMs by default. There is no
+   un-secret chrome in the discovery output.
    --------------------------------------------------------------------------- */
 
-/* Both halves get the secret machinery for free; we just paint visual
-   grouping for the GM. Player clients never see un-revealed blocks. */
-.journal-entry-page :is(.kg-discovery-dm, .kg-discovery-player) {
-  position: relative;
-  border-left: 3px solid;
-  padding: 0.5rem 0.75rem;
-  margin: 0.35rem 0;
-}
-
-/* DM half — red (sealed) accent */
-.kg-discovery-dm {
-  border-left-color: #b13a3a;
-  background: rgba(177, 58, 58, 0.06);
-}
-.kg-discovery-dm > p:first-child strong {
-  color: #7a1f1f;
-  letter-spacing: 0.04em;
-}
-
-/* Player half — amber (un-revealed) accent */
-.kg-discovery-player {
-  border-left-color: #d49a2c;
-  background: rgba(212, 154, 44, 0.08);
-}
-.kg-discovery-player > p:first-child strong {
-  color: #6e4a08;
-  letter-spacing: 0.04em;
-}
-
-/* Once Foundry strips the .secret class on reveal, shift to "shared" green */
-.kg-discovery-player:not(.secret) {
-  border-left-color: #2f6d3a;
-  background: rgba(47, 109, 58, 0.07);
-}
-.kg-discovery-player:not(.secret) > p:first-child strong {
-  color: #1f4a26;
-}
-
-/* Activation line (skill-check / passive / interaction / ...) */
-.kg-discovery__activation {
-  margin: 0.15rem 0 0.5rem 0;
-  font-size: 0.92rem;
-  font-style: italic;
-  color: #4a3a18;
-}
-
-/* GM-side "Tier N" badge — only renders for discoveries with 2+ tiers.
-   Single-tier discoveries (data-tier-count="1") get no badge. */
-.kg-discovery-dm[data-tier-count]:not([data-tier-count="1"])::before {
-  content: "Tier " attr(data-tier-index);
-  display: inline-block;
-  padding: 0.05rem 0.45rem;
-  margin-right: 0.5rem;
-  font-size: 0.65rem;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #7a1f1f;
-  background: rgba(177, 58, 58, 0.12);
-  border: 1px solid rgba(177, 58, 58, 0.35);
-  border-radius: 3px;
-  vertical-align: middle;
-}
-
-/* Discovery index — GM-only sealed list of every discovery in the container */
+/* The outer container. Dashed amber border + faint amber wash so the GM
+   sees the discovery group at a glance. Colors tuned for both light parchment
+   and dark Foundry themes. */
 .kg-discovery-index {
-  border: 1px dashed #c9b885;
-  background: rgba(201, 184, 133, 0.08);
-  padding: 0.5rem 0.75rem;
-  margin: 0.5rem 0 1rem 0;
+  border: 1px dashed #c9a857;
+  background: rgba(201, 168, 87, 0.10);
+  padding: 0.6rem 0.85rem;
+  margin: 0.6rem 0 1rem 0;
+  border-radius: 3px;
 }
 .kg-discovery-index > p:first-child strong {
   font-size: 0.95rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: #6e4a08;
+  color: #d4a64a;
 }
 .kg-discovery-index ul {
-  margin: 0.35rem 0 0 0;
+  margin: 0.35rem 0 0.5rem 0;
   padding-left: 1.25rem;
 }
 .kg-discovery-index li {
@@ -285,45 +238,113 @@
   font-size: 0.9rem;
 }
 
-/* Per-discovery summary table — GM-only, multi-tier only.
-   Concise tier ladder (Check / DC / Result) shown above the tier blocks. */
-.kg-discovery-summary {
-  border: 1px solid rgba(122, 31, 31, 0.35);
-  background: rgba(177, 58, 58, 0.04);
-  padding: 0.5rem 0.75rem;
-  margin: 0.5rem 0 0.75rem 0;
-  border-radius: 3px;
+/* Per-tier DM title strong, inlined inside the container. Reads as a
+   sub-header above the activation/body/player block for that tier. */
+.kg-discovery__dm-title {
+  margin: 0.85rem 0 0.15rem 0;
+  padding-top: 0.55rem;
+  border-top: 1px solid rgba(201, 168, 87, 0.25);
 }
-.kg-discovery-summary > p:first-child strong {
+.kg-discovery__dm-title strong {
+  color: #e08e8e;
+  letter-spacing: 0.04em;
   font-size: 0.92rem;
+}
+/* First tier in the container has no preceding sibling content, so the
+   border-top is redundant. The :first-of-type selector handles the case
+   where the DM title immediately follows the index <ul>. */
+.kg-discovery-index > .kg-discovery__dm-title:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0.5rem;
+}
+
+/* Activation line (skill-check / passive / interaction / ...) — readable
+   on dark themes (was too dark previously). */
+.kg-discovery__activation {
+  margin: 0.15rem 0 0.5rem 0;
+  font-size: 0.92rem;
+  font-style: italic;
+  color: #c4a37a;
+}
+
+/* Inline tier-ladder summary header + table (multi-tier discoveries only).
+   Lives inside the container; no wrapper section. */
+.kg-discovery__summary-title {
+  margin: 0.85rem 0 0.25rem 0;
+  padding-top: 0.55rem;
+  border-top: 1px solid rgba(201, 168, 87, 0.25);
+}
+.kg-discovery__summary-title strong {
+  font-size: 0.9rem;
   letter-spacing: 0.04em;
   text-transform: uppercase;
-  color: #7a1f1f;
+  color: #d4a64a;
 }
-.kg-discovery-summary table {
+.kg-discovery__summary-table {
   width: 100%;
   border-collapse: collapse;
-  margin: 0.35rem 0 0 0;
+  margin: 0.25rem 0 0.5rem 0;
   font-size: 0.88rem;
 }
-.kg-discovery-summary th,
-.kg-discovery-summary td {
+.kg-discovery__summary-table th,
+.kg-discovery__summary-table td {
   padding: 0.3rem 0.5rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(201, 168, 87, 0.18);
   text-align: left;
   vertical-align: top;
 }
-.kg-discovery-summary th {
+.kg-discovery__summary-table th {
   font-size: 0.7rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: #6e4a08;
-  background: rgba(201, 184, 133, 0.1);
-  border-bottom-color: rgba(122, 31, 31, 0.25);
+  color: #d4a64a;
+  background: rgba(201, 168, 87, 0.08);
 }
-.kg-discovery-summary tbody tr:last-child th,
-.kg-discovery-summary tbody tr:last-child td {
+.kg-discovery__summary-table tbody tr:last-child td {
   border-bottom: none;
+}
+
+/* Nested player section — amber accent before reveal, green after.
+   Slightly inset from the parent so it reads as the "share-with-table" half. */
+.kg-discovery-player {
+  position: relative;
+  border-left: 3px solid #d4a64a;
+  background: rgba(212, 166, 74, 0.12);
+  padding: 0.5rem 0.75rem;
+  margin: 0.35rem 0 0.6rem 0;
+  border-radius: 0 3px 3px 0;
+}
+.kg-discovery-player > p:first-child strong {
+  color: #e8c878;
+  letter-spacing: 0.04em;
+}
+
+/* Once Foundry strips the .secret class on reveal, shift to "shared" green. */
+.kg-discovery-player:not(.secret) {
+  border-left-color: #6dba6a;
+  background: rgba(109, 186, 106, 0.12);
+}
+.kg-discovery-player:not(.secret) > p:first-child strong {
+  color: #9be09a;
+}
+
+/* GM-side "Tier N" badge — rendered next to the player block when this is
+   a multi-tier discovery, so the GM can tell at a glance which rung this is.
+   Single-tier discoveries (data-tier-count="1") get no badge. */
+.kg-discovery-player[data-tier-count]:not([data-tier-count="1"])::before {
+  content: "Tier " attr(data-tier-index);
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  margin-right: 0.5rem;
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #d4a64a;
+  background: rgba(212, 166, 74, 0.16);
+  border: 1px solid rgba(212, 166, 74, 0.45);
+  border-radius: 3px;
+  vertical-align: middle;
 }
 
 /* ---------------------------------------------------------------------------
@@ -363,110 +384,114 @@
   font-weight: 600;
 }
 
+/* Color tokens are tuned to read on BOTH the parchment-light theme and the
+   default dark Foundry theme. Strong-tag colors land in the L*60-65 range
+   so they're vivid on dark and still saturated enough to read on light. */
+
 /* 1. Encounter — red (combat) */
 .kg-sealed-encounter {
-  border-left-color: #b13a3a;
-  background: rgba(177, 58, 58, 0.06);
+  border-left-color: #c14a4a;
+  background: rgba(193, 74, 74, 0.10);
 }
-.kg-sealed-encounter > p:first-child strong { color: #7a1f1f; }
+.kg-sealed-encounter > p:first-child strong { color: #e08e8e; }
 .kg-sealed-encounter[data-kind]::before {
-  color: #7a1f1f;
-  background: rgba(177, 58, 58, 0.12);
-  border-color: rgba(177, 58, 58, 0.35);
+  color: #e08e8e;
+  background: rgba(193, 74, 74, 0.16);
+  border-color: rgba(193, 74, 74, 0.45);
 }
 
 /* 2. Spatial — steel blue (reference) */
 .kg-sealed-spatial {
-  border-left-color: #3a6db1;
-  background: rgba(58, 109, 177, 0.06);
+  border-left-color: #4a86c4;
+  background: rgba(74, 134, 196, 0.10);
 }
-.kg-sealed-spatial > p:first-child strong { color: #1f3a7a; }
+.kg-sealed-spatial > p:first-child strong { color: #8ab8e0; }
 .kg-sealed-spatial[data-kind]::before {
-  color: #1f3a7a;
-  background: rgba(58, 109, 177, 0.12);
-  border-color: rgba(58, 109, 177, 0.35);
+  color: #8ab8e0;
+  background: rgba(74, 134, 196, 0.16);
+  border-color: rgba(74, 134, 196, 0.45);
 }
 
 /* 3. VTT Checklist — orange (action items) */
 .kg-sealed-vtt-checklist {
   border-left-color: #d47a2c;
-  background: rgba(212, 122, 44, 0.07);
+  background: rgba(212, 122, 44, 0.10);
 }
-.kg-sealed-vtt-checklist > p:first-child strong { color: #6e3a08; }
+.kg-sealed-vtt-checklist > p:first-child strong { color: #e8a868; }
 .kg-sealed-vtt-checklist[data-kind]::before {
-  color: #6e3a08;
-  background: rgba(212, 122, 44, 0.12);
-  border-color: rgba(212, 122, 44, 0.35);
+  color: #e8a868;
+  background: rgba(212, 122, 44, 0.16);
+  border-color: rgba(212, 122, 44, 0.45);
 }
 
 /* 4. DM Notes — slate (neutral staging) */
 .kg-sealed-dm-notes {
-  border-left-color: #5a6470;
-  background: rgba(90, 100, 112, 0.07);
+  border-left-color: #7a8694;
+  background: rgba(122, 134, 148, 0.10);
 }
-.kg-sealed-dm-notes > p:first-child strong { color: #2e3540; }
+.kg-sealed-dm-notes > p:first-child strong { color: #b8c0cc; }
 .kg-sealed-dm-notes[data-kind]::before {
-  color: #2e3540;
-  background: rgba(90, 100, 112, 0.12);
-  border-color: rgba(90, 100, 112, 0.35);
+  color: #b8c0cc;
+  background: rgba(122, 134, 148, 0.16);
+  border-color: rgba(122, 134, 148, 0.45);
 }
 
 /* 5. Scene — purple (theatrical) */
 .kg-sealed-scene {
-  border-left-color: #7a3ab1;
-  background: rgba(122, 58, 177, 0.06);
+  border-left-color: #9a5ad1;
+  background: rgba(154, 90, 209, 0.10);
 }
-.kg-sealed-scene > p:first-child strong { color: #4a1f7a; }
+.kg-sealed-scene > p:first-child strong { color: #c498e8; }
 .kg-sealed-scene[data-kind]::before {
-  color: #4a1f7a;
-  background: rgba(122, 58, 177, 0.12);
-  border-color: rgba(122, 58, 177, 0.35);
+  color: #c498e8;
+  background: rgba(154, 90, 209, 0.16);
+  border-color: rgba(154, 90, 209, 0.45);
 }
 
 /* 6. Campaign — deep navy (sealed plot) */
 .kg-sealed-campaign {
-  border-left-color: #1f2a5a;
-  background: rgba(31, 42, 90, 0.07);
+  border-left-color: #4858a8;
+  background: rgba(72, 88, 168, 0.10);
 }
-.kg-sealed-campaign > p:first-child strong { color: #0f1638; }
+.kg-sealed-campaign > p:first-child strong { color: #98a8d8; }
 .kg-sealed-campaign[data-kind]::before {
-  color: #0f1638;
-  background: rgba(31, 42, 90, 0.12);
-  border-color: rgba(31, 42, 90, 0.35);
+  color: #98a8d8;
+  background: rgba(72, 88, 168, 0.16);
+  border-color: rgba(72, 88, 168, 0.45);
 }
 
 /* 7. Pacing — teal (timing/flow) */
 .kg-sealed-pacing {
-  border-left-color: #2c8a8a;
-  background: rgba(44, 138, 138, 0.06);
+  border-left-color: #3da8a8;
+  background: rgba(61, 168, 168, 0.10);
 }
-.kg-sealed-pacing > p:first-child strong { color: #134c4c; }
+.kg-sealed-pacing > p:first-child strong { color: #6dd0d0; }
 .kg-sealed-pacing[data-kind]::before {
-  color: #134c4c;
-  background: rgba(44, 138, 138, 0.12);
-  border-color: rgba(44, 138, 138, 0.35);
+  color: #6dd0d0;
+  background: rgba(61, 168, 168, 0.16);
+  border-color: rgba(61, 168, 168, 0.45);
 }
 
 /* 8. Open Items — yellow (incomplete / TBD) */
 .kg-sealed-open-items {
-  border-left-color: #c9a92c;
-  background: rgba(201, 169, 44, 0.08);
+  border-left-color: #d4b048;
+  background: rgba(212, 176, 72, 0.12);
 }
-.kg-sealed-open-items > p:first-child strong { color: #6e5a08; }
+.kg-sealed-open-items > p:first-child strong { color: #e8c878; }
 .kg-sealed-open-items[data-kind]::before {
-  color: #6e5a08;
-  background: rgba(201, 169, 44, 0.14);
-  border-color: rgba(201, 169, 44, 0.4);
+  color: #e8c878;
+  background: rgba(212, 176, 72, 0.18);
+  border-color: rgba(212, 176, 72, 0.5);
 }
 
 /* 9. Connections — green (links/cross-refs) */
 .kg-sealed-connections {
-  border-left-color: #2f8a3a;
-  background: rgba(47, 138, 58, 0.07);
+  border-left-color: #4ca858;
+  background: rgba(76, 168, 88, 0.10);
 }
-.kg-sealed-connections > p:first-child strong { color: #154c1f; }
+.kg-sealed-connections > p:first-child strong { color: #8ad498; }
 .kg-sealed-connections[data-kind]::before {
-  color: #154c1f;
-  background: rgba(47, 138, 58, 0.12);
-  border-color: rgba(47, 138, 58, 0.35);
+  color: #8ad498;
+  background: rgba(76, 168, 88, 0.16);
+  border-color: rgba(76, 168, 88, 0.45);
 }
