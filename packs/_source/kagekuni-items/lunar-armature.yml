@@ -2,7 +2,7 @@ _id: ROGeeXIGj771PRoI
 _key: '!items!ROGeeXIGj771PRoI'
 name: Lunar Armature
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
+img: modules/assistant/assets/items/lunar-armature.webp
 folder: hjk4ChCrMYsIEqYq
 sort: 0
 ownership:
@@ -26,10 +26,12 @@ system:
   container: null
   unidentified:
     name: ''
-    description: A delicate set of four jointed brass arms, light enough to swing freely on their pivots when handled.
+    description: >-
+      A single delicate jointed brass arm, perhaps two feet long when extended, with a small empty mounting cradle at
+      its tip and fine calibration scoring along the shaft.
   quantity: 1
   weight:
-    value: 4
+    value: 1
     units: lb
   price:
     value: 0
@@ -55,10 +57,14 @@ system:
   equipped: false
   description:
     value: >
-      <p>A lunar armature: four delicate jointed arms designed to model the major lunar cycles around the orrery&#39;s
-      stellar drive. Each arm is calibrated to a different period; together they reproduce the sky as the temple&#39;s
-      makers understood it. Originally stored in the Scriptorium of Ōryūzan Tenkū-ji, sealed away when the order
-      fell.</p>
+      <p>One of four lunar armatures from Ōryūzan Tenkū-ji&#39;s orrery — a single delicate jointed brass arm,
+      calibrated to one of the four lunar periods. The arm&#39;s far end terminates in a small mounting cradle that
+      seats a lunar projection lens; the arm itself is the structure that affixes the moon to the orrery&#39;s stellar
+      drive. It does not carry the moon; it places it. The four arms together reproduce the lunar sky as the
+      temple&#39;s makers understood it.</p>
+
+      <p>Originally stored in the Scriptorium of Ōryūzan Tenkū-ji, sealed away when the order fell. The full set of four
+      is required to fully repair the orrery&#39;s lunar function.</p>
     chat: ''
 effects: []
 _stats:

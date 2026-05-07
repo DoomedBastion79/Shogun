@@ -2,7 +2,7 @@ _id: Wqt8h0ktZuIqiZSP
 _key: '!items!Wqt8h0ktZuIqiZSP'
 name: Stellar Drive Mechanism
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
+img: modules/assistant/assets/items/stellar-drive.webp
 folder: hjk4ChCrMYsIEqYq
 sort: 0
 ownership:
@@ -27,11 +27,11 @@ system:
   unidentified:
     name: ''
     description: >-
-      A heavy mechanism of dark bronze and steel, seized solid by centuries of stillness. Larger than a person can
-      comfortably carry.
+      A dense, palm-and-forearm-sized cylinder of dark bronze and steel — heavy for its size, seized solid by centuries
+      of stillness, with the precision-cut feel of a clockwork core.
   quantity: 1
   weight:
-    value: 50
+    value: 15
     units: lb
   price:
     value: 0
@@ -57,10 +57,13 @@ system:
   equipped: false
   description:
     value: >
-      <p>The stellar drive of Ōryūzan Tenkū-ji&#39;s orrery — the central rotational engine that translates sei input
-      into mechanical output across the planetary, lunar, and projection systems. Currently seized. Freeing it requires
-      careful work rather than force; the drive is precision-cut and damage to the central spindle would be
-      catastrophic. Once the drive is moving, it stays moving.</p>
+      <p>The stellar drive of Ōryūzan Tenkū-ji&#39;s orrery — the precision clockwork core that translates sei input
+      into mechanical output across the planetary, lunar, and projection systems. About the size of a large lantern,
+      dense for its size, designed to seat into the orrery&#39;s central spindle housing on the second floor; it is not
+      the spindle itself but the heart inside it.</p>
+
+      <p>Currently seized. Freeing it requires careful work rather than force; the drive is precision-cut and damage to
+      its bearings or central pin would be catastrophic. Once the drive is moving, it stays moving.</p>
     chat: ''
 effects: []
 _stats:
