@@ -179,7 +179,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/infallible-hamilton-8b8aef/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
     slug: st-nishihara
     frontmatter:
       name: Nishihara

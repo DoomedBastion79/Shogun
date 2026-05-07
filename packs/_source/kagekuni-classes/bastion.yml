@@ -15,7 +15,7 @@ flags:
     frontmatter:
       name: Bastion
       type: class
-      hit_die: d6
+      hit_die: d8
       primary_ability:
         - cha
       saving_throws:
@@ -24,7 +24,9 @@ flags:
       armor: []
       weapons:
         - simple
-      tools: []
+        - martial
+      tools:
+        - herbalist's kit
       skills:
         choose: 3
         from:
@@ -103,21 +105,25 @@ system:
 
       <ul>
 
-      <li><strong>Hit Die:</strong> d6 (6 + Con at 1st; 1d6 + Con per level after)</li>
+      <li><strong>Hit Die:</strong> d8 (8 + Con at 1st; 1d8 + Con per level after)</li>
 
       <li><strong>Saves:</strong> Charisma, Constitution</li>
 
-      <li><strong>Armor:</strong> None</li>
+      <li><strong>Armor:</strong> None — armor blocks the flow of sei and prevents Spell Absorption</li>
 
-      <li><strong>Weapons:</strong> Simple weapons</li>
+      <li><strong>Weapons:</strong> Simple, Martial</li>
 
-      <li><strong>Tools:</strong> None</li>
+      <li><strong>Tools:</strong> Herbalist&#39;s kit</li>
 
       <li><strong>Skills:</strong> Pick 3 from Arcana, Deception, History, Insight, Intimidation,
 
       Medicine, Perception, Religion</li>
 
-      <li><strong>Spellcasting:</strong> Cleric spell list, Charisma-based, known spells (not prepared)</li>
+      <li><strong>Spellcasting:</strong> Half-caster on the Cleric spell list, Charisma-based,
+
+      prepared (CHA mod + half level). Maximum slot level is 5th.</li>
+
+      <li><strong>Bonded Item:</strong> Sei Codex (acquired at 2nd level)</li>
 
       <li><strong>Subclass pick at:</strong> Level 3 (Bastion Order)</li>
 
@@ -131,23 +137,35 @@ system:
 
       <ul>
 
-      <li>(a) any simple weapon, staff, or warhammer</li>
+      <li>(a) any martial weapon or (b) any simple weapon, staff, or warhammer</li>
 
       <li>(a) a sling and 20 stones</li>
 
       <li>(a) an adventurer&#39;s pack or (b) a priest&#39;s pack</li>
 
+      <li>An herbalist&#39;s kit</li>
+
+      <li>Your <strong>Sei Codex</strong> is forged at 2nd level (no starting cost)</li>
+
       </ul>
 
       <h3 id="kg-quick-build" data-section="quick-build">Quick Build</h3>
 
-      <p>Charisma is your primary stat — it drives AC, spellcasting, and most class
+      <p>Charisma is your primary stat — it drives AC, spellcasting, Sei Deflection
 
-      features. Constitution provides HP to absorb more magical energy. Dexterity
+      temp HP, and most class features. Constitution provides HP to absorb more
 
-      improves AC and reflexive capabilities.</p>
+      magical energy and to weather the max-HP cost of Codex casts. Dexterity
+
+      improves AC and reflexive capabilities. With martial weapon proficiency,
+
+      Dexterity (or Strength, for melee) also feeds your weapon attacks — useful
+
+      for non-spell encounters.</p>
 
       <h3 id="kg-progression-table" data-section="progression-table">Progression Table</h3>
+
+      <p>Spells prepared each long rest = <strong>CHA mod + half Bastion level</strong> (rounded down, min 1).</p>
 
       <table>
 
@@ -163,8 +181,6 @@ system:
 
       <th>Cantrips</th>
 
-      <th>Spells Known</th>
-
       <th>1st</th>
 
       <th>2nd</th>
@@ -174,10 +190,6 @@ system:
       <th>4th</th>
 
       <th>5th</th>
-
-      <th>6th</th>
-
-      <th>7th</th>
 
       </tr>
 
@@ -195,12 +207,6 @@ system:
 
       <td>2</td>
 
-      <td>1</td>
-
-      <td>—</td>
-
-      <td>—</td>
-
       <td>—</td>
 
       <td>—</td>
@@ -217,17 +223,11 @@ system:
 
       <td>+2</td>
 
-      <td>Spell Absorption</td>
+      <td>Spell Absorption, Sei Deflection, Sei Codex</td>
 
       <td>2</td>
 
-      <td>3</td>
-
       <td>2</td>
-
-      <td>—</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -249,13 +249,7 @@ system:
 
       <td>2</td>
 
-      <td>4</td>
-
-      <td>2</td>
-
-      <td>1</td>
-
-      <td>—</td>
+      <td>3</td>
 
       <td>—</td>
 
@@ -277,13 +271,7 @@ system:
 
       <td>2</td>
 
-      <td>5</td>
-
       <td>3</td>
-
-      <td>1</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -305,15 +293,9 @@ system:
 
       <td>3</td>
 
-      <td>6</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>2</td>
-
-      <td>—</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -333,15 +315,9 @@ system:
 
       <td>3</td>
 
-      <td>7</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>2</td>
-
-      <td>1</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -361,15 +337,9 @@ system:
 
       <td>3</td>
 
-      <td>8</td>
+      <td>4</td>
 
       <td>3</td>
-
-      <td>2</td>
-
-      <td>2</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -389,15 +359,9 @@ system:
 
       <td>3</td>
 
-      <td>9</td>
+      <td>4</td>
 
       <td>3</td>
-
-      <td>3</td>
-
-      <td>2</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -413,21 +377,15 @@ system:
 
       <td>+4</td>
 
-      <td>—</td>
+      <td>Counterstrike</td>
 
       <td>3</td>
 
-      <td>10</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>2</td>
-
-      <td>1</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -445,17 +403,11 @@ system:
 
       <td>3</td>
 
-      <td>11</td>
+      <td>4</td>
 
       <td>3</td>
 
-      <td>3</td>
-
-      <td>3</td>
-
-      <td>1</td>
-
-      <td>—</td>
+      <td>2</td>
 
       <td>—</td>
 
@@ -473,17 +425,11 @@ system:
 
       <td>3</td>
 
-      <td>12</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
-
-      <td>3</td>
-
-      <td>1</td>
-
-      <td>1</td>
 
       <td>—</td>
 
@@ -501,17 +447,11 @@ system:
 
       <td>4</td>
 
-      <td>12</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
-
-      <td>3</td>
-
-      <td>2</td>
-
-      <td>1</td>
 
       <td>—</td>
 
@@ -529,19 +469,13 @@ system:
 
       <td>4</td>
 
-      <td>13</td>
-
-      <td>3</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
       <td>1</td>
-
-      <td>—</td>
 
       <td>—</td>
 
@@ -557,19 +491,13 @@ system:
 
       <td>4</td>
 
-      <td>13</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
-      <td>3</td>
-
-      <td>3</td>
-
-      <td>2</td>
-
-      <td>—</td>
+      <td>1</td>
 
       <td>—</td>
 
@@ -585,19 +513,13 @@ system:
 
       <td>4</td>
 
-      <td>14</td>
-
-      <td>3</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
       <td>2</td>
-
-      <td>1</td>
 
       <td>—</td>
 
@@ -613,19 +535,13 @@ system:
 
       <td>4</td>
 
-      <td>14</td>
-
-      <td>3</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
       <td>2</td>
-
-      <td>1</td>
 
       <td>—</td>
 
@@ -641,19 +557,13 @@ system:
 
       <td>4</td>
 
-      <td>15</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
       <td>3</td>
-
-      <td>3</td>
-
-      <td>2</td>
-
-      <td>1</td>
 
       <td>1</td>
 
@@ -669,19 +579,13 @@ system:
 
       <td>4</td>
 
-      <td>15</td>
+      <td>4</td>
 
       <td>3</td>
 
       <td>3</td>
 
       <td>3</td>
-
-      <td>3</td>
-
-      <td>2</td>
-
-      <td>1</td>
 
       <td>1</td>
 
@@ -697,9 +601,7 @@ system:
 
       <td>4</td>
 
-      <td>15</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
@@ -708,10 +610,6 @@ system:
       <td>3</td>
 
       <td>2</td>
-
-      <td>1</td>
-
-      <td>1</td>
 
       </tr>
 
@@ -725,9 +623,7 @@ system:
 
       <td>4</td>
 
-      <td>15</td>
-
-      <td>3</td>
+      <td>4</td>
 
       <td>3</td>
 
@@ -737,26 +633,27 @@ system:
 
       <td>2</td>
 
-      <td>1</td>
-
-      <td>1</td>
-
       </tr>
 
       </tbody></table>
 
+      <p><em lang="ja-Latn">Spells of 6th level and higher are unavailable as native slots and must be reached through
+      your Sei Codex (inscribed via Spell Absorption) or Divine Mastery&#39;s reserved inscriptions.</em></p>
+
       <h3 id="kg-core-class-features-summaries" data-section="core-class-features-summaries">Core Class Features
       (Summaries)</h3>
 
-      <p>Paraphrased from the source. Consult the GM Binder document for full rules text.</p>
-
       <ul>
 
-      <li><strong>Spellcasting (1):</strong> Uses the Cleric spell list with Charisma as the casting
+      <li><strong>Spellcasting (1):</strong> Half-caster on the Cleric spell list with Charisma
 
-      stat. Known spells (not prepared) — learn 2 at 1st level and more as shown in
+      as the casting stat. Spell slots progress as a Paladin, extended so the
 
-      the table. Can swap one known spell per level-up. Ritual casting supported.
+      Bastion has slots from 1st level. Maximum slot level is 5th. Spells are
+
+      <strong>prepared</strong> each long rest: prepare CHA mod + ½ Bastion level (round down,
+
+      min 1). Cantrips: 2 / 3 (L5) / 4 (L12). Ritual casting supported.
 
       Spellcasting focus: holy symbol, staff, or wand.<ul>
 
@@ -764,77 +661,159 @@ system:
 
       <li><em lang="ja-Latn">Spell attack = PB + CHA mod</em></li>
 
-      </ul>
-
-      </li>
-
-      <li><strong>Unarmored Defense (1):</strong> While wearing no armor, AC = 10 + DEX mod + CHA mod.</li>
-
-      <li><strong>Spell Absorption (2):</strong> As a reaction when an enemy you can see within 60 ft
-
-      casts a spell, you can absorb it. The absorbed spell&#39;s levels are distributed
-
-      among your empty spell slots. You may make an Arcana check against the caster&#39;s
-
-      DC to identify the spell first. Range increases to 120 ft at 12th level and
-
-      180 ft at 16th level.<ul>
-
-      <li><strong>Overload Pool:</strong> Spell levels that cannot fit into empty slots go into an
-
-      overload pool. Using overload magic to cast costs 1d6 max HP per overload
-
-      level used (not mitigable; restored on long rest).</li>
-
-      <li><strong>Mass Discharge:</strong> At end of your turn, if overload is not empty, the raw
-
-      magic discharges: 1d10 psychic per overload point to yourself, and every
-
-      creature within 15 ft makes an INT save (DC 12 + overload points) for half.</li>
+      <li><em lang="ja-Latn">Cannot multiclass with another spellcasting class.</em></li>
 
       </ul>
 
       </li>
 
-      <li><strong>Bastion Order (3):</strong> Choose a subclass: Order of the Sword, Order of the
+      <li><strong>Unarmored Defense (1):</strong> While wearing no armor, AC = 10 + DEX mod + CHA mod.
 
-      Shield, or Order of the Staff. Features at 3, 5, 10, 18.</li>
+      Armor is a sei barrier and prevents Spell Absorption.</li>
 
-      <li><strong>Bolster Spell (5):</strong> You can use overload points to upcast a spell (up to
+      <li><strong>Spell Absorption (2):</strong> Reaction when a creature you can see within 60 ft
 
-      your max spell level). Cannot use this to cast higher-level spells you don&#39;t
+      casts a spell. Optional Arcana check vs. caster&#39;s DC to identify the spell
 
-      have slots for — only to increase the casting level of a spell already being
+      first. Choose a destination for the absorbed levels: empty spell slots,
 
-      cast from a slot.</li>
+      Sei Codex (inscribe), or overload pool. Leftover levels spill to overload.
 
-      <li><strong>Magic Field (7):</strong> When you are the target of a magical effect or within a
+      Range becomes 120 ft at L12, 180 ft at L16.<ul>
 
-      spell&#39;s area, make a CHA save (DC 14 + spell level). On failure, you
+      <li><em lang="ja-Latn">Self-cast exclusion:</em> never triggers on your own spells, nor on spells
 
-      automatically absorb the spell via Spell Absorption. This is not considered
+      aimed at you only by an aiding ally.</li>
 
-      magical for advantage purposes.</li>
+      <li><strong>Overload Pool:</strong> spent points fuel features like Bolster Spell; each
 
-      <li><strong>Arcane Sight (10):</strong> You permanently see as if <em lang="ja-Latn">detect magic</em> is cast. At
+      point spent costs 1d6 max HP (recovered on long rest).</li>
 
-      14th level, you gain truesight.</li>
+      <li><strong>Mass Discharge:</strong> end of turn, overload discharges as 1d10 psychic
 
-      <li><strong>Absorbing Touch (13):</strong> As an action, absorb one spell effect on yourself or
+      per point to you + INT save (DC 12 + points) for half to creatures
 
-      one willing creature you touch. Uses: CHA mod per long rest.</li>
+      within 15 ft.</li>
+
+      </ul>
+
+      </li>
+
+      <li><strong>Sei Deflection (2):</strong> Reaction when a creature within 30 ft makes a
+
+      weapon attack vs. you or an ally within 30 ft — impose disadvantage and
+
+      grant temp HP equal to your Bastion level + CHA mod. PB / long rest.<ul>
+
+      <li><strong>Counterstrike (9):</strong> if the disadvantaged attack still hits, you may
+
+      expend a spell slot (no higher than half your level rounded up) to
+
+      reduce damage by 1d10 / slot level and grant additional temp HP equal
+
+      to the damage reduced. Same reaction.</li>
+
+      </ul>
+
+      </li>
+
+      <li><strong>Sei Codex (2):</strong> You forge your bonded Sei Codex (a personal artifact
+
+      of your choosing — book, jade tablet, fan, tattoo set, weapon-engraving,
+
+      etc.). It requires attunement.<ul>
+
+      <li><em lang="ja-Latn">Inscribe</em> absorbed spells into the Codex (any class list, any level).</li>
+
+      <li><em lang="ja-Latn">Capacity:</em> CHA mod + PB inscriptions; release one on long rest, or
+
+      force-release mid-day for 1d10 psychic / spell level to yourself.</li>
+
+      <li><em lang="ja-Latn">Cast</em> from the Codex as an action (your DC, components consumed). Cast
+
+      at the absorbed level or upcast up to your highest available slot.</li>
+
+      <li><em lang="ja-Latn">Cost:</em> <code>cast level × 1d6</code> max HP, recovered on long rest.</li>
+
+      <li><em lang="ja-Latn">Daily uses:</em> unlimited at or below your max slot; CHA mod / long rest
+
+      for casts above your max slot, pooled.</li>
+
+      <li><em lang="ja-Latn">Wish stress:</em> RAW; on failure, the Wish inscription burns out and
+
+      Wish is permanently unavailable to you.</li>
+
+      <li><em lang="ja-Latn">Loss:</em> if the Codex is destroyed/unrecovered, all inscriptions are
+
+      lost. Replacement: 7 days + 100 gp; starts empty.</li>
+
+      </ul>
+
+      </li>
+
+      <li><strong>Bastion Order (3):</strong> Choose a subclass: Order of the Sword, Order of
+
+      the Shield, or Order of the Staff. Features at 3, 5, 10, 18.<ul>
+
+      <li><em lang="ja-Latn">Channeling Pool:</em> CHA mod + PB charges per long rest, used by your
+
+      Order&#39;s signature feature (Sei Brand, Divine Ward, or Sei Conduit).
+
+      Some uses consume additional resources (notably Shield&#39;s Recharge Ward
+
+      action and its slot/overload empowerment).</li>
+
+      </ul>
+
+      </li>
+
+      <li><strong>Bolster Spell (5):</strong> When casting from a slot, spend overload points to
+
+      raise the spell&#39;s effective casting level by 1 per point, up to your max
+
+      slot level (5th). Does not apply to Codex casts or Divine Mastery casts.</li>
+
+      <li><strong>Magic Field (7):</strong> When you are the target of a magical effect or
+
+      within a spell&#39;s area, make a CHA save (DC 14 + spell level). On failure,
+
+      you automatically absorb the spell via Spell Absorption. This is not
+
+      considered magical for advantage purposes.</li>
+
+      <li><strong>Arcane Sight (10):</strong> You permanently see as if <em lang="ja-Latn">detect magic</em> is cast.
+
+      At 14th level, you gain truesight.</li>
+
+      <li><strong>Absorbing Touch (13):</strong> As an action, absorb one spell effect on
+
+      yourself or one willing creature you touch. Uses: CHA mod per long rest.</li>
 
       <li><strong>Arcane Appetite (14):</strong> You are resistant to magic and magical effects.</li>
 
-      <li><strong>Divine Mastery (20):</strong> Cast one 8th-level and one 9th-level spell per long
+      <li><strong>Divine Mastery (20):</strong> Two reserved inscription slots are added to your
 
-      rest from a specific list:<ul>
+      Sei Codex outside its normal capacity — one 8th-level and one 9th-level
+
+      spell from the Divine Mastery lists:<ul>
 
       <li><em lang="ja-Latn">8th:</em> Antimagic Field, Control Weather, Dominate Monster, Earthquake,
 
       Holy Aura, Mind Blank, Sunburst</li>
 
-      <li><em lang="ja-Latn">9th:</em> Invulnerability, Mass Heal, Prismatic Wall, True Resurrection, Wish</li>
+      <li><em lang="ja-Latn">9th:</em> Invulnerability, Mass Heal, Prismatic Wall, True Resurrection, Wish
+
+      Reserved inscriptions cast with <strong>no max HP cost</strong>, <strong>once per inscription</strong>
+
+      between long rests. Long rest refreshes both as the same spell; you may
+
+      instead swap either to a different spell of the same tier from the Divine
+
+      Mastery list (swapping also refreshes). Casts still count against the CHA
+
+      mod / long rest above-tier Codex cap. <em lang="ja-Latn">Wish stress is RAW:</em> on failure,
+
+      the inscription burns out and Wish is permanently unavailable.</li>
 
       </ul>
 
@@ -845,85 +824,101 @@ system:
       <h3 id="kg-orders-of-the-bastion-subclasses" data-section="orders-of-the-bastion-subclasses">Orders of the Bastion
       (Subclasses)</h3>
 
-      <p><strong>1. Order of the Sword</strong> — Offensive magic focus. Uses the flow of sei to
+      <p><strong>Channeling Pool.</strong> Each Order grants you a signature method of channeling sei into a target —
+      Sei Brand (Sword), Divine Ward (Shield), or Sei Conduit (Staff). You may channel a number of times per long rest
+      equal to <strong>CHA mod + PB</strong> (charges). The cost of placing your Order&#39;s signature feature is one
+      charge. Some uses (notably Shield&#39;s Recharge Ward action and slot/overload empowerment) consume additional
+      resources beyond a charge.</p>
 
-      empower spells and minimize overload cost when on the attack.</p>
+      <p><strong>1. Order of the Sword</strong> — Offensive focus. Brands a single hostile target as the focal point of
+      your party&#39;s offense, then channels overload and Codex casts to amplify every blow.</p>
 
       <ul>
 
-      <li><strong>Divine Precision (3):</strong> Bonus action: +10 to a ranged spell attack roll
+      <li><strong>Sei Brand (3):</strong> Bonus action; spend one charge to brand a hostile creature within 30 ft for 1
+      minute or until they drop to 0 HP. Allies&#39; attacks against the branded creature deal +PB force damage. Your
+      other Sword features trigger only against branded targets. One brand at a time (two at L18).</li>
 
-      (after seeing the roll, before result). Uses: CHA mod per long rest.</li>
+      <li><strong>Divine Precision (3):</strong> Bonus action: +10 to a ranged spell attack roll or martial weapon
+      attack roll, after seeing the d20 result. Works on any target. CHA mod / long rest.</li>
 
-      <li><strong>Managed Overload (5):</strong> Add CHA mod to damage on single-target spells cast
+      <li><strong>Sei-Edged Strike (5):</strong> Once per turn, when you hit a branded creature with a weapon attack or
+      spell attack, or when a branded creature fails a save against your single-target damaging spell, deal +1d6 force
+      damage. Scales 2d6/3d6 at L11/L17. Die becomes d8 if the trigger came from overload or Codex. Overload max-HP
+      costs are halved (Efficient Channel).</li>
 
-      from overload. Take half the max HP damage when using overload for ranged
+      <li><strong>Divine Leverage (10):</strong> When you cast a damaging spell against a branded target using overload
+      or Codex, choose advantage on attack rolls or disadvantage on the branded target&#39;s first save. <em
+      lang="ja-Latn">Killing Stride:</em> when you reduce any creature to 0 HP (branded or not) with any
+      attack/spell/feature, make a weapon attack or cantrip as a bonus action.</li>
 
-      spell attacks.</li>
-
-      <li><strong>Divine Leverage (10):</strong> Advantage on spell attacks made entirely from
-
-      overload magic. Bolstered spells (slot + overload) do not benefit.</li>
-
-      <li><strong>Divine Retribution (18):</strong> When casting a single-target spell, duplicate it
-
-      to a second target using overload levels equal to the spell level. Uses: CHA
-
-      mod per long rest.</li>
+      <li><strong>Divine Retribution (18):</strong> Concurrent brands becomes 2. When you cast a single-target damaging
+      spell against a branded target, duplicate it to a second creature within range; the duplicate&#39;s target also
+      becomes branded if you have a free brand slot. Cost: overload = spell level, or <code>spell level × 1d6</code> max
+      HP if overload is insufficient. CHA mod / long rest. (Sei-Edged fires once per turn — original only.)</li>
 
       </ul>
 
-      <p><strong>2. Order of the Shield</strong> — Defensive and protection focus. Manipulates the
-
-      flow of sei to ward allies and resist harmful effects.</p>
+      <p><strong>2. Order of the Shield</strong> — Defensive and protection focus. Channels sei into Divine Wards that
+      absorb damage, detonate when overload-fueled, and progressively shield more allies as the Bastion grows.</p>
 
       <ul>
 
-      <li><strong>Divine Ward (3):</strong> Bonus action: expend a spell slot to place a ward on a
+      <li><strong>Divine Ward (3):</strong> Bonus action; spend one charge to ward a willing creature within 30 ft for 1
+      minute. <em lang="ja-Latn">Charge alone:</em> CHA mod temp HP. <em lang="ja-Latn">Charge + slot:</em>
+      <code>1d8/slot + CHA mod</code> temp HP. <em lang="ja-Latn">Charge + overload (Sei-Wrought):</em> same scale, plus
+      detonation enabled. The ward persists for the full minute regardless of temp HP state. <em
+      lang="ja-Latn">Voluntary Detonation</em> (Sei-Wrought only) lets the warded creature spend the ward at temp HP = 0
+      to deal force damage in a 10-ft radius (DEX save). <em lang="ja-Latn">Recharge Ward:</em> as an action, spend a
+      slot or overload to replace a ward&#39;s temp HP pool (duration not reset).</li>
 
-      creature within 30 ft. Ward absorbs 1d6 damage per spell slot level.</li>
+      <li><strong>Improved Divine Ward (5):</strong> Warded creatures gain resistance to non-magical p/s/b and
+      <strong>+1 AC</strong>. When a ward&#39;s temp HP is reduced to 0 (the moment it transitions to its persistent
+      state), the warded creature gains temp HP equal to CHA mod + half Bastion level. Bastion adds PB to WIS
+      saves.</li>
 
-      <li><strong>Improved Divine Ward (5):</strong> Warded creatures have resistance to non-magical
+      <li><strong>Divine Protection (10):</strong> Immune to disease, poison damage, the poisoned condition, and the
+      frightened condition. Reaction: when a creature within 30 ft would be charmed/frightened/poisoned, place a Divine
+      Ward on them (paying the normal cost) and the save automatically succeeds. Concurrent ward limit increases to
+      <strong>2</strong>.</li>
 
-      piercing, bludgeoning, and slashing. Bastion adds PB to WIS saves.</li>
-
-      <li><strong>Divine Protection (10):</strong> Immune to disease, poison damage, and the
-
-      poisoned condition.</li>
-
-      <li><strong>Divine Guard (18):</strong> Resistant to magic and magical effects (except Mass
-
-      Discharge).</li>
+      <li><strong>Divine Guard (18):</strong> Concurrent ward limit increases to <strong>3</strong>. You and any warded
+      creature have resistance to damage from spells. <em lang="ja-Latn">Ward-Shatter Rescue:</em> when a warded
+      creature would drop to 0 HP from a single damage event, the ward shatters and the creature is left at 1 HP instead
+      (once per ward instance; mutually exclusive with detonation). <em lang="ja-Latn">Mass Discharge ignores this
+      protection.</em></li>
 
       </ul>
 
-      <p><strong>3. Order of the Staff</strong> — Healing and support focus. Uses divine energy to
-
-      keep allies at full capacity.</p>
+      <p><strong>3. Order of the Staff</strong> — Healing and support focus. Anchors allies through Sei Conduits to
+      extend healing range, then bolsters allies&#39; rolls and cleanses conditions through prolonged conflict.</p>
 
       <ul>
 
-      <li><strong>Divine Gifts (3):</strong> Grant an inspiration die to an ally within 60 ft. The
+      <li><strong>Sei Conduit (3):</strong> Bonus action; spend one charge to anchor a willing ally within 30 ft for 1
+      minute. The conduit grants CHA mod temp HP, extends Touch/Self healing spells to a 60-ft range to the warded ally,
+      adds +PB HP to your heals on them, and (when a Divine Gift is granted to a conduit-warded ally) lets the recipient
+      end one of: charmed, frightened, paralyzed, or poisoned. One conduit at a time (two at L18).</li>
 
-      creature adds it to one ability check, attack, or save (decide after d20 roll,
+      <li><strong>Divine Gifts (3):</strong> Bonus action; grant a Divine Gift die (d6 → d12 by tier) to a creature
+      within 60 ft. Recipient may use within 10 minutes for a roll boost (after seeing the d20 result, before learning
+      the outcome) or as a heal of die + CHA mod. CHA mod / long rest. Independent of Sei Conduit.</li>
 
-      before result). Alternatively, use it as a heal (add CHA mod). Die scales:
+      <li><strong>Blessed Soul (5):</strong> Healing spells you cast on others restore an additional 2 + spell level HP.
+      Overload-fueled heals cost half the normal max HP. <em lang="ja-Latn">Reactive Mend:</em> when a creature within
+      30 ft is reduced to 0 HP but not killed outright, you may use your reaction to expend a spell slot and heal them
+      for <code>1d8 per slot level + CHA mod</code>; they remain conscious. For conduit-warded allies, this range
+      extends to 60 ft.</li>
 
-      d6 (3rd), d8 (7th), d10 (13th), d12 (17th). Uses: CHA mod per long rest.</li>
+      <li><strong>Greater Vitality (10):</strong> <em lang="ja-Latn">Evasion</em> — DEX saves for half become no damage
+      on success, half on fail. <em lang="ja-Latn">Cleansing Channel</em> — once per turn, when you cast a 1st-level or
+      higher spell that restores HP, the spell also ends one of: blinded, charmed, deafened, frightened, paralyzed, or
+      poisoned on the target.</li>
 
-      <li><strong>Blessed Soul (5):</strong> When you cast a healing spell on another creature, you
-
-      heal 2 + spell level HP. Take half the max HP damage when using overload to
-
-      heal allies.</li>
-
-      <li><strong>Evasion (10):</strong> DEX saves for half damage become no damage on success, half
-
-      on failure.</li>
-
-      <li><strong>Supreme Healing (18):</strong> Reroll any 1s and 2s on healing dice (must use the
-
-      new roll).</li>
+      <li><strong>Supreme Healing (18):</strong> Concurrent conduits becomes 2. All healing dice are treated as their
+      maximum value. <em lang="ja-Latn">Sei Reservoir:</em> while you are conscious, you and any friendly creature
+      within 30 ft of you (or any conduit-warded creature within 60 ft) that begins your turn below their HP maximum
+      regains HP equal to your CHA mod (no overflow into temp HP).</li>
 
       </ul>
 
@@ -1150,6 +1145,10 @@ system:
         items:
           - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.XVhqNqmKJUxw0iMH
             optional: false
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.PdIsHfRjocuR9mGb
+            optional: false
+          - uuid: Compendium.kagekuni-assistant.kagekuni-classfeatures.ld84Cn4oz3YEzhoV
+            optional: false
         optional: false
         spell:
           ability: []
@@ -1312,7 +1311,7 @@ system:
       classRestriction: ''
       flags: {}
   hd:
-    denomination: d6
+    denomination: d8
     additional: ''
     spent: 0
   levels: 0

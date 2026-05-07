@@ -551,3 +551,140 @@
   background: rgba(76, 168, 88, 0.16);
   border-color: rgba(76, 168, 88, 0.45);
 }
+
+/* ---------------------------------------------------------------------------
+   Discovery containers — NEW render shape (per-tapestry / overview model)
+
+   The new shape (triggered when a container has `playerLabel` set) emits an
+   <h1> + a sibling `kg-discovery-index` per discovery, where the first
+   discovery is "Overview" (tapestry-level GM prose) and the rest are real
+   discoveries with an activation line, optional DM prose, a DC/Result/Detail
+   table, a Rewards list, and per-tier <strong>Failure/Partial Failure/...</strong>
+   pulls before each player block.
+
+   These rules layer on top of the legacy `.kg-discovery-index` styles
+   above — they don't replace them.
+   --------------------------------------------------------------------------- */
+
+/* Per-section header (e.g. "Overview", "Examining the tapestry"). Sits as
+   the first <p> of each kg-discovery-index, so the existing
+   `.kg-discovery-index > p:first-child strong` already gives it uppercase
+   amber treatment. The class is a no-op selector hook for downstream
+   tweaks and round-trip tooling. */
+.kg-discovery__section-title {
+  margin: 0 0 0.5rem 0;
+}
+
+/* "Discovery Activation:" label + the <ul> beneath it. Tight margins, the
+   list reads as one inline statement of the activation type. */
+.kg-discovery__activation-title {
+  margin: 0.85rem 0 0.15rem 0;
+  font-size: 0.92rem;
+}
+.kg-discovery__activation-title strong {
+  letter-spacing: 0.04em;
+  color: #c4a37a;
+}
+.kg-discovery__activation-list {
+  margin: 0 0 0.6rem 0;
+  padding-left: 1.25rem;
+}
+.kg-discovery__activation-list li {
+  margin: 0.05rem 0;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #c4a37a;
+}
+.kg-discovery__activation-list li em {
+  font-style: italic;
+  color: #d4a64a;
+}
+
+/* "Rewards" label + bullet list of tier-keyed rewards. Slightly louder
+   than the activation header — rewards are something the GM acts on. */
+.kg-discovery__rewards-title {
+  margin: 0.85rem 0 0.15rem 0;
+  font-size: 0.92rem;
+}
+.kg-discovery__rewards-title strong {
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #d4a64a;
+}
+.kg-discovery__rewards-list {
+  margin: 0 0 0.65rem 0;
+  padding-left: 1.25rem;
+}
+.kg-discovery__rewards-list li {
+  margin: 0.15rem 0;
+  font-size: 0.9rem;
+}
+.kg-discovery__rewards-list li strong {
+  color: #d4a64a;
+}
+.kg-discovery__rewards-list li em {
+  color: #c4a37a;
+}
+
+/* Per-tier label paragraph that precedes each player block ("Failure",
+   "Partial Failure", "Partial Success", "Success"). Color-coded by tier
+   so the GM can scan quickly: red → amber → yellow → green. The label
+   reads as a divider before the (sealed) player block beneath it. */
+.kg-discovery__tier-label {
+  margin: 0.85rem 0 0.2rem 0;
+  padding-top: 0.4rem;
+  border-top: 1px solid rgba(201, 168, 87, 0.20);
+  font-size: 0.92rem;
+}
+.kg-discovery__tier-label strong {
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+}
+.kg-discovery__tier-label[data-tier-key="failure"] strong {
+  color: #e08e8e;
+  background: rgba(193, 74, 74, 0.16);
+  border: 1px solid rgba(193, 74, 74, 0.45);
+}
+.kg-discovery__tier-label[data-tier-key="partial-failure"] strong {
+  color: #e0b073;
+  background: rgba(204, 132, 56, 0.16);
+  border: 1px solid rgba(204, 132, 56, 0.45);
+}
+.kg-discovery__tier-label[data-tier-key="partial-success"] strong {
+  color: #e8c878;
+  background: rgba(212, 166, 74, 0.16);
+  border: 1px solid rgba(212, 166, 74, 0.45);
+}
+.kg-discovery__tier-label[data-tier-key="success"] strong {
+  color: #9be09a;
+  background: rgba(109, 186, 106, 0.16);
+  border: 1px solid rgba(109, 186, 106, 0.45);
+}
+
+/* The new-shape player block leads with the discovery label strong + the
+   per-tier player title in italics. The existing `.kg-discovery-player`
+   styles handle the outer chrome; add a tighter spacing for the title <em>. */
+.kg-discovery-player > p:first-child + p em {
+  font-style: italic;
+  color: #e8c878;
+}
+.kg-discovery-player:not(.secret) > p:first-child + p em {
+  color: #9be09a;
+}
+
+/* New-shape DC/Result/Detail table — the existing summary-table styles
+   already cover columns + header. Slight column-width hint so the DC
+   stays narrow and the long Detail column gets the slack. */
+.kg-discovery__summary-table th:first-child,
+.kg-discovery__summary-table td:first-child {
+  width: 4ch;
+  white-space: nowrap;
+}
+.kg-discovery__summary-table th:nth-child(2),
+.kg-discovery__summary-table td:nth-child(2) {
+  width: 28%;
+  white-space: nowrap;
+}

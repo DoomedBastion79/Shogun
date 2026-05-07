@@ -2003,12 +2003,13 @@ pages:
     text:
       format: 1
       content: >-
-        <p><em lang="ja-Latn">Static examination and orrery-activated behavior for the four surviving tapestries in the
-        South Entrance.</em></p>
-
-        <p><em lang="ja-Latn">Static content describes what the party can learn from examining the tapestries as still
-        fabric. Activation content describes what happens when the orrery is fully restored and the tapestries come
-        alive.</em></p>
+        <p><em lang="ja-Latn">Four tapestries still hold their images on the walls of the South Entrance, hung between
+        the cold-burning sconces. The fabric is impossibly old, yet the colors remain vivid and the stitchwork is finer
+        than anything woven by living hands. Each carries the same wound — the lower third missing, the edge too clean
+        to be the work of time. They depict, in turn: a great dragon descending through a starlit sky; a circle of robed
+        figures gathered around a flame that burns on nothing; a fragmented map of an older Hokori, marked with symbols
+        that fit no modern cartography; and a formal portrait of a gold-scaled Dragonborn whose face has been
+        deliberately struck away.</em></p>
 
         <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes" data-label="How This Works">
 
@@ -2213,62 +2214,91 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i-static"
-        data-kind="discovery">
+        <h1>Tapestry I — A Descent</h1>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i"
+        data-discovery="overview" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Overview</strong></p>
 
         <p><strong>Tapestry I — Kinryu Descends to the Mountain</strong></p>
 
-        <ul>
+        <p><em lang="ja-Latn">Known Name:</em> Kinryu Descends to the Mountain</p>
 
-        <li><strong>Reading the Image (Investigation or Perception)</strong> — Skill Check: Investigation or Perception
-        DC 10; Skill Check: Investigation or Perception DC 14; Skill Check: Investigation or Perception DC 18; Skill
-        Check: Investigation or Perception DC 22</li>
+        <p>The descending dragon hangs in the darkest corner of the South Entrance, behind the rubble of the two fallen
+        pillars. Damage at the lower edge follows the same cut-not-torn pattern as the others — confirmed at the
+        Examining Success tier. Two static tracks (Examining the tapestry; Iconographic Reading) and two
+        orrery-activated behaviors (Tracking Gaze; Cross-Reference Hum) are recorded below.</p>
 
-        <li><strong>Iconographic Reading (History)</strong> — Skill Check: History DC 10; Skill Check: History DC 14;
-        Skill Check: History DC 18; Skill Check: History DC 22</li>
+
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Examining the tapestry</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Investigation or Perception</li>
 
         </ul>
 
-        <p class="kg-discovery__summary-title"><strong>Reading the Image (Investigation or Perception) — Tier
-        Ladder</strong></p>
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Something large
+        descending. Gold, or close to it. The damage at the bottom takes most of the scene with it. Whatever the figure
+        was descending toward, you cannot see it.</em></p>
+
+        <p><strong>Partial Success beat</strong> — <em lang="ja-Latn">Considered Posture</em>: the deliberateness of the
+        descent (wings folded, head lowered) should suggest, without stating, that this moment was considered important
+        enough to record with unusual care.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">Cut, Not Torn</em>: use this when the table is engaged and
+        the player has earned the deeper read. The cut-not-torn detail recasts every other tapestry&#39;s damage — it
+        invites scrutiny of the rest of the room with new eyes.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Investigation or Perception</td><td>10</td><td>Identifies a dragon descending; faint figures at the torn
-        edge.</td></tr>
+        <tr><td>10</td><td>Failure — Surface Impression</td><td>Identifies a dragon descending; faint figures at the
+        torn edge.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>14</td><td>Stitchwork is exceptional; figures at the torn edge
-        include a robed figure with arms raised, holding something circular.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Considered Posture</td><td>Stitchwork is exceptional; figures at the torn
+        edge include a robed figure with arms raised, holding something circular.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>18</td><td>Figure at torn edge is a recipient, not witness; circular
-        object matches the disc found in the sealed dormitory.</td></tr>
+        <tr><td>18</td><td>Partial Success — The Bronze Disc</td><td>Figure at torn edge is a recipient, not witness;
+        circular object matches the disc found in the sealed dormitory.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>22</td><td>The diagonal damage line is a deliberate cut; whatever
-        stood beneath the dragon was removed.</td></tr>
+        <tr><td>22</td><td>Success — Cut, Not Torn</td><td>The diagonal damage line is a deliberate cut; whatever stood
+        beneath the dragon was removed.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 1 · Partial — Surface Impression</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration (below DC 10): <em lang="ja-Latn">Something large descending. Gold, or close to it. The
-        damage at the bottom takes most of the scene with it. Whatever the figure was descending toward, you cannot see
-        it.</em></p>
+        <li><strong>Partial Success:</strong> Recognizing the disc shape connects this figure to the bronze disc found
+        in the sealed dormitory. The character gains advantage on the next Investigation check made while searching for
+        hidden mechanisms or sealed doors anywhere in the temple.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="reading-the-image" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>A Descent in Gold</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">A Descent in Gold</em></p>
 
         <p>A dragon, or a depiction of one — coming down through a starlit sky toward something in the missing lower
         section. The posture is deliberate: unhurried, the movement chosen. At the torn edge, just at the damage line,
@@ -2277,20 +2307,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 2 · Success — Considered Posture</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The deliberateness of the descent — wings folded, head lowered — should suggest, without stating, that this
-        moment was considered important enough to record with unusual care.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="reading-the-image" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Wings Folded, Head Inclined</strong></p>
+        <p><em lang="ja-Latn">Wings Folded, Head Inclined</em></p>
 
         <p>The stitchwork is extraordinary — individual scales in thread of at least three different weights, each
         catching the cold torchlight at its own angle. The stars in the indigo field are rendered with the same
@@ -2305,21 +2329,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 3 · Critical — The Bronze Disc</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: Recognizing the disc shape connects this figure to the bronze disc found in
-        the sealed dormitory. The character gains advantage on the next Investigation check made while searching for
-        hidden mechanisms or sealed doors anywhere in the temple.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="reading-the-image" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Recipient, Not Witness</strong></p>
+        <p><em lang="ja-Latn">Recipient, Not Witness</em></p>
 
         <p>The figure at the torn edge is positioned as a recipient, not a witness — arms raised in a specific formal
         gesture, weight forward, attention directed upward. The circular object at their belt is a disc, and its
@@ -2330,20 +2347,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 4 · Exceptional — Cut, Not Torn</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
-        <p>Use this when the table is engaged and the player has earned the deeper read. The cut, not torn detail
-        recasts every other tapestry&#39;s damage — invites scrutiny of the rest of the room with new eyes.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="reading-the-image" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The Tear Line</strong></p>
+        <p><em lang="ja-Latn">The Tear Line</em></p>
 
         <p>The tear line is too uniform. The threads along the diagonal show the tension pattern of a cut, not a break —
         the surrounding fabric confirms it. The bottom quarter was removed deliberately, not lost to time. Whatever
@@ -2353,46 +2364,79 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__summary-title"><strong>Iconographic Reading (History) — Tier Ladder</strong></p>
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Iconographic Reading</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> History</li>
+
+        </ul>
+
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A dragon arriving.
+        The posture reads as territorial — a claim being made, a place taken. This reading is wrong, and conclusions
+        built on it will be wrong.</em> Use only for clear failures — it actively misleads, and conclusions the players
+        build on it should not be silently corrected later.</p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Voluntary Binding Pose</em>: this reframes the
+        image entirely. The pose is the iconographic key — surface it without explaining what it implies; let the
+        players carry it forward.</p>
+
+        <p><strong>Partial Success beat</strong> — <em lang="ja-Latn">Datable Star Arrangement</em>: Ko&#39;jiri may
+        apply his Golden Dragon Clan History advantage to this whole track.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">Three Bindings</em>: big-picture context — primarily for
+        player satisfaction and mythic weight; downstream consequence is up to the table.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>History</td><td>10</td><td>Recognized as Golden Dragon clan commemorative imagery; nothing
-        distinguishing.</td></tr>
+        <tr><td>10</td><td>Failure — Standard Subject</td><td>Recognized as Golden Dragon clan commemorative imagery;
+        nothing distinguishing.</td></tr>
 
-        <tr><td>History</td><td>14</td><td>The wings-folded posture is a clan iconographic convention specifically for
-        voluntary binding — not arrival. This image records a promise.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Voluntary Binding Pose</td><td>The wings-folded posture is a clan
+        iconographic convention specifically for voluntary binding — not arrival. This image records a
+        promise.</td></tr>
 
-        <tr><td>History</td><td>18</td><td>Ko&#39;jiri (if engaged) recognizes the alignment from his research notes —
-        *the night Kinryu first spoke to a mortal in the age before the clans were named*.</td></tr>
+        <tr><td>18</td><td>Partial Success — Datable Star Arrangement</td><td>Ko&#39;jiri (if engaged) recognizes the
+        alignment from his research notes — the night Kinryu first spoke to a mortal in the age before the clans were
+        named.</td></tr>
 
-        <tr><td>History</td><td>22</td><td>The voluntary-binding pose appears in three surviving examples — this temple,
-        the Great Library of Seirei Mizuumi fragment, and an unverified Kaze highland carving. This is the
-        first.</td></tr>
+        <tr><td>22</td><td>Success — Three Bindings, This One First</td><td>The voluntary-binding pose appears in three
+        surviving examples — this temple, the Great Library of Seirei Mizuumi fragment, and an unverified Kaze highland
+        carving. This is the first.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Iconographic Reading (History)
-        · Tier 1 · Partial — Standard Subject</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: History DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">A dragon arriving. The posture reads as territorial — a claim being
-        made, a place taken. This reading is wrong, and conclusions built on it will be wrong.</em> Use this only for
-        clear failures (below DC 10) — it actively misleads.</p>
+        <li><strong>Partial Success</strong> <em lang="ja-Latn">(Kojiri)</em>: Advantage on his next History check made
+        inside the temple.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="iconographic-reading" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>Familiar Subject</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Iconographic Reading</strong></p>
+
+        <p><em lang="ja-Latn">Familiar Subject</em></p>
 
         <p>A standard subject in Golden Dragon clan commemorative imagery — a formal depiction of Kinryu in descent.
         Nothing here immediately distinguishes this from common examples of the genre.</p>
@@ -2400,19 +2444,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Iconographic Reading (History)
-        · Tier 2 · Success — Voluntary Binding Pose</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: History DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-tier-key="partial-failure" data-kind="player">
 
-        <p>This reframes the image entirely. The pose is the iconographic key.</p>
+        <p><strong>Iconographic Reading</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="iconographic-reading" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>A Promise, Not Arrival</strong></p>
+        <p><em lang="ja-Latn">A Promise, Not Arrival</em></p>
 
         <p>The posture — wings folded, head inclined — is a specific iconographic convention used by the Golden Dragon
         clan exclusively for one kind of moment: not conquest or arrival, but <em lang="ja-Latn">voluntary binding</em>.
@@ -2425,21 +2464,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Iconographic Reading (History)
-        · Tier 3 · Critical — Datable Star Arrangement</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: History DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Ko&#39;jiri Tangible Reward</strong>: advantage on his next History check made inside the temple.</p>
+        <p><strong>Iconographic Reading</strong></p>
 
-        <p>Ko&#39;jiri may apply his Golden Dragon Clan History advantage to this whole track.</p>
-
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="iconographic-reading" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The First Night</strong></p>
+        <p><em lang="ja-Latn">The First Night</em></p>
 
         <p>The star arrangement is datable. If Ko&#39;jiri is engaged, he recognizes it from his research notes: a
         celestial alignment recorded in a secondary source as <em lang="ja-Latn">&quot;the night Kinryu first spoke to a
@@ -2449,20 +2481,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Iconographic Reading (History)
-        · Tier 4 · Exceptional — Three Bindings, This One First</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: History DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-tier-key="success" data-kind="player">
 
-        <p>Big-picture context — primarily for player satisfaction and mythic weight; downstream consequence is up to
-        the table.</p>
+        <p><strong>Iconographic Reading</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-static"
-        data-discovery="iconographic-reading" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Three Bindings</strong></p>
+        <p><em lang="ja-Latn">Three Bindings</em></p>
 
         <p>The voluntary-binding pose appears in three surviving examples of Golden Dragon clan iconography: once here,
         once in a fragment held at the Great Library of Seirei Mizuumi, and once in a carving reported — before the Dark
@@ -2474,26 +2500,20 @@ pages:
 
         </section>
 
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i"
+        data-discovery="tracking-gaze" data-kind="discovery">
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i-activation"
-        data-kind="discovery">
+        <p class="kg-discovery__section-title"><strong>The Tracking Gaze</strong></p>
 
-        <p><strong>Tapestry I — Activation Behavior</strong></p>
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
-        <ul>
+        <ul class="kg-discovery__activation-list">
 
-        <li><strong>The Tracking Gaze</strong> — Quest: Orrery restored — see
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see
         @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.MHFCJC82UwADyJLU]{Observatory
         Repair Mechanics} page</li>
 
-        <li><strong>The Cross-Reference Hum</strong> — Quest: Orrery restored, Ko&#39;jiri present</li>
-
         </ul>
-
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Tracking Gaze · Tracking
-        Gaze — Active</strong></p>
-
-        <p class="kg-discovery__activation">Quest: Orrery restored — see Observatory Repair Mechanics page</p>
 
         <p>The activation is not passive in tone but in mechanism — no check needed. The descending figure&#39;s gaze
         tracks Ko&#39;jiri specifically throughout the scene. It does not track other party members. The quality of
@@ -2501,11 +2521,12 @@ pages:
         members will notice the eyes are not following them.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-activation"
-        data-discovery="tracking-gaze" data-tier-key="passive" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="tracking-gaze" data-tier-key="active" data-kind="player">
 
-        <p><strong>The Eyes Find Him</strong></p>
+        <p><strong>The Tracking Gaze</strong></p>
+
+        <p><em lang="ja-Latn">The Eyes Find Him</em></p>
 
         <p>When the orrery comes alive, the descending figure in the tapestry begins to move — the gaze of the dragon,
         woven into thread thousands of years before any of you stood here, tracks Ko&#39;jiri across the floor of the
@@ -2514,21 +2535,32 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Cross-Reference Hum ·
-        Cross-Reference Hum</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Quest: Orrery restored, Ko&#39;jiri present</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-i"
+        data-discovery="cross-reference-hum" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>The Cross-Reference Hum</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored, Ko&#39;jiri present</li>
+
+        </ul>
 
         <p>Do not explain this to the players. The building itself is cross-referencing Ko&#39;jiri through its
         foundational magic. The hum is not an echo of the tapestry; it travels through stone from the Grand Hall statue.
         Pass a private note if useful.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i-activation"
-        data-discovery="cross-reference-hum" data-tier-key="hum" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="cross-reference-hum" data-tier-key="active" data-kind="player">
 
-        <p><strong>A Hum Through the Stone</strong></p>
+        <p><strong>The Cross-Reference Hum</strong></p>
+
+        <p><em lang="ja-Latn">A Hum Through the Stone</em></p>
 
         <p>Ko&#39;jiri — and only Ko&#39;jiri — hears it: a faint, low resonance traveling through the stone from
         somewhere deeper in the temple. Not the tapestry itself. Something elsewhere in the building, holding a note
@@ -10709,7 +10741,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/infallible-hamilton-8b8aef/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
     slug: loc-tenkuji-temple
     frontmatter:
       name: Ōryūzan Tenkū-ji
