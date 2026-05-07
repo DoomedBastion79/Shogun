@@ -2572,61 +2572,89 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii-static"
-        data-kind="discovery">
+        <h1>Tapestry II — A Rite of Fire</h1>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii"
+        data-discovery="overview" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Overview</strong></p>
 
         <p><strong>Tapestry II — The Rite of the Golden Flame</strong></p>
 
-        <ul>
+        <p><em lang="ja-Latn">Known Name:</em> The Rite of the Golden Flame</p>
 
-        <li><strong>Reading the Image (Investigation or Perception)</strong> — Skill Check: Investigation or Perception
-        DC 10; Skill Check: Investigation or Perception DC 14; Skill Check: Investigation or Perception DC 18; Skill
-        Check: Investigation or Perception DC 22</li>
+        <p>The middle tapestry depicts a circle of robed figures gathered around a flame that burns on nothing. Two
+        static tracks (Examining the tapestry; Sei Resonance) plus two activation reveals (Reading the Working; The
+        Divergence Made Plain). The Sei Resonance Success tier is the most actionable single piece of intel in the
+        supplement — it identifies the temple&#39;s current Onyx-aligned occupant before the party meets them.</p>
 
-        <li><strong>Sei Resonance (Arcana)</strong> — Skill Check: Arcana DC 10; Skill Check: Arcana DC 14; Skill Check:
-        Arcana DC 18; Skill Check: Arcana DC 22</li>
+
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Examining the tapestry</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Investigation or Perception</li>
 
         </ul>
 
-        <p class="kg-discovery__summary-title"><strong>Reading the Image (Investigation or Perception) — Tier
-        Ladder</strong></p>
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A ceremony of some
+        kind around a fire. The left side is too damaged to add anything. Common enough subject matter.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Directional Gestures, the Divergent Hand</em>: the
+        divergence is the hook. Do not telegraph that it matters; let the player notice and ask.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">Left Side Was Cut, Pulled First</em>: pairs with the
+        Examining Success on Tapestry I (cut-not-torn). The pattern is consistent — someone removed parts of these
+        tapestries deliberately.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Investigation or Perception</td><td>10</td><td>Notes the high structured collar on robes, fire with no
-        source, specific gestures.</td></tr>
+        <tr><td>10</td><td>Failure — Distinctive Collar, Suspended Fire</td><td>Notes the high structured collar on
+        robes, fire with no source, specific gestures.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>14</td><td>The Dragonborn figure on the right has hands angled away
-        from the fire toward something beyond the frame.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Directional Gestures, the Divergent Hand</td><td>The Dragonborn figure on
+        the right has hands angled away from the fire toward something beyond the frame.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>18</td><td>Energy redirected to outside the frame; fire is not
-        diminished — drawn from a different source.</td></tr>
+        <tr><td>18</td><td>Partial Success — Two Things in One Ceremony</td><td>Energy redirected to outside the frame;
+        fire is not diminished — drawn from a different source.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>22</td><td>The left-side damage edge shows tension consistent with
-        the fabric being pulled before it was cut.</td></tr>
+        <tr><td>22</td><td>Success — Left Side Was Cut, Pulled First</td><td>The left-side damage edge shows tension
+        consistent with the fabric being pulled before it was cut.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 1 · Partial — Distinctive Collar, Suspended Fire</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">A ceremony of some kind around a fire. The left side is too damaged to
-        add anything. Common enough subject matter.</em></p>
+        <li><strong>Partial Success:</strong> Understanding that the order&#39;s end was patient, embedded, and
+        invisible to most of those inside it grants the party advantage on Insight checks when interacting with the
+        creature in the Inner Sanctum.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="reading-the-image" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>Robes and a Fire on Nothing</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">Robes and a Fire on Nothing</em></p>
 
         <p>The robes carry a distinctive collar treatment — high and structured, not seen in other contexts. The fire at
         the center has no source: no brazier, no platform, no floor contact. The hand gestures are specific rather than
@@ -2635,19 +2663,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 2 · Success — Directional Gestures, the Divergent Hand</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The divergence is the hook. Do not telegraph that it matters; let the player notice and ask.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="reading-the-image" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The Hand That Points Outward</strong></p>
+        <p><em lang="ja-Latn">The Hand That Points Outward</em></p>
 
         <p>Each figure&#39;s gesture is precise and directional — hands angled as though managing something, not
         appealing to it. The fire responds to whatever they are doing; its shape bends in ways consistent with being
@@ -2661,21 +2684,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 3 · Critical — Two Things in One Ceremony</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: This understanding — that the order&#39;s end was patient, embedded, and
-        invisible to most of those inside it — grants the party advantage on Insight checks when interacting with the
-        creature in the Inner Sanctum.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="reading-the-image" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Two Workings in One Circle</strong></p>
+        <p><em lang="ja-Latn">Two Workings in One Circle</em></p>
 
         <p>The figure with the differently-angled hands is doing something separate from everyone else in the circle.
         The energy the others are directing into the fire — this figure&#39;s hands are oriented away from it, toward
@@ -2686,20 +2702,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 4 · Exceptional — Left Side Was Cut, Pulled First</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
-        <p>Pairs with Tapestry I exceptional (cut, not torn). The pattern is consistent: someone removed parts of these
-        tapestries deliberately.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="reading-the-image" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Pulled, Then Cut</strong></p>
+        <p><em lang="ja-Latn">Pulled, Then Cut</em></p>
 
         <p>The damage on the left side follows the frame edge in a way consistent with cutting rather than
         deterioration. The thread tension along the left margin suggests the fabric was under stress before it failed —
@@ -2709,44 +2719,75 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__summary-title"><strong>Sei Resonance (Arcana) — Tier Ladder</strong></p>
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Sei Resonance</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Arcana</li>
+
+        </ul>
+
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Old sei in the thread
+        — a preservation enchantment of some kind. Common enough in high-value objects from this period.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Ori-kioku and Two Signatures</em>: the
+        shadow-edged signature is the seed for the higher reveals. Don&#39;t name Kokuryu yet — let the player follow it
+        forward.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">Fresh Trace, Located</em>: this is the most immediately
+        actionable piece of information in the supplement. The Kokuryu-aspected fingerprint here matches the broken ward
+        anchors in the Inner Sanctum door frame; a party that connects both has identified the temple&#39;s current
+        infiltrator before meeting them.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Arcana</td><td>10</td><td>Old preservation enchantment in the thread; common in high-value period
-        objects.</td></tr>
+        <tr><td>10</td><td>Failure — Preservation Sei</td><td>Old preservation enchantment in the thread; common in
+        high-value period objects.</td></tr>
 
-        <tr><td>Arcana</td><td>14</td><td>Identified as ori-kioku (woven memory). Two layered signatures — gold-aspected
-        and shadow-edged — from different sources.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Ori-kioku and Two Signatures</td><td>Identified as ori-kioku (woven
+        memory). Two layered signatures — gold-aspected and shadow-edged — from different sources.</td></tr>
 
-        <tr><td>Arcana</td><td>18</td><td>The shadow-edged signature is Onyx Clan / Kokuryu tradition; same fingerprint
-        appears on broken ward anchors in the Inner Sanctum frame and as a fresh trace in this room.</td></tr>
+        <tr><td>18</td><td>Partial Success — Kokuryu-Aspected Signature</td><td>The shadow-edged signature is Onyx Clan
+        / Kokuryu tradition; same fingerprint appears on broken ward anchors in the Inner Sanctum frame and as a fresh
+        trace in this room.</td></tr>
 
-        <tr><td>Arcana</td><td>22</td><td>The fresh trace is concentrated near the tapestry&#39;s surface — someone with
-        this signature stood here recently, attentive, before moving on.</td></tr>
+        <tr><td>22</td><td>Success — Fresh Trace, Located</td><td>The fresh trace is concentrated near the
+        tapestry&#39;s surface — someone with this signature stood here recently, attentive, before moving on.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Sei Resonance (Arcana) · Tier
-        1 · Partial — Preservation Sei</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">Old sei in the thread — a preservation enchantment of some kind. Common
-        enough in high-value objects from this period.</em></p>
+        <li><strong>Partial Success:</strong> The Kokuryu-aspected sei signature is now recognizable. It appears on the
+        broken ward anchors in the Inner Sanctum door frame — and on a fresh trace here, weeks old rather than
+        centuries.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="sei-resonance" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>Sei in the Thread</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Sei Resonance</strong></p>
+
+        <p><em lang="ja-Latn">Sei in the Thread</em></p>
 
         <p>Old sei in the thread — a preservation enchantment of some kind. Common enough in high-value objects from
         this period.</p>
@@ -2754,19 +2795,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Sei Resonance (Arcana) · Tier
-        2 · Success — Ori-kioku and Two Signatures</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The shadow-edged signature is the seed for the critical/exceptional reveals. Don&#39;t name Kokuryu yet.</p>
+        <p><strong>Sei Resonance</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="sei-resonance" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Ori-kioku — Woven Memory</strong></p>
+        <p><em lang="ja-Latn">Ori-kioku — Woven Memory</em></p>
 
         <p>The technique is <em lang="ja-Latn">ori-kioku</em> — woven memory, a Golden Dragon order practice allowing
         fabric to hold sei resonance as a form of record. This tapestry is not merely depicting the rite — a faint echo
@@ -2779,21 +2815,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Sei Resonance (Arcana) · Tier
-        3 · Critical — Kokuryu-Aspected Signature</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: The Kokuryu-aspected sei signature is now recognizable. It appears on the
-        broken ward anchors in the Inner Sanctum door frame — and on a fresh trace here, weeks old rather than
-        centuries.</p>
+        <p><strong>Sei Resonance</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="sei-resonance" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>A Second Hand at the Rite</strong></p>
+        <p><em lang="ja-Latn">A Second Hand at the Rite</em></p>
 
         <p>The shadow-edged signature is Kokuryu-aspected — Onyx Clan tradition, identifiable to anyone trained in
         historical sei lineages. It was present and active during this rite, masked by the surrounding warmth of golden
@@ -2803,20 +2832,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Sei Resonance (Arcana) · Tier
-        4 · Exceptional — Fresh Trace, Located</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-tier-key="success" data-kind="player">
 
-        <p>Foreshadows the temple&#39;s current Onyx-aligned occupant. Most actionable single piece of information in
-        the supplement.</p>
+        <p><strong>Sei Resonance</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-static"
-        data-discovery="sei-resonance" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Recent Presence</strong></p>
+        <p><em lang="ja-Latn">Recent Presence</em></p>
 
         <p>The fresh trace is localized — concentrated near the tapestry&#39;s surface as though whatever left it stood
         here for a period of time, attentive, before moving on. Dry. Faintly mineral. Nothing like the cold bronze of
@@ -2828,55 +2851,49 @@ pages:
 
         </section>
 
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii"
+        data-discovery="reading-the-working" data-kind="discovery">
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii-activation"
-        data-kind="discovery">
+        <p class="kg-discovery__section-title"><strong>Reading the Working</strong></p>
 
-        <p><strong>Tapestry II — Activation Behavior</strong></p>
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
-        <ul>
+        <ul class="kg-discovery__activation-list">
 
-        <li><strong>Reading the Working</strong> — Skill Check: Arcana DC 14; Skill Check: Arcana DC 18</li>
-
-        <li><strong>The Divergence Made Plain</strong> — Interaction: Reading the Working at DC 18 has been earned, AND
-        Reading the Image at DC 14+ has surfaced the divergent hand</li>
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Arcana</li>
 
         </ul>
 
-        <p class="kg-discovery__summary-title"><strong>Reading the Working — Tier Ladder</strong></p>
+        <p>Activation-only discovery — the static image alone does not support reading the ceremony. Once the orrery is
+        restored and the figures move, an Arcana reader can identify what is actually happening: a consecration, then
+        (at the higher rung) the recognition that the same hand is behind every preservation enchantment in the
+        temple.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Arcana</td><td>14</td><td>Identifies the rite as a consecration: sei made visible, sealed into the
-        building&#39;s structural magic. The party is watching the temple&#39;s own creation.</td></tr>
+        <tr><td>14</td><td>Consecration Ceremony</td><td>Identifies the rite as a consecration: sei made visible, sealed
+        into the building&#39;s structural magic. The party is watching the temple&#39;s own creation.</td></tr>
 
-        <tr><td>Arcana</td><td>18</td><td>Method is identical to the torches, the pools, and the ori-kioku itself —
-        every preservation enchantment in the building traces back to ceremonies like this one.</td></tr>
+        <tr><td>18</td><td>Universal Technique</td><td>Method is identical to the torches, the pools, and the ori-kioku
+        itself — every preservation enchantment in the building traces back to ceremonies like this one.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="2"><strong>Reading the Working · Tier 1 ·
-        Tier 1 — Consecration Ceremony</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="consecration"><strong>Consecration</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-working" data-tier-key="consecration" data-kind="player">
 
-        <p>The activation allows reading the ceremony being performed, which the static image alone does not support.
-        Identifies the working as a consecration ceremony — sei made visible and held in collective form by multiple
-        trained practitioners. The suspended flame is the working itself made manifest. The circle is sealing something
-        into the building&#39;s structural magic: a ward, a record, an authorization layer.</p>
+        <p><strong>Reading the Working</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-activation"
-        data-discovery="reading-the-working" data-tier-key="consecration" data-tier-index="1" data-tier-count="2"
-        data-kind="player">
-
-        <p><strong>The Building Being Made</strong></p>
+        <p><em lang="ja-Latn">The Building Being Made</em></p>
 
         <p>What is happening on the tapestry is a consecration. The participants are not appealing to the fire — they
         are managing it, holding it, making it visible. Sei in collective form, gathered by multiple trained
@@ -2886,20 +2903,15 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="2"><strong>Reading the Working · Tier 2 ·
-        Tier 2 — Universal Technique</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="technique-recognized"><strong>Technique
+        Recognized</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Arcana DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-working" data-tier-key="technique-recognized" data-kind="player">
 
-        <p>The recognition unifies the temple&#39;s working magic: torches, pools, ori-kioku, foundational ward layer —
-        all the same hand.</p>
+        <p><strong>Reading the Working</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-activation"
-        data-discovery="reading-the-working" data-tier-key="technique-recognized" data-tier-index="2"
-        data-tier-count="2" data-kind="player">
-
-        <p><strong>The Hand Behind the Hall</strong></p>
+        <p><em lang="ja-Latn">The Hand Behind the Hall</em></p>
 
         <p>The technique is the same one that lit the sconces, that draws on the pools, that holds the memory in the
         very fabric of this tapestry. Every preservation enchantment in this building traces back to ceremonies like
@@ -2908,23 +2920,34 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Divergence Made Plain ·
-        Divergence — The Key Was Copied</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Interaction: Reading the Working at DC 18 has been earned, AND Reading the
-        Image at DC 14+ has surfaced the divergent hand</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-ii"
+        data-discovery="the-divergence" data-kind="discovery">
 
-        <p>This does not replace the Track Two static reveal (Kokuryu signature) — it is an additional layer accessible
-        only during activation, and only after the player understands the working AND has noticed the divergent hand
-        from Track One. The dissonant harmonic heard during activation is the same Kokuryu signature, rendered
+        <p class="kg-discovery__section-title"><strong>The Divergence Made Plain</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Interaction:</em> Reading the Working at DC 18 has been earned, AND Examining the
+        tapestry at DC 14+ has surfaced the divergent hand</li>
+
+        </ul>
+
+        <p>This does not replace the Sei Resonance Partial Success (Kokuryu signature) — it is an additional layer
+        accessible only during activation, and only after the player understands the working AND has noticed the
+        divergent hand. The dissonant harmonic heard during activation is the same Kokuryu signature, rendered
         audible.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii-activation"
-        data-discovery="the-divergence" data-tier-key="redirected-thread" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="the-divergence" data-tier-key="active" data-kind="player">
 
-        <p><strong>A Thread Routed Outward</strong></p>
+        <p><strong>The Divergence Made Plain</strong></p>
+
+        <p><em lang="ja-Latn">A Thread Routed Outward</em></p>
 
         <p>Once you understand what the working is doing, the redirected hands take on specific meaning. The Dragonborn
         at the right is not withholding their contribution from the flame. They are tapping the working as it runs —
@@ -2939,66 +2962,95 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii-static"
-        data-kind="discovery">
+        <h1>Tapestry III — An Old Map</h1>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="overview" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Overview</strong></p>
 
         <p><strong>Tapestry III — Hokori Before the Reckoning</strong></p>
 
-        <ul>
+        <p><em lang="ja-Latn">Known Name:</em> Hokori Before the Reckoning</p>
 
-        <li><strong>Reading the Image (Investigation or Perception)</strong> — Skill Check: Investigation or Perception
-        DC 10; Skill Check: Investigation or Perception DC 14; Skill Check: Investigation or Perception DC 18; Skill
-        Check: Investigation or Perception DC 22</li>
+        <p>Tapestry III is the most consequential of the four. The static read is a fragmented map of pre-Reckoning
+        Hokori marked with a circle-and-line symbol at four sites; the activation behavior is a live communications
+        display showing the last signal each site sent before the fall of 13088.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        has been sitting in an unanswered acknowledgement for millennia; Kaze has been calling distress into silence;
+        Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        went offline without a word. The Insight Success tier (Kaze blank) and the Examining Success tier (fourth mark)
+        gate the most consequential activation reveals.</p>
 
-        <li><strong>Reading Intent (Insight)</strong> — Skill Check: Insight DC 10; Skill Check: Insight DC 14; Skill
-        Check: Insight DC 18; Skill Check: Insight DC 22</li>
+
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Examining the tapestry</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Investigation or Perception</li>
 
         </ul>
 
-        <p class="kg-discovery__summary-title"><strong>Reading the Image (Investigation or Perception) — Tier
-        Ladder</strong></p>
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Geographic imagery —
+        possibly. The sections don&#39;t orient to anything recognizable, and there isn&#39;t enough intact to extract
+        information with confidence.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">The Three Symbols</em>: the triangle pattern is
+        the load-bearing observation. Don&#39;t telegraph; let the player notice the spacing.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">A Fourth, Marked Differently</em>: this earns the player
+        the Hi/Tsuchi recent-severance reveal during activation. Track this earned status separately from the Partial
+        Success three-site triangulation.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Investigation or Perception</td><td>10</td><td>Identified as Hokori, with conventions older than any
+        <tr><td>10</td><td>Failure — A Map of Hokori, Old</td><td>Identified as Hokori, with conventions older than any
         current administrative archive.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>14</td><td>Pre-current cartographic conventions; mountain ranges
-        with no modern equivalent; settlements in places now wilderness or open water; a circle-and-line symbol appears
-        three times. Partial script *—ryu—* near one.</td></tr>
+        <tr><td>14</td><td>Partial Failure — The Three Symbols</td><td>Pre-current cartographic conventions; mountain
+        ranges with no modern equivalent; settlements in places now wilderness or open water; a circle-and-line symbol
+        appears three times. Partial script —ryu— near one.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>18</td><td>The three symbols form a rough triangle: this temple,
-        plus locations in Kaze province interior and
-        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
-        province.</td></tr>
+        <tr><td>18</td><td>Partial Success — Three Sites, Triangulated</td><td>The three symbols form a rough triangle:
+        this temple, plus locations in Kaze province interior and Sora province.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>22</td><td>Fourth instance of the symbol with an additional vertical
-        stroke (categorical distinction); located in Hi province /
-        Hi-@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
-        border region.</td></tr>
+        <tr><td>22</td><td>Success — A Fourth, Marked Differently</td><td>Fourth instance of the symbol with an
+        additional vertical stroke (categorical distinction); located in Hi province / Hi-Tsuchi border
+        region.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 1 · Partial — A Map of Hokori, Old</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">Geographic imagery — possibly. The sections don&#39;t orient to
-        anything recognizable, and there isn&#39;t enough intact to extract information with confidence.</em></p>
+        <li><strong>Partial Success:</strong> Geographic leads recorded — Kaze province interior and Sora province. Both
+        connect to threads active in the current investigation.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="reading-the-image" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>An Old Map</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">An Old Map</em></p>
 
         <p>A map, probably Hokori based on the coastline shapes, though the conventions differ from anything in current
         use. Old, significantly older than any administrative archive. Too fragmented to read for specific
@@ -3007,20 +3059,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 2 · Success — The Three Symbols</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The triangle pattern is the load-bearing observation. Don&#39;t telegraph; let the player notice the
-        spacing.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="reading-the-image" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>What the Map Was For</strong></p>
+        <p><em lang="ja-Latn">What the Map Was For</em></p>
 
         <p>This is Hokori — the distinctive shape reads across the gaps for someone who knows what to look for. The
         rendering predates current cartographic conventions entirely; the visual language suggests not just age but a
@@ -3036,20 +3082,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 3 · Critical — Three Sites, Triangulated</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: Geographic leads recorded — Kaze province interior and Sora province. Both
-        connect to threads active in the current investigation.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="reading-the-image" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Three Across Hokori</strong></p>
+        <p><em lang="ja-Latn">Three Across Hokori</em></p>
 
         <p>The three instances of the symbol form a rough triangle across the surviving sections. One falls at a
         location corresponding to this mountain range. The other two triangulate — approximately, accounting for the
@@ -3059,20 +3099,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 4 · Exceptional — A Fourth, Marked Differently</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
-        <p>The fourth-symbol detail is required to unlock the Hi/Tsuchi recent-severance reveal during activation. Track
-        this earned status.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="reading-the-image" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The Fourth Mark</strong></p>
+        <p><em lang="ja-Latn">The Fourth Mark</em></p>
 
         <p>A fourth instance of the symbol exists on the map, partially obscured by damage but recoverable with careful
         examination. It carries an additional mark above it — a small vertical stroke — that the other three instances
@@ -3083,44 +3117,72 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__summary-title"><strong>Reading Intent (Insight) — Tier Ladder</strong></p>
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Reading Intent</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Insight</li>
+
+        </ul>
+
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A map made to be
+        used. Practical, careful. The damage makes it difficult to read anything deeper into the intent.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Hidden in Plain Sight</em>: calibrate weight here;
+        this is the philosophical hinge of the tapestry.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">The Kaze Blank</em>: the most consequential single
+        observation in the supplement. Connect later to Gekko material when the moment comes.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Insight</td><td>10</td><td>Care in rendering even in fragments; someone who lived in this landscape, not
-        a remote draftsman.</td></tr>
+        <tr><td>10</td><td>Failure — Maker Knew the Land</td><td>Care in rendering even in fragments; someone who lived
+        in this landscape, not a remote draftsman.</td></tr>
 
-        <tr><td>Insight</td><td>14</td><td>The symbols are placed deliberately to be overlooked; the map is
-        camouflage.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Hidden in Plain Sight</td><td>The symbols are placed deliberately to be
+        overlooked; the map is camouflage.</td></tr>
 
-        <tr><td>Insight</td><td>18</td><td>Mundane geography is the camouflage; symbol-marked locations are what the map
-        exists to preserve. The damage stripped the camouflage but left the secret partly intact.</td></tr>
+        <tr><td>18</td><td>Partial Success — Camouflage Made the Survival Possible</td><td>Mundane geography is the
+        camouflage; symbol-marked locations are what the map exists to preserve. The damage stripped the camouflage but
+        left the secret partly intact.</td></tr>
 
-        <tr><td>Insight</td><td>22</td><td>The Kaze highlands above a settlement are left entirely unrendered — the
-        absence of a record is itself a record. Connects to the Gekko investigation.</td></tr>
+        <tr><td>22</td><td>Success — The Kaze Blank</td><td>The Kaze highlands above a settlement are left entirely
+        unrendered — the absence of a record is itself a record. Connects to the Gekko investigation.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Reading Intent (Insight) ·
-        Tier 1 · Partial — Maker Knew the Land</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Insight DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">A map made to be used. Practical, careful. The damage makes it
-        difficult to read anything deeper into the intent.</em></p>
+        <li><strong>Partial Success:</strong> Understanding how this order concealed information grants advantage on
+        Investigation checks made to find hidden things elsewhere in the temple. The party now knows how these people
+        hid what mattered.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="intent-reading" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>Made by a Hand That Knew the Ground</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Reading Intent</strong></p>
+
+        <p><em lang="ja-Latn">Made by a Hand That Knew the Ground</em></p>
 
         <p>The maker knew this geography — the care in the rendering, even in fragments, suggests someone who spent time
         in this landscape rather than working from secondary sources. The omissions feel more like damage than choice,
@@ -3129,19 +3191,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Reading Intent (Insight) ·
-        Tier 2 · Success — Hidden in Plain Sight</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Insight DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-tier-key="partial-failure" data-kind="player">
 
-        <p>Calibrate weight here; this is the philosophical hinge of the tapestry.</p>
+        <p><strong>Reading Intent</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="intent-reading" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Information Present, Not Announced</strong></p>
+        <p><em lang="ja-Latn">Information Present, Not Announced</em></p>
 
         <p>The settlement symbols are styled in a way that reads as decorative on casual inspection — integrated with
         surrounding imagery, easy to overlook as aesthetic rather than functional. The three circle-and-line symbols are
@@ -3154,21 +3211,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Reading Intent (Insight) ·
-        Tier 3 · Critical — Camouflage Made the Survival Possible</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Insight DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: Understanding how this order concealed information grants advantage on
-        Investigation checks made to find hidden things elsewhere in the temple. The party now knows how these people
-        hid what mattered.</p>
+        <p><strong>Reading Intent</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="intent-reading" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>How the Order Hid Things</strong></p>
+        <p><em lang="ja-Latn">How the Order Hid Things</em></p>
 
         <p>The map was made during a period in which the maker could not protect what they were recording through
         concealment, so they protected it through obscurity instead. The mundane layer — coastlines, settlements,
@@ -3179,20 +3229,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Reading Intent (Insight) ·
-        Tier 4 · Exceptional — The Kaze Blank</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Insight DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-tier-key="success" data-kind="player">
 
-        <p>Most consequential single observation in the supplement. Connect later to Gekko material when the moment
-        comes.</p>
+        <p><strong>Reading Intent</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-static"
-        data-discovery="intent-reading" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>An Absence That Means Something</strong></p>
+        <p><em lang="ja-Latn">An Absence That Means Something</em></p>
 
         <p>There is a fifth element on this map — not a symbol but an absence. The area corresponding to the mountains
         above a settlement in Kaze province has been left entirely blank. No topography. No symbols. No notation of any
@@ -3205,34 +3249,18 @@ pages:
 
         </section>
 
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="live-map" data-kind="discovery">
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii-activation"
-        data-kind="discovery">
+        <p class="kg-discovery__section-title"><strong>The Sanctuary Network — Live States</strong></p>
 
-        <p><strong>Tapestry III — Activation Behavior</strong></p>
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
-        <ul>
+        <ul class="kg-discovery__activation-list">
 
-        <li><strong>The Sanctuary Network — Live States</strong> — Quest: Orrery restored — see Observatory Repair
-        Mechanics page</li>
-
-        <li><strong>Sending Acknowledgement</strong> — Interaction: Send the double-pulse acknowledgement from the hub —
-        operator&#39;s manual or DC 15 Arcana to reason out the protocol</li>
-
-        <li><strong>Hub Pulse Reads Presence</strong> — Skill Check: Perception DC 12</li>
-
-        <li><strong>The Kaze Blank Under Activation</strong> — Quest: Orrery restored, with prior awareness of the Kaze
-        blank (Insight Exceptional, DC 22)</li>
-
-        <li><strong>Hi/Tsuchi — Recent Severance</strong> — Quest: Orrery restored, AND fourth-mark earned (Reading the
-        Image Exceptional, DC 22)</li>
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see Observatory Repair Mechanics page</li>
 
         </ul>
-
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Sanctuary Network — Live
-        States · Live Map — Sites and Signal Vocabulary</strong></p>
-
-        <p class="kg-discovery__activation">Quest: Orrery restored — see Observatory Repair Mechanics page</p>
 
         <p>The terrain animates: coastlines, mountain shadows, settlement lights. The three (or four) circle-and-line
         markers do not behave identically.</p>
@@ -3399,11 +3427,12 @@ pages:
         signal can receive and hold an acknowledgement millennia later.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-activation"
-        data-discovery="live-map" data-tier-key="current-state" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="live-map" data-tier-key="active" data-kind="player">
 
-        <p><strong>Four Lights on the Map</strong></p>
+        <p><strong>The Sanctuary Network — Live States</strong></p>
+
+        <p><em lang="ja-Latn">Four Lights on the Map</em></p>
 
         <p>When the orrery comes alive the map animates: coastlines flicker into legibility, mountain shadows lengthen
         and recede, and the marked sites pulse as though they are still — somehow — alive. The hub, this temple, holds a
@@ -3417,11 +3446,21 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Sending Acknowledgement ·
-        Acknowledgement Action</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Interaction: Send the double-pulse acknowledgement from the hub —
-        operator&#39;s manual or DC 15 Arcana to reason out the protocol</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="send-acknowledgement" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Sending Acknowledgement</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Interaction:</em> Send the double-pulse acknowledgement from the hub — operator&#39;s
+        manual or DC 15 Arcana to reason out the protocol</li>
+
+        </ul>
 
         <p>Requires either the operator&#39;s manual (recoverable elsewhere in the temple) or a DC 15 Arcana to reason
         out the protocol from the mechanism. Sending the acknowledgement to Kaze shifts its display from rapid distress
@@ -3431,11 +3470,12 @@ pages:
         person is worth finding out at the table.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-activation"
-        data-discovery="send-acknowledgement" data-tier-key="double-pulse" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="send-acknowledgement" data-tier-key="active" data-kind="player">
 
-        <p><strong>The Choice to Answer</strong></p>
+        <p><strong>Sending Acknowledgement</strong></p>
+
+        <p><em lang="ja-Latn">The Choice to Answer</em></p>
 
         <p>The orrery offers a way to answer. A double-pulse, sent from the hub, will shift the rapid distress at Kaze
         (or the held breath at Sora) into the slow double-beat that means <em lang="ja-Latn">received</em>. There is no
@@ -3445,21 +3485,47 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Hub Pulse Reads Presence · Hub
-        Pulse Sensitivity</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Skill Check: Perception DC 12</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="hub-pulse-presence" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Hub Pulse Reads Presence</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Perception</li>
+
+        </ul>
 
         <p>The temple&#39;s operational marker does not require party presence to remain lit — the restored orrery feeds
         the node. But active sei presence brightens the signal. Use this as a quiet table cue when the players gather
         here.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-activation"
-        data-discovery="hub-pulse-presence" data-tier-key="presence" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <table class="kg-discovery__summary-table">
 
-        <p><strong>The Hall Watching Back</strong></p>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
+
+        <tbody>
+
+        <tr><td>12</td><td>Hub Pulse Sensitivity</td><td>Operational marker brightens when full party stands before the
+        tapestry; dims when hall is empty.</td></tr>
+
+        </tbody>
+
+        </table>
+
+        <p class="kg-discovery__tier-label" data-tier-key="presence"><strong>Presence</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="hub-pulse-presence" data-tier-key="presence" data-kind="player">
+
+        <p><strong>Hub Pulse Reads Presence</strong></p>
+
+        <p><em lang="ja-Latn">The Hall Watching Back</em></p>
 
         <p>The temple&#39;s own pulse on the map brightens when you all stand together before the tapestry. Step away
         and it dims — not by much, but by enough to notice. The hall is reading you, not just the other way around.</p>
@@ -3467,22 +3533,33 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Kaze Blank Under
-        Activation · The Blank Receives Without Returning</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Quest: Orrery restored, with prior awareness of the Kaze blank (Insight
-        Exceptional, DC 22)</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="kaze-blank-active" data-kind="discovery">
 
-        <p>If the player earned the Insight Exceptional and noticed the Kaze blank, the activation makes the blank&#39;s
-        behavior visible: surrounding topography brightens with each hub pulse, the blank itself does not. It receives
-        without returning.</p>
+        <p class="kg-discovery__section-title"><strong>The Kaze Blank Under Activation</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored, with prior awareness of the Kaze blank (Reading Intent
+        Success, DC 22)</li>
+
+        </ul>
+
+        <p>If the player earned the Reading Intent Success (DC 22) and noticed the Kaze blank, the activation makes the
+        blank&#39;s behavior visible: surrounding topography brightens with each hub pulse, the blank itself does not.
+        It receives without returning.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-activation"
-        data-discovery="kaze-blank-active" data-tier-key="absence-responsive" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="kaze-blank-active" data-tier-key="active" data-kind="player">
 
-        <p><strong>The Blank That Listens</strong></p>
+        <p><strong>The Kaze Blank Under Activation</strong></p>
+
+        <p><em lang="ja-Latn">The Blank That Listens</em></p>
 
         <p>The empty patch in the Kaze highlands stays empty even now — the woven memory of the tapestry cannot show
         what was never recorded. But each time the temple&#39;s hub pulses, the topography around the blank brightens
@@ -3492,22 +3569,33 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Hi/Tsuchi — Recent Severance ·
-        Recent Severance Detectable</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Quest: Orrery restored, AND fourth-mark earned (Reading the Image
-        Exceptional, DC 22)</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
+        data-discovery="hi-tsuchi-recent" data-kind="discovery">
 
-        <p>Only available if the player found the fourth symbol (Track One DC 22 on this tapestry). Something with
+        <p class="kg-discovery__section-title"><strong>Hi/Tsuchi — Recent Severance</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored, AND fourth-mark earned (Examining the tapestry Success, DC
+        22)</li>
+
+        </ul>
+
+        <p>Only available if the player found the fourth symbol (Examining Success on this tapestry). Something with
         sufficient sei presence to register as a network node was active at that site recently. The other offline
         markers are cold all the way through; this one is not.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii-activation"
-        data-discovery="hi-tsuchi-recent" data-tier-key="still-warm" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="hi-tsuchi-recent" data-tier-key="active" data-kind="player">
 
-        <p><strong>Still Warm</strong></p>
+        <p><strong>Hi/Tsuchi — Recent Severance</strong></p>
+
+        <p><em lang="ja-Latn">Still Warm</em></p>
 
         <p>Where the fourth mark stands offline, the cold of the surrounding fabric is not as deep as the centuries-cold
         of an empty stone. There is a residual warmth there. Days, perhaps weeks. Something of consequence was at that
@@ -3519,61 +3607,97 @@ pages:
         </section>
 
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv-static"
-        data-kind="discovery">
+        <h1>Tapestry IV — A Defaced Portrait</h1>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="overview" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Overview</strong></p>
 
         <p><strong>Tapestry IV — The First Head Priest</strong></p>
 
-        <ul>
+        <p><em lang="ja-Latn">Known Name:</em> The First Head Priest</p>
 
-        <li><strong>Reading the Image (Investigation or Perception)</strong> — Skill Check: Investigation or Perception
-        DC 10; Skill Check: Investigation or Perception DC 14; Skill Check: Investigation or Perception DC 18; Skill
-        Check: Investigation or Perception DC 22</li>
+        <p>The fourth tapestry is a formal portrait of a gold-scaled Dragonborn whose face has been deliberately gouged
+        out — defacement matched to the pillar work in technique but applied with more force here. Two static tracks
+        (Examining the tapestry; Sacred Symbolism) plus three activation reveals (Border Sequence; Glance and Paper;
+        Mandate Connection). The Sacred Symbolism Success tier (Charge Is Everywhere) is architecture-as-text — let the
+        architecture teach first, let Kinjiro&#39;s journal confirm.</p>
 
-        <li><strong>Sacred Symbolism (Religion)</strong> — Skill Check: Religion DC 10; Skill Check: Religion DC 14;
-        Skill Check: Religion DC 18; Skill Check: Religion DC 22</li>
+
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Examining the tapestry</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Investigation or Perception</li>
 
         </ul>
 
-        <p class="kg-discovery__summary-title"><strong>Reading the Image (Investigation or Perception) — Tier
-        Ladder</strong></p>
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">An important figure
+        whose face has been removed. The object in the extended hand is too small to make out from this
+        distance.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">A Disc on the Palm, Amber Threads at the
+        Eyes</em>: the amber thread is the link to the Grand Hall statue and to Ko&#39;jiri&#39;s recognition
+        moment.</p>
+
+        <p><strong>Partial Success beat</strong> — <em lang="ja-Latn">Investiture, Amber Eyes</em>: do not explain the
+        connection to the statue&#39;s amber eyes that oriented toward Ko&#39;jiri at the threshold. Let him make
+        it.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">&quot;...wa shinanai&quot;</em>: translate only on player
+        request and a DC 12 History or relevant language check. Give exactly <em lang="ja-Latn">does not die</em> and
+        nothing more. The subject is permanently lost.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Investigation or Perception</td><td>10</td><td>Formal portrait, defacement technique matches pillars;
-        small object on extended palm.</td></tr>
+        <tr><td>10</td><td>Failure — Defacement Matches Pillars</td><td>Formal portrait, defacement technique matches
+        pillars; small object on extended palm.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>14</td><td>Object is a palm-sized disc; gesture is receipt; ghost of
-        amber thread under the gouged sockets.</td></tr>
+        <tr><td>14</td><td>Partial Failure — A Disc on the Palm, Amber Threads at the Eyes</td><td>Object is a
+        palm-sized disc; gesture is receipt; ghost of amber thread under the gouged sockets.</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>18</td><td>Specific vivid amber thread, almost luminous; disc
-        proportion matches sealed-dormitory bronze disc; investiture posture (receipt from above).</td></tr>
+        <tr><td>18</td><td>Partial Success — Investiture, Amber Eyes</td><td>Specific vivid amber thread, almost
+        luminous; disc proportion matches sealed-dormitory bronze disc; investiture posture (receipt from
+        above).</td></tr>
 
-        <tr><td>Investigation or Perception</td><td>22</td><td>Old Imperial border script, eight surviving characters:
-        *&quot;...wa shinanai.&quot;* — &quot;does not die.&quot; Subject is gone with the missing third.</td></tr>
+        <tr><td>22</td><td>Success — &quot;...wa shinanai&quot;</td><td>Old Imperial border script, eight surviving
+        characters: &quot;...wa shinanai.&quot; — &quot;does not die.&quot; Subject is gone with the missing
+        third.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 1 · Partial — Defacement Matches Pillars</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">An important figure whose face has been removed. The object in the
-        extended hand is too small to make out from this distance.</em></p>
+        <li><strong>Partial Success</strong> <em lang="ja-Latn">(Kojiri)</em>: Advantage on all Charisma checks within
+        the temple for the remainder of this visit.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="reading-the-image" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>A Defaced Portrait</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">A Defaced Portrait</em></p>
 
         <p>A formal portrait — the defacement matches the pillar work in technique. Gold-scaled Dragonborn. The hand is
         extended in a specific gesture, something small resting on the palm.</p>
@@ -3581,19 +3705,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 2 · Success — A Disc on the Palm, Amber Threads at the Eyes</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The amber thread is the link to the Grand Hall statue and to Ko&#39;jiri&#39;s recognition moment.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="reading-the-image" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The Hand and the Eyes</strong></p>
+        <p><em lang="ja-Latn">The Hand and the Eyes</em></p>
 
         <p>The object in the extended hand is a disc — circular, palm-sized. The gesture is specific: weight shifted,
         arm extended, the body&#39;s orientation suggesting receipt rather than offering. The free hand rests on
@@ -3607,21 +3726,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 3 · Critical — Investiture, Amber Eyes</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Ko&#39;jiri Tangible Reward</strong>: advantage on all Charisma checks within the temple for the
-        remainder of this visit. <strong>Do not explain the connection to the statue&#39;s amber eyes that oriented
-        toward him at the threshold. Let him make it.</strong></p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="reading-the-image" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>The Eyes That Knew Him</strong></p>
+        <p><em lang="ja-Latn">The Eyes That Knew Him</em></p>
 
         <p>The amber thread at the eye sockets is not the warm brown-amber of the clan&#39;s general palette — it is a
         specific, vivid shade that reads almost luminous in the cold torchlight. The disc in the extended hand matches
@@ -3632,20 +3744,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Reading the Image
-        (Investigation or Perception) · Tier 4 · Exceptional — &quot;...wa shinanai&quot;</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Investigation or Perception DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
-        <p>Translate only on player request and a DC 12 History or relevant language check. Give exactly <em
-        lang="ja-Latn">does not die</em> and nothing more. The subject is permanently lost.</p>
+        <p><strong>Examining the tapestry</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="reading-the-image" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Eight Characters in Old Imperial</strong></p>
+        <p><em lang="ja-Latn">Eight Characters in Old Imperial</em></p>
 
         <p>Along the lower border of the surviving fabric, running the full width just above where the missing third
         begins, a line of very small, very dense Old Imperial text is stitched into the decorative border. Most is lost
@@ -3655,44 +3761,75 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__summary-title"><strong>Sacred Symbolism (Religion) — Tier Ladder</strong></p>
+        </section>
+
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>Sacred Symbolism</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Skill Check — Tiered:</em> Religion</li>
+
+        </ul>
+
+        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A devotional portrait
+        — standard format for a religious institution commemorating its leadership. The defacement is desecration of a
+        familiar kind.</em></p>
+
+        <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Creation, Covenant, Stewardship, Silence</em>: the
+        fourth symbol — Silence — is rendered larger. The order&#39;s foundational charge was to keep, not to speak.</p>
+
+        <p><strong>Partial Success beat</strong> — <em lang="ja-Latn">Direct Divine Commission</em>: Ko&#39;jiri may
+        apply his Golden Dragon Clan History advantage to his Examining the tapestry check on this tapestry — the
+        founding priest&#39;s identity is in his research.</p>
+
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">The Charge Is Everywhere</em>: architecture-as-text
+        reveal. Pairs powerfully with later in-temple discoveries — let the architecture teach first.</p>
+
 
         <table class="kg-discovery__summary-table">
 
-        <thead><tr><th>Check</th><th>DC</th><th>Result</th></tr></thead>
+        <thead><tr><th>DC</th><th>Result</th><th>Detail</th></tr></thead>
 
         <tbody>
 
-        <tr><td>Religion</td><td>10</td><td>High-order ceremonial vestments; formal consecration not administrative
-        appointment.</td></tr>
+        <tr><td>10</td><td>Failure — High-Order Vestments</td><td>High-order ceremonial vestments; formal consecration
+        not administrative appointment.</td></tr>
 
-        <tr><td>Religion</td><td>14</td><td>Border is liturgical record: four obligations rendered in order&#39;s
-        symbolic language. Silence stitched larger.</td></tr>
+        <tr><td>14</td><td>Partial Failure — Creation, Covenant, Stewardship, Silence</td><td>Border is liturgical
+        record: four obligations rendered in order&#39;s symbolic language. Silence stitched larger.</td></tr>
 
-        <tr><td>Religion</td><td>18</td><td>Extended-hand gesture used only for receipt of a direct divine commission —
-        not council or clan appointment.</td></tr>
+        <tr><td>18</td><td>Partial Success — Direct Divine Commission</td><td>Extended-hand gesture used only for
+        receipt of a direct divine commission — not council or clan appointment.</td></tr>
 
-        <tr><td>Religion</td><td>22</td><td>Same four symbols appear in the dormitory corridor stonework, the Inner
-        Sanctum frieze, and the Grand Hall statue base. Silence always largest.</td></tr>
+        <tr><td>22</td><td>Success — The Charge Is Everywhere</td><td>Same four symbols appear in the dormitory corridor
+        stonework, the Inner Sanctum frieze, and the Grand Hall statue base. Silence always largest.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="4"><strong>Sacred Symbolism (Religion) ·
-        Tier 1 · Partial — High-Order Vestments</strong></p>
+        <p class="kg-discovery__rewards-title"><strong>Rewards</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Religion DC 10</p>
+        <ul class="kg-discovery__rewards-list">
 
-        <p>Failure narration: <em lang="ja-Latn">A devotional portrait — standard format for a religious institution
-        commemorating its leadership. The defacement is desecration of a familiar kind.</em></p>
+        <li><strong>Partial Success:</strong> Reframes the temple&#39;s purpose. The party gains advantage on Religion
+        and History checks for the remainder of the first floor.</li>
 
+        </ul>
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="religious-reading" data-tier-key="partial" data-tier-index="1" data-tier-count="4"
-        data-kind="player">
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
-        <p><strong>Vestments of Consecration</strong></p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Sacred Symbolism</strong></p>
+
+        <p><em lang="ja-Latn">Vestments of Consecration</em></p>
 
         <p>The vestments are high-order ceremonial, indicating significant religious authority. The posture marks a
         moment of formal consecration rather than administrative appointment.</p>
@@ -3700,20 +3837,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="2" data-tier-count="4"><strong>Sacred Symbolism (Religion) ·
-        Tier 2 · Success — Creation, Covenant, Stewardship, Silence</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Religion DC 14</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-tier-key="partial-failure" data-kind="player">
 
-        <p>The fourth symbol — Silence — is rendered larger. The order&#39;s foundational charge was to keep, not to
-        speak.</p>
+        <p><strong>Sacred Symbolism</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="religious-reading" data-tier-key="success" data-tier-index="2" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Four Obligations on the Border</strong></p>
+        <p><em lang="ja-Latn">Four Obligations on the Border</em></p>
 
         <p>The robe&#39;s border is not decorative — it is a liturgical record in the Golden Dragon order&#39;s visual
         theology. Reading left to right across the surviving fabric: four symbols in sequence, each rendered distinctly.
@@ -3728,23 +3859,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="3" data-tier-count="4"><strong>Sacred Symbolism (Religion) ·
-        Tier 3 · Critical — Direct Divine Commission</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Religion DC 18</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-tier-key="partial-success" data-kind="player">
 
-        <p><strong>Tangible Reward</strong>: Reframes the temple&#39;s purpose. The party gains advantage on Religion
-        and History checks for the remainder of the first floor.</p>
+        <p><strong>Sacred Symbolism</strong></p>
 
-        <p>Ko&#39;jiri may apply his Golden Dragon Clan History advantage to his Track One check on this tapestry — the
-        founding priest&#39;s identity is in his research.</p>
-
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="religious-reading" data-tier-key="critical" data-tier-index="3" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Commissioned at the Source</strong></p>
+        <p><em lang="ja-Latn">Commissioned at the Source</em></p>
 
         <p>The extended hand — the specific gesture, not the general posture — appears in Golden Dragon religious
         imagery in only one context: the receipt of a direct commission from a divine source rather than a human or
@@ -3755,20 +3877,14 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="4" data-tier-count="4"><strong>Sacred Symbolism (Religion) ·
-        Tier 4 · Exceptional — The Charge Is Everywhere</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
-        <p class="kg-discovery__activation">Skill Check: Religion DC 22</p>
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-tier-key="success" data-kind="player">
 
-        <p>Architecture-as-text reveal. Pairs powerfully with later in-temple discoveries — let the architecture teach
-        first.</p>
+        <p><strong>Sacred Symbolism</strong></p>
 
-
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-static"
-        data-discovery="religious-reading" data-tier-key="exceptional" data-tier-index="4" data-tier-count="4"
-        data-kind="player">
-
-        <p><strong>Repeated Across the Temple</strong></p>
+        <p><em lang="ja-Latn">Repeated Across the Temple</em></p>
 
         <p>The four symbols — creation, covenant, stewardship, silence — appear on this tapestry&#39;s border. They also
         appear elsewhere: fragments in the stonework of the dormitory corridor, in the carved frieze around the Inner
@@ -3781,39 +3897,30 @@ pages:
 
         </section>
 
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="border-sequence" data-kind="discovery">
 
-        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv-activation"
-        data-kind="discovery">
+        <p class="kg-discovery__section-title"><strong>The Border Sequence</strong></p>
 
-        <p><strong>Tapestry IV — Activation Behavior</strong></p>
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
-        <ul>
+        <ul class="kg-discovery__activation-list">
 
-        <li><strong>The Border Sequence</strong> — Quest: Orrery restored — see Observatory Repair Mechanics page</li>
-
-        <li><strong>The Glance and the Paper</strong> — Quest: Orrery restored, watched through at least one full border
-        cycle</li>
-
-        <li><strong>The Mandate Connection</strong> — Interaction: Performing the Kinryu no Chikara mandate inscription
-        having watched the activation</li>
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see Observatory Repair Mechanics page</li>
 
         </ul>
-
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Border Sequence · Border
-        Sequence Performs</strong></p>
-
-        <p class="kg-discovery__activation">Quest: Orrery restored — see Observatory Repair Mechanics page</p>
 
         <p>On activation the border symbols light in sequence. Creation, then Covenant, then Stewardship, then Silence.
         The fourth symbol is held visibly longer than the others before the cycle resets. This is the order rehearsing
         its own oath, recorded into the fabric.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-activation"
-        data-discovery="border-sequence" data-tier-key="cycle" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="border-sequence" data-tier-key="active" data-kind="player">
 
-        <p><strong>Four Lights, Held in Order</strong></p>
+        <p><strong>The Border Sequence</strong></p>
+
+        <p><em lang="ja-Latn">Four Lights, Held in Order</em></p>
 
         <p>When the orrery brings this tapestry alive, the four border symbols light one after the other — Creation,
         Covenant, Stewardship, Silence — and the fourth holds visibly longer than the rest before the cycle starts
@@ -3822,10 +3929,20 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Glance and the Paper · The
-        Head Priest Doing Their Job</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Quest: Orrery restored, watched through at least one full border cycle</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="glance-and-paper" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>The Glance and the Paper</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored, watched through at least one full border cycle</li>
+
+        </ul>
 
         <p>Visible to anyone watching the full cycle — no check required. The glance is verification: checking the
         displayed map state against a report. The paper is the head priest doing routine logging between the moments the
@@ -3834,11 +3951,12 @@ pages:
         log existed and is not preserved.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-activation"
-        data-discovery="glance-and-paper" data-tier-key="between-cycles" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="glance-and-paper" data-tier-key="active" data-kind="player">
 
-        <p><strong>A Working Day Inside the Record</strong></p>
+        <p><strong>The Glance and the Paper</strong></p>
+
+        <p><em lang="ja-Latn">A Working Day Inside the Record</em></p>
 
         <p>Watch the cycle long enough and the figure&#39;s formal pose breaks for an instant. The head turns — toward
         the position on the opposite wall where the map tapestry hangs. The hand not holding the disc lifts a loose
@@ -3849,11 +3967,21 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>The Mandate Connection ·
-        Inscription, With Knowledge</strong></p>
+        </section>
 
-        <p class="kg-discovery__activation">Interaction: Performing the Kinryu no Chikara mandate inscription having
-        watched the activation</p>
+        <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iv"
+        data-discovery="mandate-connection" data-kind="discovery">
+
+        <p class="kg-discovery__section-title"><strong>The Mandate Connection</strong></p>
+
+        <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
+
+        <ul class="kg-discovery__activation-list">
+
+        <li><em lang="ja-Latn">Interaction:</em> Performing the Kinryu no Chikara mandate inscription having watched the
+        activation</li>
+
+        </ul>
 
         <p>The Kinryu no Chikara mandate requires a short ritual — a spoken statement of genuine intent — for
         inscription. This works regardless of whether the party witnessed the activation. But a character who has
@@ -3867,11 +3995,12 @@ pages:
         significant one and has been accepted knowingly.</p>
 
 
-        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv-activation"
-        data-discovery="mandate-connection" data-tier-key="knowing-inscription" data-tier-index="1" data-tier-count="1"
-        data-kind="player">
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="mandate-connection" data-tier-key="active" data-kind="player">
 
-        <p><strong>Saying It Knowing What You Are Saying</strong></p>
+        <p><strong>The Mandate Connection</strong></p>
+
+        <p><em lang="ja-Latn">Saying It Knowing What You Are Saying</em></p>
 
         <p>Speaking the mandate after watching the activation is not the same as speaking it cold. You have seen the
         gesture, the obligations, the weight Silence holds longest. The words have a shape now. What you are repeating
