@@ -396,7 +396,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/timeline.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/funny-chaum-551d58/canon/timeline.json
     slug: timeline
     frontmatter:
       name: Timeline

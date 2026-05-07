@@ -1,0 +1,76 @@
+_id: k1D0raeW9rY3mGyC
+_key: '!items!k1D0raeW9rY3mGyC'
+name: Operator's Manual (Orrery)
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-operators-manual
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: operators-manual
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A scroll, sei-lacquered along the leading edge so the surface gives off a faint sheen. The writing inside is dense
+      and instructional rather than ornamental.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>The operator&#39;s manual for Ōryūzan Tenkū-ji&#39;s orrery, sei-lacquered for preservation in the same
+      technique as the order&#39;s most important records and almost fully legible. The text describes the orrery&#39;s
+      calibration sequence, the role of each component (planetary gear, lunar armature, projection lenses, calibration
+      disc, sei conduit filament), and the protocols by which the operator advanced or rewound the displayed sky.
+      Written in clear technical Old Imperial; a practitioner with reading patience can use it to operate the
+      device.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

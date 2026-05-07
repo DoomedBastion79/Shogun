@@ -1,0 +1,77 @@
+_id: 5rkTGnznyJMLpfs8
+_key: '!items!5rkTGnznyJMLpfs8'
+name: The Operational Ledger of the Hub
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-operational-ledger
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: operational-ledger
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A leather-bound ledger of substantial weight. Some pages catch the light differently than others — selectively
+      glossed where ink would otherwise have faded entirely.
+  quantity: 1
+  weight:
+    value: 2
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>The operational ledger of Ōryūzan Tenkū-ji&#39;s network hub, kept by the head priest. Each significant entry
+      records a complete operational cycle: distress signal received, acknowledgement authorized and sent, dispatch
+      ordered, field report on findings. The entries the head priest considered significant were treated with
+      sei-lacquer in the order&#39;s foundational technique and remain fully readable. The rest, in ordinary ink, have
+      faded past use. Which entries were preserved is itself information about what the head priest considered to
+      matter. The fall-period entries — the distress signals from Kaze and Sora at the fall of 13088 — are absent from
+      the record entirely. The collapse overtook the record-keeping.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

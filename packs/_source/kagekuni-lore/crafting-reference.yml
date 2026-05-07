@@ -861,7 +861,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/materials.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/funny-chaum-551d58/canon/materials.json
     slug: crafting-reference
     frontmatter:
       name: Crafting Reference

@@ -1,0 +1,74 @@
+_id: lpbM4aerzVzBFgPo
+_key: '!items!lpbM4aerzVzBFgPo'
+name: Carved Jade Medallion of Kinryu
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-jade-medallion-kinryu
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: jade-medallion-kinryu
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A pale jade medallion on a silk cord, carved with a complex stylized sigil. Faintly warm to the touch — the warmth
+      is not coming from the room.
+  quantity: 1
+  weight:
+    value: 0.2
+    units: lb
+  price:
+    value: 200
+    denomination: gp
+  rarity: uncommon
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A devotional medallion of carved jade, bearing Kinryu&#39;s Golden Dragon clan sigil. It radiates a faint
+      warmth — the residual sei-impression of generations of devotion held in the stone. Worth approximately two hundred
+      gold as a piece of period jade work, and meaningfully more to a member of the Golden Dragon order or its
+      descendants.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

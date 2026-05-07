@@ -1,0 +1,75 @@
+_id: 8lQAi6w3o7XMAT9J
+_key: '!items!8lQAi6w3o7XMAT9J'
+name: The Kinryu no Chikara Mandate
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-kinryu-no-chikara-mandate
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kinryu-no-chikara-mandate
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A sealed lacquer tube. The seal bears a Golden Dragon order glyph and is intact. Whatever document is inside has
+      not been opened in centuries.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: very-rare
+  identified: false
+  attunement: required
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A formal mandate of the Golden Dragon order, sealed by Head Priest Kinjiro and left blank on the recipient
+      line. A character who performs the inscription ritual described in Kinjiro&#39;s journal — ten minutes, spoken in
+      any language, a genuine statement of intent to protect rather than exploit what lies within the temple — may
+      inscribe their own name on the line. Once inscribed, the mandate grants its bearer advantage on Charisma checks
+      made within Ōryūzan Tenkū-ji and allows passage through one magically sealed door elsewhere in the temple.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

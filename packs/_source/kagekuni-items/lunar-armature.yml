@@ -1,0 +1,72 @@
+_id: ROGeeXIGj771PRoI
+_key: '!items!ROGeeXIGj771PRoI'
+name: Lunar Armature
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-lunar-armature
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: lunar-armature
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A delicate set of four jointed brass arms, light enough to swing freely on their pivots when handled.
+  quantity: 1
+  weight:
+    value: 4
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A lunar armature: four delicate jointed arms designed to model the major lunar cycles around the orrery&#39;s
+      stellar drive. Each arm is calibrated to a different period; together they reproduce the sky as the temple&#39;s
+      makers understood it. Originally stored in the Scriptorium of Ōryūzan Tenkū-ji, sealed away when the order
+      fell.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

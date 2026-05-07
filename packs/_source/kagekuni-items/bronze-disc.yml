@@ -1,0 +1,76 @@
+_id: fMvmTdLUg3HnyULH
+_key: '!items!fMvmTdLUg3HnyULH'
+name: The Bronze Disc
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-bronze-disc
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: bronze-disc
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A heavy palm-sized disc of dark bronze. The obverse bears a single character; the reverse bears fine engravings
+      only visible under good light.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: very-rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A formal seal of the Golden Dragon order. Carrying it confers recognition as a member of the order — useful as
+      a key to certain sealed areas within Ōryūzan Tenkū-ji. The reverse face bears concentric rings scored as orbital
+      tracks, with seven small notches along the outer edge and four along an inner ring. The disc is also a calibration
+      component for the temple&#39;s celestial mechanism: when seated in the orrery&#39;s control interface, it sets the
+      reference date from which the device can advance or rewind. The order seal and the calibration key were the same
+      object — by design, only a member of the order could operate the observatory.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

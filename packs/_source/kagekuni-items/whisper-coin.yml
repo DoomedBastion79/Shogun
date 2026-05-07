@@ -54,9 +54,12 @@ system:
   proficient: 0
   equipped: false
   description:
-    value: >
+    value: >-
       <p>A coin of black iron — the visible token of a Hatchling Mark from the Onyx Brood (Kurokkō). Both faces are
       featureless. The coin is always slightly cooler than its surroundings.</p>
+
+
+      <h3>Properties</h3>
 
       <p><strong>Tier:</strong> Hatchling Mark (Tamashi-no-In) — Onyx Brood
 
@@ -70,6 +73,16 @@ system:
 
       <strong>Loss:</strong> As Ember-Tear — but Onyx Marks linger even after relic loss; the brood may still call in
       the bearer&#39;s debts.</p>
+
+
+      <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="True Cost">
+
+      <p>Each query the bearer makes is itself a small offering of curiosity to the brood. The brood is studying the
+      bearer through the questions they choose to ask. Long-term Whisper-Coin use shapes how the brood will eventually
+      approach the bearer with larger offers.</p>
+
+
+      </section>
     chat: ''
 effects: []
 _stats:

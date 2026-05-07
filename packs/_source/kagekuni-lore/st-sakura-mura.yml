@@ -178,7 +178,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/funny-chaum-551d58/canon/world.json
     slug: st-sakura-mura
     frontmatter:
       name: Sakura Mura

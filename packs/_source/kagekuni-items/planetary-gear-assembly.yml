@@ -1,0 +1,74 @@
+_id: cAMTsmWzKz0WBotW
+_key: '!items!cAMTsmWzKz0WBotW'
+name: Planetary Gear Assembly
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-planetary-gear-assembly
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: planetary-gear-assembly
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      Seven interlocking bronze rings of graduated size, partially disassembled and slightly tarnished. The outermost
+      ring is bent.
+  quantity: 1
+  weight:
+    value: 6
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A planetary gear assembly: seven bronze rings, each engraved with tiny orbital notations in Old Imperial
+      script. The rings are nested concentrically and designed to model multiple simultaneous orbital periods through a
+      single input rotation — a precision drive component for a larger mechanical device. The outermost ring is bent but
+      not broken; the remaining rings are intact.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

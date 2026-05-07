@@ -2,6 +2,17 @@
  * Loaded alongside the main module CSS; targets the enriched HTML produced
  * by the tools/md-to-foundry build pipeline. */
 
+/* ---- Journal body text size ------------------------------------------ */
+/* Bump readability of the default journal prose. Targets the page content
+ * container so list items, paragraphs, and table cells inherit the larger
+ * size; existing rules that use rem units (badges, infoboxes, etc.) are
+ * unaffected. */
+.journal-entry-page,
+.journal-entry-page .journal-page-content {
+  font-size: 1.05rem;
+  line-height: 1.55;
+}
+
 /* ---- Tier sections ---------------------------------------------------- */
 .kg-tier {
   position: relative;

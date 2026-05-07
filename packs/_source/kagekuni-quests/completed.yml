@@ -45,12 +45,13 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false">Relieve the thieves of the burden of having to manage the ill-gotten
-        gains</li>
+        <li class="kg-task" data-done="true" data-task-key="48c8d64a">Relieve the thieves of the burden of having to
+        manage the ill-gotten gains</li>
 
-        <li class="kg-task" data-done="false">Decide what to do with the goods</li>
+        <li class="kg-task" data-done="true" data-task-key="f6bdcde0">Decide what to do with the goods</li>
 
-        <li class="kg-task" data-done="false">Goods turned in to the Imperial Police in Ayame</li>
+        <li class="kg-task" data-done="true" data-task-key="8011a67d">Goods turned in to the Imperial Police in
+        Ayame</li>
 
         </ul>
 
@@ -154,7 +155,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/quests.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/funny-chaum-551d58/canon/quests.json
     slug: completed
     frontmatter:
       name: Completed

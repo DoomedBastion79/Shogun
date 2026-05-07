@@ -1,0 +1,183 @@
+_id: EuurU8WCRZBgNJJa
+_key: '!items!EuurU8WCRZBgNJJa'
+name: Scroll of Kinryu in Flight
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-scroll-kinryu-in-flight
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: scroll-kinryu-in-flight
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A long silk scroll bearing an image of a golden dragon in flight; remarkably preserved for its age, the colors
+      still vivid where they should have faded centuries ago.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 800
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >-
+      <p>An antique scroll of the Golden Dragon order, painted on silk and treated with a sei-lacquer preservation
+      enchantment in the foundational style. Worth approximately eight hundred gold as an antique, and considerably more
+      to a collector of pre-Dark-Ages devotional art. The same preservation technique was used on the order&#39;s most
+      important records — anything still legible from this temple was almost certainly preserved this way.</p>
+
+
+      <section class="secret kg-secret-sealed kg-discovery-index" data-container="sei-lacquer-identification"
+      data-kind="discovery">
+
+      <p><strong>Sei-Lacquer Identification</strong></p>
+
+      <ul>
+
+      <li><strong>Golden Dragon Order Craft</strong> — Skill Check: Arcana DC 13</li>
+
+      </ul>
+
+      <p class="kg-discovery__activation">Skill Check: Arcana DC 13</p>
+
+      <p>A close Arcana read identifies the preservation enchantment as Golden Dragon order craft, an active sei-lacquer
+      rather than an inert finish. The same technique was almost certainly used on the order&#39;s most important
+      records — anything still legible in this temple was probably preserved this way. Use this as a subtle pointer
+      toward the Scriptorium on the first floor: the order&#39;s most important records would still be readable.</p>
+
+
+      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="sei-lacquer-identification"
+      data-discovery="preservation-craft" data-tier-key="id" data-tier-index="1" data-tier-count="1" data-kind="player">
+
+      <p><strong>A Living Lacquer</strong></p>
+
+      <p>Reading the surface of the scroll closely, you find the preservation is not paint — it is a working. A
+      sei-lacquer enchantment in the Golden Dragon order&#39;s foundational style, still active in the silk of the
+      scroll. The same technique would have preserved the order&#39;s most important records; anything still legible in
+      this temple was almost certainly held by this hand.</p>
+
+
+      </section>
+
+      </section>
+
+      <section class="secret kg-secret-sealed kg-discovery-index" data-container="hidden-thread" data-kind="discovery">
+
+      <p><strong>The Scroll&#39;s Hidden Thread — Sei Conduit Filament</strong></p>
+
+      <ul>
+
+      <li><strong>Detecting the Filament</strong> — Skill Check: Arcana DC 16</li>
+
+      <li><strong>Extracting the Filament</strong> — Skill Check: Sleight of Hand or Tinker&#39;s Tools DC 14</li>
+
+      </ul>
+
+      <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Detecting the Filament ·
+      Filament Detection (DC 16 Arcana, DC 14 if lens already found)</strong></p>
+
+      <p class="kg-discovery__activation">Skill Check: Arcana DC 16</p>
+
+      <p>Woven into the decorative border of the scroll is an impossibly fine golden filament — not thread, not wire,
+      something between the two. It carries a faint, steady sei charge distinct from the preservation enchantment.
+      <strong>DC 14 instead of 16</strong> if the character has already identified a projection lens elsewhere in the
+      temple — they recognise the resonance signature.</p>
+
+      <p>This filament is a sei conduit: a transmission line designed to carry magical resonance between connected
+      systems. <strong>It is one of the orrery components required to repair the device on the second floor</strong> —
+      it connects the orrery&#39;s mechanical output to the arcane projection system. The scroll was stored in the
+      sanctum because the conduit needed to remain within the temple&#39;s foundational magic field to retain its charge
+      — the sanctum sits well within the field. Outside the field, the filament will slowly dim.</p>
+
+
+      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="hidden-thread"
+      data-discovery="filament-detection" data-tier-key="detect" data-tier-index="1" data-tier-count="1"
+      data-kind="player">
+
+      <p><strong>A Thread Within a Thread</strong></p>
+
+      <p>Reading the scroll for sei resonance, you find a second signature laid into the decorative border — finer than
+      thread, finer than wire, a filament of something that catches the senses more than the eye. It carries its own
+      steady charge, distinct from the preservation enchantment that has held the silk together for centuries.</p>
+
+      <p>It is a conduit. A transmission line for magical resonance, designed to connect one working to another. The
+      scroll has been held in this room because the field of the temple keeps the filament charged.</p>
+
+
+      </section>
+
+      <p class="kg-discovery__dm-title" data-tier-index="1" data-tier-count="1"><strong>Extracting the Filament ·
+      Extraction (DC 14)</strong></p>
+
+      <p class="kg-discovery__activation">Skill Check: Sleight of Hand or Tinker&#39;s Tools DC 14</p>
+
+      <p>DC 14 Sleight of Hand or Tinker&#39;s Tools to remove the filament without destroying the scroll. <strong>On
+      failure</strong>, the scroll&#39;s preservation enchantment collapses and the image fades to nothing within
+      minutes — the scroll is destroyed, but the filament is recovered intact. <strong>On success</strong>, both the
+      scroll and the filament are preserved. Note that any extraction outside the temple&#39;s field starts the
+      filament&#39;s slow discharge; reinstall it in the orrery (or another temple-grade field) to retain the
+      charge.</p>
+
+
+      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="hidden-thread"
+      data-discovery="filament-extraction" data-tier-key="extract" data-tier-index="1" data-tier-count="1"
+      data-kind="player">
+
+      <p><strong>Lifting the Thread Free</strong></p>
+
+      <p>The filament is set into the silk under the lacquer — a careful working of fingers or fine tools can free it
+      without ruining the rest of the scroll. Mishandle it, and the lacquer relaxes, the silk loses its hold, and the
+      dragon in flight fades from the scroll over the space of minutes. The filament will come away regardless. The
+      choice is whether the scroll comes with it.</p>
+
+
+      </section>
+
+      </section>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

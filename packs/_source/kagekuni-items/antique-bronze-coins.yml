@@ -1,0 +1,72 @@
+_id: 2uusHsNWfi0PltZb
+_key: '!items!2uusHsNWfi0PltZb'
+name: Antique Bronze Coins
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-antique-bronze-coins
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: antique-bronze-coins
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A handful of tarnished bronze coins, age-darkened and out of any current circulation.
+  quantity: 1
+  weight:
+    value: 0.1
+    units: lb
+  price:
+    value: 150
+    denomination: gp
+  rarity: uncommon
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>Three bronze coins from an early imperial period, struck in a face style that has not been current in any
+      market for centuries. The strikes are still legible despite the age-darkening of the metal. As currency they are
+      worthless; as antiques they are conservatively valued at fifty gold each, more to a collector of period devotional
+      or numismatic objects.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

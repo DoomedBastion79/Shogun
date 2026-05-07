@@ -1,0 +1,75 @@
+_id: xuPC2CjKZxuJoH2B
+_key: '!items!xuPC2CjKZxuJoH2B'
+name: Personal Journal of Head Priest Kinjiro
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-kinjiro-journal
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: kinjiro-journal
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A bound journal, its cover plain and unmarked. The pages are full, written in a single direct hand. The binding is
+      intact.
+  quantity: 1
+  weight:
+    value: 1
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>The personal journal of Head Priest Kinjiro of Ōryūzan Tenkū-ji. The hand is direct and unceremonial — not the
+      formality of his other documents. Final entries describe the disintegration of the Golden Dragon order from the
+      inside: the slow accretion of suspicion, the trust the priesthood could no longer afford to extend, the work that
+      continued anyway because the work was the order&#39;s purpose. Kinjiro names no traitors. The journal&#39;s
+      emotional weight is in what it does not accuse.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

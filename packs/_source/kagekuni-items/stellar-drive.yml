@@ -1,0 +1,74 @@
+_id: Wqt8h0ktZuIqiZSP
+_key: '!items!Wqt8h0ktZuIqiZSP'
+name: Stellar Drive Mechanism
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-stellar-drive
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: stellar-drive
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A heavy mechanism of dark bronze and steel, seized solid by centuries of stillness. Larger than a person can
+      comfortably carry.
+  quantity: 1
+  weight:
+    value: 50
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: very-rare
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>The stellar drive of Ōryūzan Tenkū-ji&#39;s orrery — the central rotational engine that translates sei input
+      into mechanical output across the planetary, lunar, and projection systems. Currently seized. Freeing it requires
+      careful work rather than force; the drive is precision-cut and damage to the central spindle would be
+      catastrophic. Once the drive is moving, it stays moving.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

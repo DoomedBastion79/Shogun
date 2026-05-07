@@ -1,0 +1,71 @@
+_id: enKahStKbBpu6fZU
+_key: '!items!enKahStKbBpu6fZU'
+name: Sealed Ceramic Jar
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: hjk4ChCrMYsIEqYq
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-sealed-ceramic-jar
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: sealed-ceramic-jar
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: A small ceramic jar glazed in pale celadon, the lid sealed with hardened wax. Faint script runs along the rim.
+  quantity: 1
+  weight:
+    value: 1.5
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: uncommon
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A ceramic jar sealed during the order&#39;s fall, the lid still wax-tight. The script along the rim reads, in
+      an unsteady hand: <em lang="ja-Latn">They are already inside. Hiroki knows.</em> The seal has not been broken.
+      Whatever was placed inside was hidden from the Nagaji and the others looting at the time.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
