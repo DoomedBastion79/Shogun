@@ -1,9 +1,9 @@
 _id: Romz803e1itZffBj
 _key: '!items!Romz803e1itZffBj'
-name: Brine-Pearl
+name: Brine Pearl
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/brine-pearl.webp
+folder: zgjvbJlJNC9gTsLb
 sort: 0
 ownership:
   default: 0
@@ -72,7 +72,7 @@ system:
       60 ft. The cube fills the chosen space, treats the area as difficult terrain, and heavily obscures it until the
       end of your next turn.
 
-      <strong>Loss:</strong> As Ember-Tear — Mark persists, active effects gated on relic recovery.</p>
+      <strong>Loss:</strong> As Ember Tear — Mark persists, active effects gated on relic recovery.</p>
     chat: ''
 effects: []
 _stats:

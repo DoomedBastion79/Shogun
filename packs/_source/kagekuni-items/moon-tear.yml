@@ -1,9 +1,9 @@
 _id: xCX0IAPpr3nVtClc
 _key: '!items!xCX0IAPpr3nVtClc'
-name: Moon-Tear
+name: Moon Tear
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/moon-tear.webp
+folder: zgjvbJlJNC9gTsLb
 sort: 0
 ownership:
   default: 0
@@ -71,7 +71,7 @@ system:
       <strong>Activation (1/long rest):</strong> As an action, freeze a 10-ft cube of liquid solid for 1 minute. The
       frozen volume can be shattered by heavy damage or sustained heat.
 
-      <strong>Loss:</strong> As Ember-Tear.</p>
+      <strong>Loss:</strong> As Ember Tear.</p>
     chat: ''
 effects: []
 _stats:

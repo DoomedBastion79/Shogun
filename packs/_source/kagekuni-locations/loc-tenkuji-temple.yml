@@ -10709,7 +10709,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/funny-chaum-551d58/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/infallible-hamilton-8b8aef/canon/locations.json
     slug: loc-tenkuji-temple
     frontmatter:
       name: Ōryūzan Tenkū-ji

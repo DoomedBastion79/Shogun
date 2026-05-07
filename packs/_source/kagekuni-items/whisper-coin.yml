@@ -1,9 +1,9 @@
 _id: p3ekVzjXXts7CCMD
 _key: '!items!p3ekVzjXXts7CCMD'
-name: Whisper-Coin
+name: Whisper Coin
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/whisper-coin.webp
+folder: zgjvbJlJNC9gTsLb
 sort: 0
 ownership:
   default: 0
@@ -71,14 +71,14 @@ system:
       <strong>Cost:</strong> Every fifth question, the brood asks one in return that the bearer must answer truthfully
       aloud. If the bearer refuses or lies, the coin goes inert until restored by service to the brood.
 
-      <strong>Loss:</strong> As Ember-Tear — but Onyx Marks linger even after relic loss; the brood may still call in
+      <strong>Loss:</strong> As Ember Tear — but Onyx Marks linger even after relic loss; the brood may still call in
       the bearer&#39;s debts.</p>
 
 
       <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="True Cost">
 
       <p>Each query the bearer makes is itself a small offering of curiosity to the brood. The brood is studying the
-      bearer through the questions they choose to ask. Long-term Whisper-Coin use shapes how the brood will eventually
+      bearer through the questions they choose to ask. Long-term Whisper Coin use shapes how the brood will eventually
       approach the bearer with larger offers.</p>
 
 

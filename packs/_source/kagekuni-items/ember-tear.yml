@@ -1,9 +1,9 @@
 _id: f3uT29T1ejJKerZa
 _key: '!items!f3uT29T1ejJKerZa'
-name: Ember-Tear
+name: Ember Tear
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/ember-tear.webp
+folder: zgjvbJlJNC9gTsLb
 sort: 0
 ownership:
   default: 0
@@ -56,7 +56,7 @@ system:
   description:
     value: >
       <p>A solidified droplet of dragon-fire — the visible token of a Hatchling Mark from the Crimson Brood (Akakkō).
-      Warm to the touch but never burning the bearer. The Ember-Tear pulses faintly in time with the bearer&#39;s
+      Warm to the touch but never burning the bearer. The Ember Tear pulses faintly in time with the bearer&#39;s
       heartbeat.</p>
 
 

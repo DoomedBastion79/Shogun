@@ -1,0 +1,11 @@
+_id: YtkZQDUuYcLS8lqZ
+_key: '!folders!YtkZQDUuYcLS8lqZ'
+name: 天空寺 Tenkū-ji
+type: Item
+folder: null
+sorting: m
+sort: 35
+color: '#7c3aed'
+flags:
+  assistant:
+    folderPath: items/tenkuji

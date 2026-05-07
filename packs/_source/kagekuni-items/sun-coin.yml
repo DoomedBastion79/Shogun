@@ -1,9 +1,9 @@
 _id: JVUHHy4wsAbORlWZ
 _key: '!items!JVUHHy4wsAbORlWZ'
-name: Sun-Coin
+name: Sun Coin
 type: equipment
-img: icons/equipment/chest/breastplate-leather-brown.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/sun-coin.webp
+folder: zgjvbJlJNC9gTsLb
 sort: 0
 ownership:
   default: 0
@@ -70,7 +70,7 @@ system:
       have disadvantage on attack rolls against you and your allies. The light cannot be dispelled by darkness magic of
       4th level or lower.
 
-      <strong>Loss:</strong> As Ember-Tear. The Golden Brood does not lightly replace lost Sun-Coins; the bearer may
+      <strong>Loss:</strong> As Ember Tear. The Golden Brood does not lightly replace lost Sun Coins; the bearer may
       have to demonstrate continued worthiness.</p>
     chat: ''
 effects: []

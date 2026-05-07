@@ -1,0 +1,11 @@
+_id: zgjvbJlJNC9gTsLb
+_key: '!folders!zgjvbJlJNC9gTsLb'
+name: 御恩 Onkei — Hatchling Marks
+type: Item
+folder: null
+sorting: m
+sort: 25
+color: '#a83232'
+flags:
+  assistant:
+    folderPath: items/onkei

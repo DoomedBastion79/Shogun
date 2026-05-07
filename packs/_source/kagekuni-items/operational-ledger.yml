@@ -2,8 +2,8 @@ _id: 5rkTGnznyJMLpfs8
 _key: '!items!5rkTGnznyJMLpfs8'
 name: The Operational Ledger of the Hub
 type: equipment
-img: modules/assistant/assets/items/operational-ledger.webp
-folder: hjk4ChCrMYsIEqYq
+img: modules/kagekuni-assistant/assets/items/operational-ledger.webp
+folder: YtkZQDUuYcLS8lqZ
 sort: 0
 ownership:
   default: 0
