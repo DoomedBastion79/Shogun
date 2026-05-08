@@ -2246,10 +2246,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Something large
-        descending. Gold, or close to it. The damage at the bottom takes most of the scene with it. Whatever the figure
-        was descending toward, you cannot see it.</em></p>
-
         <p><strong>Partial Success beat</strong> — <em lang="ja-Latn">Considered Posture</em>: the deliberateness of the
         descent (wings folded, head lowered) should suggest, without stating, that this moment was considered important
         enough to record with unusual care.</p>
@@ -2265,17 +2261,20 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Surface Impression</td><td>Identifies a dragon descending; faint figures at the
-        torn edge.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Considered Posture</td><td>Stitchwork is exceptional; figures at the torn
+        <tr><td>10</td><td>Partial Failure — Surface Impression</td><td>Identifies a dragon descending; faint figures at
+        the torn edge.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Considered Posture</td><td>Stitchwork is exceptional; figures at the torn
         edge include a robed figure with arms raised, holding something circular.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — The Bronze Disc</td><td>Figure at torn edge is a recipient, not witness;
-        circular object matches the disc found in the sealed dormitory.</td></tr>
+        <tr><td>18</td><td>Success — The Bronze Disc</td><td>Figure at torn edge is a recipient, not witness; circular
+        object matches the disc found in the sealed dormitory.</td></tr>
 
-        <tr><td>22</td><td>Success — Cut, Not Torn</td><td>The diagonal damage line is a deliberate cut; whatever stood
-        beneath the dragon was removed.</td></tr>
+        <tr><td>22</td><td>Exceptional Success — Cut, Not Torn</td><td>The diagonal damage line is a deliberate cut;
+        whatever stood beneath the dragon was removed.</td></tr>
 
         </tbody>
 
@@ -2285,9 +2284,9 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> Recognizing the disc shape connects this figure to the bronze disc found
-        in the sealed dormitory. The character gains advantage on the next Investigation check made while searching for
-        hidden mechanisms or sealed doors anywhere in the temple.</li>
+        <li><strong>Success:</strong> Recognizing the disc shape connects this figure to the bronze disc found in the
+        sealed dormitory. The character gains advantage on the next Investigation check made while searching for hidden
+        mechanisms or sealed doors anywhere in the temple.</li>
 
         </ul>
 
@@ -2295,6 +2294,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
         data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>Something large descending. Gold, or close to it. The damage at the bottom takes most of the scene with it.
+        Whatever the figure was descending toward, you cannot see it.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2307,10 +2321,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
-        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2329,10 +2343,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
-        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2347,10 +2361,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
-        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2379,11 +2393,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A dragon arriving.
-        The posture reads as territorial — a claim being made, a place taken. This reading is wrong, and conclusions
-        built on it will be wrong.</em> Use only for clear failures — it actively misleads, and conclusions the players
-        build on it should not be silently corrected later.</p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Voluntary Binding Pose</em>: this reframes the
         image entirely. The pose is the iconographic key — surface it without explaining what it implies; let the
         players carry it forward.</p>
@@ -2401,20 +2410,23 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Standard Subject</td><td>Recognized as Golden Dragon clan commemorative imagery;
-        nothing distinguishing.</td></tr>
+        <tr><td>—</td><td>Failure — Misread (Intentional)</td><td>Use only for clear failures — it actively misleads,
+        and conclusions the players build on it should not be silently corrected later.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Voluntary Binding Pose</td><td>The wings-folded posture is a clan
+        <tr><td>10</td><td>Partial Failure — Standard Subject</td><td>Recognized as Golden Dragon clan commemorative
+        imagery; nothing distinguishing.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Voluntary Binding Pose</td><td>The wings-folded posture is a clan
         iconographic convention specifically for voluntary binding — not arrival. This image records a
         promise.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Datable Star Arrangement</td><td>Ko&#39;jiri (if engaged) recognizes the
-        alignment from his research notes — the night Kinryu first spoke to a mortal in the age before the clans were
+        <tr><td>18</td><td>Success — Datable Star Arrangement</td><td>Ko&#39;jiri (if engaged) recognizes the alignment
+        from his research notes — the night Kinryu first spoke to a mortal in the age before the clans were
         named.</td></tr>
 
-        <tr><td>22</td><td>Success — Three Bindings, This One First</td><td>The voluntary-binding pose appears in three
-        surviving examples — this temple, the Great Library of Seirei Mizuumi fragment, and an unverified Kaze highland
-        carving. This is the first.</td></tr>
+        <tr><td>22</td><td>Exceptional Success — Three Bindings, This One First</td><td>The voluntary-binding pose
+        appears in three surviving examples — this temple, the Great Library of Seirei Mizuumi fragment, and an
+        unverified Kaze highland carving. This is the first.</td></tr>
 
         </tbody>
 
@@ -2436,10 +2448,10 @@ pages:
 
         <p><strong>Iconographic Reading</strong></p>
 
-        <p><em lang="ja-Latn">Familiar Subject</em></p>
+        <p><em lang="ja-Latn">An Arrival</em></p>
 
-        <p>A standard subject in Golden Dragon clan commemorative imagery — a formal depiction of Kinryu in descent.
-        Nothing here immediately distinguishes this from common examples of the genre.</p>
+        <p>A dragon arriving. The posture reads as territorial — a claim being made, a place taken. This reading is
+        wrong, and conclusions built on it will be wrong.</p>
 
 
         </section>
@@ -2448,6 +2460,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
         data-discovery="iconographic-reading" data-tier-key="partial-failure" data-kind="player">
+
+        <p><strong>Iconographic Reading</strong></p>
+
+        <p><em lang="ja-Latn">Familiar Subject</em></p>
+
+        <p>A standard subject in Golden Dragon clan commemorative imagery — a formal depiction of Kinryu in descent.
+        Nothing here immediately distinguishes this from common examples of the genre.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
+        data-discovery="iconographic-reading" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Iconographic Reading</strong></p>
 
@@ -2464,10 +2491,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
-        data-discovery="iconographic-reading" data-tier-key="partial-success" data-kind="player">
+        data-discovery="iconographic-reading" data-tier-key="success" data-kind="player">
 
         <p><strong>Iconographic Reading</strong></p>
 
@@ -2481,10 +2508,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-i"
-        data-discovery="iconographic-reading" data-tier-key="success" data-kind="player">
+        data-discovery="iconographic-reading" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Iconographic Reading</strong></p>
 
@@ -2604,9 +2631,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A ceremony of some
-        kind around a fire. The left side is too damaged to add anything. Common enough subject matter.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Directional Gestures, the Divergent Hand</em>: the
         divergence is the hook. Do not telegraph that it matters; let the player notice and ask.</p>
 
@@ -2621,17 +2645,20 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Distinctive Collar, Suspended Fire</td><td>Notes the high structured collar on
-        robes, fire with no source, specific gestures.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Directional Gestures, the Divergent Hand</td><td>The Dragonborn figure on
+        <tr><td>10</td><td>Partial Failure — Distinctive Collar, Suspended Fire</td><td>Notes the high structured collar
+        on robes, fire with no source, specific gestures.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Directional Gestures, the Divergent Hand</td><td>The Dragonborn figure on
         the right has hands angled away from the fire toward something beyond the frame.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Two Things in One Ceremony</td><td>Energy redirected to outside the frame;
-        fire is not diminished — drawn from a different source.</td></tr>
+        <tr><td>18</td><td>Success — Two Things in One Ceremony</td><td>Energy redirected to outside the frame; fire is
+        not diminished — drawn from a different source.</td></tr>
 
-        <tr><td>22</td><td>Success — Left Side Was Cut, Pulled First</td><td>The left-side damage edge shows tension
-        consistent with the fabric being pulled before it was cut.</td></tr>
+        <tr><td>22</td><td>Exceptional Success — Left Side Was Cut, Pulled First</td><td>The left-side damage edge shows
+        tension consistent with the fabric being pulled before it was cut.</td></tr>
 
         </tbody>
 
@@ -2641,9 +2668,9 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> Understanding that the order&#39;s end was patient, embedded, and
-        invisible to most of those inside it grants the party advantage on Insight checks when interacting with the
-        creature in the Inner Sanctum.</li>
+        <li><strong>Success:</strong> Understanding that the order&#39;s end was patient, embedded, and invisible to
+        most of those inside it grants the party advantage on Insight checks when interacting with the creature in the
+        Inner Sanctum.</li>
 
         </ul>
 
@@ -2651,6 +2678,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
         data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>A ceremony of some kind around a fire. The left side is too damaged to add anything. Common enough subject
+        matter.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2663,10 +2705,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2684,10 +2726,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2702,10 +2744,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -2734,9 +2776,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Old sei in the thread
-        — a preservation enchantment of some kind. Common enough in high-value objects from this period.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Ori-kioku and Two Signatures</em>: the
         shadow-edged signature is the seed for the higher reveals. Don&#39;t name Kokuryu yet — let the player follow it
         forward.</p>
@@ -2753,17 +2792,20 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Preservation Sei</td><td>Old preservation enchantment in the thread; common in
-        high-value period objects.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Ori-kioku and Two Signatures</td><td>Identified as ori-kioku (woven
+        <tr><td>10</td><td>Partial Failure — Preservation Sei</td><td>Old preservation enchantment in the thread; common
+        in high-value period objects.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Ori-kioku and Two Signatures</td><td>Identified as ori-kioku (woven
         memory). Two layered signatures — gold-aspected and shadow-edged — from different sources.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Kokuryu-Aspected Signature</td><td>The shadow-edged signature is Onyx Clan
-        / Kokuryu tradition; same fingerprint appears on broken ward anchors in the Inner Sanctum frame and as a fresh
+        <tr><td>18</td><td>Success — Kokuryu-Aspected Signature</td><td>The shadow-edged signature is Onyx Clan /
+        Kokuryu tradition; same fingerprint appears on broken ward anchors in the Inner Sanctum frame and as a fresh
         trace in this room.</td></tr>
 
-        <tr><td>22</td><td>Success — Fresh Trace, Located</td><td>The fresh trace is concentrated near the
+        <tr><td>22</td><td>Exceptional Success — Fresh Trace, Located</td><td>The fresh trace is concentrated near the
         tapestry&#39;s surface — someone with this signature stood here recently, attentive, before moving on.</td></tr>
 
         </tbody>
@@ -2774,9 +2816,8 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> The Kokuryu-aspected sei signature is now recognizable. It appears on the
-        broken ward anchors in the Inner Sanctum door frame — and on a fresh trace here, weeks old rather than
-        centuries.</li>
+        <li><strong>Success:</strong> The Kokuryu-aspected sei signature is now recognizable. It appears on the broken
+        ward anchors in the Inner Sanctum door frame — and on a fresh trace here, weeks old rather than centuries.</li>
 
         </ul>
 
@@ -2787,7 +2828,7 @@ pages:
 
         <p><strong>Sei Resonance</strong></p>
 
-        <p><em lang="ja-Latn">Sei in the Thread</em></p>
+        <p><em lang="ja-Latn">Indeterminate</em></p>
 
         <p>Old sei in the thread — a preservation enchantment of some kind. Common enough in high-value objects from
         this period.</p>
@@ -2799,6 +2840,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
         data-discovery="sei-resonance" data-tier-key="partial-failure" data-kind="player">
+
+        <p><strong>Sei Resonance</strong></p>
+
+        <p><em lang="ja-Latn">Sei in the Thread</em></p>
+
+        <p>Old sei in the thread — a preservation enchantment of some kind. Common enough in high-value objects from
+        this period.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="sei-resonance" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Sei Resonance</strong></p>
 
@@ -2815,10 +2871,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="sei-resonance" data-tier-key="partial-success" data-kind="player">
+        data-discovery="sei-resonance" data-tier-key="success" data-kind="player">
 
         <p><strong>Sei Resonance</strong></p>
 
@@ -2832,10 +2888,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="sei-resonance" data-tier-key="success" data-kind="player">
+        data-discovery="sei-resonance" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Sei Resonance</strong></p>
 
@@ -2876,6 +2932,9 @@ pages:
 
         <tbody>
 
+        <tr><td>—</td><td>Failure — Untraceable</td><td>The working is sealed; the reader cannot follow the sei
+        flow.</td></tr>
+
         <tr><td>14</td><td>Consecration Ceremony</td><td>Identifies the rite as a consecration: sei made visible, sealed
         into the building&#39;s structural magic. The party is watching the temple&#39;s own creation.</td></tr>
 
@@ -2886,10 +2945,25 @@ pages:
 
         </table>
 
-        <p class="kg-discovery__tier-label" data-tier-key="consecration"><strong>Consecration</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="failure"><strong>Failure</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="reading-the-working" data-tier-key="consecration" data-kind="player">
+        data-discovery="reading-the-working" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Reading the Working</strong></p>
+
+        <p><em lang="ja-Latn">Hands and Fire</em></p>
+
+        <p>The figures move, the hands gesture, the fire bends. Whatever they are doing is too far gone for you to
+        follow — the working is sealed, but the seal does not open to you here.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
+        data-discovery="reading-the-working" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Reading the Working</strong></p>
 
@@ -2903,11 +2977,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="technique-recognized"><strong>Technique
-        Recognized</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-ii"
-        data-discovery="reading-the-working" data-tier-key="technique-recognized" data-kind="player">
+        data-discovery="reading-the-working" data-tier-key="success" data-kind="player">
 
         <p><strong>Reading the Working</strong></p>
 
@@ -2998,10 +3071,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">Geographic imagery —
-        possibly. The sections don&#39;t orient to anything recognizable, and there isn&#39;t enough intact to extract
-        information with confidence.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">The Three Symbols</em>: the triangle pattern is
         the load-bearing observation. Don&#39;t telegraph; let the player notice the spacing.</p>
 
@@ -3016,18 +3085,21 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — A Map of Hokori, Old</td><td>Identified as Hokori, with conventions older than any
-        current administrative archive.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — The Three Symbols</td><td>Pre-current cartographic conventions; mountain
+        <tr><td>10</td><td>Partial Failure — A Map of Hokori, Old</td><td>Identified as Hokori, with conventions older
+        than any current administrative archive.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — The Three Symbols</td><td>Pre-current cartographic conventions; mountain
         ranges with no modern equivalent; settlements in places now wilderness or open water; a circle-and-line symbol
         appears three times. Partial script —ryu— near one.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Three Sites, Triangulated</td><td>The three symbols form a rough triangle:
-        this temple, plus locations in Kaze province interior and Sora province.</td></tr>
+        <tr><td>18</td><td>Success — Three Sites, Triangulated</td><td>The three symbols form a rough triangle: this
+        temple, plus locations in Kaze province interior and Sora province.</td></tr>
 
-        <tr><td>22</td><td>Success — A Fourth, Marked Differently</td><td>Fourth instance of the symbol with an
-        additional vertical stroke (categorical distinction); located in Hi province / Hi-Tsuchi border
+        <tr><td>22</td><td>Exceptional Success — A Fourth, Marked Differently</td><td>Fourth instance of the symbol with
+        an additional vertical stroke (categorical distinction); located in Hi province / Hi-Tsuchi border
         region.</td></tr>
 
         </tbody>
@@ -3038,8 +3110,8 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> Geographic leads recorded — Kaze province interior and Sora province. Both
-        connect to threads active in the current investigation.</li>
+        <li><strong>Success:</strong> Geographic leads recorded — Kaze province interior and Sora province. Both connect
+        to threads active in the current investigation.</li>
 
         </ul>
 
@@ -3047,6 +3119,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
         data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>Geographic imagery — possibly. The sections don&#39;t orient to anything recognizable, and there isn&#39;t
+        enough intact to extract information with confidence.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3059,10 +3146,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3082,10 +3169,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3099,10 +3186,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3132,9 +3219,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A map made to be
-        used. Practical, careful. The damage makes it difficult to read anything deeper into the intent.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Hidden in Plain Sight</em>: calibrate weight here;
         this is the philosophical hinge of the tapestry.</p>
 
@@ -3148,18 +3232,21 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Maker Knew the Land</td><td>Care in rendering even in fragments; someone who lived
-        in this landscape, not a remote draftsman.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Hidden in Plain Sight</td><td>The symbols are placed deliberately to be
+        <tr><td>10</td><td>Partial Failure — Maker Knew the Land</td><td>Care in rendering even in fragments; someone
+        who lived in this landscape, not a remote draftsman.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Hidden in Plain Sight</td><td>The symbols are placed deliberately to be
         overlooked; the map is camouflage.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Camouflage Made the Survival Possible</td><td>Mundane geography is the
-        camouflage; symbol-marked locations are what the map exists to preserve. The damage stripped the camouflage but
-        left the secret partly intact.</td></tr>
+        <tr><td>18</td><td>Success — Camouflage Made the Survival Possible</td><td>Mundane geography is the camouflage;
+        symbol-marked locations are what the map exists to preserve. The damage stripped the camouflage but left the
+        secret partly intact.</td></tr>
 
-        <tr><td>22</td><td>Success — The Kaze Blank</td><td>The Kaze highlands above a settlement are left entirely
-        unrendered — the absence of a record is itself a record. Connects to the Gekko investigation.</td></tr>
+        <tr><td>22</td><td>Exceptional Success — The Kaze Blank</td><td>The Kaze highlands above a settlement are left
+        entirely unrendered — the absence of a record is itself a record. Connects to the Gekko investigation.</td></tr>
 
         </tbody>
 
@@ -3169,7 +3256,7 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> Understanding how this order concealed information grants advantage on
+        <li><strong>Success:</strong> Understanding how this order concealed information grants advantage on
         Investigation checks made to find hidden things elsewhere in the temple. The party now knows how these people
         hid what mattered.</li>
 
@@ -3182,6 +3269,21 @@ pages:
 
         <p><strong>Reading Intent</strong></p>
 
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>A map made to be used. Practical, careful. The damage makes it difficult to read anything deeper into the
+        intent.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
+        data-discovery="intent-reading" data-tier-key="partial-failure" data-kind="player">
+
+        <p><strong>Reading Intent</strong></p>
+
         <p><em lang="ja-Latn">Made by a Hand That Knew the Ground</em></p>
 
         <p>The maker knew this geography — the care in the rendering, even in fragments, suggests someone who spent time
@@ -3191,10 +3293,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="intent-reading" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="intent-reading" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Reading Intent</strong></p>
 
@@ -3211,10 +3313,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="intent-reading" data-tier-key="partial-success" data-kind="player">
+        data-discovery="intent-reading" data-tier-key="success" data-kind="player">
 
         <p><strong>Reading Intent</strong></p>
 
@@ -3229,10 +3331,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="intent-reading" data-tier-key="success" data-kind="player">
+        data-discovery="intent-reading" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Reading Intent</strong></p>
 
@@ -3640,10 +3742,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">An important figure
-        whose face has been removed. The object in the extended hand is too small to make out from this
-        distance.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">A Disc on the Palm, Amber Threads at the
         Eyes</em>: the amber thread is the link to the Grand Hall statue and to Ko&#39;jiri&#39;s recognition
         moment.</p>
@@ -3663,18 +3761,20 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — Defacement Matches Pillars</td><td>Formal portrait, defacement technique matches
-        pillars; small object on extended palm.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — A Disc on the Palm, Amber Threads at the Eyes</td><td>Object is a
+        <tr><td>10</td><td>Partial Failure — Defacement Matches Pillars</td><td>Formal portrait, defacement technique
+        matches pillars; small object on extended palm.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — A Disc on the Palm, Amber Threads at the Eyes</td><td>Object is a
         palm-sized disc; gesture is receipt; ghost of amber thread under the gouged sockets.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Investiture, Amber Eyes</td><td>Specific vivid amber thread, almost
-        luminous; disc proportion matches sealed-dormitory bronze disc; investiture posture (receipt from
-        above).</td></tr>
+        <tr><td>18</td><td>Success — Investiture, Amber Eyes</td><td>Specific vivid amber thread, almost luminous; disc
+        proportion matches sealed-dormitory bronze disc; investiture posture (receipt from above).</td></tr>
 
-        <tr><td>22</td><td>Success — &quot;...wa shinanai&quot;</td><td>Old Imperial border script, eight surviving
-        characters: &quot;...wa shinanai.&quot; — &quot;does not die.&quot; Subject is gone with the missing
+        <tr><td>22</td><td>Exceptional Success — &quot;...wa shinanai&quot;</td><td>Old Imperial border script, eight
+        surviving characters: &quot;...wa shinanai.&quot; — &quot;does not die.&quot; Subject is gone with the missing
         third.</td></tr>
 
         </tbody>
@@ -3685,8 +3785,8 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success</strong> <em lang="ja-Latn">(Kojiri)</em>: Advantage on all Charisma checks within
-        the temple for the remainder of this visit.</li>
+        <li><strong>Success</strong> <em lang="ja-Latn">(Kojiri)</em>: Advantage on all Charisma checks within the
+        temple for the remainder of this visit.</li>
 
         </ul>
 
@@ -3694,6 +3794,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
         data-discovery="reading-the-image" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Examining the tapestry</strong></p>
+
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>An important figure whose face has been removed. The object in the extended hand is too small to make out
+        from this distance.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3705,10 +3820,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="reading-the-image" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3726,10 +3841,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="reading-the-image" data-tier-key="partial-success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3744,10 +3859,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="reading-the-image" data-tier-key="success" data-kind="player">
+        data-discovery="reading-the-image" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Examining the tapestry</strong></p>
 
@@ -3776,10 +3891,6 @@ pages:
 
         </ul>
 
-        <p><strong>Failure narration</strong> (any roll below the lowest tier): <em lang="ja-Latn">A devotional portrait
-        — standard format for a religious institution commemorating its leadership. The defacement is desecration of a
-        familiar kind.</em></p>
-
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Creation, Covenant, Stewardship, Silence</em>: the
         fourth symbol — Silence — is rendered larger. The order&#39;s foundational charge was to keep, not to speak.</p>
 
@@ -3797,17 +3908,21 @@ pages:
 
         <tbody>
 
-        <tr><td>10</td><td>Failure — High-Order Vestments</td><td>High-order ceremonial vestments; formal consecration
-        not administrative appointment.</td></tr>
+        <tr><td>—</td><td>Failure — Misread</td><td>Below the lowest tier; the player walks away with the failure
+        narration only.</td></tr>
 
-        <tr><td>14</td><td>Partial Failure — Creation, Covenant, Stewardship, Silence</td><td>Border is liturgical
+        <tr><td>10</td><td>Partial Failure — High-Order Vestments</td><td>High-order ceremonial vestments; formal
+        consecration not administrative appointment.</td></tr>
+
+        <tr><td>14</td><td>Partial Success — Creation, Covenant, Stewardship, Silence</td><td>Border is liturgical
         record: four obligations rendered in order&#39;s symbolic language. Silence stitched larger.</td></tr>
 
-        <tr><td>18</td><td>Partial Success — Direct Divine Commission</td><td>Extended-hand gesture used only for
-        receipt of a direct divine commission — not council or clan appointment.</td></tr>
+        <tr><td>18</td><td>Success — Direct Divine Commission</td><td>Extended-hand gesture used only for receipt of a
+        direct divine commission — not council or clan appointment.</td></tr>
 
-        <tr><td>22</td><td>Success — The Charge Is Everywhere</td><td>Same four symbols appear in the dormitory corridor
-        stonework, the Inner Sanctum frieze, and the Grand Hall statue base. Silence always largest.</td></tr>
+        <tr><td>22</td><td>Exceptional Success — The Charge Is Everywhere</td><td>Same four symbols appear in the
+        dormitory corridor stonework, the Inner Sanctum frieze, and the Grand Hall statue base. Silence always
+        largest.</td></tr>
 
         </tbody>
 
@@ -3817,8 +3932,8 @@ pages:
 
         <ul class="kg-discovery__rewards-list">
 
-        <li><strong>Partial Success:</strong> Reframes the temple&#39;s purpose. The party gains advantage on Religion
-        and History checks for the remainder of the first floor.</li>
+        <li><strong>Success:</strong> Reframes the temple&#39;s purpose. The party gains advantage on Religion and
+        History checks for the remainder of the first floor.</li>
 
         </ul>
 
@@ -3826,6 +3941,21 @@ pages:
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
         data-discovery="religious-reading" data-tier-key="failure" data-kind="player">
+
+        <p><strong>Sacred Symbolism</strong></p>
+
+        <p><em lang="ja-Latn">Indeterminate</em></p>
+
+        <p>A devotional portrait — standard format for a religious institution commemorating its leadership. The
+        defacement is desecration of a familiar kind.</p>
+
+
+        </section>
+
+        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+
+        <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
+        data-discovery="religious-reading" data-tier-key="partial-failure" data-kind="player">
 
         <p><strong>Sacred Symbolism</strong></p>
 
@@ -3837,10 +3967,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-failure"><strong>Partial Failure</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="religious-reading" data-tier-key="partial-failure" data-kind="player">
+        data-discovery="religious-reading" data-tier-key="partial-success" data-kind="player">
 
         <p><strong>Sacred Symbolism</strong></p>
 
@@ -3859,10 +3989,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="partial-success"><strong>Partial Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="religious-reading" data-tier-key="partial-success" data-kind="player">
+        data-discovery="religious-reading" data-tier-key="success" data-kind="player">
 
         <p><strong>Sacred Symbolism</strong></p>
 
@@ -3877,10 +4007,10 @@ pages:
 
         </section>
 
-        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="exceptional-success"><strong>Exceptional Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iv"
-        data-discovery="religious-reading" data-tier-key="success" data-kind="player">
+        data-discovery="religious-reading" data-tier-key="exceptional-success" data-kind="player">
 
         <p><strong>Sacred Symbolism</strong></p>
 
