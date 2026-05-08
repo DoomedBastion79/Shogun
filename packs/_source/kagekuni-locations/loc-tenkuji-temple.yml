@@ -3613,17 +3613,17 @@ pages:
 
         <tbody>
 
-        <tr><td>12</td><td>Hub Pulse Sensitivity</td><td>Operational marker brightens when full party stands before the
-        tapestry; dims when hall is empty.</td></tr>
+        <tr><td>12</td><td>Success — Hub Pulse Sensitivity</td><td>Operational marker brightens when full party stands
+        before the tapestry; dims when hall is empty.</td></tr>
 
         </tbody>
 
         </table>
 
-        <p class="kg-discovery__tier-label" data-tier-key="presence"><strong>Presence</strong></p>
+        <p class="kg-discovery__tier-label" data-tier-key="success"><strong>Success</strong></p>
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
-        data-discovery="hub-pulse-presence" data-tier-key="presence" data-kind="player">
+        data-discovery="hub-pulse-presence" data-tier-key="success" data-kind="player">
 
         <p><strong>Hub Pulse Reads Presence</strong></p>
 
