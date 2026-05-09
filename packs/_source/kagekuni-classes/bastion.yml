@@ -123,7 +123,8 @@ system:
 
       prepared (CHA mod + half level). Maximum slot level is 5th.</li>
 
-      <li><strong>Bonded Item:</strong> Sei Codex (acquired at 2nd level)</li>
+      <li><strong>Bonded Item:</strong> Sei Codex (acquired at 2nd level; grants +1/+2/+3 to spell attack rolls and
+      spell save DC at levels 2/11/17 while attuned)</li>
 
       <li><strong>Subclass pick at:</strong> Level 3 (Bastion Order)</li>
 
@@ -723,6 +724,11 @@ system:
 
       etc.). It requires attunement.<ul>
 
+      <li><em lang="ja-Latn">Attunement bonus:</em> +1 / +2 / +3 to spell attack rolls and spell save DC at levels 2 /
+      11 / 17 while attuned (lost if the
+
+      Codex is destroyed or beyond your reach).</li>
+
       <li><em lang="ja-Latn">Inscribe</em> absorbed spells into the Codex (any class list, any level).</li>
 
       <li><em lang="ja-Latn">Capacity:</em> CHA mod + PB inscriptions; release one on long rest, or
@@ -767,11 +773,15 @@ system:
 
       </li>
 
-      <li><strong>Bolster Spell (5):</strong> When casting from a slot, spend overload points to
+      <li><strong>Bolster Spell (5):</strong> When casting from a slot, spend overload points
 
-      raise the spell&#39;s effective casting level by 1 per point, up to your max
+      to raise the spell&#39;s effective casting level by 1 per point. Each
 
-      slot level (5th). Does not apply to Codex casts or Divine Mastery casts.</li>
+      overload point costs 1d6 max HP. Cap scales with Bastion level: 3rd at
+
+      L5, 5th at L9, 7th at L13, 9th at L17. Does not apply to Codex casts or
+
+      Divine Mastery casts.</li>
 
       <li><strong>Magic Field (7):</strong> When you are the target of a magical effect or
 
@@ -837,25 +847,26 @@ system:
 
       <li><strong>Sei Brand (3):</strong> Bonus action; spend one charge to brand a hostile creature within 30 ft for 1
       minute or until they drop to 0 HP. Allies&#39; attacks against the branded creature deal +PB force damage. Your
-      other Sword features trigger only against branded targets. One brand at a time (two at L18).</li>
+      other Sword features trigger only against branded targets. One brand at a time (two at L18); if you&#39;d exceed
+      your limit, you choose which active brand to dispel.</li>
 
       <li><strong>Divine Precision (3):</strong> Bonus action: +10 to a ranged spell attack roll or martial weapon
       attack roll, after seeing the d20 result. Works on any target. CHA mod / long rest.</li>
 
-      <li><strong>Sei-Edged Strike (5):</strong> Once per turn, when you hit a branded creature with a weapon attack or
-      spell attack, or when a branded creature fails a save against your single-target damaging spell, deal +1d6 force
-      damage. Scales 2d6/3d6 at L11/L17. Die becomes d8 if the trigger came from overload or Codex. Overload max-HP
-      costs are halved (Efficient Channel).</li>
+      <li><strong>Sei-Edged Strike (5):</strong> Once per turn, on a hit (weapon or spell attack) or save-fail against
+      any of your damaging spells — single-target or AoE — against a branded creature, deal +1d6 force damage. Scales
+      2d6/3d6 at L11/L17. <em lang="ja-Latn">Sei-Pressed:</em> 1+ overload spent on the triggering spell upgrades the
+      die to d8; 5+ overload spent upgrades it to d10. Overload max-HP costs are halved (Efficient Channel).</li>
 
       <li><strong>Divine Leverage (10):</strong> When you cast a damaging spell against a branded target using overload
       or Codex, choose advantage on attack rolls or disadvantage on the branded target&#39;s first save. <em
       lang="ja-Latn">Killing Stride:</em> when you reduce any creature to 0 HP (branded or not) with any
       attack/spell/feature, make a weapon attack or cantrip as a bonus action.</li>
 
-      <li><strong>Divine Retribution (18):</strong> Concurrent brands becomes 2. When you cast a single-target damaging
-      spell against a branded target, duplicate it to a second creature within range; the duplicate&#39;s target also
-      becomes branded if you have a free brand slot. Cost: overload = spell level, or <code>spell level × 1d6</code> max
-      HP if overload is insufficient. CHA mod / long rest. (Sei-Edged fires once per turn — original only.)</li>
+      <li><strong>Divine Retribution (18):</strong> Concurrent brands becomes 2. <em lang="ja-Latn">Twin Brand (bonus
+      action):</em> spend 2 charges to brand two creatures within 30 ft simultaneously; while both are branded,
+      single-target damaging spells cast against one duplicate to the other. (Sei-Edged fires once per turn — original
+      only.)</li>
 
       </ul>
 
@@ -864,13 +875,15 @@ system:
 
       <ul>
 
-      <li><strong>Divine Ward (3):</strong> Bonus action; spend one charge to ward a willing creature within 30 ft for 1
-      minute. <em lang="ja-Latn">Charge alone:</em> CHA mod temp HP. <em lang="ja-Latn">Charge + slot:</em>
-      <code>1d8/slot + CHA mod</code> temp HP. <em lang="ja-Latn">Charge + overload (Sei-Wrought):</em> same scale, plus
-      detonation enabled. The ward persists for the full minute regardless of temp HP state. <em
-      lang="ja-Latn">Voluntary Detonation</em> (Sei-Wrought only) lets the warded creature spend the ward at temp HP = 0
-      to deal force damage in a 10-ft radius (DEX save). <em lang="ja-Latn">Recharge Ward:</em> as an action, spend a
-      slot or overload to replace a ward&#39;s temp HP pool (duration not reset).</li>
+      <li><strong>Divine Ward (3):</strong> Bonus action; spend one charge per target to ward a willing creature within
+      30 ft for 1 minute. <em lang="ja-Latn">Charge alone:</em> CHA mod temp HP. <em lang="ja-Latn">Charge + slot:</em>
+      one slot fuels the action with <code>1d8 per slot level + CHA mod</code> temp HP, split evenly across all wards
+      placed by the action. <em lang="ja-Latn">Charge + overload (Sei-Wrought):</em> same scale, split evenly, plus
+      detonation enabled. <em lang="ja-Latn">Multi-Target Placement:</em> in one bonus action, target up to your
+      concurrent limit (1 at L3, 2 at L10, 3 at L18); the slot or overload empowerment shares across the wards. <em
+      lang="ja-Latn">Concurrency drop rule:</em> if placing would exceed your limit, choose which active wards to
+      dispel. <em lang="ja-Latn">Recharge Ward:</em> as an action, spend a slot or overload to replace one active
+      ward&#39;s temp HP pool.</li>
 
       <li><strong>Improved Divine Ward (5):</strong> Warded creatures gain resistance to non-magical p/s/b and
       <strong>+1 AC</strong>. When a ward&#39;s temp HP is reduced to 0 (the moment it transitions to its persistent
@@ -879,7 +892,7 @@ system:
 
       <li><strong>Divine Protection (10):</strong> Immune to disease, poison damage, the poisoned condition, and the
       frightened condition. Reaction: when a creature within 30 ft would be charmed/frightened/poisoned, place a Divine
-      Ward on them (paying the normal cost) and the save automatically succeeds. Concurrent ward limit increases to
+      Ward on them (paying its normal cost) and the save automatically succeeds. Concurrent ward limit increases to
       <strong>2</strong>.</li>
 
       <li><strong>Divine Guard (18):</strong> Concurrent ward limit increases to <strong>3</strong>. You and any warded
@@ -895,10 +908,13 @@ system:
 
       <ul>
 
-      <li><strong>Sei Conduit (3):</strong> Bonus action; spend one charge to anchor a willing ally within 30 ft for 1
-      minute. The conduit grants CHA mod temp HP, extends Touch/Self healing spells to a 60-ft range to the warded ally,
-      adds +PB HP to your heals on them, and (when a Divine Gift is granted to a conduit-warded ally) lets the recipient
-      end one of: charmed, frightened, paralyzed, or poisoned. One conduit at a time (two at L18).</li>
+      <li><strong>Sei Conduit (3):</strong> Bonus action; spend one charge per target to anchor a willing ally within 30
+      ft for 1 minute. The conduit grants CHA mod temp HP, extends Touch/Self healing spells to a 60-ft range to the
+      warded ally, adds +PB HP to your heals on them, and (when a Divine Gift is granted to a conduit-warded ally) lets
+      the recipient end one of: charmed, frightened, paralyzed, or poisoned. <em lang="ja-Latn">Multi-Target
+      Placement:</em> in one bonus action, target up to your concurrent limit (1 at L3, 2 at L18). <em
+      lang="ja-Latn">Concurrency drop rule:</em> if placing would exceed your limit, choose which active conduits to
+      dispel.</li>
 
       <li><strong>Divine Gifts (3):</strong> Bonus action; grant a Divine Gift die (d6 → d12 by tier) to a creature
       within 60 ft. Recipient may use within 10 minutes for a roll boost (after seeing the d20 result, before learning
@@ -1314,7 +1330,7 @@ system:
     denomination: d8
     additional: ''
     spent: 0
-  levels: 0
+  levels: 1
   primaryAbility:
     value:
       - cha

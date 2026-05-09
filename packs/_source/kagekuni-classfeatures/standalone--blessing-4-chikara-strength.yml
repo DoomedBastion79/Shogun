@@ -1,0 +1,79 @@
+_id: MbiBDOFMlEkUstWJ
+_key: '!items!MbiBDOFMlEkUstWJ'
+name: 力の恵み Chikara no Megumi
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-4-chikara-strength.yml
+    slug: blessing-4-chikara-strength
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-4-chikara-strength
+  description:
+    value: >-
+      <p><strong>力の恵み Chikara no Megumi</strong> — <em>Gift of Strength</em></p>
+
+      <p><strong>Effect:</strong> Enhance Ability — Strength (advantage on Strength checks)</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>力の恵み — Gift of Strength.</em> Enhance Ability (Bull's Strength). Advantage on Strength ability checks.
+      Carrying capacity doubles for the duration.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: H0bSKnB6V4xQGCcY
+    _key: '!items.effects!MbiBDOFMlEkUstWJ.H0bSKnB6V4xQGCcY'
+    name: 力の恵み Chikara no Megumi
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.ability.check.str
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

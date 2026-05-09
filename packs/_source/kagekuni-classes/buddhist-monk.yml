@@ -1245,7 +1245,7 @@ system:
     denomination: d10
     additional: ''
     spent: 0
-  levels: 0
+  levels: 1
   primaryAbility:
     value:
       - dex

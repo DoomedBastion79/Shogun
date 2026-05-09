@@ -1,0 +1,95 @@
+_id: RnJdsnzt9epOhDib
+_key: '!items!RnJdsnzt9epOhDib'
+name: 祝福 Shukufuku
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-2-shukufuku-bless.yml
+    slug: blessing-2-shukufuku-bless
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-2-shukufuku-bless
+  description:
+    value: >-
+      <p><strong>祝福 Shukufuku</strong> — <em>Blessing</em></p>
+
+      <p><strong>Effect:</strong> Bless</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>祝福 — Blessing.</em> The Bless spell. Add +1d4 to attack rolls and saving throws while the blessing
+      lasts.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: ddq6CjnMsCTNscvq
+    _key: '!items.effects!RnJdsnzt9epOhDib.ddq6CjnMsCTNscvq'
+    name: 祝福 Shukufuku
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: system.bonuses.mwak.attack
+        mode: 2
+        value: +1d4
+        priority: 20
+      - key: system.bonuses.msak.attack
+        mode: 2
+        value: +1d4
+        priority: 20
+      - key: system.bonuses.rwak.attack
+        mode: 2
+        value: +1d4
+        priority: 20
+      - key: system.bonuses.rsak.attack
+        mode: 2
+        value: +1d4
+        priority: 20
+      - key: system.bonuses.abilities.save
+        mode: 2
+        value: +1d4
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

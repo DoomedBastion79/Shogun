@@ -428,7 +428,9 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>Connection to Relc through Solas Evergreen&#39;s legacy</p>
+        <p>Connection to Relc through
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
+        Evergreen}&#39;s legacy</p>
 
 
         </section>
@@ -464,7 +466,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>Traveling to Heian — may cross the party&#39;s path again</p>
+        <p>Traveling to @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} — may cross the
+        party&#39;s path again</p>
 
 
         </section>
@@ -552,11 +555,12 @@ pages:
 
         <p><strong>True Nature</strong></p>
 
-        <p>Building his informant network not simply for Kikyo&#39;s local security but because he suspects something
-        significant is happening with the Bronze Wood licensing system. He has noticed irregularities in the licensing
-        records — specific harvesting zones consistently licensed to a single merchant entity, with documentation that
-        is technically correct but structured to obscure the pattern. He is three to four months away from having enough
-        evidence to bring forward as a coherent accusation.</p>
+        <p>Building his informant network not simply for
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}&#39;s local security but because
+        he suspects something significant is happening with the Bronze Wood licensing system. He has noticed
+        irregularities in the licensing records — specific harvesting zones consistently licensed to a single merchant
+        entity, with documentation that is technically correct but structured to obscure the pattern. He is three to
+        four months away from having enough evidence to bring forward as a coherent accusation.</p>
 
 
         </section>
@@ -607,8 +611,10 @@ pages:
         relevance, but the ritual exists in his family&#39;s oral tradition and would be directly applicable to the
         Nagaji situation if someone connected the dots.</p>
 
-        <p>His licensing investigation is on a collision course with Ren Nakamura&#39;s secret alliance with the
-        merchant guild. When these threads converge, Haruto will be in danger.</p>
+        <p>His licensing investigation is on a collision course with
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s secret alliance with the merchant guild. When these threads converge, Haruto will be in
+        danger.</p>
 
 
         </section>
@@ -622,7 +628,9 @@ pages:
 
         <p><strong>Plot Threads</strong></p>
 
-        <p>Bronze Wood licensing investigation — will eventually expose Ren Nakamura&#39;s merchant guild alliance</p>
+        <p>Bronze Wood licensing investigation — will eventually expose
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s merchant guild alliance</p>
 
 
         </section>
@@ -735,7 +743,9 @@ pages:
         <p>Mid-rank member of the Order of the Sacred Grove. Has interacted with Order of the Ancient Guard agents on
         multiple occasions, including with
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.Tpou815uKS3CU4HS]{Solas
-        Evergreen} directly. His community network in the Mizu foothills region could help establish
+        Evergreen} directly. His community network in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        foothills region could help establish
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
         Mai} in Sunsato if the party makes the connection.</p>
 
@@ -758,8 +768,11 @@ pages:
         <strong>[QUEST SEED]</strong> A stranger arrived in Kōriwara asking questions about Relc and where they had
         gone; Sato gave nothing away but is concerned about whether Relc is being watched.
 
-        <strong>[QUEST SEED]</strong> If the party introduces Yasutake Mai to Sato&#39;s community network, they earn a
-        favor with Sato and plant a contact in the north Mizu foothills.</p>
+        <strong>[QUEST SEED]</strong> If the party introduces
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} to Sato&#39;s community network, they earn a favor with Sato and plant a contact in the north
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}
+        foothills.</p>
 
 
         </section>
@@ -860,7 +873,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>Yasutake Mai connection — can help establish her in the Sunsato/Kōriwara community</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} connection — can help establish her in the Sunsato/Kōriwara community</p>
 
 
         </section>
@@ -973,9 +987,9 @@ pages:
 
         <p>The traitor Hideo is hunting is his own brother,
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
-        Nakamura}, the Shugo of Heian. Hideo does not yet know this. He will, in time, develop evidence pointing toward
-        Hiroshi. The question is whether he reaches that conclusion before Hiroshi learns how close Hideo is and takes
-        action.</p>
+        Nakamura}, the Shugo of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. Hideo
+        does not yet know this. He will, in time, develop evidence pointing toward Hiroshi. The question is whether he
+        reaches that conclusion before Hiroshi learns how close Hideo is and takes action.</p>
 
 
         </section>
@@ -1222,7 +1236,8 @@ pages:
 
         <p><strong>Reveal vector</strong>: The Brood Sanctum chamber, via Dian Wei&#39;s <em lang="ja-Latn">Who</em>
         knowledge gift (per Aya&#39;s offering choices). Dian sees Hiroshi&#39;s face mid-strike in a vision;
-        recognition is instant because Dian has seen Hiroshi at civic functions in Heian. The vision is true but
+        recognition is instant because Dian has seen Hiroshi at civic functions in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The vision is true but
         unprovable in any court — Dian cannot accuse the Shugo of the imperial capital without evidence the chamber
         cannot supply.</p>
 
@@ -1713,7 +1728,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>Order of the Black Lily at Akatsuki holds the full truth and will propose a partnership</p>
+        <p>Order of the Black Lily at @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}
+        holds the full truth and will propose a partnership</p>
 
 
         </section>
@@ -1847,11 +1863,12 @@ pages:
 
         <p><strong>Connections</strong></p>
 
-        <p>Maintains an informant network in Ayame and the surrounding region. Has informants at both the waypoint inn
-        (Kin no Chōchin Ryokan) and the outfitter district who log significant travelers and goods movements. This
-        network detected the party&#39;s arrival and departure. It also detected other parties moving through the pass —
-        including a group with no identifiable clan affiliation, moving fast and carrying unusual cargo, approximately
-        three weeks before the party&#39;s transit.</p>
+        <p>Maintains an informant network in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame} and the surrounding region. Has
+        informants at both the waypoint inn (Kin no Chōchin Ryokan) and the outfitter district who log significant
+        travelers and goods movements. This network detected the party&#39;s arrival and departure. It also detected
+        other parties moving through the pass — including a group with no identifiable clan affiliation, moving fast and
+        carrying unusual cargo, approximately three weeks before the party&#39;s transit.</p>
 
 
         </section>
@@ -1866,8 +1883,9 @@ pages:
         <p><strong>Quest Seeds</strong></p>
 
         <p><strong>[QUEST SEED]</strong> Oshiro sends a discrete message to the party: he has information relevant to
-        their mission that he couldn&#39;t share safely in Ayame; he proposes a meeting at the next Michibata up the
-        pass.</p>
+        their mission that he couldn&#39;t share safely in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.O65fxIh1WZwEtwrf]{Ayame}; he proposes a meeting at the
+        next Michibata up the pass.</p>
 
 
         </section>
@@ -2147,9 +2165,10 @@ pages:
         <p><strong>True Nature</strong></p>
 
         <p>Subtly working to elevate Clan Minato to equal standing with major clans. Has a secret alliance with a
-        powerful merchant guild — exclusive Kikyo trading rights in exchange for financial and political support for
-        Clan Minato&#39;s ambitions. Possesses ancient knowledge about Seidōrin Mori and Bronze Wood that he has not
-        shared publicly.</p>
+        powerful merchant guild — exclusive
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} trading rights in exchange for
+        financial and political support for Clan Minato&#39;s ambitions. Possesses ancient knowledge about Seidōrin Mori
+        and Bronze Wood that he has not shared publicly.</p>
 
 
         </section>
@@ -2163,7 +2182,9 @@ pages:
 
         <p><strong>Connections</strong></p>
 
-        <p>The merchant guild he works with is not a Kikyo entity — it is based in Heian with operations across
+        <p>The merchant guild he works with is not a
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} entity — it is based in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} with operations across
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
         and beyond. The alliance was struck in exchange for financial support for Clan Minato&#39;s elevation ambitions
         and exclusive export contracts.</p>
@@ -2206,10 +2227,11 @@ pages:
         the forest floor — destroying the grove to access what lies beneath.</p>
 
         <p>Ko&#39;jiri&#39;s forged letter ticking clock: Ko&#39;jiri carries both a legitimate letter from Ren Nakamura
-        and a forged version requesting additional materials. The real letter has already been sent to Heian through
-        official channels — it will arrive before or very shortly after the party does. When the discrepancy is
-        discovered, Ko&#39;jiri&#39;s Conditional Pardon will be immediately at risk. Estimated timeline: 2-4 sessions
-        from party arrival in Heian.</p>
+        and a forged version requesting additional materials. The real letter has already been sent to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian} through official channels — it
+        will arrive before or very shortly after the party does. When the discrepancy is discovered, Ko&#39;jiri&#39;s
+        Conditional Pardon will be immediately at risk. Estimated timeline: 2-4 sessions from party arrival in
+        Heian.</p>
 
 
         </section>

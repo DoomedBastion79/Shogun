@@ -1,0 +1,73 @@
+_id: IVjUqOxvDn790Bb4
+_key: '!items!IVjUqOxvDn790Bb4'
+name: 速さの守り Hayasa no Mamori
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-17-hayasa-mamori-dex-save.yml
+    slug: blessing-17-hayasa-mamori-dex-save
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-17-hayasa-mamori-dex-save
+  description:
+    value: |-
+      <p><strong>速さの守り Hayasa no Mamori</strong> — <em>Ward of Swiftness</em></p>
+      <p><strong>Effect:</strong> Advantage on Dexterity saving throws</p>
+      <p><strong>Duration:</strong> 8 hours.</p>
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+      <hr/>
+      <p><em>速さの守り — Ward of Swiftness.</em> Advantage on Dexterity saving throws.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: l5ZCx5sw0XHKy4Sg
+    _key: '!items.effects!IVjUqOxvDn790Bb4.l5ZCx5sw0XHKy4Sg'
+    name: 速さの守り Hayasa no Mamori
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.save.dex
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

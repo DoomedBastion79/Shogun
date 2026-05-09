@@ -1,0 +1,73 @@
+_id: M95gZZvO6NNg2QAs
+_key: '!items!M95gZZvO6NNg2QAs'
+name: 悟りの恵み Satori no Megumi
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-8-satori-wisdom.yml
+    slug: blessing-8-satori-wisdom
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-8-satori-wisdom
+  description:
+    value: |-
+      <p><strong>悟りの恵み Satori no Megumi</strong> — <em>Gift of Enlightenment</em></p>
+      <p><strong>Effect:</strong> Enhance Ability — Wisdom (advantage on Wisdom checks)</p>
+      <p><strong>Duration:</strong> 8 hours.</p>
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+      <hr/>
+      <p><em>悟りの恵み — Gift of Enlightenment.</em> Enhance Ability (Owl's Wisdom). Advantage on Wisdom ability checks.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: wotVSmTKmpkiLVAW
+    _key: '!items.effects!M95gZZvO6NNg2QAs.wotVSmTKmpkiLVAW'
+    name: 悟りの恵み Satori no Megumi
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.ability.check.wis
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

@@ -1,0 +1,73 @@
+_id: q9dC2kagnlfEeUmG
+_key: '!items!q9dC2kagnlfEeUmG'
+name: 穢れの盾 Kegare no Tate
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-12-kegare-tate-necrotic-resistance.yml
+    slug: blessing-12-kegare-tate-necrotic-resistance
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-12-kegare-tate-necrotic-resistance
+  description:
+    value: |-
+      <p><strong>穢れの盾 Kegare no Tate</strong> — <em>Shield Against Defilement</em></p>
+      <p><strong>Effect:</strong> Necrotic Resistance</p>
+      <p><strong>Duration:</strong> 8 hours.</p>
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+      <hr/>
+      <p><em>穢れの盾 — Shield Against Defilement.</em> Resistance to necrotic damage.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: Xn8x6gm1Sikik4ki
+    _key: '!items.effects!q9dC2kagnlfEeUmG.Xn8x6gm1Sikik4ki'
+    name: 穢れの盾 Kegare no Tate
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: system.traits.dr.value
+        mode: 2
+        value: necrotic
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

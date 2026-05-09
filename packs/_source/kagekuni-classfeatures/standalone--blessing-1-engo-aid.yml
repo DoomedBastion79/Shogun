@@ -1,0 +1,73 @@
+_id: 5ygpApHDZ0ik8PTo
+_key: '!items!5ygpApHDZ0ik8PTo'
+name: 援護 Engo
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-1-engo-aid.yml
+    slug: blessing-1-engo-aid
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-1-engo-aid
+  description:
+    value: |-
+      <p><strong>援護 Engo</strong> — <em>Support</em></p>
+      <p><strong>Effect:</strong> Aid</p>
+      <p><strong>Duration:</strong> 8 hours.</p>
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+      <hr/>
+      <p><em>援護 — Support.</em> The Aid spell. Maximum HP and current HP increase by 5 for the duration.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: lmJlfYWznfSu3C5b
+    _key: '!items.effects!5ygpApHDZ0ik8PTo.lmJlfYWznfSu3C5b'
+    name: 援護 Engo
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: system.attributes.hp.bonuses.overall
+        mode: 2
+        value: '5'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

@@ -1,0 +1,77 @@
+_id: Q5UtJh4AXjISe6JD
+_key: '!items!Q5UtJh4AXjISe6JD'
+name: 庇護の間 Hogo no Ma
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-13-hogo-ma-sanctuary.yml
+    slug: blessing-13-hogo-ma-sanctuary
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-13-hogo-ma-sanctuary
+  description:
+    value: >-
+      <p><strong>庇護の間 Hogo no Ma</strong> — <em>Space of Protection</em></p>
+
+      <p><strong>Effect:</strong> Sanctuary</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>庇護の間 — Space of Protection.</em> The Sanctuary spell. Any creature targeting you with an attack or harmful
+      spell must first make a Wisdom save (DC 14 + your Charisma modifier, or DM's call). On a failed save the creature
+      must choose a new target or lose the attack/spell. Effect ends if you attack, deal damage, or cast a harmful
+      spell. (Tracked narratively — apply at DM ruling.)</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: BwzVUbHYhkC2jCel
+    _key: '!items.effects!Q5UtJh4AXjISe6JD.BwzVUbHYhkC2jCel'
+    name: 庇護の間 Hogo no Ma
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes: []
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

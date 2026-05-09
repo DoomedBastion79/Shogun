@@ -1,0 +1,11 @@
+_id: cVY6JWRobk1raVsX
+_key: '!folders!cVY6JWRobk1raVsX'
+name: Kinryū no Megumi
+type: Item
+folder: null
+sorting: m
+sort: 100
+color: '#c9a227'
+flags:
+  assistant:
+    folderPath: classfeatures/kinryu-no-megumi

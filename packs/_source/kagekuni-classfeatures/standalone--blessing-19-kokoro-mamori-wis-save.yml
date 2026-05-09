@@ -1,0 +1,73 @@
+_id: oEnlJfz0Eff6gzHl
+_key: '!items!oEnlJfz0Eff6gzHl'
+name: 心の守り Kokoro no Mamori
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-19-kokoro-mamori-wis-save.yml
+    slug: blessing-19-kokoro-mamori-wis-save
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-19-kokoro-mamori-wis-save
+  description:
+    value: |-
+      <p><strong>心の守り Kokoro no Mamori</strong> — <em>Ward of Heart</em></p>
+      <p><strong>Effect:</strong> Advantage on Wisdom saving throws</p>
+      <p><strong>Duration:</strong> 8 hours.</p>
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+      <hr/>
+      <p><em>心の守り — Ward of Heart.</em> Advantage on Wisdom saving throws.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: hTye3udeXbXDOlcF
+    _key: '!items.effects!oEnlJfz0Eff6gzHl.hTye3udeXbXDOlcF'
+    name: 心の守り Kokoro no Mamori
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.save.wis
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

@@ -1,0 +1,79 @@
+_id: 7Bak1fAbsdzqQX3w
+_key: '!items!7Bak1fAbsdzqQX3w'
+name: 魅力の恵み Miryoku no Megumi
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-9-miryoku-charisma.yml
+    slug: blessing-9-miryoku-charisma
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-9-miryoku-charisma
+  description:
+    value: >-
+      <p><strong>魅力の恵み Miryoku no Megumi</strong> — <em>Gift of Presence</em></p>
+
+      <p><strong>Effect:</strong> Enhance Ability — Charisma (advantage on Charisma checks)</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>魅力の恵み — Gift of Presence.</em> Enhance Ability (Eagle's Splendor). Advantage on Charisma ability
+      checks.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: fw8NSxis7WgdPa3l
+    _key: '!items.effects!7Bak1fAbsdzqQX3w.fw8NSxis7WgdPa3l'
+    name: 魅力の恵み Miryoku no Megumi
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.ability.check.cha
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

@@ -531,7 +531,8 @@ pages:
         to the meditation space. The chief seimaster who has made a nest in the sanctum and sorted the debris with
         scholarly instinct. When the truth lands — they will look back at all of this differently.</p>
 
-        <p><strong>The Nagaji Zasu — Playing the Encounter</strong>
+        <p><strong>The @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} — Playing the
+        Encounter</strong>
 
         The chief seimaster is not a simple monster. If the party manages to communicate — through magic, through
         gesture, through patience — fragments of the original person respond. They remember the ritual. They remember it
@@ -751,8 +752,9 @@ pages:
         <li>sight_lines: both door sets visible from center; far walls require darkvision or brought light; oval
         geometry means no blind corners</li>
 
-        <li>occupants: 2 Shadows (upper darkness, descend when disturbed, avoid pools); Nagaji Bushi ×1, Hohei ×2,
-        Ashigaru ×6 (on rotation from Naijin)</li>
+        <li>occupants: 2 Shadows (upper darkness, descend when disturbed, avoid pools);
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.d1fY2hMfDH5AEG01]{Nagaji Bushi} ×1, Hohei ×2, Ashigaru ×6 (on
+        rotation from Naijin)</li>
 
         <li>atmosphere: the statue&#39;s warmth zone (30 ft radius) contrasts with the cold decay beyond it; cold-based
         effects within 30 ft of statue have damage reduced by 1d4</li>
@@ -781,7 +783,8 @@ pages:
 
         <li>sight_lines: clear sight to all walls from center; 10 ft wide entrance hallway is the only break</li>
 
-        <li>occupants: Nagaji Kannushi (returns periodically to meditate on dais)</li>
+        <li>occupants: @UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi} (returns
+        periodically to meditate on dais)</li>
 
         <li>atmosphere: complete sound suppression at threshold; polished obsidian floor still reflective; isolated and
         sacred</li>
@@ -887,7 +890,8 @@ pages:
         <li>sight_lines: octagonal geometry means all walls visible from center; hidden door (east wall) is flush and
         not visible without active search (DC 15 Perception)</li>
 
-        <li>occupants: Nagaji Zasu (currently patrolling; returns periodically; has made nest in center)</li>
+        <li>occupants: @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} (currently
+        patrolling; returns periodically; has made nest in center)</li>
 
         <li>atmosphere: residual warmth and sense of presence even when empty; debris has been sorted (valuables
         separated from refuse — the occupant is not mindless); high Passive Perception (14+) notices the sorting</li>
@@ -1511,10 +1515,12 @@ pages:
         2 Shadows (descend when disturbed, avoid pools)</li>
 
         <li class="kg-task" data-done="false" data-task-key="7d5fc09e"><strong>Hiroba, general area / patrol
-        route</strong> — Nagaji Bushi ×1, Hohei ×2, Ashigaru ×6 (on rotation from Naijin)</li>
+        route</strong> — @UUID[Compendium.kagekuni-assistant.monsters.Actor.d1fY2hMfDH5AEG01]{Nagaji Bushi} ×1, Hohei
+        ×2, Ashigaru ×6 (on rotation from Naijin)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="081e9eb7"><strong>Okuden, on dais</strong> — Nagaji
-        Kannushi (returns periodically to meditate)</li>
+        <li class="kg-task" data-done="false" data-task-key="081e9eb7"><strong>Okuden, on dais</strong> —
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi} (returns periodically to
+        meditate)</li>
 
         <li class="kg-task" data-done="false" data-task-key="f7353de0"><strong>Kitchen, west wall nest</strong> — 4
         Swarms of Rats (not aggressive unless cornered)</li>
@@ -1523,10 +1529,12 @@ pages:
         Specters (confused, not immediately hostile)</li>
 
         <li class="kg-task" data-done="false" data-task-key="a27f81ea"><strong>Inner Sanctum, nest area</strong> —
-        Nagaji Zasu (patrols, returns periodically)</li>
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} (patrols, returns
+        periodically)</li>
 
         <li class="kg-task" data-done="false" data-task-key="995fea12"><strong>Jushoku no Ma, at remains</strong> — Head
-        Priest Kinjiro&#39;s Bōrei (manifests when remains/box touched)</li>
+        Priest Kinjiro&#39;s @UUID[Compendium.kagekuni-assistant.monsters.Actor.I8CGFyd6dUeRizU2]{Bōrei} (manifests when
+        remains/box touched)</li>
 
         </ul>
 
@@ -2426,7 +2434,9 @@ pages:
 
         <tr><td>22</td><td>Exceptional Success — Three Bindings, This One First</td><td>The voluntary-binding pose
         appears in three surviving examples — this temple, the Great Library of Seirei Mizuumi fragment, and an
-        unverified Kaze highland carving. This is the first.</td></tr>
+        unverified
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        highland carving. This is the first.</td></tr>
 
         </tbody>
 
@@ -2519,8 +2529,9 @@ pages:
 
         <p>The voluntary-binding pose appears in three surviving examples of Golden Dragon clan iconography: once here,
         once in a fragment held at the Great Library of Seirei Mizuumi, and once in a carving reported — before the Dark
-        Ages, unverified since — somewhere in the highlands of Kaze province. Three separate moments. Three separate
-        bindings. This, by available record, is the first.</p>
+        Ages, unverified since — somewhere in the highlands of
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province. Three separate moments. Three separate bindings. This, by available record, is the first.</p>
 
 
         </section>
@@ -3050,7 +3061,9 @@ pages:
         Hokori marked with a circle-and-line symbol at four sites; the activation behavior is a live communications
         display showing the last signal each site sent before the fall of 13088.
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
-        has been sitting in an unanswered acknowledgement for millennia; Kaze has been calling distress into silence;
+        has been sitting in an unanswered acknowledgement for millennia;
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        has been calling distress into silence;
         Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
         went offline without a word. The Insight Success tier (Kaze blank) and the Examining Success tier (fourth mark)
         gate the most consequential activation reveals.</p>
@@ -3075,8 +3088,10 @@ pages:
         the load-bearing observation. Don&#39;t telegraph; let the player notice the spacing.</p>
 
         <p><strong>Success beat</strong> — <em lang="ja-Latn">A Fourth, Marked Differently</em>: this earns the player
-        the Hi/Tsuchi recent-severance reveal during activation. Track this earned status separately from the Partial
-        Success three-site triangulation.</p>
+        the
+        Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        recent-severance reveal during activation. Track this earned status separately from the Partial Success
+        three-site triangulation.</p>
 
 
         <table class="kg-discovery__summary-table">
@@ -3096,7 +3111,11 @@ pages:
         appears three times. Partial script —ryu— near one.</td></tr>
 
         <tr><td>18</td><td>Success — Three Sites, Triangulated</td><td>The three symbols form a rough triangle: this
-        temple, plus locations in Kaze province interior and Sora province.</td></tr>
+        temple, plus locations in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province interior and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        province.</td></tr>
 
         <tr><td>22</td><td>Exceptional Success — A Fourth, Marked Differently</td><td>Fourth instance of the symbol with
         an additional vertical stroke (categorical distinction); located in Hi province / Hi-Tsuchi border
@@ -3180,8 +3199,11 @@ pages:
 
         <p>The three instances of the symbol form a rough triangle across the surviving sections. One falls at a
         location corresponding to this mountain range. The other two triangulate — approximately, accounting for the
-        damage — to areas that would now be Kaze province interior and Sora province. Whatever the symbol marks, this
-        temple is one of three on Hokori, and the other two are elsewhere.</p>
+        damage — to areas that would now be
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province interior and
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        province. Whatever the symbol marks, this temple is one of three on Hokori, and the other two are elsewhere.</p>
 
 
         </section>
@@ -3198,8 +3220,10 @@ pages:
         <p>A fourth instance of the symbol exists on the map, partially obscured by damage but recoverable with careful
         examination. It carries an additional mark above it — a small vertical stroke — that the other three instances
         lack. A distinction of some kind. Its location, accounting for the fragment&#39;s position, places it in what is
-        now Hi province or the Hi/Tsuchi border region. Whatever stands there was considered differently from the other
-        three. The additional mark suggests category rather than just presence.</p>
+        now Hi province or the
+        Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        border region. Whatever stands there was considered differently from the other three. The additional mark
+        suggests category rather than just presence.</p>
 
 
         </section>
@@ -3222,8 +3246,10 @@ pages:
         <p><strong>Partial Failure beat</strong> — <em lang="ja-Latn">Hidden in Plain Sight</em>: calibrate weight here;
         this is the philosophical hinge of the tapestry.</p>
 
-        <p><strong>Success beat</strong> — <em lang="ja-Latn">The Kaze Blank</em>: the most consequential single
-        observation in the supplement. Connect later to Gekko material when the moment comes.</p>
+        <p><strong>Success beat</strong> — <em lang="ja-Latn">The
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        Blank</em>: the most consequential single observation in the supplement. Connect later to Gekko material when
+        the moment comes.</p>
 
 
         <table class="kg-discovery__summary-table">
@@ -3341,10 +3367,11 @@ pages:
         <p><em lang="ja-Latn">An Absence That Means Something</em></p>
 
         <p>There is a fifth element on this map — not a symbol but an absence. The area corresponding to the mountains
-        above a settlement in Kaze province has been left entirely blank. No topography. No symbols. No notation of any
-        kind. On a map that renders even open water with some notation, this blank is not an oversight. Whatever stands
-        in that location was known to the people who made this. They did not record it, and the absence of a record is
-        itself a kind of record.</p>
+        above a settlement in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        province has been left entirely blank. No topography. No symbols. No notation of any kind. On a map that renders
+        even open water with some notation, this blank is not an oversight. Whatever stands in that location was known
+        to the people who made this. They did not record it, and the absence of a record is itself a kind of record.</p>
 
 
         </section>
@@ -3360,7 +3387,9 @@ pages:
 
         <ul class="kg-discovery__activation-list">
 
-        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see Observatory Repair Mechanics page</li>
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.MHFCJC82UwADyJLU]{Observatory
+        Repair Mechanics} page</li>
 
         </ul>
 
@@ -3397,7 +3426,7 @@ pages:
 
         <tr>
 
-        <td>Sora</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}</td>
 
         <td>Acknowledged</td>
 
@@ -3407,7 +3436,7 @@ pages:
 
         <tr>
 
-        <td>Kaze</td>
+        <td>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}</td>
 
         <td>Distress — unacknowledged</td>
 
@@ -3417,7 +3446,7 @@ pages:
 
         <tr>
 
-        <td>Hi/Tsuchi</td>
+        <td>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}</td>
 
         <td>Offline</td>
 
@@ -3538,12 +3567,15 @@ pages:
 
         <p>When the orrery comes alive the map animates: coastlines flicker into legibility, mountain shadows lengthen
         and recede, and the marked sites pulse as though they are still — somehow — alive. The hub, this temple, holds a
-        steady warm pulse. To the south, in what is now Sora province, a slower double-beat in a warmer tone. To the
-        west, deep in Kaze, a rapid sharp pulse — distress, urgent, the kind of signal nobody answers. And in Hi
-        province, where you might or might not have noticed a fourth mark earlier, no signal at all — only a cold patch
-        in the fabric, distinct from the dark of an unlit lamp. These signals are not current. They are the last words
-        spoken by practitioners who never stood down before they were lost. They have been running into silence for
-        thousands of years. You are the first to hear them.</p>
+        steady warm pulse. To the south, in what is now
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        province, a slower double-beat in a warmer tone. To the west, deep in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze},
+        a rapid sharp pulse — distress, urgent, the kind of signal nobody answers. And in Hi province, where you might
+        or might not have noticed a fourth mark earlier, no signal at all — only a cold patch in the fabric, distinct
+        from the dark of an unlit lamp. These signals are not current. They are the last words spoken by practitioners
+        who never stood down before they were lost. They have been running into silence for thousands of years. You are
+        the first to hear them.</p>
 
 
         </section>
@@ -3565,11 +3597,12 @@ pages:
         </ul>
 
         <p>Requires either the operator&#39;s manual (recoverable elsewhere in the temple) or a DC 15 Arcana to reason
-        out the protocol from the mechanism. Sending the acknowledgement to Kaze shifts its display from rapid distress
-        to the slow double-beat acknowledged state. The distress signal that has been running since the fall finally
-        receives a response. There is no one at either site to receive it. A character who understands this and sends it
-        anyway is doing something that is not tactically useful. Whether any of the party members are that kind of
-        person is worth finding out at the table.</p>
+        out the protocol from the mechanism. Sending the acknowledgement to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        shifts its display from rapid distress to the slow double-beat acknowledged state. The distress signal that has
+        been running since the fall finally receives a response. There is no one at either site to receive it. A
+        character who understands this and sends it anyway is doing something that is not tactically useful. Whether any
+        of the party members are that kind of person is worth finding out at the table.</p>
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
@@ -3579,10 +3612,13 @@ pages:
 
         <p><em lang="ja-Latn">The Choice to Answer</em></p>
 
-        <p>The orrery offers a way to answer. A double-pulse, sent from the hub, will shift the rapid distress at Kaze
-        (or the held breath at Sora) into the slow double-beat that means <em lang="ja-Latn">received</em>. There is no
-        one alive at either site. The signal will arrive at empty stone. It is an act of record, not rescue — and that
-        is the choice in front of you.</p>
+        <p>The orrery offers a way to answer. A double-pulse, sent from the hub, will shift the rapid distress at
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        (or the held breath at
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora})
+        into the slow double-beat that means <em lang="ja-Latn">received</em>. There is no one alive at either site. The
+        signal will arrive at empty stone. It is an act of record, not rescue — and that is the choice in front of
+        you.</p>
 
 
         </section>
@@ -3640,7 +3676,9 @@ pages:
         <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
         data-discovery="kaze-blank-active" data-kind="discovery">
 
-        <p class="kg-discovery__section-title"><strong>The Kaze Blank Under Activation</strong></p>
+        <p class="kg-discovery__section-title"><strong>The
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        Blank Under Activation</strong></p>
 
         <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
@@ -3659,7 +3697,9 @@ pages:
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
         data-discovery="kaze-blank-active" data-tier-key="active" data-kind="player">
 
-        <p><strong>The Kaze Blank Under Activation</strong></p>
+        <p><strong>The
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        Blank Under Activation</strong></p>
 
         <p><em lang="ja-Latn">The Blank That Listens</em></p>
 
@@ -3676,7 +3716,9 @@ pages:
         <section class="secret kg-secret-sealed kg-discovery-index" data-container="tapestry-iii"
         data-discovery="hi-tsuchi-recent" data-kind="discovery">
 
-        <p class="kg-discovery__section-title"><strong>Hi/Tsuchi — Recent Severance</strong></p>
+        <p
+        class="kg-discovery__section-title"><strong>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        — Recent Severance</strong></p>
 
         <p class="kg-discovery__activation-title"><strong>Discovery Activation</strong>:</p>
 
@@ -3695,7 +3737,8 @@ pages:
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="tapestry-iii"
         data-discovery="hi-tsuchi-recent" data-tier-key="active" data-kind="player">
 
-        <p><strong>Hi/Tsuchi — Recent Severance</strong></p>
+        <p><strong>Hi/@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        — Recent Severance</strong></p>
 
         <p><em lang="ja-Latn">Still Warm</em></p>
 
@@ -4036,7 +4079,9 @@ pages:
 
         <ul class="kg-discovery__activation-list">
 
-        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see Observatory Repair Mechanics page</li>
+        <li><em lang="ja-Latn">Quest:</em> Orrery restored — see
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.MHFCJC82UwADyJLU]{Observatory
+        Repair Mechanics} page</li>
 
         </ul>
 
@@ -4629,9 +4674,10 @@ pages:
 
         <p class="kg-discovery__activation">Skill Check: Investigation DC 12</p>
 
-        <p>First concrete signal that something defends the statue. The bodies bear no marks — Kageban (Shadow) damage
-        leaves no wound. Players will likely only piece this together after meeting the Kageban. If the party also picks
-        up the <em lang="ja-Latn">Why the Nagaji avoid this room</em> note (DM Notes), the picture clicks.</p>
+        <p>First concrete signal that something defends the statue. The bodies bear no marks —
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} (Shadow) damage leaves no wound.
+        Players will likely only piece this together after meeting the Kageban. If the party also picks up the <em
+        lang="ja-Latn">Why the Nagaji avoid this room</em> note (DM Notes), the picture clicks.</p>
 
 
         <section class="secret kg-secret-discoverable kg-discovery-player" data-container="fresher-corpses"
@@ -4794,9 +4840,10 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="72c9923c">2 Kageban (影番 — &quot;Shadow Watch&quot;; in the
-        upper darkness, <em lang="ja-Latn">outside</em> the statue&#39;s 30 ft warmth radius; descend into the warmth
-        only when something tries to deface, disrespect, or alter the statue itself)</li>
+        <li class="kg-task" data-done="false" data-task-key="72c9923c">2
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} (影番 — &quot;Shadow Watch&quot;; in
+        the upper darkness, <em lang="ja-Latn">outside</em> the statue&#39;s 30 ft warmth radius; descend into the
+        warmth only when something tries to deface, disrespect, or alter the statue itself)</li>
 
         </ul>
 
@@ -4831,10 +4878,12 @@ pages:
         The far walls require a light source or darkvision to confirm. The statue at the center is the only fixed
         reference point — everything orients toward it.</p>
 
-        <p><strong>Why the Nagaji avoid this room</strong>: The pools repel them, but the deeper reason is the Kageban —
-        every Nagaji squad that has tried to deface the statue is dead on the central path. The patrol routes through
-        the Central Hallway Cross — Watariro instead. Nagaji bodies dragged onto the outer walkways are old kills the
-        survivors moved out of the way.</p>
+        <p><strong>Why the Nagaji avoid this room</strong>: The pools repel them, but the deeper reason is the
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} — every Nagaji squad that has
+        tried to deface the statue is dead on the central path. The patrol routes through the
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.ROUCwkeivh3ynJwZ]{Central
+        Hallway Cross — Watariro} instead. Nagaji bodies dragged onto the outer walkways are old kills the survivors
+        moved out of the way.</p>
 
 
         </section>
@@ -4889,7 +4938,7 @@ pages:
 
         <td>1</td>
 
-        <td>Engo</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.5ygpApHDZ0ik8PTo]{Engo}</td>
 
         <td>援護 — Support</td>
 
@@ -4901,7 +4950,7 @@ pages:
 
         <td>2</td>
 
-        <td>Shukufuku</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.RnJdsnzt9epOhDib]{Shukufuku}</td>
 
         <td>祝福 — Blessing</td>
 
@@ -4913,7 +4962,7 @@ pages:
 
         <td>3</td>
 
-        <td>Kaikyaku</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.BaXEDSPyc7Pp1G6M]{Kaikyaku}</td>
 
         <td>快脚 — Swift Legs</td>
 
@@ -4925,7 +4974,7 @@ pages:
 
         <td>4</td>
 
-        <td>Chikara no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.MbiBDOFMlEkUstWJ]{Chikara no Megumi}</td>
 
         <td>力の恵み — Gift of Strength</td>
 
@@ -4937,7 +4986,7 @@ pages:
 
         <td>5</td>
 
-        <td>Tebayasa no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.7w7LolBDJRrnpoaX]{Tebayasa no Megumi}</td>
 
         <td>手早さの恵み — Gift of Swiftness</td>
 
@@ -4949,7 +4998,7 @@ pages:
 
         <td>6</td>
 
-        <td>Kyōjin no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.IqAF3jeLmj6svjxM]{Kyōjin no Megumi}</td>
 
         <td>強靭の恵み — Gift of Fortitude</td>
 
@@ -4961,7 +5010,7 @@ pages:
 
         <td>7</td>
 
-        <td>Chie no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.sNpEDrAxlAQUnOGz]{Chie no Megumi}</td>
 
         <td>知恵の恵み — Gift of Knowledge</td>
 
@@ -4973,7 +5022,7 @@ pages:
 
         <td>8</td>
 
-        <td>Satori no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.M95gZZvO6NNg2QAs]{Satori no Megumi}</td>
 
         <td>悟りの恵み — Gift of Enlightenment</td>
 
@@ -4985,7 +5034,7 @@ pages:
 
         <td>9</td>
 
-        <td>Miryoku no Megumi</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.7Bak1fAbsdzqQX3w]{Miryoku no Megumi}</td>
 
         <td>魅力の恵み — Gift of Presence</td>
 
@@ -4997,7 +5046,7 @@ pages:
 
         <td>10</td>
 
-        <td>Yūki no Honō</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.ufdZnLcutdavcHzO]{Yūki no Honō}</td>
 
         <td>勇気の炎 — Flame of Courage</td>
 
@@ -5009,7 +5058,7 @@ pages:
 
         <td>11</td>
 
-        <td>Inochi no Mamori</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.LFtPfVKAmscGkqvt]{Inochi no Mamori}</td>
 
         <td>命の守り — Guardian of Life</td>
 
@@ -5021,7 +5070,7 @@ pages:
 
         <td>12</td>
 
-        <td>Kegare no Tate</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.q9dC2kagnlfEeUmG]{Kegare no Tate}</td>
 
         <td>穢れの盾 — Shield Against Defilement</td>
 
@@ -5033,7 +5082,7 @@ pages:
 
         <td>13</td>
 
-        <td>Hogo no Ma</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.Q5UtJh4AXjISe6JD]{Hogo no Ma}</td>
 
         <td>庇護の間 — Space of Protection</td>
 
@@ -5045,7 +5094,7 @@ pages:
 
         <td>14</td>
 
-        <td>Shingan</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.xfbq6zMW1jZllhLt]{Shingan}</td>
 
         <td>真眼 — True Eye</td>
 
@@ -5057,7 +5106,7 @@ pages:
 
         <td>15</td>
 
-        <td>Shinkō no Tate</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.WNHHgHn9g0EqH2qk]{Shinkō no Tate}</td>
 
         <td>信仰の盾 — Shield of Faith</td>
 
@@ -5069,7 +5118,7 @@ pages:
 
         <td>16</td>
 
-        <td>Chikara no Mamori</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.ewNkIQMeBm2AOjxN]{Chikara no Mamori}</td>
 
         <td>力の守り — Ward of Strength</td>
 
@@ -5081,7 +5130,7 @@ pages:
 
         <td>17</td>
 
-        <td>Hayasa no Mamori</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.IVjUqOxvDn790Bb4]{Hayasa no Mamori}</td>
 
         <td>速さの守り — Ward of Swiftness</td>
 
@@ -5093,7 +5142,7 @@ pages:
 
         <td>18</td>
 
-        <td>Seimei no Mamori</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.apM2UftA8lMN117N]{Seimei no Mamori}</td>
 
         <td>生命の守り — Ward of Life</td>
 
@@ -5105,7 +5154,7 @@ pages:
 
         <td>19</td>
 
-        <td>Kokoro no Mamori</td>
+        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.oEnlJfz0Eff6gzHl]{Kokoro no Mamori}</td>
 
         <td>心の守り — Ward of Heart</td>
 
@@ -5206,9 +5255,6 @@ pages:
 
 
 
-
-        <p><em lang="ja-Latn">North end of the temple — the most sacred space on the first floor. Includes the Jushoku
-        no Ma (Abbot&#39;s Chamber, 6a) and Hoko (Storehouse, 6b).</em></p>
 
         <section class="secret kg-secret-sealed kg-sealed-spatial" data-kind="spatial" data-label="Room Description">
 
@@ -5419,13 +5465,14 @@ pages:
         performing the ritual on himself. Full details: the <strong>Zasu&#39;s Ritual Scrolls</strong> page nested under
         this room.</p>
 
-        <p><strong>The Occupant</strong>: A <strong>Nagaji Zasu</strong> (MM p.308) has made this space its lair — a
-        Nagaji of particular power, one of the original senior members of Clan Gekko, transformed more completely than
-        the others. This individual was once Gekko&#39;s chief seimaster — the architect of the failed ritual. The
-        transformation has cost them nearly everything, but not quite. Deep within the abomination, fragments of the
-        original person remain: a scholar, a leader, someone who made a catastrophic decision trying to protect their
-        clan. They are not in the sanctum when the party first arrives (they patrol the temple), but they will
-        return.</p>
+        <p><strong>The Occupant</strong>: A
+        <strong>@UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu}</strong> (MM p.308)
+        has made this space its lair — a Nagaji of particular power, one of the original senior members of Clan Gekko,
+        transformed more completely than the others. This individual was once Gekko&#39;s chief seimaster — the
+        architect of the failed ritual. The transformation has cost them nearly everything, but not quite. Deep within
+        the abomination, fragments of the original person remain: a scholar, a leader, someone who made a catastrophic
+        decision trying to protect their clan. They are not in the sanctum when the party first arrives (they patrol the
+        temple), but they will return.</p>
 
         <p><strong>Atmosphere</strong>: The nest radiates residual warmth and something harder to name — a sense of
         presence, of being watched, even in an empty room. The cleared center of the room feels deliberately
@@ -5931,8 +5978,10 @@ pages:
 
         <li><p><strong>Breadcrumb toward the Order of the Black Lily.</strong> The &quot;site of origin&quot; referenced
         in the reversal notation — with its acoustic distortion, thermal anomalies, and hollow stone — describes a
-        location in Kaze Province. The party doesn&#39;t know that yet. When they reach Kaze and encounter those
-        geographic features, the scrolls become a key that unlocks a door they didn&#39;t know they were carrying.</p>
+        location in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        Province. The party doesn&#39;t know that yet. When they reach Kaze and encounter those geographic features, the
+        scrolls become a key that unlocks a door they didn&#39;t know they were carrying.</p>
 
         </li>
 
@@ -6044,8 +6093,6 @@ pages:
 
 
 
-
-        <p><em lang="ja-Latn">Northwest wing, accessible via the west end of the E-W hallway.</em></p>
 
         <section class="secret kg-secret-sealed kg-sealed-spatial" data-kind="spatial" data-label="Room Description">
 
@@ -6199,10 +6246,11 @@ pages:
         <section class="secret kg-secret-sealed kg-sealed-campaign" data-kind="campaign" data-label="The Dais
         Impression">
 
-        <p>The circular coiled impression in the dust was left by the Nagaji Kannushi who inhabits this space. It was
-        not meditating in the conventional sense — it was drawn here, instinctively, by something in the stone that
-        resonates with its transformed nature. The Nagaji connection to Kokuryu&#39;s shadow rituals creates a faint
-        attunement to certain sei-charged spaces. The Kannushi has been tidying the space — making it a meditation
+        <p>The circular coiled impression in the dust was left by the
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi} who inhabits this space.
+        It was not meditating in the conventional sense — it was drawn here, instinctively, by something in the stone
+        that resonates with its transformed nature. The Nagaji connection to Kokuryu&#39;s shadow rituals creates a
+        faint attunement to certain sei-charged spaces. The Kannushi has been tidying the space — making it a meditation
         chamber.</p>
 
 
@@ -6265,8 +6313,9 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="e98afafb">Nagaji Kannushi (present and meditating on the
-        dais when party arrives; fully hostile once triggered; has Devil Sight)</li>
+        <li class="kg-task" data-done="false"
+        data-task-key="e98afafb">@UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi}
+        (present and meditating on the dais when party arrives; fully hostile once triggered; has Devil Sight)</li>
 
         </ul>
 
@@ -6414,9 +6463,6 @@ pages:
 
 
 
-        <p><em lang="ja-Latn">Southwest wing, accessible via L-shaped hallway from the south side of the west E-W
-        hallway.</em></p>
-
         <section class="secret kg-secret-sealed kg-sealed-spatial" data-kind="spatial" data-label="Room Description">
 
         <p><strong>Physical Description:</strong> Accessed via an L-shaped hallway (10 ft wide) from the south side of
@@ -6482,8 +6528,10 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="5f25919f">4 Yaminezumi (闇鼠 — &quot;Darkness Rats&quot;;
-        nest in collapsed west wall section of kitchen; not aggressive unless cornered; carry Kegare no Yamai)</li>
+        <li class="kg-task" data-done="false" data-task-key="71bfee3e">4
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.lPwFsViCtm8VeV8u]{Swarm of Yaminezumi} (闇鼠 — &quot;Darkness
+        Rats&quot;; nest in collapsed west wall section of kitchen; not aggressive unless cornered; carry Kegare no
+        Yamai)</li>
 
         </ul>
 
@@ -6633,9 +6681,6 @@ pages:
 
 
 
-
-        <p><em lang="ja-Latn">East wing — a long corridor with cells branching left and right, plus larger shared
-        quarters at the north and south ends.</em></p>
 
         <section class="secret kg-secret-sealed kg-sealed-spatial" data-kind="spatial" data-label="Room Description">
 
@@ -7513,8 +7558,6 @@ pages:
     text:
       format: 1
       content: >-
-        <p><em lang="ja-Latn">The orrery chamber. NE doorway off the Tenkairō.</em></p>
-
         <p><em lang="ja-Latn">Detailed mechanics — repair sequence, component checklist, projection states across the
         Great Aphelion timeline, and tapestry activation propagation — live in the supplement
         <code>rm-observatory-repair-mechanics</code>. This room file covers the physical chamber and its current state.
@@ -8088,12 +8131,14 @@ pages:
         blossom finds it withering in their hand within minutes, regardless of preservation attempts. The petals are the
         chamber&#39;s; they cannot be taken from it.</p>
 
-        <p><strong>During the trial</strong>: when the candidate kneels on the pad and the dome dims, <strong>the
-        petal-fall intensifies on a soundless breath of wind, then stills.</strong> Other PCs witnessing the moment see
-        the chamber breathing through the trees. It is the architecture&#39;s way of saying <em lang="ja-Latn">we are
-        here, we are watching, this matters</em>. Use the petal motion as visual punctuation between scenes — a fresh
-        drift after each flame&#39;s verdict, heavier after a misaligned (black) flame, lighter and slower after a
-        critical (white) flame. Do not over-narrate; let it accumulate as a felt presence.</p>
+        <p><strong>During
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.3zJVvOaJgg0w8leo]{the
+        trial}</strong>: when the candidate kneels on the pad and the dome dims, <strong>the petal-fall intensifies on a
+        soundless breath of wind, then stills.</strong> Other PCs witnessing the moment see the chamber breathing
+        through the trees. It is the architecture&#39;s way of saying <em lang="ja-Latn">we are here, we are watching,
+        this matters</em>. Use the petal motion as visual punctuation between scenes — a fresh drift after each
+        flame&#39;s verdict, heavier after a misaligned (black) flame, lighter and slower after a critical (white)
+        flame. Do not over-narrate; let it accumulate as a felt presence.</p>
 
         <p><strong>On success</strong>: the petal-fall briefly <em lang="ja-Latn">lifts</em> — petals already on the
         floor stir upward, hold for a beat in the gold light, then settle again. The chamber exhaling. The bonded
@@ -8240,11 +8285,13 @@ pages:
 
         <ul>
 
-        <li><strong>Touching the egg, plinth, or pool before the trial is passed</strong>: The dome flares hot-bright
-        for an instant. The character making contact takes 11 (2d10) radiant damage and is pushed prone away from the
-        plinth. The egg is not displaced. Further attempts produce the same result. The egg cannot be removed by force —
-        anyone leaving the chamber with it finds the egg cold and inert in their hands within minutes, and it returns to
-        the plinth by morning regardless of where it was carried.</li>
+        <li><strong>Touching the egg, plinth, or pool before
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.3zJVvOaJgg0w8leo]{the
+        trial} is passed</strong>: The dome flares hot-bright for an instant. The character making contact takes 11
+        (2d10) radiant damage and is pushed prone away from the plinth. The egg is not displaced. Further attempts
+        produce the same result. The egg cannot be removed by force — anyone leaving the chamber with it finds the egg
+        cold and inert in their hands within minutes, and it returns to the plinth by morning regardless of where it was
+        carried.</li>
 
         <li><strong>Forcing or breaking a pedestal</strong>: Impossible. The pedestals are part of the architecture in
         the same way the foundation is. Mundane attacks deal no damage. Magical attempts dissipate harmlessly. The dome
@@ -9613,9 +9660,11 @@ pages:
         <h3 id="kg-failure-path-she-bears-witness" data-section="failure-path-she-bears-witness">Failure Path — She
         Bears Witness</h3>
 
-        <p>If the trial fails (the Honor reckoning is missed, or scenes fail and the candidate is denied), Aya remains.
-        She does not depart. The party retries per the trial rules (different candidate same day, or same candidate
-        after a long rest, with the broader retry restrictions in <em lang="ja-Latn">Retry Rules</em>).</p>
+        <p>If
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.3zJVvOaJgg0w8leo]{the
+        trial} fails (the Honor reckoning is missed, or scenes fail and the candidate is denied), Aya remains. She does
+        not depart. The party retries per the trial rules (different candidate same day, or same candidate after a long
+        rest, with the broader retry restrictions in <em lang="ja-Latn">Retry Rules</em>).</p>
 
         <p>When the failed party re-enters the hallway, she addresses them:</p>
 
@@ -9952,9 +10001,6 @@ pages:
     text:
       format: 1
       content: >-
-        <p><em lang="ja-Latn">The Hidden Archives. Accessed via the south-wall portal from the Tenkairō. Foundational
-        warding extends through floor, ceiling, and outer walls — no other entry exists.</em></p>
-
         <p><em lang="ja-Latn">This file is a starting framework. The archive&#39;s specific contents will be flushed out
         in detail; what follows is canonical structure and the documents the archive is known to hold.</em></p>
 

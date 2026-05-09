@@ -1,0 +1,79 @@
+_id: 7w7LolBDJRrnpoaX
+_key: '!items!7w7LolBDJRrnpoaX'
+name: 手早さの恵み Tebayasa no Megumi
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-5-tebayasa-dexterity.yml
+    slug: blessing-5-tebayasa-dexterity
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-5-tebayasa-dexterity
+  description:
+    value: >-
+      <p><strong>手早さの恵み Tebayasa no Megumi</strong> — <em>Gift of Swiftness</em></p>
+
+      <p><strong>Effect:</strong> Enhance Ability — Dexterity (advantage on Dexterity checks)</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>手早さの恵み — Gift of Swiftness.</em> Enhance Ability (Cat's Grace). Advantage on Dexterity ability checks. No
+      falling damage from falls of 20 ft or less if the target isn't incapacitated.</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: LAGCAstuk0RPt1d9
+    _key: '!items.effects!7w7LolBDJRrnpoaX.LAGCAstuk0RPt1d9'
+    name: 手早さの恵み Tebayasa no Megumi
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes:
+      - key: flags.dnd5e.advantage.ability.check.dex
+        mode: 5
+        value: '1'
+        priority: 20
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}

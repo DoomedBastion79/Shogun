@@ -575,8 +575,8 @@ pages:
         trees is caused by trace mineral content in the groundwater -- water flowing through golden veins in the buried
         city&#39;s infrastructure for thousands of years.
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
-        Nakamura} (Shicho of Kikyo) knows this. The merchant guild he is allied with wants to find the source and
-        exploit it directly.</p>
+        Nakamura} (Shicho of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo}) knows this.
+        The merchant guild he is allied with wants to find the source and exploit it directly.</p>
 
 
         </section>
@@ -591,10 +591,10 @@ pages:
         <p><strong>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.JLGqqI474AH04SDL]{Hiroshi
         Nakamura} -- Traitor in Place</strong></p>
 
-        <p>As Shugo of Heian, Hiroshi controls the administrative heart of the province. His access to Clan Kaminari
-        intelligence is nearly total. He has been feeding information to an outside party (undeveloped) for at least
-        three years. His warm, approachable public persona is his most effective weapon -- even his brother Hideo does
-        not suspect how deep the betrayal runs.</p>
+        <p>As Shugo of @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}, Hiroshi controls
+        the administrative heart of the province. His access to Clan Kaminari intelligence is nearly total. He has been
+        feeding information to an outside party (undeveloped) for at least three years. His warm, approachable public
+        persona is his most effective weapon -- even his brother Hideo does not suspect how deep the betrayal runs.</p>
 
 
         </section>
@@ -608,8 +608,10 @@ pages:
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p>Unlicensed Bronze Wood poaching tied to a merchant guild front operation in Kikyo -- Ren Nakamura&#39;s
-        faction or a rival?</p>
+        <p>Unlicensed Bronze Wood poaching tied to a merchant guild front operation in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.8BPLYleAkYpmvX5a]{Kikyo} --
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.YSPRToQNBVq5NJFZ]{Ren
+        Nakamura}&#39;s faction or a rival?</p>
 
 
         </section>
@@ -853,9 +855,10 @@ pages:
         <p><strong>The Crimson Dragon Clan&#39;s Hidden Presence</strong></p>
 
         <p>Akaryu, the Crimson Dragon, is still alive and hidden. She maintains a tenuous connection to Hi through the
-        Crimson Shrine. The shrine&#39;s keeper Tsubaki is an Initiate of the Order of the Ancient Guard. She does not
-        know Akaryu&#39;s location, but knows the dragon is alive. Offerings burned in the shrine&#39;s ember-bowl reach
-        something that responds.</p>
+        Crimson Shrine. The shrine&#39;s keeper
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki}
+        is an Initiate of the Order of the Ancient Guard. She does not know Akaryu&#39;s location, but knows the dragon
+        is alive. Offerings burned in the shrine&#39;s ember-bowl reach something that responds.</p>
 
 
         </section>
@@ -931,8 +934,9 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>The Crimson Shrine&#39;s ember-bowl responded to an offering in a way it never has before; Tsubaki needs
-        discreet help interpreting what it means</p>
+        <p>The Crimson Shrine&#39;s ember-bowl responded to an offering in a way it never has before;
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.oACSZZYBMIV9sr54]{Tsubaki}
+        needs discreet help interpreting what it means</p>
 
 
         </section>
@@ -1181,7 +1185,9 @@ pages:
         Dragon ritual -- a transformation rite tied to Kokuryu. It transformed those who underwent it into Nagaji --
         serpentine humanoids driven by new instincts they cannot fully suppress. The transformation spread. Masota no
         Gekko himself underwent the ritual last, in a desperate attempt to maintain control. He is now Nagaji as well --
-        somewhere in the Kaze highlands.</p>
+        somewhere in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        highlands.</p>
 
 
         </section>
@@ -1214,7 +1220,9 @@ pages:
 
         <p>Yes -- but the answer lies in the Temple of Kinryu, specifically in the clan&#39;s records about
         Kokuryu&#39;s original ritual and the countermeasure that the Golden Dragon Clan developed. This creates a
-        direct link between the party&#39;s current location (the gold doors) and the Kaze storyline.</p>
+        direct link between the party&#39;s current location (the gold doors) and the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        storyline.</p>
 
 
         </section>
@@ -1228,9 +1236,11 @@ pages:
 
         <p><strong>Masota no Gekko -- Current State</strong></p>
 
-        <p>He is alive, in the Kaze highlands. He retains fragments of his original identity but the transformation
-        suppresses rational thought during stress or combat. He is not a villain. He is a leader who made a terrible
-        decision in desperation. A potential redemption arc exists if the party can find a reversal.</p>
+        <p>He is alive, in the
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.D2VV9bFa1txuKDxB]{Kaze}
+        highlands. He retains fragments of his original identity but the transformation suppresses rational thought
+        during stress or combat. He is not a villain. He is a leader who made a terrible decision in desperation. A
+        potential redemption arc exists if the party can find a reversal.</p>
 
 
         </section>
@@ -1260,8 +1270,9 @@ pages:
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p>The Order of the Black Lily sends a message via an intermediary: &quot;Come to Akatsuki. Come alone. Come
-        before the moon is full.&quot;</p>
+        <p>The Order of the Black Lily sends a message via an intermediary: &quot;Come to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}. Come alone. Come before the
+        moon is full.&quot;</p>
 
 
         </section>
@@ -1699,8 +1710,8 @@ pages:
 
         <p><strong>Details</strong></p>
 
-        <p>Elder Sato Hideaki in Koriwara is more than a village elder with nature connections -- he has deep ties to
-        the Order of the Sacred Grove.</p>
+        <p>Elder Sato Hideaki in @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} is
+        more than a village elder with nature connections -- he has deep ties to the Order of the Sacred Grove.</p>
 
 
         </section>
@@ -1712,7 +1723,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>One of the three stones referenced in Solas&#39;s cipher poem is near Koriwara.</p>
+        <p>One of the three stones referenced in Solas&#39;s cipher poem is near
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}.</p>
 
 
         </section>
@@ -1737,7 +1749,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p><strong>The Order of the Sacred Grove -- Koriwara Connection</strong></p>
+        <p><strong>The Order of the Sacred Grove --
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara} Connection</strong></p>
 
         <p>Elder Sato Hideaki is a mid-rank member of the Order of the Sacred Grove. He has interacted with Order of the
         Ancient Guard agents, including
@@ -1755,7 +1768,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p><strong>The Cipher Poem&#39;s Connection to Koriwara</strong></p>
+        <p><strong>The Cipher Poem&#39;s Connection to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.glkgG2E8eJWrxCrm]{Koriwara}</strong></p>
 
         <p>One of the three stones referenced in Solas&#39;s cipher poem is near Koriwara -- in the foothills. Elder
         Sato knows this stone and knows, vaguely, what the Warden&#39;s Wisdom is: protected knowledge about the
@@ -1967,7 +1981,8 @@ pages:
 
         <section class="secret kg-secret-sealed" data-kind="sealed">
 
-        <p>Nami&#39;s Arashi-aligned governing clan is coordinating with
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.ijGHvVOlw9tFpBo8]{Nami}&#39;s
+        Arashi-aligned governing clan is coordinating with
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}&#39;s
         Minato-jo for a joint naval operation.</p>
 
@@ -1983,9 +1998,11 @@ pages:
 
         <p><strong>Arashi Alliance Naval Operations</strong></p>
 
-        <p>Nami&#39;s Arashi-aligned governing clan is coordinating with Mizu&#39;s Minato-jo -- together, the eastern
-        and western ports are being positioned for a joint naval operation. The target is unknown, but intelligence
-        suggests it involves a landing rather than a sea battle.</p>
+        <p>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.ijGHvVOlw9tFpBo8]{Nami}&#39;s
+        Arashi-aligned governing clan is coordinating with
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.M72zAjYRdrTCan30]{Mizu}&#39;s
+        Minato-jo -- together, the eastern and western ports are being positioned for a joint naval operation. The
+        target is unknown, but intelligence suggests it involves a landing rather than a sea battle.</p>
 
 
         </section>
@@ -2212,10 +2229,11 @@ pages:
 
         <p><strong>The Silver Dragon Connection</strong></p>
 
-        <p>Ginryu, the Silver Dragon, is connected to Sora through the province&#39;s astronomical nature. She has been
-        known to spend time on the Hoshimori Plateau. The plateau&#39;s unusual stellar appearance is partly her
-        influence. She has not been seen in decades, but her presence would explain the plateau&#39;s anomalous sei
-        readings.</p>
+        <p>Ginryu, the Silver Dragon, is connected to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.OgpA5KI2G94uYoN7]{Sora}
+        through the province&#39;s astronomical nature. She has been known to spend time on the Hoshimori Plateau. The
+        plateau&#39;s unusual stellar appearance is partly her influence. She has not been seen in decades, but her
+        presence would explain the plateau&#39;s anomalous sei readings.</p>
 
 
         </section>
@@ -2454,9 +2472,10 @@ pages:
 
         <p><strong>Plot Hooks</strong></p>
 
-        <p>A farmer plowing a new field in eastern Tsuchi has found an intact structure beneath the buried road -- a
-        sealed room -- and reported it to local authorities; those authorities are now not responding to outside
-        inquiries</p>
+        <p>A farmer plowing a new field in eastern
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.qODDmax1GHoTx3fx]{Tsuchi}
+        has found an intact structure beneath the buried road -- a sealed room -- and reported it to local authorities;
+        those authorities are now not responding to outside inquiries</p>
 
 
         </section>

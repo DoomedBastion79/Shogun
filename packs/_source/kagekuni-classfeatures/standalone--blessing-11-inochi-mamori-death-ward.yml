@@ -1,0 +1,77 @@
+_id: LFtPfVKAmscGkqvt
+_key: '!items!LFtPfVKAmscGkqvt'
+name: 命の守り Inochi no Mamori
+type: feat
+img: icons/magic/holy/yin-yang-balance-symbol.webp
+folder: cVY6JWRobk1raVsX
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    source: foundry-items/feats/blessing-11-inochi-mamori-death-ward.yml
+    slug: blessing-11-inochi-mamori-death-ward
+    standalone: true
+system:
+  type:
+    value: feat
+    subtype: ''
+  requirements: ''
+  identifier: blessing-11-inochi-mamori-death-ward
+  description:
+    value: >-
+      <p><strong>命の守り Inochi no Mamori</strong> — <em>Guardian of Life</em></p>
+
+      <p><strong>Effect:</strong> Death Ward</p>
+
+      <p><strong>Duration:</strong> 8 hours.</p>
+
+      <p><strong>Source:</strong> Kinryū no Megumi blessing table — Grand Hall restorative pools, Ōryūzan Tenkū-ji.</p>
+
+      <hr/>
+
+      <p><em>命の守り — Guardian of Life.</em> The Death Ward spell. The first time you would drop to 0 HP while the
+      blessing is active, you instead drop to 1 HP and the blessing ends. If reduced to 0 HP outright by an
+      instant-death effect, the blessing prevents that effect once. (Tracking is narrative — disable this effect
+      manually when triggered.)</p>
+    chat: ''
+  source:
+    book: Kagekuni Campaign
+    page: ''
+    license: ''
+    custom: ''
+    rules: '2024'
+    revision: 1
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  properties: []
+  activities: {}
+  enchant: {}
+  prerequisites:
+    level: null
+effects:
+  - _id: LiBWRBkJQjbbkM3x
+    _key: '!items.effects!LFtPfVKAmscGkqvt.LiBWRBkJQjbbkM3x'
+    name: 命の守り Inochi no Mamori
+    img: icons/magic/holy/yin-yang-balance-symbol.webp
+    type: base
+    changes: []
+    disabled: false
+    transfer: true
+    duration:
+      startTime: null
+      seconds: null
+      combat: null
+      rounds: null
+      turns: null
+      startRound: null
+      startTurn: null
+    origin: null
+    tint: '#ffffff'
+    description: ''
+    statuses: []
+    system: {}
+    sort: 0
+    flags: {}
