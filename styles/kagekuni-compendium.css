@@ -171,6 +171,64 @@
   border-color: rgba(217, 119, 6, 0.45);
 }
 
+/* ---- Player scene pages -----------------------------------------------
+   Pages built into the kagekuni-scene-pages pack: a read-aloud block, one
+   secret per discoverable fact, and pre-revealed "recall" boxes for
+   previously-learned content. See assistant/tools/lib/build-scene-pages.mjs. */
+
+/* Read-aloud — second-person physical description shown to every player.
+   Boxed and italic, set apart from narration. Not a secret. */
+.kg-readaloud {
+  border: 1px solid rgba(96, 165, 250, 0.4);
+  border-left: 4px solid #60a5fa;
+  background: rgba(96, 165, 250, 0.07);
+  padding: 0.25em 1em;
+  border-radius: 0 4px 4px 0;
+  margin: 0.75em 0;
+  font-style: italic;
+}
+/* The shared callout renderer emits a <header><h4> with the page name —
+   redundant on a scene page whose title already names the observable. */
+.kg-readaloud > article > header {
+  display: none;
+}
+
+/* Handout secret — a shareable prop (image, letter, item). Double left
+   border distinguishes "drop this prop" from a plain text reveal. */
+.kg-handout {
+  border-left-style: double;
+  border-left-width: 6px;
+}
+.journal-entry-page section.secret[data-kind="handout"]::before {
+  content: "handout";
+  color: #e8a868;
+  background: rgba(217, 119, 6, 0.16);
+  border-color: rgba(217, 119, 6, 0.45);
+}
+
+/* Related content — known-tier recall the party has already learned. Built
+   pre-revealed (visible by default); the GM un-reveals per page to suppress. */
+.kg-related {
+  border-left-color: #60a5fa;
+  background: rgba(96, 165, 250, 0.08);
+}
+.journal-entry-page section.secret[data-kind="related"]::before {
+  content: "recall";
+  color: #93c5fd;
+  background: rgba(96, 165, 250, 0.16);
+  border-color: rgba(96, 165, 250, 0.45);
+}
+
+/* Revealed secret — a secret block authored in (or left in) the revealed
+   state. Foundry shows .secret.revealed to players; this faint dashed
+   outline lets the GM spot revealed blocks when exporting a journal for a
+   post-session true-up. The outline is subtle enough to be unobtrusive if a
+   player happens to see it. */
+.journal-entry-page section.secret.revealed {
+  outline: 1px dashed rgba(96, 165, 250, 0.3);
+  outline-offset: 2px;
+}
+
 /* ---- Japanese glossary hover annotations ------------------------------ */
 .kg-jp {
   text-decoration: underline dotted;

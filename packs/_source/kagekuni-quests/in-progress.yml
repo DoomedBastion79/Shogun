@@ -40,47 +40,56 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="99360cf0">Assess the observatory and identify what repairs
-        are needed</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t0">Assess the
+        observatory and identify what repairs are needed</li>
 
-        <li class="kg-task" data-done="false" data-task-key="4fe7db53">Locate the 7 first-floor components<ul>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t1">Locate the 7
+        first-floor components<ul>
 
         <li><input disabled="" type="checkbox"> Susanoo projection lens (Grand Hall)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="54e572cc">Planetary gear assembly (Dormitories)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t2">Planetary gear
+        assembly (Dormitories)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="3c3712d3">Calibration disc (Dormitories — sealed room)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t3">Calibration disc
+        (Dormitories — sealed room)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="e3f00360">Tsukuyomi projection lens (Mess Hall)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t4">Tsukuyomi projection
+        lens (Mess Hall)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="7613e99e">Sei conduit filament (Inner Sanctum)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t5">Sei conduit filament
+        (Inner Sanctum)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="16bdb29c">Lunar armature set (Scriptorium)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t6">Lunar armature set
+        (Scriptorium)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="d1f70e30">Operator&#39;s manual (Scriptorium)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t7">Operator&#39;s manual
+        (Scriptorium)</li>
 
         </ul>
 
         </li>
 
-        <li class="kg-task" data-done="false" data-task-key="19933ac4">Complete the 2 in-place repairs on floor 2<ul>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t8">Complete the 2
+        in-place repairs on floor 2<ul>
 
         <li><input disabled="" type="checkbox"> Repair the cracked Amaterasu projection lens (Orrery)</li>
 
-        <li class="kg-task" data-done="false" data-task-key="a21f1cea">Free the seized stellar drive mechanism
-        (Orrery)</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t9">Free the seized
+        stellar drive mechanism (Orrery)</li>
 
         </ul>
 
         </li>
 
-        <li class="kg-task" data-done="false" data-task-key="0e739291">Restore the orrery through 5 repair stages</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t10">Restore the orrery
+        through 5 repair stages</li>
 
-        <li class="kg-task" data-done="false" data-task-key="e6df3caa">Descend to the South Entrance and witness the
-        activated tapestries</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t11">Descend to the South
+        Entrance and witness the activated tapestries</li>
 
-        <li class="kg-task" data-done="false" data-task-key="2ca69bc5">Study the four surviving tapestries for
-        information</li>
+        <li class="kg-task" data-done="false" data-task-key="q-light-of-the-star-mirror--known-t12">Study the four
+        surviving tapestries for information</li>
 
         </ul>
 
@@ -333,19 +342,20 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="c2da6f50">Determine what has happened to Daimyo Masota no
-        Gekko and Clan Gekko<ul>
+        <li class="kg-task" data-done="false" data-task-key="q-gekko-investigation--known-t0">Determine what has
+        happened to Daimyo Masota no Gekko and Clan Gekko<ul>
 
         <li><input disabled="" type="checkbox"> Travel to Kaze Province and
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki}</li>
 
-        <li class="kg-task" data-done="false" data-task-key="9e9ae795">Investigate the Monastery of the Black Lily and
-        the Order of the Black Lily</li>
+        <li class="kg-task" data-done="false" data-task-key="q-gekko-investigation--known-t1">Investigate the Monastery
+        of the Black Lily and the Order of the Black Lily</li>
 
-        <li class="kg-task" data-done="false" data-task-key="f9da4fbf">Locate and assess Clan Gekko&#39;s current
-        status</li>
+        <li class="kg-task" data-done="false" data-task-key="q-gekko-investigation--known-t2">Locate and assess Clan
+        Gekko&#39;s current status</li>
 
-        <li class="kg-task" data-done="false" data-task-key="a31b5d23">Report findings to Taisho Hideo Nakamura</li>
+        <li class="kg-task" data-done="false" data-task-key="q-gekko-investigation--known-t3">Report findings to Taisho
+        Hideo Nakamura</li>
 
         </ul>
 
@@ -603,15 +613,16 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="bba47ca9">Ko&#39;jiri has been served with a writ outlining
-        offenses committed within Kikyo. Shicho Nakamura Ren offers a pardon upon completion of tasks for Taisho Hideo
-        Nakamura.<ul>
+        <li class="kg-task" data-done="false" data-task-key="q-kojiri-misunderstood--known-t0">Ko&#39;jiri has been
+        served with a writ outlining offenses committed within Kikyo. Shicho Nakamura Ren offers a pardon upon
+        completion of tasks for Taisho Hideo Nakamura.<ul>
 
         <li><input checked="" disabled="" type="checkbox"> Report to Taisho Hideo Nakamura for assignment</li>
 
-        <li class="kg-task" data-done="false" data-task-key="4708ef14">Taisho Nakamura has assigned Ko&#39;jiri to
-        venture to @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} and the Kaze region
-        to determine what has happened to the Daimyo of Clan Gekko</li>
+        <li class="kg-task" data-done="false" data-task-key="q-kojiri-misunderstood--known-t1">Taisho Nakamura has
+        assigned Ko&#39;jiri to venture to
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.ow3AGqlvFevncAwN]{Akatsuki} and the Kaze region to
+        determine what has happened to the Daimyo of Clan Gekko</li>
 
         </ul>
 
@@ -815,13 +826,16 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="false" data-task-key="7e3d9b57">Investigate the death of Solas Evergreen<ul>
+        <li class="kg-task" data-done="false" data-task-key="q-relc-sacred-grove--known-t0">Investigate the death of
+        Solas Evergreen<ul>
 
         <li><input checked="" disabled="" type="checkbox"> Follow the visions of Solas to Heian</li>
 
-        <li class="kg-task" data-done="true" data-task-key="cffd99cb">Meet with Benkei and receive the letter</li>
+        <li class="kg-task" data-done="true" data-task-key="q-relc-sacred-grove--known-t1">Meet with Benkei and receive
+        the letter</li>
 
-        <li class="kg-task" data-done="false" data-task-key="ec7c7fbb">Await the next vision to appear</li>
+        <li class="kg-task" data-done="false" data-task-key="q-relc-sacred-grove--known-t2">Await the next vision to
+        appear</li>
 
         </ul>
 
@@ -1017,10 +1031,11 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="true" data-task-key="f1eb927b">Reunite mother and child</li>
+        <li class="kg-task" data-done="true" data-task-key="q-mothers-redemption--known-t0">Reunite mother and
+        child</li>
 
-        <li class="kg-task" data-done="false" data-task-key="9e71eeee">Safely transport Yasutake Mai and her infant to
-        <strong>Sunsato</strong></li>
+        <li class="kg-task" data-done="false" data-task-key="q-mothers-redemption--known-t1">Safely transport Yasutake
+        Mai and her infant to <strong>Sunsato</strong></li>
 
         </ul>
 
@@ -1179,13 +1194,15 @@ pages:
 
         <ul>
 
-        <li class="kg-task" data-done="true" data-task-key="3c3154e2">Survive the ambush</li>
+        <li class="kg-task" data-done="true" data-task-key="q-nightfall-ambush--known-t0">Survive the ambush</li>
 
-        <li class="kg-task" data-done="true" data-task-key="30c5d0e4">Discover the letter on the bandit leader</li>
+        <li class="kg-task" data-done="true" data-task-key="q-nightfall-ambush--known-t1">Discover the letter on the
+        bandit leader</li>
 
-        <li class="kg-task" data-done="true" data-task-key="84522aa2">Translate the letter</li>
+        <li class="kg-task" data-done="true" data-task-key="q-nightfall-ambush--known-t2">Translate the letter</li>
 
-        <li class="kg-task" data-done="false" data-task-key="80b625e9">Find where &quot;the earth feels soft&quot;</li>
+        <li class="kg-task" data-done="false" data-task-key="q-nightfall-ambush--known-t3">Find where &quot;the earth
+        feels soft&quot;</li>
 
         </ul>
 

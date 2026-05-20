@@ -63,8 +63,8 @@ system:
       important records — anything still legible from this temple was almost certainly preserved this way.</p>
 
 
-      <section class="secret kg-secret-sealed kg-discovery-index" data-container="sei-lacquer-identification"
-      data-kind="discovery">
+      <section id="sec-disc-sei-lacquer-identification-index" class="secret kg-secret-sealed kg-discovery-index"
+      data-container="sei-lacquer-identification" data-kind="discovery">
 
       <p><strong>Sei-Lacquer Identification</strong></p>
 
@@ -82,8 +82,9 @@ system:
       toward the Scriptorium on the first floor: the order&#39;s most important records would still be readable.</p>
 
 
-      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="sei-lacquer-identification"
-      data-discovery="preservation-craft" data-tier-key="id" data-tier-index="1" data-tier-count="1" data-kind="player">
+      <section id="sec-disc-sei-lacquer-identification-preservation-craft-id-1" class="secret kg-secret-discoverable
+      kg-discovery-player" data-container="sei-lacquer-identification" data-discovery="preservation-craft"
+      data-tier-key="id" data-tier-index="1" data-tier-count="1" data-kind="player">
 
       <p><strong>A Living Lacquer</strong></p>
 
@@ -97,7 +98,8 @@ system:
 
       </section>
 
-      <section class="secret kg-secret-sealed kg-discovery-index" data-container="hidden-thread" data-kind="discovery">
+      <section id="sec-disc-hidden-thread-index" class="secret kg-secret-sealed kg-discovery-index"
+      data-container="hidden-thread" data-kind="discovery">
 
       <p><strong>The Scroll&#39;s Hidden Thread — Sei Conduit Filament</strong></p>
 
@@ -126,9 +128,9 @@ system:
       — the sanctum sits well within the field. Outside the field, the filament will slowly dim.</p>
 
 
-      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="hidden-thread"
-      data-discovery="filament-detection" data-tier-key="detect" data-tier-index="1" data-tier-count="1"
-      data-kind="player">
+      <section id="sec-disc-hidden-thread-filament-detection-detect-1" class="secret kg-secret-discoverable
+      kg-discovery-player" data-container="hidden-thread" data-discovery="filament-detection" data-tier-key="detect"
+      data-tier-index="1" data-tier-count="1" data-kind="player">
 
       <p><strong>A Thread Within a Thread</strong></p>
 
@@ -155,9 +157,9 @@ system:
       charge.</p>
 
 
-      <section class="secret kg-secret-discoverable kg-discovery-player" data-container="hidden-thread"
-      data-discovery="filament-extraction" data-tier-key="extract" data-tier-index="1" data-tier-count="1"
-      data-kind="player">
+      <section id="sec-disc-hidden-thread-filament-extraction-extract-1" class="secret kg-secret-discoverable
+      kg-discovery-player" data-container="hidden-thread" data-discovery="filament-extraction" data-tier-key="extract"
+      data-tier-index="1" data-tier-count="1" data-kind="player">
 
       <p><strong>Lifting the Thread Free</strong></p>
 

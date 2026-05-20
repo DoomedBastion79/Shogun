@@ -167,7 +167,8 @@ pages:
     text:
       format: 1
       content: >-
-        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes">
+        <section id="sec-rm-tenku-sando-overview--dm-notes-intro" class="secret kg-secret-sealed kg-sealed-dm-notes"
+        data-kind="dm-notes">
 
         <ul>
 
@@ -351,7 +352,8 @@ pages:
 
         </ul>
 
-        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes">
+        <section id="sec-rm-tenku-sando-level-2--room-info-hooks" class="secret kg-secret-sealed kg-sealed-dm-notes"
+        data-kind="dm-notes">
 
         <ul>
 

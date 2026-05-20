@@ -52,6 +52,17 @@
       }
     },
     {
+      "name": "scene-pages",
+      "label": "Player Scene Pages",
+      "path": "packs/kagekuni-scene-pages",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "quests",
       "label": "Quests",
       "path": "packs/kagekuni-quests",
