@@ -219,6 +219,22 @@
   border-color: rgba(96, 165, 250, 0.45);
 }
 
+/* Delivery note — GM-only stage direction on how to perform the read-aloud
+   (pacing, tone). Sealed, so players never see it. Styled as a quiet
+   director's note — muted slate, italic — distinct from a lore secret so the
+   GM reads it as instruction, not content. */
+.kg-delivery {
+  border-left-color: #9ca3af;
+  background: rgba(156, 163, 175, 0.10);
+  font-style: italic;
+}
+.journal-entry-page section.secret[data-kind="delivery"]::before {
+  content: "delivery";
+  color: #cbd5e1;
+  background: rgba(156, 163, 175, 0.16);
+  border-color: rgba(156, 163, 175, 0.45);
+}
+
 /* Revealed secret — a secret block authored in (or left in) the revealed
    state. Foundry shows .secret.revealed to players; this faint dashed
    outline lets the GM spot revealed blocks when exporting a journal for a
