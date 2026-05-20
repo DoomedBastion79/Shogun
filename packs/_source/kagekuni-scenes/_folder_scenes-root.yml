@@ -1,0 +1,11 @@
+_id: yNGrlWBG1Kmw86CL
+_key: "!folders!yNGrlWBG1Kmw86CL"
+name: 舞台 Butai — Scenes
+type: Scene
+folder: null
+sorting: m
+sort: 10
+color: "#4a5568"
+flags:
+  assistant:
+    folderPath: scenes/root

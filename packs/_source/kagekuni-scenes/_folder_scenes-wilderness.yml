@@ -1,0 +1,11 @@
+_id: sMj6nZyVhMWNH5Eh
+_key: "!folders!sMj6nZyVhMWNH5Eh"
+name: 野外 Yagai — Wilderness
+type: Scene
+folder: yNGrlWBG1Kmw86CL
+sorting: m
+sort: 30
+color: null
+flags:
+  assistant:
+    folderPath: scenes/wilderness

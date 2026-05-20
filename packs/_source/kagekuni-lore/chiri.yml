@@ -277,8 +277,19 @@ pages:
         <li>Hoshino To (Tower of Stars) -- Ancient observatory on Shirogane Yama summit. Still operational; maintained
         by a small order of seimasters. Instruments calibrated to all three stars and four moons simultaneously.</li>
 
-        <li>Kodan no Jinja -- Ancient roadside shrine. Grants divine boons to supplicants for a period of days equal to
-        three times the recipient&#39;s experience level (maximum sixty days). Only one boon at a time.</li>
+        <li>Kodan no Jinja (Eastern Routes) -- One of the ancient sei-bound boon shrines, standing along Hana&#39;s
+        eastern routes. The blessing it carries -- <em lang="ja-Latn">Midori no Ashibumi</em> (Footfall of the Green
+        Dragon) -- lets a supplicant cross natural terrain (forest, meadow, hill, marsh, grove) unhindered by
+        undergrowth, brush, or roots; once per dawn, a short rest taken in such terrain restores one Hit Die&#39;s worth
+        of hit points without expending the die. Lasts thirty days; see core-kodan-no-jinja for renewal and exchange
+        rules.</li>
+
+        <li>Kodan no Jinja (Sandō of Tenkū-ji) -- A second sei-bound boon shrine in Hana, set along the pilgrim approach
+        to Ōryūzan Tenkū-ji and dedicated to Kinryū. The shrine is gated -- supplicants must solve the approach&#39;s
+        puzzle before they can lay hands on the stone. Its blessing -- <em lang="ja-Latn">Kinryū no Chikai</em> (Vow of
+        the Golden Dragon) -- once per dawn lets the supplicant speak a binding vow aloud; the first ability check,
+        attack roll, or saving throw made in direct service of fulfilling that vow is made with advantage. Knowingly
+        acting against the vow locks the boon until the supplicant renews or exchanges at a Kodan no Jinja.</li>
 
         <li>Shadowfen Bridge -- Stone bridge near
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.eUCVLOrFBBpO7dHx]{Sakura Mura} crossing into marsh forest.
@@ -471,6 +482,15 @@ pages:
         <p>Fishing on the Serenia-kai and the Kinryugawa sustains much of the rural population. The Gold Dragon River
         runs fat with a fish called @UUID[Compendium.kagekuni-assistant.items.Item.aAVMPjIVMn92MoHV]{kinuo} (gold-tail)
         that is considered a delicacy in Heian and commands premium prices at market.</p>
+
+        <p><strong>Kanedōchiri (Bronze-Fall Festival).</strong> The villages bordering the Seidōrin Mori observe an
+        annual festival in late Kannazuki or early Shimotsuki, as the first hard cold draws in and the Bronze Wood
+        prepares to shed. Lanterns are strung through the canopy and households keep watch through the single night the
+        leaves will fall. The first leaf to drop is gathered by the eldest priest of the local shrine and held in trust
+        until the following year&#39;s opening rite, when it is burned. Licensing officers do not work the forest during
+        the festival -- the trade pauses entirely. A late Kanedōchiri is said to portend a hard winter; an early one,
+        that the dragons sleep restless; and a leaf that refuses to fall marks the tree as one the spirits are not done
+        with, and no axe will touch it until the next year&#39;s drop.</p>
 
         <h3 id="kg-history" data-section="history">History</h3>
 

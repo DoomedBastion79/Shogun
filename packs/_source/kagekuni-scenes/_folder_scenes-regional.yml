@@ -1,0 +1,11 @@
+_id: 6tP13wC05jAZxcDZ
+_key: "!folders!6tP13wC05jAZxcDZ"
+name: 地方 Chihō — Regional
+type: Scene
+folder: yNGrlWBG1Kmw86CL
+sorting: m
+sort: 40
+color: null
+flags:
+  assistant:
+    folderPath: scenes/regional

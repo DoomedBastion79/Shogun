@@ -1,0 +1,11 @@
+_id: jS6rlDYTWGlSdNcc
+_key: "!folders!jS6rlDYTWGlSdNcc"
+name: 冒険 Bōken — Adventure Sites
+type: Scene
+folder: yNGrlWBG1Kmw86CL
+sorting: m
+sort: 10
+color: null
+flags:
+  assistant:
+    folderPath: scenes/adventure

@@ -180,6 +180,17 @@
         "PLAYER": "NONE",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "scenes",
+      "label": "Scenes",
+      "path": "packs/kagekuni-scenes",
+      "type": "Scene",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
@@ -201,7 +212,8 @@
         "tables",
         "gatherer",
         "macros",
-        "monsters"
+        "monsters",
+        "scenes"
       ]
     }
   ],
@@ -212,6 +224,13 @@
         "type": "module",
         "manifest": "https://r2.foundryvtt.com/packages-public/mastercrafted/module.json",
         "compatibility": {}
+      }
+    ],
+    "recommends": [
+      {
+        "id": "hexplorer",
+        "type": "module",
+        "reason": "Adds hex-grid exploration overlay used by shipped scene flags."
       }
     ]
   },

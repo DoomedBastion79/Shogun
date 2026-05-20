@@ -1,0 +1,1574 @@
+_id: 4vbzgHy9ecixxgnw
+_key: '!journal!4vbzgHy9ecixxgnw'
+name: Tenkū Sandō
+pages:
+  - _id: nwhM0bnaKN8z4qsZ
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.nwhM0bnaKN8z4qsZ'
+    name: Campaign Role
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><em lang="ja-Latn">&quot;The Celestial Approach&quot; — the sacred switchback that climbs the southern face
+        of Ōryūzan to the gold doors of Tenkū-ji.</em></p>
+
+        <p>The Tenkū Sandō is the formal pilgrimage approach to Ōryūzan Tenkū-ji. It carves five terraced levels into
+        the mountain&#39;s southern face — each level roughly thirty feet above the last, joined by short flights of cut
+        stone stairs — beginning at the upper edge of the Tenchūsan Ren passes and ending at the temple&#39;s golden
+        outer doors. In the Golden Age this path would have been walked by clan-priests, novices, and pilgrims granted
+        audience; today it is a half-collapsed scar of pale stone, frost-cracked steps, and weathered ornaments that the
+        Nagaji travel without ceremony.</p>
+
+        <p>The Sandō is itself a working sacred device — built on the same foundational magic as the temple. Distributed
+        across its levels are <strong>eight large dragon-head statues</strong> (seven uniform Watchers and one distinct
+        Threshold Head), <strong>four stone pedestals</strong>, and on the second level a <strong>coiled dragon
+        statue</strong> carved from what appears to be pale weathered stone, half-buried in millennia of dirt, scree,
+        lichen, and rooted growth. The dragon-heads and pedestals form a puzzle. Solved correctly, the path <em
+        lang="ja-Latn">re-receives</em> its prayer — and the dragon on Level 2 wakes, sloughing thousands of years of
+        accumulated debris in the process. What was apparently stone is gold beneath. A small shrine — long dormant
+        behind the dragon, never hidden — wakes with it.</p>
+
+        <p>This is the first of the <em lang="ja-Latn">restoring</em> the temple thread: the Sandō is the lock;
+        @UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{the
+        Grand Hall — Hiroba} — is what opens. Without prayer and travel for an age, the Sandō slept, and what slept on
+        the Sandō reached as far as the great chamber beyond the gold doors. Re-prayer here is what makes the broad
+        chamber accessible.</p>
+
+        <p>For the party, this is what they ascend on their way in — encountered for the first time before the gold
+        doors, before the temple, before any of its history is known.</p>
+
+        <h2 id="kg-visible-features" data-section="visible-features">Visible Features</h2>
+
+        <ul>
+
+        <li><strong>Five terraced levels</strong> — each ~30 ft above the last. Pale cut stone landings linked by short
+        stairs. Several stretches are partially collapsed, with rubble across the path.</li>
+
+        <li><strong>Eight large dragon-head statues</strong> — seven uniform <em lang="ja-Latn">Watchers</em>
+        distributed across the levels, each facing outward over the path, and one distinct <em lang="ja-Latn">Threshold
+        Head</em> in the gold-door court above. They appear to be the same weathered stone as the path itself, though
+        closer inspection finds them curiously <em lang="ja-Latn">un-cracked</em> — preserved beneath their grime, not
+        eroding under it.</li>
+
+        <li><strong>Four stone pedestals</strong> — squared waist-high fixtures spaced along the inner wall. Long
+        unused. Each has a smooth circular indentation in the top surface — designed to receive something. (See the
+        puzzle entry.)</li>
+
+        <li><strong>The Sleeping Dragon (Level 2)</strong> — a coiled dragon statue set into a basin carved from the
+        cliff. Apparently pale stone, almost entirely overgrown: rooted plants in the joints, lichen across the scales,
+        dirt and small stones nested between the coils. The shape is unmistakable — a dragon at rest, head lowered upon
+        its forelimbs — but the details have been buried for so long that no casual viewer would call it gold. It is the
+        original of the path: when it wakes, the path wakes with it.</li>
+
+        <li><strong>The Top Landing</strong> — Level 5 opens into the broad paved court before the massive ornate gold
+        doors of Tenkū-ji.</li>
+
+        </ul>
+
+        <h2 id="kg-the-sand-puzzle" data-section="the-sand-puzzle">The Sandō Puzzle</h2>
+
+        <p>The Sandō is a <strong>living pilgrimage</strong> — the Pilgrim&#39;s Office of Ōryūzan, written into the
+        path itself.</p>
+
+        <ul>
+
+        <li><strong>The Seven Watchers</strong> — seven of the eight dragon-heads on the path kindle softly when passed
+        by an ascending creature. Just walking the path lights them in order; the act of ascending <em
+        lang="ja-Latn">is</em> the first half of the rite.</li>
+
+        <li><strong>The Four Pedestals</strong> — one on each of Levels 1-4. Each pedestal carries two inscriptions: a
+        <strong>vow</strong> to be spoken at it, and the <strong>name and year of one of the last four pilgrims</strong>
+        to complete the rite. The bottom pedestal (L1) carries the oldest; the top pedestal (L4) carries the most
+        recent. A <em lang="ja-Latn">prayer</em> is performed at each: read the inscribed name aloud (honor the pilgrim
+        who walked before you), speak the vow, and observe a moment of silence. When the prayer is accepted, the
+        pedestal warms under its grime.</li>
+
+        <li><strong>The Threshold Head</strong> — the eighth dragon-head, on Level 5, is visibly <em
+        lang="ja-Latn">different</em> — set apart in size, posture, and orientation. It will not light until every
+        Watcher has been lit, every pedestal-prayer completed, and a clan-priest&#39;s <strong>Order of Ascent</strong>
+        is proclaimed before it.</li>
+
+        <li><strong>The Order of Ascent</strong> — a short ritual text. The party can encounter it two ways: (a)
+        discover it as an item inside the temple (the <em lang="ja-Latn">Pilgrim&#39;s Office of Ōryūzan</em> — see
+        TBD), or (b) recall it through knowledge: recognize the Sandō for what it is (Religion / History, DC 12 —
+        &quot;this is a Kinryu pilgrim-path&quot;), then recall the ritual itself (Religion DC 18, monk training counts
+        — Sun Wukong is the natural fit).</li>
+
+        <li><strong>When the rite completes</strong> — the Threshold Head kindles, the Sleeping Dragon stirs, the
+        centuries of accumulated debris slough off into the basin, the gold beneath is revealed, the amber eyes open,
+        the head lifts. The small roadside shrine behind it — present all along, but cold — wakes.</li>
+
+        <li><strong>And the path remembers</strong> — when the pilgrimage is completed, the party&#39;s name and the
+        year are inscribed at the top pedestal; the existing names cascade down by one (L4 → L3 → L2 → L1), and the
+        oldest name is lost from the bottom pedestal. The path keeps only the last four pilgrim-groups in its working
+        memory.</li>
+
+        </ul>
+
+        <p>Because the Sandō&#39;s foundational magic is continuous with the temple&#39;s, awakening the Sandō also
+        stirs what lies inside. This is the <strong>first beat of the restoring-the-temple thread</strong> — the broad
+        chamber within (the Grand Hall — Hiroba) is canonically gated on this revival.</p>
+
+        <h2 id="kg-solvability-preference" data-section="solvability-preference">Solvability Preference</h2>
+
+        <p>The Sandō is encountered <strong>before</strong> the temple. The party is unlikely to backtrack mid-delve to
+        solve a path-puzzle they walked past on the way in, so the puzzle should <em lang="ja-Latn">preferably</em> be
+        solvable from the Sandō alone — its inscriptions, its structure, the buried statue, and whatever the party
+        already carries (existing knowledge, gear, party composition). Interior knowledge can <em
+        lang="ja-Latn">enrich</em> the solution but should not be strictly required. A puzzle that can only be unlocked
+        by something inside the temple will probably never be solved.</p>
+
+        <h2 id="kg-loot-framework" data-section="loot-framework">Loot Framework</h2>
+
+        <p><strong>Open path</strong>: Essentially scoured. Anything portable was either taken when the temple fell or
+        harvested by the Nagaji over the centuries. Set the expectation early.</p>
+
+        <p><strong>Dragon-heads / pedestals</strong>: Not removable in any practical sense. They are anchored into the
+        cliff stone and part of the puzzle mechanism. Defacing them breaks the puzzle.</p>
+
+        <p><strong>The dormant shrine (puzzle reward)</strong>: A small, deliberately curated reward.
+        Single-meaningful-item or small-set scale; not a hoard. Material to be decided — see DM notes.</p>
+
+        <h2 id="kg-connected-entries" data-section="connected-entries">Connected Entries</h2>
+
+        <ul>
+
+        <li>Ōryūzan Tenkū-ji (loc-tenkuji-temple) — the gold doors at the head of the Sandō; the broad chamber (Grand
+        Hall — Hiroba) is gated on this puzzle&#39;s resolution</li>
+
+        <li>Tenchūsan Ren — the pass system below</li>
+
+        <li>Kinkokyo (sealed) — the buried city beneath the temple</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 0
+    flags: {}
+  - _id: 3i7XvXvug8gICEMV
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.3i7XvXvug8gICEMV'
+    name: DM Notes
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes">
+
+        <ul>
+
+        <li>The Sandō is encountered <strong>before</strong> the temple. The puzzle should <em
+        lang="ja-Latn">preferably</em> be solvable from the path alone, since players are unlikely to backtrack
+        mid-delve. Interior knowledge (the Order of Ascent as a found item) can enrich the solution but is not the sole
+        key — Sun Wukong&#39;s monk training is a viable recall path (Religion DC 18).</li>
+
+        <li>The puzzle is optional. The party can walk straight up to the gold doors without engaging it. The gold doors
+        open without it. What the puzzle gates is what lies <em lang="ja-Latn">beyond</em> the doors — specifically, the
+        broad chamber
+        (@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{the
+        Grand Hall — Hiroba}). Until the Sandō is awoken, frame the chamber inside as inaccessible / sealed /
+        dust-cloaked (final mechanism TBD; see puzzle supplement).</li>
+
+        <li>The Sleeping Dragon&#39;s reveal is the single biggest visual moment on the Sandō. Hold it. When the puzzle
+        resolves: a stir, a long shudder, sheets of moss and earth and rooted growth sliding off the statue and into the
+        basin in slow, almost-silent collapse, dust rising, and underneath, <em lang="ja-Latn">gold</em>. Amber eyes
+        open last.</li>
+
+        <li>The buried-stone framing is a deliberate misdirect. None of the eight dragon-heads or the Level-2 statue are
+        actually stone — they are gold beneath millennia of accumulation. A successful Investigation / History /
+        Religion / Nature roll can hint at this (the surface is too uniformly cool, the moss doesn&#39;t take root
+        deeply, the underlying material rings differently when tapped). Don&#39;t make this trivial; it&#39;s a reward
+        for poking.</li>
+
+        <li><strong>The cascade</strong> — when the party completes the rite, write their name and the current year on
+        the Level-4 pedestal in narration; describe the existing inscriptions shifting down by one position; describe
+        the Level-1 name (<em lang="ja-Latn">Saitō Hagumi</em>) fading from its stone as if absorbed back into it. This
+        is the path&#39;s living memory at work — it is a real reward, not flavour. Their names are now part of the
+        Sandō until the next pilgrim group completes the rite.</li>
+
+        <li>The Nagaji ignore the Sandō entirely. They have walked this path for centuries without ever recognising what
+        it is. Their indifference is a quiet clue.</li>
+
+        <li>The four suggested pilgrim names (Saitō Hagumi 13062 / Tachibana Riku 13074 / Mishima Aiko 13083 / Ono Kazue
+        13087) are placeholders — replace if specific canon clan-priests are preferred. The years are deliberately set
+        in the late sei-drought period; these were the last to keep the path alive as the connection faded.</li>
+
+        <li>Weather on the Sandō is wind-exposed. Nightfall on the path is dangerous: no shelter except the lee of the
+        Level-2 basin.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 0
+    flags: {}
+  - _id: HDqh1MatOWDIR98x
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.HDqh1MatOWDIR98x'
+    name: The Switchback
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 0
+    flags: {}
+  - _id: YxYmvzyY6YC0G1pl
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.YxYmvzyY6YC0G1pl'
+    name: Level 1 — The Lower Landing
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The foot of the Sandō where the mountain track ends and the cut stone begins. A wide paved landing scattered
+        with frost-cracked tile and drifts of scree. Stairs lead up the cliff face to Level 2.</p>
+
+        <p><strong>Puzzle elements on this level:</strong></p>
+
+        <ul>
+
+        <li><strong>One Watcher</strong> — a single large dragon-head statue mounted on its stone base, set against the
+        inner cliff. Apparently weathered stone (gold beneath). Faces outward over the lower pass. Kindles softly when a
+        creature passes within ~10 ft of it on the ascent.</li>
+
+        <li><strong>The Eldest Pedestal</strong> — a squared waist-high stone fixture set against the inner cliff. Its
+        top surface bears two inscriptions in worn calligraphy:<ul>
+
+        <li><strong>Vow:</strong> <em lang="ja-Latn">&quot;I come without weapons of pride.&quot;</em></li>
+
+        <li><strong>Pilgrim:</strong> <em lang="ja-Latn">Saitō Hagumi · year 13062</em> (suggested — DM may swap; this
+        is the <strong>oldest</strong> remembered name and will be lost from the path when the party completes the
+        rite)</li>
+
+        <li><strong>The prayer:</strong> read the pilgrim&#39;s name aloud, speak the vow, observe a brief silence. When
+        accepted, the pedestal warms under its grime.</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 0
+    flags: {}
+  - _id: P4KiM3hcZCf0wXIw
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.P4KiM3hcZCf0wXIw'
+    name: Level 2 — The Sleeping Dragon
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <p>The second terrace, set against a deeper recess in the cliff. At the heart of the landing, cradled in a basin
+        carved from the mountain itself, rests <strong>what appears to be a large coiled dragon carved from pale
+        weathered stone</strong>. The shape is unmistakable — a dragon at rest, head lowered upon its forelimbs, body
+        curled around itself in long deliberate coils, <strong>wings folded tight against its back</strong> — but the
+        surface is so completely overtaken by accumulated debris that no casual observer would call it anything but
+        rock. Lichen the colour of rust and slate carpets the scales. Rooted growth has crawled into the joints between
+        coils and into the seams between the folded wings. Dust and small stones have settled into every concavity.
+        Wind-blown dirt sits dark in the carved hollows.</p>
+
+        <p>It is, in fact, gold — the same impossible untarnished gold as the great statue inside the temple, of which
+        the party will eventually realise this is the working twin — but no one looking at it now would know that.</p>
+
+        <p>Behind and beneath the basin, set into the living rock, stands a small <strong>roadside shrine</strong> —
+        visible from the moment the party reaches this terrace, concealed by no door or panel, but utterly cold and
+        dormant. When the Sandō puzzle is solved, the dragon stirs: the folded wings <strong>unfurl slowly
+        outward</strong>, the centuries of accumulated debris slough off into the basin in slow almost-silent sheets,
+        the gold beneath is revealed, the amber eyes open, the head lifts. The shrine wakes with the path — its carved
+        dragon-relief warms, and it answers the prayers of pilgrims once more.</p>
+
+        <p><strong>Puzzle elements on this level:</strong></p>
+
+        <ul>
+
+        <li><strong>Two Watchers</strong> — two large dragon-head statues flanking the Sleeping Dragon&#39;s basin, one
+        to each side. Both kindle when passed.</li>
+
+        <li><strong>The Mourner&#39;s Pedestal</strong> — set against the cliff wall opposite the basin.<ul>
+
+        <li><strong>Vow:</strong> <em lang="ja-Latn">&quot;I come without burdens of the dead.&quot;</em></li>
+
+        <li><strong>Pilgrim:</strong> <em lang="ja-Latn">Tachibana Riku · year 13074</em> (suggested)</li>
+
+        <li>The prayer is the same form as Level 1: name, vow, silence.</li>
+
+        </ul>
+
+        </li>
+
+        <li><strong>The Sleeping Dragon</strong> — the basin&#39;s center, the puzzle&#39;s focal point. (See
+        above.)</li>
+
+        </ul>
+
+        <section class="secret kg-secret-sealed kg-sealed-dm-notes" data-kind="dm-notes">
+
+        <ul>
+
+        <li>Dragonborn PCs and sei-sensitive characters (Relc, Ko&#39;jiri) can sense that <em lang="ja-Latn">something
+        is here</em> — the basin is not inert stone but a working device that has not been called in a long time. They
+        do not yet know what shape it has.</li>
+
+        <li>Investigation (DC 13) at the basin notes the moss is shallow-rooted, the surface beneath is too smooth and
+        uniform, and the substance underneath rings differently when tapped. The character does not yet understand
+        what&#39;s beneath, only that something is.</li>
+
+        <li>The Nagaji avoid this landing. They will not have left scale-marks or detritus near the basin. Their absence
+        is a quiet clue.</li>
+
+        <li>Until the puzzle resolves, the dragon does <strong>not</strong> radiate warmth. The party may approach
+        freely.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 0
+    flags: {}
+  - _id: lwghtAvAAannPt2e
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.lwghtAvAAannPt2e'
+    name: Level 3 — Middle Terrace
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The middle of the ascent. Wind-exposed; the temple roofline is visible above for the first time on this
+        level. Several stretches of the outer parapet have collapsed.</p>
+
+        <p><strong>Puzzle elements on this level:</strong></p>
+
+        <ul>
+
+        <li><strong>Two Watchers</strong> — two dragon-head statues, one near the entry stair from Level 2 and one near
+        the exit stair to Level 4. Both kindle when passed.</li>
+
+        <li><strong>The Faithful Pedestal</strong> — set among the rubble of the partially-collapsed parapet, but the
+        pedestal itself is undamaged.<ul>
+
+        <li><strong>Vow:</strong> <em lang="ja-Latn">&quot;I come without doubt of the path.&quot;</em></li>
+
+        <li><strong>Pilgrim:</strong> <em lang="ja-Latn">Mishima Aiko · year 13083</em> (suggested)</li>
+
+        <li>The prayer: name, vow, silence.</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 0
+    flags: {}
+  - _id: eN6t1N5neprA5TtN
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.eN6t1N5neprA5TtN'
+    name: Level 4 — Upper Terrace
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The penultimate terrace. The path narrows here; the gold doors are visible above. Stairs lead up to Level
+        5.</p>
+
+        <p><strong>Puzzle elements on this level:</strong></p>
+
+        <ul>
+
+        <li><strong>Two Watchers</strong> — two dragon-head statues, one near the entry stair from Level 3 and one near
+        the exit stair to Level 5. Both kindle when passed.</li>
+
+        <li><strong>The Top Pedestal — Newest Name</strong> — set against the cliff at the inner edge of the terrace.
+        The most recent inscription on the path; what was here was added most recently and will be the first to receive
+        the party&#39;s name when the rite completes.<ul>
+
+        <li><strong>Vow:</strong> <em lang="ja-Latn">&quot;I come without claim upon the dragon.&quot;</em></li>
+
+        <li><strong>Pilgrim:</strong> <em lang="ja-Latn">Ono Kazue · year 13087</em> (suggested — the
+        <strong>last</strong> pilgrim to complete the rite before the temple fell)</li>
+
+        <li>The prayer: name, vow, silence.</li>
+
+        <li>Note: when the party completes the full rite, <em lang="ja-Latn">their</em> name will be inscribed here, <em
+        lang="ja-Latn">Ono Kazue · 13087</em> will cascade down to L3, <em lang="ja-Latn">Mishima Aiko</em> to L2, <em
+        lang="ja-Latn">Tachibana Riku</em> to L1, and <em lang="ja-Latn">Saitō Hagumi · 13062</em> will be lost from the
+        path.</li>
+
+        </ul>
+
+        </li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 0
+    flags: {}
+  - _id: 725V9bpOQRBu3Tkk
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.725V9bpOQRBu3Tkk'
+    name: Level 5 — The Gold-Door Court
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p>The head of the Sandō. The switchback opens into a broad paved court before the massive ornate gold doors of
+        Ōryūzan Tenkū-ji. The threshold proper between path and temple. Where the party currently stands.</p>
+
+        <p><strong>Puzzle elements on this level:</strong></p>
+
+        <ul>
+
+        <li><strong>The Threshold Head</strong> — one dragon-head, set on its own at the center of the court before the
+        gold doors. It is <strong>visibly different</strong> from the seven Watchers below:<ul>
+
+        <li><strong>Smaller</strong> than the others — about two-thirds their scale — but more finely carved beneath the
+        grime.</li>
+
+        <li><strong>Faces inward</strong> (toward the gold doors), not outward over the path.</li>
+
+        <li><strong>Mouth open</strong> — every Watcher below has a closed mouth; this one&#39;s jaws are parted as if
+        mid-speech.</li>
+
+        <li><strong>Ringed by a faded text-circle on the ground</strong> — a band of carved characters surrounding the
+        head&#39;s base, mostly worn but partially legible. (Religion DC 14 to recognise the fragments as ritual text;
+        Religion DC 18 or monk training to actually recite the <strong>Order of Ascent</strong> from memory.)</li>
+
+        <li><strong>The head does not kindle when passed.</strong> Walking near it does nothing. Investigation reveals —
+        as it does for the others — that the underlying material is the same as the rest (gold beneath stone), but the
+        magic here is keyed to <em lang="ja-Latn">speech</em>, not passage.</li>
+
+        </ul>
+
+        </li>
+
+        <li><strong>No pedestal</strong> on this level. The threshold is for the rite&#39;s completion, not for
+        prayer.</li>
+
+        <li><strong>The gold doors</strong> behind the head — the temple entrance proper. Open without the puzzle being
+        solved; the puzzle gates only what lies <em lang="ja-Latn">beyond</em> the doors
+        (@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{the
+        Grand Hall — Hiroba}).</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 0
+    flags: {}
+  - _id: mQP9Iu17nzfmh62a
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.mQP9Iu17nzfmh62a'
+    name: Supplements
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 0
+    flags: {}
+  - _id: iU4NRDc7RGDCe3K7
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.iU4NRDc7RGDCe3K7'
+    name: The Sandō Puzzle
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-sand-puzzle-design-locked" data-section="the-sand-puzzle-design-locked">The Sandō Puzzle — Design
+        (Locked)</h2>
+
+        <p><strong>Goal.</strong> Awaken the Sleeping Dragon on Level 2. Awakening sheds millennia of accumulated debris
+        and reveals the gold beneath. A small roadside shrine, dormant behind it all along, wakes. Because the
+        Sandō&#39;s foundational magic is continuous with the temple&#39;s, this awakening also gates access to the
+        broad chamber (Grand Hall — Hiroba) inside — the first beat of the <strong>restoring-the-temple
+        thread</strong>.</p>
+
+        <h2 id="kg-mechanics" data-section="mechanics">Mechanics</h2>
+
+        <p>The rite has <strong>three layered components</strong> — passive, active, and culminating.</p>
+
+        <h3 id="kg-1-seven-watchers-passive" data-section="1-seven-watchers-passive">1. Seven Watchers (passive)</h3>
+
+        <p>Seven of the eight dragon-heads kindle softly when a creature passes within ~10 ft of them on the ascent. No
+        action required — the act of walking the path is the act of being witnessed. Once kindled, a Watcher remains lit
+        so long as any party member remains on the Sandō; it fades within an hour of all party members leaving the path
+        entirely.</p>
+
+        <p>Distribution across the five levels: <strong>L1 — 1, L2 — 2 (flanking the Sleeping Dragon), L3 — 2, L4 — 2,
+        L5 — 0</strong> (Level 5 holds only the Threshold Head).</p>
+
+        <h3 id="kg-2-four-prayers-active" data-section="2-four-prayers-active">2. Four Prayers (active)</h3>
+
+        <p>One pedestal per level on Levels 1-4. Each pedestal carries two inscriptions: a <strong>vow</strong> (the
+        same on every walking; carved into the path&#39;s making) and a <strong>pilgrim name + year</strong> (which
+        cascades — the path&#39;s living memory). The prayer at each pedestal is:</p>
+
+        <ol>
+
+        <li>Read the inscribed pilgrim&#39;s name aloud.</li>
+
+        <li>Speak the inscribed vow.</li>
+
+        <li>Observe a brief moment of silence (a few seconds of focused intent).</li>
+
+        </ol>
+
+        <p>When accepted, the pedestal warms perceptibly under its grime. Any party member can perform the prayer at any
+        pedestal; the four prayers can be spread across the party. The same character can perform all four. There is no
+        skill check required — only the doing.</p>
+
+        <p><strong>Vow-to-level mapping</strong> (release deepens as the pilgrim ascends):</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Level</th>
+
+        <th>Vow</th>
+
+        <th>Theme</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>1</td>
+
+        <td><em lang="ja-Latn">I come without weapons of pride.</em></td>
+
+        <td>Ego</td>
+
+        </tr>
+
+        <tr>
+
+        <td>2</td>
+
+        <td><em lang="ja-Latn">I come without burdens of the dead.</em></td>
+
+        <td>Grief</td>
+
+        </tr>
+
+        <tr>
+
+        <td>3</td>
+
+        <td><em lang="ja-Latn">I come without doubt of the path.</em></td>
+
+        <td>Faith</td>
+
+        </tr>
+
+        <tr>
+
+        <td>4</td>
+
+        <td><em lang="ja-Latn">I come without claim upon the dragon.</em></td>
+
+        <td>Expectation</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>Suggested pilgrim inscriptions</strong> (placeholders — DM may swap):</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Level</th>
+
+        <th>Name</th>
+
+        <th>Year</th>
+
+        <th>Note</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>1</td>
+
+        <td>Saitō Hagumi</td>
+
+        <td>13062</td>
+
+        <td>Oldest; will be lost from the path when the rite completes.</td>
+
+        </tr>
+
+        <tr>
+
+        <td>2</td>
+
+        <td>Tachibana Riku</td>
+
+        <td>13074</td>
+
+        <td></td>
+
+        </tr>
+
+        <tr>
+
+        <td>3</td>
+
+        <td>Mishima Aiko</td>
+
+        <td>13083</td>
+
+        <td></td>
+
+        </tr>
+
+        <tr>
+
+        <td>4</td>
+
+        <td>Ono Kazue</td>
+
+        <td>13087</td>
+
+        <td>Newest; the last to complete the rite before the temple fell.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-3-the-threshold-head-order-of-ascent-culminating"
+        data-section="3-the-threshold-head-order-of-ascent-culminating">3. The Threshold Head + Order of Ascent
+        (culminating)</h3>
+
+        <p>The eighth dragon-head, on Level 5, is <strong>visibly different</strong>:</p>
+
+        <ul>
+
+        <li>Smaller than the seven Watchers (~2/3 scale)</li>
+
+        <li>Faces inward toward the gold doors, not outward over the path</li>
+
+        <li>Mouth open (Watchers&#39; mouths are closed)</li>
+
+        <li>Ringed by a faded text-circle on the ground at its base — partially-readable carved characters</li>
+
+        </ul>
+
+        <p>The Threshold Head <strong>does not kindle when passed</strong>. It awaits speech. It lights only when:</p>
+
+        <ul>
+
+        <li>All seven Watchers are already lit, <strong>and</strong></li>
+
+        <li>All four pedestal-prayers have been completed, <strong>and</strong></li>
+
+        <li>The <strong>Order of Ascent</strong> — a short clan-priest&#39;s ritual text — has been proclaimed aloud
+        before it.</li>
+
+        </ul>
+
+        <p>When the Threshold Head kindles, the rite is complete. The Sleeping Dragon on Level 2 stirs, the centuries of
+        accumulated debris slough off into the basin in slow almost-silent collapse, the gold beneath is revealed, the
+        amber eyes open, the head lifts. The roadside shrine behind it wakes with the path.</p>
+
+        <h2 id="kg-the-order-of-ascent-how-the-party-finds-it"
+        data-section="the-order-of-ascent-how-the-party-finds-it">The Order of Ascent — How the Party Finds It</h2>
+
+        <p>Two paths, either sufficient:</p>
+
+        <p><strong>Path A — Knowledge.</strong> Two consecutive checks, made on the Sandō itself:</p>
+
+        <ol>
+
+        <li><strong>Recognize the path.</strong> Religion or History DC 12 — recognise the Sandō as a Kinryu
+        pilgrim-path with a known historical rite. Any class can attempt.</li>
+
+        <li><strong>Recall the rite.</strong> Religion DC 18 — recall the actual text of the Order of Ascent. Strong fit
+        for monk training; Sun Wukong is the natural candidate (monastic instruction in the celestial offices). Possible
+        also for a Religion-proficient character with strong INT/WIS.</li>
+
+        </ol>
+
+        <p>The text itself can be improvised by the player or DM. Suggested structure: a brief invocation (three lines),
+        a naming of the dragon (one line), an acknowledgement of the path (one line), a final petition (one line). The
+        character speaks it aloud at the Threshold Head.</p>
+
+        <p><strong>Path B — Found Item.</strong> The <em lang="ja-Latn">Pilgrim&#39;s Office of Ōryūzan</em> exists as
+        an item inside the temple. <strong>Item slug TBD; suggested location: the Scriptorium</strong> (Floor 1) — a
+        small folded silk codex among the surviving clan-priest texts. If the party finds it before leaving the temple
+        and returns to the Sandō, the text can simply be read.</p>
+
+        <p>Note that Path B requires the party to either (a) engage the puzzle before entering and then re-engage after
+        exiting, or (b) realise after exiting that the gate to Hiroba is on the path and choose to descend partway. Path
+        A is the path of least resistance and the more likely actual route.</p>
+
+        <h2 id="kg-the-cascade-living-memory" data-section="the-cascade-living-memory">The Cascade — Living Memory</h2>
+
+        <p>When the rite completes, the path <em lang="ja-Latn">remembers</em>:</p>
+
+        <ul>
+
+        <li>The party&#39;s name (or chosen designation) and the current year are inscribed at the top pedestal
+        (L4).</li>
+
+        <li>The existing names cascade down: <em lang="ja-Latn">Ono Kazue · 13087</em> → L3 · <em lang="ja-Latn">Mishima
+        Aiko · 13083</em> → L2 · <em lang="ja-Latn">Tachibana Riku · 13074</em> → L1.</li>
+
+        <li>The oldest name, <em lang="ja-Latn">Saitō Hagumi · 13062</em>, fades from the L1 stone as if absorbed back
+        into it.</li>
+
+        </ul>
+
+        <p>Narrate this. The cascade is a real reward, not flavour.</p>
+
+        <h2 id="kg-the-hiroba-gate-locked-option-1-dust-cloaked-twi"
+        data-section="the-hiroba-gate-locked-option-1-dust-cloaked-twi">The Hiroba Gate (locked — Option 1, Dust-Cloaked
+        Twin)</h2>
+
+        <p>The broad chamber (Grand Hall — Hiroba) inside the temple is gated on the Sandō&#39;s awakening via the
+        <strong>dust-cloaked twin</strong> mechanism: the Grand Hall&#39;s great statue is itself lichen-buried,
+        <strong>wings folded tight</strong>, exactly as the Sandō Sleeping Dragon is. The Hall&#39;s pools are dry and
+        its statue radiates no warmth. The torches still burn (foundational magic; sconces are continuous with the
+        path), but the warm life of the chamber is absent.</p>
+
+        <p>When the Sandō rite completes, <strong>both statues wake together</strong>. On the Sandō, the Sleeping
+        Dragon&#39;s wings unfurl outward and the debris falls into the basin. Inside the Hall, simultaneously, the
+        great statue&#39;s two-hundred-and-fifty-foot wings unfold outward across the chamber, the centuries of
+        accumulated grime slide off in slow almost-silent sheets, the amber eyes open, the pools fill from beneath, and
+        the warmth resumes. The Hiroba and the Sandō are one breath; what is restored to one is restored to the
+        other.</p>
+
+        <p><strong>Retrofit notes for <code>rm-grand-hall</code>:</strong> add a <em lang="ja-Latn">pre-rite state</em>
+        layer to the room — the statue is dust-cloaked with wings folded, pools dry, no warmth. The existing room
+        descriptions (warm gold, clear pools, amber eyes meeting Ko&#39;jiri, the cold-mitigation warmth radius) all
+        apply <strong>after the Sandō rite completes</strong>. Many of the floor-1 discoveries that depend on the active
+        state (statue warmth, pool charges, etc.) only become available post-rite. The
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} remain present in either
+        state.</p>
+
+        <h2 id="kg-the-shrine-reward-a-roadside-shrine" data-section="the-shrine-reward-a-roadside-shrine">The Shrine
+        Reward — A Roadside Shrine</h2>
+
+        <p>Behind and beneath the basin, set into the living rock, stands a small <strong>roadside shrine</strong> —
+        <code>michibata no jinja</code> (路傍の祠). It is present from the party&#39;s first arrival on the second terrace —
+        no panel conceals it — but cold and dormant until the rite completes. A single offering platform of cut stone, a
+        shallow basin for incense or rice, and a small carved relief of Kinryu in flight above the platform. When the
+        rite wakes it, the shrine is still <em lang="ja-Latn">modest</em> — the path is freshly re-awakened and its
+        hospitality is humble.</p>
+
+        <p><strong>Canon precedent.</strong> Roadside shrines that grant boons are established in Kagekuni canon. The
+        exemplar is <strong>Kodan no Jinja</strong> in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        province (see <code>core-cg-hana</code>): grants divine boons to supplicants for a period of days equal to three
+        times the recipient&#39;s experience level (max 60 days), one boon at a time. The Tenkū Sandō shrine follows the
+        same canonical mechanic.</p>
+
+        <p><strong>Mechanic (Sandō shrine).</strong></p>
+
+        <ul>
+
+        <li>A creature may pray at the shrine — a brief act of supplication, a coin or modest offering, a moment of
+        silence. One prayer per visit per creature.</li>
+
+        <li>The prayer grants a <strong>minor boon for a period of days equal to 3 × the recipient&#39;s character level
+        (maximum 60 days)</strong>. Boons are first-circle in scope — the same family of spell as the lower entries of
+        the Grand Hall blessing table (e.g. Aid, Bless, Longstrider, Enhance Ability of one chosen ability, Shield of
+        Faith). DM rolls or chooses; if random, use the Grand Hall blessing table rows 1-9 only (no death-ward, no
+        resistance, no advantage-on-saves entries — those are reserved for the temple&#39;s full restored state).</li>
+
+        <li><strong>One active boon per creature at a time.</strong> Re-praying before the existing boon expires
+        refreshes the duration but does not stack effects, and may not switch to a different boon — the path remembers
+        what it gave you.</li>
+
+        <li>The shrine recharges per creature per 24 hours: a creature who has used their prayer may not pray again at
+        this shrine for one full day.</li>
+
+        </ul>
+
+        <p>The shrine is the path&#39;s first gift to the pilgrims who woke it. It is small. It is real.</p>
+
+        <h2 id="kg-tone-amp-failure" data-section="tone-amp-failure">Tone &amp; Failure</h2>
+
+        <p>The puzzle is <em lang="ja-Latn">quiet</em>. Not a trap. Not timed. No failure mode — incorrect attempts
+        simply do nothing. The rite is the path&#39;s way of recognising that someone has come who can wake it; the path
+        is patient.</p>
+
+        <h2 id="kg-connected-entries" data-section="connected-entries">Connected Entries</h2>
+
+        <ul>
+
+        <li><code>loc-tenkuji-temple</code> — the gold doors at the head of the Sandō; the Grand Hall (Hiroba) inside is
+        gated on this rite.</li>
+
+        <li><code>rm-grand-hall</code> — the great statue is the twin of the Sandō&#39;s Sleeping Dragon; both share the
+        same dust-cloak mechanism if the recommended Hiroba gate is adopted.</li>
+
+        <li><em lang="ja-Latn">Pilgrim&#39;s Office of Ōryūzan</em> — new item TBD, suggested home: temple
+        Scriptorium.</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 100
+    ownership:
+      default: 0
+    flags: {}
+  - _id: DsMiO2Mdef8a4zZi
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.DsMiO2Mdef8a4zZi'
+    name: Introduction — The Celestial Approach
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-celestial-approach" data-section="the-celestial-approach">The Celestial Approach</h2>
+
+        <p><em lang="ja-Latn">A player-facing introduction to the Tenkū Sandō — the sacred switchback the party climbs
+        to reach the gold doors of Ōryūzan Tenkū-ji. The DM may reveal this page when the party first sets foot on the
+        cut stone.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-foot-of-the-sand" data-section="read-aloud-the-foot-of-the-sand">Read-Aloud —
+        The Foot of the Sandō</h4></header>
+
+        <p><em lang="ja-Latn">The mountain track gives out, and the path remembers how to be a path.</em></p>
+
+        <p><em lang="ja-Latn">Where loose scree and goat-trail switchbacks have carried you for the better part of a
+        day, the ground ahead resolves into something made: pale cut stone, laid in wide level courses, climbing the
+        southern face of the mountain in great terraced steps. Frost has cracked the tiles and centuries of wind have
+        drifted scree across them, but the bones of the thing are unmistakable. This was built. This was
+        walked.</em></p>
+
+        <p><em lang="ja-Latn">Five terraces rise above you, each set perhaps thirty feet above the last, joined by short
+        flights of worn stairs. Stone dragon-heads stand sentinel along the levels, faces turned outward over the drop,
+        weathered nearly featureless by time. Squared pillars of pale stone wait against the inner cliff at intervals.
+        And far above, at the head of it all, you can just make out the gleam of something gold.</em></p>
+
+        <p><em lang="ja-Latn">The wind moves over the old stone and finds no one to greet. Whatever this path was for,
+        it has been a very long time since anyone climbed it the way it was meant to be climbed.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The Tenkū Sandō — <em lang="ja-Latn">&quot;the Celestial Approach&quot;</em> — is the formal pilgrimage road
+        to Ōryūzan Tenkū-ji, the paramount sacred site of the Golden Dragon Clan in the age before the temple fell. A
+        pilgrim of the Golden Age did not simply <em lang="ja-Latn">walk</em> to the temple. The walking was itself the
+        observance — a rite written into the stone of the path and performed with the feet, the voice, and the patient
+        act of ascent.</p>
+
+        <p>The Sandō has five terraced levels. It carries <strong>eight stone dragon-heads</strong>, <strong>four stone
+        pedestals</strong>, and — cradled in a basin on the second terrace — a great <strong>coiled dragon at
+        rest</strong>. All of it lies buried under lichen, drifted dirt, and the slow work of the mountain. To the eye
+        it is a ruin. It is not a ruin. It is a sacred device that has simply not been <em lang="ja-Latn">called</em> in
+        a very long time — and everything needed to call it is already on the path with those who climb it.</p>
+
+        <p>The pages that follow describe what the party can see and learn as they ascend: the watching dragon-heads,
+        the strange head at the summit, the four pedestals and their inscriptions, and the sleeping dragon at the heart
+        of it all. The DM may reveal each as the party encounters it.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 110
+    ownership:
+      default: 0
+    flags: {}
+  - _id: cfjKOjrQjigBFB0e
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.cfjKOjrQjigBFB0e'
+    name: The Watcher Heads
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-watcher-heads" data-section="the-watcher-heads">The Watcher Heads</h2>
+
+        <p><em lang="ja-Latn">The seven uniform dragon-head statues set along the path. The DM may reveal this page when
+        the party examines any one of them.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-a-watcher-head" data-section="read-aloud-a-watcher-head">Read-Aloud — A Watcher
+        Head</h4></header>
+
+        <p><em lang="ja-Latn">The head juts from a squared stone base set against the inner cliff — a dragon&#39;s head,
+        half again the height of a tall man, carved jaw to crown from a single block. It faces outward, away from the
+        mountain, over the long drop and the pass below, as though it has spent every one of its years watching the road
+        for someone climbing up.</em></p>
+
+        <p><em lang="ja-Latn">Time has been strange to it. Lichen the colour of rust and old slate furs the scales; dirt
+        has settled into every carved hollow; the features are softened almost to suggestion. And yet the stone beneath
+        the grime is not cracked, not pitted, not crumbling the way the path&#39;s tiles crack and crumble around it. It
+        has weathered without truly wearing. The closed mouth, the deep-set eyes, the swept lines of the brow — all of
+        it is still there, only buried.</em></p>
+
+        <p><em lang="ja-Latn">And then, as you draw near, it does a thing no weathered stone should do. A soft warmth
+        wakes somewhere deep inside the head — not a light to read a page by, but a glow, low and golden, rising in the
+        seams between the scales like a coal remembering that it was once a fire. It holds steady while you are close.
+        It asks nothing of you. It simply seems, in some way you could not quite defend aloud, glad.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>Seven of these heads stand along the Sandō: one on the lowest landing, two flanking the great basin on the
+        second terrace, two on the third, and two on the fourth. They are alike in every way that matters — the same
+        size, the same outward-facing posture, the same closed mouth, the same patient carving beneath the same
+        centuries of grime. The pilgrims who built the path called them the <strong>Watchers</strong>.</p>
+
+        <p>A Watcher kindles when an ascending creature passes close to it — no word, no gesture, no offering required.
+        The act of <em lang="ja-Latn">climbing the path</em> is the thing it wakes for. Once kindled, a head holds its
+        glow as long as any member of the party remains on the Sandō.</p>
+
+        <p>An <strong>eighth</strong> dragon-head stands apart in the court at the very top of the path, and it is <em
+        lang="ja-Latn">not</em> like these seven. See <strong>The Threshold Head &amp; The Shrine</strong>.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 0
+    flags: {}
+  - _id: u5SlHJGZxdwsu3Qm
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.u5SlHJGZxdwsu3Qm'
+    name: The Threshold Head & The Shrine
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-threshold-head-amp-the-shrine" data-section="the-threshold-head-amp-the-shrine">The Threshold
+        Head &amp; The Shrine</h2>
+
+        <p><em lang="ja-Latn">The eighth and distinct dragon-head in the gold-door court (Level 5), and the roadside
+        shrine behind the basin on the second terrace. The DM may reveal the head when the party examines it, and the
+        shrine when the party reaches the Level-2 basin.</em></p>
+
+        <h3 id="kg-the-threshold-head" data-section="the-threshold-head">The Threshold Head</h3>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-threshold-head" data-section="read-aloud-the-threshold-head">Read-Aloud — The
+        Threshold Head</h4></header>
+
+        <p><em lang="ja-Latn">This one is wrong, and it takes a moment to see why.</em></p>
+
+        <p><em lang="ja-Latn">It stands alone at the centre of the broad court before the gold doors — not set against
+        the cliff with the drop at its back, like every head below it, but out in the open. And it is turned the wrong
+        way. Where the Watchers on the path all face outward over the descent, this head faces inward, toward the doors,
+        as though it once climbed the Sandō itself and has been gazing at the threshold ever since. It is smaller than
+        the others, perhaps two-thirds their size, and beneath the grime the carving is finer — a more careful hand, or
+        a more beloved subject.</em></p>
+
+        <p><em lang="ja-Latn">Its mouth is open. Every head on the path below holds its jaws shut; this one&#39;s are
+        parted, the way a mouth parts in the half-second before speech. Ringed around its base, carved into the paving
+        stones in a wide band, runs a circle of characters — most of them worn past reading, a few still legible: the
+        remains of some written thing that was meant to be spoken here.</em></p>
+
+        <p><em lang="ja-Latn">It does not kindle as you pass. You walk by it, and around it, and it stays cold. Whatever
+        this head is waiting for, your footsteps are not it.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The seven Watchers wake for the act of climbing. The Threshold Head does not — it waits for a <em
+        lang="ja-Latn">voice</em>. It is the last word of the path, and it will not speak until it is spoken to.</p>
+
+        <h3 id="kg-the-roadside-shrine" data-section="the-roadside-shrine">The Roadside Shrine</h3>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-roadside-shrine-dormant"
+        data-section="read-aloud-the-roadside-shrine-dormant">Read-Aloud — The Roadside Shrine (dormant)</h4></header>
+
+        <p><em lang="ja-Latn">Tucked into the living rock behind and beneath the great basin of the second terrace is a
+        small shrine — a michibata no jinja, the humble roadside shrine a traveller might find at any lonely crossing. A
+        single platform of cut stone for offerings. A shallow basin for incense or a handful of rice. Above the
+        platform, a small relief of a dragon in flight, wings spread, worn soft by weather.</em></p>
+
+        <p><em lang="ja-Latn">It is here. It has always been here — no door hides it, no panel seals it away. But it is
+        utterly cold. The incense basin holds only grit. The little dragon overhead is grey stone and nothing more. You
+        may kneel before it, you may set an offering on the platform, you may speak a prayer into the wind — and nothing
+        will answer. The shrine is present. It is simply not awake.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-roadside-shrine-awakened"
+        data-section="read-aloud-the-roadside-shrine-awakened">Read-Aloud — The Roadside Shrine (awakened)</h4></header>
+
+        <p><em lang="ja-Latn">Something has changed at the little shrine. The relief of the dragon above the platform
+        has warmth in it now — a faint gold caught in the spread of the carved wings, the same low warmth the path&#39;s
+        heads carry. The incense basin, its grit long since swept away, seems to wait. A prayer offered here will not
+        fall into silence anymore. The shrine has remembered what it is for.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The shrine is <strong>not a reward that is unlocked or opened</strong>. It stands on the second terrace from
+        the moment the party first arrives, plain to see and free to approach. What it lacks is its prayer. The Sandō
+        has gone uncalled for so long that the shrine, like the path and everything on it, has fallen dormant. When the
+        rite of the path is completed, the shrine wakes along with everything else — and becomes able, once more, to
+        answer a pilgrim&#39;s supplication with a small blessing for the road ahead. (For the blessing&#39;s mechanics,
+        see the DM supplement <strong>The Sandō Puzzle</strong>.)</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 0
+    flags: {}
+  - _id: qrqXFXHe1cJ2WJPA
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.qrqXFXHe1cJ2WJPA'
+    name: The Eldest Pedestal — Level 1
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-eldest-pedestal-level-1" data-section="the-eldest-pedestal-level-1">The Eldest Pedestal — Level
+        1</h2>
+
+        <p><em lang="ja-Latn">The pedestal on the lowest landing. The DM may reveal this page when the party examines
+        it.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-eldest-pedestal" data-section="read-aloud-the-eldest-pedestal">Read-Aloud —
+        The Eldest Pedestal</h4></header>
+
+        <p><em lang="ja-Latn">A squared pillar of pale stone stands waist-high against the inner cliff, its top surface
+        flat and worked smooth. Two things are carved into that surface in a calligraphy worn shallow by the wind — but
+        still, with patience and a clean angle of light, legible.</em></p>
+
+        <p><em lang="ja-Latn">The first is a single line, cut deep and formal, the lettering of something meant to last
+        as long as the stone:</em></p>
+
+        <p><em lang="ja-Latn">&quot;I come without weapons of pride.&quot;</em></p>
+
+        <p><em lang="ja-Latn">The second is smaller, set off to one side like a signature. Where the first line is
+        carved into the very making of the pedestal, this one looks almost added — a name, and a year:</em></p>
+
+        <p><em lang="ja-Latn">&quot;Saitō Hagumi · year 13062.&quot;</em></p>
+
+        <p><em lang="ja-Latn">The stone is cold under your hand. But where your fingers rest in the carved grooves of
+        the letters, the cold seems a half-degree less certain than it ought to be — as though the pedestal is not dead,
+        only very deeply asleep, and dreaming faintly of being touched.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>This is the lowest of four pedestals — one set on each of the path&#39;s first four terraces. The line cut
+        deep, <em lang="ja-Latn">&quot;I come without weapons of pride,&quot;</em> is a <strong>vow</strong>, carved
+        into the pedestal when the path was made; it is the vow of this terrace, the same for every pilgrim who has ever
+        read it, and its theme is the setting-down of <em lang="ja-Latn">ego</em>. The name set lightly beside it — <em
+        lang="ja-Latn">Saitō Hagumi · 13062</em> — is something else: the record of a pilgrim who once climbed this path
+        and completed its rite. Of the four names the Sandō still carries, this is the oldest.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 0
+    flags: {}
+  - _id: 5myZ3sGQ9SQSnpjm
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.5myZ3sGQ9SQSnpjm'
+    name: The Mourner's Pedestal — Level 2
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-mourner39s-pedestal-level-2" data-section="the-mourner39s-pedestal-level-2">The Mourner&#39;s
+        Pedestal — Level 2</h2>
+
+        <p><em lang="ja-Latn">The pedestal on the second terrace, against the cliff wall opposite the Sleeping
+        Dragon&#39;s basin. The DM may reveal this page when the party examines it.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-mourner39s-pedestal"
+        data-section="read-aloud-the-mourner39s-pedestal">Read-Aloud — The Mourner&#39;s Pedestal</h4></header>
+
+        <p><em lang="ja-Latn">Against the cliff wall, across the terrace from the great basin and its buried sleeper,
+        stands a second squared pillar of pale stone — the twin of the one on the landing below. Its smooth top surface
+        carries the same two inscriptions, cut by the same long-gone hands.</em></p>
+
+        <p><em lang="ja-Latn">The deep line, formal and permanent:</em></p>
+
+        <p><em lang="ja-Latn">&quot;I come without burdens of the dead.&quot;</em></p>
+
+        <p><em lang="ja-Latn">And the lighter mark beside it, a name and a year:</em></p>
+
+        <p><em lang="ja-Latn">&quot;Tachibana Riku · year 13074.&quot;</em></p>
+
+        <p><em lang="ja-Latn">Standing here, with the sleeping shape in the basin at your back, the words seem to settle
+        differently than they would anywhere else on the mountain. The stone holds the same faint not-quite-coldness as
+        the pedestal below — a thing waiting, with great patience, to be remembered.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The second of the four pedestals. Its vow — <em lang="ja-Latn">&quot;I come without burdens of the
+        dead&quot;</em> — speaks to the setting-down of <em lang="ja-Latn">grief</em>, and its placement is deliberate:
+        a pilgrim speaks it within sight of the Sleeping Dragon, the heart of the whole path. The pilgrim-name beside
+        it, <em lang="ja-Latn">Tachibana Riku · 13074</em>, is the second-oldest the Sandō still keeps.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 0
+    flags: {}
+  - _id: rsidqMLanKAFjlX7
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.rsidqMLanKAFjlX7'
+    name: The Faithful Pedestal — Level 3
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-faithful-pedestal-level-3" data-section="the-faithful-pedestal-level-3">The Faithful Pedestal —
+        Level 3</h2>
+
+        <p><em lang="ja-Latn">The pedestal on the third terrace, standing whole among the rubble of the collapsed
+        parapet. The DM may reveal this page when the party examines it.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-faithful-pedestal" data-section="read-aloud-the-faithful-pedestal">Read-Aloud
+        — The Faithful Pedestal</h4></header>
+
+        <p><em lang="ja-Latn">Here on the wind-scoured middle terrace, where stretches of the outer parapet have
+        collapsed and the temple roofline shows above for the first time, a third squared pillar stands among the fallen
+        stone. The rubble has spared it entirely — it is undamaged, upright, its worked surface clean.</em></p>
+
+        <p><em lang="ja-Latn">The deep-cut vow:</em></p>
+
+        <p><em lang="ja-Latn">&quot;I come without doubt of the path.&quot;</em></p>
+
+        <p><em lang="ja-Latn">And the name and year set beside it:</em></p>
+
+        <p><em lang="ja-Latn">&quot;Mishima Aiko · year 13083.&quot;</em></p>
+
+        <p><em lang="ja-Latn">Whole and unbroken amid the ruin of the parapet around it, the pedestal makes its own
+        quiet argument. The same faint warmth-that-is-not-quite-warmth waits in the carved letters under your
+        hand.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The third of the four pedestals. Its vow — <em lang="ja-Latn">&quot;I come without doubt of the
+        path&quot;</em> — concerns <em lang="ja-Latn">faith</em>, and the path has arranged for it to be spoken in the
+        one place where a climber&#39;s faith might most reasonably waver: amid collapse, high and exposed, the
+        destination only now coming into view. The pilgrim-name beside it is <em lang="ja-Latn">Mishima Aiko ·
+        13083</em>.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 0
+    flags: {}
+  - _id: Dv7O1Z9zXF2tdLzc
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.Dv7O1Z9zXF2tdLzc'
+    name: The Topmost Pedestal — Level 4
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-topmost-pedestal-level-4" data-section="the-topmost-pedestal-level-4">The Topmost Pedestal —
+        Level 4</h2>
+
+        <p><em lang="ja-Latn">The highest of the four pedestals, on the upper terrace below the gold-door court. The DM
+        may reveal this page when the party examines it.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-topmost-pedestal" data-section="read-aloud-the-topmost-pedestal">Read-Aloud —
+        The Topmost Pedestal</h4></header>
+
+        <p><em lang="ja-Latn">The last of the squared pillars stands against the cliff at the inner edge of the upper
+        terrace, the gold doors of the temple now plainly visible on the level above. Its surface carries the same pair
+        of inscriptions as the three below — but the lighter of the two, the name, looks newer here. Less worn. More
+        recently set.</em></p>
+
+        <p><em lang="ja-Latn">The deep-cut vow:</em></p>
+
+        <p><em lang="ja-Latn">&quot;I come without claim upon the dragon.&quot;</em></p>
+
+        <p><em lang="ja-Latn">And beside it, the name and year:</em></p>
+
+        <p><em lang="ja-Latn">&quot;Ono Kazue · year 13087.&quot;</em></p>
+
+        <p><em lang="ja-Latn">There is room on the smooth stone beside that name — a clear, unmarked space, as though
+        the pedestal is not finished, and knows it.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The highest and last of the four pedestals. Its vow — <em lang="ja-Latn">&quot;I come without claim upon the
+        dragon&quot;</em> — concerns <em lang="ja-Latn">expectation</em>: the pilgrim arrives at the threshold asking
+        for nothing, owed nothing. The pilgrim-name beside it, <em lang="ja-Latn">Ono Kazue · 13087</em>, is the most
+        recent the Sandō carries — the last pilgrim to complete the rite before the temple fell silent. The unmarked
+        space beside the name is neither damage nor accident. The path keeps the memory of only its last four
+        pilgrim-groups, and it is waiting for the next.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 0
+    flags: {}
+  - _id: NWxYYU9JxDqn9Cuu
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.NWxYYU9JxDqn9Cuu'
+    name: The Sleeping Dragon
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-sleeping-dragon" data-section="the-sleeping-dragon">The Sleeping Dragon</h2>
+
+        <p><em lang="ja-Latn">The great coiled dragon statue cradled in the basin of the second terrace — the heart of
+        the Sandō. The DM may reveal the dormant read-aloud when the party reaches Level 2, and the awakening read-aloud
+        only at the moment the rite is completed.</em></p>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-sleeping-dragon-dormant"
+        data-section="read-aloud-the-sleeping-dragon-dormant">Read-Aloud — The Sleeping Dragon (dormant)</h4></header>
+
+        <p><em lang="ja-Latn">The second terrace opens against a deep recess in the cliff, and the recess is not
+        empty.</em></p>
+
+        <p><em lang="ja-Latn">Cradled in a basin carved from the mountain&#39;s own stone rests a shape it takes the eye
+        a moment to assemble — and then cannot un-see. A dragon. A great one, coiled around and around itself in long
+        deliberate loops, the head laid down upon the forelimbs the way a hound lays its head upon its paws, the wings
+        folded tight and flat along the back in two long seams. A dragon at rest. A dragon asleep.</em></p>
+
+        <p><em lang="ja-Latn">It is buried — truly buried. Whole ages of the mountain have settled onto it and into it.
+        Lichen the colour of rust and slate carpets every coil. Rooted plants have forced their way into the seams of
+        the folded wings and the joints between the loops. Dirt sits dark in the carved hollows; small stones have
+        nested in every concavity. To a passing glance it is a strange knuckle of weathered rock that merely happens to
+        suggest a dragon, the way a cloud happens to suggest a face.</em></p>
+
+        <p><em lang="ja-Latn">But the longer you look, the less you believe the rock. The shape is too whole. The sleep
+        is too deliberate. And the air above the basin is still — not the dead stillness of stone, but the held, even
+        stillness of something breathing very, very slowly.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-sleeping-dragon-awakening"
+        data-section="read-aloud-the-sleeping-dragon-awakening">Read-Aloud — The Sleeping Dragon
+        (awakening)</h4></header>
+
+        <p><em lang="ja-Latn">The dragon stirs.</em></p>
+
+        <p><em lang="ja-Latn">It begins as a sound more felt than heard — a deep, slow shudder running the whole length
+        of the coiled body. Then the wings move. The two long folded seams along the back begin to unfold, slowly,
+        almost silently, opening outward across the terrace — and as they rise, the burial of ages lets go. Sheets of
+        lichen and earth and rooted growth slough away and slide down into the basin in a soft, unhurried collapse, dust
+        climbing pale in the cold air.</em></p>
+
+        <p><em lang="ja-Latn">What is underneath is not stone. It was never stone. It is gold — deep, unblemished,
+        impossible gold, the scales whole and gleaming as on the day they were wrought. The lowered head lifts from the
+        forelimbs. The amber eyes open last of all, and they are warm, and they are awake, and the long sleep of the
+        Tenkū Sandō is over.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>The Sleeping Dragon is the heart of the path — the thing the entire rite of the Sandō exists to wake. It is
+        the original; the seven Watchers and the Threshold Head are its lesser kin, and the great golden statue within
+        the temple beyond the gold doors is its full-grown twin. While this dragon sleeps, the path sleeps, and the
+        temple&#39;s inner hall sleeps with it. When it wakes, all of them wake together, in a single shared breath.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 180
+    ownership:
+      default: 0
+    flags: {}
+folder: HzSqOZ2DtITdMwjw
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    slug: loc-tenku-sando
+    frontmatter:
+      name: Tenkū Sandō
+      type: shrine
+      island: hokori
+      province: pr-hana
+      tags:
+        - temple
+        - kinryu
+        - approach
+        - sando
+        - switchback
+        - puzzle
+        - tenkuji

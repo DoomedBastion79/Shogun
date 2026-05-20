@@ -4400,12 +4400,97 @@ pages:
     text:
       format: 1
       content: >-
+        <h3 id="kg-pre-rite-state-the-sleeping-hall" data-section="pre-rite-state-the-sleeping-hall">Pre-Rite State —
+        The Sleeping Hall</h3>
+
         <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
 
         <article>
 
-        <header><h4 id="kg-read-aloud-the-grand-hall" data-section="read-aloud-the-grand-hall">Read-Aloud — The Grand
-        Hall</h4></header>
+        <header><h4 id="kg-read-aloud-the-grand-hall-first-encounter-before"
+        data-section="read-aloud-the-grand-hall-first-encounter-before">Read-Aloud — The Grand Hall (First Encounter,
+        before the Sandō rite)</h4></header>
+
+        <p><em lang="ja-Latn">The passage opens and the walls fall away.</em></p>
+
+        <p><em lang="ja-Latn">The space is large enough that your light doesn&#39;t reach the far sides — the walls at
+        the edges are blue-grey shapes, barely suggestions. The ceiling is not visible at all. You are not in a room so
+        much as you are at the base of something.</em></p>
+
+        <p><em lang="ja-Latn">And at the center: stone. Or what looks like stone.</em></p>
+
+        <p><em lang="ja-Latn">A great form, coiled around a central plinth in a posture that takes a moment to read. Not
+        rearing. Not threatening. The head is lowered upon its forelimbs, the body settled as if resting, the
+        <strong>wings folded tight</strong> against the back in long deliberate seams. The shape is unmistakable — a
+        dragon at rest — but the surface has been wearing the same shroud for longer than any of you can imagine. Lichen
+        the colour of rust and slate carpets every visible scale. Rooted growth has crawled into the joints between
+        coils and into the seams between the folded wings. Dust and small stones have settled into every concavity.
+        Wind-blown dirt sits dark in the carved hollows. Two great hollows where eyes should be face out at the space
+        directly in front of them, and nothing looks back.</em></p>
+
+        <p><em lang="ja-Latn">Two pools cradle the statue, one on each flank — long, shallow C-curves of stone that
+        should hold water. They are dry. The basin floors are caked with old dust and the soft tide-marks of long-ago
+        seepage, and not a drop remains. Cold air sits over them, still.</em></p>
+
+        <p><em lang="ja-Latn">On the outer walkways, scaled bodies. Old Nagaji dead, dragged out of the way against the
+        walls and left there — a half-dozen at least, leathery and dust-veiled, their weapons scattered. Two more lie
+        much closer to the statue, fresher, the tools still in their hands.</em></p>
+
+        <p><em lang="ja-Latn">Whatever this place was, whoever raised the great form at its heart — it has gone quiet.
+        The torches in the wall sconces burn cold and unwavering, but the warm life of the chamber is absent. The stone
+        does not stir.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p><strong>DM context.</strong> The Hall is in its <strong>dust-cloaked sleeping state</strong>, twin to the
+        Sandō&#39;s Level-2 Sleeping Dragon. The great statue is gold beneath, but appears as weathered stone until the
+        Sandō rite is completed (see <code>loc-tenku-sando</code>). In this state:</p>
+
+        <ul>
+
+        <li>The statue radiates <strong>no warmth</strong>. The 30-ft cold-mitigation aura is absent.</li>
+
+        <li>The pools are <strong>dry</strong>. The pool-charge mechanic (~48 charges) is unavailable.</li>
+
+        <li>The torches <strong>still burn</strong> — the sconce-magic is foundational, continuous with the rest of the
+        temple&#39;s lighting.</li>
+
+        <li>The @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} are still present and will
+        descend as written when the statue is disturbed.</li>
+
+        <li>The Nagaji corpses on the outer walkways are as written.</li>
+
+        <li>Investigation (DC 13) at the statue&#39;s surface notes the moss is shallow-rooted, the underlying material
+        is too uniformly cool, and it rings differently when tapped — the same set of clues available at the Sandō
+        Sleeping Dragon. The party should be able to recognise the parallel.</li>
+
+        </ul>
+
+        <p><strong>The transformation (when the Sandō rite completes).</strong> Both statues wake together. In the Hall:
+        the great wings <strong>unfurl outward</strong> across the chamber in a slow, almost-silent extension; the
+        centuries of lichen, dirt, and rooted growth slough off in sheets and fall into the dry pool basins; the pools
+        fill from beneath as the basins are uncovered; the amber eyes open; warmth resumes. Run the standard Grand Hall
+        read-aloud (next section, <code>intro</code>) as the dust completes its fall.</p>
+
+        <p>After the rite, all discoveries on this page apply as written. Before the rite, only those that depend on the
+        <em lang="ja-Latn">dust-cloaked surface</em> apply (the moss reading, the wing-seams, the parallel to the
+        Sandō).</p>
+
+        <h3 id="kg-post-rite-revealed-state" data-section="post-rite-revealed-state">Post-Rite Revealed State</h3>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-grand-hall-post-rite-revealed"
+        data-section="read-aloud-the-grand-hall-post-rite-revealed">Read-Aloud — The Grand Hall (Post-Rite
+        Revealed)</h4></header>
 
         <p><em lang="ja-Latn">The passage opens and the walls fall away.</em></p>
 
@@ -4938,7 +5023,7 @@ pages:
 
         <td>1</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.5ygpApHDZ0ik8PTo]{Engo}</td>
+        <td><strong>Engo</strong></td>
 
         <td>援護 — Support</td>
 
@@ -4950,7 +5035,7 @@ pages:
 
         <td>2</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.RnJdsnzt9epOhDib]{Shukufuku}</td>
+        <td><strong>Shukufuku</strong></td>
 
         <td>祝福 — Blessing</td>
 
@@ -4962,7 +5047,7 @@ pages:
 
         <td>3</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.BaXEDSPyc7Pp1G6M]{Kaikyaku}</td>
+        <td><strong>Kaikyaku</strong></td>
 
         <td>快脚 — Swift Legs</td>
 
@@ -4974,7 +5059,7 @@ pages:
 
         <td>4</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.MbiBDOFMlEkUstWJ]{Chikara no Megumi}</td>
+        <td><strong>Chikara no Megumi</strong></td>
 
         <td>力の恵み — Gift of Strength</td>
 
@@ -4986,7 +5071,7 @@ pages:
 
         <td>5</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.7w7LolBDJRrnpoaX]{Tebayasa no Megumi}</td>
+        <td><strong>Tebayasa no Megumi</strong></td>
 
         <td>手早さの恵み — Gift of Swiftness</td>
 
@@ -4998,7 +5083,7 @@ pages:
 
         <td>6</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.IqAF3jeLmj6svjxM]{Kyōjin no Megumi}</td>
+        <td><strong>Kyōjin no Megumi</strong></td>
 
         <td>強靭の恵み — Gift of Fortitude</td>
 
@@ -5010,7 +5095,7 @@ pages:
 
         <td>7</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.sNpEDrAxlAQUnOGz]{Chie no Megumi}</td>
+        <td><strong>Chie no Megumi</strong></td>
 
         <td>知恵の恵み — Gift of Knowledge</td>
 
@@ -5022,7 +5107,7 @@ pages:
 
         <td>8</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.M95gZZvO6NNg2QAs]{Satori no Megumi}</td>
+        <td><strong>Satori no Megumi</strong></td>
 
         <td>悟りの恵み — Gift of Enlightenment</td>
 
@@ -5034,7 +5119,7 @@ pages:
 
         <td>9</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.7Bak1fAbsdzqQX3w]{Miryoku no Megumi}</td>
+        <td><strong>Miryoku no Megumi</strong></td>
 
         <td>魅力の恵み — Gift of Presence</td>
 
@@ -5046,7 +5131,7 @@ pages:
 
         <td>10</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.ufdZnLcutdavcHzO]{Yūki no Honō}</td>
+        <td><strong>Yūki no Honō</strong></td>
 
         <td>勇気の炎 — Flame of Courage</td>
 
@@ -5058,7 +5143,7 @@ pages:
 
         <td>11</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.LFtPfVKAmscGkqvt]{Inochi no Mamori}</td>
+        <td><strong>Inochi no Mamori</strong></td>
 
         <td>命の守り — Guardian of Life</td>
 
@@ -5070,7 +5155,7 @@ pages:
 
         <td>12</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.q9dC2kagnlfEeUmG]{Kegare no Tate}</td>
+        <td><strong>Kegare no Tate</strong></td>
 
         <td>穢れの盾 — Shield Against Defilement</td>
 
@@ -5082,7 +5167,7 @@ pages:
 
         <td>13</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.Q5UtJh4AXjISe6JD]{Hogo no Ma}</td>
+        <td><strong>Hogo no Ma</strong></td>
 
         <td>庇護の間 — Space of Protection</td>
 
@@ -5094,7 +5179,7 @@ pages:
 
         <td>14</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.xfbq6zMW1jZllhLt]{Shingan}</td>
+        <td><strong>Shingan</strong></td>
 
         <td>真眼 — True Eye</td>
 
@@ -5106,7 +5191,7 @@ pages:
 
         <td>15</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.WNHHgHn9g0EqH2qk]{Shinkō no Tate}</td>
+        <td><strong>Shinkō no Tate</strong></td>
 
         <td>信仰の盾 — Shield of Faith</td>
 
@@ -5118,7 +5203,7 @@ pages:
 
         <td>16</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.ewNkIQMeBm2AOjxN]{Chikara no Mamori}</td>
+        <td><strong>Chikara no Mamori</strong></td>
 
         <td>力の守り — Ward of Strength</td>
 
@@ -5130,7 +5215,7 @@ pages:
 
         <td>17</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.IVjUqOxvDn790Bb4]{Hayasa no Mamori}</td>
+        <td><strong>Hayasa no Mamori</strong></td>
 
         <td>速さの守り — Ward of Swiftness</td>
 
@@ -5142,7 +5227,7 @@ pages:
 
         <td>18</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.apM2UftA8lMN117N]{Seimei no Mamori}</td>
+        <td><strong>Seimei no Mamori</strong></td>
 
         <td>生命の守り — Ward of Life</td>
 
@@ -5154,7 +5239,7 @@ pages:
 
         <td>19</td>
 
-        <td>@UUID[Compendium.kagekuni-assistant.kagekuni-classfeatures.Item.oEnlJfz0Eff6gzHl]{Kokoro no Mamori}</td>
+        <td><strong>Kokoro no Mamori</strong></td>
 
         <td>心の守り — Ward of Heart</td>
 

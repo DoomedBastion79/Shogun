@@ -1,0 +1,94 @@
+_id: wwhlfvQuvkLc8WS5
+_key: '!items!wwhlfvQuvkLc8WS5'
+name: The Pilgrim's Office of Ōryūzan
+type: equipment
+img: icons/equipment/chest/breastplate-leather-brown.webp
+folder: YtkZQDUuYcLS8lqZ
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/items.json
+    slug: item-pilgrims-office-oryuzan
+    category: equipment
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  identifier: pilgrims-office-oryuzan
+  source:
+    book: Kagekuni Campaign
+    custom: ''
+    revision: 1
+    rules: '2024'
+  container: null
+  unidentified:
+    name: ''
+    description: >-
+      A folded silk codex, six panels long, bound in faded gold thread. The outer panel bears a single bold character —
+      登 ("ascent"). The interior is dense with vertical calligraphy in deep black ink. The silk is preserved by the same
+      Golden Dragon order craft that holds the temple's torches; it has not yellowed, and the threads have not weakened.
+  quantity: 1
+  weight:
+    value: 0.5
+    units: lb
+  price:
+    value: 0
+    denomination: gp
+  rarity: uncommon
+  identified: false
+  attunement: ''
+  attuned: false
+  uses:
+    max: ''
+    recovery: []
+    spent: 0
+  armor:
+    value: 10
+    magicalBonus: ''
+    dex: null
+  strength: 0
+  type:
+    value: trinket
+    baseItem: ''
+  properties: []
+  proficient: 0
+  equipped: false
+  description:
+    value: >
+      <p>A clan-priest&#39;s working codex of the <strong>Order of Ascent</strong> — the formal rite spoken at the head
+      of the Tenkū Sandō, the pilgrim&#39;s approach to Ōryūzan Tenkū-ji. The text records the full liturgy: the four
+      pedestal vows (already inscribed in the stones of the path), and the closing <strong>proclamation</strong> to be
+      spoken at the Threshold Head above the gold doors. The Office is brief — three lines of invocation, a single line
+      naming the dragon, a line acknowledging the path, a closing petition — but its delivery is precise.</p>
+
+      <p>This copy is preserved by the Scriptorium&#39;s foundational sei-craft. The silk is centuries old and
+      unweathered.</p>
+
+
+      <h3>Use</h3>
+
+      <p><strong>Recovery of the Order of Ascent.</strong> A character who reads the Office and speaks its closing
+      proclamation aloud before the <strong>Threshold Head</strong> on the Tenkū Sandō completes the culminating
+      component of the Sandō rite (see <code>loc-tenku-sando</code>). The Threshold Head kindles; the Sleeping Dragon on
+      Level 2 awakens; the gold beneath the centuries of accumulated grime is revealed; the dormant roadside shrine
+      behind the basin — present all along — wakes.</p>
+
+      <p>The Office is a substitute for, not in addition to, the Religion DC 18 recall check that would otherwise be
+      required to recite the rite from memory. A character carrying the Office may simply read it.</p>
+
+      <p><strong>Note.</strong> The Office only takes effect on the Sandō. Reading the closing aloud anywhere else has
+      no effect — the words are inert without the path beneath them.</p>
+    chat: ''
+effects: []
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

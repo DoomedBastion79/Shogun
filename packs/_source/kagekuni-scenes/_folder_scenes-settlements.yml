@@ -1,0 +1,11 @@
+_id: kyc4j8Li8UK52OR3
+_key: "!folders!kyc4j8Li8UK52OR3"
+name: 集落 Shuraku — Settlements
+type: Scene
+folder: yNGrlWBG1Kmw86CL
+sorting: m
+sort: 20
+color: null
+flags:
+  assistant:
+    folderPath: scenes/settlements

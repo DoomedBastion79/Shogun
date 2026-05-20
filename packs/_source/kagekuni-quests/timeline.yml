@@ -390,6 +390,40 @@ pages:
     ownership:
       default: 2
     flags: {}
+  - _id: kK3AsnypjrsihmTi
+    _key: '!journal.pages!ep2zWPFA0cFCnPxu.kK3AsnypjrsihmTi'
+    name: Kanedōchiri (Bronze-Fall Festival)
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <p><strong>Annual; late Kannazuki / early Shimotsuki</strong></p><p>Annual festival held by the villages
+        bordering the Seidōrin Mori in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        province. As the first hard cold approaches, lanterns are strung through the Bronze Wood canopy and households
+        keep watch through the night the leaves will fall — a single night when the temperature drops below threshold
+        and every leaf in the forest sheds at once. By morning, the forest floor gleams like a smithy.</p>
+
+        <p>The first leaf to fall is gathered by the eldest priest of the local shrine and held in trust until the
+        following year&#39;s festival, when it is burned at the opening rite. A late Kanedōchiri is said to portend a
+        hard winter; an early one, that the dragons sleep restless. A leaf that refuses to fall is treated as a marker
+        of the spirits&#39; regard for that tree, and no axe will touch it until the next year&#39;s drop. Licensing
+        officers do not work the forest during the festival.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 2
+    flags: {}
 folder: SwIEokv2hoSqho5O
 sort: 0
 ownership:
