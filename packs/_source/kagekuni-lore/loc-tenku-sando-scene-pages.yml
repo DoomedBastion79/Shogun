@@ -1,0 +1,986 @@
+_id: pOY59ySukjVhZJkf
+_key: '!journal!pOY59ySukjVhZJkf'
+name: Tenkū Sandō — Player Pages
+pages:
+  - _id: tRQA8DJqC4dGbiTE
+    _key: '!journal.pages!pOY59ySukjVhZJkf.tRQA8DJqC4dGbiTE'
+    name: The Celestial Approach
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--celestial-approach-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="celestial-approach">
+
+        <p>Read with quiet gravity — slow and even, as though reading an old inscription aloud for the first time. Pause
+        after the second sentence and let the image of the five levels sit before finishing on the gold.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-celestial-approach" data-section="the-celestial-approach">The Celestial
+        Approach</h4></header>
+
+        <p>The mountain track gives out, and the ground ahead becomes something made: pale cut stone in wide level
+        courses, climbing the southern face in five great terraced steps. Frost has split the tiles and centuries of
+        wind have drifted scree across them, but the bones of the thing are unmistakable — this was built, and it was
+        walked. Stone dragon-heads stand sentinel at intervals along the levels, each face turned outward over the long
+        drop, weathered nearly featureless by time; against the inner cliff, squared pillars of pale stone wait in
+        silence. Far above, at the head of it all, something gold catches the light.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--celestial-approach-watcher-kindles" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="celestial-approach">
+
+        <p><strong>The Head Wakes</strong></p>
+
+        <p>When a creature passes within roughly ten feet of one of the dragon-head statues during the ascent, something
+        stirs inside it. A soft warmth rises in the seams between the carved scales — low and golden, like a coal
+        remembering it was once a fire. The head holds this glow while the creature remains close. It asks nothing. It
+        simply seems, in some way difficult to defend aloud, glad.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--celestial-approach-pedestal-inscription" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="celestial-approach">
+
+        <p><strong>What the Pedestal Says</strong></p>
+
+        <p>The flat top surface of the squared pillar carries two inscriptions in worn calligraphy — shallow from the
+        wind, but legible with patience and a clean angle of light. The first is cut deep and formal, the lettering of
+        something meant to last as long as the stone: <em lang="ja-Latn">&quot;I come without weapons of
+        pride.&quot;</em> The second is smaller, set to one side like a signature — a name and a year: <em
+        lang="ja-Latn">&quot;Saitō Hagumi · year 13062.&quot;</em></p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--celestial-approach-pedestal-warmth" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="celestial-approach">
+
+        <p><strong>Not Quite Cold</strong></p>
+
+        <p>The stone of the pedestal is cold under the hand — but where fingers rest in the carved grooves of the
+        letters, the cold seems a half-degree less certain than it ought to be, as though the pedestal is not dead, only
+        very deeply asleep, and dreaming faintly of being touched.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 2
+    flags: {}
+  - _id: pmbT824faKPuZQTm
+    _key: '!journal.pages!pOY59ySukjVhZJkf.pmbT824faKPuZQTm'
+    name: A Watcher Head
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--watcher-head-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p>Solemn and unhurried. Read the first sentence slowly — give the scale a beat to land. Pick up a little for
+        the second sentence (the weathering detail), then slow again for the glow. On the final sentence, drop almost to
+        a murmur. The head is glad; let that land as quiet, not dramatic.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-a-watcher-head" data-section="a-watcher-head">A Watcher Head</h4></header>
+
+        <p>The head juts from a squared stone base set against the inner cliff — a dragon&#39;s head, half again the
+        height of a tall man, carved jaw to crown from a single block. It faces outward, away from the mountain, over
+        the long drop and the pass below, as though it has spent every one of its years watching the road for someone
+        climbing up.</p>
+
+        <p>Time has been strange to it. Lichen the colour of rust and old slate furs the scales; dirt has settled into
+        every carved hollow; the features are softened almost to suggestion. And yet the stone beneath the grime is not
+        cracked, not pitted, not crumbling the way the path&#39;s tiles crack and crumble around it. It has weathered
+        without truly wearing.</p>
+
+        <p>And then, as you draw near, it does a thing no weathered stone should do. A soft warmth wakes somewhere deep
+        inside the head — not a light to read a page by, but a glow, low and golden, rising in the seams between the
+        scales like a coal remembering that it was once a fire. It holds steady while you are close. It asks nothing of
+        you. It simply seems, in some way you could not quite defend aloud, glad.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-surface-integrity" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>The Surface Beneath the Grime</strong></p>
+
+        <p><strong>Investigation DC 13</strong> (or a tap, a scrape, a careful look): the moss on this head is
+        shallow-rooted — far more so than the moss on the stone tiles around it. The surface beneath is too smooth, too
+        uniform. When tapped, it rings with a tone slightly wrong for limestone or granite. Something other than stone
+        lies under the millennia of accumulation. A character who succeeds does not yet know <em
+        lang="ja-Latn">what</em> — only that this is not ordinary rock.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-kindling-condition" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>What the Kindling Answers To</strong></p>
+
+        <p>The glow responds to <em lang="ja-Latn">ascending</em> — to creatures moving upward along the path. A
+        character who backtracks past the head may notice the glow dims briefly; approaching again from below re-kindles
+        it. The head does not respond to lateral movement or to someone standing still beside it. It is watching for the
+        act of climbing, not the fact of presence.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-number-and-pattern" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>Seven Watchers</strong></p>
+
+        <p>Seven heads like this one stand along the Sandō — one on the lowest landing, two flanking the great basin on
+        the second terrace, two on the third, two on the fourth. All face outward. All kindle for the ascent.
+        <strong>Perception or Investigation DC 10</strong> to count them and map their distribution; a character who
+        does notices they are uniform in size, posture, and detail — set at intervals that feel deliberate rather than
+        decorative.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 20
+    ownership:
+      default: 2
+    flags: {}
+  - _id: mowe0y3cqxhLfaJH
+    _key: '!journal.pages!pOY59ySukjVhZJkf.mowe0y3cqxhLfaJH'
+    name: The Threshold Head
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--threshold-head-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p>Set a slower, quieter pace — almost conspiratorial. The party has just spent the whole ascent watching heads
+        kindle warmly as they passed; lean into the contrast. Read the first three sentences steadily, then pause a full
+        beat before the last sentence. Let the silence do the work.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-threshold-head" data-section="the-threshold-head">The Threshold Head</h4></header>
+
+        <p>This one stands apart — out in the open court, not set against the cliff like the others, and smaller than
+        any of the heads below. It faces inward, toward the gold doors, as though it climbed the Sandō itself long ago
+        and never looked back. Its mouth is open, the way a mouth opens in the half-second before speech. At its feet,
+        carved into the paving stones in a wide ring, runs a band of characters — most worn past reading, a handful
+        still legible at a crouch. You walk past it, and around it, and it stays cold.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-ritual-text" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>The Text-Circle</strong></p>
+
+        <p><strong>Religion DC 14.</strong> A character who crouches to study the carved characters recognises the
+        surviving fragments as pieces of a formal ritual text — a <em lang="ja-Latn">clan-priest&#39;s office</em>, the
+        kind spoken aloud as a rite of threshold. The inscription was not carved for reading. It was carved so that
+        someone with the knowledge would know <em lang="ja-Latn">what to say</em>.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-keyed-to-speech" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>What It Waits For</strong></p>
+
+        <p>Walking near the head does nothing — the warmth that rose in the Watcher Heads never comes. Observation or a
+        DC 12 Investigation check makes the distinction explicit: this head is not inert, and it is not broken. It is
+        simply waiting for something the other heads are not. The seven Watchers woke for the act of climbing. This one
+        is waiting for a <em lang="ja-Latn">voice</em>.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-gold-beneath" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>Beneath the Stone</strong></p>
+
+        <p><strong>Investigation DC 14.</strong> A character who examines the surface closely — pressing a palm to it,
+        tapping a knuckle against the scales — notices something wrong with the stone. The moss is shallow-rooted, the
+        surface beneath is too smooth and too uniform, and the material rings differently when struck: a low, dense
+        resonance, not the dull knock of weathered rock. Whatever this is made of, it is not what it appears to be.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-order-of-ascent-knowledge" class="secret
+        kg-secret-discoverable" data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>The Order of Ascent</strong></p>
+
+        <p><strong>Religion DC 18 (or monk training).</strong> A character who has already recognised the Sandō as a
+        Kinryu pilgrim-path — and who carries sufficient sacred learning — may recall the actual text of the <em
+        lang="ja-Latn">Order of Ascent</em>, the short ritual proclamation a clan-priest would speak before the
+        Threshold Head to complete the rite of the path. Monk training in a celestial order is a natural fit; strong
+        Religion proficiency is also sufficient. The character need not have a written copy — the words surface from
+        memory, the way a prayer surfaces when you are standing in the right place.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-watcher-contrast" class="secret revealed kg-secret-discoverable
+        kg-related" data-kind="related" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>The Watcher Heads</strong></p>
+
+        <p>The seven Watcher Heads on the lower levels all share the same form: large, facing outward over the drop,
+        mouths closed, set against the inner cliff. Each one kindled with a low golden warmth as the party passed — no
+        word or gesture required. The act of ascending the path was enough. This head shares none of those
+        responses.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 30
+    ownership:
+      default: 2
+    flags: {}
+  - _id: sYemZffsidVExrrW
+    _key: '!journal.pages!pOY59ySukjVhZJkf.sYemZffsidVExrrW'
+    name: The Roadside Shrine
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--roadside-shrine-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+
+        <p>Read this quietly, almost offhandedly — the shrine is easy to miss. Slow down on the final sentence and let
+        the silence do the work. The point is its presence without warmth: something that was meant to answer, and
+        doesn&#39;t.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-roadside-shrine" data-section="the-roadside-shrine">The Roadside Shrine</h4></header>
+
+        <p>Tucked into the living rock behind and below the great basin, easily overlooked against the cliff, is a small
+        shrine. A single platform of cut stone, waist-high, its surface worn smooth: the kind of waymarker a solitary
+        traveller might kneel before at any lonely crossing. A shallow basin sits at the platform&#39;s base — the kind
+        meant to hold incense or a scattering of rice — and it holds neither. Only wind-sifted grit. Above the platform,
+        carved in low relief into the face of the rock, a dragon spreads its wings in flight. The cold from the mountain
+        comes off the stone in a slow press. You may set your hand on the platform. You may leave an offering. You may
+        speak a prayer into the wind. Nothing answers.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--roadside-shrine-wayside-shrine-type" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+
+        <p><strong>A Michibata no Jinja</strong></p>
+
+        <p><strong>Religion DC 10 or traveler&#39;s experience with rural shrines.</strong> This is a <em
+        lang="ja-Latn">michibata no jinja</em> — a roadside shrine, the kind placed at mountain passes and lonely
+        crossings to shelter traveling pilgrims. A shrine of this type in active worship responds to offerings with a
+        small blessing for the road ahead. This one is present, whole, and without any warmth — it has the structure of
+        something that once answered, and the silence of something that has not been called in a very long time.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--roadside-shrine-relief-subject" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+
+        <p><strong>The Carved Relief — Kinryu</strong></p>
+
+        <p><strong>Religion DC 12 or History DC 12.</strong> The dragon spread above the platform is not decorative
+        convention — the wings in full ascent, the long spiral of the body — this is <em lang="ja-Latn">Kinryu</em>, the
+        Golden Dragon, rendered in the iconographic style of the Kinkozan clan-priests. The same subject as the great
+        sleeping shape in the basin above it. The shrine was placed here to serve pilgrims making the ascent, and it
+        watches the same thing the path was made to wake.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--roadside-shrine-dormant-state" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+
+        <p><strong>The Shrine Is Waiting</strong></p>
+
+        <p><strong>Investigation DC 13 or Religion DC 12.</strong> The shrine shows no damage, no defacement, no sign of
+        deliberate sealing or abandonment. The basin is simply empty; the stone is simply cold. Whatever kept a shrine
+        like this alive — the prayers of ascending pilgrims, the working of the path itself — has been absent for a very
+        long time. The structure is ready. The shrine is not broken. It is waiting for something the path has forgotten
+        how to receive.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 40
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 6C77BaUvuXD7khzo
+    _key: '!journal.pages!pOY59ySukjVhZJkf.6C77BaUvuXD7khzo'
+    name: The Sleeping Dragon
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--sleeping-dragon-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p>Solemn, unhurried pace — let each sentence settle before the next. When you reach the final sentence, slow
+        down further and drop your voice; the stillness is the point. Do not explain what the shape is; let the players
+        arrive at it themselves.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-sleeping-dragon" data-section="the-sleeping-dragon">The Sleeping Dragon</h4></header>
+
+        <p>The second terrace opens against a deep recess in the cliff, and the recess holds something.</p>
+
+        <p>A great shape fills the carved basin at the heart of the landing — coiled, massive, folded in on itself in
+        long deliberate loops. Lichen the colour of rust and slate carpets every surface; rooted plants have shouldered
+        into the seams; dirt and small stones have settled dark into every hollow. It is buried under whole ages of the
+        mountain.</p>
+
+        <p>The longer you look, the less you believe the rock. The shape is too whole. The sleep is too deliberate.</p>
+
+        <p>The air above the basin is perfectly still — not the dead stillness of stone, but the held, even stillness of
+        something breathing very, very slowly.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--sleeping-dragon-not-stone" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p><strong>The Surface Is Not Stone</strong></p>
+
+        <p><strong>Investigation DC 13.</strong> The moss and lichen are shallowly rooted — no deeper purchase than a
+        season&#39;s growth, despite the apparent centuries. The surface beneath is too smooth, too uniform. And when
+        tapped, it does not ring the way stone rings. The character does not yet know what it is — only that it is not
+        what it appears to be.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--sleeping-dragon-sei-sensitivity" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p><strong>Something a Sei-Sensitive Character Feels</strong></p>
+
+        <p>A Dragonborn PC or a character attuned to sei (such as Relc or Ko&#39;jiri) can sense that the basin is not
+        inert. There is a working device here — something that has not been called in a very long time — and it is not
+        dead. It is only waiting. The character cannot yet determine what shape that waiting has taken.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--sleeping-dragon-nagaji-absence" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p><strong>The Nagaji Avoid This Landing</strong></p>
+
+        <p><strong>Perception or Survival DC 11.</strong> The rest of the Sandō carries faint traces of the Nagaji&#39;s
+        centuries of use — scuff marks, worn edges, the occasional dropped scale or shed fragment. This landing has none
+        of it. Nothing has camped near the basin, rested against it, or passed close to it. The Nagaji walk this path
+        regularly, and they avoid the Sleeping Dragon entirely.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--sleeping-dragon-wings-folded" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p><strong>Wings Folded Tight</strong></p>
+
+        <p>Close examination of the buried shape reveals that the two long seams running along the back are not a trick
+        of the lichen — they are folded structures. Wings. Pressed tight against the body as a sleeping bird folds its
+        wings, waiting. Whatever holds them in that posture, it is not the weight of the accumulated debris. The debris
+        settled around the folds; the folds came first.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 50
+    ownership:
+      default: 2
+    flags: {}
+  - _id: f9HEzw2xs2fWJv9R
+    _key: '!journal.pages!pOY59ySukjVhZJkf.f9HEzw2xs2fWJv9R'
+    name: The Eldest Pedestal
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--pedestal-eldest-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p>Solemn and unhurried — read this one slowly, with a small pause between the vow line and the name. When you
+        reach the final sentence about the cold in the grooves, drop your voice just slightly and let it sit for a beat
+        before moving on. The pedestal is patient; your delivery should feel the same way.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-eldest-pedestal" data-section="the-eldest-pedestal">The Eldest Pedestal</h4></header>
+
+        <p>A squared pillar of pale stone stands waist-high against the inner cliff, its top surface flat and worked
+        smooth — a thing made for someone to stand before and read. Two carvings share that surface, worn shallow by
+        wind but legible if you hold a light at the right angle.</p>
+
+        <p>The first is cut deep and formal, the lettering of something meant to outlast the hand that carved it:</p>
+
+        <p><em lang="ja-Latn">&quot;I come without weapons of pride.&quot;</em></p>
+
+        <p>The second is smaller, set apart like a signature — a name and a year carved in a lighter hand, almost added
+        rather than made:</p>
+
+        <p><em lang="ja-Latn">&quot;Saitō Hagumi · year 13062.&quot;</em></p>
+
+        <p>The stone is cold when you rest your fingers in the carved grooves — but the cold, there in the letters, is a
+        half-degree less certain than it should be, as though the pedestal is not dead, only very deeply asleep.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--pedestal-eldest-vow-meaning" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p><strong>The Vow</strong></p>
+
+        <p>The deep-cut line — <em lang="ja-Latn">&quot;I come without weapons of pride&quot;</em> — is a
+        <strong>vow</strong>, carved into the pedestal when the path was first made. It is the vow of this terrace: the
+        same words for every pilgrim who has ever climbed past this stone, the same words that will be here for every
+        pilgrim who climbs after. Its theme is the setting-down of <em lang="ja-Latn">ego</em> — the first thing a
+        pilgrim must leave behind before the dragon will receive them.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-eldest-pilgrim-record" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p><strong>The Pilgrim Name</strong></p>
+
+        <p>The smaller inscription — <em lang="ja-Latn">Saitō Hagumi · 13062</em> — is a <strong>pilgrim
+        record</strong>: the name and year of someone who once completed the full rite of this path. This pedestal is
+        the lowest of four, one on each of the first four terraces. Of the four names the Sandō still carries, this one
+        is the oldest.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-eldest-prayer-mechanic" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p><strong>The Prayer</strong></p>
+
+        <p>The pedestal is not merely a marker — it is an act waiting to be completed. The prayer at each pedestal is
+        threefold: read the inscribed pilgrim&#39;s name aloud, speak the vow, then observe a brief moment of silence
+        with focused intent. When the pedestal accepts the prayer, it warms perceptibly under the grime. Any member of
+        the party may perform it. No skill check is required — only the doing.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-eldest-working-device" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p><strong>Not Dead Stone</strong></p>
+
+        <p>The faint warmth felt in the carved grooves is not imagination. The pedestal is a working part of the
+        path&#39;s sacred mechanism — dormant, but not inert. It has simply not been called in a very long time. A
+        character who notices the anomaly and investigates (Arcana or Religion, DC 10) understands that this is a ritual
+        fixture of some kind, not a gravestone or a boundary marker — it was built to receive something from the person
+        standing before it.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 60
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 4hzu7luvdBsI9MfR
+    _key: '!journal.pages!pOY59ySukjVhZJkf.4hzu7luvdBsI9MfR'
+    name: The Mourner's Pedestal
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--pedestal-mourner-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-mourner">
+
+        <p>Quiet and deliberate. Read the vow line slowly, as if the words are still settling into the stone. Let the
+        final sentence — the cold-that-is-not-quite-cold — trail off unhurried. No dramatic lift; this is a patient
+        thing.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-mourner39s-pedestal" data-section="the-mourner39s-pedestal">The Mourner&#39;s
+        Pedestal</h4></header>
+
+        <p>Against the cliff wall, across the terrace from the great basin and what sleeps in it, a squared pillar of
+        pale stone stands waist-high, its top surface worked flat and smooth. Two inscriptions are carved into it — one
+        deep and formal, the lettering of something meant to outlast the people who cut it:</p>
+
+        <p><em lang="ja-Latn">&quot;I come without burdens of the dead.&quot;</em></p>
+
+        <p>Beside it, set lighter, like a signature left by a different hand:</p>
+
+        <p><em lang="ja-Latn">&quot;Tachibana Riku · year 13074.&quot;</em></p>
+
+        <p>The stone is cold when you touch it — but in the carved grooves, under your fingers, the cold is a
+        half-degree less certain than it ought to be, as though the pedestal is not dead, only asleep, and the stone
+        remembers being touched.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--pedestal-mourner-vow-theme-grief" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-mourner">
+
+        <p><strong>What the Vow Asks</strong></p>
+
+        <p>The line cut deep — <em lang="ja-Latn">&quot;I come without burdens of the dead&quot;</em> — is the vow of
+        this terrace. Its theme is the setting-down of <em lang="ja-Latn">grief</em>. Its placement here, opposite the
+        great basin, is not coincidence: a pilgrim speaks these words within sight of the Sleeping Dragon, the heart of
+        the whole path, as though the path itself understood what it meant to stand before something ancient and lost
+        and still.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-mourner-prayer-form" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-mourner">
+
+        <p><strong>How the Pedestal Answers</strong></p>
+
+        <p>The pedestal is not a monument — it is a station. The prayer performed here has a form: read the
+        pilgrim&#39;s name aloud (<em lang="ja-Latn">Tachibana Riku</em>), speak the carved vow, and hold a brief
+        silence. When the act is done truly, the pedestal warms under the hand — not heat, but the absence of cold,
+        settling into the stone from within. This is the second of four such pedestals on the path.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-mourner-pilgrim-identity" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-mourner">
+
+        <p><strong>Tachibana Riku · 13074</strong></p>
+
+        <p>The name <em lang="ja-Latn">Tachibana Riku</em> and the year 13074 are the path&#39;s record of a pilgrim who
+        once climbed this road and completed its rite. Of the four names the Sandō still holds in its stone, this is the
+        second-oldest — younger only than the name on the lower landing.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 70
+    ownership:
+      default: 2
+    flags: {}
+  - _id: 5flAI7pHqXEabFgS
+    _key: '!journal.pages!pOY59ySukjVhZJkf.5flAI7pHqXEabFgS'
+    name: The Faithful Pedestal
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--pedestal-faithful-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-faithful">
+
+        <p>Solemn and unhurried. Pause after describing the fallen stone — let the contrast land before the standing
+        pillar appears. Keep your voice level and even throughout; slow only when you read the two carved lines, giving
+        each its own weight.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-faithful-pedestal" data-section="the-faithful-pedestal">The Faithful
+        Pedestal</h4></header>
+
+        <p>Where the outer parapet has given way, blocks of pale stone lie tumbled and frost-split across the terrace.
+        Among them, untouched, stands a squared pillar of pale stone — waist-high, worked smooth on top, upright as
+        though the collapse arranged itself around it rather than through it. Two things are carved into that surface in
+        a calligraphy worn shallow but legible, if you crouch to catch the right angle of grey light: a single deep-cut
+        line, <em lang="ja-Latn">&quot;I come without doubt of the path,&quot;</em> and beside it, in a lighter hand, a
+        name and a year — <em lang="ja-Latn">Mishima Aiko · year 13083</em>. When you rest your fingers in the carved
+        grooves, the stone is cold — almost. At the very bottom of that cold, something waits.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--pedestal-faithful-prayer-mechanic" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-faithful">
+
+        <p><strong>The Prayer</strong></p>
+
+        <p>The pedestal is a dormant prayer station. The rite it asks is simple: speak the inscribed pilgrim&#39;s name
+        aloud, speak the vow, and hold a moment of silence. No skill check required — the doing is the thing. When the
+        prayer is accepted, the pedestal warms perceptibly under the hand.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-faithful-vow-theme" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-faithful">
+
+        <p><strong>The Vow&#39;s Placement</strong></p>
+
+        <p>The vow — <em lang="ja-Latn">&quot;I come without doubt of the path&quot;</em> — concerns faith. Its
+        placement on the middle terrace is deliberate: this is where a climber is exposed, high above the pass, with the
+        destination only just coming into view. The path put the faith-vow here because this is where faith might most
+        naturally waver.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-faithful-third-pilgrim" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-faithful">
+
+        <p><strong>Mishima Aiko · 13083</strong></p>
+
+        <p>The name <em lang="ja-Latn">Mishima Aiko · 13083</em> is the third of four pilgrim inscriptions the Sandō
+        still carries — older than the name above, newer than the one below. The four names together are the path&#39;s
+        living memory: the last four pilgrim-groups to complete its rite, held in the stone.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 80
+    ownership:
+      default: 2
+    flags: {}
+  - _id: oh1L0Oa5zQNQoCYn
+    _key: '!journal.pages!pOY59ySukjVhZJkf.oh1L0Oa5zQNQoCYn'
+    name: The Topmost Pedestal
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--pedestal-topmost-delivery" class="secret kg-secret-sealed kg-delivery"
+        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+
+        <p>Solemn and unhurried. The doors are already in sight — frame this as a beat of near-arrival, not urgency.
+        Read the vow and the pilgrim name at carved-stone pace: formal, a touch slow. Let the final sentence land
+        without comment.</p>
+
+
+        </section>
+
+
+
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-the-topmost-pedestal" data-section="the-topmost-pedestal">The Topmost Pedestal</h4></header>
+
+        <p>The last of the squared pillars stands at the inner edge of the upper terrace, the gold doors of the temple
+        now plainly visible on the level above, close enough that their true scale is startling. The pedestal&#39;s
+        worked surface carries two lines of calligraphy. The deeper one is cut formal and permanent, in the lettering of
+        something meant to outlast the hand that made it: <em lang="ja-Latn">&quot;I come without claim upon the
+        dragon.&quot;</em> Beside it, a little apart, a name and year — <em lang="ja-Latn">Ono Kazue · year 13087</em> —
+        in shallower strokes that look less worn than any name on the pedestals below. The stone is cold under the hand.
+        And next to that name, the surface is bare: a clear, unmarked space where the carved work simply stops.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <section id="sec-loc-tenku-sando--pedestal-topmost-waiting-space" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+
+        <p><strong>The Unmarked Space</strong></p>
+
+        <p>The blank space beside <em lang="ja-Latn">Ono Kazue · 13087</em> is not erosion or damage. The path holds the
+        memory of only its last four pilgrim-groups — one name per pedestal, newest at the top, oldest at the foot. The
+        space is the path waiting for the next. The name inscribed here will belong to the group that completes the
+        rite.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-topmost-last-pilgrim" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+
+        <p><strong>Ono Kazue — The Last</strong></p>
+
+        <p><em lang="ja-Latn">Ono Kazue · 13087</em> is the most recent pilgrim the Sandō still carries — the last to
+        complete the full rite before the temple fell silent. Year 13087 places the inscription in the final decades of
+        the sei drought. After this name, no one climbed the path the way it was meant to be climbed.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-topmost-prayer-station" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+
+        <p><strong>Prayer at the Pedestal</strong></p>
+
+        <p>This is a prayer station, one of four on the ascending path. The rite: read the inscribed pilgrim&#39;s name
+        aloud, speak the vow, then hold a brief silence. When the prayer is accepted, the stone warms under the hand. No
+        check is required — only the doing.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--pedestal-topmost-cold-sensation" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+
+        <p><strong>Not Quite Cold</strong></p>
+
+        <p>A character who presses their fingers into the carved grooves finds something unsettling: the cold in those
+        grooves is a fraction less sharp than the stone around them — the way a cooking stone still holds the ghost of
+        warmth long after the fire is gone. The pedestal is not dead. It is waiting.</p>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 90
+    ownership:
+      default: 2
+    flags: {}
+folder: oLYAA6hESLi5b8aw
+sort: 0
+ownership:
+  default: 2
+flags:
+  assistant:
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    slug: loc-tenku-sando-scene-pages
+    frontmatter:
+      name: Tenkū Sandō
+      type: scene-pages
+      location: loc-tenku-sando

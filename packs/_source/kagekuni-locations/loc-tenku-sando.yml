@@ -1553,6 +1553,164 @@ pages:
     ownership:
       default: 0
     flags: {}
+  - _id: cgxxfyX3gXuNEPGp
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.cgxxfyX3gXuNEPGp'
+    name: Player Scene Pages
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando-scene-manifest" class="secret kg-secret-sealed kg-sealed-vtt-checklist"
+        data-kind="vtt-checklist" data-label="Player Scene Pages">
+
+        <p>Player-facing observation pages for this location live in the <strong>Kagekuni — Core Lore</strong>
+        compendium, under the 見聞 Kenbun folder. Pin each scene note on the map to the matching journal page.</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Player Page</th>
+
+        <th>Suggested Pin Label</th>
+
+        <th>Secrets</th>
+
+        <th>Related</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>The Celestial Approach</td>
+
+        <td>Lower Landing</td>
+
+        <td>3</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>A Watcher Head</td>
+
+        <td>Watcher Head</td>
+
+        <td>3</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Threshold Head</td>
+
+        <td>Threshold Head</td>
+
+        <td>4</td>
+
+        <td>1</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Roadside Shrine</td>
+
+        <td>Roadside Shrine</td>
+
+        <td>3</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Sleeping Dragon</td>
+
+        <td>The Sleeping Dragon</td>
+
+        <td>4</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Eldest Pedestal</td>
+
+        <td>Stone Pedestal</td>
+
+        <td>4</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Mourner&#39;s Pedestal</td>
+
+        <td>The Mourner&#39;s Pedestal</td>
+
+        <td>3</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Faithful Pedestal</td>
+
+        <td>Stone Pedestal</td>
+
+        <td>3</td>
+
+        <td>0</td>
+
+        </tr>
+
+        <tr>
+
+        <td>The Topmost Pedestal</td>
+
+        <td>Topmost Pedestal</td>
+
+        <td>4</td>
+
+        <td>0</td>
+
+        </tr>
+
+        </tbody></table>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 190
+    ownership:
+      default: 0
+    flags: {}
 folder: HzSqOZ2DtITdMwjw
 sort: 0
 ownership:
