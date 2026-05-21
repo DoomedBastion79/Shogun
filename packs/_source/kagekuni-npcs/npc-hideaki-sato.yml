@@ -13,6 +13,8 @@ prototypeToken:
   displayBars: 0
   bar1:
     attribute: attributes.hp
+  texture:
+    src: modules/kagekuni-assistant/assets/tokens/hideaki-sato.webp
 items: []
 effects: []
 folder: Stt18wvc0vHoXO9A

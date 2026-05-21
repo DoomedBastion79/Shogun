@@ -16,7 +16,7 @@ prototypeToken:
   bar2:
     attribute: null
   texture:
-    src: modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp
+    src: systems/dnd5e/tokens/dragon/GoldDragonAdult.webp
 items:
   - _id: 22EMfDOyiPGLiX1z
     _key: '!actors.items!CJnIhBQGb6n6AiTt.22EMfDOyiPGLiX1z'

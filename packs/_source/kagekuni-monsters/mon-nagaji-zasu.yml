@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/tokens/nagaji-zasu.webp
 items:
   - _id: ftvAPncoMV7ptObY
     _key: '!actors.items!cRhrQ7TL3vVUKO75.ftvAPncoMV7ptObY'

@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/tokens/nagaji-ronin.webp
 items:
   - _id: h5oCCENwqpcjtVJx
     _key: '!actors.items!hKWgLh6zVkPwtFXq.h5oCCENwqpcjtVJx'

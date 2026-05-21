@@ -13,6 +13,8 @@ prototypeToken:
   displayBars: 0
   bar1:
     attribute: attributes.hp
+  texture:
+    src: modules/kagekuni-assistant/assets/tokens/hideo-nakamura.webp
 items: []
 effects: []
 folder: dLZlMXEovqwHkdeT

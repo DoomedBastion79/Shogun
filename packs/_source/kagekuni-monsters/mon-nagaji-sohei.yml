@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: modules/kagekuni-assistant/assets/tokens/nagaji-sohei.webp
 items:
   - _id: 0CwcD8yD7IV9hguE
     _key: '!actors.items!vWu3fJlU8NZsRRGM.0CwcD8yD7IV9hguE'

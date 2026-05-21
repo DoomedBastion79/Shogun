@@ -15,6 +15,8 @@ prototypeToken:
     attribute: attributes.hp
   bar2:
     attribute: null
+  texture:
+    src: systems/dnd5e/tokens/beast/SwarmRats.webp
 items:
   - _id: qLa4O3na6UdNKYHo
     _key: '!actors.items!lPwFsViCtm8VeV8u.qLa4O3na6UdNKYHo'

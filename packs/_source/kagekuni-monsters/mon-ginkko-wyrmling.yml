@@ -16,7 +16,7 @@ prototypeToken:
   bar2:
     attribute: null
   texture:
-    src: modules/kagekuni-assistant/assets/monsters/ginkko-wyrmling.webp
+    src: systems/dnd5e/tokens/dragon/SilverDragonWyrmling.webp
 items:
   - _id: ix6B6211zXAx13Yu
     _key: '!actors.items!Kg896xKPYngqiavd.ix6B6211zXAx13Yu'

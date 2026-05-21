@@ -16,7 +16,7 @@ prototypeToken:
   bar2:
     attribute: null
   texture:
-    src: modules/kagekuni-assistant/assets/monsters/akakko-wyrmling.webp
+    src: systems/dnd5e/tokens/dragon/RedDragonWyrmling.webp
 items:
   - _id: T208lhI36Ltym1Sk
     _key: '!actors.items!o63dYhqlbKpG3Zoh.T208lhI36Ltym1Sk'
