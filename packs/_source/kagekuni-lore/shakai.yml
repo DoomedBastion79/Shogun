@@ -202,11 +202,13 @@ pages:
         class but a gradient, and the distinctions within it matter enormously to those who live them.</p>
 
         <p>At the top sit <strong>samurai</strong> in active service — warriors sworn to a lord, carrying the authority
-        of their clan. Below them, <strong>rōnin</strong> — masterless samurai — occupy an uncomfortable middle ground:
-        they retain the right to carry weapons but lack the social anchor of a lord&#39;s name. Below rōnin come
-        <strong>peasants</strong>, who work the land and form the backbone of the food supply. <strong>Artisans</strong>
-        follow — craftspeople whose skills are valued but whose social standing reflects the society&#39;s bias toward
-        land and loyalty over craft. At the very bottom of the Zokumin sit <strong>merchants</strong>.</p>
+        of their clan. Below them,
+        <strong>@UUID[Compendium.kagekuni-assistant.monsters.Actor.sqJ9p3AQwB0n2C6G]{rōnin}</strong> — masterless
+        samurai — occupy an uncomfortable middle ground: they retain the right to carry weapons but lack the social
+        anchor of a lord&#39;s name. Below rōnin come <strong>peasants</strong>, who work the land and form the backbone
+        of the food supply. <strong>Artisans</strong> follow — craftspeople whose skills are valued but whose social
+        standing reflects the society&#39;s bias toward land and loyalty over craft. At the very bottom of the Zokumin
+        sit <strong>merchants</strong>.</p>
 
         <p>This last distinction is the source of chronic social tension. Merchants often possess considerable wealth —
         in some cases more than the samurai who look down on them. But wealth without rank buys comfort, not respect. A
@@ -458,9 +460,11 @@ pages:
     text:
       format: 1
       content: >
-        <p>The current political vacuum has produced a surge in <strong>rōnin</strong> — masterless samurai — at numbers
-        not seen in living memory. Some lost their lords to the war. Others served clans that dissolved during the
-        upheaval. Some walked away by choice, unable to reconcile their duty with their conscience.</p>
+        <p>The current political vacuum has produced a surge in
+        <strong>@UUID[Compendium.kagekuni-assistant.monsters.Actor.sqJ9p3AQwB0n2C6G]{rōnin}</strong> — masterless
+        samurai — at numbers not seen in living memory. Some lost their lords to the war. Others served clans that
+        dissolved during the upheaval. Some walked away by choice, unable to reconcile their duty with their
+        conscience.</p>
 
         <p>Rōnin are a destabilising force. They retain the right to bear arms and the training to use them, but lack
         the social anchor of a lord&#39;s authority. Some seek new masters. Some sell their swords. Some turn to

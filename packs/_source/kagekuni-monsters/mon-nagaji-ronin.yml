@@ -1,0 +1,541 @@
+_id: hKWgLh6zVkPwtFXq
+_key: '!actors!hKWgLh6zVkPwtFXq'
+name: Nagaji Rōnin
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Nagaji Rōnin
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: h5oCCENwqpcjtVJx
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.h5oCCENwqpcjtVJx'
+    name: Masterless Scale
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: The Nagaji rōnin has advantage on saving throws against being frightened.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: Lbj5Ll0FwtnEnTne
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.Lbj5Ll0FwtnEnTne'
+    name: Iridescent Scales
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: The rōnin has advantage on saving throws against spells and magical effects that deal acid or poison damage.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: bkd9TJkgCjNFN15r
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.bkd9TJkgCjNFN15r'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 200
+    system:
+      description:
+        value: The Nagaji rōnin makes two Katana attacks.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: 7E3vjBnnXsWnaZ9D
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.7E3vjBnnXsWnaZ9D'
+    name: Katana
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: katana
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 10
+          bonus: '3'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: uW7HTSv2vZ80oOCy
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.uW7HTSv2vZ80oOCy'
+    name: Void Strike
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 400
+    system:
+      description:
+        value: Recharge 5–6. The rōnin channels desperation into a lethal stroke.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: void-strike
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 4
+          denomination: 6
+          bonus: '3'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: TGp9mDAGH7VdH7B9
+    _key: '!actors.items!hKWgLh6zVkPwtFXq.TGp9mDAGH7VdH7B9'
+    name: Cunning Parry
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 500
+    system:
+      description:
+        value: >-
+          The rōnin adds 2 to its AC against one melee attack that would hit it. To do so, it must see the attacker and
+          be wielding a melee weapon.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: vpQj8SzmaX00b9VK
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-nagaji-ronin
+    category: nagaji
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 16
+      proficient: 1
+    dex:
+      value: 14
+      proficient: 0
+    con:
+      value: 15
+      proficient: 0
+    int:
+      value: 10
+      proficient: 0
+    wis:
+      value: 12
+      proficient: 0
+    cha:
+      value: 10
+      proficient: 0
+  attributes:
+    ac:
+      flat: 14
+      calc: flat
+      formula: ''
+    hp:
+      value: 65
+      max: 65
+      formula: 10d8 + 20
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 30
+      fly: 0
+      swim: 0
+      climb: 0
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 60
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+    spellcasting: ''
+  details:
+    biography:
+      value: >
+        <p>A Nagaji soldier who has been cast out, fled their post, or outlived the unit they served. Nagaji rōnin are
+        rarer than their human counterparts — the hive-minded discipline of Nagaji culture makes desertion both rare and
+        deeply shameful — but they exist at the margins of the Nagaji presence in the mountains, often more dangerous
+        than rank-and-file because they have learned to survive without the support of a squad.</p>
+
+        <h3>Tactics</h3>
+
+        <p>A Nagaji rōnin fights alone and knows it. It uses Cunning Parry to absorb incoming hits and targets the most
+        dangerous opponent first. Unlike standard Nagaji, it will retreat if the odds turn sharply — survival instinct
+        replaces formation discipline.</p>
+      public: ''
+    alignment: Any Non-Good
+    cr: 3
+    xp:
+      value: 700
+    type:
+      value: humanoid
+      subtype: ''
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    athletics:
+      value: 5
+    stealth:
+      value: 4
+    perception:
+      value: 3
+  traits:
+    size: med
+    languages:
+      value: []
+      custom: Common, Draconic
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null

@@ -1179,8 +1179,9 @@ pages:
 
         <p>The party was ambushed overnight by bandits on the Emperor&#39;s Highway north of
         @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.Zk6QD9Sdfud4SuRV]{Heian}. The attack was repelled. During
-        the aftermath, a letter was found concealed on the body of the bandit leader — written in an unfamiliar language
-        and clearly of some significance, given the care taken to hide it.</p>
+        the aftermath, a letter was found concealed on the body of the
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.OhlOqP85hLEMFMEj]{bandit} leader — written in an unfamiliar
+        language and clearly of some significance, given the care taken to hide it.</p>
 
         <p>The letter was subsequently translated. Its contents are a set of directional instructions — a treasure
         location cipher, written in obscure but decipherable terms — pointing toward a hidden cache or discovery of

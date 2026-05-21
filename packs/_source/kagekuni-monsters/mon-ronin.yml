@@ -1,0 +1,521 @@
+_id: sqJ9p3AQwB0n2C6G
+_key: '!actors!sqJ9p3AQwB0n2C6G'
+name: Rōnin
+type: npc
+img: icons/svg/mystery-man.svg
+prototypeToken:
+  name: Rōnin
+  displayName: 20
+  displayBars: 40
+  actorLink: false
+  width: 1
+  height: 1
+  disposition: -1
+  bar1:
+    attribute: attributes.hp
+  bar2:
+    attribute: null
+items:
+  - _id: 9xkuuMnhPT2YpDeX
+    _key: '!actors.items!sqJ9p3AQwB0n2C6G.9xkuuMnhPT2YpDeX'
+    name: Masterless Fury
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 0
+    system:
+      description:
+        value: >-
+          When the rōnin is reduced to 0 hit points, it can use its reaction to make one melee weapon attack before
+          falling unconscious.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: ''
+        cost: null
+    effects: []
+    flags: {}
+  - _id: pAoj8USBMtG90V3n
+    _key: '!actors.items!sqJ9p3AQwB0n2C6G.pAoj8USBMtG90V3n'
+    name: Multiattack
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 100
+    system:
+      description:
+        value: The rōnin makes two Katana attacks.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: action
+        cost: 1
+    effects: []
+    flags: {}
+  - _id: gh8sssT1NNRAyIMs
+    _key: '!actors.items!sqJ9p3AQwB0n2C6G.gh8sssT1NNRAyIMs'
+    name: Katana
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 200
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: katana
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 10
+          bonus: '3'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: oBV6HSZRaFeu8stY
+    _key: '!actors.items!sqJ9p3AQwB0n2C6G.oBV6HSZRaFeu8stY'
+    name: Decisive Strike
+    type: weapon
+    img: icons/weapons/swords/sword-katana.webp
+    sort: 300
+    system:
+      description:
+        value: Recharge 5–6. The rōnin channels desperate precision into a single devastating blow.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: decisive-strike
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialM
+        baseItem: ''
+      damage:
+        base:
+          number: 3
+          denomination: 10
+          bonus: '3'
+          types:
+            - slashing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 5
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: str
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: melee
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - _id: r8ZZePebxpgzSeAz
+    _key: '!actors.items!sqJ9p3AQwB0n2C6G.r8ZZePebxpgzSeAz'
+    name: Parry
+    type: feat
+    img: icons/svg/aura.svg
+    sort: 400
+    system:
+      description:
+        value: >-
+          The rōnin adds 2 to its AC against one melee attack that would hit it. To do so, the rōnin must see the
+          attacker and be wielding a melee weapon.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+      type:
+        value: monster
+      activation:
+        type: reaction
+        cost: 1
+    effects: []
+    flags: {}
+effects: []
+folder: null
+sort: 0
+ownership:
+  default: 0
+flags:
+  assistant:
+    sourcePath: canon/monsters.json
+    slug: mon-ronin
+    category: humanoid
+    hasStatblock: true
+  dnd5e:
+    riders:
+      activity: []
+      effect: []
+system:
+  abilities:
+    str:
+      value: 16
+      proficient: 1
+    dex:
+      value: 12
+      proficient: 0
+    con:
+      value: 15
+      proficient: 1
+    int:
+      value: 10
+      proficient: 0
+    wis:
+      value: 11
+      proficient: 0
+    cha:
+      value: 10
+      proficient: 0
+  attributes:
+    ac:
+      flat: 15
+      calc: flat
+      formula: ''
+    hp:
+      value: 52
+      max: 52
+      formula: 8d8 + 16
+      temp: 0
+      tempmax: 0
+    movement:
+      walk: 30
+      fly: 0
+      swim: 0
+      climb: 0
+      burrow: 0
+      units: ft
+      hover: false
+    senses:
+      darkvision: 0
+      blindsight: 0
+      tremorsense: 0
+      truesight: 0
+      units: ft
+      special: ''
+    spellcasting: ''
+  details:
+    biography:
+      value: >
+        <p>A samurai without a master — their lord slain, their clan destroyed, or their own conduct stripping them of
+        station. Most rōnin are not criminals by intent; they are warriors without purpose, reduced to selling their
+        skill. Some become decent mercenaries. Some become dangerous.</p>
+
+        <h3>Tactics</h3>
+
+        <p>A rōnin fights with trained precision — multiattack with a katana, careful footwork, and a Decisive Strike
+        held in reserve for when a kill matters. Unlike bandits they do not rout easily; pride and desperation read the
+        same on a masterless swordsman.</p>
+      public: ''
+    alignment: Any
+    cr: 2
+    xp:
+      value: 450
+    type:
+      value: humanoid
+      subtype: ''
+      swarm: ''
+      custom: ''
+    source:
+      book: Kagekuni Campaign
+      custom: ''
+  skills:
+    athletics:
+      value: 5
+    perception:
+      value: 2
+  traits:
+    size: med
+    languages:
+      value: []
+      custom: Common
+    dr:
+      value: []
+      custom: ''
+    di:
+      value: []
+      custom: ''
+    dv:
+      value: []
+      custom: ''
+    ci:
+      value: []
+      custom: ''
+  currency:
+    pp: 0
+    gp: 1
+    ep: 0
+    sp: 6
+    cp: 15
+_stats:
+  systemId: dnd5e
+  systemVersion: 5.3.1
+  coreVersion: '14.359'
+  createdTime: null
+  modifiedTime: null
+  lastModifiedBy: null
+  compendiumSource: null
+  duplicateSource: null
