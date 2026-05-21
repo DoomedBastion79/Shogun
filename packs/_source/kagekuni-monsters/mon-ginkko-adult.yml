@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: UBOPCgJ9AUnoWbLt
-    _key: '!actors.items!UBOPCgJ9AUnoWbLt'
+    _key: '!actors.items!0EXXplMpIWrERLQq.UBOPCgJ9AUnoWbLt'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: ssDev1upTcW8CwOc
-    _key: '!actors.items!ssDev1upTcW8CwOc'
+    _key: '!actors.items!0EXXplMpIWrERLQq.ssDev1upTcW8CwOc'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: xmDN5e6vpAZj6QDh
-    _key: '!actors.items!xmDN5e6vpAZj6QDh'
+    _key: '!actors.items!0EXXplMpIWrERLQq.xmDN5e6vpAZj6QDh'
     name: No Shadow
     type: feat
     img: icons/svg/aura.svg
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: Y5VWINdhNCLTZYEC
-    _key: '!actors.items!Y5VWINdhNCLTZYEC'
+    _key: '!actors.items!0EXXplMpIWrERLQq.Y5VWINdhNCLTZYEC'
     name: Pattern-Sight
     type: feat
     img: icons/svg/aura.svg
@@ -93,7 +93,7 @@ items:
     effects: []
     flags: {}
   - _id: 71PiCfZYRzKHlqiJ
-    _key: '!actors.items!71PiCfZYRzKHlqiJ'
+    _key: '!actors.items!0EXXplMpIWrERLQq.71PiCfZYRzKHlqiJ'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -112,7 +112,7 @@ items:
     effects: []
     flags: {}
   - _id: GQJBLzRpBJv0XrYc
-    _key: '!actors.items!GQJBLzRpBJv0XrYc'
+    _key: '!actors.items!0EXXplMpIWrERLQq.GQJBLzRpBJv0XrYc'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -271,7 +271,7 @@ items:
           activity: []
           effect: []
   - _id: jztbq9kQft9olL10
-    _key: '!actors.items!jztbq9kQft9olL10'
+    _key: '!actors.items!0EXXplMpIWrERLQq.jztbq9kQft9olL10'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -430,7 +430,7 @@ items:
           activity: []
           effect: []
   - _id: D7AgHWyxRhsAcfK7
-    _key: '!actors.items!D7AgHWyxRhsAcfK7'
+    _key: '!actors.items!0EXXplMpIWrERLQq.D7AgHWyxRhsAcfK7'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -589,7 +589,7 @@ items:
           activity: []
           effect: []
   - _id: 4K741xXjn1a03Unb
-    _key: '!actors.items!4K741xXjn1a03Unb'
+    _key: '!actors.items!0EXXplMpIWrERLQq.4K741xXjn1a03Unb'
     name: Starbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -610,7 +610,7 @@ items:
     effects: []
     flags: {}
   - _id: lGhzpamK2KS3FCou
-    _key: '!actors.items!lGhzpamK2KS3FCou'
+    _key: '!actors.items!0EXXplMpIWrERLQq.lGhzpamK2KS3FCou'
     name: Constellation Echo
     type: feat
     img: icons/svg/aura.svg
@@ -631,7 +631,7 @@ items:
     effects: []
     flags: {}
   - _id: OI6AE5BWbX2eJzt4
-    _key: '!actors.items!OI6AE5BWbX2eJzt4'
+    _key: '!actors.items!0EXXplMpIWrERLQq.OI6AE5BWbX2eJzt4'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -650,7 +650,7 @@ items:
     effects: []
     flags: {}
   - _id: Ggjhvd2R9GT1pigK
-    _key: '!actors.items!Ggjhvd2R9GT1pigK'
+    _key: '!actors.items!0EXXplMpIWrERLQq.Ggjhvd2R9GT1pigK'
     name: Tail Lash (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -669,7 +669,7 @@ items:
     effects: []
     flags: {}
   - _id: 8j8bRkjVndWIMbaA
-    _key: '!actors.items!8j8bRkjVndWIMbaA'
+    _key: '!actors.items!0EXXplMpIWrERLQq.8j8bRkjVndWIMbaA'
     name: Star-Mark (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -751,6 +751,7 @@ system:
       truesight: 30
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -835,6 +836,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 14
+    ep: 0
+    sp: 45
+    cp: 80
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

@@ -7,7 +7,7 @@ pages:
     name: Welcome to Kagekuni
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -47,7 +47,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: annai
     frontmatter:
       name: 案内 Annai — Welcome

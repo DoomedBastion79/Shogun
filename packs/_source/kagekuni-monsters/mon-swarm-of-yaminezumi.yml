@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: qLa4O3na6UdNKYHo
-    _key: '!actors.items!qLa4O3na6UdNKYHo'
+    _key: '!actors.items!lPwFsViCtm8VeV8u.qLa4O3na6UdNKYHo'
     name: Shadow-Touched
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: e8hzyH8SvqhIcsmk
-    _key: '!actors.items!e8hzyH8SvqhIcsmk'
+    _key: '!actors.items!lPwFsViCtm8VeV8u.e8hzyH8SvqhIcsmk'
     name: Swarm
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: RNUzSmoWBagPjKdr
-    _key: '!actors.items!RNUzSmoWBagPjKdr'
+    _key: '!actors.items!lPwFsViCtm8VeV8u.RNUzSmoWBagPjKdr'
     name: Keen Smell
     type: feat
     img: icons/svg/aura.svg
@@ -76,7 +76,7 @@ items:
     effects: []
     flags: {}
   - _id: FAZsvK8nWWlxInCF
-    _key: '!actors.items!FAZsvK8nWWlxInCF'
+    _key: '!actors.items!lPwFsViCtm8VeV8u.FAZsvK8nWWlxInCF'
     name: Yami no Kiba (Dark Fangs)
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -298,6 +298,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >-
@@ -365,6 +366,12 @@ system:
         - restrained
         - stunned
       custom: ''
+  currency:
+    pp: 0
+    gp: 0
+    ep: 0
+    sp: 0
+    cp: 0
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

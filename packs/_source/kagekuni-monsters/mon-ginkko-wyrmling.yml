@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/ginkko-wyrmling.webp
 items:
   - _id: ix6B6211zXAx13Yu
-    _key: '!actors.items!ix6B6211zXAx13Yu'
+    _key: '!actors.items!Kg896xKPYngqiavd.ix6B6211zXAx13Yu'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: BmA0PluhjJlzkLRF
-    _key: '!actors.items!BmA0PluhjJlzkLRF'
+    _key: '!actors.items!Kg896xKPYngqiavd.BmA0PluhjJlzkLRF'
     name: No Shadow
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: lh7N4ePtCn3vjrNB
-    _key: '!actors.items!lh7N4ePtCn3vjrNB'
+    _key: '!actors.items!Kg896xKPYngqiavd.lh7N4ePtCn3vjrNB'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -216,7 +216,7 @@ items:
           activity: []
           effect: []
   - _id: MTw4QUNcyaYrwKnw
-    _key: '!actors.items!MTw4QUNcyaYrwKnw'
+    _key: '!actors.items!Kg896xKPYngqiavd.MTw4QUNcyaYrwKnw'
     name: Starbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -297,6 +297,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -350,6 +351,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

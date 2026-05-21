@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: DEcHJWRpYdkCzBJo
-    _key: '!actors.items!DEcHJWRpYdkCzBJo'
+    _key: '!actors.items!OGA1LtjRQuabbHHR.DEcHJWRpYdkCzBJo'
     name: Devil's Sight
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: Z3qP2Kky4RjrzvqJ
-    _key: '!actors.items!Z3qP2Kky4RjrzvqJ'
+    _key: '!actors.items!OGA1LtjRQuabbHHR.Z3qP2Kky4RjrzvqJ'
     name: Sei Conduit
     type: feat
     img: icons/svg/aura.svg
@@ -55,14 +55,14 @@ items:
     effects: []
     flags: {}
   - _id: mZhTOqILokNtC7QG
-    _key: '!actors.items!mZhTOqILokNtC7QG'
+    _key: '!actors.items!OGA1LtjRQuabbHHR.mZhTOqILokNtC7QG'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
     sort: 200
     system:
       description:
-        value: The kannushi makes two Shinsei no Dageki attacks.
+        value: The kannushi makes two Shinsei no Dageki attacks, or two Shinsei no Ya attacks.
         chat: ''
       source:
         book: Kagekuni Campaign
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: q3b8yjTCbHgwyP9C
-    _key: '!actors.items!q3b8yjTCbHgwyP9C'
+    _key: '!actors.items!OGA1LtjRQuabbHHR.q3b8yjTCbHgwyP9C'
     name: Shinsei no Dageki (Divine Strike)
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -232,6 +232,1461 @@ items:
         riders:
           activity: []
           effect: []
+  - _id: W4Q6JPFLu7HTpVRs
+    _key: '!actors.items!OGA1LtjRQuabbHHR.W4Q6JPFLu7HTpVRs'
+    name: Shinsei no Ya (Divine Bolt)
+    type: weapon
+    img: icons/weapons/bows/longbow-recurve.webp
+    sort: 400
+    system:
+      description:
+        value: The kannushi looses a bolt of channelled sei at a distant foe.
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: shinsei-no-ya-divine-bolt
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialR
+        baseItem: ''
+      damage:
+        base:
+          number: 2
+          denomination: 6
+          bonus: '4'
+          types:
+            - necrotic
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 60
+        long: null
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: dex
+            bonus: '7'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: ranged
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - name: Scale Mail
+    system:
+      description:
+        value: ''
+        chat: ''
+      price:
+        value: 50
+        denomination: gp
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      identified: true
+      unidentified:
+        description: ''
+      container: null
+      quantity: 1
+      weight:
+        value: 45
+        units: lb
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      cover: null
+      crewed: false
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      armor:
+        value: 14
+        magicalBonus: null
+        dex: 2
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      type:
+        value: medium
+        baseItem: scalemail
+      properties:
+        - stealthDisadvantage
+      speed:
+        value: null
+        conditions: ''
+      strength: null
+      proficient: null
+      activities: {}
+      identifier: scale-mail
+    _id: wpYNQJd4F7TbXlK5
+    type: equipment
+    folder: null
+    img: icons/equipment/chest/breastplate-banded-steel.webp
+    effects: []
+    sort: 500
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.wpYNQJd4F7TbXlK5'
+  - name: Sacred Flame
+    system:
+      description:
+        value: >-
+          <p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a
+          Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or
+          Three-Quarters Cover for this save.</p><p><strong>Cantrip Upgrade.</strong> The damage increases by 1d8 when
+          you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          choice: false
+          count: '1'
+          type: creature
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '60'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: evo
+      properties:
+        - vocal
+        - somatic
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dTJW1b6fCd5TyMEa:
+          type: save
+          name: ''
+          _id: dTJW1b6fCd5TyMEa
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          damage:
+            parts:
+              - custom:
+                  enabled: false
+                  formula: ''
+                number: 1
+                denomination: '8'
+                bonus: ''
+                types:
+                  - radiant
+                scaling:
+                  mode: whole
+            onSave: none
+          save:
+            ability: dex
+            dc:
+              calculation: spellcasting
+              formula: ''
+          img: ''
+          appliedEffects: []
+      identifier: sacred-flame
+    _id: 2wyIRZ88jgUgesPZ
+    type: spell
+    img: icons/magic/fire/projectile-embers-orange.webp
+    effects: []
+    folder: null
+    sort: 600
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.2wyIRZ88jgUgesPZ'
+  - name: Thaumaturgy
+    system:
+      description:
+        value: >-
+          <p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast
+          this spell multiple times, you can have up to three of its 1-minute effects active at a
+          time.</p><p><strong>Altered Eyes.</strong> You alter the appearance of your eyes for 1
+          minute.</p><p><strong>Booming Voice.</strong> Your voice booms up to three times as loud as normal for 1
+          minute. For the duration, you have Advantage on [[/check ability=cha skill=itm]] checks.</p><p><strong>Fire
+          Play.</strong> You cause flames to flicker, brighten, dim, or change color for 1
+          minute.</p><p><strong>Invisible Hand.</strong> You instantaneously cause an unlocked door or window to fly
+          open or slam shut.</p><p><strong>Phantom Sound.</strong> You create an instantaneous sound that originates
+          from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous
+          whispers.</p><p><strong>Tremors.</strong> You cause harmless tremors in the ground for 1 minute.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+        revision: 2
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+          count: ''
+          type: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '30'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: trs
+      properties:
+        - vocal
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        q83milmNAKF9cymI:
+          type: utility
+          _id: q83milmNAKF9cymI
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects:
+            - _id: WUkq6HS8v9DK6fQz
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          roll:
+            prompt: false
+            visible: false
+            name: ''
+            formula: ''
+          name: ''
+          img: ''
+          appliedEffects: []
+      identifier: thaumaturgy
+    _id: 0cwlKrkQniE2Au7k
+    type: spell
+    img: icons/environment/people/cleric-orange.webp
+    effects: []
+    folder: null
+    sort: 700
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!OGA1LtjRQuabbHHR.0cwlKrkQniE2Au7k'
+  - name: Command
+    system:
+      description:
+        value: >-
+          <p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom
+          saving throw or follow the command on its next turn. Choose the command from these
+          options:</p><p><strong>Approach.</strong> The target moves toward you by the shortest and most direct route,
+          ending its turn if it moves within 5 feet of you.</p><p><strong>Drop.</strong> The target drops whatever it is
+          holding and then ends its turn.</p><p><strong>Flee.</strong> The target spends its turn moving away from you
+          by the fastest available means.</p><p><strong>Grovel.</strong> The target has the Prone condition and then
+          ends its turn.</p><p><strong>Halt.</strong> On its turn, the target doesn't move and takes no action or Bonus
+          Action.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can affect one additional creature for
+          each spell slot level above 1.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          type: creature
+          count: '@item.level'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '60'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 1
+      school: enc
+      properties:
+        - vocal
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: command
+    _id: Rw2HB33GNiWRf9ip
+    type: spell
+    img: icons/magic/sonic/scream-wail-shout-teal.webp
+    effects: []
+    folder: null
+    sort: 800
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.Rw2HB33GNiWRf9ip'
+  - name: Inflict Wounds
+    system:
+      description:
+        value: >-
+          <p>A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or
+          half as much damage on a successful one.</p><p><strong>Using a Higher-Level Spell Slot.</strong> The damage
+          increases by 1d10 for each spell slot level above 1.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          type: creature
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: touch
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 1
+      school: nec
+      properties:
+        - vocal
+        - somatic
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts:
+              - number: 2
+                denomination: 10
+                bonus: ''
+                types:
+                  - necrotic
+                custom:
+                  enabled: false
+                  formula: ''
+                scaling:
+                  mode: whole
+                  number: 1
+                  formula: ''
+          save:
+            ability: con
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: inflict-wounds
+    _id: M1vOjfXMr8NXVfpb
+    type: spell
+    img: icons/skills/wounds/injury-pain-body-orange.webp
+    effects: []
+    folder: null
+    sort: 900
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.M1vOjfXMr8NXVfpb'
+  - name: Shield of Faith
+    system:
+      description:
+        value: >-
+          <p>A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the
+          duration.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: bonus
+        condition: ''
+        value: null
+      duration:
+        value: '10'
+        units: minute
+      target:
+        affects:
+          type: creature
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '60'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 1
+      school: abj
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a prayer scroll
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: LObm7lj1VH4fF1Al
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: shield-of-faith
+    _id: 9unXlLX5T4cJX4xt
+    type: spell
+    img: icons/magic/holy/barrier-shield-winged-cross.webp
+    effects: []
+    folder: null
+    sort: 1000
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.9unXlLX5T4cJX4xt'
+  - name: Hold Person
+    system:
+      description:
+        value: "<p>Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the &amp;Reference[paralyzed apply=false] condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can target one additional Humanoid for each spell slot level above\_2.</p>"
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          type: creature
+          count: '@item.level - 1'
+          choice: false
+        template:
+          units: ''
+          contiguous: false
+      range:
+        value: '60'
+        units: ft
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: enc
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a straight piece of iron
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: PklwZi3SKQ3JU2M2
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: hold-person
+    _id: xPk5Xg2orgfCjD7K
+    type: spell
+    img: icons/magic/control/encase-creature-humanoid-hold.webp
+    effects: []
+    folder: null
+    sort: 1100
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.xPk5Xg2orgfCjD7K'
+  - name: Spiritual Weapon
+    system:
+      description:
+        value: >-
+          <p>You create a floating, spectral force that resembles a weapon of your choice and lasts for the duration.
+          The force appears within range in a space of your choice, and you can immediately make one melee spell attack
+          against one creature within 5 feet of the force. On a hit, the target takes Force damage equal to 1d8 plus
+          your spellcasting ability modifier.</p><p>As a Bonus Action on your later turns, you can move the force up to
+          20 feet and repeat the attack against a creature within 5 feet of it.</p><p><strong>Using a Higher-Level Spell
+          Slot.</strong> The damage increases by 1d8 for every slot level above 2.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: bonus
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          type: space
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ft
+          contiguous: false
+          type: ''
+      range:
+        value: '60'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: evo
+      properties:
+        - vocal
+        - somatic
+        - concentration
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: summon
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          bonuses:
+            ac: ''
+            hd: ''
+            hp: ''
+            attackDamage: ''
+            saveDamage: ''
+            healing: ''
+          creatureSizes: []
+          creatureTypes: []
+          match:
+            proficiency: true
+            attacks: true
+            saves: false
+            ability: ''
+          profiles:
+            - count: ''
+              name: ''
+              _id: Nz3W2vDYmMsyP8Yb
+              uuid: Compendium.dnd5e.actors24.Actor.phbsplSpiritualW
+              level:
+                min: null
+                max: null
+              types: []
+          summon:
+            identifier: ''
+            mode: ''
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          sort: 0
+          name: ''
+      identifier: spiritual-weapon
+    _id: lEOzLbzc2VKJ0AZL
+    type: spell
+    img: icons/weapons/axes/axe-double-gold.webp
+    effects: []
+    folder: null
+    sort: 1200
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.lEOzLbzc2VKJ0AZL'
+  - name: Spirit Guardians
+    system:
+      description:
+        value: >-
+          <p>Protective spirits flit around you in a 15-foot Emanation for the duration. If you are good or neutral,
+          their spectral form appears angelic or fey (your choice). If you are evil, they appear fiendish.</p><p>When
+          you cast this spell, you can designate creatures to be unaffected by it. Any other creature's Speed is halved
+          in the Emanation, and whenever the Emanation enters a creature's space and whenever a creature enters the
+          Emanation or ends its turn there, the creature must make a Wisdom saving throw. On a failed save, the creature
+          takes 3d8 Radiant damage (if you are good or neutral) or 3d8 Necrotic damage (if you are evil). On a
+          successful save, the creature takes half as much damage. A creature makes this save only once per
+          turn.</p><p><strong>Using a Higher-Level Spell Slot.</strong> The damage increases by 1d8 for each spell slot
+          level above 3.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '10'
+        units: minute
+      target:
+        affects:
+          choice: true
+          count: ''
+          type: creature
+          special: ''
+        template:
+          units: ft
+          type: radius
+          size: '15'
+          contiguous: false
+          count: ''
+      range:
+        units: self
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 3
+      school: con
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a prayer scroll
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: ''
+            value: null
+            override: true
+            condition: ''
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: false
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: true
+          effects:
+            - _id: Q3CLqX7crfusAxkj
+              onSave: true
+          range:
+            override: true
+            units: ft
+            special: ''
+            value: '15'
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+              type: ''
+            affects:
+              choice: false
+              count: '1'
+              type: creature
+              special: ''
+            override: true
+          damage:
+            onSave: half
+            parts:
+              - custom:
+                  enabled: false
+                  formula: ''
+                number: 3
+                denomination: '8'
+                bonus: ''
+                types:
+                  - necrotic
+                  - radiant
+                scaling:
+                  mode: whole
+                  number: 1
+                  formula: ''
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          sort: 200000
+          name: Emanation Save
+          img: ''
+          appliedEffects:
+            - Q3CLqX7crfusAxkj
+        Rw9xP3RWH9K4eDya:
+          type: utility
+          name: Cast
+          _id: Rw9xP3RWH9K4eDya
+          sort: 100000
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description: {}
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+          roll:
+            prompt: false
+            visible: false
+      identifier: spirit-guardians
+    _id: ERpjSYo7jglVoaO5
+    type: spell
+    img: icons/magic/light/orb-hands-humanoid-yellow.webp
+    effects: []
+    folder: null
+    sort: 1300
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.ERpjSYo7jglVoaO5'
+  - name: Fear
+    system:
+      description:
+        value: >-
+          <p>Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and
+          have the &amp;Reference[frightened apply=false] condition for the duration.</p><p>A Frightened creature takes
+          the &amp;Reference[dash] action and moves away from you by the safest route on each of its turns unless there
+          is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the
+          creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+        template:
+          units: ft
+          type: cone
+          size: '30'
+          contiguous: false
+      range:
+        units: self
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 3
+      school: ill
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a white feather
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: ijiWLu6EJZmEJPOZ
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: fear
+    _id: FEQgeEwC8Plzc0WD
+    type: spell
+    img: icons/magic/unholy/silhouette-robe-evil-glow.webp
+    effects: []
+    folder: null
+    sort: 1400
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.FEQgeEwC8Plzc0WD'
+  - name: Cone of Cold
+    system:
+      description:
+        value: >-
+          <p>You unleash a blast of cold air. Each creature in a 60-foot Cone originating from you makes a Constitution
+          saving throw, taking 8d8 Cold damage on a failed save or half as much damage on a successful one. A creature
+          killed by this spell becomes a frozen statue until it thaws.</p><p><strong>Using a Higher-Level Spell
+          Slot.</strong> The damage increases by 1d8 for each spell slot level above 5.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          choice: false
+        template:
+          units: ft
+          type: cone
+          size: '60'
+          contiguous: false
+      range:
+        units: self
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 5
+      school: evo
+      properties:
+        - vocal
+        - somatic
+        - material
+      materials:
+        value: a small crystal or glass cone
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts:
+              - number: 8
+                denomination: 8
+                bonus: ''
+                types:
+                  - cold
+                custom:
+                  enabled: false
+                  formula: ''
+                scaling:
+                  mode: whole
+                  number: 1
+                  formula: ''
+          save:
+            ability: con
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: cone-of-cold
+    _id: BDa86kkaIEL9kHnn
+    type: spell
+    img: icons/magic/air/wind-tornado-wall-blue.webp
+    effects: []
+    folder: null
+    sort: 1500
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!OGA1LtjRQuabbHHR.BDa86kkaIEL9kHnn'
 effects: []
 folder: vpQj8SzmaX00b9VK
 sort: 0
@@ -293,6 +1748,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: wis
   details:
     biography:
       value: >-
@@ -361,6 +1817,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 4
+    ep: 0
+    sp: 15
+    cp: 30
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

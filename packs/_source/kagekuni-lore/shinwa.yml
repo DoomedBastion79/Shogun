@@ -7,7 +7,7 @@ pages:
     name: The Divine Structure
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -45,7 +45,7 @@ pages:
     name: The Seven Dragon Clans — Founding Era
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -127,7 +127,7 @@ pages:
     name: First Emperor
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -151,7 +151,7 @@ pages:
     name: Dragon Legacy in Society
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -211,7 +211,7 @@ pages:
     name: Religion and Mythology
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -238,7 +238,7 @@ pages:
     name: The Divine
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -279,7 +279,7 @@ pages:
     name: Kami — The Spirits of the World
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -322,7 +322,7 @@ pages:
     name: Ancestor Veneration
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -364,7 +364,7 @@ pages:
     name: The Seven Dragons
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -512,7 +512,7 @@ pages:
     name: Ritual Purification
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -553,7 +553,7 @@ pages:
     name: Kannazuki — The Month of No Gods
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -583,7 +583,7 @@ pages:
     name: Temples & Monastic Traditions
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -631,7 +631,7 @@ pages:
     name: The Practice of Faith
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -665,7 +665,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: shinwa
     frontmatter:
       name: 神話 Shinwa — Myth & Faith

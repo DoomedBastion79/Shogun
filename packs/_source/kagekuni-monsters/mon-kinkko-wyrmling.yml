@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/kinkko-wyrmling.webp
 items:
   - _id: 8MiWbMkItYC0dA6d
-    _key: '!actors.items!8MiWbMkItYC0dA6d'
+    _key: '!actors.items!AlpQsscUaIZ7pGjy.8MiWbMkItYC0dA6d'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: puGU7AR21wxYJeVc
-    _key: '!actors.items!puGU7AR21wxYJeVc'
+    _key: '!actors.items!AlpQsscUaIZ7pGjy.puGU7AR21wxYJeVc'
     name: Honor's Witness
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: 9p73qn1lg0dgr5cs
-    _key: '!actors.items!9p73qn1lg0dgr5cs'
+    _key: '!actors.items!AlpQsscUaIZ7pGjy.9p73qn1lg0dgr5cs'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -216,7 +216,7 @@ items:
           activity: []
           effect: []
   - _id: jGQTTweZeEzRm5VS
-    _key: '!actors.items!jGQTTweZeEzRm5VS'
+    _key: '!actors.items!AlpQsscUaIZ7pGjy.jGQTTweZeEzRm5VS'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -375,7 +375,7 @@ items:
           activity: []
           effect: []
   - _id: QpUAxffYP84UBCQK
-    _key: '!actors.items!QpUAxffYP84UBCQK'
+    _key: '!actors.items!AlpQsscUaIZ7pGjy.QpUAxffYP84UBCQK'
     name: Sunbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -457,6 +457,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -511,6 +512,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 3
+    ep: 0
+    sp: 12
+    cp: 25
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

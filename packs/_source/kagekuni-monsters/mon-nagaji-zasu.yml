@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: ftvAPncoMV7ptObY
-    _key: '!actors.items!ftvAPncoMV7ptObY'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.ftvAPncoMV7ptObY'
     name: Magic Resistance
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: CRjcSVj74mOvAWpW
-    _key: '!actors.items!CRjcSVj74mOvAWpW'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.CRjcSVj74mOvAWpW'
     name: Devil's Sight
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: fCCdifkgd0X4Xlgn
-    _key: '!actors.items!fCCdifkgd0X4Xlgn'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.fCCdifkgd0X4Xlgn'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: ljmC4eiqKzt0Iz9Z
-    _key: '!actors.items!ljmC4eiqKzt0Iz9Z'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.ljmC4eiqKzt0Iz9Z'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -233,7 +233,7 @@ items:
           activity: []
           effect: []
   - _id: RdSuJbx0iKIvpGbW
-    _key: '!actors.items!RdSuJbx0iKIvpGbW'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.RdSuJbx0iKIvpGbW'
     name: Reikon no Kiba (Spectral Fangs)
     type: weapon
     img: icons/weapons/bows/longbow-recurve.webp
@@ -392,7 +392,7 @@ items:
           activity: []
           effect: []
   - _id: Dww3XeipoOTPwc95
-    _key: '!actors.items!Dww3XeipoOTPwc95'
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.Dww3XeipoOTPwc95'
     name: Merrshaulk's Slumber (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -413,6 +413,836 @@ items:
         cost: 1
     effects: []
     flags: {}
+  - name: Animal Friendship (snakes only)
+    system:
+      description:
+        value: >-
+          <p>Target a Beast that you can see within range. The target must succeed on a Wisdom saving throw or have the
+          &amp;Reference[charmed apply=false] condition for the duration. If you or one of your allies deals damage to
+          the target, the spells ends.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can target one
+          additional Beast for each spell slot level above 1.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '24'
+        units: hour
+      target:
+        affects:
+          type: creature
+          count: '@item.level'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '30'
+        units: ft
+        special: ''
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      level: 1
+      school: enc
+      properties:
+        - vocal
+        - somatic
+        - material
+      materials:
+        value: a morsel of food
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: 55NWwccKvMKQPL4h
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: animal-friendship
+    _id: eLdNaDOm6AjKkz34
+    type: spell
+    img: icons/creatures/abilities/paw-glowing-yellow.webp
+    effects: []
+    folder: null
+    sort: 600
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.eLdNaDOm6AjKkz34'
+  - name: Guidance
+    system:
+      description:
+        value: >-
+          <p>You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability
+          check using the chosen skill.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+          count: '1'
+          type: willing
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: touch
+        special: ''
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: div
+      properties:
+        - vocal
+        - somatic
+        - concentration
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        R6Fs3rsgXlgHPOFn:
+          type: utility
+          _id: R6Fs3rsgXlgHPOFn
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects:
+            - _id: GezMMzvZhWXEYyGm
+            - _id: y6aODSkiubtFt6Ap
+            - _id: Vlfh8IFOezrSpeBZ
+            - _id: sPkLWVpkJ7NqDQT0
+            - _id: Je4xWElmaiSDsOjU
+            - _id: cw02ZbuiRn6GyoEv
+            - _id: VsU5vUhMioT9pCwG
+            - _id: UQixxmOdHUDjVYNh
+            - _id: Cpte6tynFFJbraX2
+            - _id: Vl1YSG1DlZvx9nSI
+            - _id: IqxGXju1tYDWoda6
+            - _id: fCdLUO5DoSIT4wVK
+            - _id: qPowjrduxnzKpH8x
+            - _id: E4BqoCkyoKLJbGmb
+            - _id: jVKWknHHFuMwvTct
+            - _id: pwFahx7uqM4DOgnu
+            - _id: Vb4iRJ73Nw78UUMW
+            - _id: A1T0X0DUFIxx3qhE
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          roll:
+            prompt: false
+            visible: false
+            name: ''
+            formula: ''
+          name: ''
+          img: ''
+          appliedEffects:
+            - GezMMzvZhWXEYyGm
+            - y6aODSkiubtFt6Ap
+            - Vlfh8IFOezrSpeBZ
+            - sPkLWVpkJ7NqDQT0
+            - Je4xWElmaiSDsOjU
+            - cw02ZbuiRn6GyoEv
+            - VsU5vUhMioT9pCwG
+            - UQixxmOdHUDjVYNh
+            - Cpte6tynFFJbraX2
+            - Vl1YSG1DlZvx9nSI
+            - IqxGXju1tYDWoda6
+            - fCdLUO5DoSIT4wVK
+            - qPowjrduxnzKpH8x
+            - E4BqoCkyoKLJbGmb
+            - jVKWknHHFuMwvTct
+            - pwFahx7uqM4DOgnu
+            - Vb4iRJ73Nw78UUMW
+            - A1T0X0DUFIxx3qhE
+      identifier: guidance
+    _id: Dqkber9QDqQBM3eG
+    type: spell
+    img: icons/sundries/lights/candle-lit-angelic.webp
+    effects: []
+    folder: null
+    sort: 700
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.Dqkber9QDqQBM3eG'
+  - name: Mage Hand
+    system:
+      description:
+        value: >-
+          <p>A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The
+          hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.</p><p>When you
+          cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or
+          retrieve an item from an open container, or pour the contents out of a vial.</p><p>As a Magic action on your
+          later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30
+          feet.</p><p>The hand can't attack, activate magic items, or carry more than 10 pounds.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+          count: '1'
+          type: space
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '30'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: con
+      properties:
+        - vocal
+        - somatic
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        QdMC2s97UJKjUBoD:
+          type: summon
+          _id: QdMC2s97UJKjUBoD
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          bonuses:
+            ac: ''
+            hd: ''
+            hp: ''
+            attackDamage: '0'
+            saveDamage: '0'
+            healing: '0'
+          creatureSizes: []
+          creatureTypes: []
+          match:
+            attacks: false
+            proficiency: false
+            saves: false
+          profiles:
+            - count: ''
+              name: ''
+              _id: yXLZxwYBIj9AR2iQ
+              uuid: Compendium.dnd5e.actors24.Actor.phbsplMageHand00
+              level:
+                min: null
+                max: null
+              types: []
+          summon:
+            prompt: true
+            mode: ''
+          name: ''
+          img: ''
+          appliedEffects: []
+      identifier: mage-hand
+    _id: swzZIsUjlAKBlmYY
+    type: spell
+    img: icons/magic/light/hand-sparks-smoke-teal.webp
+    effects: []
+    folder: null
+    sort: 800
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.swzZIsUjlAKBlmYY'
+  - name: Message
+    system:
+      description:
+        value: >-
+          <p>You point toward a creature within range and whisper a message. The target (and only the target) hears the
+          message and can reply in a whisper that only you can hear.</p><p>You can cast this spell through solid objects
+          if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone,
+          metal, or wood; or a thin sheet of lead blocks the spell.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: round
+      target:
+        affects:
+          choice: false
+          count: '1'
+          type: creature
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '120'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: trs
+      properties:
+        - somatic
+        - material
+      materials:
+        value: a copper wire
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        j0gd96TwtJYUr0EE:
+          type: utility
+          _id: j0gd96TwtJYUr0EE
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          roll:
+            prompt: false
+            visible: false
+            name: ''
+            formula: ''
+          name: ''
+          img: ''
+          appliedEffects: []
+      identifier: message
+    _id: bXc4GPY2kKM6U2LI
+    type: spell
+    img: icons/sundries/documents/envelope-sealed-red-brown.webp
+    effects: []
+    folder: null
+    sort: 900
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.bXc4GPY2kKM6U2LI'
+  - name: Suggestion
+    system:
+      description:
+        value: >-
+          <p>You suggest a course of activity—described in no more than 25 words—to one creature you can see within
+          range that can hear and understand you. The suggestion must sound achievable and not involve anything that
+          would obviously deal damage to the target or its allies. For example, you could say, "Fetch the key to the
+          cult's treasure vault, and give the key to me." Or you could say, "Stop fighting, leave this library
+          peacefully, and don't return."</p><p>The target must succeed on a Wisdom saving throw or have the Charmed
+          condition for the duration or until you or your allies deal damage to the target. The Charmed target pursues
+          the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if
+          the suggested activity can be completed in a shorter time, the spell ends for the target upon completing
+          it.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '8'
+        units: hour
+      target:
+        affects:
+          type: creature
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '30'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: enc
+      properties:
+        - vocal
+        - material
+        - concentration
+      materials:
+        value: a drop of honey
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: aXT1HK2a1XbyabMK
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: suggestion
+    _id: 05T4KhQb7eGZnk6r
+    type: spell
+    img: icons/magic/control/mouth-smile-deception-purple.webp
+    effects: []
+    folder: null
+    sort: 1000
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.05T4KhQb7eGZnk6r'
+  - name: Hold Person
+    system:
+      description:
+        value: "<p>Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the &amp;Reference[paralyzed apply=false] condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can target one additional Humanoid for each spell slot level above\_2.</p>"
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          type: creature
+          count: '@item.level - 1'
+          choice: false
+        template:
+          units: ''
+          contiguous: false
+      range:
+        value: '60'
+        units: ft
+      uses:
+        spent: 0
+        max: '2'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: enc
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a straight piece of iron
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: PklwZi3SKQ3JU2M2
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: hold-person
+    _id: 0ZsIBFRpWGBAxf6b
+    type: spell
+    img: icons/magic/control/encase-creature-humanoid-hold.webp
+    effects: []
+    folder: null
+    sort: 1100
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.0ZsIBFRpWGBAxf6b'
+  - name: Invisibility
+    system:
+      description:
+        value: >-
+          <p>A creature you touch has the &amp;Reference[invisible apply=false] condition until the spell ends. The
+          spell ends early immediately after the target makes an attack roll, deals damage, or casts a
+          spell.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can target one additional creature for each
+          spell slot level above 2.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: 1
+      duration:
+        value: '1'
+        units: hour
+      target:
+        affects:
+          type: creature
+          count: '@item.level - 1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: touch
+        special: ''
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: ill
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: an eyelash in gum arabic
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: 9svfDetqjhsFP3ey
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: invisibility
+    _id: wN6wAwm6hkrAFqHc
+    type: spell
+    img: icons/creatures/magical/spirit-undead-ghost-purple.webp
+    effects: []
+    folder: null
+    sort: 1200
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!cRhrQ7TL3vVUKO75.wN6wAwm6hkrAFqHc'
 effects: []
 folder: vpQj8SzmaX00b9VK
 sort: 0
@@ -474,6 +1304,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: cha
   details:
     biography:
       value: >-
@@ -556,6 +1387,12 @@ system:
       value:
         - poisoned
       custom: ''
+  currency:
+    pp: 0
+    gp: 4
+    ep: 0
+    sp: 15
+    cp: 30
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

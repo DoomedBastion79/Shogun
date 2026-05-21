@@ -7,21 +7,21 @@ pages:
     name: Campaign Role
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
       format: 1
       content: >
         <p><em lang="ja-Latn">&quot;The Celestial Approach&quot; — the sacred switchback that climbs the southern face
-        of Ōryūzan to the gold doors of Tenkū-ji.</em></p>
+        of Ōryūzan toward Ōryūzan Tenkū-ji.</em></p>
 
         <p>The Tenkū Sandō is the formal pilgrimage approach to Ōryūzan Tenkū-ji. It carves five terraced levels into
         the mountain&#39;s southern face — each level roughly thirty feet above the last, joined by short flights of cut
-        stone stairs — beginning at the upper edge of the Tenchūsan Ren passes and ending at the temple&#39;s golden
-        outer doors. In the Golden Age this path would have been walked by clan-priests, novices, and pilgrims granted
-        audience; today it is a half-collapsed scar of pale stone, frost-cracked steps, and weathered ornaments that the
-        Nagaji travel without ceremony.</p>
+        stone stairs — beginning at the upper edge of the Tenchūsan Ren passes and ending at the head of the climb,
+        below the temple&#39;s golden outer doors. In the Golden Age this path would have been walked by clan-priests,
+        novices, and pilgrims granted audience; today it is a half-collapsed scar of pale stone, frost-cracked steps,
+        and weathered ornaments that the Nagaji travel without ceremony.</p>
 
         <p>The Sandō is itself a working sacred device — built on the same foundational magic as the temple. Distributed
         across its levels are <strong>eight large dragon-head statues</strong> (seven uniform Watchers and one distinct
@@ -50,9 +50,9 @@ pages:
 
         <li><strong>Eight large dragon-head statues</strong> — seven uniform <em lang="ja-Latn">Watchers</em>
         distributed across the levels, each facing outward over the path, and one distinct <em lang="ja-Latn">Threshold
-        Head</em> in the gold-door court above. They appear to be the same weathered stone as the path itself, though
-        closer inspection finds them curiously <em lang="ja-Latn">un-cracked</em> — preserved beneath their grime, not
-        eroding under it.</li>
+        Head</em> set into the cliff of the Lower Landing. They appear to be the same weathered stone as the path
+        itself, though closer inspection finds them curiously <em lang="ja-Latn">un-cracked</em> — preserved beneath
+        their grime, not eroding under it.</li>
 
         <li><strong>Four stone pedestals</strong> — squared waist-high fixtures spaced along the inner wall. Long
         unused. Each has a smooth circular indentation in the top surface — designed to receive something. (See the
@@ -64,8 +64,12 @@ pages:
         its forelimbs — but the details have been buried for so long that no casual viewer would call it gold. It is the
         original of the path: when it wakes, the path wakes with it.</li>
 
-        <li><strong>The Top Landing</strong> — Level 5 opens into the broad paved court before the massive ornate gold
-        doors of Tenkū-ji.</li>
+        <li><strong>The Threshold Head &amp; Shrine (Level 1)</strong> — set into the cliff of the Lower Landing, by the
+        foot of the climb: the eighth distinct dragon-head and its shrine, where the Order of Ascent completes the rite.
+        Reaching it again means descending the whole path.</li>
+
+        <li><strong>The head of the climb (Level 5)</strong> — the switchback tops out here; the temple&#39;s gold doors
+        lie beyond it, reached by a separate approach.</li>
 
         </ul>
 
@@ -87,7 +91,7 @@ pages:
         who walked before you), speak the vow, and observe a moment of silence. When the prayer is accepted, the
         pedestal warms under its grime.</li>
 
-        <li><strong>The Threshold Head</strong> — the eighth dragon-head, on Level 5, is visibly <em
+        <li><strong>The Threshold Head</strong> — the eighth dragon-head, on Level 1, is visibly <em
         lang="ja-Latn">different</em> — set apart in size, posture, and orientation. It will not light until every
         Watcher has been lit, every pedestal-prayer completed, and a clan-priest&#39;s <strong>Order of Ascent</strong>
         is proclaimed before it.</li>
@@ -137,8 +141,8 @@ pages:
 
         <ul>
 
-        <li>Ōryūzan Tenkū-ji (loc-tenkuji-temple) — the gold doors at the head of the Sandō; the broad chamber (Grand
-        Hall — Hiroba) is gated on this puzzle&#39;s resolution</li>
+        <li>Ōryūzan Tenkū-ji (loc-tenkuji-temple) — the gold doors lie beyond the head of the Sandō; the broad chamber
+        (Grand Hall — Hiroba) is gated on this puzzle&#39;s resolution</li>
 
         <li>Tenchūsan Ren — the pass system below</li>
 
@@ -161,7 +165,7 @@ pages:
     name: DM Notes
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -177,9 +181,9 @@ pages:
         mid-delve. Interior knowledge (the Order of Ascent as a found item) can enrich the solution but is not the sole
         key — Sun Wukong&#39;s monk training is a viable recall path (Religion DC 18).</li>
 
-        <li>The puzzle is optional. The party can walk straight up to the gold doors without engaging it. The gold doors
-        open without it. What the puzzle gates is what lies <em lang="ja-Latn">beyond</em> the doors — specifically, the
-        broad chamber
+        <li>The puzzle is optional. The party can walk straight past the Threshold Head and climb on to the gold doors
+        without engaging it. The gold doors open without it. What the puzzle gates is what lies <em
+        lang="ja-Latn">beyond</em> the doors — specifically, the broad chamber
         (@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{the
         Grand Hall — Hiroba}). Until the Sandō is awoken, frame the chamber inside as inaccessible / sealed /
         dust-cloaked (final mechanism TBD; see puzzle supplement).</li>
@@ -228,10 +232,10 @@ pages:
     flags: {}
   - _id: HDqh1MatOWDIR98x
     _key: '!journal.pages!4vbzgHy9ecixxgnw.HDqh1MatOWDIR98x'
-    name: The Switchback
+    name: Mountain Path
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -253,7 +257,7 @@ pages:
     name: Level 1 — The Lower Landing
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -286,6 +290,19 @@ pages:
 
         </li>
 
+        <li><strong>The Threshold Head</strong> — the eighth dragon-head, set into the cliff of the Lower Landing, apart
+        from the lone Watcher here. Smaller than the Watchers (~2/3 scale), more finely carved, mouth open, turned to
+        face <em lang="ja-Latn">up the climb</em> rather than out over the drop, and ringed at its base by a faded
+        text-circle. It does <strong>not</strong> kindle when passed: it waits for the <strong>Order of Ascent</strong>
+        to be proclaimed before it, and lights only after every Watcher is lit and every pedestal-prayer is done.
+        Because it sits at the foot of the path, completing the rite means climbing the whole Sandō and returning back
+        down to it here. See the supplement <em lang="ja-Latn">The Threshold Head &amp; The Shrines</em>.</li>
+
+        <li><strong>The Threshold Shrine</strong> — a small shrine cut into the rock directly below the Threshold Head:
+        the place of a pilgrim&#39;s final offering at the close of the rite. Distinct from the roadside shrine on Level
+        2. Long dormant; its niche holds the Threshold Cache — the finest small gift each completed pilgrimage leaves
+        for whoever climbs next.</li>
+
         </ul>
       markdown: ''
     video:
@@ -303,7 +320,7 @@ pages:
     name: Level 2 — The Sleeping Dragon
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -391,7 +408,7 @@ pages:
     name: Level 3 — Middle Terrace
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -437,14 +454,13 @@ pages:
     name: Level 4 — Upper Terrace
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
       format: 1
       content: >
-        <p>The penultimate terrace. The path narrows here; the gold doors are visible above. Stairs lead up to Level
-        5.</p>
+        <p>The penultimate terrace. The path narrows here. Stairs lead up to Level 5.</p>
 
         <p><strong>Puzzle elements on this level:</strong></p>
 
@@ -487,50 +503,32 @@ pages:
     flags: {}
   - _id: 725V9bpOQRBu3Tkk
     _key: '!journal.pages!4vbzgHy9ecixxgnw.725V9bpOQRBu3Tkk'
-    name: Level 5 — The Gold-Door Court
+    name: Level 5 — The Head of the Climb
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
       format: 1
       content: >
-        <p>The head of the Sandō. The switchback opens into a broad paved court before the massive ornate gold doors of
-        Ōryūzan Tenkū-ji. The threshold proper between path and temple. Where the party currently stands.</p>
+        <p>The top of the Sandō. The switchback&#39;s final terrace, where the cut-stone path gives out and the climb
+        tops out against bare, wind-scoured mountain. Five levels of pilgrim road end here. Beyond it — across a
+        separate stretch of open mountainside — stand the ornate gold doors of Ōryūzan Tenkū-ji.</p>
 
-        <p><strong>Puzzle elements on this level:</strong></p>
+        <p>This is the most exposed ground on the path: no cliff at the back to break the wind, no basin or shrine to
+        shelter in. In the blizzard it is a near-total whiteout — the place to drop vision to its harshest and let the
+        storm press hardest.</p>
+
+        <p><strong>Puzzle elements on this level:</strong> none. The Watchers, the pedestals, and the Threshold Head all
+        lie below — the rite is begun on Levels 1 through 4 and completed back at the Threshold Head on the Lower
+        Landing. Level 5 is simply the path&#39;s end.</p>
 
         <ul>
 
-        <li><strong>The Threshold Head</strong> — one dragon-head, set on its own at the center of the court before the
-        gold doors. It is <strong>visibly different</strong> from the seven Watchers below:<ul>
-
-        <li><strong>Smaller</strong> than the others — about two-thirds their scale — but more finely carved beneath the
-        grime.</li>
-
-        <li><strong>Faces inward</strong> (toward the gold doors), not outward over the path.</li>
-
-        <li><strong>Mouth open</strong> — every Watcher below has a closed mouth; this one&#39;s jaws are parted as if
-        mid-speech.</li>
-
-        <li><strong>Ringed by a faded text-circle on the ground</strong> — a band of carved characters surrounding the
-        head&#39;s base, mostly worn but partially legible. (Religion DC 14 to recognise the fragments as ritual text;
-        Religion DC 18 or monk training to actually recite the <strong>Order of Ascent</strong> from memory.)</li>
-
-        <li><strong>The head does not kindle when passed.</strong> Walking near it does nothing. Investigation reveals —
-        as it does for the others — that the underlying material is the same as the rest (gold beneath stone), but the
-        magic here is keyed to <em lang="ja-Latn">speech</em>, not passage.</li>
-
-        </ul>
-
-        </li>
-
-        <li><strong>No pedestal</strong> on this level. The threshold is for the rite&#39;s completion, not for
-        prayer.</li>
-
-        <li><strong>The gold doors</strong> behind the head — the temple entrance proper. Open without the puzzle being
-        solved; the puzzle gates only what lies <em lang="ja-Latn">beyond</em> the doors
+        <li><strong>Beyond the climb</strong> — off the head of the path, a separate approach of open mountain carries
+        on to the gold doors of the temple proper. The doors open whether or not the puzzle is solved; the puzzle gates
+        only what lies <em lang="ja-Latn">beyond</em> them
         (@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{the
         Grand Hall — Hiroba}).</li>
 
@@ -551,7 +549,7 @@ pages:
     name: Supplements
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -573,7 +571,7 @@ pages:
     name: The Sandō Puzzle
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -600,7 +598,8 @@ pages:
         entirely.</p>
 
         <p>Distribution across the five levels: <strong>L1 — 1, L2 — 2 (flanking the Sleeping Dragon), L3 — 2, L4 — 2,
-        L5 — 0</strong> (Level 5 holds only the Threshold Head).</p>
+        L5 — 0</strong> — the seven Watchers. The eighth head, the Threshold Head, and its shrine sit apart on Level 1,
+        the Lower Landing.</p>
 
         <h3 id="kg-2-four-prayers-active" data-section="2-four-prayers-active">2. Four Prayers (active)</h3>
 
@@ -756,13 +755,13 @@ pages:
         data-section="3-the-threshold-head-order-of-ascent-culminating">3. The Threshold Head + Order of Ascent
         (culminating)</h3>
 
-        <p>The eighth dragon-head, on Level 5, is <strong>visibly different</strong>:</p>
+        <p>The eighth dragon-head, on Level 1, is <strong>visibly different</strong>:</p>
 
         <ul>
 
         <li>Smaller than the seven Watchers (~2/3 scale)</li>
 
-        <li>Faces inward toward the gold doors, not outward over the path</li>
+        <li>Faces up the path, the way the climb goes, not outward over the drop</li>
 
         <li>Mouth open (Watchers&#39; mouths are closed)</li>
 
@@ -913,8 +912,8 @@ pages:
 
         <ul>
 
-        <li><code>loc-tenkuji-temple</code> — the gold doors at the head of the Sandō; the Grand Hall (Hiroba) inside is
-        gated on this rite.</li>
+        <li><code>loc-tenkuji-temple</code> — the gold doors lie beyond the head of the Sandō; the Grand Hall (Hiroba)
+        inside is gated on this rite.</li>
 
         <li><code>rm-grand-hall</code> — the great statue is the twin of the Sandō&#39;s Sleeping Dragon; both share the
         same dust-cloak mechanism if the recommended Hiroba gate is adopted.</li>
@@ -939,7 +938,7 @@ pages:
     name: Introduction — The Celestial Approach
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1013,7 +1012,7 @@ pages:
     name: The Watcher Heads
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1064,8 +1063,9 @@ pages:
         The act of <em lang="ja-Latn">climbing the path</em> is the thing it wakes for. Once kindled, a head holds its
         glow as long as any member of the party remains on the Sandō.</p>
 
-        <p>An <strong>eighth</strong> dragon-head stands apart in the court at the very top of the path, and it is <em
-        lang="ja-Latn">not</em> like these seven. See <strong>The Threshold Head &amp; The Shrine</strong>.</p>
+        <p>An <strong>eighth</strong> dragon-head is set into the cliff on the Lower Landing, at the foot of the path,
+        and it is <em lang="ja-Latn">not</em> like these seven. See <strong>The Threshold Head &amp; The
+        Shrines</strong>.</p>
       markdown: ''
     video:
       controls: true
@@ -1079,21 +1079,22 @@ pages:
     flags: {}
   - _id: u5SlHJGZxdwsu3Qm
     _key: '!journal.pages!4vbzgHy9ecixxgnw.u5SlHJGZxdwsu3Qm'
-    name: The Threshold Head & The Shrine
+    name: The Threshold Head & The Shrines
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
       format: 1
       content: >
-        <h2 id="kg-the-threshold-head-amp-the-shrine" data-section="the-threshold-head-amp-the-shrine">The Threshold
-        Head &amp; The Shrine</h2>
+        <h2 id="kg-the-threshold-head-amp-the-shrines" data-section="the-threshold-head-amp-the-shrines">The Threshold
+        Head &amp; The Shrines</h2>
 
-        <p><em lang="ja-Latn">The eighth and distinct dragon-head in the gold-door court (Level 5), and the roadside
-        shrine behind the basin on the second terrace. The DM may reveal the head when the party examines it, and the
-        shrine when the party reaches the Level-2 basin.</em></p>
+        <p><em lang="ja-Latn">The eighth and distinct dragon-head on the Lower Landing (Level 1), the threshold shrine
+        set into the rock below it, and the roadside shrine behind the basin on the second terrace. The DM may reveal
+        the head and threshold shrine when the party first sets foot on the Lower Landing, and the roadside shrine when
+        the party reaches the Level-2 basin.</em></p>
 
         <h3 id="kg-the-threshold-head" data-section="the-threshold-head">The Threshold Head</h3>
 
@@ -1106,20 +1107,20 @@ pages:
 
         <p><em lang="ja-Latn">This one is wrong, and it takes a moment to see why.</em></p>
 
-        <p><em lang="ja-Latn">It stands alone at the centre of the broad court before the gold doors — not set against
-        the cliff with the drop at its back, like every head below it, but out in the open. And it is turned the wrong
-        way. Where the Watchers on the path all face outward over the descent, this head faces inward, toward the doors,
-        as though it once climbed the Sandō itself and has been gazing at the threshold ever since. It is smaller than
-        the others, perhaps two-thirds their size, and beneath the grime the carving is finer — a more careful hand, or
-        a more beloved subject.</em></p>
+        <p><em lang="ja-Latn">It is set into the cliff of the Lower Landing, the way every Watcher on the path is set
+        into the cliff — but it faces the wrong way. Where the Watchers all face outward over the drop, this head is
+        turned to face</em> up <em lang="ja-Latn">the path, gazing the way the climb goes, toward the heights and the
+        temple far above — as though it means to watch every pilgrim all the way up. It is smaller than the others,
+        perhaps two-thirds their size, and beneath the grime the carving is finer — a more careful hand, or a more
+        beloved subject.</em></p>
 
         <p><em lang="ja-Latn">Its mouth is open. Every head on the path below holds its jaws shut; this one&#39;s are
-        parted, the way a mouth parts in the half-second before speech. Ringed around its base, carved into the paving
-        stones in a wide band, runs a circle of characters — most of them worn past reading, a few still legible: the
-        remains of some written thing that was meant to be spoken here.</em></p>
+        parted, the way a mouth parts in the half-second before speech. Ringed around its base, carved into the rock in
+        a wide band, runs a circle of characters — most of them worn past reading, a few still legible: the remains of
+        some written thing that was meant to be spoken here.</em></p>
 
-        <p><em lang="ja-Latn">It does not kindle as you pass. You walk by it, and around it, and it stays cold. Whatever
-        this head is waiting for, your footsteps are not it.</em></p>
+        <p><em lang="ja-Latn">It does not kindle as you pass. You walk by it, and beneath it, and it stays cold.
+        Whatever this head is waiting for, your footsteps are not it.</em></p>
 
 
         </article>
@@ -1130,7 +1131,39 @@ pages:
 
 
         <p>The seven Watchers wake for the act of climbing. The Threshold Head does not — it waits for a <em
-        lang="ja-Latn">voice</em>. It is the last word of the path, and it will not speak until it is spoken to.</p>
+        lang="ja-Latn">voice</em>. It is the first head the path shows you and the last it asks you to answer, and it
+        will not speak until it is spoken to.</p>
+
+        <h3 id="kg-the-threshold-shrine" data-section="the-threshold-shrine">The Threshold Shrine</h3>
+
+        <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
+
+        <article>
+
+        <header><h4 id="kg-read-aloud-the-threshold-shrine-dormant"
+        data-section="read-aloud-the-threshold-shrine-dormant">Read-Aloud — The Threshold Shrine (dormant)</h4></header>
+
+        <p><em lang="ja-Latn">Cut into the rock directly below the Threshold Head is a small shrine — not the humble
+        wayside marker of the lower terrace, but something made for this place: a niche of dressed stone, an
+        offering-shelf worn smooth by countless hands, a shallow basin for incense. This is where a pilgrim laid a last
+        offering at the end of the climb, before going on to the temple beyond. It is utterly cold. The basin holds only
+        wind-sifted grit. Like the head above it and the path below, the threshold shrine is present, whole, and waiting
+        — and it has been waiting a very long time.</em></p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <p>Distinct from the <em lang="ja-Latn">michibata no jinja</em> on Level 2: where the roadside shrine served
+        pilgrims passing through, the threshold shrine marks the <em lang="ja-Latn">end</em> of the rite — the place of
+        the final offering before the temple&#39;s own ground. It stands openly below the Threshold Head from the moment
+        the party arrives; like everything on the Sandō, it has simply gone uncalled. When the rite of the path
+        completes, it wakes with the rest. The cache kept in its niche is the finest small thing each completed
+        pilgrimage could spare, set down for whoever climbs next.</p>
 
         <h3 id="kg-the-roadside-shrine" data-section="the-roadside-shrine">The Roadside Shrine</h3>
 
@@ -1203,7 +1236,7 @@ pages:
     name: The Eldest Pedestal — Level 1
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1270,7 +1303,7 @@ pages:
     name: The Mourner's Pedestal — Level 2
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1333,7 +1366,7 @@ pages:
     name: The Faithful Pedestal — Level 3
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1397,7 +1430,7 @@ pages:
     name: The Topmost Pedestal — Level 4
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1406,8 +1439,8 @@ pages:
         <h2 id="kg-the-topmost-pedestal-level-4" data-section="the-topmost-pedestal-level-4">The Topmost Pedestal —
         Level 4</h2>
 
-        <p><em lang="ja-Latn">The highest of the four pedestals, on the upper terrace below the gold-door court. The DM
-        may reveal this page when the party examines it.</em></p>
+        <p><em lang="ja-Latn">The highest of the four pedestals, on the upper terrace, the highest of the four
+        pedestals. The DM may reveal this page when the party examines it.</em></p>
 
         <div class="fvtt narrative kg-readaloud" data-callout-type="read-aloud">
 
@@ -1417,8 +1450,8 @@ pages:
         The Topmost Pedestal</h4></header>
 
         <p><em lang="ja-Latn">The last of the squared pillars stands against the cliff at the inner edge of the upper
-        terrace, the gold doors of the temple now plainly visible on the level above. Its surface carries the same pair
-        of inscriptions as the three below — but the lighter of the two, the name, looks newer here. Less worn. More
+        terrace, the head of the climb now in sight on the level above. Its surface carries the same pair of
+        inscriptions as the three below — but the lighter of the two, the name, looks newer here. Less worn. More
         recently set.</em></p>
 
         <p><em lang="ja-Latn">The deep-cut vow:</em></p>
@@ -1462,7 +1495,7 @@ pages:
     name: The Sleeping Dragon
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1558,7 +1591,7 @@ pages:
     name: Scene Assembly
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1586,7 +1619,7 @@ pages:
 
         <p><strong>Walls &amp; lighting — per room</strong></p>
 
-        <p><em lang="ja-Latn">The Switchback</em></p>
+        <p><em lang="ja-Latn">Mountain Path</em></p>
 
         <ul>
 
@@ -1616,10 +1649,10 @@ pages:
         <li class="kg-task" data-done="false" data-task-key="c0655531">Level 4 — Upper Terrace — light sources</li>
 
         <li class="kg-task" data-done="false"
-        data-task-key="22dc902e">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.725V9bpOQRBu3Tkk]{Level
-        5 — The Gold-Door Court} — walls &amp; doors</li>
+        data-task-key="dd30d60d">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.725V9bpOQRBu3Tkk]{Level
+        5 — The Head of the Climb} — walls &amp; doors</li>
 
-        <li class="kg-task" data-done="false" data-task-key="913278c1">Level 5 — The Gold-Door Court — light
+        <li class="kg-task" data-done="false" data-task-key="8c5693b2">Level 5 — The Head of the Climb — light
         sources</li>
 
         </ul>
@@ -1673,6 +1706,21 @@ pages:
         <li class="kg-task" data-done="false" data-task-key="795ecc0b">&quot;Topmost Pedestal&quot; → Kenbun page
         (floor: the-switchback)</li>
 
+        <li class="kg-task" data-done="false" data-task-key="4ba73b45">&quot;L1 Watch&quot; → Kenbun page (floor:
+        the-switchback)</li>
+
+        <li class="kg-task" data-done="false" data-task-key="f41b2f00">&quot;L2 Island&quot; → Kenbun page (floor:
+        the-switchback)</li>
+
+        <li class="kg-task" data-done="false" data-task-key="1da7e0c6">&quot;L3 Terrace&quot; → Kenbun page (floor:
+        the-switchback)</li>
+
+        <li class="kg-task" data-done="false" data-task-key="12326ae3">&quot;L4 Terrace&quot; → Kenbun page (floor:
+        the-switchback)</li>
+
+        <li class="kg-task" data-done="false" data-task-key="82244f9d">&quot;L5 Summit&quot; → Kenbun page (floor:
+        the-switchback)</li>
+
         </ul>
 
         <p><strong>Final</strong></p>
@@ -1702,7 +1750,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/locations.json
     slug: loc-tenku-sando
     frontmatter:
       name: Tenkū Sandō

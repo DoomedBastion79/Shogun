@@ -7,7 +7,7 @@ pages:
     name: Light of the Star Mirror
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -301,7 +301,7 @@ pages:
     name: The Clan Gekko Investigation
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -573,7 +573,7 @@ pages:
     name: 'Misunderstood Ventures: The Side Effects of Wisdom'
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -791,7 +791,7 @@ pages:
     name: Shadows of the Sacred Grove
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -994,7 +994,7 @@ pages:
     name: 'A Mother''s Redemption: Journey to New Beginnings'
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1162,7 +1162,7 @@ pages:
     name: 'Nightfall Ambush: An Unknown Journey'
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1370,7 +1370,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/quests.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/quests.json
     slug: in-progress
     frontmatter:
       name: In Progress

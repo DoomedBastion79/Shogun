@@ -7,7 +7,7 @@ pages:
     name: Campaign Role
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -93,7 +93,7 @@ pages:
     name: Floor 1
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1677,7 +1677,7 @@ pages:
     name: The South Entrance — Kinko no Mon
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2107,7 +2107,7 @@ pages:
     name: Tapestries of Kinko no Mon
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -4356,7 +4356,7 @@ pages:
     name: Central Hallway Cross — Watariro
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -4555,7 +4555,7 @@ pages:
     name: The Grand Hall — Hiroba
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -5155,7 +5155,7 @@ pages:
     name: Kinryū no Megumi — Blessing Table
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -5466,7 +5466,7 @@ pages:
     name: The Inner Sanctum — Naijin
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -5760,7 +5760,7 @@ pages:
     name: Jushoku no Ma — Abbot's Chamber
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -6013,7 +6013,7 @@ pages:
     name: The Zasu's Ritual Scrolls — Hebi no Hensen
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -6321,7 +6321,7 @@ pages:
     name: The Star Shrine — Okuden
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -6701,7 +6701,7 @@ pages:
     name: The Mess Hall and Kitchen — Shokudo
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -6867,7 +6867,7 @@ pages:
     name: Kegare no Yamai — Disease of Defilement
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -6930,7 +6930,7 @@ pages:
     name: The Dormitories — Bo
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -7360,7 +7360,7 @@ pages:
     name: Floor 2
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -7382,7 +7382,7 @@ pages:
     name: Tenkairō — The Celestial Ring
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -7860,7 +7860,7 @@ pages:
     name: Hoshikagami no Ma — Chamber of the Star Mirror
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -8028,7 +8028,7 @@ pages:
     name: The Approach — Hallway and Brood Guardian
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -8351,7 +8351,7 @@ pages:
     name: The Brood Sanctum — Buntoshi no Seiiki
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -8643,7 +8643,7 @@ pages:
     name: The Trial
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -9460,7 +9460,7 @@ pages:
     name: The Hatching
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -9566,7 +9566,7 @@ pages:
     name: Departure — Aya & The Four Gifts
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -10026,7 +10026,7 @@ pages:
     name: Chūgi — The Eighth Virtue, Ongoing
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -10115,7 +10115,7 @@ pages:
     name: DM Notes — Integration
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -10323,7 +10323,7 @@ pages:
     name: Kyōzō — The Hidden Archives
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -10640,7 +10640,7 @@ pages:
     name: Supplements
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -10662,7 +10662,7 @@ pages:
     name: Observatory Repair Mechanics
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -11392,7 +11392,7 @@ pages:
     name: Scene Assembly
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -11556,7 +11556,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/locations.json
     slug: loc-tenkuji-temple
     frontmatter:
       name: Ōryūzan Tenkū-ji

@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: q4j7J6zD1cO2OLfT
-    _key: '!actors.items!q4j7J6zD1cO2OLfT'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.q4j7J6zD1cO2OLfT'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: e9X2bgaVg1JXq3oK
-    _key: '!actors.items!e9X2bgaVg1JXq3oK'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.e9X2bgaVg1JXq3oK'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: l9PR4uFv5erIaDyq
-    _key: '!actors.items!l9PR4uFv5erIaDyq'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.l9PR4uFv5erIaDyq'
     name: Shadow Stealth
     type: feat
     img: icons/svg/aura.svg
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: jBE2aQ2ogvlN0vhc
-    _key: '!actors.items!jBE2aQ2ogvlN0vhc'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.jBE2aQ2ogvlN0vhc'
     name: Secret-Sense
     type: feat
     img: icons/svg/aura.svg
@@ -95,7 +95,7 @@ items:
     effects: []
     flags: {}
   - _id: AZbzFeCcAD6cTFsY
-    _key: '!actors.items!AZbzFeCcAD6cTFsY'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.AZbzFeCcAD6cTFsY'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -114,7 +114,7 @@ items:
     effects: []
     flags: {}
   - _id: qenfi7HM6BP6Zhg2
-    _key: '!actors.items!qenfi7HM6BP6Zhg2'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.qenfi7HM6BP6Zhg2'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -273,7 +273,7 @@ items:
           activity: []
           effect: []
   - _id: I607QkPyolwmGFad
-    _key: '!actors.items!I607QkPyolwmGFad'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.I607QkPyolwmGFad'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -432,7 +432,7 @@ items:
           activity: []
           effect: []
   - _id: 3gRy7mnLDEJilocM
-    _key: '!actors.items!3gRy7mnLDEJilocM'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.3gRy7mnLDEJilocM'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -591,7 +591,7 @@ items:
           activity: []
           effect: []
   - _id: tqolNHqFdDqViIkW
-    _key: '!actors.items!tqolNHqFdDqViIkW'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.tqolNHqFdDqViIkW'
     name: Whisperbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -613,7 +613,7 @@ items:
     effects: []
     flags: {}
   - _id: CF1WoO4Fn9qbktMd
-    _key: '!actors.items!CF1WoO4Fn9qbktMd'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.CF1WoO4Fn9qbktMd'
     name: Buried Truth
     type: feat
     img: icons/svg/aura.svg
@@ -634,7 +634,7 @@ items:
     effects: []
     flags: {}
   - _id: 2SSWzGyGrxXlHU5b
-    _key: '!actors.items!2SSWzGyGrxXlHU5b'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.2SSWzGyGrxXlHU5b'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -653,7 +653,7 @@ items:
     effects: []
     flags: {}
   - _id: NIN47manQbdnHnwV
-    _key: '!actors.items!NIN47manQbdnHnwV'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.NIN47manQbdnHnwV'
     name: Tail Lash (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -672,7 +672,7 @@ items:
     effects: []
     flags: {}
   - _id: IrCOfHadaKPltfa3
-    _key: '!actors.items!IrCOfHadaKPltfa3'
+    _key: '!actors.items!hMG3PDN0TbhrWq7E.IrCOfHadaKPltfa3'
     name: Whisper of Doubt (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -753,6 +753,7 @@ system:
       truesight: 30
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -839,6 +840,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 14
+    ep: 0
+    sp: 45
+    cp: 80
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

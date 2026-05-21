@@ -558,8 +558,8 @@ lights:
     flags: {}
     _key: "!scenes.lights!h48SZhWWsQ4l6JYY.oiJNNSECJGQhpxAn"
 notes:
-  - entryId: OnCAZEyD0EnVhj7J
-    pageId: tRQA8DJqC4dGbiTE
+  - entryId: pOY59ySukjVhZJkf
+    pageId: HlQWN63slDjdsXo0
     global: false
     levels: []
     x: 2600
@@ -583,16 +583,20 @@ notes:
     textAnchor: 1
     _id: QU6bMFlAWapDQJbL
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: celestial-approach
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.QU6bMFlAWapDQJbL"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
-      - defaultLevel0000
-    x: 4280
-    "y": 5800
-    elevation: 0
+      - DnKT74QTDNSl7ZgP
+    x: 3640
+    "y": 2040
+    elevation: 120
     sort: 6
     iconSize: 60
     texture:
@@ -611,10 +615,14 @@ notes:
     textAnchor: 1
     _id: 6JnzRNPl0aVJkKOt
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.6JnzRNPl0aVJkKOt"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - bBrqR5sqb0LvwumB
@@ -638,11 +646,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: pzABlNpmvqbSHKCB
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.pzABlNpmvqbSHKCB"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - bBrqR5sqb0LvwumB
@@ -666,11 +678,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: KIeqMRGa18N0KHUC
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.KIeqMRGa18N0KHUC"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - OQ2aal3ePQ1IM0R9
@@ -694,11 +710,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: DL5RLFSN08cbuImL
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.DL5RLFSN08cbuImL"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - OQ2aal3ePQ1IM0R9
@@ -722,11 +742,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: fh2n6xsdBRpaRMc1
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.fh2n6xsdBRpaRMc1"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - VDOwNnMywgJeI6kS
@@ -750,11 +774,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: nVxZlENFaMwXmJZQ
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.nVxZlENFaMwXmJZQ"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: pmbT824faKPuZQTm
+  - entryId: pOY59ySukjVhZJkf
+    pageId: L2XWRT8Q01A6gAFC
     global: false
     levels:
       - VDOwNnMywgJeI6kS
@@ -778,17 +806,21 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: watcher-head
     _id: VrQ9QaOek7Ti3zpt
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.VrQ9QaOek7Ti3zpt"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: mowe0y3cqxhLfaJH
+  - entryId: pOY59ySukjVhZJkf
+    pageId: uFkD62p24VyZid6x
     global: false
     levels:
-      - DnKT74QTDNSl7ZgP
-    x: 3520
-    "y": 1960
-    elevation: 120
+      - defaultLevel0000
+    x: 4400
+    "y": 5880
+    elevation: 0
     sort: 6
     iconSize: 60
     texture:
@@ -806,11 +838,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: threshold-head
     _id: KLGfAFSor7QkOadC
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.KLGfAFSor7QkOadC"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: f9HEzw2xs2fWJv9R
+  - entryId: pOY59ySukjVhZJkf
+    pageId: pIUKdnsZ94CEJPCn
     global: false
     levels:
       - bBrqR5sqb0LvwumB
@@ -834,11 +870,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: pedestal-eldest
     _id: 2AbR8y1QqcKnzSXf
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.2AbR8y1QqcKnzSXf"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: 4hzu7luvdBsI9MfR
+  - entryId: pOY59ySukjVhZJkf
+    pageId: kfdKAORM9sm6lI51
     global: false
     levels:
       - bBrqR5sqb0LvwumB
@@ -862,11 +902,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: pedestal-mourner
     _id: O5f2CzePlvSVElnk
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.O5f2CzePlvSVElnk"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: 5flAI7pHqXEabFgS
+  - entryId: pOY59ySukjVhZJkf
+    pageId: dz2uV5Kj1jU4Zzqb
     global: false
     levels:
       - OQ2aal3ePQ1IM0R9
@@ -890,11 +934,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: pedestal-faithful
     _id: rjZ1nYweIC1ZzuSS
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.rjZ1nYweIC1ZzuSS"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: oh1L0Oa5zQNQoCYn
+  - entryId: pOY59ySukjVhZJkf
+    pageId: Hm54rJ5N2i5fGOeF
     global: false
     levels:
       - VDOwNnMywgJeI6kS
@@ -918,11 +966,15 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: pedestal-topmost
     _id: UqGDyarD5QtpJkXp
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.UqGDyarD5QtpJkXp"
-  - entryId: 2TOWzarIPMkg2SMe
-    pageId: 6C77BaUvuXD7khzo
+  - entryId: pOY59ySukjVhZJkf
+    pageId: TmxNVGDMwVLewLlR
     global: false
     levels:
       - defaultLevel0000
@@ -946,7 +998,11 @@ notes:
     textColor: "#ffffff"
     textAnchor: 1
     locked: false
-    flags: {}
+    flags:
+      kagekuni-assistant:
+        scenePin:
+          location: loc-tenku-sando
+          page: sleeping-dragon
     _id: Dm7nLoVNn8yK5UOU
     _key: "!scenes.notes!h48SZhWWsQ4l6JYY.Dm7nLoVNn8yK5UOU"
 sounds: []
@@ -1000,7 +1056,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!1aTcyCdFuUWESgOR.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.1aTcyCdFuUWESgOR.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1056,7 +1112,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!wBPq2lAthnEla3VB.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.wBPq2lAthnEla3VB.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1112,7 +1168,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!9CuhVOKQTYCvZDY5.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.9CuhVOKQTYCvZDY5.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1380,7 +1436,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!FjbghbEC60wkYFcM.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.FjbghbEC60wkYFcM.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1436,7 +1492,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!C3rf32Fy8D8WEIaX.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.C3rf32Fy8D8WEIaX.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1492,7 +1548,7 @@ regions:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-        _key: "!regions.behaviors!ZyiL5e2KkerPD9ZB.scwPmGtgKTX9Qn16"
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.ZyiL5e2KkerPD9ZB.scwPmGtgKTX9Qn16"
     locked: false
     flags: {}
     _shapeConstraints: null
@@ -1625,6 +1681,69 @@ regions:
     ownership:
       default: 0
     _key: "!scenes.regions!h48SZhWWsQ4l6JYY.6mzCpVx0ARSzV0e8"
+  - color: "#cc2843"
+    elevation:
+      bottom: 0
+      top: null
+      topInclusive: false
+    levels: []
+    restriction:
+      enabled: false
+      type: move
+      priority: 0
+    attachment:
+      token: null
+    visibility: 4
+    highlightMode: shapes
+    displayMeasurements: false
+    hidden: false
+    name: Limited Visibility
+    _id: deVbF6xfA7BJcy9D
+    shapes:
+      - type: rectangle
+        x: 1120
+        "y": 1520
+        width: 4720
+        height: 6349.026548672565
+        hole: false
+        anchorX: 0
+        anchorY: 0
+        rotation: 0
+        gridBased: false
+    behaviors:
+      - name: Limit Range
+        type: limits.limitRange
+        _id: HP7Tdl0ktNiFdC2H
+        system:
+          sight:
+            - basicSight
+            - lightPerception
+            - darkvision
+          light: true
+          darkness: false
+          sound: false
+          range: 60
+          mode: 2
+          priority: 0
+        disabled: false
+        flags: {}
+        _stats:
+          coreVersion: "14.361"
+          systemId: dnd5e
+          systemVersion: 5.3.2
+          createdTime: 1779330486157
+          modifiedTime: 1779330746027
+          lastModifiedBy: Vob6s8Ve8UYyLSDn
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+        _key: "!scenes.regions.behaviors!h48SZhWWsQ4l6JYY.deVbF6xfA7BJcy9D.HP7Tdl0ktNiFdC2H"
+    locked: false
+    flags: {}
+    _shapeConstraints: null
+    ownership:
+      default: 0
+    _key: "!scenes.regions!h48SZhWWsQ4l6JYY.deVbF6xfA7BJcy9D"
 tiles: []
 walls:
   - levels:
@@ -14341,13 +14460,16 @@ walls:
     _key: "!scenes.walls!h48SZhWWsQ4l6JYY.E5Vss8KUOXzZ46fA"
 playlist: null
 playlistSound: null
-journal: null
+journal: pOY59ySukjVhZJkf
 journalEntryPage: null
-weather: snow
+weather: blizzard
 folder: jS6rlDYTWGlSdNcc
 flags:
   multi-token-edit:
     blackBars: false
+  kagekuni-assistant:
+    scenePin:
+      location: loc-tenku-sando
 _stats:
   coreVersion: "14.361"
   systemId: dnd5e

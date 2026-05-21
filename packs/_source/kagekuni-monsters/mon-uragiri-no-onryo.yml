@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: uvHYPYPpUIjZB80R
-    _key: '!actors.items!uvHYPYPpUIjZB80R'
+    _key: '!actors.items!4MbPf7AmyxvvHd4k.uvHYPYPpUIjZB80R'
     name: Incorporeal Movement
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: FF8FJAGgxQo02FA1
-    _key: '!actors.items!FF8FJAGgxQo02FA1'
+    _key: '!actors.items!4MbPf7AmyxvvHd4k.FF8FJAGgxQo02FA1'
     name: Sunlight Sensitivity
     type: feat
     img: icons/svg/aura.svg
@@ -59,7 +59,7 @@ items:
     effects: []
     flags: {}
   - _id: oCz4dpV1FBsdutjA
-    _key: '!actors.items!oCz4dpV1FBsdutjA'
+    _key: '!actors.items!4MbPf7AmyxvvHd4k.oCz4dpV1FBsdutjA'
     name: Life Drain
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -281,6 +281,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >-
@@ -349,6 +350,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 0
+    ep: 0
+    sp: 3
+    cp: 10
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

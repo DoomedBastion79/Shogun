@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: 0CwcD8yD7IV9hguE
-    _key: '!actors.items!0CwcD8yD7IV9hguE'
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.0CwcD8yD7IV9hguE'
     name: Serpent Grace
     type: feat
     img: icons/svg/aura.svg
@@ -36,14 +36,16 @@ items:
     effects: []
     flags: {}
   - _id: uTajnp32aOBrvi4E
-    _key: '!actors.items!uTajnp32aOBrvi4E'
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.uTajnp32aOBrvi4E'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
     sort: 100
     system:
       description:
-        value: 'The sohei makes two attacks: one with its Yari and one Unarmed Strike, or two Unarmed Strikes.'
+        value: >-
+          The sohei makes two attacks: one with its Yari and one Unarmed Strike, two Unarmed Strikes, or two shots with
+          its Hankyu.
         chat: ''
       source:
         book: Kagekuni Campaign
@@ -55,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: YAuhFNZcG3Y0gxj0
-    _key: '!actors.items!YAuhFNZcG3Y0gxj0'
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.YAuhFNZcG3Y0gxj0'
     name: Yari (Spear)
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -214,7 +216,7 @@ items:
           activity: []
           effect: []
   - _id: xG9Z265YkhtTWioG
-    _key: '!actors.items!xG9Z265YkhtTWioG'
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.xG9Z265YkhtTWioG'
     name: Unarmed Strike
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -372,6 +374,622 @@ items:
         riders:
           activity: []
           effect: []
+  - _id: 9P7ouEcK4bET4glw
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.9P7ouEcK4bET4glw'
+    name: Hankyu (Shortbow)
+    type: weapon
+    img: icons/weapons/bows/longbow-recurve.webp
+    sort: 400
+    system:
+      description:
+        value: ''
+        chat: ''
+      source:
+        book: Kagekuni Campaign
+        custom: ''
+        revision: 1
+        rules: '2024'
+      identifier: hankyu-shortbow
+      quantity: 1
+      weight:
+        value: 0
+        units: lb
+      price:
+        value: 0
+        denomination: gp
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      identified: true
+      unidentified:
+        name: ''
+        description: ''
+      container: null
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      type:
+        value: martialR
+        baseItem: ''
+      damage:
+        base:
+          number: 1
+          denomination: 6
+          bonus: '3'
+          types:
+            - piercing
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+        versatile:
+          number: null
+          denomination: null
+          bonus: ''
+          types: []
+          custom:
+            enabled: false
+            formula: ''
+          scaling:
+            mode: ''
+            number: null
+            formula: ''
+      magicalBonus: ''
+      mastery: ''
+      range:
+        value: 80
+        long: 320
+        units: ft
+        reach: null
+      properties: []
+      proficient: 1
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: attack
+          activation:
+            type: action
+            value: 1
+            condition: ''
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+            spellSlot: true
+          description:
+            chatFlavor: ''
+          duration:
+            concentration: false
+            value: ''
+            units: inst
+            special: ''
+            override: false
+          effects: []
+          range:
+            units: ft
+            special: ''
+            override: false
+          target:
+            template:
+              count: ''
+              contiguous: false
+              type: ''
+              size: ''
+              width: ''
+              height: ''
+              units: ft
+              stationary: false
+            affects:
+              count: '1'
+              type: creature
+              choice: false
+              special: ''
+            prompt: true
+            override: false
+          uses:
+            spent: 0
+            max: ''
+            recovery: []
+          attack:
+            ability: dex
+            bonus: '5'
+            critical:
+              threshold: null
+            flat: false
+            type:
+              value: ranged
+              classification: weapon
+          damage:
+            critical:
+              bonus: ''
+            includeBase: true
+            parts: []
+          sort: 0
+          img: null
+          flags: {}
+          attackMode: oneHanded
+          ammunition: ''
+      ammunition: {}
+      armor:
+        value: null
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      cover: null
+      crew:
+        value: []
+    effects: []
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+  - name: Sacred Flame
+    system:
+      description:
+        value: >-
+          <p>Flame-like radiance descends on a creature that you can see within range. The target must succeed on a
+          Dexterity saving throw or take 1d8 Radiant damage. The target gains no benefit from Half Cover or
+          Three-Quarters Cover for this save.</p><p><strong>Cantrip Upgrade.</strong> The damage increases by 1d8 when
+          you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          choice: false
+          count: '1'
+          type: creature
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '60'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: evo
+      properties:
+        - vocal
+        - somatic
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dTJW1b6fCd5TyMEa:
+          type: save
+          name: ''
+          _id: dTJW1b6fCd5TyMEa
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          damage:
+            parts:
+              - custom:
+                  enabled: false
+                  formula: ''
+                number: 1
+                denomination: '8'
+                bonus: ''
+                types:
+                  - radiant
+                scaling:
+                  mode: whole
+            onSave: none
+          save:
+            ability: dex
+            dc:
+              calculation: spellcasting
+              formula: ''
+          img: ''
+          appliedEffects: []
+      identifier: sacred-flame
+    _id: 9q2zDx37GtO3RdF7
+    type: spell
+    img: icons/magic/fire/projectile-embers-orange.webp
+    effects: []
+    folder: null
+    sort: 500
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.9q2zDx37GtO3RdF7'
+  - name: Thaumaturgy
+    system:
+      description:
+        value: >-
+          <p>You manifest a minor wonder within range. You create one of the effects below within range. If you cast
+          this spell multiple times, you can have up to three of its 1-minute effects active at a
+          time.</p><p><strong>Altered Eyes.</strong> You alter the appearance of your eyes for 1
+          minute.</p><p><strong>Booming Voice.</strong> Your voice booms up to three times as loud as normal for 1
+          minute. For the duration, you have Advantage on [[/check ability=cha skill=itm]] checks.</p><p><strong>Fire
+          Play.</strong> You cause flames to flicker, brighten, dim, or change color for 1
+          minute.</p><p><strong>Invisible Hand.</strong> You instantaneously cause an unlocked door or window to fly
+          open or slam shut.</p><p><strong>Phantom Sound.</strong> You create an instantaneous sound that originates
+          from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous
+          whispers.</p><p><strong>Tremors.</strong> You cause harmless tremors in the ground for 1 minute.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+        revision: 2
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+          count: ''
+          type: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: ft
+        special: ''
+        value: '30'
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      level: 0
+      school: trs
+      properties:
+        - vocal
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        q83milmNAKF9cymI:
+          type: utility
+          _id: q83milmNAKF9cymI
+          sort: 0
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            scaling:
+              allowed: false
+            spellSlot: true
+            targets: []
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            concentration: false
+            override: false
+          effects:
+            - _id: WUkq6HS8v9DK6fQz
+          range:
+            override: false
+          target:
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+            prompt: true
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          roll:
+            prompt: false
+            visible: false
+            name: ''
+            formula: ''
+          name: ''
+          img: ''
+          appliedEffects: []
+      identifier: thaumaturgy
+    _id: hfVC6FdB5UUVlAiT
+    type: spell
+    img: icons/environment/people/cleric-orange.webp
+    effects: []
+    folder: null
+    sort: 600
+    ownership:
+      default: 0
+    flags: {}
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.hfVC6FdB5UUVlAiT'
+  - name: Command
+    system:
+      description:
+        value: >-
+          <p>You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom
+          saving throw or follow the command on its next turn. Choose the command from these
+          options:</p><p><strong>Approach.</strong> The target moves toward you by the shortest and most direct route,
+          ending its turn if it moves within 5 feet of you.</p><p><strong>Drop.</strong> The target drops whatever it is
+          holding and then ends its turn.</p><p><strong>Flee.</strong> The target spends its turn moving away from you
+          by the fastest available means.</p><p><strong>Grovel.</strong> The target has the Prone condition and then
+          ends its turn.</p><p><strong>Halt.</strong> On its turn, the target doesn't move and takes no action or Bonus
+          Action.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can affect one additional creature for
+          each spell slot level above 1.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: ''
+        units: inst
+      target:
+        affects:
+          type: creature
+          count: '@item.level'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '60'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 1
+      school: enc
+      properties:
+        - vocal
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects: []
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: command
+    _id: hpJ70Qw2cqoJGGh1
+    type: spell
+    img: icons/magic/sonic/scream-wail-shout-teal.webp
+    effects: []
+    folder: null
+    sort: 700
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.hpJ70Qw2cqoJGGh1'
+  - name: Shield of Faith
+    system:
+      description:
+        value: >-
+          <p>A shimmering field surrounds a creature of your choice within range, granting it a +2 bonus to AC for the
+          duration.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: bonus
+        condition: ''
+        value: null
+      duration:
+        value: '10'
+        units: minute
+      target:
+        affects:
+          type: creature
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        value: '60'
+        units: ft
+        special: ''
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 1
+      school: abj
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a prayer scroll
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: LObm7lj1VH4fF1Al
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: shield-of-faith
+    _id: aDZPiGu5gMQo2MnC
+    type: spell
+    img: icons/magic/holy/barrier-shield-winged-cross.webp
+    effects: []
+    folder: null
+    sort: 800
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!vWu3fJlU8NZsRRGM.aDZPiGu5gMQo2MnC'
 effects: []
 folder: vpQj8SzmaX00b9VK
 sort: 0
@@ -433,6 +1051,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: wis
   details:
     biography:
       value: >-
@@ -496,6 +1115,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 1
+    ep: 0
+    sp: 6
+    cp: 15
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

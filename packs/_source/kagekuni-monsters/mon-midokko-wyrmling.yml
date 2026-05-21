@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: wL6om2YcthlQlMno
-    _key: '!actors.items!wL6om2YcthlQlMno'
+    _key: '!actors.items!mwwX9Cst4as3LsvC.wL6om2YcthlQlMno'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: okZggLVyvrW9sCbV
-    _key: '!actors.items!okZggLVyvrW9sCbV'
+    _key: '!actors.items!mwwX9Cst4as3LsvC.okZggLVyvrW9sCbV'
     name: Speak with Plants
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: vYc8ZhSN3CCfAAlB
-    _key: '!actors.items!vYc8ZhSN3CCfAAlB'
+    _key: '!actors.items!mwwX9Cst4as3LsvC.vYc8ZhSN3CCfAAlB'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -214,7 +214,7 @@ items:
           activity: []
           effect: []
   - _id: OPr5KrVbZrQVZb0t
-    _key: '!actors.items!OPr5KrVbZrQVZb0t'
+    _key: '!actors.items!mwwX9Cst4as3LsvC.OPr5KrVbZrQVZb0t'
     name: Spore Cloud (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -295,6 +295,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -348,6 +349,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

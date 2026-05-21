@@ -7,7 +7,7 @@ pages:
     name: The World of Seizan
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -67,7 +67,7 @@ pages:
     name: Astrological Events
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -590,7 +590,7 @@ pages:
     name: Sei Fundamentals
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -631,7 +631,7 @@ pages:
     name: Seimasters
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -661,7 +661,7 @@ pages:
     name: Magical Factions (Publicly Known)
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -695,7 +695,7 @@ pages:
     name: Kuroyami no Akuma
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -775,7 +775,7 @@ pages:
     name: The Three Stars
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -963,7 +963,7 @@ pages:
     name: The Moons
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1383,7 +1383,7 @@ pages:
     name: The Planets
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1499,7 +1499,7 @@ pages:
     name: Sei
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1644,7 +1644,7 @@ pages:
     name: The Seasons
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1861,7 +1861,7 @@ pages:
     name: The Calendar
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2129,7 +2129,7 @@ pages:
     name: The Current Year 16744
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2487,7 +2487,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: sekai
     frontmatter:
       name: 世界 Sekai — The World

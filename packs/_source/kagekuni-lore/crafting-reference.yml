@@ -7,7 +7,7 @@ pages:
     name: 肉 niku — Meat & Edible Animal Products
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -183,7 +183,7 @@ pages:
     name: 薬草 yakuso — Herbs & Medicinal Plants
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -332,7 +332,7 @@ pages:
     name: きのこ kinoko — Fungi
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -472,7 +472,7 @@ pages:
     name: 調味料 chomiryo — Seasonings & Condiments
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -616,7 +616,7 @@ pages:
     name: 主食 shushoku — Staple Foods
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -766,7 +766,7 @@ pages:
     name: 毛皮 kegawa — Furs & Hides
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -807,7 +807,7 @@ pages:
     name: 骨 hone — Bone, Horn, Shell & Sinew
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -861,7 +861,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/materials.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/materials.json
     slug: crafting-reference
     frontmatter:
       name: Crafting Reference

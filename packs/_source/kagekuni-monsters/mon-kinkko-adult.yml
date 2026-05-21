@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/kinkko-adult.webp
 items:
   - _id: 22EMfDOyiPGLiX1z
-    _key: '!actors.items!22EMfDOyiPGLiX1z'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.22EMfDOyiPGLiX1z'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: NHzMQP7MCL3Y2MVD
-    _key: '!actors.items!NHzMQP7MCL3Y2MVD'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.NHzMQP7MCL3Y2MVD'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: pOD1Tqpf7aooaMQW
-    _key: '!actors.items!pOD1Tqpf7aooaMQW'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.pOD1Tqpf7aooaMQW'
     name: Honor's Witness
     type: feat
     img: icons/svg/aura.svg
@@ -78,7 +78,7 @@ items:
     effects: []
     flags: {}
   - _id: bJEoRLCD2IKu2dqK
-    _key: '!actors.items!bJEoRLCD2IKu2dqK'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.bJEoRLCD2IKu2dqK'
     name: Radiant Aura
     type: feat
     img: icons/svg/aura.svg
@@ -97,7 +97,7 @@ items:
     effects: []
     flags: {}
   - _id: 19L6CG0LHlUllvJf
-    _key: '!actors.items!19L6CG0LHlUllvJf'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.19L6CG0LHlUllvJf'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -116,7 +116,7 @@ items:
     effects: []
     flags: {}
   - _id: 8gxgWoRvJ1o7Szjl
-    _key: '!actors.items!8gxgWoRvJ1o7Szjl'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.8gxgWoRvJ1o7Szjl'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -275,7 +275,7 @@ items:
           activity: []
           effect: []
   - _id: z7hUA1nv3ESH57Jh
-    _key: '!actors.items!z7hUA1nv3ESH57Jh'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.z7hUA1nv3ESH57Jh'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -434,7 +434,7 @@ items:
           activity: []
           effect: []
   - _id: DTMPVbgRR1R5w4Ut
-    _key: '!actors.items!DTMPVbgRR1R5w4Ut'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.DTMPVbgRR1R5w4Ut'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -593,7 +593,7 @@ items:
           activity: []
           effect: []
   - _id: HM7bt4xyX0FMYsj9
-    _key: '!actors.items!HM7bt4xyX0FMYsj9'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.HM7bt4xyX0FMYsj9'
     name: Sunbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -615,7 +615,7 @@ items:
     effects: []
     flags: {}
   - _id: 5Vw7T2EvvsJ2mMhn
-    _key: '!actors.items!5Vw7T2EvvsJ2mMhn'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.5Vw7T2EvvsJ2mMhn'
     name: Sovereign Aegis
     type: feat
     img: icons/svg/aura.svg
@@ -636,7 +636,7 @@ items:
     effects: []
     flags: {}
   - _id: 8VrhcbHWLYgAcXil
-    _key: '!actors.items!8VrhcbHWLYgAcXil'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.8VrhcbHWLYgAcXil'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -655,7 +655,7 @@ items:
     effects: []
     flags: {}
   - _id: ovWMaHJ9uvEDeEdZ
-    _key: '!actors.items!ovWMaHJ9uvEDeEdZ'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.ovWMaHJ9uvEDeEdZ'
     name: Tail Lash (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -674,7 +674,7 @@ items:
     effects: []
     flags: {}
   - _id: hdKb3owJwN14IuiZ
-    _key: '!actors.items!hdKb3owJwN14IuiZ'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.hdKb3owJwN14IuiZ'
     name: Word of Authority (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -695,7 +695,7 @@ items:
     effects: []
     flags: {}
   - _id: hoPrcONIr10TxHOo
-    _key: '!actors.items!hoPrcONIr10TxHOo'
+    _key: '!actors.items!CJnIhBQGb6n6AiTt.hoPrcONIr10TxHOo'
     name: Sunburst (Costs 3 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -777,6 +777,7 @@ system:
       truesight: 30
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -863,6 +864,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 16
+    ep: 0
+    sp: 51
+    cp: 90
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

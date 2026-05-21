@@ -255,15 +255,15 @@
 }
 
 .kg-dm-mechanics {
-  border-left-color: #d4a72c;
-  background: rgba(212, 167, 44, 0.10);
+  border-left-color: #dc2626;
+  background: rgba(220, 38, 38, 0.13);
 }
-.kg-dm-mechanics > p:first-child strong { color: #e3c068; }
+.kg-dm-mechanics > p:first-child strong { color: #f87171; }
 .journal-entry-page section.secret[data-dmrole="mechanics"]::before {
   content: "mechanics";
-  color: #f0d999;
-  background: rgba(212, 167, 44, 0.16);
-  border-color: rgba(212, 167, 44, 0.45);
+  color: #fca5a5;
+  background: rgba(220, 38, 38, 0.20);
+  border-color: rgba(220, 38, 38, 0.55);
 }
 
 .kg-dm-encounter {

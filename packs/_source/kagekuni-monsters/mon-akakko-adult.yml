@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/akakko-adult.webp
 items:
   - _id: YUagp5up20l2kEVO
-    _key: '!actors.items!YUagp5up20l2kEVO'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.YUagp5up20l2kEVO'
     name: Heated Body
     type: feat
     img: icons/svg/aura.svg
@@ -40,7 +40,7 @@ items:
     effects: []
     flags: {}
   - _id: CW6ZVJTGYo7JFXzW
-    _key: '!actors.items!CW6ZVJTGYo7JFXzW'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.CW6ZVJTGYo7JFXzW'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -59,7 +59,7 @@ items:
     effects: []
     flags: {}
   - _id: o1obaabvgv2Cu8Vu
-    _key: '!actors.items!o1obaabvgv2Cu8Vu'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.o1obaabvgv2Cu8Vu'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -78,7 +78,7 @@ items:
     effects: []
     flags: {}
   - _id: FOJGs4I3DUHTF3DF
-    _key: '!actors.items!FOJGs4I3DUHTF3DF'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.FOJGs4I3DUHTF3DF'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -97,7 +97,7 @@ items:
     effects: []
     flags: {}
   - _id: EJ8ueHZGlOyLwg4h
-    _key: '!actors.items!EJ8ueHZGlOyLwg4h'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.EJ8ueHZGlOyLwg4h'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -256,7 +256,7 @@ items:
           activity: []
           effect: []
   - _id: 3Ue4KBhgbEyXc854
-    _key: '!actors.items!3Ue4KBhgbEyXc854'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.3Ue4KBhgbEyXc854'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -415,7 +415,7 @@ items:
           activity: []
           effect: []
   - _id: 2GYJ2K58ZtHjfk6P
-    _key: '!actors.items!2GYJ2K58ZtHjfk6P'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.2GYJ2K58ZtHjfk6P'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -574,7 +574,7 @@ items:
           activity: []
           effect: []
   - _id: OicwlgeQF1QwhTqQ
-    _key: '!actors.items!OicwlgeQF1QwhTqQ'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.OicwlgeQF1QwhTqQ'
     name: Cinderbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -595,7 +595,7 @@ items:
     effects: []
     flags: {}
   - _id: ec1lRzUzc4p5eNAd
-    _key: '!actors.items!ec1lRzUzc4p5eNAd'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.ec1lRzUzc4p5eNAd'
     name: Thunderclap (Recharge 6)
     type: feat
     img: icons/svg/aura.svg
@@ -617,7 +617,7 @@ items:
     effects: []
     flags: {}
   - _id: iVVuf8CZWyvMPXZL
-    _key: '!actors.items!iVVuf8CZWyvMPXZL'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.iVVuf8CZWyvMPXZL'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -636,7 +636,7 @@ items:
     effects: []
     flags: {}
   - _id: nXlhRmvRRKmff6zV
-    _key: '!actors.items!nXlhRmvRRKmff6zV'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.nXlhRmvRRKmff6zV'
     name: Tail Lash (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -655,7 +655,7 @@ items:
     effects: []
     flags: {}
   - _id: bpl27KEyJWzchaC2
-    _key: '!actors.items!bpl27KEyJWzchaC2'
+    _key: '!actors.items!BRvW0Z6xFX1z25Ol.bpl27KEyJWzchaC2'
     name: Ember Burst (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -736,6 +736,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -823,6 +824,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 12
+    ep: 0
+    sp: 39
+    cp: 70
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

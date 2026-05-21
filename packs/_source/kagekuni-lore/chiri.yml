@@ -7,7 +7,7 @@ pages:
     name: The Shrouded Isles
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -49,7 +49,7 @@ pages:
     name: Hokori
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -224,7 +224,7 @@ pages:
     name: Hana
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -678,7 +678,7 @@ pages:
     name: Hi
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -990,7 +990,7 @@ pages:
     name: Kaze
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1339,7 +1339,7 @@ pages:
     name: Kusa
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1594,7 +1594,7 @@ pages:
     name: Mizu
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1858,7 +1858,7 @@ pages:
     name: Nami
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2088,7 +2088,7 @@ pages:
     name: Sora
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2302,7 +2302,7 @@ pages:
     name: Tsuchi
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -2529,7 +2529,7 @@ pages:
     name: Kawa
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2622,7 +2622,7 @@ pages:
     name: Fushibird
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2680,7 +2680,7 @@ pages:
     name: Yurei
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2729,7 +2729,7 @@ pages:
     name: Tatara
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2835,7 +2835,7 @@ pages:
     name: Minor Islands
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2892,7 +2892,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: chiri
     frontmatter:
       name: 地理 Chiri — Geography

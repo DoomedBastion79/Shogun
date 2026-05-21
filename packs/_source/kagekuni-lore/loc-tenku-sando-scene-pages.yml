@@ -1,13 +1,95 @@
 _id: pOY59ySukjVhZJkf
 _key: '!journal!pOY59ySukjVhZJkf'
-name: Tenkū Sandō — 見聞 Kenbun
+name: 見聞 Kenbun — Tenkū Sandō
 pages:
-  - _id: rxqpatVkhWtzJY9r
-    _key: '!journal.pages!pOY59ySukjVhZJkf.rxqpatVkhWtzJY9r'
-    name: The Switchback
+  - _id: HZOZVNBmgF3JbOLD
+    _key: '!journal.pages!pOY59ySukjVhZJkf.HZOZVNBmgF3JbOLD'
+    name: Ventures
     type: text
     title:
-      show: true
+      show: false
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-venture-nagatsuki-1-16744" data-section="venture-nagatsuki-1-16744">Venture — Nagatsuki 1, 16744</h2>
+
+        <div class="fvtt quest" data-callout-type="time">
+
+        <article>
+
+        <header><h4 id="kg-weather" data-section="weather">Weather</h4></header>
+
+        <p>Progressive — flurries on leaving the village, thickening through the climb, a full blizzard by the Mountain
+        Path. Vision capped at 60 ft (limits region); drop to 30 ft at the crest for the menace beat. Drifts make the
+        terraces difficult terrain.</p>
+
+
+        </article>
+
+        </div>
+
+
+
+
+        <ul>
+
+        <li><strong>Cold-exhaustion clock</strong> — extreme cold (DMG): CON save DC 10 each hour without cold-weather
+        gear.
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} and the infant are the non-combat pressure point.</li>
+
+        <li><strong>Nagaji ambush</strong> — primed at L3; the 60 ft veil lets them close unseen.</li>
+
+        <li>The Sandō puzzle itself is weather-agnostic, but hold the Sleeping Dragon reveal — it lands hardest against
+        a whiteout backdrop.</li>
+
+        </ul>
+
+        <h3 id="kg-cold-amp-blizzard-gm-rules" data-section="cold-amp-blizzard-gm-rules">Cold &amp; Blizzard — GM
+        Rules</h3>
+
+        <p><strong>Extreme cold.</strong> Any creature exposed to the blizzard makes a DC 10 Constitution save at the
+        end of each hour or gains one level of <em lang="ja-Latn">exhaustion</em>. Cold-weather gear, cold
+        resistance/immunity, or natural adaptation grants automatic success. The party has no winter gear — this clock
+        is running from the moment they leave the village.</p>
+
+        <p><strong>Yasutake Mai &amp; the infant.</strong> Mai is a civilian and the infant cannot save for itself;
+        treat the child as failing each hour unless actively sheltered (wrapped, shared body-warmth, a fire in cover).
+        This is the session&#39;s quiet pressure — not a kill timer, but a reason to keep moving and to <em
+        lang="ja-Latn">want</em> the gold doors.</p>
+
+        <p><strong>Vision.</strong> Sight is capped at 60 ft by the limits region (drop to 30 ft at the crest if you
+        take the menace beat). Beyond the cap the storm is effectively heavily obscured — a creature there is unseen.
+        Within the cap, blowing snow gives disadvantage on Wisdom (Perception) checks relying on sight at any
+        distance.</p>
+
+        <p><strong>Wind &amp; terrain.</strong> Strong wind: disadvantage on ranged weapon attacks and on Perception
+        checks relying on hearing; open flames are extinguished. The snow-drifted terraces are difficult terrain.</p>
+
+        <p><strong>Cold-blooded Nagaji (suggested ruling).</strong> The Nagaji are reptilian, and the blizzard works
+        against them. While exposed in extreme cold, a Nagaji moves at half speed and attacks at disadvantage until it
+        takes fire damage or reaches shelter/warmth. This is the mechanical heart of &quot;epic but low-risk&quot; — the
+        storm the party fears is the storm that hands them the path, and a fire-casting PC (Ko&#39;jiri) shifts the math
+        instantly. Drop the ruling if you would rather keep the Nagaji at full strength.</p>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 0
+    flags: {}
+  - _id: G71a78imhhBhBAOR
+    _key: '!journal.pages!pOY59ySukjVhZJkf.G71a78imhhBhBAOR'
+    name: Environment
+    type: text
+    title:
+      show: false
       level: 1
     image: {}
     text:
@@ -20,16 +102,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 10
+    sort: 20
     ownership:
       default: 0
     flags: {}
   - _id: HlQWN63slDjdsXo0
     _key: '!journal.pages!pOY59ySukjVhZJkf.HlQWN63slDjdsXo0'
-    name: The Celestial Approach
+    name: 登り口 Noborikuchi — The Celestial Approach
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -54,15 +136,16 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-celestial-approach" data-section="the-celestial-approach">The Celestial
-        Approach</h4></header>
+        <header><h4 id="kg-noborikuchi-the-celestial-approach" data-section="noborikuchi-the-celestial-approach">登り口
+        Noborikuchi — The Celestial Approach</h4></header>
 
-        <p>The mountain track gives out, and the ground ahead becomes something made: pale cut stone in wide level
-        courses, climbing the southern face in five great terraced steps. Frost has split the tiles and centuries of
-        wind have drifted scree across them, but the bones of the thing are unmistakable — this was built, and it was
-        walked. Stone dragon-heads stand sentinel at intervals along the levels, each face turned outward over the long
-        drop, weathered nearly featureless by time; against the inner cliff, squared pillars of pale stone wait in
-        silence. Far above, at the head of it all, something gold catches the light.</p>
+        <p>The mountain track gives out beneath your feet, and the path ahead remembers what it is. Pale cut stone rises
+        in five great terraced steps up the southern face — frost has split the tiles and centuries of scree have
+        drifted across them, but the scale of it stops you: this was made to be walked by many, over a very long time.
+        The wind moves through it without greeting. Dragon-heads of weathered stone stand along the levels, each face
+        turned outward over the drop as though they have been watching the lower passes for an age, and against the
+        inner cliff a squared pillar of pale stone waits within arm&#39;s reach, its flat top traced with something
+        carved. Far above, at the head of the climb, a thin edge of gold catches the morning light.</p>
 
 
         </article>
@@ -119,16 +202,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 20
+    sort: 30
     ownership:
       default: 0
     flags: {}
   - _id: L2XWRT8Q01A6gAFC
     _key: '!journal.pages!pOY59ySukjVhZJkf.L2XWRT8Q01A6gAFC'
-    name: A Watcher Head
+    name: 守龍頭 Shuryūtō — A Watcher Head
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -153,22 +236,16 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-a-watcher-head" data-section="a-watcher-head">A Watcher Head</h4></header>
+        <header><h4 id="kg-shuryt-a-watcher-head" data-section="shuryt-a-watcher-head">守龍頭 Shuryūtō — A Watcher
+        Head</h4></header>
 
-        <p>The head juts from a squared stone base set against the inner cliff — a dragon&#39;s head, half again the
-        height of a tall man, carved jaw to crown from a single block. It faces outward, away from the mountain, over
-        the long drop and the pass below, as though it has spent every one of its years watching the road for someone
-        climbing up.</p>
-
-        <p>Time has been strange to it. Lichen the colour of rust and old slate furs the scales; dirt has settled into
-        every carved hollow; the features are softened almost to suggestion. And yet the stone beneath the grime is not
-        cracked, not pitted, not crumbling the way the path&#39;s tiles crack and crumble around it. It has weathered
-        without truly wearing.</p>
-
-        <p>And then, as you draw near, it does a thing no weathered stone should do. A soft warmth wakes somewhere deep
-        inside the head — not a light to read a page by, but a glow, low and golden, rising in the seams between the
-        scales like a coal remembering that it was once a fire. It holds steady while you are close. It asks nothing of
-        you. It simply seems, in some way you could not quite defend aloud, glad.</p>
+        <p>A dragon&#39;s head juts from a squared stone base set into the inner cliff — half again the height of a tall
+        man, facing outward over the long drop and the pass below, as though it has always been watching the road for
+        someone climbing up. Lichen furs the carved scales in rust and old slate; years of wind and grit have softened
+        the features almost to suggestion, and where the close-set eyes were, shadow pools deep in the grime. You step
+        toward it, and something stirs — a warmth wakes low inside the stone, rising in the seams between the scales,
+        and holds there, steady, while you remain close. Below you, wind moves through the pass, and the head watches it
+        in silence.</p>
 
 
         </article>
@@ -178,16 +255,29 @@ pages:
 
 
 
+        <section id="sec-loc-tenku-sando--watcher-head-surface-integrity-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="watcher-head">
+
+        <p><strong>Gate — The Surface Beneath the Grime</strong></p>
+
+        <p>Investigation DC 13 — or any deliberate physical test of the surface: a tap, a scrape, a careful look. On a
+        success, reveal the discoverable below (<em lang="ja-Latn">The Surface Beneath the Grime</em>). The character
+        learns only that the head is not ordinary stone — not yet <em lang="ja-Latn">what</em> it is.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--watcher-head-surface-integrity" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
 
         <p><strong>The Surface Beneath the Grime</strong></p>
 
-        <p><strong>Investigation DC 13</strong> (or a tap, a scrape, a careful look): the moss on this head is
-        shallow-rooted — far more so than the moss on the stone tiles around it. The surface beneath is too smooth, too
-        uniform. When tapped, it rings with a tone slightly wrong for limestone or granite. Something other than stone
-        lies under the millennia of accumulation. A character who succeeds does not yet know <em
-        lang="ja-Latn">what</em> — only that this is not ordinary rock.</p>
+        <p>The moss on this head is shallow-rooted — far more so than the moss on the stone tiles around it. The surface
+        beneath is too smooth, too uniform, and when tapped it rings with a tone slightly wrong for limestone or
+        granite. Something other than stone lies under the millennia of accumulation — though what, exactly, is not yet
+        clear.</p>
 
 
         </section>
@@ -207,16 +297,95 @@ pages:
         </section>
 
 
+        <section id="sec-loc-tenku-sando--watcher-head-number-and-pattern-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="watcher-head">
+
+        <p><strong>Gate — Seven Watchers</strong></p>
+
+        <p>Perception or Investigation DC 10 to count the heads and map their distribution along the path. On a success,
+        reveal <em lang="ja-Latn">Seven Watchers</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--watcher-head-number-and-pattern" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
 
         <p><strong>Seven Watchers</strong></p>
 
         <p>Seven heads like this one stand along the Sandō — one on the lowest landing, two flanking the great basin on
-        the second terrace, two on the third, two on the fourth. All face outward. All kindle for the ascent.
-        <strong>Perception or Investigation DC 10</strong> to count them and map their distribution; a character who
-        does notices they are uniform in size, posture, and detail — set at intervals that feel deliberate rather than
-        decorative.</p>
+        the second terrace, two on the third, two on the fourth. All face outward; all kindle for the ascent. They are
+        uniform in size, posture, and detail, set at intervals that feel deliberate rather than decorative.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-cache-contents" class="secret kg-secret-sealed kg-dm-mechanics"
+        data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>Cache — Stocking, Safety &amp; Custom</strong></p>
+
+        <p>Each Watcher&#39;s base carries an offering-niche. Whether a given head&#39;s niche is stocked is the
+        DM&#39;s call — predetermine which heads hold a cache, or roll per head; a mix reads well. When a character
+        searches a stocked niche, narrate the find and reveal its contents.</p>
+
+        <p>For this blizzard, stock the caches cold-useful: a fire-starter kit, charcoal hand-warmers wrapped in cloth,
+        strips of dried meat, a sealed gourd of strong warming spirit (advantage on the next save vs extreme cold),
+        occasionally 2d10 <em lang="ja-Latn">mon</em> or a pilgrim-charm. Keep each one small — a help on the climb, not
+        a haul.</p>
+
+        <p>The caches are not hidden, trapped, or warded. If a wary party tests one before reaching in, simply confirm
+        there is nothing to fear.</p>
+
+        <p><strong>Taking is not theft.</strong> The caches are freely given; lifting one triggers nothing and is
+        neither hostile nor dishonorable. But the custom is <em lang="ja-Latn">take only at need.</em> A devout NPC — a
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi}, later a temple figure —
+        who learns the party stripped caches they did not need thinks less of them: a minor Honor knock in that
+        NPC&#39;s regard, never a mechanical penalty. A party genuinely in need (and with the cold clock running, they
+        are) takes with the path&#39;s blessing.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-pilgrim-cache" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>A Pilgrim&#39;s Cache</strong></p>
+
+        <p>At the base of the Watcher, where the carved head meets the cliff, a shallow niche has been cut into the
+        stone — hand-deep, plainly shaped to hold something.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-cache-custom-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="watcher-head">
+
+        <p><strong>Gate — The Pilgrim Custom</strong></p>
+
+        <p>Religion or History DC 10 — a character may recognise the niche for the wayfarer custom it keeps. On a
+        success, reveal <em lang="ja-Latn">The Pilgrim Custom</em>. Without the check, do not volunteer the custom; the
+        niche reads only as an old offering-recess. (If a cache itself bears a legible inscription, a character may read
+        the custom directly — DM&#39;s option.)</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--watcher-head-cache-custom" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>The Pilgrim Custom</strong></p>
+
+        <p>The offering-niches keep an old custom of the pilgrim road: <em lang="ja-Latn">what you no longer need, you
+        leave for the one who climbs behind you.</em> A traveller in genuine need takes freely, exactly as the custom
+        intends. A traveller who takes without need has stolen nothing — but the devout would mark it as poor form.</p>
 
 
         </section>
@@ -227,16 +396,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 30
+    sort: 40
     ownership:
       default: 0
     flags: {}
   - _id: uFkD62p24VyZid6x
     _key: '!journal.pages!pOY59ySukjVhZJkf.uFkD62p24VyZid6x'
-    name: The Threshold Head
+    name: 関龍頭 Kanryūtō — The Threshold Head
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -261,13 +430,16 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-threshold-head" data-section="the-threshold-head">The Threshold Head</h4></header>
+        <header><h4 id="kg-kanryt-the-threshold-head" data-section="kanryt-the-threshold-head">関龍頭 Kanryūtō — The
+        Threshold Head</h4></header>
 
-        <p>This one stands apart — out in the open court, not set against the cliff like the others, and smaller than
-        any of the heads below. It faces inward, toward the gold doors, as though it climbed the Sandō itself long ago
-        and never looked back. Its mouth is open, the way a mouth opens in the half-second before speech. At its feet,
-        carved into the paving stones in a wide ring, runs a band of characters — most worn past reading, a handful
-        still legible at a crouch. You walk past it, and around it, and it stays cold.</p>
+        <p>At the base of the Lower Landing, set into the cliff like every head above it, one dragon-head faces the
+        wrong way. Where the others look outward over the drop, this one turns up the path — smaller than they are, the
+        carving finer, the grime of centuries sitting thin over detail that took time. Its mouth is open: not the closed
+        jaw of the heads above, but parted and still, the way a mouth is held in the half-second before speech. Around
+        its base runs a wide ring of characters carved into the rock; most are worn to almost nothing, but a few remain
+        legible if you crouch into the wind. Below it, a small shrine has been cut into the same stone — a niche, an
+        offering-shelf, a shallow basin that holds nothing now but grit.</p>
 
 
         </article>
@@ -277,15 +449,41 @@ pages:
 
 
 
+        <section id="sec-loc-tenku-sando--threshold-head-ritual-text-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="threshold-head">
+
+        <p><strong>Gate — The Text-Circle</strong></p>
+
+        <p>Religion DC 14 — a character who crouches to study the carved text-circle. On a success, reveal <em
+        lang="ja-Latn">The Text-Circle</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--threshold-head-ritual-text" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
 
         <p><strong>The Text-Circle</strong></p>
 
-        <p><strong>Religion DC 14.</strong> A character who crouches to study the carved characters recognises the
-        surviving fragments as pieces of a formal ritual text — a <em lang="ja-Latn">clan-priest&#39;s office</em>, the
-        kind spoken aloud as a rite of threshold. The inscription was not carved for reading. It was carved so that
-        someone with the knowledge would know <em lang="ja-Latn">what to say</em>.</p>
+        <p>The surviving fragments of the carved ring are pieces of a formal ritual text — a <em
+        lang="ja-Latn">clan-priest&#39;s office</em>, the kind spoken aloud as a rite of threshold. The inscription was
+        not carved for reading; it was carved so that someone with the knowledge would know <em lang="ja-Latn">what to
+        say</em>.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-keyed-to-speech-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="threshold-head">
+
+        <p><strong>Gate — What It Waits For</strong></p>
+
+        <p>Plain observation, or Investigation DC 12 — for a character who notes that the head stays cold where the
+        Watchers warmed. On a success, reveal <em lang="ja-Latn">What It Waits For</em>.</p>
 
 
         </section>
@@ -296,10 +494,22 @@ pages:
 
         <p><strong>What It Waits For</strong></p>
 
-        <p>Walking near the head does nothing — the warmth that rose in the Watcher Heads never comes. Observation or a
-        DC 12 Investigation check makes the distinction explicit: this head is not inert, and it is not broken. It is
-        simply waiting for something the other heads are not. The seven Watchers woke for the act of climbing. This one
-        is waiting for a <em lang="ja-Latn">voice</em>.</p>
+        <p>Walking near the head does nothing — the warmth that rose in the Watcher Heads never comes. This head is not
+        inert, and it is not broken. It is waiting for something the other heads are not: the seven Watchers woke for
+        the act of climbing; this one is waiting for a <em lang="ja-Latn">voice</em>.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-gold-beneath-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="threshold-head">
+
+        <p><strong>Gate — Beneath the Stone</strong></p>
+
+        <p>Investigation DC 14 — a character who examines the surface closely, a palm pressed to it or a knuckle tapped
+        against the scales. On a success, reveal <em lang="ja-Latn">Beneath the Stone</em>.</p>
 
 
         </section>
@@ -310,10 +520,22 @@ pages:
 
         <p><strong>Beneath the Stone</strong></p>
 
-        <p><strong>Investigation DC 14.</strong> A character who examines the surface closely — pressing a palm to it,
-        tapping a knuckle against the scales — notices something wrong with the stone. The moss is shallow-rooted, the
-        surface beneath is too smooth and too uniform, and the material rings differently when struck: a low, dense
-        resonance, not the dull knock of weathered rock. Whatever this is made of, it is not what it appears to be.</p>
+        <p>Something is wrong with the stone. The moss is shallow-rooted, the surface beneath too smooth and too
+        uniform, and the material rings differently when struck — a low, dense resonance, not the dull knock of
+        weathered rock. Whatever this is made of, it is not what it appears to be.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-order-of-ascent-knowledge-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="threshold-head">
+
+        <p><strong>Gate — The Order of Ascent</strong></p>
+
+        <p>Religion DC 18, or monk training in a celestial order — and only for a character who has already recognised
+        the Sandō as a Kinryu pilgrim-path. On a success, reveal <em lang="ja-Latn">The Order of Ascent</em>.</p>
 
 
         </section>
@@ -324,12 +546,10 @@ pages:
 
         <p><strong>The Order of Ascent</strong></p>
 
-        <p><strong>Religion DC 18 (or monk training).</strong> A character who has already recognised the Sandō as a
-        Kinryu pilgrim-path — and who carries sufficient sacred learning — may recall the actual text of the <em
-        lang="ja-Latn">Order of Ascent</em>, the short ritual proclamation a clan-priest would speak before the
-        Threshold Head to complete the rite of the path. Monk training in a celestial order is a natural fit; strong
-        Religion proficiency is also sufficient. The character need not have a written copy — the words surface from
-        memory, the way a prayer surfaces when you are standing in the right place.</p>
+        <p>A character with sufficient sacred learning may recall the actual text of the <em lang="ja-Latn">Order of
+        Ascent</em> — the short ritual proclamation a clan-priest would speak before the Threshold Head to complete the
+        rite of the path. No written copy is needed; the words surface from memory, the way a prayer surfaces when you
+        are standing in the right place.</p>
 
 
         </section>
@@ -340,10 +560,56 @@ pages:
 
         <p><strong>The Watcher Heads</strong></p>
 
-        <p>The seven Watcher Heads on the lower levels all share the same form: large, facing outward over the drop,
-        mouths closed, set against the inner cliff. Each one kindled with a low golden warmth as the party passed — no
-        word or gesture required. The act of ascending the path was enough. This head shares none of those
-        responses.</p>
+        <p>The seven Watcher Heads set along the path all share the same form: large, mouths closed, facing outward over
+        the drop. Each kindles with a low golden warmth when a climbing creature passes — no word or gesture required;
+        the act of ascending the path is enough. The Threshold Head is carved into the same cliff, but shares nothing
+        else: smaller, finer, mouth open, turned to face up the climb — and cold to every footstep.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-threshold-shrine" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>The Shrine Below the Head</strong></p>
+
+        <p>Cut into the rock directly below the Threshold Head is a small shrine — a niche of dressed stone, an
+        offering-shelf worn smooth, a shallow basin for incense, all of it cold and grit-filled. This is the threshold
+        shrine: where a pilgrim laid a last offering at the end of the climb, before going on to the temple. It is
+        distinct from the roadside shrine up on Level 2 — that one served travellers passing through; this one marks the
+        <em lang="ja-Latn">end</em> of the rite. Like the head above it, it is present, whole, and long dormant; when
+        the rite of the path completes, it wakes with the rest.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-threshold-cache-contents" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="threshold-head">
+
+        <p><strong>Threshold Cache — Contents</strong></p>
+
+        <p>One cache, a cut above the Watchers&#39;. A single modest-but-good item — a well-made fire-charm, a vial of
+        blessed water, a quality wool over-robe sized for an adult, or a <em lang="ja-Latn">potion of healing</em> —
+        DM&#39;s pick, scaled to what the party needs walking into the temple. The same custom applies: freely taken,
+        but the devout expect need, not greed.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--threshold-head-threshold-cache" class="secret kg-secret-discoverable"
+        data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>The Threshold Cache</strong></p>
+
+        <p>The Threshold Head, set into the Lower Landing, has its niche too — set in the threshold shrine cut into the
+        rock below it, and this one is kept. Where the Watchers&#39; caches are travellers&#39; leavings, the cache at
+        the Threshold is the last gift of each completed pilgrimage: the finest small thing the departing pilgrim could
+        spare, set down at the very end of the climb for whoever comes next. It is never large. It is always the best
+        they had.</p>
 
 
         </section>
@@ -354,16 +620,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 50
     ownership:
       default: 0
     flags: {}
   - _id: ln4iMaetg3yVsutC
     _key: '!journal.pages!pOY59ySukjVhZJkf.ln4iMaetg3yVsutC'
-    name: The Roadside Shrine
+    name: 道祖の社 Dōso-no-Yashiro — The Roadside Shrine
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -388,15 +654,15 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-roadside-shrine" data-section="the-roadside-shrine">The Roadside Shrine</h4></header>
+        <header><h4 id="kg-dso-no-yashiro-the-roadside-shrine" data-section="dso-no-yashiro-the-roadside-shrine">道祖の社
+        Dōso-no-Yashiro — The Roadside Shrine</h4></header>
 
-        <p>Tucked into the living rock behind and below the great basin, easily overlooked against the cliff, is a small
-        shrine. A single platform of cut stone, waist-high, its surface worn smooth: the kind of waymarker a solitary
-        traveller might kneel before at any lonely crossing. A shallow basin sits at the platform&#39;s base — the kind
-        meant to hold incense or a scattering of rice — and it holds neither. Only wind-sifted grit. Above the platform,
-        carved in low relief into the face of the rock, a dragon spreads its wings in flight. The cold from the mountain
-        comes off the stone in a slow press. You may set your hand on the platform. You may leave an offering. You may
-        speak a prayer into the wind. Nothing answers.</p>
+        <p>Set into the living rock behind the basin — easy to miss against the cliff — a small shrine stands in its own
+        shallow recess. A carved dragon spreads its wings in low relief above, worn by weather until the lines barely
+        lift from the stone. Below it, a waist-high platform of cut stone juts from the cliff face, its surface smoothed
+        by years of hands that are no longer coming. Reach out and you can touch it; the cold of the mountain comes
+        through the stone immediately, deep and still. At the platform&#39;s foot, a shallow basin meant for offerings
+        holds only a thin drift of wind-sifted grit.</p>
 
 
         </article>
@@ -406,16 +672,41 @@ pages:
 
 
 
+        <section id="sec-loc-tenku-sando--roadside-shrine-wayside-shrine-type-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="roadside-shrine">
+
+        <p><strong>Gate — A Michibata no Jinja</strong></p>
+
+        <p>Religion DC 10, or a traveller&#39;s lived experience of rural shrines. On a success, reveal <em
+        lang="ja-Latn">A Michibata no Jinja</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--roadside-shrine-wayside-shrine-type" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
 
         <p><strong>A Michibata no Jinja</strong></p>
 
-        <p><strong>Religion DC 10 or traveler&#39;s experience with rural shrines.</strong> This is a <em
-        lang="ja-Latn">michibata no jinja</em> — a roadside shrine, the kind placed at mountain passes and lonely
-        crossings to shelter traveling pilgrims. A shrine of this type in active worship responds to offerings with a
-        small blessing for the road ahead. This one is present, whole, and without any warmth — it has the structure of
-        something that once answered, and the silence of something that has not been called in a very long time.</p>
+        <p>This is a <em lang="ja-Latn">michibata no jinja</em> — a roadside shrine, the kind placed at mountain passes
+        and lonely crossings to shelter travelling pilgrims. A shrine of this type in active worship answers an offering
+        with a small blessing for the road ahead. This one is present, whole, and without any warmth — it has the
+        structure of something that once answered, and the silence of something not called in a very long time.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--roadside-shrine-relief-subject-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="roadside-shrine">
+
+        <p><strong>Gate — The Carved Relief</strong></p>
+
+        <p>Religion DC 12 or History DC 12 — a character who studies the carved relief. On a success, reveal <em
+        lang="ja-Latn">The Carved Relief — Kinryu</em>.</p>
 
 
         </section>
@@ -426,11 +717,23 @@ pages:
 
         <p><strong>The Carved Relief — Kinryu</strong></p>
 
-        <p><strong>Religion DC 12 or History DC 12.</strong> The dragon spread above the platform is not decorative
-        convention — the wings in full ascent, the long spiral of the body — this is <em lang="ja-Latn">Kinryu</em>, the
-        Golden Dragon, rendered in the iconographic style of the Kinkozan clan-priests. The same subject as the great
-        sleeping shape in the basin above it. The shrine was placed here to serve pilgrims making the ascent, and it
-        watches the same thing the path was made to wake.</p>
+        <p>The dragon spread above the platform is not decorative convention — wings in full ascent, the long spiral of
+        the body — this is <em lang="ja-Latn">Kinryu</em>, the Golden Dragon, rendered in the iconographic style of the
+        Kinkozan clan-priests. The same subject as the great sleeping shape in the basin above. The shrine was placed
+        here to serve pilgrims making the ascent, and it watches the same thing the path was made to wake.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--roadside-shrine-dormant-state-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="roadside-shrine">
+
+        <p><strong>Gate — The Shrine Is Waiting</strong></p>
+
+        <p>Investigation DC 13 or Religion DC 12. On a success, reveal <em lang="ja-Latn">The Shrine Is
+        Waiting</em>.</p>
 
 
         </section>
@@ -441,11 +744,10 @@ pages:
 
         <p><strong>The Shrine Is Waiting</strong></p>
 
-        <p><strong>Investigation DC 13 or Religion DC 12.</strong> The shrine shows no damage, no defacement, no sign of
-        deliberate sealing or abandonment. The basin is simply empty; the stone is simply cold. Whatever kept a shrine
-        like this alive — the prayers of ascending pilgrims, the working of the path itself — has been absent for a very
-        long time. The structure is ready. The shrine is not broken. It is waiting for something the path has forgotten
-        how to receive.</p>
+        <p>The shrine shows no damage, no defacement, no sign of deliberate sealing or abandonment. The basin is simply
+        empty; the stone is simply cold. Whatever kept a shrine like this alive — the prayers of ascending pilgrims, the
+        working of the path itself — has been absent for a very long time. The structure is ready. The shrine is not
+        broken. It is waiting for something the path has forgotten how to receive.</p>
 
 
         </section>
@@ -456,16 +758,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 50
+    sort: 60
     ownership:
       default: 0
     flags: {}
   - _id: TmxNVGDMwVLewLlR
     _key: '!journal.pages!pOY59ySukjVhZJkf.TmxNVGDMwVLewLlR'
-    name: The Sleeping Dragon
+    name: 臥龍 Garyū — The Sleeping Dragon
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -490,19 +792,21 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-sleeping-dragon" data-section="the-sleeping-dragon">The Sleeping Dragon</h4></header>
+        <header><h4 id="kg-gary-the-sleeping-dragon" data-section="gary-the-sleeping-dragon">臥龍 Garyū — The Sleeping
+        Dragon</h4></header>
 
-        <p>The second terrace opens against a deep recess in the cliff, and the recess holds something.</p>
+        <p>The second terrace opens against a deep recess in the cliff, and at its heart sits a basin carved from the
+        living rock — wide enough to swallow the landing&#39;s center, rimmed in stone that comes to your waist.</p>
 
-        <p>A great shape fills the carved basin at the heart of the landing — coiled, massive, folded in on itself in
-        long deliberate loops. Lichen the colour of rust and slate carpets every surface; rooted plants have shouldered
-        into the seams; dirt and small stones have settled dark into every hollow. It is buried under whole ages of the
-        mountain.</p>
+        <p>Filling it is a shape so thoroughly buried you nearly take it for a knuckle of old rock: coiled around itself
+        in long deliberate loops, every surface carpeted in lichen the color of rust and old slate, rooted growth
+        shouldered into every seam, dirt packed dark into every hollow. The cold here carries the smell of wet stone and
+        slow damp growth — a smell the mountain has been pressing down for a very long time. Somewhere under the
+        overgrowth a small clod of earth breaks loose and drops without sound into the lower coils.</p>
 
-        <p>The longer you look, the less you believe the rock. The shape is too whole. The sleep is too deliberate.</p>
-
-        <p>The air above the basin is perfectly still — not the dead stillness of stone, but the held, even stillness of
-        something breathing very, very slowly.</p>
+        <p>Two long parallel ridges run the length of the buried shape&#39;s back, each one grown over with the same
+        rooted tangle, each folding under at the far end. You could close a hand around either ridge and feel the growth
+        give slightly under your grip.</p>
 
 
         </article>
@@ -512,15 +816,27 @@ pages:
 
 
 
+        <section id="sec-loc-tenku-sando--sleeping-dragon-not-stone-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="sleeping-dragon">
+
+        <p><strong>Gate — The Surface Is Not Stone</strong></p>
+
+        <p>Investigation DC 13 — a character who examines the buried surface closely. On a success, reveal <em
+        lang="ja-Latn">The Surface Is Not Stone</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--sleeping-dragon-not-stone" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
 
         <p><strong>The Surface Is Not Stone</strong></p>
 
-        <p><strong>Investigation DC 13.</strong> The moss and lichen are shallowly rooted — no deeper purchase than a
-        season&#39;s growth, despite the apparent centuries. The surface beneath is too smooth, too uniform. And when
-        tapped, it does not ring the way stone rings. The character does not yet know what it is — only that it is not
-        what it appears to be.</p>
+        <p>The moss and lichen are shallowly rooted — no deeper purchase than a season&#39;s growth, despite the
+        apparent centuries. The surface beneath is too smooth, too uniform, and when tapped it does not ring the way
+        stone rings. What it is, is not yet clear — only that it is not what it appears to be.</p>
 
 
         </section>
@@ -539,15 +855,28 @@ pages:
         </section>
 
 
+        <section id="sec-loc-tenku-sando--sleeping-dragon-nagaji-absence-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="sleeping-dragon">
+
+        <p><strong>Gate — The Nagaji Avoid This Landing</strong></p>
+
+        <p>Perception or Survival DC 11 — a character who reads the landing for signs of use. On a success, reveal <em
+        lang="ja-Latn">The Nagaji Avoid This Landing</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--sleeping-dragon-nagaji-absence" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
 
         <p><strong>The Nagaji Avoid This Landing</strong></p>
 
-        <p><strong>Perception or Survival DC 11.</strong> The rest of the Sandō carries faint traces of the Nagaji&#39;s
-        centuries of use — scuff marks, worn edges, the occasional dropped scale or shed fragment. This landing has none
-        of it. Nothing has camped near the basin, rested against it, or passed close to it. The Nagaji walk this path
-        regularly, and they avoid the Sleeping Dragon entirely.</p>
+        <p>The rest of the Sandō carries faint traces of the Nagaji&#39;s centuries of use — scuff marks, worn edges,
+        the occasional dropped scale or shed fragment. This landing has none of it. Nothing has camped near the basin,
+        rested against it, or passed close to it. The Nagaji walk this path regularly, and they avoid the Sleeping
+        Dragon entirely.</p>
 
 
         </section>
@@ -572,16 +901,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 60
+    sort: 70
     ownership:
       default: 0
     flags: {}
   - _id: pIUKdnsZ94CEJPCn
     _key: '!journal.pages!pOY59ySukjVhZJkf.pIUKdnsZ94CEJPCn'
-    name: The Eldest Pedestal
+    name: 慢の台 Man-no-Dai — The Eldest Pedestal
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -606,23 +935,15 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-eldest-pedestal" data-section="the-eldest-pedestal">The Eldest Pedestal</h4></header>
+        <header><h4 id="kg-man-no-dai-the-eldest-pedestal" data-section="man-no-dai-the-eldest-pedestal">慢の台 Man-no-Dai
+        — The Eldest Pedestal</h4></header>
 
-        <p>A squared pillar of pale stone stands waist-high against the inner cliff, its top surface flat and worked
-        smooth — a thing made for someone to stand before and read. Two carvings share that surface, worn shallow by
-        wind but legible if you hold a light at the right angle.</p>
-
-        <p>The first is cut deep and formal, the lettering of something meant to outlast the hand that carved it:</p>
-
-        <p><em lang="ja-Latn">&quot;I come without weapons of pride.&quot;</em></p>
-
-        <p>The second is smaller, set apart like a signature — a name and a year carved in a lighter hand, almost added
-        rather than made:</p>
-
-        <p><em lang="ja-Latn">&quot;Saitō Hagumi · year 13062.&quot;</em></p>
-
-        <p>The stone is cold when you rest your fingers in the carved grooves — but the cold, there in the letters, is a
-        half-degree less certain than it should be, as though the pedestal is not dead, only very deeply asleep.</p>
+        <p>A squared pillar of pale stone stands waist-high against the inner cliff, its sides cut true and its top
+        surface worked to a deliberate smoothness. Two lines of calligraphy are carved into that surface — shallow now,
+        worn by weather — and reading them means crouching close and tilting your head until the light catches the
+        grooves at the right angle. Beneath your palm the stone is cold and faintly gritty with the cliff&#39;s own
+        dust. At the center of the surface sits a circular indentation, its edges ground smooth and its depth even —
+        shaped, not worn.</p>
 
 
         </article>
@@ -675,16 +996,28 @@ pages:
         </section>
 
 
+        <section id="sec-loc-tenku-sando--pedestal-eldest-working-device-gate" class="secret kg-secret-sealed
+        kg-dm-mechanics" data-kind="dm-note" data-dmrole="mechanics" data-loc="loc-tenku-sando"
+        data-scene="pedestal-eldest">
+
+        <p><strong>Gate — Not Dead Stone</strong></p>
+
+        <p>Arcana or Religion DC 10 — a character who notices the faint warmth in the grooves and investigates it. On a
+        success, reveal <em lang="ja-Latn">Not Dead Stone</em>.</p>
+
+
+        </section>
+
+
         <section id="sec-loc-tenku-sando--pedestal-eldest-working-device" class="secret kg-secret-discoverable"
         data-kind="discoverable" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
 
         <p><strong>Not Dead Stone</strong></p>
 
         <p>The faint warmth felt in the carved grooves is not imagination. The pedestal is a working part of the
-        path&#39;s sacred mechanism — dormant, but not inert. It has simply not been called in a very long time. A
-        character who notices the anomaly and investigates (Arcana or Religion, DC 10) understands that this is a ritual
-        fixture of some kind, not a gravestone or a boundary marker — it was built to receive something from the person
-        standing before it.</p>
+        path&#39;s sacred mechanism — dormant, but not inert; it has simply not been called in a very long time. This is
+        a ritual fixture of some kind, not a gravestone or a boundary marker — it was built to receive something from
+        the person standing before it.</p>
 
 
         </section>
@@ -695,16 +1028,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 70
+    sort: 80
     ownership:
       default: 0
     flags: {}
   - _id: kfdKAORM9sm6lI51
     _key: '!journal.pages!pOY59ySukjVhZJkf.kfdKAORM9sm6lI51'
-    name: The Mourner's Pedestal
+    name: 哀の台 Ai-no-Dai — The Mourner's Pedestal
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -730,22 +1063,15 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-mourner39s-pedestal" data-section="the-mourner39s-pedestal">The Mourner&#39;s
-        Pedestal</h4></header>
+        <header><h4 id="kg-ai-no-dai-the-mourner39s-pedestal" data-section="ai-no-dai-the-mourner39s-pedestal">哀の台
+        Ai-no-Dai — The Mourner&#39;s Pedestal</h4></header>
 
-        <p>Against the cliff wall, across the terrace from the great basin and what sleeps in it, a squared pillar of
-        pale stone stands waist-high, its top surface worked flat and smooth. Two inscriptions are carved into it — one
-        deep and formal, the lettering of something meant to outlast the people who cut it:</p>
-
-        <p><em lang="ja-Latn">&quot;I come without burdens of the dead.&quot;</em></p>
-
-        <p>Beside it, set lighter, like a signature left by a different hand:</p>
-
-        <p><em lang="ja-Latn">&quot;Tachibana Riku · year 13074.&quot;</em></p>
-
-        <p>The stone is cold when you touch it — but in the carved grooves, under your fingers, the cold is a
-        half-degree less certain than it ought to be, as though the pedestal is not dead, only asleep, and the stone
-        remembers being touched.</p>
+        <p>Against the cliff wall, with the great basin and its buried shape behind you, a squared pillar of pale stone
+        stands waist-high — its top surface worked flat and smooth, the same old cut stone as everything else on this
+        path. Two lines of calligraphy are carved into that surface: one cut deep and formal, the lettering of something
+        made to outlast the hand that set it; one smaller, lighter, set to the side. Both are still legible if you angle
+        close to catch the grey light in the shallow grooves. And at the centre of that smooth top, a circular
+        depression — palm-wide, scooped clean, worn smooth by touch rather than by weather — sits empty.</p>
 
 
         </article>
@@ -802,16 +1128,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 80
+    sort: 90
     ownership:
       default: 0
     flags: {}
   - _id: dz2uV5Kj1jU4Zzqb
     _key: '!journal.pages!pOY59ySukjVhZJkf.dz2uV5Kj1jU4Zzqb'
-    name: The Faithful Pedestal
+    name: 信の台 Shin-no-Dai — The Faithful Pedestal
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -837,16 +1163,16 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-faithful-pedestal" data-section="the-faithful-pedestal">The Faithful
-        Pedestal</h4></header>
+        <header><h4 id="kg-shin-no-dai-the-faithful-pedestal" data-section="shin-no-dai-the-faithful-pedestal">信の台
+        Shin-no-Dai — The Faithful Pedestal</h4></header>
 
-        <p>Where the outer parapet has given way, blocks of pale stone lie tumbled and frost-split across the terrace.
-        Among them, untouched, stands a squared pillar of pale stone — waist-high, worked smooth on top, upright as
-        though the collapse arranged itself around it rather than through it. Two things are carved into that surface in
-        a calligraphy worn shallow but legible, if you crouch to catch the right angle of grey light: a single deep-cut
-        line, <em lang="ja-Latn">&quot;I come without doubt of the path,&quot;</em> and beside it, in a lighter hand, a
-        name and a year — <em lang="ja-Latn">Mishima Aiko · year 13083</em>. When you rest your fingers in the carved
-        grooves, the stone is cold — almost. At the very bottom of that cold, something waits.</p>
+        <p>The middle terrace is open to the sky and the wind finds it without obstruction, pressing cold and steady
+        across the pale stone. Stretches of the outer parapet have given way — frost-split blocks lie tumbled across the
+        landing — but among the fallen stone, a squared pillar stands, waist-high, its top surface worked flat and
+        smooth, utterly undamaged. Two lines of worn calligraphy are cut into that surface: narrow strokes, shallow from
+        the wind and the years, but still there if you crouch to a low angle of grey light. Below them, centred in the
+        smooth face, sits a circular indentation — a palm-width hollow, its rim worn smooth and clean against the grime
+        of the flat stone around it.</p>
 
 
         </article>
@@ -901,16 +1227,16 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 90
+    sort: 100
     ownership:
       default: 0
     flags: {}
   - _id: Hm54rJ5N2i5fGOeF
     _key: '!journal.pages!pOY59ySukjVhZJkf.Hm54rJ5N2i5fGOeF'
-    name: The Topmost Pedestal
+    name: 望の台 Nozomi-no-Dai — The Topmost Pedestal
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -936,15 +1262,17 @@ pages:
 
         <article>
 
-        <header><h4 id="kg-the-topmost-pedestal" data-section="the-topmost-pedestal">The Topmost Pedestal</h4></header>
+        <header><h4 id="kg-nozomi-no-dai-the-topmost-pedestal" data-section="nozomi-no-dai-the-topmost-pedestal">望の台
+        Nozomi-no-Dai — The Topmost Pedestal</h4></header>
 
-        <p>The last of the squared pillars stands at the inner edge of the upper terrace, the gold doors of the temple
-        now plainly visible on the level above, close enough that their true scale is startling. The pedestal&#39;s
-        worked surface carries two lines of calligraphy. The deeper one is cut formal and permanent, in the lettering of
-        something meant to outlast the hand that made it: <em lang="ja-Latn">&quot;I come without claim upon the
-        dragon.&quot;</em> Beside it, a little apart, a name and year — <em lang="ja-Latn">Ono Kazue · year 13087</em> —
-        in shallower strokes that look less worn than any name on the pedestals below. The stone is cold under the hand.
-        And next to that name, the surface is bare: a clear, unmarked space where the carved work simply stops.</p>
+        <p>The last of the four squared pillars stands against the inner cliff at the back of the upper terrace —
+        waist-high, worked flat across the top — with the step above visible now, close enough that the climb&#39;s end
+        is a thing you can almost touch. Two lines of calligraphy are cut into the surface: the first deep and formal,
+        pressed hard into stone as though meant to outlast the hand that made it; the second, set a little apart, is
+        shallower — less worn than any name-line on the three pedestals below. Beside that second line the surface is
+        bare, a clear unmarked space where the carved work simply ends. Draw a thumb across the top and you find
+        something the eye alone misses: a circular hollow ground into the center of the stone, wider than a palm, too
+        smooth and too even for weathering, plainly waiting to receive something.</p>
 
 
         </article>
@@ -1012,7 +1340,767 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 100
+    sort: 110
+    ownership:
+      default: 0
+    flags: {}
+  - _id: Upmg2hkbcKbp1TAz
+    _key: '!journal.pages!pOY59ySukjVhZJkf.Upmg2hkbcKbp1TAz'
+    name: Encounters (DM Only)
+    type: text
+    title:
+      show: false
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 120
+    ownership:
+      default: 0
+    flags: {}
+  - _id: hNgvNRQmESldPumq
+    _key: '!journal.pages!pOY59ySukjVhZJkf.hNgvNRQmESldPumq'
+    name: Puzzle
+    type: text
+    title:
+      show: false
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 130
+    ownership:
+      default: 0
+    flags: {}
+  - _id: ML8yv4i5y3Q4wIR6
+    _key: '!journal.pages!pOY59ySukjVhZJkf.ML8yv4i5y3Q4wIR6'
+    name: The Sandō Puzzle
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >
+        <h2 id="kg-the-sand-puzzle-design-locked" data-section="the-sand-puzzle-design-locked">The Sandō Puzzle — Design
+        (Locked)</h2>
+
+        <p><strong>Goal.</strong> Awaken the Sleeping Dragon on Level 2. Awakening sheds millennia of accumulated debris
+        and reveals the gold beneath. A small roadside shrine, dormant behind it all along, wakes. Because the
+        Sandō&#39;s foundational magic is continuous with the temple&#39;s, this awakening also gates access to the
+        broad chamber (Grand Hall — Hiroba) inside — the first beat of the <strong>restoring-the-temple
+        thread</strong>.</p>
+
+        <h2 id="kg-mechanics" data-section="mechanics">Mechanics</h2>
+
+        <p>The rite has <strong>three layered components</strong> — passive, active, and culminating.</p>
+
+        <h3 id="kg-1-seven-watchers-passive" data-section="1-seven-watchers-passive">1. Seven Watchers (passive)</h3>
+
+        <p>Seven of the eight dragon-heads kindle softly when a creature passes within ~10 ft of them on the ascent. No
+        action required — the act of walking the path is the act of being witnessed. Once kindled, a Watcher remains lit
+        so long as any party member remains on the Sandō; it fades within an hour of all party members leaving the path
+        entirely.</p>
+
+        <p>Distribution across the five levels: <strong>L1 — 1, L2 — 2 (flanking the Sleeping Dragon), L3 — 2, L4 — 2,
+        L5 — 0</strong> — the seven Watchers. The eighth head, the Threshold Head, and its shrine sit apart on Level 1,
+        the Lower Landing.</p>
+
+        <h3 id="kg-2-four-prayers-active" data-section="2-four-prayers-active">2. Four Prayers (active)</h3>
+
+        <p>One pedestal per level on Levels 1-4. Each pedestal carries two inscriptions: a <strong>vow</strong> (the
+        same on every walking; carved into the path&#39;s making) and a <strong>pilgrim name + year</strong> (which
+        cascades — the path&#39;s living memory). The prayer at each pedestal is:</p>
+
+        <ol>
+
+        <li>Read the inscribed pilgrim&#39;s name aloud.</li>
+
+        <li>Speak the inscribed vow.</li>
+
+        <li>Observe a brief moment of silence (a few seconds of focused intent).</li>
+
+        </ol>
+
+        <p>When accepted, the pedestal warms perceptibly under its grime. Any party member can perform the prayer at any
+        pedestal; the four prayers can be spread across the party. The same character can perform all four. There is no
+        skill check required — only the doing.</p>
+
+        <p><strong>Vow-to-level mapping</strong> (release deepens as the pilgrim ascends):</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Level</th>
+
+        <th>Vow</th>
+
+        <th>Theme</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>1</td>
+
+        <td><em lang="ja-Latn">I come without weapons of pride.</em></td>
+
+        <td>Ego</td>
+
+        </tr>
+
+        <tr>
+
+        <td>2</td>
+
+        <td><em lang="ja-Latn">I come without burdens of the dead.</em></td>
+
+        <td>Grief</td>
+
+        </tr>
+
+        <tr>
+
+        <td>3</td>
+
+        <td><em lang="ja-Latn">I come without doubt of the path.</em></td>
+
+        <td>Faith</td>
+
+        </tr>
+
+        <tr>
+
+        <td>4</td>
+
+        <td><em lang="ja-Latn">I come without claim upon the dragon.</em></td>
+
+        <td>Expectation</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <p><strong>Suggested pilgrim inscriptions</strong> (placeholders — DM may swap):</p>
+
+        <table>
+
+        <thead>
+
+        <tr>
+
+        <th>Level</th>
+
+        <th>Name</th>
+
+        <th>Year</th>
+
+        <th>Note</th>
+
+        </tr>
+
+        </thead>
+
+        <tbody><tr>
+
+        <td>1</td>
+
+        <td>Saitō Hagumi</td>
+
+        <td>13062</td>
+
+        <td>Oldest; will be lost from the path when the rite completes.</td>
+
+        </tr>
+
+        <tr>
+
+        <td>2</td>
+
+        <td>Tachibana Riku</td>
+
+        <td>13074</td>
+
+        <td></td>
+
+        </tr>
+
+        <tr>
+
+        <td>3</td>
+
+        <td>Mishima Aiko</td>
+
+        <td>13083</td>
+
+        <td></td>
+
+        </tr>
+
+        <tr>
+
+        <td>4</td>
+
+        <td>Ono Kazue</td>
+
+        <td>13087</td>
+
+        <td>Newest; the last to complete the rite before the temple fell.</td>
+
+        </tr>
+
+        </tbody></table>
+
+        <h3 id="kg-3-the-threshold-head-order-of-ascent-culminating"
+        data-section="3-the-threshold-head-order-of-ascent-culminating">3. The Threshold Head + Order of Ascent
+        (culminating)</h3>
+
+        <p>The eighth dragon-head, on Level 1, is <strong>visibly different</strong>:</p>
+
+        <ul>
+
+        <li>Smaller than the seven Watchers (~2/3 scale)</li>
+
+        <li>Faces up the path, the way the climb goes, not outward over the drop</li>
+
+        <li>Mouth open (Watchers&#39; mouths are closed)</li>
+
+        <li>Ringed by a faded text-circle on the ground at its base — partially-readable carved characters</li>
+
+        </ul>
+
+        <p>The Threshold Head <strong>does not kindle when passed</strong>. It awaits speech. It lights only when:</p>
+
+        <ul>
+
+        <li>All seven Watchers are already lit, <strong>and</strong></li>
+
+        <li>All four pedestal-prayers have been completed, <strong>and</strong></li>
+
+        <li>The <strong>Order of Ascent</strong> — a short clan-priest&#39;s ritual text — has been proclaimed aloud
+        before it.</li>
+
+        </ul>
+
+        <p>When the Threshold Head kindles, the rite is complete. The Sleeping Dragon on Level 2 stirs, the centuries of
+        accumulated debris slough off into the basin in slow almost-silent collapse, the gold beneath is revealed, the
+        amber eyes open, the head lifts. The roadside shrine behind it wakes with the path.</p>
+
+        <h2 id="kg-the-order-of-ascent-how-the-party-finds-it"
+        data-section="the-order-of-ascent-how-the-party-finds-it">The Order of Ascent — How the Party Finds It</h2>
+
+        <p>Two paths, either sufficient:</p>
+
+        <p><strong>Path A — Knowledge.</strong> Two consecutive checks, made on the Sandō itself:</p>
+
+        <ol>
+
+        <li><strong>Recognize the path.</strong> Religion or History DC 12 — recognise the Sandō as a Kinryu
+        pilgrim-path with a known historical rite. Any class can attempt.</li>
+
+        <li><strong>Recall the rite.</strong> Religion DC 18 — recall the actual text of the Order of Ascent. Strong fit
+        for monk training; Sun Wukong is the natural candidate (monastic instruction in the celestial offices). Possible
+        also for a Religion-proficient character with strong INT/WIS.</li>
+
+        </ol>
+
+        <p>The text itself can be improvised by the player or DM. Suggested structure: a brief invocation (three lines),
+        a naming of the dragon (one line), an acknowledgement of the path (one line), a final petition (one line). The
+        character speaks it aloud at the Threshold Head.</p>
+
+        <p><strong>Path B — Found Item.</strong> The <em lang="ja-Latn">Pilgrim&#39;s Office of Ōryūzan</em> exists as
+        an item inside the temple. <strong>Item slug TBD; suggested location: the Scriptorium</strong> (Floor 1) — a
+        small folded silk codex among the surviving clan-priest texts. If the party finds it before leaving the temple
+        and returns to the Sandō, the text can simply be read.</p>
+
+        <p>Note that Path B requires the party to either (a) engage the puzzle before entering and then re-engage after
+        exiting, or (b) realise after exiting that the gate to Hiroba is on the path and choose to descend partway. Path
+        A is the path of least resistance and the more likely actual route.</p>
+
+        <h2 id="kg-the-cascade-living-memory" data-section="the-cascade-living-memory">The Cascade — Living Memory</h2>
+
+        <p>When the rite completes, the path <em lang="ja-Latn">remembers</em>:</p>
+
+        <ul>
+
+        <li>The party&#39;s name (or chosen designation) and the current year are inscribed at the top pedestal
+        (L4).</li>
+
+        <li>The existing names cascade down: <em lang="ja-Latn">Ono Kazue · 13087</em> → L3 · <em lang="ja-Latn">Mishima
+        Aiko · 13083</em> → L2 · <em lang="ja-Latn">Tachibana Riku · 13074</em> → L1.</li>
+
+        <li>The oldest name, <em lang="ja-Latn">Saitō Hagumi · 13062</em>, fades from the L1 stone as if absorbed back
+        into it.</li>
+
+        </ul>
+
+        <p>Narrate this. The cascade is a real reward, not flavour.</p>
+
+        <h2 id="kg-the-hiroba-gate-locked-option-1-dust-cloaked-twi"
+        data-section="the-hiroba-gate-locked-option-1-dust-cloaked-twi">The Hiroba Gate (locked — Option 1, Dust-Cloaked
+        Twin)</h2>
+
+        <p>The broad chamber (Grand Hall — Hiroba) inside the temple is gated on the Sandō&#39;s awakening via the
+        <strong>dust-cloaked twin</strong> mechanism: the Grand Hall&#39;s great statue is itself lichen-buried,
+        <strong>wings folded tight</strong>, exactly as the Sandō Sleeping Dragon is. The Hall&#39;s pools are dry and
+        its statue radiates no warmth. The torches still burn (foundational magic; sconces are continuous with the
+        path), but the warm life of the chamber is absent.</p>
+
+        <p>When the Sandō rite completes, <strong>both statues wake together</strong>. On the Sandō, the Sleeping
+        Dragon&#39;s wings unfurl outward and the debris falls into the basin. Inside the Hall, simultaneously, the
+        great statue&#39;s two-hundred-and-fifty-foot wings unfold outward across the chamber, the centuries of
+        accumulated grime slide off in slow almost-silent sheets, the amber eyes open, the pools fill from beneath, and
+        the warmth resumes. The Hiroba and the Sandō are one breath; what is restored to one is restored to the
+        other.</p>
+
+        <p><strong>Retrofit notes for <code>rm-grand-hall</code>:</strong> add a <em lang="ja-Latn">pre-rite state</em>
+        layer to the room — the statue is dust-cloaked with wings folded, pools dry, no warmth. The existing room
+        descriptions (warm gold, clear pools, amber eyes meeting Ko&#39;jiri, the cold-mitigation warmth radius) all
+        apply <strong>after the Sandō rite completes</strong>. Many of the floor-1 discoveries that depend on the active
+        state (statue warmth, pool charges, etc.) only become available post-rite. The
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.ktiauQE10JXYuTV6]{Kageban} remain present in either
+        state.</p>
+
+        <h2 id="kg-the-shrine-reward-a-roadside-shrine" data-section="the-shrine-reward-a-roadside-shrine">The Shrine
+        Reward — A Roadside Shrine</h2>
+
+        <p>Behind and beneath the basin, set into the living rock, stands a small <strong>roadside shrine</strong> —
+        <code>michibata no jinja</code> (路傍の祠). It is present from the party&#39;s first arrival on the second terrace —
+        no panel conceals it — but cold and dormant until the rite completes. A single offering platform of cut stone, a
+        shallow basin for incense or rice, and a small carved relief of Kinryu in flight above the platform. When the
+        rite wakes it, the shrine is still <em lang="ja-Latn">modest</em> — the path is freshly re-awakened and its
+        hospitality is humble.</p>
+
+        <p><strong>Canon precedent.</strong> Roadside shrines that grant boons are established in Kagekuni canon. The
+        exemplar is <strong>Kodan no Jinja</strong> in
+        @UUID[Compendium.kagekuni-assistant.lore.JournalEntry.IxWbWZoFox1yoTDs.JournalEntryPage.eAI9SnbW1RmsWOGw]{Hana}
+        province (see <code>core-cg-hana</code>): grants divine boons to supplicants for a period of days equal to three
+        times the recipient&#39;s experience level (max 60 days), one boon at a time. The Tenkū Sandō shrine follows the
+        same canonical mechanic.</p>
+
+        <p><strong>Mechanic (Sandō shrine).</strong></p>
+
+        <ul>
+
+        <li>A creature may pray at the shrine — a brief act of supplication, a coin or modest offering, a moment of
+        silence. One prayer per visit per creature.</li>
+
+        <li>The prayer grants a <strong>minor boon for a period of days equal to 3 × the recipient&#39;s character level
+        (maximum 60 days)</strong>. Boons are first-circle in scope — the same family of spell as the lower entries of
+        the Grand Hall blessing table (e.g. Aid, Bless, Longstrider, Enhance Ability of one chosen ability, Shield of
+        Faith). DM rolls or chooses; if random, use the Grand Hall blessing table rows 1-9 only (no death-ward, no
+        resistance, no advantage-on-saves entries — those are reserved for the temple&#39;s full restored state).</li>
+
+        <li><strong>One active boon per creature at a time.</strong> Re-praying before the existing boon expires
+        refreshes the duration but does not stack effects, and may not switch to a different boon — the path remembers
+        what it gave you.</li>
+
+        <li>The shrine recharges per creature per 24 hours: a creature who has used their prayer may not pray again at
+        this shrine for one full day.</li>
+
+        </ul>
+
+        <p>The shrine is the path&#39;s first gift to the pilgrims who woke it. It is small. It is real.</p>
+
+        <h2 id="kg-tone-amp-failure" data-section="tone-amp-failure">Tone &amp; Failure</h2>
+
+        <p>The puzzle is <em lang="ja-Latn">quiet</em>. Not a trap. Not timed. No failure mode — incorrect attempts
+        simply do nothing. The rite is the path&#39;s way of recognising that someone has come who can wake it; the path
+        is patient.</p>
+
+        <h2 id="kg-connected-entries" data-section="connected-entries">Connected Entries</h2>
+
+        <ul>
+
+        <li><code>loc-tenkuji-temple</code> — the gold doors lie beyond the head of the Sandō; the Grand Hall (Hiroba)
+        inside is gated on this rite.</li>
+
+        <li><code>rm-grand-hall</code> — the great statue is the twin of the Sandō&#39;s Sleeping Dragon; both share the
+        same dust-cloak mechanism if the recommended Hiroba gate is adopted.</li>
+
+        <li><em lang="ja-Latn">Pilgrim&#39;s Office of Ōryūzan</em> — new item TBD, suggested home: temple
+        Scriptorium.</li>
+
+        </ul>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 140
+    ownership:
+      default: 0
+    flags: {}
+  - _id: pKmBNGDdducc23Jm
+    _key: '!journal.pages!pOY59ySukjVhZJkf.pKmBNGDdducc23Jm'
+    name: Combat
+    type: text
+    title:
+      show: false
+      level: 2
+    image: {}
+    text:
+      format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 150
+    ownership:
+      default: 0
+    flags: {}
+  - _id: BWaER0eAdh5OCtzS
+    _key: '!journal.pages!pOY59ySukjVhZJkf.BWaER0eAdh5OCtzS'
+    name: Level 1 — Nagaji Watch
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--nagaji-squad-l1-roster" class="secret kg-secret-sealed kg-dm-brief"
+        data-kind="dm-note" data-dmrole="brief" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l1">
+
+        <p><strong>Squad</strong></p>
+
+        <p><strong>The Lower Landing watch.</strong> 6
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji Ashigaru} and 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.vWu3fJlU8NZsRRGM]{Nagaji Sōhei} (the squad leader). They hold
+        the first terrace as a roving picket, not a prepared defense — they did not expect anyone to climb in this
+        weather and are hunkered in the lee of the inner cliff, stiff and miserable with cold.</p>
+
+        <p>This is first contact and the lightest squad. It sets the tone: the path is held, but the holders are not
+        ready.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--nagaji-squad-l1-tactics" class="secret kg-secret-sealed kg-dm-encounter"
+        data-kind="dm-note" data-dmrole="encounter" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l1">
+
+        <p><strong>Running the Fight</strong></p>
+
+        <p><strong>Run it as a tide that breaks.</strong> The Ashigaru (9 HP, AC 13) drop to almost any solid hit — a
+        wave that looks frightening and then simply isn&#39;t. The Sōhei is the only real fight on this level; let it
+        rally the line and then go down hard.</p>
+
+        <ul>
+
+        <li>The 60 ft whiteout means the squad looms out of the snow rather than being spotted at range — the party may
+        take a surprise round, be surprised, or slip past entirely on a contested Stealth check (the storm cuts both
+        ways).</li>
+
+        <li>Snow-drift terraces are difficult terrain for everyone.</li>
+
+        <li><strong>Cold-blooded ruling (if used):</strong> these Nagaji are half-speed and attack at disadvantage until
+        warmed — the party should feel the storm fighting <em lang="ja-Latn">for</em> them here.</li>
+
+        <li>@UUID[Compendium.kagekuni-assistant.lore.JournalEntry.bNLqG19qg46YyZzF.JournalEntryPage.zlOMnoUeA7gPFEl1]{Yasutake
+        Mai} and the child are non-combatants; the party must screen them. That is the tension, not the Ashigaru.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 160
+    ownership:
+      default: 0
+    flags: {}
+  - _id: Jg75U7qjZlT6HijR
+    _key: '!journal.pages!pOY59ySukjVhZJkf.Jg75U7qjZlT6HijR'
+    name: Level 2 — The Island Terrace
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--nagaji-squad-l2-roster" class="secret kg-secret-sealed kg-dm-brief"
+        data-kind="dm-note" data-dmrole="brief" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l2">
+
+        <p><strong>Squad</strong></p>
+
+        <p><strong>The island terrace.</strong> 8
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji Ashigaru} and 2
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.vWu3fJlU8NZsRRGM]{Nagaji Sōhei}. Level 2 is cut so the first
+        level wraps it on three sides — anyone on it is overlooked from below and behind. The Nagaji use that: Ashigaru
+        spread along the rims, the two Sōhei holding the centre near the Sleeping Dragon basin.</p>
+
+        <p>The basin&#39;s lee is the only true windbreak on the path; that is why this squad is the most settled and
+        most alert of the lower three.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--nagaji-squad-l2-tactics" class="secret kg-secret-sealed kg-dm-encounter"
+        data-kind="dm-note" data-dmrole="encounter" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l2">
+
+        <p><strong>Running the Fight</strong></p>
+
+        <p><strong>Epic staging, still low-risk.</strong> The three-sided overlook makes this <em
+        lang="ja-Latn">look</em> like an ambush kill-zone — Ashigaru above and around the party, snow howling between.
+        It plays safe because the Ashigaru are Ashigaru: spread thin across the rims, they arrive a few at a time and
+        fold a few at a time. The two Sōhei are the fight.</p>
+
+        <ul>
+
+        <li>Let the party feel surrounded, then let them collapse one rim and watch the encirclement come apart.</li>
+
+        <li>The Sleeping Dragon basin is the warm-ish spot — both sides want it. A party that seizes the basin gets the
+        windbreak; under the cold-blooded ruling, Nagaji driven into the open lose speed and accuracy.</li>
+
+        <li>The Sandō puzzle is untouched by the fight — the basin and the dragon take no damage short of deliberate
+        vandalism.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 170
+    ownership:
+      default: 0
+    flags: {}
+  - _id: wgK00BIHJANfoQUR
+    _key: '!journal.pages!pOY59ySukjVhZJkf.wgK00BIHJANfoQUR'
+    name: Level 3 — Middle Terrace
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--nagaji-squad-l3-roster" class="secret kg-secret-sealed kg-dm-brief"
+        data-kind="dm-note" data-dmrole="brief" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l3">
+
+        <p><strong>Squad</strong></p>
+
+        <p><strong>Middle terrace.</strong> 8
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji Ashigaru}, 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.vWu3fJlU8NZsRRGM]{Nagaji Sōhei}, and 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.d1fY2hMfDH5AEG01]{Nagaji Bushi} — the first genuinely
+        dangerous Nagaji the party meets. The Bushi (AC 17, enchanted chain) leads from the front; the Sōhei anchors the
+        Ashigaru line behind it.</p>
+
+        <p>By this level the squads have heard the fighting below. This one is braced and waiting.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--nagaji-squad-l3-tactics" class="secret kg-secret-sealed kg-dm-encounter"
+        data-kind="dm-note" data-dmrole="encounter" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l3">
+
+        <p><strong>Running the Fight</strong></p>
+
+        <p><strong>The Bushi is the encounter.</strong> Everything else is texture. Run the 8 Ashigaru as a screen the
+        Bushi fights behind — they exist to soak the party&#39;s actions for a round or two so the Bushi gets clean
+        swings. Once the screen breaks, it is the party&#39;s four against one elite, which they win.</p>
+
+        <ul>
+
+        <li>The lesson is focus-fire discipline: rushing the Bushi through the screen is harder; clearing the screen
+        first is safe. Either way it <em lang="ja-Latn">feels</em> big.</li>
+
+        <li>Keep one real threat on the board — rule that the Bushi&#39;s enchanted armor wards it from the cold, so it
+        stays dangerous even if you are using the cold-blooded ruling on the rank-and-file.</li>
+
+        <li>Difficult terrain and the 60 ft cap still apply; the Bushi may loom alone out of the white ahead of its
+        squad for a nasty opening beat.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 180
+    ownership:
+      default: 0
+    flags: {}
+  - _id: 7hPAd0ftb6I1BjfA
+    _key: '!journal.pages!pOY59ySukjVhZJkf.7hPAd0ftb6I1BjfA'
+    name: Level 4 — Upper Terrace
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--nagaji-squad-l4-roster" class="secret kg-secret-sealed kg-dm-brief"
+        data-kind="dm-note" data-dmrole="brief" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l4">
+
+        <p><strong>Squad</strong></p>
+
+        <p><strong>Upper terrace.</strong> 8 @UUID[Compendium.kagekuni-assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji
+        Ashigaru}, 1 @UUID[Compendium.kagekuni-assistant.monsters.Actor.d1fY2hMfDH5AEG01]{Nagaji Bushi}, and 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.OGA1LtjRQuabbHHR]{Nagaji Kannushi} — a priest. The Kannushi
+        does not fight the front line; it stands back among the Ashigaru, mending the Bushi and the line, turning a
+        clean fight into a grind if it is left alone.</p>
+
+        <p>This is the last climbing squad before the top of the path. They know it, and they have set themselves to
+        hold.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--nagaji-squad-l4-tactics" class="secret kg-secret-sealed kg-dm-encounter"
+        data-kind="dm-note" data-dmrole="encounter" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l4">
+
+        <p><strong>Running the Fight</strong></p>
+
+        <p><strong>Two problems, one priority.</strong> The Bushi is the damage; the Kannushi is the <em
+        lang="ja-Latn">clock</em>. Left alone, the Kannushi&#39;s healing keeps the Bushi and the Ashigaru standing well
+        past their natural lifespan and the fight drags. The encounter teaches threat assessment — the squishy one at
+        the back is the one to reach.</p>
+
+        <ul>
+
+        <li>Ashigaru screen the Kannushi exactly as the L3 squad screened the Bushi; a party that has learned to clear
+        the screen does fine.</li>
+
+        <li>A mobile PC (Sun Wukong) breaking through to the Kannushi cracks the encounter open — reward it.</li>
+
+        <li>If the party is bruised from L1–L3, soften this: fewer Ashigaru, or let the Kannushi spend its turns healing
+        rather than attacking. The intent is a triumphant push to the doors, not a wall.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 190
+    ownership:
+      default: 0
+    flags: {}
+  - _id: T3ZTyknil6x4RDbg
+    _key: '!journal.pages!pOY59ySukjVhZJkf.T3ZTyknil6x4RDbg'
+    name: Level 5 — The Head of the Climb
+    type: text
+    title:
+      show: false
+      level: 3
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenku-sando--nagaji-squad-l5-roster" class="secret kg-secret-sealed kg-dm-brief"
+        data-kind="dm-note" data-dmrole="brief" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l5">
+
+        <p><strong>Squad</strong></p>
+
+        <p><strong>The head of the climb.</strong> 10
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.0U3ovqWCecMOrh9C]{Nagaji Ashigaru}, 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.d1fY2hMfDH5AEG01]{Nagaji Bushi}, and 1
+        @UUID[Compendium.kagekuni-assistant.monsters.Actor.cRhrQ7TL3vVUKO75]{Nagaji Zasu} — a head priest, and the
+        commander of the path. They hold the top of the switchback, the last ground before the temple&#39;s gold doors.
+        The Zasu stands at the head of the path; the Bushi is its shield; the Ashigaru fill the exposed terrace.</p>
+
+        <p>This is the climax of the ascent. Stage it as one: the largest squad, the highest leader, and behind them — a
+        half-seen gleam through the blizzard — the gold doors themselves.</p>
+
+
+        </section>
+
+
+        <section id="sec-loc-tenku-sando--nagaji-squad-l5-tactics" class="secret kg-secret-sealed kg-dm-encounter"
+        data-kind="dm-note" data-dmrole="encounter" data-loc="loc-tenku-sando" data-scene="nagaji-squad-l5">
+
+        <p><strong>Running the Fight</strong></p>
+
+        <p><strong>The big one — and still survivable.</strong> Ten Ashigaru is a wall of bodies; the terrace should
+        feel like the party is carving through an army. It is not an army — it is ten 9-HP soldiers, one Bushi, and one
+        Zasu, and by now the party has fought this shape four times and knows it.</p>
+
+        <ul>
+
+        <li>Open wide: Ashigaru pouring across the terrace, the Bushi forward, the Zasu commanding from the head of the
+        path. Let the first round look unwinnable, then let the Ashigaru start dropping in threes.</li>
+
+        <li>The Zasu is a commander, not a brawler — it buffs, controls, and rallies. Breaking it should visibly deflate
+        the squad (a morale beat: surviving Ashigaru waver and scatter into the storm).</li>
+
+        <li><strong>Off-ramp:</strong> the Zasu can be a <em lang="ja-Latn">parley</em> as readily as a fight — it is a
+        priest, it can be reasoned with, and the blizzard is killing its own troops too. A party with the infant in tow
+        has real leverage.</li>
+
+        <li>This is the last squad on the path; clearing the terrace opens the way on to the gold doors beyond.</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 200
     ownership:
       default: 0
     flags: {}
@@ -1022,7 +2110,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/locations.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/locations.json
     slug: loc-tenku-sando-scene-pages
     frontmatter:
       name: Tenkū Sandō

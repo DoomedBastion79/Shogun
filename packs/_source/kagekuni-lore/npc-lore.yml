@@ -7,7 +7,7 @@ pages:
     name: Akihiko Kurohana
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -165,7 +165,7 @@ pages:
     name: Arinori Senzai
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -307,7 +307,7 @@ pages:
     name: Benkei
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -488,7 +488,7 @@ pages:
     name: Commander Nokumora
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -516,7 +516,7 @@ pages:
     name: Haruto Masashige
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -687,7 +687,7 @@ pages:
     name: Hideaki Sato
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -895,7 +895,7 @@ pages:
     name: Hideo Nakamura
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1060,7 +1060,7 @@ pages:
     name: Hiroshi Nakamura
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1271,7 +1271,7 @@ pages:
     name: Hoshimori Aya
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1497,7 +1497,7 @@ pages:
     name: Kenshin Arakawa
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1527,7 +1527,7 @@ pages:
     name: Kenta Yamada
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1581,7 +1581,7 @@ pages:
     name: Masota no Gekkō
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1764,7 +1764,7 @@ pages:
     name: Noboru Takeda
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1809,7 +1809,7 @@ pages:
     name: Oshiro Masahiro
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1976,7 +1976,7 @@ pages:
     name: Raijin no Kazuhiko
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2125,7 +2125,7 @@ pages:
     name: Ren Nakamura
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2316,7 +2316,7 @@ pages:
     name: Solas Evergreen
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2501,7 +2501,7 @@ pages:
     name: Takeda Yoshinobu
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2563,7 +2563,7 @@ pages:
     name: Taro Fukomoto
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2613,7 +2613,7 @@ pages:
     name: Tatsuya Hoshino
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2669,7 +2669,7 @@ pages:
     name: Tranquil Lotus Novices
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2700,7 +2700,7 @@ pages:
     name: Tsubaki
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2729,7 +2729,7 @@ pages:
     name: Yamamoto Kenji
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2796,7 +2796,7 @@ pages:
     name: Yasutake Mai
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -2989,7 +2989,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/npcs.json
     slug: npc-lore
     frontmatter:
       name: 名簿 Meibo — NPC Lore

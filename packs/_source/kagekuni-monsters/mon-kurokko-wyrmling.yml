@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: YXvWjDq3so1sdGqm
-    _key: '!actors.items!YXvWjDq3so1sdGqm'
+    _key: '!actors.items!gmrOa9xTpOYOr3ej.YXvWjDq3so1sdGqm'
     name: Damage Immunities and Resistances
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: 4eN4r6NXLxL2Q1Ar
-    _key: '!actors.items!4eN4r6NXLxL2Q1Ar'
+    _key: '!actors.items!gmrOa9xTpOYOr3ej.4eN4r6NXLxL2Q1Ar'
     name: Shadow Stealth
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: E1uX8pHV8KG8J1Dj
-    _key: '!actors.items!E1uX8pHV8KG8J1Dj'
+    _key: '!actors.items!gmrOa9xTpOYOr3ej.E1uX8pHV8KG8J1Dj'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -214,7 +214,7 @@ items:
           activity: []
           effect: []
   - _id: 4lQe93pdzOsdkIOZ
-    _key: '!actors.items!4lQe93pdzOsdkIOZ'
+    _key: '!actors.items!gmrOa9xTpOYOr3ej.4lQe93pdzOsdkIOZ'
     name: Whisperbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -296,6 +296,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -351,6 +352,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

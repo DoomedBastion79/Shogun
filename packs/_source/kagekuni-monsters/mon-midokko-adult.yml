@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: NSCDIv1hkeSJWx5q
-    _key: '!actors.items!NSCDIv1hkeSJWx5q'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.NSCDIv1hkeSJWx5q'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: b3p1Sy1Fq34HOGdZ
-    _key: '!actors.items!b3p1Sy1Fq34HOGdZ'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.b3p1Sy1Fq34HOGdZ'
     name: Damage Immunities
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: CHjWNknYKl8uXUp7
-    _key: '!actors.items!CHjWNknYKl8uXUp7'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.CHjWNknYKl8uXUp7'
     name: Speak with Plants
     type: feat
     img: icons/svg/aura.svg
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: ZYWZnhu3RBTadZkd
-    _key: '!actors.items!ZYWZnhu3RBTadZkd'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.ZYWZnhu3RBTadZkd'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -93,7 +93,7 @@ items:
     effects: []
     flags: {}
   - _id: rSP71jfNgn5ut4R6
-    _key: '!actors.items!rSP71jfNgn5ut4R6'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.rSP71jfNgn5ut4R6'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -252,7 +252,7 @@ items:
           activity: []
           effect: []
   - _id: 4ijMO0PS8naTKE7d
-    _key: '!actors.items!4ijMO0PS8naTKE7d'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.4ijMO0PS8naTKE7d'
     name: Antler-Gore
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -411,7 +411,7 @@ items:
           activity: []
           effect: []
   - _id: 16ahHF7p0MXlrMbT
-    _key: '!actors.items!16ahHF7p0MXlrMbT'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.16ahHF7p0MXlrMbT'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -570,7 +570,7 @@ items:
           activity: []
           effect: []
   - _id: m3WmpULr82WTwpym
-    _key: '!actors.items!m3WmpULr82WTwpym'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.m3WmpULr82WTwpym'
     name: Spore Cloud (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -591,7 +591,7 @@ items:
     effects: []
     flags: {}
   - _id: JlEW8NSlo7IfWYRn
-    _key: '!actors.items!JlEW8NSlo7IfWYRn'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.JlEW8NSlo7IfWYRn'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -610,7 +610,7 @@ items:
     effects: []
     flags: {}
   - _id: OLL5zU2FmBglxRMq
-    _key: '!actors.items!OLL5zU2FmBglxRMq'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.OLL5zU2FmBglxRMq'
     name: Antler-Gore (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -629,7 +629,7 @@ items:
     effects: []
     flags: {}
   - _id: dhzcEHjFTCCzolzi
-    _key: '!actors.items!dhzcEHjFTCCzolzi'
+    _key: '!actors.items!aR3RR47e64S5Vaxt.dhzcEHjFTCCzolzi'
     name: Renew (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -708,6 +708,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -790,6 +791,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 12
+    ep: 0
+    sp: 39
+    cp: 70
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

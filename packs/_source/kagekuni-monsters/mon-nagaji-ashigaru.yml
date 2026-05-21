@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: hJGhEX1P5xntgMdX
-    _key: '!actors.items!hJGhEX1P5xntgMdX'
+    _key: '!actors.items!0U3ovqWCecMOrh9C.hJGhEX1P5xntgMdX'
     name: Minion
     type: feat
     img: icons/svg/aura.svg
@@ -39,7 +39,7 @@ items:
     effects: []
     flags: {}
   - _id: mxczM3QuA6nTwDpU
-    _key: '!actors.items!mxczM3QuA6nTwDpU'
+    _key: '!actors.items!0U3ovqWCecMOrh9C.mxczM3QuA6nTwDpU'
     name: Pack Tactics
     type: feat
     img: icons/svg/aura.svg
@@ -60,7 +60,7 @@ items:
     effects: []
     flags: {}
   - _id: eb1Iw9cNQwVqxtfP
-    _key: '!actors.items!eb1Iw9cNQwVqxtfP'
+    _key: '!actors.items!0U3ovqWCecMOrh9C.eb1Iw9cNQwVqxtfP'
     name: Yari (Spear)
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -219,7 +219,7 @@ items:
           activity: []
           effect: []
   - _id: ShsvAJ6slTRzZnAH
-    _key: '!actors.items!ShsvAJ6slTRzZnAH'
+    _key: '!actors.items!0U3ovqWCecMOrh9C.ShsvAJ6slTRzZnAH'
     name: Hankyu (Shortbow)
     type: weapon
     img: icons/weapons/bows/longbow-recurve.webp
@@ -377,6 +377,71 @@ items:
         riders:
           activity: []
           effect: []
+  - name: Hide Armor
+    system:
+      description:
+        value: ''
+        chat: ''
+      price:
+        value: 10
+        denomination: gp
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      identified: true
+      unidentified:
+        description: ''
+      container: null
+      quantity: 1
+      weight:
+        value: 12
+        units: lb
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      cover: null
+      crewed: false
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      armor:
+        value: 12
+        magicalBonus: null
+        dex: 2
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      type:
+        value: medium
+        baseItem: hide
+      properties: []
+      speed:
+        value: null
+        conditions: ''
+      strength: null
+      proficient: null
+      activities: {}
+      identifier: hide-armor
+    _id: BiP9qenfTXADb0z6
+    type: equipment
+    folder: null
+    img: icons/equipment/chest/vest-cloth-tattered-tan.webp
+    effects: []
+    sort: 400
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!0U3ovqWCecMOrh9C.BiP9qenfTXADb0z6'
 effects: []
 folder: vpQj8SzmaX00b9VK
 sort: 0
@@ -438,6 +503,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >-
@@ -495,6 +561,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 0
+    ep: 0
+    sp: 3
+    cp: 10
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

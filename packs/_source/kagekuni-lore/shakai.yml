@@ -7,7 +7,7 @@ pages:
     name: Society of Kagekuni
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -37,7 +37,7 @@ pages:
     name: The Imperial Order
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -137,7 +137,7 @@ pages:
     name: The Three Castes
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -162,7 +162,7 @@ pages:
     name: Kugai — The Elite
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -192,7 +192,7 @@ pages:
     name: Zokumin — The Commonfolk
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -227,7 +227,7 @@ pages:
     name: Burakumin — The Outcasts
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -256,7 +256,7 @@ pages:
     name: Honour
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -297,7 +297,7 @@ pages:
     name: The Peoples of Kagekuni
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -411,7 +411,7 @@ pages:
     name: The Military
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -452,7 +452,7 @@ pages:
     name: The Ronin Crisis
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -482,7 +482,7 @@ pages:
     name: Clans and Factions
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -513,7 +513,7 @@ pages:
     name: The Alliances
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -613,7 +613,7 @@ pages:
     name: Clan Kaminari
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -656,7 +656,7 @@ pages:
     name: Clan Kurohana
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -693,7 +693,7 @@ pages:
     name: Clan Gekkō (Status Uncertain)
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -730,7 +730,7 @@ pages:
     name: Genso Alliance
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -764,7 +764,7 @@ pages:
     name: Arashi Alliance
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -797,7 +797,7 @@ pages:
     name: Minor Clans
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -821,7 +821,7 @@ pages:
     name: Clan Seishin (Subject of Kaminari)
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -849,7 +849,7 @@ pages:
     name: Orders & Organisations
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -873,7 +873,7 @@ pages:
     name: Order of the Tranquil Lotus
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -902,7 +902,7 @@ pages:
     name: Order of the Sacred Grove
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -935,7 +935,7 @@ pages:
     name: Order of the Black Lily
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -962,7 +962,7 @@ pages:
     name: Shōnin-za
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1028,7 +1028,7 @@ pages:
     name: Seiju Hyōgikai
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1084,7 +1084,7 @@ pages:
     name: Magical Institutions
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1121,7 +1121,7 @@ pages:
     name: Hidden Organisations
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1149,7 +1149,7 @@ pages:
     name: Order of the Ancient Guard
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1217,7 +1217,7 @@ pages:
     name: Eikyū Yami Clan
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1239,7 +1239,7 @@ pages:
     name: Races and Peoples
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1343,7 +1343,7 @@ pages:
     name: Zirak vs Glimfyr
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -1371,7 +1371,7 @@ pages:
     name: Other Notable Clans
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -1504,7 +1504,7 @@ pages:
     name: Order of the Tranquil Lotus
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -1539,7 +1539,7 @@ pages:
     name: Order of the Sacred Grove
     type: text
     title:
-      show: true
+      show: false
       level: 3
     image: {}
     text:
@@ -1579,7 +1579,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: shakai
     frontmatter:
       name: 社会 Shakai — Society

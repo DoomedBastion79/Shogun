@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: hvXO7vzGW5OjfC4x
-    _key: '!actors.items!hvXO7vzGW5OjfC4x'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.hvXO7vzGW5OjfC4x'
     name: Amphibious
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: u1sA3Ddvx5aAU7nx
-    _key: '!actors.items!u1sA3Ddvx5aAU7nx'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.u1sA3Ddvx5aAU7nx'
     name: Legendary Resistance (3/Day)
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: myz6MMYnQKSp20jX
-    _key: '!actors.items!myz6MMYnQKSp20jX'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.myz6MMYnQKSp20jX'
     name: Damage Immunities
     type: feat
     img: icons/svg/aura.svg
@@ -74,7 +74,7 @@ items:
     effects: []
     flags: {}
   - _id: Wz3uUlCvHeZCTf1Q
-    _key: '!actors.items!Wz3uUlCvHeZCTf1Q'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.Wz3uUlCvHeZCTf1Q'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -93,7 +93,7 @@ items:
     effects: []
     flags: {}
   - _id: Yio5cifCKN4ZdfLA
-    _key: '!actors.items!Yio5cifCKN4ZdfLA'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.Yio5cifCKN4ZdfLA'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -252,7 +252,7 @@ items:
           activity: []
           effect: []
   - _id: jP9ZfvUveb1LE8sS
-    _key: '!actors.items!jP9ZfvUveb1LE8sS'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.jP9ZfvUveb1LE8sS'
     name: Claw
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -411,7 +411,7 @@ items:
           activity: []
           effect: []
   - _id: qXQY1vVOtsqFVPZi
-    _key: '!actors.items!qXQY1vVOtsqFVPZi'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.qXQY1vVOtsqFVPZi'
     name: Tail Lash
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -570,7 +570,7 @@ items:
           activity: []
           effect: []
   - _id: 46m6FdPwUhVKHoOH
-    _key: '!actors.items!46m6FdPwUhVKHoOH'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.46m6FdPwUhVKHoOH'
     name: Stormsurge (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -592,7 +592,7 @@ items:
     effects: []
     flags: {}
   - _id: qDMmhErQdzT0sTxj
-    _key: '!actors.items!qDMmhErQdzT0sTxj'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.qDMmhErQdzT0sTxj'
     name: Sea-Reading
     type: feat
     img: icons/svg/aura.svg
@@ -613,7 +613,7 @@ items:
     effects: []
     flags: {}
   - _id: feLSNPHlBZX8gr8C
-    _key: '!actors.items!feLSNPHlBZX8gr8C'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.feLSNPHlBZX8gr8C'
     name: Detect
     type: feat
     img: icons/svg/aura.svg
@@ -632,7 +632,7 @@ items:
     effects: []
     flags: {}
   - _id: Le6rXGK78SkbERJH
-    _key: '!actors.items!Le6rXGK78SkbERJH'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.Le6rXGK78SkbERJH'
     name: Tail Lash (Legendary)
     type: feat
     img: icons/svg/aura.svg
@@ -651,7 +651,7 @@ items:
     effects: []
     flags: {}
   - _id: vPKCLXzsKeGl52Se
-    _key: '!actors.items!vPKCLXzsKeGl52Se'
+    _key: '!actors.items!8CtgGkp1zwjFch5F.vPKCLXzsKeGl52Se'
     name: Far-Sight Pulse (Costs 2 Actions)
     type: feat
     img: icons/svg/aura.svg
@@ -732,6 +732,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -814,6 +815,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 13
+    ep: 0
+    sp: 42
+    cp: 75
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

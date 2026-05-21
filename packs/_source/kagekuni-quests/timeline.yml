@@ -7,7 +7,7 @@ pages:
     name: The First Emperor Ascends
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -32,7 +32,7 @@ pages:
     name: The Onyx Rebellion
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -57,7 +57,7 @@ pages:
     name: The Golden Age Begins
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -82,7 +82,7 @@ pages:
     name: The Emperor’s Highway Completed
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -107,7 +107,7 @@ pages:
     name: Stellar Decline Begins
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -131,7 +131,7 @@ pages:
     name: War of Fractured Banners
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -155,7 +155,7 @@ pages:
     name: The Dark Ages Begin — Ōryūzan Tenkū-ji Falls
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -179,7 +179,7 @@ pages:
     name: The Great Aphelion — Nadir
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -203,7 +203,7 @@ pages:
     name: The Jinshō Reformation
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -227,7 +227,7 @@ pages:
     name: Dawn — First Star Returns
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -251,7 +251,7 @@ pages:
     name: First Talents Emerge
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -275,7 +275,7 @@ pages:
     name: The Great Awakening
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -299,7 +299,7 @@ pages:
     name: Death of the Last Emperor
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -323,7 +323,7 @@ pages:
     name: War Between the Alliances Begins
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -347,7 +347,7 @@ pages:
     name: Fushichō Ashfall — Volcano Erupts
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -371,7 +371,7 @@ pages:
     name: Campaign Present — Party at Tenkū-ji Gold Doors
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -395,7 +395,7 @@ pages:
     name: Kanedōchiri (Bronze-Fall Festival)
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -430,7 +430,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/timeline.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/timeline.json
     slug: timeline
     frontmatter:
       name: Timeline

@@ -7,7 +7,7 @@ pages:
     name: History of Kagekuni
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -33,7 +33,7 @@ pages:
     name: The Ages of Kagekuni
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -114,7 +114,7 @@ pages:
     name: Age of Dragons — Before ~8000
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -156,7 +156,7 @@ pages:
     name: Era of the First Emperors — ~8000–8611
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -205,7 +205,7 @@ pages:
     name: The Golden Age — 8611–13050
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -251,7 +251,7 @@ pages:
     name: The War of Fractured Banners — 13050–13088
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -297,7 +297,7 @@ pages:
     name: The Long Dark — 13088–15642
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -343,7 +343,7 @@ pages:
     name: The Jinshō Reformation — 15642–15691
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -379,7 +379,7 @@ pages:
     name: The Era of New Discovery — 15691–15757
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -420,7 +420,7 @@ pages:
     name: The Return of Talents — 15757–16620
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -462,7 +462,7 @@ pages:
     name: The Epoch of Factional Flux — 16204–16434
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -497,7 +497,7 @@ pages:
     name: The Peasant Uprising — 16442–16461
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -528,7 +528,7 @@ pages:
     name: The Plague Campaign of Kuroyami — 16609–16616
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -566,7 +566,7 @@ pages:
     name: The Great Awakening — 16620–Present
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -601,7 +601,7 @@ pages:
     name: The Post-Imperial Crisis — 16732–Present
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -645,7 +645,7 @@ pages:
     name: Master Timeline
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -726,7 +726,7 @@ pages:
     name: Key Historical Events
     type: text
     title:
-      show: true
+      show: false
       level: 2
     image: {}
     text:
@@ -982,7 +982,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: rekishi
     frontmatter:
       name: 歴史 Rekishi — History

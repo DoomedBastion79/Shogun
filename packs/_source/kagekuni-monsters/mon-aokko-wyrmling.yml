@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/aokko-wyrmling.webp
 items:
   - _id: 9uaVVzUautzKpyrA
-    _key: '!actors.items!9uaVVzUautzKpyrA'
+    _key: '!actors.items!frZAuhC9WiVyi8EH.9uaVVzUautzKpyrA'
     name: Amphibious
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: WX0W5hF9MIoJNLwl
-    _key: '!actors.items!WX0W5hF9MIoJNLwl'
+    _key: '!actors.items!frZAuhC9WiVyi8EH.WX0W5hF9MIoJNLwl'
     name: Damage Immunities
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: cp9xAnNkzWbT4IhP
-    _key: '!actors.items!cp9xAnNkzWbT4IhP'
+    _key: '!actors.items!frZAuhC9WiVyi8EH.cp9xAnNkzWbT4IhP'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -216,7 +216,7 @@ items:
           activity: []
           effect: []
   - _id: LWJZM81JRgytuRMU
-    _key: '!actors.items!LWJZM81JRgytuRMU'
+    _key: '!actors.items!frZAuhC9WiVyi8EH.LWJZM81JRgytuRMU'
     name: Stormsurge (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -298,6 +298,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -349,6 +350,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

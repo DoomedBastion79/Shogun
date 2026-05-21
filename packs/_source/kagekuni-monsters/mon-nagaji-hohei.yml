@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: 4pfQPB9km59sRJjn
-    _key: '!actors.items!4pfQPB9km59sRJjn'
+    _key: '!actors.items!hAwrGQZm9y3ULibw.4pfQPB9km59sRJjn'
     name: Serpent Discipline
     type: feat
     img: icons/svg/aura.svg
@@ -36,7 +36,7 @@ items:
     effects: []
     flags: {}
   - _id: 3aCWwqGl3CThcoMD
-    _key: '!actors.items!3aCWwqGl3CThcoMD'
+    _key: '!actors.items!hAwrGQZm9y3ULibw.3aCWwqGl3CThcoMD'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -55,7 +55,7 @@ items:
     effects: []
     flags: {}
   - _id: 82v8OCCdiVnOtYua
-    _key: '!actors.items!82v8OCCdiVnOtYua'
+    _key: '!actors.items!hAwrGQZm9y3ULibw.82v8OCCdiVnOtYua'
     name: Yari (Spear)
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -214,7 +214,7 @@ items:
           activity: []
           effect: []
   - _id: 23ZpDGit75xvSq6z
-    _key: '!actors.items!23ZpDGit75xvSq6z'
+    _key: '!actors.items!hAwrGQZm9y3ULibw.23ZpDGit75xvSq6z'
     name: Hankyu (Shortbow)
     type: weapon
     img: icons/weapons/bows/longbow-recurve.webp
@@ -372,6 +372,72 @@ items:
         riders:
           activity: []
           effect: []
+  - name: Scale Mail
+    system:
+      description:
+        value: ''
+        chat: ''
+      price:
+        value: 50
+        denomination: gp
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      identified: true
+      unidentified:
+        description: ''
+      container: null
+      quantity: 1
+      weight:
+        value: 45
+        units: lb
+      rarity: ''
+      attunement: ''
+      attuned: false
+      equipped: true
+      cover: null
+      crewed: false
+      uses:
+        max: ''
+        spent: 0
+        recovery: []
+      armor:
+        value: 14
+        magicalBonus: null
+        dex: 2
+      hp:
+        value: null
+        max: null
+        dt: null
+        conditions: ''
+      type:
+        value: medium
+        baseItem: scalemail
+      properties:
+        - stealthDisadvantage
+      speed:
+        value: null
+        conditions: ''
+      strength: null
+      proficient: null
+      activities: {}
+      identifier: scale-mail
+    _id: BeReWemngeLt9pWL
+    type: equipment
+    folder: null
+    img: icons/equipment/chest/breastplate-banded-steel.webp
+    effects: []
+    sort: 400
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!hAwrGQZm9y3ULibw.BeReWemngeLt9pWL'
 effects: []
 folder: vpQj8SzmaX00b9VK
 sort: 0
@@ -433,6 +499,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >-
@@ -490,6 +557,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 0
+    ep: 0
+    sp: 3
+    cp: 10
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

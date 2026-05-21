@@ -21,7 +21,7 @@ ownership:
   default: 0
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/npcs.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/npcs.json
     slug: npc-akihiko-kurohana
     linkedJournalId: bNLqG19qg46YyZzF
     frontmatter:

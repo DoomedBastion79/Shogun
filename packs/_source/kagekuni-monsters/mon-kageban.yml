@@ -17,7 +17,7 @@ prototypeToken:
     attribute: null
 items:
   - _id: Lr9HXuTwsFUwXTD0
-    _key: '!actors.items!Lr9HXuTwsFUwXTD0'
+    _key: '!actors.items!ktiauQE10JXYuTV6.Lr9HXuTwsFUwXTD0'
     name: Sunlight Sensitivity
     type: feat
     img: icons/svg/aura.svg
@@ -38,7 +38,7 @@ items:
     effects: []
     flags: {}
   - _id: fZXXtjeGpwtEWKlN
-    _key: '!actors.items!fZXXtjeGpwtEWKlN'
+    _key: '!actors.items!ktiauQE10JXYuTV6.fZXXtjeGpwtEWKlN'
     name: Unusual Nature
     type: feat
     img: icons/svg/aura.svg
@@ -57,7 +57,7 @@ items:
     effects: []
     flags: {}
   - _id: CLDto3GitBN155MX
-    _key: '!actors.items!CLDto3GitBN155MX'
+    _key: '!actors.items!ktiauQE10JXYuTV6.CLDto3GitBN155MX'
     name: Multiattack
     type: feat
     img: icons/svg/aura.svg
@@ -76,7 +76,7 @@ items:
     effects: []
     flags: {}
   - _id: jMTk2nNji1Wmo0gy
-    _key: '!actors.items!jMTk2nNji1Wmo0gy'
+    _key: '!actors.items!ktiauQE10JXYuTV6.jMTk2nNji1Wmo0gy'
     name: Life Drain
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -238,7 +238,7 @@ items:
           activity: []
           effect: []
   - _id: DlQkO43TqbBWs9z5
-    _key: '!actors.items!DlQkO43TqbBWs9z5'
+    _key: '!actors.items!ktiauQE10JXYuTV6.DlQkO43TqbBWs9z5'
     name: Grave Bolt
     type: weapon
     img: icons/weapons/bows/longbow-recurve.webp
@@ -396,6 +396,563 @@ items:
         riders:
           activity: []
           effect: []
+  - name: Detect Magic
+    system:
+      description:
+        value: >-
+          <p>For the duration, you sense the presence of magical effects within 30 feet of yourself. If you sense such
+          effects, you can take the Magic action to see a faint aura around any visible creature or object in the area
+          that bears the magic, and if an effect was created by a spell, you learn the spell's school of
+          magic.</p><p>The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of
+          lead.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '10'
+        units: minute
+      target:
+        affects:
+          type: self
+          count: ''
+          choice: false
+          special: ''
+        template:
+          units: ft
+          contiguous: false
+          type: radius
+          size: '30'
+          count: ''
+      range:
+        value: ''
+        units: self
+        special: ''
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      level: 1
+      school: div
+      properties:
+        - vocal
+        - somatic
+        - concentration
+        - ritual
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: BHw91lQmVgdx39WZ
+          range:
+            override: false
+          target:
+            prompt: false
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          sort: 0
+          name: ''
+          img: ''
+          appliedEffects:
+            - BHw91lQmVgdx39WZ
+      identifier: detect-magic
+    _id: 7vqTB955aq7qB21g
+    type: spell
+    img: icons/magic/symbols/runes-carved-stone-green.webp
+    effects: []
+    folder: null
+    sort: 500
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!ktiauQE10JXYuTV6.7vqTB955aq7qB21g'
+  - name: Disguise Self
+    system:
+      description:
+        value: >-
+          <p>You make yourself—including your clothing, armor, weapons, and other belongings on your person—look
+          different until the spell ends. You can seem 1 foot shorter or taller and can appear heavier or lighter. You
+          must adopt a form that has the same basic arrangement of limbs as you have. Otherwise, the extent of the
+          illusion is up to you.</p><p>The changes wrought by this spell fail to hold up to physical inspection. For
+          example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who
+          touches it would feel nothing.</p><p>To discern that you are disguised, a creature must take the Study action
+          to inspect your appearance and succeed on an [[/check ability=int skill=inv dc=@attributes.spell.dc]] check
+          against your spell save DC.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+        revision: 2
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: hour
+      target:
+        affects:
+          choice: false
+          count: ''
+          type: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: self
+        special: ''
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      level: 1
+      school: ill
+      properties:
+        - vocal
+        - somatic
+      materials:
+        value: ''
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: SrIb7dbaZs5F4zi9
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          sort: 0
+          name: ''
+          img: ''
+          appliedEffects:
+            - SrIb7dbaZs5F4zi9
+      identifier: disguise-self
+    _id: sKaqv1BrW10t6b6B
+    type: spell
+    img: icons/equipment/head/mask-carved-bird-grey-pink.webp
+    effects: []
+    folder: null
+    sort: 600
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!ktiauQE10JXYuTV6.sKaqv1BrW10t6b6B'
+  - name: Mage Armor
+    system:
+      description:
+        value: >-
+          <p>You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13
+          plus its Dexterity modifier. The spell ends early if the target dons armor.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '8'
+        units: hour
+      target:
+        affects:
+          type: willing
+          count: '1'
+          choice: false
+          special: ''
+        template:
+          units: ''
+          contiguous: false
+          type: ''
+      range:
+        units: touch
+        special: ''
+      uses:
+        max: ''
+        recovery: []
+        spent: 0
+      level: 1
+      school: abj
+      properties:
+        - vocal
+        - somatic
+        - material
+      materials:
+        value: a piece of cured leather
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: atwill
+        prepared: true
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: utility
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: I59O22yjAwzqZOhN
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          roll:
+            formula: ''
+            name: ''
+            prompt: false
+            visible: false
+          uses:
+            spent: 0
+            recovery: []
+            max: ''
+          sort: 0
+          name: ''
+          img: ''
+          appliedEffects:
+            - I59O22yjAwzqZOhN
+      identifier: mage-armor
+    _id: Xh8zVyFdiwsiz58E
+    type: spell
+    img: icons/equipment/head/hat-pointed-buckle-leather-purple.webp
+    effects: []
+    folder: null
+    sort: 700
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!ktiauQE10JXYuTV6.Xh8zVyFdiwsiz58E'
+  - name: Fear
+    system:
+      description:
+        value: >-
+          <p>Each creature in a 30-foot Cone must succeed on a Wisdom saving throw or drop whatever it is holding and
+          have the &amp;Reference[frightened apply=false] condition for the duration.</p><p>A Frightened creature takes
+          the &amp;Reference[dash] action and moves away from you by the safest route on each of its turns unless there
+          is nowhere to move. If the creature ends its turn in a space where it doesn't have line of sight to you, the
+          creature makes a Wisdom saving throw. On a successful save, the spell ends on that creature.</p>
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          choice: false
+        template:
+          units: ft
+          type: cone
+          size: '30'
+          contiguous: false
+      range:
+        units: self
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 3
+      school: ill
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a white feather
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: ijiWLu6EJZmEJPOZ
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: fear
+    _id: dgOFq5iANxCWkq7J
+    type: spell
+    img: icons/magic/unholy/silhouette-robe-evil-glow.webp
+    effects: []
+    folder: null
+    sort: 800
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!ktiauQE10JXYuTV6.dgOFq5iANxCWkq7J'
+  - name: Hold Person
+    system:
+      description:
+        value: "<p>Choose a Humanoid that you can see within range. The target must succeed on a Wisdom saving throw or have the &amp;Reference[paralyzed apply=false] condition for the duration. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.</p><p><strong>Using a Higher-Level Spell Slot.</strong> You can target one additional Humanoid for each spell slot level above\_2.</p>"
+        chat: ''
+      source:
+        custom: ''
+        rules: '2024'
+        license: CC-BY-4.0
+        book: ''
+      activation:
+        type: action
+        condition: ''
+        value: null
+      duration:
+        value: '1'
+        units: minute
+      target:
+        affects:
+          type: creature
+          count: '@item.level - 1'
+          choice: false
+        template:
+          units: ''
+          contiguous: false
+      range:
+        value: '60'
+        units: ft
+      uses:
+        spent: 0
+        max: '1'
+        recovery:
+          - period: day
+            type: recoverAll
+      level: 2
+      school: enc
+      properties:
+        - vocal
+        - somatic
+        - material
+        - concentration
+      materials:
+        value: a straight piece of iron
+        consumed: false
+        cost: 0
+        supply: 0
+      preparation:
+        mode: innate
+        prepared: false
+      activities:
+        dnd5eactivity000:
+          _id: dnd5eactivity000
+          type: save
+          activation:
+            type: action
+            value: null
+            override: false
+          consumption:
+            targets: []
+            scaling:
+              allowed: false
+              max: ''
+          description:
+            chatFlavor: ''
+          duration:
+            units: inst
+            override: false
+          effects:
+            - _id: PklwZi3SKQ3JU2M2
+              onSave: false
+          range:
+            override: false
+          target:
+            prompt: true
+            template:
+              contiguous: false
+              units: ft
+            affects:
+              choice: false
+            override: false
+          damage:
+            onSave: half
+            parts: []
+          save:
+            ability: wis
+            dc:
+              calculation: spellcasting
+              formula: ''
+          uses:
+            spent: 0
+            recovery: []
+          sort: 0
+      identifier: hold-person
+    _id: VGH5cadF0Uc8r3KX
+    type: spell
+    img: icons/magic/control/encase-creature-humanoid-hold.webp
+    effects: []
+    folder: null
+    sort: 900
+    ownership:
+      default: 0
+    flags:
+      dnd5e:
+        riders:
+          activity: []
+          effect: []
+    _key: '!actors.items!ktiauQE10JXYuTV6.VGH5cadF0Uc8r3KX'
 effects: []
 folder: WC25A6jd8MjG6DJw
 sort: 0
@@ -457,6 +1014,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: cha
   details:
     biography:
       value: >-
@@ -513,6 +1071,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

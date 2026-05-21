@@ -42,7 +42,7 @@
     },
     {
       "name": "locations",
-      "label": "Locations",
+      "label": "DM Lore",
       "path": "packs/kagekuni-locations",
       "type": "JournalEntry",
       "system": "dnd5e",
@@ -231,6 +231,12 @@
         "id": "hexplorer",
         "type": "module",
         "reason": "Adds hex-grid exploration overlay used by shipped scene flags."
+      },
+      {
+        "id": "limits",
+        "type": "module",
+        "manifest": "https://github.com/dev7355608/limits/releases/latest/download/module.json",
+        "reason": "Powers the limits.limitRange region behavior used to cap vision range on shipped scenes."
       }
     ]
   },

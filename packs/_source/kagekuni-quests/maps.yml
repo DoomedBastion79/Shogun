@@ -7,7 +7,7 @@ pages:
     name: Maps
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -30,7 +30,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/quests.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/quests.json
     slug: maps
     frontmatter:
       name: Maps

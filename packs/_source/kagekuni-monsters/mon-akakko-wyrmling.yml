@@ -19,7 +19,7 @@ prototypeToken:
     src: modules/kagekuni-assistant/assets/monsters/akakko-wyrmling.webp
 items:
   - _id: T208lhI36Ltym1Sk
-    _key: '!actors.items!T208lhI36Ltym1Sk'
+    _key: '!actors.items!o63dYhqlbKpG3Zoh.T208lhI36Ltym1Sk'
     name: Heated Body
     type: feat
     img: icons/svg/aura.svg
@@ -40,7 +40,7 @@ items:
     effects: []
     flags: {}
   - _id: ud8ZRBZpwp38rsGz
-    _key: '!actors.items!ud8ZRBZpwp38rsGz'
+    _key: '!actors.items!o63dYhqlbKpG3Zoh.ud8ZRBZpwp38rsGz'
     name: Bite
     type: weapon
     img: icons/weapons/swords/sword-katana.webp
@@ -199,7 +199,7 @@ items:
           activity: []
           effect: []
   - _id: xOea9iSVf4Rxb9cy
-    _key: '!actors.items!xOea9iSVf4Rxb9cy'
+    _key: '!actors.items!o63dYhqlbKpG3Zoh.xOea9iSVf4Rxb9cy'
     name: Cinderbreath (Recharge 5-6)
     type: feat
     img: icons/svg/aura.svg
@@ -280,6 +280,7 @@ system:
       truesight: 0
       units: ft
       special: ''
+    spellcasting: ''
   details:
     biography:
       value: >
@@ -332,6 +333,12 @@ system:
     ci:
       value: []
       custom: ''
+  currency:
+    pp: 0
+    gp: 2
+    ep: 0
+    sp: 9
+    cp: 20
 _stats:
   systemId: dnd5e
   systemVersion: 5.3.1

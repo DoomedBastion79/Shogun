@@ -7,7 +7,7 @@ pages:
     name: Overview
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -49,7 +49,7 @@ pages:
     name: Districts / Landmarks
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -81,7 +81,7 @@ pages:
     name: Key Figures
     type: text
     title:
-      show: true
+      show: false
       level: 1
     image: {}
     text:
@@ -208,7 +208,7 @@ ownership:
   default: 2
 flags:
   assistant:
-    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/canon/world.json
+    sourcePath: /home/andy/Documents/Gemini_Games/Shogun/.claude/worktrees/exciting-kare-10764f/canon/world.json
     slug: st-akatsuki
     frontmatter:
       name: Akatsuki
