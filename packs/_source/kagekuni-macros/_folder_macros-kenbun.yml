@@ -1,0 +1,11 @@
+_id: EO4vXKBcUghpqrxN
+_key: '!folders!EO4vXKBcUghpqrxN'
+name: 見聞 Kenbun
+type: Macro
+folder: null
+sorting: m
+sort: 40
+color: '#7c3aed'
+flags:
+  assistant:
+    folderPath: macros/kenbun

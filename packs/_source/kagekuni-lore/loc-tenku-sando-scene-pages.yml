@@ -1,10 +1,10 @@
 _id: pOY59ySukjVhZJkf
 _key: '!journal!pOY59ySukjVhZJkf'
-name: Tenkū Sandō — Player Pages
+name: Tenkū Sandō — 見聞 Kenbun
 pages:
-  - _id: tRQA8DJqC4dGbiTE
-    _key: '!journal.pages!pOY59ySukjVhZJkf.tRQA8DJqC4dGbiTE'
-    name: The Celestial Approach
+  - _id: rxqpatVkhWtzJY9r
+    _key: '!journal.pages!pOY59ySukjVhZJkf.rxqpatVkhWtzJY9r'
+    name: The Switchback
     type: text
     title:
       show: true
@@ -12,9 +12,34 @@ pages:
     image: {}
     text:
       format: 1
+      content: ''
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 10
+    ownership:
+      default: 0
+    flags: {}
+  - _id: HlQWN63slDjdsXo0
+    _key: '!journal.pages!pOY59ySukjVhZJkf.HlQWN63slDjdsXo0'
+    name: The Celestial Approach
+    type: text
+    title:
+      show: true
+      level: 2
+    image: {}
+    text:
+      format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--celestial-approach-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="celestial-approach">
+        <section id="sec-loc-tenku-sando--celestial-approach-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando"
+        data-scene="celestial-approach">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Read with quiet gravity — slow and even, as though reading an old inscription aloud for the first time. Pause
         after the second sentence and let the image of the five levels sit before finishing on the gold.</p>
@@ -94,23 +119,25 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 10
+    sort: 20
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: pmbT824faKPuZQTm
-    _key: '!journal.pages!pOY59ySukjVhZJkf.pmbT824faKPuZQTm'
+  - _id: L2XWRT8Q01A6gAFC
+    _key: '!journal.pages!pOY59ySukjVhZJkf.L2XWRT8Q01A6gAFC'
     name: A Watcher Head
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--watcher-head-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="watcher-head">
+        <section id="sec-loc-tenku-sando--watcher-head-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando" data-scene="watcher-head">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Solemn and unhurried. Read the first sentence slowly — give the scale a beat to land. Pick up a little for
         the second sentence (the weathering detail), then slow again for the glow. On the final sentence, drop almost to
@@ -200,23 +227,25 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 20
+    sort: 30
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: mowe0y3cqxhLfaJH
-    _key: '!journal.pages!pOY59ySukjVhZJkf.mowe0y3cqxhLfaJH'
+  - _id: uFkD62p24VyZid6x
+    _key: '!journal.pages!pOY59ySukjVhZJkf.uFkD62p24VyZid6x'
     name: The Threshold Head
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--threshold-head-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="threshold-head">
+        <section id="sec-loc-tenku-sando--threshold-head-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando" data-scene="threshold-head">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Set a slower, quieter pace — almost conspiratorial. The party has just spent the whole ascent watching heads
         kindle warmly as they passed; lean into the contrast. Read the first three sentences steadily, then pause a full
@@ -325,23 +354,25 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 30
+    sort: 40
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: sYemZffsidVExrrW
-    _key: '!journal.pages!pOY59ySukjVhZJkf.sYemZffsidVExrrW'
+  - _id: ln4iMaetg3yVsutC
+    _key: '!journal.pages!pOY59ySukjVhZJkf.ln4iMaetg3yVsutC'
     name: The Roadside Shrine
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--roadside-shrine-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+        <section id="sec-loc-tenku-sando--roadside-shrine-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando" data-scene="roadside-shrine">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Read this quietly, almost offhandedly — the shrine is easy to miss. Slow down on the final sentence and let
         the silence do the work. The point is its presence without warmth: something that was meant to answer, and
@@ -425,23 +456,25 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 40
+    sort: 50
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: 6C77BaUvuXD7khzo
-    _key: '!journal.pages!pOY59ySukjVhZJkf.6C77BaUvuXD7khzo'
+  - _id: TmxNVGDMwVLewLlR
+    _key: '!journal.pages!pOY59ySukjVhZJkf.TmxNVGDMwVLewLlR'
     name: The Sleeping Dragon
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--sleeping-dragon-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+        <section id="sec-loc-tenku-sando--sleeping-dragon-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando" data-scene="sleeping-dragon">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Solemn, unhurried pace — let each sentence settle before the next. When you reach the final sentence, slow
         down further and drop your voice; the stillness is the point. Do not explain what the shape is; let the players
@@ -539,23 +572,25 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 50
+    sort: 60
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: f9HEzw2xs2fWJv9R
-    _key: '!journal.pages!pOY59ySukjVhZJkf.f9HEzw2xs2fWJv9R'
+  - _id: pIUKdnsZ94CEJPCn
+    _key: '!journal.pages!pOY59ySukjVhZJkf.pIUKdnsZ94CEJPCn'
     name: The Eldest Pedestal
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--pedestal-eldest-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+        <section id="sec-loc-tenku-sando--pedestal-eldest-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-eldest">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Solemn and unhurried — read this one slowly, with a small pause between the vow line and the name. When you
         reach the final sentence about the cold in the grooves, drop your voice just slightly and let it sit for a beat
@@ -660,23 +695,26 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 60
+    sort: 70
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: 4hzu7luvdBsI9MfR
-    _key: '!journal.pages!pOY59ySukjVhZJkf.4hzu7luvdBsI9MfR'
+  - _id: kfdKAORM9sm6lI51
+    _key: '!journal.pages!pOY59ySukjVhZJkf.kfdKAORM9sm6lI51'
     name: The Mourner's Pedestal
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--pedestal-mourner-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-mourner">
+        <section id="sec-loc-tenku-sando--pedestal-mourner-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando"
+        data-scene="pedestal-mourner">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Quiet and deliberate. Read the vow line slowly, as if the words are still settling into the stone. Let the
         final sentence — the cold-that-is-not-quite-cold — trail off unhurried. No dramatic lift; this is a patient
@@ -764,23 +802,26 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 70
+    sort: 80
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: 5flAI7pHqXEabFgS
-    _key: '!journal.pages!pOY59ySukjVhZJkf.5flAI7pHqXEabFgS'
+  - _id: dz2uV5Kj1jU4Zzqb
+    _key: '!journal.pages!pOY59ySukjVhZJkf.dz2uV5Kj1jU4Zzqb'
     name: The Faithful Pedestal
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--pedestal-faithful-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-faithful">
+        <section id="sec-loc-tenku-sando--pedestal-faithful-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando"
+        data-scene="pedestal-faithful">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Solemn and unhurried. Pause after describing the fallen stone — let the contrast land before the standing
         pillar appears. Keep your voice level and even throughout; slow only when you read the two carved lines, giving
@@ -860,23 +901,26 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 80
+    sort: 90
     ownership:
-      default: 2
+      default: 0
     flags: {}
-  - _id: oh1L0Oa5zQNQoCYn
-    _key: '!journal.pages!pOY59ySukjVhZJkf.oh1L0Oa5zQNQoCYn'
+  - _id: Hm54rJ5N2i5fGOeF
+    _key: '!journal.pages!pOY59ySukjVhZJkf.Hm54rJ5N2i5fGOeF'
     name: The Topmost Pedestal
     type: text
     title:
       show: true
-      level: 1
+      level: 2
     image: {}
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando--pedestal-topmost-delivery" class="secret kg-secret-sealed kg-delivery"
-        data-kind="delivery" data-loc="loc-tenku-sando" data-scene="pedestal-topmost">
+        <section id="sec-loc-tenku-sando--pedestal-topmost-delivery" class="secret kg-secret-sealed kg-dm-delivery
+        kg-delivery" data-kind="dm-note" data-dmrole="delivery" data-loc="loc-tenku-sando"
+        data-scene="pedestal-topmost">
+
+        <p><strong>Delivery</strong></p>
 
         <p>Solemn and unhurried. The doors are already in sight — frame this as a beat of near-arrival, not urgency.
         Read the vow and the pilgrim name at carved-stone pace: formal, a touch slow. Let the final sentence land
@@ -968,9 +1012,9 @@ pages:
     src: null
     system: {}
     category: null
-    sort: 90
+    sort: 100
     ownership:
-      default: 2
+      default: 0
     flags: {}
 folder: oLYAA6hESLi5b8aw
 sort: 0

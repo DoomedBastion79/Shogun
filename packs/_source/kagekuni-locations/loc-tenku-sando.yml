@@ -1553,9 +1553,9 @@ pages:
     ownership:
       default: 0
     flags: {}
-  - _id: cgxxfyX3gXuNEPGp
-    _key: '!journal.pages!4vbzgHy9ecixxgnw.cgxxfyX3gXuNEPGp'
-    name: Player Scene Pages
+  - _id: gnwUEtS5QbUnC8nN
+    _key: '!journal.pages!4vbzgHy9ecixxgnw.gnwUEtS5QbUnC8nN'
+    name: Scene Assembly
     type: text
     title:
       show: true
@@ -1564,139 +1564,124 @@ pages:
     text:
       format: 1
       content: >-
-        <section id="sec-loc-tenku-sando-scene-manifest" class="secret kg-secret-sealed kg-sealed-vtt-checklist"
-        data-kind="vtt-checklist" data-label="Player Scene Pages">
+        <section id="sec-loc-tenku-sando-scene-assembly" class="secret kg-secret-sealed kg-sealed-vtt-checklist"
+        data-kind="vtt-checklist" data-label="Scene Assembly">
 
-        <p>Player-facing observation pages for this location live in the <strong>Kagekuni — Core Lore</strong>
-        compendium, under the 見聞 Kenbun folder. Pin each scene note on the map to the matching journal page.</p>
+        <p>FoundryVTT scene-setup checklist for this location. Tick each item as the scene is built — this is the single
+        source for scene assembly.</p>
 
-        <table>
+        <p><strong>Map &amp; environment</strong></p>
 
-        <thead>
+        <ul>
 
-        <tr>
+        <li class="kg-task" data-done="false" data-task-key="ca383d16">Background image placed and scaled</li>
 
-        <th>Player Page</th>
+        <li class="kg-task" data-done="false" data-task-key="e3d9133a">Grid size &amp; alignment configured</li>
 
-        <th>Suggested Pin Label</th>
+        <li class="kg-task" data-done="false" data-task-key="659c0275">Scene darkness / global illumination set</li>
 
-        <th>Secrets</th>
+        <li class="kg-task" data-done="false" data-task-key="d92fb7e7">Ambient audio set (if any)</li>
 
-        <th>Related</th>
+        </ul>
 
-        </tr>
+        <p><strong>Walls &amp; lighting — per room</strong></p>
 
-        </thead>
+        <p><em lang="ja-Latn">The Switchback</em></p>
 
-        <tbody><tr>
+        <ul>
 
-        <td>The Celestial Approach</td>
+        <li class="kg-task" data-done="false"
+        data-task-key="e2826bde">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.YxYmvzyY6YC0G1pl]{Level
+        1 — The Lower Landing} — walls &amp; doors</li>
 
-        <td>Lower Landing</td>
+        <li class="kg-task" data-done="false" data-task-key="747887d1">Level 1 — The Lower Landing — light sources</li>
 
-        <td>3</td>
+        <li class="kg-task" data-done="false"
+        data-task-key="2e07fccd">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.P4KiM3hcZCf0wXIw]{Level
+        2 — The Sleeping Dragon} — walls &amp; doors</li>
 
-        <td>0</td>
+        <li class="kg-task" data-done="false" data-task-key="adcf55f2">Level 2 — The Sleeping Dragon — light
+        sources</li>
 
-        </tr>
+        <li class="kg-task" data-done="false"
+        data-task-key="dcc3ff62">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.lwghtAvAAannPt2e]{Level
+        3 — Middle Terrace} — walls &amp; doors</li>
 
-        <tr>
+        <li class="kg-task" data-done="false" data-task-key="de73db75">Level 3 — Middle Terrace — light sources</li>
 
-        <td>A Watcher Head</td>
+        <li class="kg-task" data-done="false"
+        data-task-key="000633be">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.eN6t1N5neprA5TtN]{Level
+        4 — Upper Terrace} — walls &amp; doors</li>
 
-        <td>Watcher Head</td>
+        <li class="kg-task" data-done="false" data-task-key="c0655531">Level 4 — Upper Terrace — light sources</li>
 
-        <td>3</td>
+        <li class="kg-task" data-done="false"
+        data-task-key="22dc902e">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.4vbzgHy9ecixxgnw.JournalEntryPage.725V9bpOQRBu3Tkk]{Level
+        5 — The Gold-Door Court} — walls &amp; doors</li>
 
-        <td>0</td>
+        <li class="kg-task" data-done="false" data-task-key="913278c1">Level 5 — The Gold-Door Court — light
+        sources</li>
 
-        </tr>
+        </ul>
 
-        <tr>
+        <p><strong>Regions, triggers &amp; hazards</strong></p>
 
-        <td>The Threshold Head</td>
+        <ul>
 
-        <td>Threshold Head</td>
+        <li class="kg-task" data-done="false" data-task-key="7ea10359">Movement/trigger regions placed (see room DM
+        notes for traps &amp; hazards)</li>
 
-        <td>4</td>
+        </ul>
 
-        <td>1</td>
+        <p><strong>Encounters</strong></p>
 
-        </tr>
+        <ul>
 
-        <tr>
+        <li class="kg-task" data-done="false" data-task-key="51b28f60">Encounter actors placed as hidden tokens (see
+        encounter sections in this journal)</li>
 
-        <td>The Roadside Shrine</td>
+        </ul>
 
-        <td>Roadside Shrine</td>
+        <p><strong>見聞 Kenbun pins</strong> — pin one scene note per page (Core Lore → 見聞 Kenbun):</p>
 
-        <td>3</td>
+        <ul>
 
-        <td>0</td>
+        <li class="kg-task" data-done="false" data-task-key="2cdaf8ad">&quot;Lower Landing&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        </tr>
+        <li class="kg-task" data-done="false" data-task-key="346d5f97">&quot;Watcher Head&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        <tr>
+        <li class="kg-task" data-done="false" data-task-key="105d251a">&quot;Threshold Head&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        <td>The Sleeping Dragon</td>
+        <li class="kg-task" data-done="false" data-task-key="507fdf23">&quot;Roadside Shrine&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        <td>The Sleeping Dragon</td>
+        <li class="kg-task" data-done="false" data-task-key="b067d5b4">&quot;The Sleeping Dragon&quot; → Kenbun page
+        (floor: the-switchback)</li>
 
-        <td>4</td>
+        <li class="kg-task" data-done="false" data-task-key="0c7cd0b8">&quot;Stone Pedestal&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        <td>0</td>
+        <li class="kg-task" data-done="false" data-task-key="294beed5">&quot;The Mourner&#39;s Pedestal&quot; → Kenbun
+        page (floor: the-switchback)</li>
 
-        </tr>
+        <li class="kg-task" data-done="false" data-task-key="0c7cd0b8">&quot;Stone Pedestal&quot; → Kenbun page (floor:
+        the-switchback)</li>
 
-        <tr>
+        <li class="kg-task" data-done="false" data-task-key="795ecc0b">&quot;Topmost Pedestal&quot; → Kenbun page
+        (floor: the-switchback)</li>
 
-        <td>The Eldest Pedestal</td>
+        </ul>
 
-        <td>Stone Pedestal</td>
+        <p><strong>Final</strong></p>
 
-        <td>4</td>
+        <ul>
 
-        <td>0</td>
+        <li class="kg-task" data-done="false" data-task-key="46d21192">Scene exported for /scene-import</li>
 
-        </tr>
-
-        <tr>
-
-        <td>The Mourner&#39;s Pedestal</td>
-
-        <td>The Mourner&#39;s Pedestal</td>
-
-        <td>3</td>
-
-        <td>0</td>
-
-        </tr>
-
-        <tr>
-
-        <td>The Faithful Pedestal</td>
-
-        <td>Stone Pedestal</td>
-
-        <td>3</td>
-
-        <td>0</td>
-
-        </tr>
-
-        <tr>
-
-        <td>The Topmost Pedestal</td>
-
-        <td>Topmost Pedestal</td>
-
-        <td>4</td>
-
-        <td>0</td>
-
-        </tr>
-
-        </tbody></table>
+        </ul>
 
 
         </section>

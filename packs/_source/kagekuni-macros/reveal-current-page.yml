@@ -1,0 +1,48 @@
+_id: SLUdOFEzmkyfXYZP
+_key: '!macros!SLUdOFEzmkyfXYZP'
+name: Reveal Current Page
+type: script
+author: XpREWoanxMMNbVJq
+img: icons/svg/eye.svg
+scope: global
+folder: EO4vXKBcUghpqrxN
+sort: 10
+command: |-
+  const OBSERVER = CONST.DOCUMENT_OWNERSHIP_LEVELS.OBSERVER;
+  const NONE = CONST.DOCUMENT_OWNERSHIP_LEVELS.NONE;
+
+  // Foremost open journal sheet.
+  const sheets = Object.values(ui.windows).filter(
+    (w) => w instanceof JournalSheet || w.document?.documentName === "JournalEntry",
+  );
+  const sheet = sheets.sort(
+    (a, b) => (b.position?.zIndex ?? 0) - (a.position?.zIndex ?? 0),
+  )[0];
+
+  if (!sheet) {
+    ui.notifications.warn("Reveal Current Page: open a journal entry first.");
+    return;
+  }
+
+  const entry = sheet.document ?? sheet.object;
+  const pages = entry?.pages?.contents ?? [];
+  const page = pages[sheet.pageIndex ?? 0];
+
+  if (!page) {
+    ui.notifications.warn("Reveal Current Page: could not identify the current page.");
+    return;
+  }
+
+  const current = page.ownership?.default ?? NONE;
+  const next = current >= OBSERVER ? NONE : OBSERVER;
+  await page.update({ "ownership.default": next });
+
+  ui.notifications.info(
+    `「${page.name}」 → ${next >= OBSERVER ? "revealed to players" : "hidden from players"}`,
+  );
+flags:
+  assistant:
+    folderPath: macros/kenbun
+ownership:
+  default: 0
+  XpREWoanxMMNbVJq: 3

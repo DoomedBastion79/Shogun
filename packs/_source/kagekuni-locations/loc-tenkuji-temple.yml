@@ -11387,6 +11387,169 @@ pages:
     ownership:
       default: 0
     flags: {}
+  - _id: a9PHh74BI2CA9Gr2
+    _key: '!journal.pages!TNV9pLqaBUzySDRl.a9PHh74BI2CA9Gr2'
+    name: Scene Assembly
+    type: text
+    title:
+      show: true
+      level: 1
+    image: {}
+    text:
+      format: 1
+      content: >-
+        <section id="sec-loc-tenkuji-temple-scene-assembly" class="secret kg-secret-sealed kg-sealed-vtt-checklist"
+        data-kind="vtt-checklist" data-label="Scene Assembly">
+
+        <p>FoundryVTT scene-setup checklist for this location. Tick each item as the scene is built — this is the single
+        source for scene assembly.</p>
+
+        <p><strong>Map &amp; environment</strong></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false" data-task-key="ca383d16">Background image placed and scaled</li>
+
+        <li class="kg-task" data-done="false" data-task-key="e3d9133a">Grid size &amp; alignment configured</li>
+
+        <li class="kg-task" data-done="false" data-task-key="659c0275">Scene darkness / global illumination set</li>
+
+        <li class="kg-task" data-done="false" data-task-key="d92fb7e7">Ambient audio set (if any)</li>
+
+        </ul>
+
+        <p><strong>Walls &amp; lighting — per room</strong></p>
+
+        <p><em lang="ja-Latn">Floor 1</em></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="ed2f6047">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tA2Zh6Zwrsk0Erp4]{The
+        South Entrance — Kinko no Mon} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="4e521464">The South Entrance — Kinko no Mon — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="ca4b0ee8">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.ROUCwkeivh3ynJwZ]{Central
+        Hallway Cross — Watariro} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="de779b83">Central Hallway Cross — Watariro — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="85d473c7">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.tqUpQPP3v45gUDzI]{The
+        Grand Hall — Hiroba} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="b1c4efe4">The Grand Hall — Hiroba — light sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="eee9628d">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.vHmJ2aJS7VNAPGtU]{The
+        Inner Sanctum — Naijin} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="92a75832">The Inner Sanctum — Naijin — light sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="e7ff0200">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.a7ZZ1hbEPuqdyu1K]{The
+        Star Shrine — Okuden} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="db3e607b">The Star Shrine — Okuden — light sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="22f45d5e">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.i02GkWoJregovtsx]{The
+        Mess Hall and Kitchen — Shokudo} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="99866151">The Mess Hall and Kitchen — Shokudo — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="02a56d6f">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.UszT452PWSGQ99aV]{The
+        Dormitories — Bo} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="1acea4cc">The Dormitories — Bo — light sources</li>
+
+        </ul>
+
+        <p><em lang="ja-Latn">Floor 2</em></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="2ce58dbe">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.skchA3TFidqWv49y]{Tenkairō
+        — The Celestial Ring} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="c0a30f31">Tenkairō — The Celestial Ring — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="0a53981b">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.xS2YTMiLzWHtvD4E]{Hoshikagami
+        no Ma — Chamber of the Star Mirror} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="16c29328">Hoshikagami no Ma — Chamber of the Star Mirror —
+        light sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="b1e63825">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.Hu1v4jsNvCeifzhe]{The
+        Approach — Hallway and Brood Guardian} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="db04688a">The Approach — Hallway and Brood Guardian — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="21672e03">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.MuI2yrE4dK8UK47r]{The
+        Brood Sanctum — Buntoshi no Seiiki} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="99336330">The Brood Sanctum — Buntoshi no Seiiki — light
+        sources</li>
+
+        <li class="kg-task" data-done="false"
+        data-task-key="85361f68">@UUID[Compendium.kagekuni-assistant.locations.JournalEntry.TNV9pLqaBUzySDRl.JournalEntryPage.3Asg4CgxS3SsrwP4]{Kyōzō
+        — The Hidden Archives} — walls &amp; doors</li>
+
+        <li class="kg-task" data-done="false" data-task-key="4a1aa403">Kyōzō — The Hidden Archives — light sources</li>
+
+        </ul>
+
+        <p><strong>Regions, triggers &amp; hazards</strong></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false" data-task-key="7ea10359">Movement/trigger regions placed (see room DM
+        notes for traps &amp; hazards)</li>
+
+        </ul>
+
+        <p><strong>Encounters</strong></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false" data-task-key="51b28f60">Encounter actors placed as hidden tokens (see
+        encounter sections in this journal)</li>
+
+        </ul>
+
+        <p><strong>Final</strong></p>
+
+        <ul>
+
+        <li class="kg-task" data-done="false" data-task-key="46d21192">Scene exported for /scene-import</li>
+
+        </ul>
+
+
+        </section>
+      markdown: ''
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    category: null
+    sort: 280
+    ownership:
+      default: 0
+    flags: {}
 folder: HzSqOZ2DtITdMwjw
 sort: 0
 ownership:

@@ -1,0 +1,43 @@
+_id: 85gMRATcqxzDhUhz
+_key: '!macros!85gMRATcqxzDhUhz'
+name: Session Export
+type: script
+author: XpREWoanxMMNbVJq
+img: icons/svg/book.svg
+scope: global
+folder: EO4vXKBcUghpqrxN
+sort: 20
+command: |-
+  const HOURS = 16; // chat-log window — covers a long session
+  const cutoff = Date.now() - HOURS * 3600 * 1000;
+
+  const bundle = {
+    exportedAt: new Date().toISOString(),
+    world: game.world?.id ?? null,
+    journals: game.journal.contents.map((j) => j.toObject()),
+    actors: game.actors.contents
+      .filter((a) => a.hasPlayerOwner && a.type === "character")
+      .map((a) => a.toObject()),
+    messages: game.messages.contents
+      .filter((m) => (m.timestamp ?? 0) >= cutoff)
+      .map((m) => m.toObject()),
+  };
+
+  const stamp = new Date().toISOString().slice(0, 10);
+  const save = foundry?.utils?.saveDataToFile ?? saveDataToFile;
+  save(
+    JSON.stringify(bundle, null, 2),
+    "text/json",
+    `kagekuni-session-export-${stamp}.json`,
+  );
+
+  ui.notifications.info(
+    `Session export: ${bundle.journals.length} journals, ${bundle.actors.length} PCs, ` +
+      `${bundle.messages.length} chat messages (last ${HOURS}h).`,
+  );
+flags:
+  assistant:
+    folderPath: macros/kenbun
+ownership:
+  default: 0
+  XpREWoanxMMNbVJq: 3

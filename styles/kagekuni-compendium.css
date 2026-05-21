@@ -228,11 +228,54 @@
   background: rgba(156, 163, 175, 0.10);
   font-style: italic;
 }
-.journal-entry-page section.secret[data-kind="delivery"]::before {
+.journal-entry-page section.secret[data-kind="delivery"]::before,
+.journal-entry-page section.secret[data-dmrole="delivery"]::before {
   content: "delivery";
   color: #cbd5e1;
   background: rgba(156, 163, 175, 0.16);
   border-color: rgba(156, 163, 175, 0.45);
+}
+
+/* DM notes on a 見聞 Kenbun scene page. A dm-note is a GM-only sealed block
+   carrying a dmRole — delivery/brief/mechanics/encounter — that sets both the
+   within-beat order and this visual treatment. delivery reuses .kg-delivery
+   above; the other three get their own accent so the GM reads each at a
+   glance: brief = orientation (indigo), mechanics = adjudication (amber),
+   encounter = combat (red). */
+.kg-dm-brief {
+  border-left-color: #818cf8;
+  background: rgba(129, 140, 248, 0.10);
+}
+.kg-dm-brief > p:first-child strong { color: #a5b4fc; }
+.journal-entry-page section.secret[data-dmrole="brief"]::before {
+  content: "brief";
+  color: #c7d2fe;
+  background: rgba(129, 140, 248, 0.16);
+  border-color: rgba(129, 140, 248, 0.45);
+}
+
+.kg-dm-mechanics {
+  border-left-color: #d4a72c;
+  background: rgba(212, 167, 44, 0.10);
+}
+.kg-dm-mechanics > p:first-child strong { color: #e3c068; }
+.journal-entry-page section.secret[data-dmrole="mechanics"]::before {
+  content: "mechanics";
+  color: #f0d999;
+  background: rgba(212, 167, 44, 0.16);
+  border-color: rgba(212, 167, 44, 0.45);
+}
+
+.kg-dm-encounter {
+  border-left-color: #d46a6a;
+  background: rgba(212, 106, 106, 0.10);
+}
+.kg-dm-encounter > p:first-child strong { color: #e08e8e; }
+.journal-entry-page section.secret[data-dmrole="encounter"]::before {
+  content: "encounter";
+  color: #efb3b3;
+  background: rgba(212, 106, 106, 0.16);
+  border-color: rgba(212, 106, 106, 0.45);
 }
 
 /* Revealed secret — a secret block authored in (or left in) the revealed
